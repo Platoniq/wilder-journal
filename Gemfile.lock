@@ -8,12 +8,14 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: fdfaf1fe6cfbfa5cdb7613b35439feab6a3d0781
+  revision: 446524984bab1dac58dd5db58c895578dcd7e20e
   specs:
-    jekyll-theme-platoniq-journal (0.0.6)
+    jekyll-theme-platoniq-journal (0.0.7)
       jekyll (~> 4.2)
+      jekyll-data
       jekyll-plugin-platoniq-journal (~> 0.0.1)
       jekyll-seo-tag (~> 2.6)
+      jekyll_version_plugin
 
 GEM
   remote: https://rubygems.org/
@@ -48,6 +50,8 @@ GEM
       terminal-table (~> 2.0)
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
+    jekyll-data (1.1.1)
+      jekyll (>= 3.3, < 5.0.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-redirect-from (0.16.0)
@@ -60,6 +64,7 @@ GEM
       listen (~> 3.0)
     jekyll-youtube (1.0.0)
       jekyll
+    jekyll_version_plugin (2.0.0)
     kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)

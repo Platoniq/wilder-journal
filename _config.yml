@@ -16,7 +16,7 @@ twitter:
 # Build settings
 theme: jekyll-theme-platoniq-journal
 timezone: ES
-permalink: /:categories/:title/
+permalink: /:path/:categories/:title/
 
 collections:
   authors:
@@ -42,6 +42,15 @@ defaults:
       type: ""
     values:
       layout: "default"
+      locale: en
+  - scope:
+      path: "*/en/*"
+    values:
+      locale: "en"
+  - scope:
+      path: "*/es/*"
+    values:
+      locale: "es"
   - scope:
       type: journals
     values:
@@ -55,7 +64,7 @@ defaults:
       type: posts
     values:
       layout: "article"
-      author: "anon"
+      author: "anonymous"
 
   - scope:
       path: "_posts/*/blue-prints"
