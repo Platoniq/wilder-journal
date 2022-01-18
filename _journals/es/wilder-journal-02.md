@@ -2,7 +2,6 @@
 journal-num: 2
 title: Journal dos
 permalink: es/journal-two
-draft: true
 date: 2022-01-04T11:42:25.401Z
 uid: journal-2
 locale: es

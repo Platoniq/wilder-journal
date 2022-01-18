@@ -2,12 +2,14 @@
 layout: article
 title: This is the opening article!
 date: 2022-01-14T19:20:33.431Z
-uid: "{{slug}}"
+uid: j3-opening
 author: anonymous
 journal-num: 3
+article-order: 1
+category: deep-dives
 ---
-Muahahahahha!
 
-![Hello!](/media/uploads/add-a-space-to-a-space.png "the image title!")
+Is this an interview?
 
-More text down here!
+- Yes
+- No
