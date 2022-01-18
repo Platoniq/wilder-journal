@@ -1,5 +1,39 @@
 # Platoniq Journal
 
+## Development
+
+To use [`netlify-cms`](https://www.netlifycms.org/docs/intro) in local
+
+add to `admin/config.yml`:
+
+    local_backend: true
+
+In a terminal run:
+
+    npx netlify-cms-proxy-server
+
+and in another terminal serve `jekyll` as usual (with livereolad assets, with drafts, future posts and unpublished):
+
+    bundle exec jekyll s --livereload --future --drafts --unpublished
+
+You can find more details on [working with upcoming posts in Jekyll](https://www.fizerkhan.com/blog/posts/working-with-upcoming-posts-in-jekyll).
+
+### Locales (i18n)
+
+There are two properties need to be added in Front Matter for every posts and pages:
+
+- `uid` for unique post whose English and Chinese are the same uid;
+- `locale` for locale code which specify what pages should be shown.
+
+```
+---
+uid: hello-world
+locale: en
+---
+```
+
+In the `_data` directory (it can come from the theme) you can find the layout translations.
+
 ## License
 
 The contents of this repository are published under the Creative Commons Attribution-ShareAlike license [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
