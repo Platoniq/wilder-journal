@@ -1,4 +1,4 @@
-title: Wilder Journal
+title: Wilder Journal by Platoniq
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -28,18 +28,10 @@ collections:
 # Plugin Config
 languages: ["en", "es", "ca"]
 
-jekyll-archives:
-  enabled:
-    - categories
-  layout: "archive/category"
-  permalinks:
-    category: "/category/:name/"
-
 # Document defaults
 defaults:
   - scope:
       path: ""
-      type: ""
     values:
       layout: "default"
       locale: en
@@ -61,44 +53,10 @@ defaults:
     values:
       layout: "author"
   - scope:
-      type: posts
+      path: "*/_posts/*"
     values:
       layout: "article"
       author: "anonymous"
-
-  - scope:
-      path: "_posts/*/blue-prints"
-      type: posts
-    values:
-      categories: "blue-prints"
-  - scope:
-      path: "_posts/*/deep-dives"
-      type: posts
-    values:
-      layout: "articles/deep_dive"
-      categories: "deep-dives"
-  - scope:
-      path: "_posts/*/interviews"
-      type: posts
-    values:
-      categories: "interviews"
-  - scope:
-      path: "_posts/*/papers"
-      type: posts
-    values:
-      categories: "papers"
-  - scope:
-      path: "_posts/journal-01/*"
-      type: posts
-    values:
-      journal-num: 1
-      tags: "journal_one"
-  - scope:
-      path: "_posts/journal-02/*"
-      type: posts
-    values:
-      journal-num: 2
-      tags: "journal_two"
   - scope:
       path: "media"
     values:
