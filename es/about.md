@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Sobre page
+title: Sobre
 permalink: /es/about/
-navbar: true
 uid: about
 locale: es
 ---
 
-Platoniq web
+Sobre
 ============
 
 

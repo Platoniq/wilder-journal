@@ -1,5 +1,6 @@
 ---
 permalink: cms/config.yml
+layout: none
 ---
 # NetlifyCMS Docs Configuration Options: https://www.netlifycms.org/docs/configuration-options/
 
@@ -7,10 +8,10 @@ backend:
   name: git-gateway
   # repo: agustibr/journal-content
   branch: main
+locale: es
+local_backend: true
 
-# local_backend: true
-
-media_folder: "media/uploads"
+media_folder: "media"
 
 publish_mode: editorial_workflow # Enable drafts
 
@@ -22,7 +23,7 @@ i18n:
   structure: multiple_folders
 
   # Required - a list of locales to show in the editor UI
-  locales: &locales [en, es, ca]
+  locales: &locales [en, es]
 
   # Optional, defaults to the first item in locales.
   # The locale to be used for fields validation and as a baseline for the entry.
@@ -36,14 +37,47 @@ collections:
       structure: multiple_folders
       locales: *locales
     create: true
+    delete: true
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "journal" }
       - { label: "Journal Issue Number", name: "journal-num", widget: "number", default: 0, value_type: "int", min: 1, max: 101, step: 1, i18n: duplicate }
       - { label: "Title", name: "title", widget: "string", i18n: true }
       - { label: "Publish Date", name: "date", widget: "datetime", i18n: duplicate }
-      - { label: "Body", name: "body", widget: "markdown", i18n: translate }
+      - { label: "Permalink", name: "permalink", widget: "string", default: '', i18n: true }
+      - { label: "Uid", name: "uid", widget: "string", i18n: true }
+      - label: "Cover image"
+        name: "cover"
+        widget: "object"
+        summary: "Summary of the field"
+        fields:
+          - {
+            label: "Hero Image",
+            hint: Big cover image,
+            name: "path",
+            widget: "image",
+            choose_url: true,
+            default: "/media/covers/heros/none.png",
+            media_library: { config: { multiple: false },
+            i18n: translate },
+            media_folder: "/media/covers/heros"
+            }
+          - {
+              label: "Thumbnail Image",
+              hint: Small image used in lists,
+              name: "thumbnail",
+              widget: "image",
+              choose_url: true,
+              default: "/media/covers/thumbnails/none.png",
+              media_library: { config: { multiple: false } },
+              media_folder: "/media/covers/thumbnails",
+              i18n: duplicate
+              }
+          - { label: "Image alt text", name: "alt", widget: "string", i18n: translate }
+          - { label: "Image Credits", name: "credits", widget: "string", i18n: translate }
+          - { label: "Image Caption", name: "caption", widget: "string", i18n: translate }
+
   - name: "articles"
     label: "Articles"
     folder: "_posts/"
@@ -89,7 +123,7 @@ collections:
       locales: *locales
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "author" }
       - { label: "Short Name", name: "uid", widget: "string", i18n: duplicate }

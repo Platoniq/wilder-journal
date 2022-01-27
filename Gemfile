@@ -21,7 +21,6 @@ group :jekyll_plugins do
   gem "jekyll-plugin-platoniq-journal", git: "https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git"
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-seo-tag"
-  gem "jekyll-archives"
   gem "jekyll-youtube"
   gem "jekyll-redirect-from"
 end
