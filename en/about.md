@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About page
-permalink: /about/
+title: About
+permalink: /en/about/
 navbar: true
 uid: about
 locale: en

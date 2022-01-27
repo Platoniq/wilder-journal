@@ -1,16 +1,15 @@
 ---
-journal-num: 1
-title: Journal one
-date: 2021-12-02
-permalink: journal-one
-uid: journal-1
-locale: en
-layout: journal
 cover:
+  alt: Image alt text
+  caption: Image caption text
+  credits: Image credits
   path: /media/covers/heros/heroimage_2.png
   thumbnail: /media/covers/thumbnails/n1.png
-  alt: seed
-  credits: seed
-  caption: seed
+date: 2021-12-02
+journal-num: 1
+layout: journal
+locale: en
+permalinko: en/wilder-journal-1
+title: Journal one
+uid: wilder-journal-1
 ---
-thi is  the english journal volume 1
