@@ -1,12 +1,17 @@
 ---
+cover:
+  alt: Image alt text
+  caption: Image caption text
+  credits: Image credits
+  path: /media/covers/heros/heroimage_2.png
+  thumbnail: /media/covers/thumbnails/n1.png
+date: 2022-01-04
 journal-num: 2
-title: Journal Two
-permalink: journal-two
-date: 2022-01-04T11:42:25.401Z
-uid: journal-2
-locale: en
 layout: journal
-
+locale: en
+permalink: /en/wilder-journal-2
+title: Journal two
+uid: wilder-journal-2
 ---
 
 # Ferre arma veteris novat iaculi falsum fragor

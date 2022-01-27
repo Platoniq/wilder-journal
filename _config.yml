@@ -20,7 +20,7 @@ permalink: /:path/:categories/:title/
 
 collections:
   authors:
-    output: true
+    output: false
   journals:
     output: true
     permalink: :path

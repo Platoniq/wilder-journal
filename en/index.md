@@ -2,7 +2,7 @@
 layout: landing
 uid: hello-world
 locale: en
-permalink: /
+permalink: /en/
 ---
 
 This is the homepage!

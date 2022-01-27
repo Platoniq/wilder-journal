@@ -4,6 +4,7 @@ layout: page
 navbar: true
 uid: kitchen-sink
 locale: es
+permalink: /es/kitchen-sink
 ---
 
 # K sink ESPAÑOL

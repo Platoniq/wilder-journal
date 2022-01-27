@@ -3,7 +3,7 @@ title: Markdown Style Guide EN
 layout: page
 navbar: true
 uid: kitchen-sink
-permalink: kitchen-sink
+permalink: en/kitchen-sink
 locale: en
 ---
 
