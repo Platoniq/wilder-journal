@@ -5,6 +5,8 @@ permalink: journal-two
 date: 2022-01-04T11:42:25.401Z
 uid: journal-2
 locale: en
+layout: journal
+
 ---
 
 # Ferre arma veteris novat iaculi falsum fragor
