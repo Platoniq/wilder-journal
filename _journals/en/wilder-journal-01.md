@@ -9,7 +9,6 @@ date: 2021-12-02
 journal-num: 1
 layout: journal
 locale: en
-permalinko: en/wilder-journal-1
 title: Journal one
 uid: wilder-journal-1
 ---

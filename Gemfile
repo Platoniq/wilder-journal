@@ -23,7 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-youtube"
   gem "jekyll-redirect-from"
-  gem "jekyll_custom_permalink"
+  gem "jekyll_custom_permalink", git: "https://github.com/Platoniq/jekyll_custom_permalink.git"
 end
 
 gem "webrick"

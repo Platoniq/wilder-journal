@@ -9,7 +9,6 @@ date: 2022-01-04
 journal-num: 2
 layout: journal
 locale: en
-permalink: /en/wilder-journal-2
 title: Journal two
 uid: wilder-journal-2
 ---

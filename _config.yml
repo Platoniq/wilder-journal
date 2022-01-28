@@ -16,17 +16,26 @@ twitter:
 # Build settings
 theme: jekyll-theme-platoniq-journal
 timezone: ES
-permalink: /:path/:categories/:title/
 
 collections:
+  archives:
+    output: true
+    custom_permalink_placeholders: ["locale", "journal-uid", "category", "uid"]
+    permalink: /:locale/:journal-uid/:category/
+  articles:
+    output: true
+    custom_permalink_placeholders: ["locale", "journal-uid", "category","uid"]
+    permalink: /:locale/:journal-uid/:category/:uid/
   authors:
     output: false
   journals:
     output: true
-    permalink: :path
-
-# Plugin Config
-languages: ["en", "es", "ca"]
+    custom_permalink_placeholders: ["locale", "uid"]
+    permalink: /:locale/:uid/
+  pages:
+    output: true
+    custom_permalink_placeholders: ["locale", "uid"]
+    permalink: /:locale/:uid/
 
 # Document defaults
 defaults:
@@ -53,10 +62,15 @@ defaults:
     values:
       layout: "author"
   - scope:
-      path: "*/_posts/*"
+      type: articles
     values:
       layout: "article"
       author: "anonymous"
+  - scope:
+      type: pages
+    values:
+      layout: "page"
+      author: "platoniq"
   - scope:
       path: "media"
     values:
