@@ -8,7 +8,7 @@ journal-uid: wilder-journal-1
 category: reports
 uid: wj1-report-example-3
 cover: 
-  path: /media/uploads/report_3.jpg
+  path: /media/articles/heroes/report_3.jpg
   credits: Zosen
   alt: "Silkscreen print in two inks, different objects smiling."
   caption: "RISOGRAFIA #1 — red and blue"

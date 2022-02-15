@@ -9,7 +9,7 @@ title: My canvas was usually an old cereal or cracker box
 description: A sample article applying design elements
 tags: wilderJournal
 cover: 
-  path: /media/uploads/article_v1.png
+  path: /media/articles/heroes/article_v1.png
   credits: Image Credit
   alt: Alt text
   caption: the image caption

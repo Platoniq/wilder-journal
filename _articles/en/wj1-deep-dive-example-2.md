@@ -9,7 +9,7 @@ title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 description: "Even though Collin is my younger cousin, he’s still one of my biggest inspirations. He is a St. Louis-based image-maker whose benevolent spirit is ever-present in his practice."
 tags: wilderJournal
 cover: 
-  path: /media/uploads/article_h1.png
+  path: /media/articles/heroes/article_h1.png
   credits: Image Credit
   alt: Alt text
   caption: the image caption

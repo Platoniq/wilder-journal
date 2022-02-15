@@ -1,16 +1,16 @@
 GIT
   remote: https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git
-  revision: c076bd205aa3d9cc98c2efe99ff561e98da350f5
+  revision: 871bd19070722ee5ab96bad9566d00b43114992f
   specs:
-    jekyll-plugin-platoniq-journal (0.0.1)
+    jekyll-plugin-platoniq-journal (0.0.4)
       jekyll (~> 4.2)
       kramdown (~> 2.3)
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: d112b921f8c35d3b672a617e9e1e9dc38ea5a6b2
+  revision: 966d9a5ff199f2161b95ca51354de5dd4f897040
   specs:
-    jekyll-theme-platoniq-journal (0.0.10)
+    jekyll-theme-platoniq-journal (0.0.13)
       jekyll (~> 4.2)
       jekyll-data (~> 1.1.1)
       jekyll-plugin-platoniq-journal (~> 0.0.1)

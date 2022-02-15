@@ -10,7 +10,7 @@ category: interviews
 uid: wj1-interview-example-1
 locale: en
 cover: 
-  path: /media/uploads/interview_v1.png
+  path: /media/articles/heroes/interview_v1.png
   credits: Image Credit
   alt: Alt text
   caption: the image caption

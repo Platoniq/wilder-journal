@@ -34,6 +34,11 @@ Get me a vodka rocks. And a piece of toast. I'm afraid I just blue myself. I don
 * I don't criticize you! And if you're worried about criticism, sometimes a diet is the best defense.
 * Really? Did nothing cancel?
 
+{% quote { "author": "Bitnet Shakespeares" } %}
+
+To quote or not to quote: That is the question. with author!
+{% endquote %}
+
 He'll want to use your yacht, and I don't want this thing smelling like fish. He'll want to use your yacht, and I don't want this thing smelling like fish. There's so many poorly chosen words in that sentence.
 
 I've opened a door here that I regret. No… but I'd like to be asked! As you may or may not know, Lindsay and I have hit a bit of a rough patch. I'm a monster.

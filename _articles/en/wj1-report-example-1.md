@@ -8,7 +8,7 @@ journal-uid: wilder-journal-1
 category: reports
 uid: wj1-report-example-1
 cover: 
-  path: /media/uploads/report_h1.png
+  path: /media/articles/heroes/report_h1.png
   credits: Image Credit
   alt: Alt text
   caption: the image caption

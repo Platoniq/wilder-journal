@@ -10,7 +10,7 @@ category: stories
 uid: wj1-story-example-1
 locale: en
 cover: 
-  path: /media/uploads/stories_v1.png
+  path: /media/articles/heroes/stories_v1.png
   credits: Image Credit
   alt: Alt text
   caption: the image caption
