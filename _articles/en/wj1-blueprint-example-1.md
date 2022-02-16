@@ -3,20 +3,21 @@ layout: article
 article-order: 3
 title: There's so many poorly chosen words in that sentence.
 date: 2022-02-03
+uid: wj1-blueprint-example-1
 author: agustibr
 journal-uid: wilder-journal-1
-category: blueprints
-uid: wj1-blueprint-example-1
-locale: en
-cover: 
+cover:
   path: /media/articles/heroes/blueprint_1.webp
   credits: Image Credit
   alt: Alt text
   caption: the image caption
+  thumbnail: /assets/media/no_image-thumbnail.png
+locale: en
+category: blueprints
 ---
 I hear the jury's still out on science. Now, when you do this without getting punched in the chest, you'll have more fun. First place chick is hot, but has an attitude, doesn't date magicians. Whoa, this guy's straight?
 
-Guy's a pro. __Whoa, this guy's straight?__ *I don't understand the question, and I won't respond to it.* I'm a monster.
+Guy's a pro. **Whoa, this guy's straight?** *I don't understand the question, and I won't respond to it.* I'm a monster.
 
 ## What's Spanish for "I know you speak English?"
 
@@ -44,10 +45,7 @@ Marry me. I don't criticize you! And if you're worried about criticism, sometime
 
 We just call it a sausage. Michael! There's only one man I've ever called a coward, and that's Brian Doyle Murray. No, what I'm calling you is a television actor. Whoa, this guy's straight? He'll want to use your yacht, and I don't want this thing smelling like fish.
 
-{% quote { "author": "Bitnet Shakespeares" } %}
-
-To quote or not to quote: That is the question. with author!
-{% endquote %}
+{% quote { "author": "Bitnet Shakespeares" } %}To quote or not to quote: That is the question.{% endquote %}
 
 I don't understand the question, and I won't respond to it. I hear the jury's still out on science. Bad news. Andy Griffith turned us down. He didn't like his trailer. I'm afraid I just blue myself. Really? Did nothing cancel?
 
@@ -60,5 +58,3 @@ There's so many poorly chosen words in that sentence. Steve Holt! I don't critic
 Marry me. Say goodbye to these, because it's the last time! It's called 'taking advantage.' It's what gets you ahead in life. Across from where? He'll want to use your yacht, and I don't want this thing smelling like fish.
 
 No… but I'd like to be asked! I care deeply for nature. I don't understand the question, and I won't respond to it. Really? Did nothing cancel?
-
-

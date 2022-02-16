@@ -3,16 +3,17 @@ layout: article
 article-order: 3
 title: Hay tantas palabras mal elegidas en esa oración.
 date: 2022-02-03T11:46:06.798Z
+uid: wj1-blueprint-example-1
 author: agustibr
 journal-uid: wilder-journal-1
-category: blueprints
-uid: wj1-blueprint-example-1
-locale: es
-cover: 
-  path: /media/uploads/blueprint_1.webp
+cover:
+  path: /media/articles/heroes/blueprint_1.webp
   credits: Image Credit
   alt: Alt text
   caption: the image caption
+  thumbnail: /assets/media/no_image-thumbnail.png
+locale: es
+category: blueprints
 ---
 I hear the jury's still out on science. Now, when you do this without getting punched in the chest, you'll have more fun. First place chick is hot, but has an attitude, doesn't date magicians. Whoa, this guy's straight?
 
