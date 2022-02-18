@@ -9,5 +9,7 @@ cover:
   credits: B
   caption: C
 locale: es
+description: Creador de imágenes basado en Louis, cuyo espíritu benevolente está
+  siempre presente en su práctica.
 ---
 ## Esto es una prueba en Español

@@ -17,7 +17,8 @@ cover:
   alt: Alt text
   caption: the image caption
 locale: en
-description: Louis-based image-maker whose benevolent spirit is ever-present in his practice.
+description: Louis-based image-maker whose benevolent spirit is ever-present in
+  his practice.
 category: interviews
 ---
 ## This is a test english lang

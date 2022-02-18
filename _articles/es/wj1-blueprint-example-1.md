@@ -7,17 +7,20 @@ uid: wj1-blueprint-example-1
 author: agustibr
 journal-uid: wilder-journal-1
 cover:
-  path: /media/articles/heroes/blueprint_1.webp
+  path: /media/articles/heroes/hero_article_1.png
   credits: Image Credit
   alt: Alt text
   caption: the image caption
   thumbnail: /assets/media/no_image-thumbnail.png
 locale: es
+description: Esta es mi descripción para el artículo Blueprint
 category: blueprints
 ---
 I hear the jury's still out on science. Now, when you do this without getting punched in the chest, you'll have more fun. First place chick is hot, but has an attitude, doesn't date magicians. Whoa, this guy's straight?
 
-Guy's a pro. __Whoa, this guy's straight?__ *I don't understand the question, and I won't respond to it.* I'm a monster.
+Guy's a pro. **Whoa, this guy's straight?** *I don't understand the question, and I won't respond to it.* I'm a monster.
+
+{% quote { "author": "Eduardo Galeano" } %}Mucha gente pequña, en lugares pequeños, haciendo cosas pequeñas, puede cambiar el mundo{% endquote %}
 
 ## What's Spanish for "I know you speak English?"
 
@@ -35,10 +38,7 @@ Get me a vodka rocks. And a piece of toast. I'm afraid I just blue myself. I don
 * I don't criticize you! And if you're worried about criticism, sometimes a diet is the best defense.
 * Really? Did nothing cancel?
 
-{% quote { "author": "Bitnet Shakespeares" } %}
-
-To quote or not to quote: That is the question. with author!
-{% endquote %}
+{% numbers {"first label":"0.123", "second label":"50%", "third label": "123"} %}
 
 He'll want to use your yacht, and I don't want this thing smelling like fish. He'll want to use your yacht, and I don't want this thing smelling like fish. There's so many poorly chosen words in that sentence.
 
@@ -61,5 +61,3 @@ There's so many poorly chosen words in that sentence. Steve Holt! I don't critic
 Marry me. Say goodbye to these, because it's the last time! It's called 'taking advantage.' It's what gets you ahead in life. Across from where? He'll want to use your yacht, and I don't want this thing smelling like fish.
 
 No… but I'd like to be asked! I care deeply for nature. I don't understand the question, and I won't respond to it. Really? Did nothing cancel?
-
-
