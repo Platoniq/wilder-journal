@@ -11,6 +11,7 @@ uid: wj1-story-example-1
 locale: en
 cover: 
   path: /media/articles/heroes/stories_v1.png
+  thumbnail: /media/articles/thumbnails/stories_v1.png
   credits: Image Credit
   alt: Alt text
   caption: the image caption

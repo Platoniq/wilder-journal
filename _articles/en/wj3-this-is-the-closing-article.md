@@ -7,6 +7,12 @@ author: agustibr
 journal-uid: wilder-journal-3
 article-order: 2
 category: interviews
+cover:
+  path: /assets/media/no_image-hero.png
+  credits: No Image Credit
+  alt: No alt text image
+  caption: No image caption
+  thumbnail: /assets/media/no_image-thumbnail.png
 ---
 Some text here.
 

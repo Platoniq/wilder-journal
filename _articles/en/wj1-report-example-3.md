@@ -9,6 +9,7 @@ category: reports
 uid: wj1-report-example-3
 cover: 
   path: /media/articles/heroes/report_3.jpg
+  thumbnail: /media/articles/thumbnails/report_3.jpg
   credits: Zosen
   alt: "Silkscreen print in two inks, different objects smiling."
   caption: "RISOGRAFIA #1 — red and blue"

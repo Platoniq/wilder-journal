@@ -2,7 +2,7 @@
 layout: article
 article-order: 3
 title: Hay tantas palabras mal elegidas en esa oración.
-date: 2022-02-03T11:46:06.798Z
+date: 2022-02-03
 uid: wj1-blueprint-example-1
 author: agustibr
 journal-uid: wilder-journal-1

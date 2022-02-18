@@ -11,6 +11,7 @@ uid: wj1-sticker-example-1
 locale: en
 cover: 
   path: /media/articles/heroes/stickerpack_v1.webp
+  thumbnail: /media/articles/thumbnails/stickerpack_v1.webp
   credits: Image Credit
   alt: Alt text
   caption: the image caption

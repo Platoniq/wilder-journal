@@ -1,21 +1,15 @@
 ---
-layout: article
-article-order: 3
-title: EN Virilem puellae utilis infelix
-date: 2022-01-04T11:42:45.214Z
-uid: wj2-deep-dive-example-1
+title: ES Virilem puellae utilis infelix
 author: ted
 journal-uid: wilder-journal-2
 cover:
-  path: /assets/media/no_image-hero.png
-  credits: No Image Credit
   alt: No alt text image
-  caption: No image caption
+  path: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
-related_articles_uid:
-  - wj1-report-example-1
-locale: en
-category: deep-dives
+  credits: No Image Credit
+  caption: No image caption
+uid: wj2-deep-dive-example-2
+locale: es
 ---
 ## Virilem puellae utilis infelix
 

@@ -1,10 +1,9 @@
 ---
 cover:
   alt: Image alt text
-  caption: Image caption text
   credits: Image credits
   path: /media/volumes/heroes/heroimage_2.png
-  thumbnail: /media/volumes/thumbnails/n1.png
+  thumbnail: /media/volumes/thumbnails/n2.png
 date: 2022-01-04
 journal-num: 2
 layout: journal

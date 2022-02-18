@@ -1,7 +1,6 @@
 ---
 cover:
   alt: Image alt text
-  caption: Image caption text
   credits: Image credits
   path: /media/volumes/heroes/heroimage_2.png
   thumbnail: /media/volumes/thumbnails/n1.png

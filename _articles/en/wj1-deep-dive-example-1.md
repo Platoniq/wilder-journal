@@ -10,13 +10,13 @@ description: A sample article applying design elements
 tags: wilderJournal
 cover: 
   path: /media/articles/heroes/article_v1.png
+  thumbnail: /media/articles/thumbnails/article_v1.png
   credits: Image Credit
   alt: Alt text
   caption: the image caption
 related_article_uids:
   - wj1-interview-example-1
 locale: en
-
 ---
 
 Fresh out of college and trying to find his way in the creative world, Roberto Benavidez ditched bronze sculpting in favor of something closer to home. He’s since spent a decade using piñatas to create paintings and sculptures.

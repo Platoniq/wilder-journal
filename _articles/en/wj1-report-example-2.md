@@ -9,6 +9,7 @@ category: reports
 uid: wj1-report-example-2
 cover: 
   path: /media/articles/heroes/report_v1.png
+  thumbnail: /media/articles/thumbnails/report_v1.png
   credits: Image Credit
   alt: Alt text
   caption: the image caption
