@@ -2,7 +2,6 @@
 layout: netlifycms/config
 permalink: cms/config.yml
 
-local_backend: true
 backend:
   repo: Platoniq/journal-content
   branch: next
