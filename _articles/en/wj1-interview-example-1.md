@@ -20,5 +20,6 @@ locale: en
 description: Louis-based image-maker whose benevolent spirit is ever-present in
   his practice.
 category: interviews
+call_to_action: cta-donate
 ---
 ## This is a test english lang

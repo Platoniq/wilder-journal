@@ -17,6 +17,7 @@ cover:
 related_article_uids:
   - wj1-deep-dive-example-1
   - wj1-blueprint-example-1
+call_to_action: cta-contact
 ---
 
 Fresh out of college and trying to find his way in the creative world, Roberto Benavidez ditched bronze sculpting in favor of something closer to home. He’s since spent a decade using piñatas to create paintings and sculptures.
