@@ -28,6 +28,8 @@ collections:
     permalink: /:locale/:journal-uid/:category/:uid/
   authors:
     output: false
+  call_to_actions:
+    output: false
   journals:
     output: true
     custom_permalink_placeholders: ["locale", "uid"]
