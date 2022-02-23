@@ -43,3 +43,7 @@ All other directories and files are available as open source under the terms of 
 ## Credits
 
 This site has been developed by ![Platoniq](https://avatars.githubusercontent.com/u/31537393?s=200&v=4)
+
+<a href="https://www.netlify.com">
+  <img src="https://www.netlify.com/img/global/badges/netlify-color-bg.svg" alt="Deploys by Netlify" />
+</a>
