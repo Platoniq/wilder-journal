@@ -1,0 +1,397 @@
+
+
+
+
+
+backend:
+  name: git-gateway
+
+  repo: Platoniq/journal-content
+  branch: main
+
+locale: es
+
+media_folder: "media"
+
+publish_mode: editorial_workflow # Enable drafts
+
+i18n:
+  # Required and can be one of multiple_folders, multiple_files or single_file
+  # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
+  # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
+  # single_file - persists a single file in `<folder>/<slug>.<extension>`
+  structure: multiple_folders
+
+  # Required - a list of locales to show in the editor UI
+  locales: &locales [en, es]
+
+  # Optional, defaults to the first item in locales.
+  # The locale to be used for fields validation and as a baseline for the entry.
+  default_locale: en
+
+
+
+collections:
+
+  
+
+  
+- name: "journals"
+  label: "Journals"
+  label_singular: "Journal"
+  folder: "_journals/"
+  i18n:
+    structure: multiple_folders
+    locales: *locales
+  create: true
+  delete: true
+  editor:
+    preview: true
+  # identifier_field: uid
+  fields:
+    - { label: "Layout", name: "layout", widget: "hidden", default: "journal", i18n: duplicate }
+    - { label: "Journal volume number", name: "journal-num", widget: "number", default: 0, value_type: "int", min: 1, max: 101, step: 1, i18n: duplicate }
+    - { label: "Title", name: "title", widget: "string", i18n: true }
+    - label: "Description"
+      hint: "Mainly for SEO pourposes"
+      name: "description"
+      widget: "string"
+      i18n: translate
+    - { label: "Publish Date", name: "date", widget: "date", i18n: duplicate }
+    - { label: "Slug", name: "uid", widget: "string", i18n: duplicate }
+    - label: "Cover image"
+      name: "cover"
+      widget: "object"
+      i18n: true
+      fields:
+        - {
+            label: "Hero Image",
+            hint: Big cover image,
+            name: "path",
+            widget: "image",
+            choose_url: true,
+            default: "/assets/media/no_image-hero.png",
+            media_library: { config: { multiple: false } },
+            media_folder: "/media/volumes/heroes",
+            i18n: duplicate
+          }
+        - {
+            label: "Thumbnail Image",
+            hint: Small image used in lists,
+            name: "thumbnail",
+            widget: "image",
+            choose_url: true,
+            default: "/assets/media/no_image-hero.png",
+            media_library: { config: { multiple: false } },
+            media_folder: "/media/volumes/thumbnails",
+            i18n: duplicate
+          }
+        - { label: "Image alt text", name: "alt", widget: "string", i18n: translate }
+        - { label: "Image Credits", name: "credits", widget: "string", i18n: translate }
+
+
+
+  
+
+  
+- name: "articles"
+  label: "Articles"
+  label_singular: "Article"
+  folder: "_articles/"
+  i18n:
+    structure: multiple_folders
+    locales: *locales
+  create: true # Allow users to create new documents in this collection
+  slug: "{{uid}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  sort: "article-order:asc"
+  view_filters:
+    - label: Article order
+      field: article-order
+      pattern: 'This is article #'
+    - label: Article category
+      field: category
+      pattern: front matter category
+    - label: By Journal
+      field: journal-iud
+      pattern: true
+  view_groups:
+    - label: Journal Volume
+      field: journal-uid
+    - label: Category
+      field: category
+  editor:
+    preview: true
+  fields: # The fields for each document, usually in front matter
+    - { label: "Layout", name: "layout", widget: "hidden", default: "article", i18n: duplicate }
+    - { label: "Article order", name: "article-order", widget: "number", default: 0, value_type: "int", min: 1, max: 101, step: 1, i18n: duplicate }
+    - { label: "Title", name: "title", widget: "string", i18n: translate }
+    - label: "Description"
+      hint: "Mainly for SEO pourposes"
+      name: "description"
+      widget: "string"
+      i18n: translate
+    - { label: "Publish Date", name: "date", widget: "date", i18n: duplicate }
+    - { label: "Slug", name: "uid", widget: "string", i18n: duplicate }
+    - {
+        label: "Category",
+        name: "category",
+        widget: "select",
+        options: [
+          { label: "Blueprints", value: "blueprints" },
+          { label: "Deep dives", value: "deep-dives" },
+          { label: "Interviews", value: "interviews" },
+          { label: "Reports", value: "reports" },
+          { label: "Stories", value: "stories" }
+        ],
+        i18n: duplicate
+      }
+    - {
+        label: "Author",
+        name: "author",
+        widget: "relation",
+        collection: "authors",
+        display_fields: [name],
+        search_fields: [name],
+        value_field: "uid",
+        i18n: duplicate
+      }
+    - {
+        label: "Journal Volume",
+        name: "journal-uid",
+        widget: "relation",
+        collection: "journals",
+        display_fields: [title],
+        search_fields: [title],
+        value_field: "uid",
+        i18n: duplicate
+      }
+    - label: "Main image"
+      name: "cover"
+      widget: "object"
+      i18n: true
+      fields:
+        - {
+            label: "Hero Image",
+            hint: Big cover image,
+            name: "path",
+            widget: "image",
+            choose_url: true,
+            default: "/assets/media/no_image-hero.png",
+            media_library: { config: { multiple: false } },
+            media_folder: "/media/articles/heroes",
+            i18n: duplicate
+          }
+        - {
+            label: "Thumbnail Image",
+            hint: Small image used in lists,
+            name: "thumbnail",
+            widget: "image",
+            choose_url: true,
+            default: "/assets/media/no_image-thumbnail.png",
+            media_library: { config: { multiple: false } },
+            media_folder: "/media/articles/thumbnails",
+            i18n: duplicate
+          }
+        - { label: "Image alt text", name: "alt", widget: "string", i18n: translate }
+        - { label: "Image Credits", name: "credits", widget: "string", i18n: translate }
+        - { label: "Image Caption", name: "caption", widget: "string", i18n: translate }
+    - label: "Article Body"
+      name: "body"
+      widget: "markdown"
+      editor_components: ["image", "quote-tag", "collapsible-note", "videos"]
+      i18n: true
+    - label: "Related articles"
+      name: "related_articles_uid"
+      widget: "list"
+      required: false
+      i18n: false # todo: duplicate to other locales
+      field:
+        label: "Related article"
+        name: "related_article_uid"
+        widget: "relation"
+        collection: "articles"
+        display_fields: [title]
+        search_fields: [title, uid]
+        value_field: "uid"
+        i18n: duplicate
+    - label: "Call to action"
+      name: "call_to_action"
+      widget: "relation"
+      collection: "call_to_actions"
+      display_fields: [uid]
+      search_fields: [uid]
+      value_field: "uid"
+      i18n: duplicate
+
+
+
+  
+
+  
+- name: "authors"
+  label: "Authors"
+  folder: "_authors/"
+  slug: "{{uid}}"
+  i18n:
+    structure: multiple_files
+    locales: *locales
+  create: true
+  editor:
+    preview: true
+  fields:
+    - { label: "Layout", name: "layout", widget: "hidden", default: "author" }
+    - { label: "Short Name", name: "uid", widget: "string", i18n: duplicate }
+    - { label: "Diplay Name", name: "name", widget: "string", i18n: duplicate }
+    - {
+        label: "Featured Image",
+        hint: The author's avatar,
+        name: "image_url",
+        widget: "image",
+        choose_url: true,
+        default: "/media/authors/none.png",
+        media_library: { config: { multiple: false },
+        i18n: duplicate }
+    }
+    - { label: "Position", name: "position", widget: "string", i18n: translate }
+    - { label: "Body", name: "body", widget: "markdown", i18n: translate }
+
+
+
+  
+
+  
+- name: "call_to_actions"
+  label: "Call to Actions"
+  editor:
+    preview: false
+  files:
+    - label: "Contact"
+      name: "contact"
+      file: "_call_to_actions/contact.md"
+      fields:
+        - label: CTA Contact English
+          name: en
+          widget: object
+          fields: &cta_contact_fields
+            - label: Title
+              name: title
+              widget: string
+            - label: Body
+              name: content
+              widget: text
+            - label: Button
+              name: button
+              widget: object
+              fields:
+                - label: "Label"
+                  name: label
+                  widget: string
+            - label: Image
+              name: image
+              widget: object
+              fields:
+                - label: Image
+                  name: path
+                  widget: image
+                  default: "/assets/media/no_image-cta.png"
+                  media_library: { config: { multiple: false } }
+                  media_folder: "/media/call_to_actions/"
+                - label: Alternative text
+                  name: alt
+                  widget: string
+
+        - label: "CTA Contact Español"
+          name: es
+          widget: object
+          fields: *cta_contact_fields
+
+    - label: Donate
+      name: donate
+      editor:
+        preview: false
+      file: "_call_to_actions/donate.md"
+      fields:
+        - label: CTA Donate English
+          name: en
+          widget: object
+          fields: &cta_donate_fields
+            - label: Title
+              name: title
+              widget: string
+            - label: Body
+              name: content
+              widget: text
+            - label: Button
+              name: button
+              widget: object
+              fields:
+                - label: "Label"
+                  name: label
+                  widget: string
+                - label: "Link to"
+                  name: link
+                  hint: "Insert a valid url, ex: 'https://www.goteo.org'"
+                  widget: string
+            - label: Image
+              name: image
+              widget: object
+              fields:
+                - label: Image
+                  name: path
+                  widget: image
+                  default: "/assets/media/no_image-cta.png"
+                  media_library: { config: { multiple: false } }
+                  media_folder: "/media/call_to_actions/"
+                - label: Alternative text
+                  name: alt
+                  widget: string
+
+        - label: "CTA Donate Español"
+          name: es
+          widget: object
+          fields: *cta_donate_fields
+
+    - label: Newsletter
+      name: newsletter
+      editor:
+        preview: false
+      file: "_call_to_actions/newsletter.md"
+      fields:
+        - label: CTA Newsletter English
+          name: en
+          widget: object
+          fields: &cta_newsletter_fields
+            - label: Title
+              name: title
+              widget: string
+            - label: Body
+              name: content
+              widget: text
+            - label: Button
+              name: button
+              widget: object
+              fields:
+                - label: "Label"
+                  name: label
+                  widget: string
+            - label: Image
+              name: image
+              widget: object
+              fields:
+                - label: Image
+                  name: path
+                  widget: image
+                  default: "/assets/media/no_image-cta.png"
+                  media_library: { config: { multiple: false } }
+                  media_folder: "/media/call_to_actions/"
+                - label: Alternative text
+                  name: alt
+                  widget: string
+
+        - label: "CTA Newsletter Español"
+          name: es
+          widget: object
+          fields: *cta_newsletter_fields
+
+
+
