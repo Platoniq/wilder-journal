@@ -1,5 +1,7 @@
 # Platoniq Journal
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/795f1c5d-b211-40d6-9ff6-4d45cbf662ca/deploy-status)](https://app.netlify.com/sites/next-wilder-journal/deploys)
+
 ## Development
 
 To use [`netlify-cms`](https://www.netlifycms.org/docs/intro) in local
