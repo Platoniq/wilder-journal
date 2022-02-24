@@ -1,9 +1,9 @@
 ---
 layout: author
-image_url: /media/authors/none.png
 uid: agustibr
 name: Agustí B.R.
-position: Here
+image_url: /media/authors/none.png
+position: Here!
 locale: en
 ---
 ## But I must explain to you how all this mistaken idea
