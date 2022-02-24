@@ -52,13 +52,6 @@ figma: [view](https://www.figma.com/file/4DRYcXOpVgFrT5GhBzU6Oz/Blog-Entry?node-
 
 ---
 
-{% cta {"url":"https://platoniq.net", "label": "call to action button"} %}
-# This is a custom CTA
-
-- one item
-- two item
-{% endcta %}
-
 ### Youtube embed
 
 {% youtube https://youtu.be/s000MxbEgi8 %}
