@@ -3,6 +3,7 @@ layout: page
 title: Quienes
 uid: about
 locale: es
+call_to_action: cta-donate
 ---
 
 Sobre

@@ -3,6 +3,7 @@ layout: page
 title: About
 uid: about
 locale: en
+call_to_action: cta-donate
 ---
 
 Platoniq web
