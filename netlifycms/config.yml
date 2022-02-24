@@ -3,8 +3,8 @@ layout: netlifycms/config
 permalink: cms/config.yml
 
 backend:
-  repo: Platoniq/journal-content
-  branch: next
+  repo: Platoniq/wilder-journal-next
+  branch: main
 i18n:
   default_locale: en
 ---
