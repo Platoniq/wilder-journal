@@ -1,8 +1,7 @@
 ---
-layout: landing
+layout: base
 uid: hello-world
 locale: en
 permalink: /en/
+call_to_action: cta-newsletter
 ---
-
-This is the homepage!

@@ -3,6 +3,7 @@ layout: page
 title: Quienes
 uid: about
 locale: es
+published: false
 ---
 
 Sobre

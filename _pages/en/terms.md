@@ -3,6 +3,7 @@ title: Terms of use
 layout: page
 uid: terms
 locale: en
+published: false
 ---
 
 This is a demo of all styled elements in Jekyll Now. 

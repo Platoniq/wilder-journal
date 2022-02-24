@@ -3,6 +3,7 @@ layout: page
 title: About
 uid: about
 locale: en
+published: false
 ---
 
 Platoniq web
