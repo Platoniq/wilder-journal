@@ -1,8 +1,8 @@
 ---
 layout: author
-image_url: /media/authors/none.png
 uid: agustibr
 name: Agustí B.R.
+image_url: /media/authors/none.png
 position: Aquí
 locale: es
 ---
