@@ -6,7 +6,7 @@ en:
   button:
     label: Subscribe!
   image:
-    path: /assets/media/no_image-cta.png
+    path: /media/call_to_actions/img_cta.png
     alt: Alt text newsletter en
   form_fields: |
     <p>
@@ -20,7 +20,7 @@ es:
   button:
     label: Suscribirme!
   image:
-    path: /assets/media/no_image-cta.png
+    path: /media/call_to_actions/img_cta.png
     alt: Alt text newsleter es
   form_fields: |
     <p>
