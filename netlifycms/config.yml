@@ -3,7 +3,7 @@ layout: netlifycms/config
 permalink: cms/config.yml
 
 backend:
-  name: github
+  name: git-gateway
   repo: Platoniq/wilder-journal-next
   branch: main
 i18n:
