@@ -3,6 +3,9 @@ title: Terms of use
 layout: page
 uid: terms
 locale: en
+published: true
+description: description
+call_to_action: cta-contact
 ---
 
 This is a demo of all styled elements in Jekyll Now. 

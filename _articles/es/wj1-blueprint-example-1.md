@@ -12,6 +12,7 @@ cover:
   alt: Alt text
   caption: the image caption
   thumbnail: /assets/media/no_image-thumbnail.png
+call_to_action: cta-donate
 locale: es
 description: Esta es mi descripción para el artículo Blueprint
 category: blueprints
@@ -38,8 +39,7 @@ Get me a vodka rocks. And a piece of toast. I'm afraid I just blue myself. I don
 * I don't criticize you! And if you're worried about criticism, sometimes a diet is the best defense.
 * Really? Did nothing cancel?
 
-{% numbers {"first label":"0.123", "second label":"50%", "third label": "123"} %}
-
+{% numbers { "items": [ { "label": "first label", "number": "0.123"}, { "label": "second label", "number": "50%" }, { "label": "third label", "number":  "123" } ] } %}
 He'll want to use your yacht, and I don't want this thing smelling like fish. He'll want to use your yacht, and I don't want this thing smelling like fish. There's so many poorly chosen words in that sentence.
 
 I've opened a door here that I regret. No… but I'd like to be asked! As you may or may not know, Lindsay and I have hit a bit of a rough patch. I'm a monster.

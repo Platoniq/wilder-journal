@@ -12,6 +12,7 @@ cover:
   alt: Alt text
   caption: the image caption
   thumbnail: /assets/media/no_image-thumbnail.png
+call_to_action: cta-donate
 locale: en
 description: This is my description for the blueprint article
 category: blueprints
@@ -21,6 +22,16 @@ I hear the jury's still out on science. Now, when you do this without getting pu
 Guy's a pro. **Whoa, this guy's straight?** *I don't understand the question, and I won't respond to it.* I'm a monster.
 
 {% quote { "author": "Eduardo Galeano" } %}Many small people, in small places, doing small things, can change the world.{% endquote %}
+
+{% documents { "title": "my documents", "items": [{"file":"/media/proposta-2022.pdf","title":"one doc"},{"file":"/media/http-_localhost-4000_cms_config.yml","title":"two doc"}] } %}
+
+{% links { "title": "links to ", "items": [{"title":"my first link","url":"http://axample.com"},{"title":"another link","url":"very-interesting.com"}] } %}
+
+{% file { "title": "this is a file tag (csv)", "info": "some text as information", "file": "/media/newsletter.csv", "image": "/assets/media/no_image-file.png" } %}
+
+{% numbers { "items": [{"label":"number one","number":"1"},{"label":"twohundred thinga","number":"200"},{"label":"threee","number":"3.3%"}] } %}
+
+
 
 ## What's Spanish for "I know you speak English?"
 
@@ -38,7 +49,7 @@ Get me a vodka rocks. And a piece of toast. I'm afraid I just blue myself. I don
 * I don't criticize you! And if you're worried about criticism, sometimes a diet is the best defense.
 * Really? Did nothing cancel?
 
-{% numbers {"first label":"0.123", "second label":"50%", "third label": "123"} %}
+{% numbers { "items": [{"label":"first label","number":"0.123"},{"label":"second label","number":"50%"},{"label":"third label","number":"123"}] } %}
 
 He'll want to use your yacht, and I don't want this thing smelling like fish. He'll want to use your yacht, and I don't want this thing smelling like fish. There's so many poorly chosen words in that sentence.
 

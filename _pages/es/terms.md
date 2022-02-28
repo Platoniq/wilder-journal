@@ -3,6 +3,9 @@ title: Terminos de uso
 layout: page
 uid: terms
 locale: es
+published: true
+description: description
+call_to_action: cta-contact
 ---
 
 # Kitchen sink en ESPAÑOL

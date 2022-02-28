@@ -64,12 +64,12 @@ defaults:
     values:
       layout: "author"
   - scope:
-      type: articles
+      path: _articles
     values:
       layout: "article"
       author: "anonymous"
   - scope:
-      type: pages
+      path: _pages
     values:
       layout: "page"
       author: "platoniq"

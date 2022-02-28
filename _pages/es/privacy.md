@@ -3,6 +3,8 @@ title: Politica de privacidad
 layout: page
 uid: privacy
 locale: es
+published: false
+call_to_action: cta-contact
 ---
 
 # Kitchen sink en ESPAÑOL
