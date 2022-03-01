@@ -1,15 +1,16 @@
 ---
+published: false
+uid: wilder-journal-2
+layout: journal
+journal-num: 2
+title: Journal dos
+date: 2022-01-04
 cover:
   alt: Image alt text
   credits: Image credits
   path: /media/volumes/heroes/heroimage_2.png
   thumbnail: /media/volumes/thumbnails/n2.png
-date: 2022-01-04
-journal-num: 2
-layout: journal
-locale: es
-title: Journal dos
-uid: wilder-journal-2
+description: meta descripcion para el wilder journal 2
 ---
 
 # Ferre arma veteris novat iaculi falsum fragor

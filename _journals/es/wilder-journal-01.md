@@ -10,5 +10,5 @@ layout: journal
 locale: es
 title: Tema del Journal uno
 uid: wilder-journal-1
-locale: es
+description: meta descripcion para el wilder journal 1
 ---

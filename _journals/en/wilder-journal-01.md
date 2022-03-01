@@ -1,4 +1,5 @@
 ---
+published: true
 cover:
   alt: Image alt text
   credits: Image credits
@@ -10,4 +11,5 @@ layout: journal
 locale: en
 title: Journal one
 uid: wilder-journal-1
+description: meta description for wilder journal 1
 ---
