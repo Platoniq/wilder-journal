@@ -38,6 +38,8 @@ collections:
     output: true
     custom_permalink_placeholders: ["locale", "uid"]
     permalink: /:locale/:uid/
+  stickers:
+    output: false
 
 # Document defaults
 defaults:
