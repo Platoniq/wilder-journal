@@ -12,6 +12,8 @@ cover:
   alt: Alt text
   caption: the image caption
   thumbnail: /assets/media/no_image-thumbnail.png
+related_articles_uid:
+  - wj1-story-example-2
 call_to_action: cta-donate
 locale: en
 description: This is my description for the blueprint article
@@ -43,6 +45,8 @@ Army had half a day. I'm afraid I just blue myself. First place chick is hot, bu
 1. It's a hug, Michael. I'm hugging you.
 2. No! I was ashamed to be SEEN with you. I like being with you.
 3. There's so many poorly chosen worssds in that sentence.
+
+{% numbers { "items": [{"label":"first label","number":"1000%"},{"label":"😃 second label","number":"199292€"}] } %}
 
 ### Whoa, this guy's straight?
 
