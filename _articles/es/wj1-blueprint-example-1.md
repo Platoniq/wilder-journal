@@ -16,6 +16,8 @@ call_to_action: cta-donate
 locale: es
 description: Esta es mi descripción para el artículo Blueprint
 category: blueprints
+image:
+  path: /media/volumes/social/gabrielle-henderson-m4lve6jr26e-unsplash.jpg
 ---
 I hear the jury's still out on science. Now, when you do this without getting punched in the chest, you'll have more fun. First place chick is hot, but has an attitude, doesn't date magicians. Whoa, this guy's straight?
 

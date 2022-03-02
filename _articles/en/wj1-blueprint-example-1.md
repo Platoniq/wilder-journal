@@ -16,6 +16,9 @@ call_to_action: cta-donate
 locale: en
 description: This is my description for the blueprint article
 category: blueprints
+image:
+  path: /media/volumes/social/gabrielle-henderson-m4lve6jr26e-unsplash.jpg
+  alt: Today I'm grateful
 ---
 I hear the jury's still out on science. Now, when you do this without getting punched in the chest, you'll have more fun. First place chick is hot, but has an attitude, doesn't date magicians. Whoa, this guy's straight?
 
@@ -31,7 +34,7 @@ Guy's a pro. **Whoa, this guy's straight?** *I don't understand the question, an
 
 {% numbers { "items": [{"label":"number one","number":"1"},{"label":"twohundred thinga","number":"200"},{"label":"threee","number":"3.3%"}] } %}
 
-
+{% gallery { "images": [{"path":"/media/gary-bendig-6gmq7agxnbe-unsplash.jpg","alt":"a racoon","credits":"Gary Bendig"},{"path":"/media/tim-l-productions-u0llkv3kb9u-unsplash.jpg","alt":"a suricata","credits":"Tim L."},{"path":"/media/artur-stanulevich-dktikel51dm-unsplash.jpg","alt":"A hedgehog","credits":"Artur Stanulevich"}] } %}
 
 ## What's Spanish for "I know you speak English?"
 
