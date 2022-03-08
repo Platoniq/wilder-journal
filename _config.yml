@@ -38,6 +38,12 @@ collections:
     output: true
     custom_permalink_placeholders: ["locale", "uid"]
     permalink: /:locale/:uid/
+  stickers:
+    output: false
+  sticker_packs:
+    output: true
+    custom_permalink_placeholders: ["locale", "volume-uid"]
+    permalink: /:locale/:volume-uid/stickers/
 
 # Document defaults
 defaults:
@@ -67,6 +73,11 @@ defaults:
       type: articles
     values:
       layout: "article"
+      author: "anonymous"
+  - scope:
+      type: sticker_packs
+    values:
+      layout: "sticker_pack"
       author: "anonymous"
   - scope:
       type: pages
