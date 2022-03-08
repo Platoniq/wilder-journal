@@ -20,12 +20,12 @@ timezone: ES
 collections:
   archives:
     output: true
-    custom_permalink_placeholders: ["locale", "journal-uid", "category", "uid"]
-    permalink: /:locale/:journal-uid/:category/
+    custom_permalink_placeholders: ["locale", "volume-uid", "category", "uid"]
+    permalink: /:locale/:volume-uid/:category/
   articles:
     output: true
-    custom_permalink_placeholders: ["locale", "journal-uid", "category","uid"]
-    permalink: /:locale/:journal-uid/:category/:uid/
+    custom_permalink_placeholders: ["locale", "volume-uid", "category","uid"]
+    permalink: /:locale/:volume-uid/:category/:uid/
   authors:
     output: false
   call_to_actions:
