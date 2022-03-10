@@ -30,7 +30,7 @@ collections:
     output: false
   call_to_actions:
     output: false
-  journals:
+  volumes:
     output: true
     custom_permalink_placeholders: ["locale", "uid"]
     permalink: /:locale/:uid/
@@ -61,7 +61,7 @@ defaults:
     values:
       locale: "es"
   - scope:
-      type: journals
+      type: volumes
     values:
       layout: "journal"
       author: "platoniq"
