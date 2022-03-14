@@ -7,5 +7,5 @@ backend:
   repo: Platoniq/journal-content
   branch: main
 i18n:
-  default_locale: en
+  default_locale: es
 ---
