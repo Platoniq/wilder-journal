@@ -5,7 +5,7 @@ title: A story in EN
 description: "This morning I woke up with the sound of little Charissa again. She’s getting teeth and she is crying a lot."
 date: 2022-02-03T11:46:06.798Z
 author: ted
-journal-uid: wilder-journal-1
+volume-uid: wilder-journal-1
 category: stories
 uid: wj1-story-example-1
 locale: en

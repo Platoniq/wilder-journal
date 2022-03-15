@@ -1,7 +1,7 @@
 ---
 layout: article
 category: deep-dives
-journal-uid: wilder-journal-1
+volume-uid: wilder-journal-1
 article-order: 1
 uid: wj1-deep-dive-example-1
 author: roberto

@@ -9,7 +9,7 @@ title: An example interview
 date: 2022-02-03T11:46:06.798Z
 uid: wj1-interview-example-1
 author: ted
-journal-uid: wilder-journal-1
+volume-uid: wilder-journal-1
 cover:
   path: /media/articles/heroes/interview_v1.png
   thumbnail: /media/articles/thumbnails/interview_v1.png

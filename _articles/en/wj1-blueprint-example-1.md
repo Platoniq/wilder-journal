@@ -5,7 +5,7 @@ title: There's so many poorly chosen words in that sentence.
 date: 2022-01-03
 uid: wj1-blueprint-example-1
 author: agustibr
-journal-uid: wilder-journal-1
+volume-uid: wilder-journal-1
 cover:
   path: /media/articles/heroes/hero_article_1.png
   credits: Image Credit

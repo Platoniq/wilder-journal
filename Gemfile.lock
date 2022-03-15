@@ -1,16 +1,16 @@
 GIT
   remote: https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git
-  revision: 735e85a33da6e58b42ffe0cb70273f78776ae912
+  revision: ec38f7c47aefec384e1ed09e5658d2fe8623dc4f
   specs:
-    jekyll-plugin-platoniq-journal (0.0.13)
+    jekyll-plugin-platoniq-journal (0.0.16)
       jekyll (~> 4.2)
       kramdown (~> 2.3)
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: 808c22acd38c4071d976bb3266e0e28eff51e869
+  revision: bab14bae802476d16ee5d671a84a241a434cc1fb
   specs:
-    jekyll-theme-platoniq-journal (0.0.33)
+    jekyll-theme-platoniq-journal (0.0.43)
       jekyll (~> 4.2)
       jekyll-data (~> 1.1.1)
       jekyll-plugin-platoniq-journal (~> 0.0.1)
@@ -39,7 +39,7 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.10.0)
       concurrent-ruby (~> 1.0)
-    jekyll (4.2.1)
+    jekyll (4.2.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)

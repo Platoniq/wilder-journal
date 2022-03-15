@@ -5,7 +5,7 @@ title: EN Virilem puellae utilis infelix
 date: 2022-01-04T11:42:45.214Z
 uid: wj2-deep-dive-example-1
 author: ted
-journal-uid: wilder-journal-2
+volume-uid: wilder-journal-2
 cover:
   path: /assets/media/no_image-hero.png
   credits: No Image Credit

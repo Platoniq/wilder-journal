@@ -4,7 +4,7 @@ article-order: 7
 title: "I've opened a door here that I regret."
 date: 2022-02-03T11:46:06.798Z
 author: ted
-journal-uid: wilder-journal-1
+volume-uid: wilder-journal-1
 category: reports
 uid: wj1-report-example-2
 cover: 

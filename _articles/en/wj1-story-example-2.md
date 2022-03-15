@@ -5,7 +5,7 @@ title: Second story in EN
 description: "The articles' description in the frontmatter"
 date: 2022-02-03T11:46:06.798Z
 author: ted
-journal-uid: wilder-journal-1
+volume-uid: wilder-journal-1
 category: stories
 uid: wj1-story-example-2
 locale: en

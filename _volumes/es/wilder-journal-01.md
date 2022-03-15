@@ -1,7 +1,7 @@
 ---
 uid: wilder-journal-1
 layout: journal
-journal-num: 1
+volume-number: 1
 title: Tema del Journal uno
 date: 2021-12-02
 cover:

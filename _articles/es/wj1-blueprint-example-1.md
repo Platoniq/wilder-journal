@@ -5,7 +5,7 @@ title: Hay tantas palabras mal elegidas en esa oración.
 date: 2022-02-03
 uid: wj1-blueprint-example-1
 author: agustibr
-journal-uid: wilder-journal-1
+volume-uid: wilder-journal-1
 cover:
   path: /media/articles/heroes/hero_article_1.png
   credits: Image Credit

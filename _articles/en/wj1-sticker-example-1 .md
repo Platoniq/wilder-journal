@@ -5,7 +5,7 @@ title: Sticker Pack One
 description: "Wilder journal 1 sticker pack"
 date: 2021-12-24T11:46:06.798Z
 illustrator: Margot T. Burnett
-journal-uid: wilder-journal-1
+volume-uid: wilder-journal-1
 category: stickers
 uid: wj1-sticker-example-1
 locale: en

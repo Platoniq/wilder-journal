@@ -4,7 +4,7 @@ article-order: 6
 title: "I don't criticize you! And if you're worried about criticism, sometimes a diet is the best defense."
 date: 2022-02-03T11:46:06.798Z
 author: ted
-journal-uid: wilder-journal-1
+volume-uid: wilder-journal-1
 category: reports
 uid: wj1-report-example-1
 cover: 

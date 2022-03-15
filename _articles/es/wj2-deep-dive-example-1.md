@@ -1,7 +1,7 @@
 ---
 title: ES Virilem puellae utilis infelix
 author: ted
-journal-uid: wilder-journal-2
+volume-uid: wilder-journal-2
 cover:
   alt: No alt text image
   path: /assets/media/no_image-hero.png
