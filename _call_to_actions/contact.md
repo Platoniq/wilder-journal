@@ -9,15 +9,14 @@ en:
     path: /assets/media/no_image-cta.png
     alt: Alt text contact en
   form_fields: > 
-    <p>
-      <label>Name <input type="text" name="name" /></label>
-    </p>
-    <p>
-      <label>Email <input type="email" name="email" /></label>
-    </p>
-    <p>
-      <label>Message: <textarea name="message"></textarea></label>
-    </p>
+    <fieldset class="pj-cta-contact">
+      <label for="name">Name</label>
+      <input type="text" name="name" />
+      <label for="email">Email</label>
+      <input type="email" name="email" />
+      <label for="message">Message</label>
+      <textarea name="message"></textarea>
+    </fieldset>
 es:
   title: Contacta con nosotras
   content: "Rellena el formulario para contactar:"
@@ -27,13 +26,12 @@ es:
     path: /assets/media/no_image-cta.png
     alt: Alt text contact es
   form_fields: >
-    <p>
-      <label>Nombre <input type="text" name="name" /></label>
-    </p>
-    <p>
-      <label>Correo <input type="email" name="email" /></label>
-    </p>
-    <p>
-      <label>Mensaje: <textarea name="message"></textarea></label>
-    </p>
+    <fieldset class="pj-cta-contact">
+      <label for="name">Nombre</label>
+      <input type="text" name="name" />
+      <label for="email">Email</label>
+      <input type="email" name="email" />
+      <label for="message">Mensaje</label>
+      <textarea name="message"></textarea>
+    </fieldset>
 ---
