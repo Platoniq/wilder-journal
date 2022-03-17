@@ -90,3 +90,14 @@ defaults:
       media: true
 
 exclude: [Gemfile, Gemfile.lock, README.md, LICENSE.txt, .editorconfig]
+
+
+# Plugins
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+  add_css_classes: link-external
+  noopener: true
+  noreferrer: true
+  rel: nofollow
