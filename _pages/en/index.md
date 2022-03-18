@@ -1,10 +1,10 @@
 ---
 layout: landing
 permalink: /en/
-uid: hello-world
+uid: index
 published: true
-title: index
+title: Wilder Journal by Platoniq
 call_to_action: cta-newsletter
 locale: en
-description: This is the index page
+description: "" # TODO
 ---
