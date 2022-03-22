@@ -3,7 +3,7 @@ published: true
 uid: wilder-journal-1
 layout: journal
 volume-number: 1
-title: "" # TODO
+title: "Journal" # TODO
 date: 2021-12-02
 cover:
   alt: "" # TODO
