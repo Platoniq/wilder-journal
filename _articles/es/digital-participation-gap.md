@@ -12,7 +12,7 @@ description: "En este artículo, nos centramos en la situación de las mujeres
   nosotras? ¿Nos sentimos cómodas en ellos? ¿Son nuestros?"
 author: tayrine-dias
 cover:
-  path: /assets/media/no_image-hero.png
+  path: /media/articles/heroes/sticker_2.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: "# TODO"
   credits: "# TODO"
@@ -80,13 +80,9 @@ Desde Platoniq, nos cuestionamos e indagamos cómo deben ser los fundamentos de 
 
 ### Más preguntas para la reflexión y el análisis
 
-¿Si mejoramos la brecha digital de género mejoraremos la participación ciudadana?
 
-¿Hay un estilo de participación propio para los grupos socializados de géneros diferentes?
 
-Si mujeres de diferentes distritos, edades, culturas, nivel económico y de empoderamiento diseñaran una metodología de procesos de participación, ¿utilizarían la tecnología digital?
-
-¿Son los espacios de participación digital cercanos, amables y accesibles para las mujeres?
+{% questions { "items": [{"question":"¿Si mejoramos la brecha digital de género mejoraremos la participación ciudadana?"},{"question":"¿Hay un estilo de participación propio para los grupos socializados de géneros diferentes?"},{"question":"Si mujeres de diferentes distritos, edades, culturas, nivel económico y de empoderamiento diseñaran una metodología de procesos de participación, ¿utilizarían la tecnología digital?"},{"question":"¿Son los espacios de participación digital cercanos, amables y accesibles para las mujeres?"}] } %}
 
 ### Call to action
 

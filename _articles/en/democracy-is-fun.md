@@ -2,21 +2,21 @@
 layout: article
 volume-uid: wilder-journal-1
 category: reports
-date: 2022-03-16T11:55:05.380Z
+date: 2020-04-04T10:55:05.380Z
 article-order: 3
 uid: democracy-is-fun
 title: Democracy is fun if you take it… seriously!
 description: "[# TODO] Democracy is fun if you take it… seriously!"
 author: olivier-schulbaum
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  path: /media/articles/heroes/sticker12.png
+  thumbnail: /media/articles/thumbnails/decidim_the_game.jpeg
 stickers:
-  layout: layout-one
-  sticker_one: /media/stickers/wilder-journal-1/sticker1.png
-  sticker_one_animation: animation-glitch
-  sticker_two: /media/stickers/wilder-journal-1/sticker10.png
-  sticker_two_animation: animation-breathe
+  layout: layout-none
+  sticker_one: null
+  sticker_one_animation: animation-none
+  sticker_two: null
+  sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
@@ -31,11 +31,11 @@ Today, digital platforms for citizen participation created by local governments 
 
 {% quote %}What if there was a way to make these platforms for citizen participation and our glossary more playful and appealing to encourage interest and interaction with users? It exists and it is called gamification.{% endquote %}
 
+{% gallery { "images": [{"path":"decidim_the_game.jpeg","alt":"Decidim the Game","caption":"This is Decidim the Game, here to help you design your participatory process","credits":""}] } %}
+
 Since academic research, driven by the juicy video game industry, discovered the types of players, the intrinsic motivations and the psychological triggers of impulsive behaviors, gamification has not stopped growing. Elements of the games such as points, leader boards, levels or rewards are being incorporated into educational contexts, human resource management, consumer loyalty or personal and health care. The aim of gamification is to maintain the motivation and commitment of people in activities that do not have a recreational objective. Gamification is especially welcome in environments that are lived or perceived mostly as very boring. Political participation is one of them.
 
-<!-- This is Decidim the Game, here to help you design your participatory process -->
-
-#### We breathe a sigh of relief to be in a democracy, but it only motivates us when it is threatened.
+{% quote %}We breathe a sigh of relief to be in a democracy, but it only motivates us when it is threatened.{% endquote %}
 
 If we think about the moments when political action, formal or informal, motivates many people to get involved, a backdrop of instability, injustice, in short, of alterations sufficiently striking to provoke emotions, whether positive or negative, appears. We often hear the defense of boring politics, especially from a conservative point of view. But also from the progressive point of view when it has been in the majority: when politics is boring it is a symptom that everything “ is going well”. In any case, stability and democratic maturity — which is dreadful, inaccessible or incomprehensible to the majority — does not have to forgo being interesting and fun. At platoniq we have designed workshops on co-creation of incentives for participation and workshops on pro-commons data culture and digital care. The citizen initiative gamified lifecycle in Decide.Madrid
 
@@ -45,16 +45,16 @@ In Platoniq, as facilitators, hosts and co-designers of processes of participati
 
 We propose the design of forms of support for participation that focus on the following principles
 
-- **No harm:** a space that aims to reduce as much as possible the possibility of any kind of physical and/or psychological harm to participants (this may be related to provoking violence and conflict, triggering trauma or mental disorders, health…)
-- **Focus on the experiences of marginalized people** in relation to the project area or its themes
-- **Support the creation of spaces for marginalized communities** and actors to have a space at the table or resources to build their own spaces for collaboration and co-creation
-- **Redesigning participation to eliminate or reduce barriers** that marginalize or create exclusive spaces due to normative ideas of bodies and capacities.
-- **Recognize and address social and contextual power** in participation processes.
-- **Use what already works** (methodologies, communities’ own procedures) and not impose new models when there is already a good basis on which to build.
+* **No harm:** a space that aims to reduce as much as possible the possibility of any kind of physical and/or psychological harm to participants (this may be related to provoking violence and conflict, triggering trauma or mental disorders, health…)
+* **Focus on the experiences of marginalized people** in relation to the project area or its themes
+* **Support the creation of spaces for marginalized communities** and actors to have a space at the table or resources to build their own spaces for collaboration and co-creation
+* **Redesigning participation to eliminate or reduce barriers** that marginalize or create exclusive spaces due to normative ideas of bodies and capacities.
+* **Recognize and address social and contextual power** in participation processes.
+* **Use what already works** (methodologies, communities’ own procedures) and not impose new models when there is already a good basis on which to build.
 
-A key to solving the enormous challenges of citizen participation is to train those involved in the process to become facilitators. Train a group of neighbors in the neighborhoods where intervention takes place with diverse profiles (age, origin, gender…) to facilitate inclusive participation.
+{% quote %}A key to solving the enormous challenges of citizen participation is to train those involved in the process to become facilitators. Train a group of neighbors in the neighborhoods where intervention takes place with diverse profiles (age, origin, gender…) to facilitate inclusive participation.{% endquote %}
 
-<!-- [The Moving Communities](https://wotify.eu/blog/t_tool_package/moving-communities/) methodology is a collaborative working platform for developing ideas focused on building societies with greater equality, sustainability, solidarity, and sense of social justice -->
+{% gallery { "images": [{"path":"/media/moving_communities.png","caption":"The Moving Communities methodology is a collaborative working platform for developing ideas focused on building societies with greater equality, sustainability, solidarity, and sense of social justice","alt":"Moving Communities","bw":true}] } %}
 
 ### Challenge 3: Make information on digital rights and data privacy accessible
 
@@ -66,9 +66,7 @@ On the other hand, the data and proposals collected in the participatory process
 
 On the other hand, it is key that the technical staff in public participation facilities and services integrate the participation system into their daily work and are proactive in informing service users and proposing improvements for their greater involvement.
 
-
 {% file { "title": "If you like this article", "info": "support our work by buying the T-shirt to freshen up your democratic praxis and your fall fashion!", "file": "https://wotify.eu/premium-toolkits/", "image": "/assets/media/no_image-file.png", "button_text": "Support", "button_icon": "" } %}
-
 
 ### Challenge 4: Direct democracy platforms as a public citizen service for training and digital mediation
 

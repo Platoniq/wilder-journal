@@ -12,11 +12,13 @@ description: In this article we focus on the situation women face within the
   within them? Are them ours?
 author: tayrine-dias
 cover:
-  path: /assets/media/no_image-hero.png
+  path: /media/articles/heroes/sticker_2.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
+related_article_uids:
+  - prueba
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
