@@ -31,7 +31,7 @@ Today, digital platforms for citizen participation created by local governments 
 
 {% quote %}What if there was a way to make these platforms for citizen participation and our glossary more playful and appealing to encourage interest and interaction with users? It exists and it is called gamification.{% endquote %}
 
-{% gallery { "images": [{"path":"decidim_the_game.jpeg","alt":"Decidim the Game","caption":"This is Decidim the Game, here to help you design your participatory process","credits":""}] } %}
+{% gallery { "images": [{"path":"/media/decidim_the_game.jpeg","alt":"Decidim the Game","caption":"This is Decidim the Game, here to help you design your participatory process"}] } %}
 
 Since academic research, driven by the juicy video game industry, discovered the types of players, the intrinsic motivations and the psychological triggers of impulsive behaviors, gamification has not stopped growing. Elements of the games such as points, leader boards, levels or rewards are being incorporated into educational contexts, human resource management, consumer loyalty or personal and health care. The aim of gamification is to maintain the motivation and commitment of people in activities that do not have a recreational objective. Gamification is especially welcome in environments that are lived or perceived mostly as very boring. Political participation is one of them.
 

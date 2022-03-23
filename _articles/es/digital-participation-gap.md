@@ -12,8 +12,8 @@ description: "En este artículo, nos centramos en la situación de las mujeres
   nosotras? ¿Nos sentimos cómodas en ellos? ¿Son nuestros?"
 author: tayrine-dias
 cover:
-  path: /media/articles/heroes/sticker_2.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  path: /media/articles/heroes/sticker7.png
+  thumbnail: /media/articles/thumbnails/sticker7.png
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
