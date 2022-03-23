@@ -27,7 +27,9 @@ collections:
     custom_permalink_placeholders: ["locale", "volume-uid", "category","uid"]
     permalink: /:locale/:volume-uid/:category/:uid/
   authors:
-    output: false
+    output: true
+    custom_permalink_placeholders: ["locale", "uid"]
+    permalink: /:locale/authors/:uid/
   call_to_actions:
     output: false
   volumes:
@@ -69,6 +71,7 @@ defaults:
       type: authors
     values:
       layout: "author"
+      author: "platoniq"
   - scope:
       type: articles
     values:
