@@ -25,7 +25,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/volumes/social/sticker7.png
 ---
 Like an octopus, the digital sphere holds each time more aspects of our day to day, and more personal than professional. Citizen participation is also incorporating tools to digitally accompany processes. **Thanks to platforms like [Decidim](https://decidim.org/), a large number of people can access, follow, and participate in participatory processes and citizen initiatives that are developed within a specific area**. Not everyone can open the door to enter the digital world, for some the seas of the digital world are unknown. There are those who distrust the tides or have never even seen the sea. This, in other words, is the digital gap.
 

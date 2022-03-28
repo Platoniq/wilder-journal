@@ -25,7 +25,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/volumes/social/sticker7.png
   alt: "# TODO"
 ---
 ### Hipótesis
