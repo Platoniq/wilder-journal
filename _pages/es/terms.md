@@ -12,7 +12,7 @@ call_to_action: cta-contact
 
 Los términos y condiciones que a continuación se indican regulan el acceso y el uso del sitio web https://journal.platoniq.net, realizado por FUNDACIÓN GOTEO, cuyo domicilio social se encuentra en Carrer Forn de l’Olivera 22 -07012 Palma (Illes Balears), cuyo CIF es G577282172, y esta validamente registrada con el número 1438 del Regsitro Estatal de Fundaciones.
 
-- Teléfono de contacto: 34 871 57 15 57 de Lunes a Viernes de 9h a 17:00h.
+- Teléfono de contacto: +34 871 57 15 57 de Lunes a Viernes de 9h a 17:00h.
 - E-mail de contacto: info@goteo.org
 - Twitter: https://twitter.com/fundaciongoteo
 - Facebook: https://www.facebook.com/fundaciongoteo

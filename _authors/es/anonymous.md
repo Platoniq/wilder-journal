@@ -1,7 +1,7 @@
 ---
 uid: anonymous
-name: Anonymous
-position: Desconocida
+name: Anónima
+position: "-"
 image_url: "https://api.multiavatar.com/Anonymous.png"
 locale: es
 ---
