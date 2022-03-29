@@ -48,3 +48,5 @@ Creemos que esta iniciativa puede ser un buen punto de partida para seguir ampli
 Desde esta perspectiva de conocimiento abierto, también creemos que es importante plantear la necesidad de que otras plataformas de crowdfunding (y de software cívico en general) se sumen a liberar sus datos y permitir así un acceso amplio y riguroso de investigaciones derivadas que amplíen este campo de conocimiento.
 
 Finalmente, desde una perspectiva de impacto social basada en la idea de “crowdvocacy”, otras líneas futuras de investigación similar que nos planteamos es la de seguir refinando el análisis de la participación ciudadana en torno a los ODS y plataformas relacionadas con Goteo, así como en su conexión con más stakeholders y actores de la economía, la gobernanza y la sostenibilidad en un sentido amplio.
+
+{% gallery { "simple": true, "images": [{"path":"/media/k294xae.jpg"}] } %}
