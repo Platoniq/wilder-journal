@@ -17,8 +17,6 @@ cover:
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
-related_article_uids:
-  - prueba
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
