@@ -17,8 +17,8 @@ description: "Arantxa Mendiharat imagina mundos posibles: futuros posibles y
 author: xesca-sastre
 interviewee: Arantxa Mendiharat
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  path: /media/articles/heroes/arantxa_mendiharat.jpg
+  thumbnail: /media/articles/thumbnails/arantxa_mendiharat.jpg
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
@@ -28,7 +28,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/volumes/social/arantxa_mendiharat.jpg
   alt: "# TODO"
 ---
 Arantxa Mendiharat imagina mundos posibles: futuros posibles y democracias posibles. Mediadora cultural, co-fundadora de Deliberativa y co-creadora de la web [democraciaporsorteo.org](https://democraciaporsorteo.org), desde el 2016 lleva trabajando profesionalmente en metodologías deliberativas que activan a ciudadanas elegidas por sorteo. Arantxa co-diseña y gestiona proyectos relacionados con la cultura y la participación que aspiran a la transformación de los sistemas políticos. 
@@ -80,8 +80,7 @@ Extinction Rebellion, entidad que está reclamando que se hagan muchas asambleas
 
 En castellano está la web [democraciaporsorteo.org](https://democraciaporsorteo.org), que da las claves de lo que son estos procesos deliberativos y este es el trabajo más importante ahora; darlo a conocer y que se entienda cuál es el interés de estos mecanismos y de ahí crear cultura ciudadana.
 
-{% file { "title": "Si te interesa el tema puedes escuchar este podcast", "info": "En inglés", "file": "https://facilitatingpublicdeliberation.libsyn.com/episode-44-deliberation-around-the-world-with-claudia-chwalisz?tdest_id=1717865", "image": "/assets/media/no_image-file.png", "button_text": "Escuchar", "button_icon": "" } %}
-
+{% file { "title": "Si te interesa el tema puedes escuchar este podcast", "info": "En inglés", "file": "https://facilitatingpublicdeliberation.libsyn.com/episode-44-deliberation-around-the-world-with-claudia-chwalisz?tdest_id=1717865", "image": "/media/stickers/wilder-journal-1/sticker9.png", "button_text": "Escuchar", "button_icon": "" } %}
 
 ### ¿Cómo ha afectado la pandemia a las Asambleas ciudadanas, tanto en su ejecución como en el diseño de las futuras?
 
