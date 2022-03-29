@@ -2,7 +2,7 @@
 layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
-date: 2022-03-29T14:54:59.191Z
+date: 2022-04-20T14:54:59.191Z
 article-order: 1
 uid: recovering-collaborative-governance-through-design-justice
 title: De cómo recuperar la gobernanza colaborativa a través de Design Justice
