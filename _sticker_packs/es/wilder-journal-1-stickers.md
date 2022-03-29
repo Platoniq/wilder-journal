@@ -13,7 +13,7 @@ cover:
   caption: "Pack de stickers para el Wilder Journal #1"
 license: CC
 file:
-  path: /media/sticker_packs/files/wilder-journal-1.zip
+  path: "/media/sticker_packs/files/Wilder Journal #1 - by Platoniq and Alba Feito.zip"
   info: 1.2 MB ZIP
 ---
 \# TODO
