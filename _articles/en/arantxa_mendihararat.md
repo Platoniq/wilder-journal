@@ -13,6 +13,7 @@ description: "Arantxa Mendiharat envisions the possibility of different worlds:
   related to culture and participation which aim to transform our political
   systems."
 author: xesca-sastre
+interviewee: Arantxa Mendiharat
 cover:
   path: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
