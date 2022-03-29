@@ -2,7 +2,7 @@
 layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
-date: 2021-09-27T16:59:41.003Z
+date: 2022-01-01T00:00:00.000Z
 article-order: 1
 uid: vespertilio-homo
 title: "The power to (dis)inform: a journey on the back of the vespertilio homo"

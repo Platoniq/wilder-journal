@@ -2,7 +2,7 @@
 layout: article
 volume-uid: wilder-journal-1
 category: interviews
-date: 2022-04-20T15:55:54.544Z
+date: 2022-01-01T00:00:00.000Z
 article-order: 2
 uid: arantxa-mendiharat
 title: Las Asambleas ciudadanas son espacios de confianza donde la participación
