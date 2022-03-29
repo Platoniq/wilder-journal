@@ -10,15 +10,13 @@ description: In this article we focus on the situation women face within the
   digital gap in terms of our inclusion and belonging in digital participatory
   spaces. Are the spaces accessible and close to us? Do we feel comfortable
   within them? Are them ours?
-author: anonymous
+author: marta-anducas
 cover:
   path: /media/articles/heroes/sticker7.png
   thumbnail: /media/articles/thumbnails/sticker7.png
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
-related_article_uids:
-  - prueba
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

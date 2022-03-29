@@ -10,15 +10,13 @@ description: "En este artículo, nos centramos en la situación de las mujeres
   dentro de la brecha digital, así como en nuestra inclusión y pertenencia a los
   espacios de participación digital: ¿son espacios accesibles y cercanos para
   nosotras? ¿Nos sentimos cómodas en ellos? ¿Son nuestros?"
-author: anonymous
+author: marta-anducas
 cover:
   path: /media/articles/heroes/sticker7.png
   thumbnail: /media/articles/thumbnails/sticker7.png
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
-related_article_uids:
-  - prueba
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
