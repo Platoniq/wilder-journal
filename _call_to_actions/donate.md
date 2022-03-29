@@ -8,7 +8,7 @@ en:
     link: https://fem.goteo.org/en
   image:
     alt: alt text
-    path: /assets/media/no_image-cta.png
+    path: /media/stickers/wilder-journal-1/sticker18.png
 es:
   title: Haz una donación
   content: Apoya este proyecto con tu donación!
@@ -17,5 +17,5 @@ es:
     link: https://fem.goteo.org/es
   image:
     alt: Alt text donar
-    path: /assets/media/no_image-cta.png
+    path: /media/stickers/wilder-journal-1/sticker18.png
 ---
