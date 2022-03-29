@@ -1,5 +1,6 @@
 ---
 volume-uid: wilder-journal-1
+date: 2022-04-20T15:55:54.544Z
 uid: arantxa-mendiharat
 title: "[# TODO] Interview - Arantxa Mendiharat"
 description: "[# TODO] Interview - Arantxa Mendiharat"
