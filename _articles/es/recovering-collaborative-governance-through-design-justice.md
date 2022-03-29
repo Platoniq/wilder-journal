@@ -77,3 +77,26 @@ Echemos un vistazo ahora a esos principios a través de la perspectiva de la des
 \
 \
 Nos entusiasma la idea de Design Justice porque nos proporciona una orientación ética a la hora de decidir quién se sienta a la mesa y cómo deberíamos afrontar la creación de nuevos sistemas e infraestructuras comunitarias.
+
+
+
+### Nuestra historia (un conjunto de datos objetivos que avalan esta idea)
+
+Gran parte de la interpretación de los principios de Design Justice en OH es fruto del desarrollo de nuevas herramientas y la adaptación de Decidim, la plataforma digital del proyecto .
+
+### Creación de un caso (práctico) con y para el muestreo aleatorio
+
+El muestreo aleatorio consiste, de manera muy sucinta, en la conformación de una grupo de trabajo a partir de la selección aleatoria de personas que participan en un proyecto, comunidad o espacio concreto. La idea es que, gracias a esta selección aleatoria, el grupo de trabajo no está definido por políticas o por sesgos que puedan existir en dicho grupo. Platoniq inició la creación de un texto colaborativo y participativo titulado «Manifiesto OpenHeritage» para ilustrar cómo el muestreo aleatorio podría funcionar dentro de OH. Este texto se basa en cada palabra del título del proyecto: OpenHeritage: organización, promoción y capacitación de la reutilización del patrimonio a través de la inclusión, la tecnología, el acceso, la gobernanza y el empoderamiento. Las personas colaboradoras, seleccionadas al azar, escriben una anotación que interconecta sus valores individuales con OH para así crear un texto comleto que refleje una visión unificada a partir de unos contextos patrimoniales diversos. El propio texto sirve a la vez de muestra de la práctica del muestreo aleatorio en el seno de la iniciativa OH y de referencia en cuanto al proceso para los colectivos participantes y para todas aquellas personas que, dentro de la comunidad patrimonial en general, buscan prácticas que adopten una visión imparcial de su propia diversidad a la hora de colaborar y crear de manera conjunta.
+
+### Elaboración de una herramienta para contabilizar las horas de las personas voluntarias
+
+Junto con el laboratorio de Sunderland, Platoniq está desarrollando una función para Decidim que permitirá a las personas voluntarias llevar un registro de sus horas. Esta iniciativa es una forma de acreditar la mano de obra (a menudo precaria) que se necesita para poner en marcha algunos proyectos patrimoniales. De forma similar, el laboratorio de Prädikow también ha manifestado su interés por participar en el proyecto, con el que quieren demostrar a los gestores públicos la cantidad de trabajo no remunerado que conlleva y exigir una compensación mayor por el trabajo en su sitio patrimonial. En ambos proyectos, la necesidad y la práctica del trabajo voluntario es algo inevitable. Sin embargo, la creación de prácticas patrimoniales que visibilicen el trabajo e incluso la precariedad podría servir como herramienta para lograr mejores condiciones laborales o recabar información que permita seguir reivindicando un mayor apoyo institucional y que, con el tiempo, estos espacios se conviertan en bienes públicos, es decir, en lugares de reutilización adaptativa del patrimonio.
+
+
+### Colaboración con la población local para desarrollar una herramienta de gestión de recursos colectivos
+
+En el laboratorio de Roma la población de Centocelle ha formado una cooperativa bajo el nombre CooperACTiva. Esta cooperativa quiere ofrecer paseos en bicicleta por el barrio, un antiguo bastión antifascista. Su objetivo es crear un sistema de reservas y alquiler de bicicletas mediante la plataforma Decidim. Esta iniciativa está gestionada por la propia vecindad y, mediante la intercooperación, Platoniq puede adaptar la plataforma a sus necesidades, en lugar de tener que asumir una estructura de plataforma impuesta. 
+
+### Llamada a la acción
+
+¿Conoces algún ejemplo de justicia de diseño, sobre todo relacionado con la participación y la tecnología? Si es así, ¡queremos saber más!
