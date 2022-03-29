@@ -14,6 +14,6 @@ cover:
 license: CC
 file:
   path: "/media/sticker_packs/files/Wilder Journal by Platoniq - Volume 1 Sticker Pack by Alba Feito.zip"
-  info: 1.2 MB ZIP
+  info: 1.9 MB ZIP
 ---
 \# TODO
