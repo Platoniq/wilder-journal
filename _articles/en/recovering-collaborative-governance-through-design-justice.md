@@ -51,8 +51,6 @@ To recover collaborative governance as an important pillar for building more soc
 
 {% quote %}Infusing collaborative governance with Design Justice creates radical new possibilities for design and collaboration.{% endquote %}
 
-
-
 For example let’s take a look at Ansell and Gash’s (2008) more nuanced six principles of collaborative governance (participedia):
 
 * the process is initiated by a public agency or institution
@@ -61,8 +59,6 @@ For example let’s take a look at Ansell and Gash’s (2008) more nuanced six p
 * the forum is a formal process and organised formally
 * decision making is consensus-oriented
 * the focus is related to public policy or public management
-
-
 
 It looks like it could lend itself to better governance, but again who are these participants with decision making power? And how are they developing a consensus?
 
@@ -98,3 +94,11 @@ In the lab in Rome, residendents of Centocelle have formed a cooperative, Cooper
 ### Call to action
 
 Do you have any example of justice in Design especially in terms of participation and technology? If we’d love to hear more!
+
+
+
+### References
+
+1. [Participedia](https://participedia.net/method/150)
+2. [Wikipedia](https://en.wikipedia.org/wiki/Post-politics) & Davidson, M., & Iveson, K. (2015). Recovering the politics of the city: From the ‘post-political city’ to a ‘method of equality’ for critical urban geography. *Progress in human geography*, 39(5), 543-559.
+3. Hutswit, Gary (director). (October 2011). *Urbanized* \[documentary]. United States: Swiss Dots
