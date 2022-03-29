@@ -78,8 +78,6 @@ Echemos un vistazo ahora a esos principios a través de la perspectiva de la des
 \
 Nos entusiasma la idea de Design Justice porque nos proporciona una orientación ética a la hora de decidir quién se sienta a la mesa y cómo deberíamos afrontar la creación de nuevos sistemas e infraestructuras comunitarias.
 
-
-
 ### Nuestra historia (un conjunto de datos objetivos que avalan esta idea)
 
 Gran parte de la interpretación de los principios de Design Justice en OH es fruto del desarrollo de nuevas herramientas y la adaptación de Decidim, la plataforma digital del proyecto .
@@ -92,7 +90,6 @@ El muestreo aleatorio consiste, de manera muy sucinta, en la conformación de un
 
 Junto con el laboratorio de Sunderland, Platoniq está desarrollando una función para Decidim que permitirá a las personas voluntarias llevar un registro de sus horas. Esta iniciativa es una forma de acreditar la mano de obra (a menudo precaria) que se necesita para poner en marcha algunos proyectos patrimoniales. De forma similar, el laboratorio de Prädikow también ha manifestado su interés por participar en el proyecto, con el que quieren demostrar a los gestores públicos la cantidad de trabajo no remunerado que conlleva y exigir una compensación mayor por el trabajo en su sitio patrimonial. En ambos proyectos, la necesidad y la práctica del trabajo voluntario es algo inevitable. Sin embargo, la creación de prácticas patrimoniales que visibilicen el trabajo e incluso la precariedad podría servir como herramienta para lograr mejores condiciones laborales o recabar información que permita seguir reivindicando un mayor apoyo institucional y que, con el tiempo, estos espacios se conviertan en bienes públicos, es decir, en lugares de reutilización adaptativa del patrimonio.
 
-
 ### Colaboración con la población local para desarrollar una herramienta de gestión de recursos colectivos
 
 En el laboratorio de Roma la población de Centocelle ha formado una cooperativa bajo el nombre CooperACTiva. Esta cooperativa quiere ofrecer paseos en bicicleta por el barrio, un antiguo bastión antifascista. Su objetivo es crear un sistema de reservas y alquiler de bicicletas mediante la plataforma Decidim. Esta iniciativa está gestionada por la propia vecindad y, mediante la intercooperación, Platoniq puede adaptar la plataforma a sus necesidades, en lugar de tener que asumir una estructura de plataforma impuesta. 
@@ -100,3 +97,9 @@ En el laboratorio de Roma la población de Centocelle ha formado una cooperativa
 ### Llamada a la acción
 
 ¿Conoces algún ejemplo de justicia de diseño, sobre todo relacionado con la participación y la tecnología? Si es así, ¡queremos saber más!
+
+### Referencias
+
+1. [Participedia](https://participedia.net/method/150)
+2. [Wikipedia](https://en.wikipedia.org/wiki/Post-politics) & Davidson, M., & Iveson, K. (2015). Recovering the politics of the city: From the ‘post-political city’ to a ‘method of equality’ for critical urban geography. *Progress in human geography*, 39(5), 543-559.
+3. Hutswit, Gary (director). (October 2011). *Urbanized* \[documentary]. United States: Swiss Dots
