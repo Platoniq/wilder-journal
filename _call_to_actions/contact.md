@@ -6,7 +6,7 @@ en:
   button:
     label: Send
   image:
-    path: /assets/media/no_image-cta.png
+    path: /media/stickers/wilder-journal-1/sticker9.png
     alt: Alt text contact en
   form_fields: > 
     <fieldset class="pj-cta-contact">
@@ -23,7 +23,7 @@ es:
   button:
     label: Enviar
   image:
-    path: /assets/media/no_image-cta.png
+    path: /media/stickers/wilder-journal-1/sticker9.png
     alt: Alt text contact es
   form_fields: >
     <fieldset class="pj-cta-contact">

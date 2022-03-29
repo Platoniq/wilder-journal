@@ -6,7 +6,7 @@ en:
   button:
     label: Subscribe
   image:
-    path: /assets/media/no_image-cta.png
+    path: /media/stickers/wilder-journal-1/sticker17.png
     alt: Alt text newsletter en
   form_fields: >
     <fieldset class="pj-cta-newsletter">
@@ -22,7 +22,7 @@ es:
   button:
     label: Suscribirme
   image:
-    path: /assets/media/no_image-cta.png
+    path: /media/stickers/wilder-journal-1/sticker17.png
     alt: Alt text newsleter es
   form_fields: >
     <fieldset class="pj-cta-newsletter">
