@@ -5,8 +5,8 @@ category: interviews
 date: 2022-01-01T12:51:36.642Z
 article-order: 1
 uid: arantxa-mendiharat
-title: "Las Asambleas ciudadanas son espacios de confianza donde la participación
-  es de mayor calidad"
+title: Las Asambleas ciudadanas son espacios de confianza donde la participación
+  es de mayor calidad
 description: "Arantxa Mendiharat imagina mundos posibles: futuros posibles y
   democracias posibles. Mediadora cultural, co-fundadora de Deliberativa y
   co-creadora de la web democraciaporsorteo.org, desde el 2016 lleva trabajando

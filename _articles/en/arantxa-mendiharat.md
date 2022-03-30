@@ -5,8 +5,8 @@ category: interviews
 date: 2022-01-01T12:51:36.642Z
 article-order: 1
 uid: arantxa-mendiharat
-title: "Citizens’ Assemblies provide spaces of trust, with a high degree of
-  direct participation"
+title: Citizens’ Assemblies provide spaces of trust, with a high degree of
+  direct participation
 description: "Arantxa Mendiharat envisions the possibility of different worlds:
   new futures and new democracies. Cultural mediator, co-founder of Delberativa
   and co-creator of the website democraciaporsorteo.org, she has, since 2016,
