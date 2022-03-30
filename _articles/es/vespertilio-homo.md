@@ -20,7 +20,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/volumes/social/vespertilio_homo.png
+  path: /media/articles/social/vespertilio_homo.png
   alt: "# TODO"
 ---
 {% quote { "author": "Ryszard Kapuscinski, Lapidarium IV" } %}Desde que se descubrió que la información es un producto que proporciona suculentos beneficios, dejó de estar sujeta a los criterios tradicionales de la verdad y la mentira.{% endquote %}

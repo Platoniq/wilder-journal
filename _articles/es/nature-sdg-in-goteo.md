@@ -11,8 +11,8 @@ description: Goteo y Dimmons por el crowdfunding cívico y el estudio del impact
   ciudadano del activismo digital
 author: olivier-schulbaum
 cover:
-  path: /media/articles/heroes/screenshot-from-2022-03-30-13-36-59.png
-  thumbnail: /media/articles/thumbnails/screenshot-from-2022-03-30-13-36-59.png
+  path: /media/articles/heroes/fingerprint.png
+  thumbnail: /media/articles/thumbnails/fingerprint.png
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
@@ -22,7 +22,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/screenshot-from-2022-03-30-13-36-59.png
+  path: /media/articles/social/fingerprint.png
   alt: "# TODO"
 ---
 **Goteo y Dimmons por el crowdfunding cívico y el estudio del impacto ciudadano del activismo digital**

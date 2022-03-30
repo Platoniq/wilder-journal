@@ -20,7 +20,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/volumes/social/vespertilio_homo.png
+  path: /media/articles/social/vespertilio_homo.png
 ---
 Did you know that in the mid-19th century, thanks to the great scientific advances made by the astronomer Sir John Herschel, the *vespertilio homo* –a short-haired, shiny creature with wings composed of a thin, hairless membrane– was discovered on the Moon?
 
