@@ -12,8 +12,8 @@ description: Development of a dataset on civic crowdfunding and Sustainable
   collaboration between stakeholders
 author: olivier-schulbaum
 cover:
-  path: /media/articles/heroes/screenshot-from-2022-03-30-13-36-59.png
-  thumbnail: /media/articles/thumbnails/screenshot-from-2022-03-30-13-36-59.png
+  path: /media/articles/heroes/fingerprint.png
+  thumbnail: /media/articles/thumbnails/fingerprint.png
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
@@ -25,7 +25,7 @@ stickers:
   sticker_two: null
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/screenshot-from-2022-03-30-13-36-59.png
+  path: /media/articles/social/fingerprint.png
   alt: "# TODO"
 ---
 With an early release of open research data in the Social Sciences, we present the results of a pioneering initiative that unites action research and open knowledge, developed in collaboration between the [Dimmons research group of the Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/in3/recerca/grups/digital_commons) and the [Goteo civic crowdfunding initiative](http://www.goteo.org/).
