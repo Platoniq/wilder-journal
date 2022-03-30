@@ -2,11 +2,11 @@
 layout: article
 volume-uid: wilder-journal-1
 category: interviews
-date: 2022-01-01T00:00:00.000Z
-article-order: 2
+date: 2022-01-01T12:51:36.642Z
+article-order: 1
 uid: arantxa-mendiharat
-title: Las Asambleas ciudadanas son espacios de confianza donde la participación
-  es de mayor calidad
+title: "Las Asambleas ciudadanas son espacios de confianza donde la participación
+  es de mayor calidad"
 description: "Arantxa Mendiharat imagina mundos posibles: futuros posibles y
   democracias posibles. Mediadora cultural, co-fundadora de Deliberativa y
   co-creadora de la web democraciaporsorteo.org, desde el 2016 lleva trabajando
@@ -20,8 +20,8 @@ cover:
   path: /media/articles/heroes/arantxa_mendiharat.jpg
   thumbnail: /media/articles/thumbnails/arantxa_mendiharat.jpg
   alt: "# TODO"
-  credits: "# TODO"
   caption: "# TODO"
+  credits: "# TODO"
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
