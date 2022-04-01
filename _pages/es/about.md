@@ -10,19 +10,17 @@ description: La Fundación Platoniq diseña procesos participativos digitales y
   sociedades y organizaciones más democráticas y justas, haciendo uso de
   tecnologías cívicas abiertas.
 ---
-# ¿Quiénes somos y qué hacemos?
-
 La Fundación Platoniq diseña procesos participativos digitales y facilita metodologías innovadoras de participación para contribuir a formar sociedades y organizaciones más democráticas y justas, haciendo uso de tecnologías cívicas abiertas.
 
 Es además impulsora de la plataforma de crowdfunding cívico Goteo.org, a través de la cual financia iniciativas con impacto social -a nivel regional, nacional e internacional-, fomenta el cooperativismo y refuerza el conjunto de la Economía Social y Solidaria. Por ello, la Fundación es miembro de la XES (Xarxa d’Economia Solidària de Catalunya).
 
 La Fundación promueve la transparencia, la economía colaborativa y ética, la innovación democrática y la replicabilidad de las experiencias. Se financia a través de alianzas con instituciones públicas y privadas que comparten su misión y visión. Contamos con 23 personas contratadas distribuidas entre las oficinas de Barcelona, Madrid, Roma y Palma (sede social y fiscal) y un equipo de colaboradores en el estado español y en otros países europeos.
 
-# ¿Cuál es nuestra misión?
+## ¿Cuál es nuestra misión?
 
 Impulsar una cultura democrática inclusiva y la economía cooperativa, social y solidaria, basadas en la gobernanza colaborativa, la sostenibilidad y la participación a través de las tecnologías cívicas abiertas, la innovación, el acceso a la financiación y la creatividad.
 
-# ¿Cuáles son nuestros valores?
+## ¿Cuáles son nuestros valores?
 
 * Valentía, curiosidad y ambición en abordar retos difíciles o inexplorados.
 * Espíritu “hacker”
@@ -46,7 +44,7 @@ Impulsar una cultura democrática inclusiva y la economía cooperativa, social y
 * Una cultura organizacional siempre abierta y proactiva a la mejora y al cambio.
 * Internacionalidad desde lo Mediterráneo
 
-# ¿Hacia dónde nos dirigimos?
+## ¿Hacia dónde nos dirigimos?
 
 En 2021 iniciamos un proceso colectivo para diseñar el plan estratégico de la Fundación Platoniq para 2022-2025. Con esta planificación creamos el futuro deseado al que queremos dirigirnos como organización. De este proceso nacieron las cuatro líneas maestras de actuación en las que se engloba la actividad de la Fundación.
 
