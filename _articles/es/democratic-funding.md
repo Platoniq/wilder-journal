@@ -44,7 +44,9 @@ En este artículo hablaremos de estas dos herramientas, los Presupuestos Partici
 
 * En los **presupuestos participativos** la ciudadanía puede presentar proyectos y decidir a dónde va el dinero, pero los proyectos se ejecutan desde la Administración, con todas sus limitaciones en el proceso, integración de diversidad y ejecución final.
 
-![](https://i.imgur.com/NeR5Mrl.png)
+{% gallery { "simple": false, "images": [{"path":"/media/democratic-funding-steps.png","bw":true,"alt":"Blabla","caption":"Blabla","credits":"Blablai"}] } %}
+
+
 
 * En el **matchfunding** la ciudadanía presenta y ejecuta a través de una campaña de micromecenazgo una iniciativa cuyos costes son cubiertos a partes iguales entre personas donantes y Administración.
 
