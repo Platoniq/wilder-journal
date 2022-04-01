@@ -4,7 +4,7 @@ volume-uid: wilder-journal-1
 category: interviews
 date: 2022-04-01T13:49:06.964Z
 article-order: 3
-uid: crowdfunding-memoria-historica-bien-comun
+uid: crowdfunding-historical-memory-common-good
 title: La memoria histórica como bien común
 description: Reunimos a dos campañas que nunca deberían haber sido necesarias
 author: joan-cabot
@@ -33,9 +33,9 @@ Antes de plantear este artículo, hablamos con la [Asociación para la Recuperac
 
 Esas dos campañas y sus respectivos colectivos a las que nos referimos son [La Intervención en la Fosa de Parasimón](https://ca.goteo.org/project/intervencion-fosa-de-parasimon), de la Asociación de Familiares y Amigos "Fosa de Parasimón" y [Denunciando al Torturador](https://www.goteo.org/project/denunciando-al-torturador), de [La Comuna Presxs del Franquismo](http://www.lacomunapresxsdelfranquismo.org/).
 
-<div style= "text-align: center; margin-top: 40px; margin-bottom: 40px;">
-<img style="margin: 0 auto" src="//data.goteo.org/600x600/00-mockup-poster-parasimon.jpg">
-</div>
+{% gallery { "simple": true, "images": [{"path":"https://data.goteo.org/600x600/00-mockup-poster-parasimon.jpg","bw":true}] } %}
+
+
 
 Para nuestra alegría, los colectivos aceptaron, poniéndonos en contacto con Toño (Parasimón) y Ana (Presxs del Franquismo). Así, dispusimos un espacio virtual donde se encontraran y escuchamos su experiencia. 
 

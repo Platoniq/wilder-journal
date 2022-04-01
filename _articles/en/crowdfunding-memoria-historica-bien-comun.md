@@ -4,7 +4,7 @@ volume-uid: wilder-journal-1
 category: interviews
 date: 2022-04-01T13:49:06.964Z
 article-order: 3
-uid: crowdfunding-memoria-historica-bien-comun
+uid: crowdfunding-historical-memory-common-good
 author: joan-cabot
 interviewee: Asociación de Familiares y Amigos "Fosa de Parasimón" y La Comuna
   Presxs del Franquismo
