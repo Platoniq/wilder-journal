@@ -22,7 +22,7 @@ related_article_uids:
   - recovering-collaborative-governance-through-design-justice
   - vespertilio-homo
 stickers:
-  layout: layout-one
+  layout: layout-none
   sticker_one_animation: animation-breathe
   sticker_two_animation: animation-breathe
   sticker_one: /media/stickers/wilder-journal-1/sticker1.png
@@ -36,7 +36,7 @@ No toda la ciudadanía tiene el anteriormente derecho y ahora privilegio de un c
 
 En este artículo echamos la vista atrás para entender como los modelos tradicionales de organización sindical ya no suelen ser efectivos por la alta temporalidad, las diferencias culturales y, sobre todo, por la fragmentación de la mano de obra. Nos acompañarán principalmente Las Kellys quienes nacieron como un grupo de WhatsApp en 2014, formaron una asociación en 2016 y hoy día forman el Sindicato Las Kellys. Junto a ellas otros muchos son ejemplo del neo-sindicalismo que ha llegado para quedarse.
 
-### <center>`Antes de nada ¿Quiénes son Las Kellys?`
+## Antes de nada ¿Quiénes son Las Kellys?
 
 {% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/sj3dH73.jpg","alt":"Las Kellys","caption":"Las Kellys","credits":"Las Kellys"}] } %}
 
@@ -44,7 +44,7 @@ Las Kellys son las camareras de piso afectadas por procesos de externalización 
 
 Trabajando codo a codo con ellas, están las camareras de piso que no han sufrido este deterioro en sus condiciones de trabajo, pertenecen a sindicatos mayoritarios y no han sentido de forma tan directa la necesidad de reivindicar estas mejoras corporativas relacionadas con la externalización. Esta primera diferencia es clave a la hora de establecer las demandas y de comprender el conflicto en torno a sus condiciones laborales. Para estas últimas el convenio colectivo de hostelería sigue siendo el referente a la hora de establecer sus derechos laborales, por lo que su lucha se centra dentro del sector de hostelería y no por las mejoras corporativas de las camareras de pisos como hacen las Kellys.
 
-### <center>`Vale, recuérdame para qué sirve un sindicato`
+## Vale, recuérdame para qué sirve un sindicato
 
 {% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/hyX91RS.jpg"}] } %}
 
@@ -58,7 +58,7 @@ Esta temporalidad es fuente de inseguridad, tanto personal, como social y moneta
 
 Con la externalización la empresa subcontrata puestos centrales de su actividad en diversas empresas, abaratando costes y controlando el conflicto laboral tendente a diferenciar los puestos de trabajo. Con estas reformas cada trabajadora puede tener condiciones distintas y se dificuta la negociación colectiva unitaria al limitar la efectividad de los convenios sectoriales. Al romper con el escenario donde las personas viven en condiciones relativamente similares y tiene experiencias colectivas comunes a través de su puesto de trabajo, se fragmenta la identidad laboral, como ya hemos visto en el caso de las camareras de piso. 
 
-### <center>`La delegación sindical fantasma` 👻
+## La delegación sindical fantasma 👻
 
 {% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/xFevzy2.png"}] } %}
 
@@ -66,7 +66,7 @@ Con la externalización la empresa subcontrata puestos centrales de su actividad
 
 Así es como desde la empresa se limita en muchas ocasiones la capacidad de organización sindical entre las camareras de piso, limitando la comunicación entre trabajadoras de diferentes empresas y creando mayor indefensión y aislamiento entre aquellas que ya están externalizadas. Las Kellys viven a diario la ausencia en su entorno laboral de una persona que las apoye y defienda sus intereses, junto al miedo a perder sus empleos. Estos factores incrementan la brecha entre esta sensación de falta de representación y la propia capacidad de denuncia y de participación sindical. Su percepción es que los sindicatos hacen poco esfuerzo por informar y por hacerles llegar las herramientas disponibles, siendo en muchos casos inmigrantes y desconociendo el sistema jurídico e incluso el idioma.
 
-### <center>`Las Kellys rompiendo esquemas: asociación, sindicato y mucho más`
+## Las Kellys rompiendo esquemas: asociación, sindicato y mucho más
 
 {% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/ZvzBPsw.png"}] } %}
 
@@ -82,7 +82,7 @@ Reivindicar desde dentro de la empresa sólo se dará en hoteles donde se organi
 
 Que las Kellys sean asociación y sindicato a la vez les permite ser más flexibles que un sindicato mayoritario. La asociación es el canal de entrada y atención a las trabajadoras que necesitan ayuda, siendo más acogedor para personas no sindicalizadas, y a su vez permite atender demandas de aquellas personas que no están amparadas en su centro de trabajo. De este modo, a través de la asociación hacen labor de asesoramiento y acompañamiento a las camareras de piso sin que necesariamente estas estén afiliadas. Así, contribuyen a establecer redes más allá de la afiliación dejando la obtención de delegaciones sindicales en un plano secundario en su modelo de acción. 
 
-### <center>`¿Hay más como ellas?`
+# ¿Hay más como ellas?
 
 {% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/sLyxgSS.png"}] } %}
 
