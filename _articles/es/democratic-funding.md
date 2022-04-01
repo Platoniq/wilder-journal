@@ -46,8 +46,6 @@ En este artículo hablaremos de estas dos herramientas, los Presupuestos Partici
 
 {% gallery { "simple": false, "images": [{"path":"/media/democratic-funding-steps.png","bw":true,"alt":"Blabla","caption":"Blabla","credits":"Blablai"}] } %}
 
-
-
 * En el **matchfunding** la ciudadanía presenta y ejecuta a través de una campaña de micromecenazgo una iniciativa cuyos costes son cubiertos a partes iguales entre personas donantes y Administración.
 
 ¿De dónde vienen los presupuestos participativos?
@@ -116,11 +114,9 @@ Así, en las convocatorias de Matchfunding la elección de proyectos es competen
 
 ¿Cabría la posibilidad de recibir "encargos" de proyecto por parte de la ciudadanía y que las plataformas de micromecenazgo, junto a las administraciones impulsoras de Presupuestos Participativos, enontraran chef para cocinarlas a demanda?
 
-Rendición de cuentas: ¿Dónde está Wally?
+### Rendición de cuentas: ¿Dónde está Wally?
 
-![](https://www.goteo.org/img/700x0/wally.jpeg)
-
-¿Qué pasa si un proyecto rompe las reglas del crowdfunding? ¿Quién es responsable de completar un proyecto como se prometió?
+{% questions { "items": [{"question":"¿Qué pasa si un proyecto rompe las reglas del crowdfunding?"},{"question":"¿Quién es responsable de completar un proyecto como se prometió?"}] } %}
 
 En toda selección de proyectos hay un equipo de confianza y seguridad que revisa a fondo cada propuesta y toma las máximas medidas de precaución existentes, sin embargo es responsabilidad del creador del proyecto completarlo. Aunque en algunos procesos participativos puede llegar a intervenirse en el proceso creativo del mismo, ni las pataformas de micromecenazgo ni las instituciones administran su cumplimiento.
 
