@@ -82,7 +82,7 @@ Reivindicar desde dentro de la empresa sólo se dará en hoteles donde se organi
 
 Que las Kellys sean asociación y sindicato a la vez les permite ser más flexibles que un sindicato mayoritario. La asociación es el canal de entrada y atención a las trabajadoras que necesitan ayuda, siendo más acogedor para personas no sindicalizadas, y a su vez permite atender demandas de aquellas personas que no están amparadas en su centro de trabajo. De este modo, a través de la asociación hacen labor de asesoramiento y acompañamiento a las camareras de piso sin que necesariamente estas estén afiliadas. Así, contribuyen a establecer redes más allá de la afiliación dejando la obtención de delegaciones sindicales en un plano secundario en su modelo de acción. 
 
-# ¿Hay más como ellas?
+## ¿Hay más como ellas?
 
 {% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/sLyxgSS.png"}] } %}
 
