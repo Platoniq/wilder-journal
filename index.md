@@ -1,4 +1,4 @@
 ---
 permalink: /
-redirect_to: /en/
+redirect_to: /en/wilder-journal-1/
 ---
