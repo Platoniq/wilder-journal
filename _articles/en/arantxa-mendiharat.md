@@ -89,7 +89,7 @@ One of the biggest and most surprising lessons about the pros and cons of digita
 
 With regards to people who struggle to take part in the digital world in general, important mediative work is being done to help; resources which were previously used for transport are now being used to provide the tools needed to participate (internet connection, guidance in using digital tools and processes, etc). In fact, at the Scottish Citizens’ Assembly there is one participant who had never previously used the internet at all, and there are also several people who had never taken part in online discussions before. It’s not a perfect solution, but there are definitely some advantages to holding these deliberative proceedings online.
 
-### EntoncSo, would you say that digital innovation has a lot to offer to democracy?
+### So, would you say that digital innovation has a lot to offer to democracy?
 
 Yes, especially to connect the people selected via sortition, who act as a cross-section, with the general public. Digital platforms such as Decidim allow these processes to be as transparent as possible, and facilitate constant channels of communication between the selected group and the public. This is where, to my mind, digital tools can have the biggest impact.
 

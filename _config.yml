@@ -67,11 +67,6 @@ defaults:
       layout: "journal"
       author: "platoniq"
   - scope:
-      type: authors
-    values:
-      layout: "author"
-      author: "platoniq"
-  - scope:
       type: articles
     values:
       layout: "article"
