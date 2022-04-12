@@ -15,6 +15,9 @@ en:
       <label>Email</label>
       <input type="email" name="email" />
     </fieldset>
+  filled:
+    title: Thank you for joining our newsletter!
+    content: You will get fresh news in your inbox very soon
 
 es:
   title: ¡Suscribete a nuestro boletín!
@@ -31,4 +34,7 @@ es:
       <label>Email</label>
       <input type="email" name="email" />
     </fieldset>
+  filled:
+    title: ¡Gracias por suscribirte a nuestro boletín!
+    content: Muy pronto tendrás noticias frescas
 ---
