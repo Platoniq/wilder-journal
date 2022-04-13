@@ -26,7 +26,7 @@ image:
   path: /media/articles/social/sticker7.png
   alt: "# TODO"
 ---
-### Hipótesis
+## Hipótesis
 
 Como un pulpo, la esfera digital abarca cada vez más aspectos de nuestro día a día, tanto a nivel personal como profesional. No exenta de sus tentáculos, la participación ciudadana está también incorporando herramientas de acompañamiento digital a sus procesos.
 
@@ -36,7 +36,7 @@ Gracias a plataformas de democracia participativa como Decidim, un mayor número
 
 {% quote { "author": "Holis" } %}Gracias a plataformas de democracia participativa como Decidim, un mayor número de personas puede acceder, seguir y ser partícipe de los procesos participativos e iniciativas ciudadanas.{% endquote %}
 
-### ¿Por qué creemos que esta cuestión es relevante?
+## ¿Por qué creemos que esta cuestión es relevante?
 
 La brecha digital propaga las desigualdades sociales, económicas, políticas y culturales existentes en la sociedad. Esto significa que, cuanto más comunes sean las nuevas tecnologías en nuestra cotidianidad personal y profesional, mayor será la desigualdad que produce y reproduce la brecha digital (1).
 
@@ -44,9 +44,9 @@ Cuando incluimos la perspectiva de género en dicha brecha, somos capaces de ana
 
 Finalmente, cabe destacar la falta de datos y estudios sobre la inclusión de identidades de género disidente en la participación digital. De hecho, en ninguna de las publicaciones consultadas se hace mención a este colectivo, tomando siempre como referencia el binomio mujer-hombre. Aunque en este artículo tampoco vamos a enfocarnos en este colectivo, sembramos la semilla para la reflexión y futuros análisis.
 
-### Estado de la cuestión
+## Estado de la cuestión
 
-#### La brecha digital de género
+### La brecha digital de género
 
 Un estudio de 2016, titulado “La brecha en la ciudad de Barcelona” y realizado por Mobile World Capital Barcelona (5), afirma que “*la brecha de género de acceso y uso de Internet no existe en la ciudad de Barcelona, situándose en línea con los países nórdicos europeos*”. Este podría ser un buen titular para la sección digital de cualquier periódico local, pero solo muestra una cara de la moneda. A pesar de que, cuantitativamente, barcelonesas y barceloneses acceden y usan internet en proporciones similares, precisamos profundizar y matizar los conceptos de “acceso” y “uso” para dudar de tamaña afirmación, dar la vuelta a la moneda y preguntarnos: **¿realmente no existe brecha digital de género en Barcelona?**
 
@@ -58,7 +58,7 @@ Un estudio de 2018, “El ecosistema de las TIC desde la perspectiva de género 
 
 Este breve recorrido demuestra, además, que es necesario usar lupa y pala en análisis de las brechas de la desigualdad. Lupa para encontrar las rendijas que se disimulan bajo el manto cuantitativo de la igualdad; pala para ahondar en la fisura y descubrir el iceberg que se esconde debajo de los números y los buenos titulares.
 
-### Las mujeres en los espacios de participación digital: los datos
+## Las mujeres en los espacios de participación digital: los datos
 
 Un estudio realizado en Estados Unidos en 2019, “The Gender Gap in Online News Comment Sections” (2), ha analizado la participación de mujeres y hombres en los comentarios a las noticias de diversos portales digitales. El estudio desvela que las mujeres tienden a comentar menos que los hombres en los artículos que se refieren al ámbito estatal, nacional e internacional. En la esfera local, la dinámica cambia y son ellas las que intervienen más. Como conclusión, el estudio sugiere que **el origen de esta brecha es producto de la socialización política de las mujeres** y, por tanto, de la perpetuación de los roles de género: ellas son las encargadas del espacio privado (local) mientras que ellos siguen siendo los dueños de la esfera pública.
 
@@ -76,17 +76,17 @@ No obstante, navegamos. Aunque no nos sintamos cómodas ni seguras, agarramos la
 
 Desde Platoniq, nos cuestionamos e indagamos cómo deben ser los fundamentos de los espacios participativos. Estamos, por un lado, en el continuo desarrollo del framework **“Safe(r) Spaces”**, un marco de trabajo que, a partir de la discriminación estructural, busca nuevas formas de generar comunidades y voces plurales. Por otro lado, estamos desarrollando un manual de formación a facilitadoras y facilitadores de procesos participativos con perspectiva de género y transición digital, en el cual, a partir de la experiencia directa de organizaciones y comunidades, se puedan establecer unos buenos fundamentos para la construcción de espacios de participación — presencial y digital — más femeninos, plurales e inclusivos.
 
-### Más preguntas para la reflexión y el análisis
+## Más preguntas para la reflexión y el análisis
 
 
 
 {% questions { "items": [{"question":"¿Si mejoramos la brecha digital de género mejoraremos la participación ciudadana?"},{"question":"¿Hay un estilo de participación propio para los grupos socializados de géneros diferentes?"},{"question":"Si mujeres de diferentes distritos, edades, culturas, nivel económico y de empoderamiento diseñaran una metodología de procesos de participación, ¿utilizarían la tecnología digital?"},{"question":"¿Son los espacios de participación digital cercanos, amables y accesibles para las mujeres?"}] } %}
 
-### Call to action
+## Call to action
 
 Si tienes experiencia o información sobre estas cuestiones que nos ayuden a entender mejor las necesidades y, por lo tanto, a redactar un mejor manual de formación para facilitadores/as de participación, ¡[contáctanos](mailto:info@platoniq.net)! Queremos conocerte y conversar contigo. Nos encontrarás en [info@platoniq.net](mailto:info@platoniq.net).
 
-### Referencias
+## Referencias
 
 1. Chang, Younghoon & Shahzeidi, Mehri & Kim, Hyerin & Park, Myeong-cheol, 2012. “[Gender digital divide and online participation: A cross-national analysis](https://ideas.repec.org/p/zbw/itsb12/72506.html),” [19th ITS Biennial Conference, Bangkok 2012: Moving Forward with Future Technologies — Opening a Platform for All](https://ideas.repec.org/s/zbw/itsb12.html)
 2. Duyn, Emily & Peacock, Cynthia & Stroud, Natalie. (2019). The Gender Gap in Online News Comment Sections. Social Science Computer Review.

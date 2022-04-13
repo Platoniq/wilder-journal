@@ -39,7 +39,7 @@ Diferentes bulos, la misma Luna; diferentes medios, la misma credulidad, **¿qu�
 
 En este artículo, miramos atrás para entender cómo ha evolucionado la producción, distribución y consumo de bulos. El pasado es una excelente fuente de aprendizaje si sabemos leerlo correctamente y, por ello, queremos incluir al personal bibliotecario como garante –ayer, hoy y siempre– del acceso a la información de calidad. Asimismo, ponemos también el foco en las personas jóvenes y el personal docente, protagonistas en el proceso de construcción de una ciudadanía activa con capacidad crítica.
 
-### ¿Por qué creemos que esta cuestión es relevante?
+## ¿Por qué creemos que esta cuestión es relevante?
 
 La desinformación no es un fenómeno nuevo y [la Historia está llena de falsedades](https://www.thesocialhistorian.com/fake-news/): algunas han modificado el rumbo de los acontecimientos, otras han generado suculentos beneficios para unos pocos, otras han reforzado prejuicios y generado estados de ánimo colectivos, y muchas [han provocado violencia](https://www.politico.eu/article/fake-news-elections-trump-media/).
 
@@ -55,9 +55,9 @@ Como señala el [Reuters Institute Digital News Report 2020](https://reutersinst
 
 En este contexto, **combatir la desinformación es urgente e imprescindible**. Para ello, nos proponemos revisar el pasado y, desde la distancia, aprender de los bulos históricos para evitar que nos la vuelvan a colar.
 
-### Estado de la cuestión
+## Estado de la cuestión
 
-#### El poder de (des)informar
+### El poder de (des)informar
 
 Las editoriales de periódicos, radios y televisiones han monopolizado, desde la invención de la imprenta, el poder de informar. Bajo su mandato, o línea editorial, se decidía qué era noticiable y qué era necesario destacar, a quién se daba voz y a quién se mantenía al margen. En consecuencia, han sido también las responsables de la difusión de los bulos históricos, desde el *vespertilio homo* hasta la [carta Zinóviev](https://es.wikipedia.org/wiki/Carta_Zinoviev), entre muchísimos otros.
 
@@ -71,7 +71,7 @@ Si, en 1835, alguien dudaba de la existencia del *vespertilio homo* “solo” t
 
 De la misma manera que el fenómeno de la desinformación se ha globalizado, también lo ha hecho la información. Actualmente, nos encontramos ante un cambio de paradigma en el que las personas hemos dejado de ser consumidoras pasivas de (des)información, a optar por un rol activo en el ciclo de producción, distribución y consumo de información. **El poder de informar se ha distribuido.**
 
-#### Medios para la (des)información
+### Medios para la (des)información
 
 A finales de 1938, Orson Wells dramatizó “[La guerra de los mundos](https://es.wikipedia.org/wiki/La_guerra_de_los_mundos_(radio))” en su programa de radio. Para mayor entretenimiento del público, el equipo productor (*The Mercury Theatre*) decidió adaptar la novela de H. G. Wells al medio radiofónico y utilizó un formato tipo noticiario para relatar la invasión extraterrestre. Aunque se avisó de la ficción, fueron muchas las personas que se creyeron la historia y entraron en pánico, o eso cuenta el mito.
 
@@ -89,7 +89,7 @@ A diferencia de los medios tradicionales, los nuevos medios de comunicación –
 
 Si bien los bulos han sacado rédito de las características de los nuevos medios de comunicación, también encontramos **propuestas que aprovechan dichas características para promover el conocimiento y la información**. Por un lado, las organizaciones de fact-checking han utilizado las redes sociales para combatir la desinformación en línea e incentivar la participación. Por otro, **Wikipedia ha aprovechado la redistribución de poder para crear un lugar de conocimiento abierto, colaborativo y distribuido**, con una sólida base de referencias que sustenta el contenido, un sistema de trazabilidad histórica y páginas de diálogo abiertas para los temas controvertidos. En este modelo, la información ha dejado de ser una “verdad” única y unidireccional para convertirse en una experiencia y conocimiento compartido y distribuido.
 
-#### Contenidos para la desinformación
+### Contenidos para la desinformación
 
 La finalidad de la desinformación es y ha sido siempre engañar o manipular al público para lograr determinados objetivos interesados. Aunque encontramos bulos de diversas temáticas, los más abundantes han sido, tradicionalmente, los vinculados a la política, la migración y la ciencia. No obstante, los bulos se adaptan a los hechos y tendencias del momento y lo hemos podido comprobar en los últimos meses con la pandemia del coronavirus y el crecimiento exponencial de los [bulos relacionados con la salud](https://www.verificat.cat/salut/es).
 
@@ -101,7 +101,7 @@ Entonces, no todas las noticias históricas que han resultado ser falsas se han 
 
 [A pesar de las críticas](https://es.wikipedia.org/wiki/Wikipedia#Cr%C3%ADticas) y de que [Wikipedia no es una fuente fiable](https://es.wikipedia.org/wiki/Wikipedia:Wikipedia_no_es_una_fuente_fiable), los hechos recientes han mostrado cómo esta plataforma ha logrado mantener a raya la desinformación en tiempos de pandemia e *infodemia*, [demostrando ser un modelo a tener en cuenta](https://www.theatlantic.com/ideas/archive/2021/07/cdc-should-be-more-like-wikipedia/619469/) tanto en la promoción del conocimiento como en la lucha contra la desinformación.
 
-#### Datos y desinformación
+### Datos y desinformación
 
 Un 67% de las personas encuestadas para el [Digital News Report España 2021](https://www.digitalnewsreport.es/) se muestran preocupadas por la desinformación, siendo el estado español uno de los países analizados por el Reuters Institute donde mayor inquietud social existe por este fenómeno. El informe reporta, además, que hay más preocupación por la desinformación que circula a través de redes sociales y aplicaciones de mensajería instantánea (50%) que por la que se difunde a través de canales informativos (11%). No obstante, seis de cada diez internautas de hasta 45 años (61%) utilizan las redes sociales como fuente informativa.
 
@@ -109,7 +109,7 @@ El [Estudio de los factores condicionantes de la desinformación](https://labora
 
 Por otro lado, las personas entrevistadas en nuestro [estudio de referencia](http://smiles.platoniq.net/processes/output1/f/140/?locale=es) coinciden en que, aunque no se trabaja mucho la alfabetización mediática, hay un gran interés y demanda educativa en formación sobre desinformación tanto para estudiantes como para personal docente. Asimismo, destacan que es necesario dotar a las personas jóvenes de competencias para analizar críticamente la información.
 
-### ¿Cómo abordamos la pregunta desde Platoniq?
+## ¿Cómo abordamos la pregunta desde Platoniq?
 
 Ante la desinformación, las expertas insisten en la necesidad de difundir manuales o códigos de buenas prácticas y consideran que la formación de la ciudadanía, la alfabetización mediática y digital, y la creación de conciencia crítica son las únicas formas de combatir la *infodemia*.
 
@@ -117,13 +117,13 @@ Desde Platoniq coincidimos totalmente en la necesidad de **alfabetizar, crear ci
 
 En este sentido, estamos embarcadas en el proyecto europeo [SMILES](http://smiles.platoniq.net/) en el que apostamos por la capacitación de personal docente y bibliotecario para que puedan desarrollar talleres contra la desinformación con estudiantes de secundaria. Queremos trabajar, además, junto con Wikipedia y Verificat para crear comunidad y poner en valor modelos de producción y verificación de la información desde una perspectiva crítica, compartida y distribuida.
 
-### Call to action
+## Call to action
 
 {% questions { "items": [{"question":"¿Quieres reivindicar el papel de las bibliotecas como paraguas contra la desinformación y lugar de capacitación de usuarias críticas?"},{"question":"¿Te imaginas crear una atmósfera similar a la que ingenió Orson Wells para hablar sobre la desinformación con tus estudiantes y potenciar su pensamiento crítico?"},{"question":"¿Quieres demostrar a tus profes que Wikipedia es un repositorio fiable de información?"}] } %}
 
 {% file { "title": "Si como bibliotecaria, docente o estudiante quieres sumarte a la lucha contra la desinformación", "info": "contáctanos a facilita@platoniq.net y te contaremos en qué estamos y cómo puedes ser parte del proyecto SMILES.", "file": "mailto:facilita@platoniq.net", "image": "/media/stickers/wilder-journal-1/sticker4.png", "button_text": "Contáctanos", "button_icon": "" } %}
 
-### Referencias
+## Referencias
 
 1. Anducas-Armengou, Marta & Nadesan, Nadia. (2021). *SMILES Baseline Study - Country Report.* Fundación Platoniq. [http://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline\_study\_-_Country_report_Spain-ES.pdf](http://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline_study_-_Country_report_Spain-ES.pdf)
 2. Amoedo, Avelino; Kaufmann, Jürg; Moreno, Elsa; Negredo, Samuel & Vara-Miguel, Alfonso. (2021). *DIGITALNEWSREPORT.ES 2021: Periodismo de calidad y cercanía para combatir la infodemia*. Digital News Report. <https://www.digitalnewsreport.es/>
