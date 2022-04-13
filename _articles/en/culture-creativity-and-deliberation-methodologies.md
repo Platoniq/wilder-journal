@@ -76,8 +76,8 @@ How should digital participatory and deliberative methodologies combine cultural
 
 ## References
 
-1. [http://diana-n.iue.it:8080/bitstream/handle/1814/62424/PB_2019_10_Globalstat.pdf?sequence=5&isAllowed=y](<1. http://diana-n.iue.it:8080/bitstream/handle/1814/62424/PB_2019_10_Globalstat.pdf?sequence=5&isAllowed=y>)
-2. **According to the CIS:** [http://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html](<1. http://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html>)
+1. [https://cadmus.eui.eu/bitstream/handle/1814/62424/PB_2019_10_Globalstat.pdf?sequence=5&isAllowed=y](https://cadmus.eui.eu/bitstream/handle/1814/62424/PB_2019_10_Globalstat.pdf?sequence=5&isAllowed=y)
+2. **According to the CIS:** [http://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html](http://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html)
 3. Cortés-Cediel, M. E., Cantador, I., & Bolívar, M. P. R. (2019). ***Analyzing citizen participation and engagement in european smart cities. Social Science Computer Review, 0894439319877478.***
 
 ## Call to action
