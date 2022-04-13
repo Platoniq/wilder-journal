@@ -42,8 +42,6 @@ How should democracies function to foster inclusive, non-violent and plural citi
 
 When it comes to democratic forms of social organization, the academic, civic and political efforts have focused on identifying the elements composing strong and substantial deliberative practices, that is, how and which interactions participants engage in, who is included as part of those processes and how participatory arenas should be configured.
 
-
-
 {% questions { "items": [{"question":"How should democracies function to foster inclusive, non-violent and plural citizen engagement to generate social justice?"}] } %}
 
     Let’s start by discussing the settings of those arenas. From the public sphere to counterpublics or even hashtag publics, those spaces have been imagined either for free and open discussion of public matters and interests (Habermas, 1984, Fraser, 1992), as parallel discursive arenas to circulate counterdiscourses (Fraser, 1992), or even as “the space constructed through networked technologies” to share understandings, identities or consensus (boyd, 2010, p. 39-40). In sum, to participate and deliberate, it is necessary to constitute and join a space for gathering, in which participants will engage in specific interactions. These arenas do not need to involve all people affected by them but may constitute minipublics, in which dozens to thousands participate, maintaining their democratic and deliberative features (Ney and Verweij, 2014, p. 627). Even though ideally these spaces are free, open and inclusive, more often than not marginalized groups struggle to express themselves when their experience and context is not taken into account.
@@ -72,15 +70,15 @@ How should digital participatory and deliberative methodologies combine cultural
 
 {% questions { "items": [{"question":"How should digital participatory and deliberative methodologies combine cultural artifacts, collective experience, historical heritage and art?"}] } %}
 
-Culture Labs creates contextualized recipes and ingredients to promote engagement of marginalized communities, investigates and proposes the use of digital platforms for facilitating the access to Cultural Heritage through tailor-made novel experiences, creative reuse, enrichment and co-creation. Generating empathy is the key mediating mechanism to promote social inclusion through storytelling.
+[Culture Labs](https://culture-labs.eu/methodology-of-culturelabs/) creates contextualized recipes and ingredients to promote engagement of marginalized communities, investigates and proposes the use of digital platforms for facilitating the access to Cultural Heritage through tailor-made novel experiences, creative reuse, enrichment and co-creation. Generating empathy is the key mediating mechanism to promote social inclusion through storytelling.
 
-ComparteTuRollo is another project that put historical heritage in the center of a participation process to build Colombia’s historical memory. As much as for Beuys every human being is an artist, this project welcomed participants as history co-creators, democratizing civic creativity to engage and promote digital inclusion. 
+[ComparteTuRollo](http://platoniq.net/en/ecreative/p/17/colombia-co-crear-la-memoria-colectiva-del-pais-a-traves-de-500-bibliotecas-publicas-/) is another project that put historical heritage in the center of a participation process to build Colombia’s historical memory. As much as for Beuys every human being is an artist, this project welcomed participants as history co-creators, democratizing civic creativity to engage and promote digital inclusion. 
 
 ## References
 
-1. http://diana-n.iue.it:8080/bitstream/handle/1814/62424/PB_2019_10_Globalstat.pdf?sequence=5&isAllowed=y
-2. According to the CIS: http://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html
-3. Cortés-Cediel, M. E., Cantador, I., & Bolívar, M. P. R. (2019). Analyzing citizen participation and engagement in european smart cities. Social Science Computer Review, 0894439319877478.
+1. [http://diana-n.iue.it:8080/bitstream/handle/1814/62424/PB_2019_10_Globalstat.pdf?sequence=5&isAllowed=y](<1. http://diana-n.iue.it:8080/bitstream/handle/1814/62424/PB_2019_10_Globalstat.pdf?sequence=5&isAllowed=y>)
+2. **According to the CIS:** [http://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html](<1. http://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html>)
+3. Cortés-Cediel, M. E., Cantador, I., & Bolívar, M. P. R. (2019). ***Analyzing citizen participation and engagement in european smart cities. Social Science Computer Review, 0894439319877478.***
 
 ## Call to action
 
