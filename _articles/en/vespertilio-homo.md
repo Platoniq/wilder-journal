@@ -36,7 +36,7 @@ Different hoaxes, same Moon; different media, same credulity, **what can we lear
 
 In this article, we look back to understand how the production, distribution and consumption of hoaxes has evolved. The past is an excellent source of learning if we know how to read it correctly and, therefore, we want to include librarians as guarantees — yesterday, today and always — of access to quality information. Likewise, we also focus on young people and teachers, protagonists in the process of building an active citizenship with critical capacity.
 
-### Why do we think this question is relevant?
+## Why do we think this question is relevant?
 
 Disinformation is not a new phenomenon and [History is full of falsehoods](https://www.thesocialhistorian.com/fake-news/): some have changed the course of events, others have generated succulent profits for a few, others have reinforced prejudices and generated collective moods, and many [have provoked violence](https://www.politico.eu/article/fake-news-elections-trump-media/).
 
@@ -54,7 +54,7 @@ In this context, **fighting disinformation is urgent and essential**. To this en
 
 ## State of the art
 
-#### The power to (dis)inform
+### The power to (dis)inform
 
 Since the invention of the printing press, newspaper, radio and television publishers have monopolized the power to inform. Under their mandate, or editorial line, it was decided what was newsworthy and what was necessary to highlight, who was given a voice and who was kept on the sidelines. Consequently, they have also been responsible for the dissemination of historical hoaxes, from the *vespertilio homo* to the [Zinoviev letter](https://en.wikipedia.org/wiki/Zinoviev_letter), among many others.
 
@@ -64,7 +64,7 @@ If, in 1835, someone doubted the existence of the vespertilio homo “only” ha
 
 Just as the phenomenon of disinformation has globalized, so has information. Nowadays, we are facing a paradigm shift in which people are no longer passive consumers of (dis)information, but opt for an active role in the cycle of production, distribution and consumption of information. **The power to inform has been distributed**.
 
-#### Media for (dis)information
+### Media for (dis)information
 
 In late 1938, Orson Wells dramatized “[The War of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama))” on his radio program. For the public’s entertainment, the production team (*The Mercury Theatre*) decided to adapt H. G. Wells’ novel to the radio medium and used a news-bulletin format to relate the alien invasion. Although warned of the fiction, many people believed the story and panicked, or so the myth goes.
 
@@ -80,7 +80,7 @@ Unlike traditional media, the new media –in addition to having increased the n
 
 While hoaxes have exploited the characteristics of the new media, **we also find proposals that take advantage of these characteristics to promote knowledge and information**. On the one hand, fact-checking organizations have used social networks to fight online disinformation and encourage participation. On the other, **Wikipedia has leveraged the redistribution of power to create an open, collaborative and distributed place of knowledge**, with a strong reference base underpinning content, a system of historical traceability and open dialogue pages for controversial topics. In this model, information is no longer a single, unidirectional “truth” but a shared and distributed experience and knowledge.
 
-#### Contents for disinformation
+### Contents for disinformation
 
 The purpose of disinformation is and has always been to deceive or manipulate the public to achieve certain self-interested objectives. Although we find hoaxes on various topics, the most abundant have traditionally been those related to politics, migration and science. However, hoaxes adapt to the events and trends of the moment, as we have seen in recent months with the coronavirus pandemic and the exponential growth of [health-related hoaxes](https://www.verificat.cat/salut/es).
 
@@ -92,7 +92,7 @@ Therefore, not all historical news that have turned out to be false have been ma
 
 Despite [the criticism](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_is_not_so_great) and that [Wikipedia is not a reliable source](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_not_a_reliable_source), recent events have shown how this platform has managed to keep disinformation at bay in times of pandemic and *infodemic*, [proving to be a model to be considered](https://www.theatlantic.com/ideas/archive/2021/07/cdc-should-be-more-like-wikipedia/619469/) with both in the promotion of knowledge and in the fight against disinformation.
 
-### Story of us
+## Story of us
 
 67% of the people surveyed for the [Digital News Report Spain 2021](https://www.digitalnewsreport.es/) are concerned about disinformation, being Spain one of the countries analyzed by Reuters Institute where there is more social unease about this phenomenon. The report also reveals that there is more concern about disinformation circulating through social networks and instant messaging applications (50%) than the one disseminated through news channels (11%). However, six out of ten Internet users up to 45 years of age (61%) use social networks as a source of information.
 
@@ -100,7 +100,7 @@ The [Study of the conditioning factors of disinformation](https://laboratoriodep
 
 On the other hand, the people interviewed in our [baseline study](http://smiles.platoniq.net/processes/output1/f/140/?locale=es) agree that, although media literacy is not being worked on much, there is a great interest and educational demand for training on disinformation for both students and teachers. They also emphasize the need to provide young people with the skills to critically analyze information.
 
-### The story of now: how do we at Platoniq try to answer the question
+## The story of now: how do we at Platoniq try to answer the question
 
 In the face of misinformation, the experts insist on the need to disseminate manuals or codes of good practice and consider that citizen training, media and digital literacy, and the creation of critical awareness are the only ways to combat info-demia.
 
@@ -108,13 +108,13 @@ From Platoniq we fully agree on the need to **teach literacy, create critical ci
 
 In this sense, we are involved in the [SMILES](http://smiles.platoniq.net/) European project in which we are committed to training teachers and librarians so that they can develop workshops against disinformation with high school students. We also want to work together with Wikipedia and Verificat to create community and value models of production and verification of information from a critical, shared and distributed perspective.
 
-### Call to action
+## Call to action
 
 {% questions { "items": [{"question":"Do you want to reclaim the role of libraries as an umbrella against disinformation and a place for training critical users?"},{"question":"Can you imagine creating an atmosphere similar to the one Orson Wells engineered to talk about disinformation with your students and empower their critical thinking?"},{"question":"Want to show your teachers that Wikipedia is a reliable repository of information?"}] } %}
 
 {% file { "title": "If as a librarian, teacher or student you want to join the fight against disinformation", "info": "contact us at facilita@platoniq.net and we will tell you what we are doing and how you can be part of the SMILES project.", "file": "mailto:facilita@platoniq.net", "image": "/media/stickers/wilder-journal-1/sticker4.png", "button_text": "Contact us", "button_icon": "" } %}
 
-### Resources and references
+## Resources and references
 
 1. Anducas-Armengou, Marta & Nadesan, Nadia. (2021). *SMILES Baseline Study — Country Report.* Fundación Platoniq. [http://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline\_study\_-_Country_report_Spain-ES.pdf](http://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline_study_-_Country_report_Spain-ES.pdf)
 2. Amoedo, Avelino; Kaufmann, Jürg; Moreno, Elsa; Negredo, Samuel & Vara-Miguel, Alfonso. (2021). *DIGITALNEWSREPORT.ES 2021: Periodismo de calidad y cercanía para combatir la infodemia*. Digital News Report. <https://www.digitalnewsreport.es/>

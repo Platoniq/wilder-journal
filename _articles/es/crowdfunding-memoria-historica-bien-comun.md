@@ -35,8 +35,6 @@ Esas dos campañas y sus respectivos colectivos a las que nos referimos son [La 
 
 {% gallery { "simple": true, "images": [{"path":"https://data.goteo.org/600x600/00-mockup-poster-parasimon.jpg","bw":true}] } %}
 
-
-
 Para nuestra alegría, los colectivos aceptaron, poniéndonos en contacto con Toño (Parasimón) y Ana (Presxs del Franquismo). Así, dispusimos un espacio virtual donde se encontraran y escuchamos su experiencia. 
 
 **Toño**: Bien. Nosotros iniciamos el proyecto como una tarea familiar, que no era otra que recuperar los restos de mi abuelo, que estaba en una fosa común. Mi abuelo y otros compañeros. La idea era partir de un proyecto familiar y darle un contenido más cívico, más social. Porque **un riesgo que tienen todas estas iniciativas es el de acabar privatizando lo que pensamos, tiene que ser una tarea pública y colectiva**. Por ello, aparte de necesitar financiar el proyecto (las personas que participan en él son voluntarias, pero todo acto de exhumación tiene unos gastos derivados ineludibles), lo que queríamos era involucrar a la sociedad civil y que así lo acogieran otro tipo de personas, otra gente... y aprovechar también para denunciar la inacción del Estado. El olvido de sus obligaciones para con los ciudadanos de este país que están enterrados injustamente en unas fosas. Esas eran las tres patas que cubría nuestro proyecto: **financiar, implicar y denunciar**. 
@@ -69,11 +67,11 @@ Para nuestra alegría, los colectivos aceptaron, poniéndonos en contacto con To
 
 Si quieres saber como siguió el resto de diálogo, te invitamos a visionar este y otros cortes que iremos colgando en próximas actualizaciones en este mismo artículo.
 
-<iframe allowfullscreen="" frameborder="0" height="360" mozallowfullscreen="" src="https://player.vimeo.com/video/338221426" style=" display: block; margin: 20px auto;" webkitallowfullscreen="" width="100%"></iframe> 
+{% video { "title": "Encuentro entre Toño (Parasimón) y Ana (Presxs del Franquismo) #MemoriaHistórica", "url": "https://player.vimeo.com/video/338221426" } %}
 
 Desde la Fundación Goteo, vemos que este mismo objetivo de crear movimiento sucede no sólo con la Memoria Histórica sino con otros proyectos cívicos, como en la campaña [\#LibertadParaInformar](https://www.goteo.cc/libertadparainformar), donde los impulsores hicieron un llamamiento a compartir solidaria y responsablemente la sanción económica impuesta a Clemente Bernad y Carolina Martínez por investigar misas de claro carácter franquista celebradas en la cripta del Monumento a los caídos de Pamplona. ¿Cual fue el resultado? Reunieron ¡en sólo 3 días! los 5489€ necesarios para pagar la totalidad de la multa. Increíble, esperanzador e inspirador.
 
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/PcF1T7ZeoBs" width="100%"></iframe>   
+{% video { "title": "#LibertadParaInformar", "url": "https://www.youtube.com/embed/PcF1T7ZeoBs" } %}
 
 En ellos, como en este, la ciudadanía se organiza, lanza su campaña (que nosotros llamamos “de incidencia política”) y así muchas veces el sector político acaba “teniendo” que hacer caso cuando ven el apoyo que han conseguido levantar. Vemos cómo se genera la presión que posteriormente lleva al cambio. Creemos que cada uno de estos pasos deja una Huella Democrática que nos permite seguir avanzando hacia la sociedad que deseamos y merecemos. Pronto os contamos más acerca de las tres Huellas que iremos impulsando desde Goteo: Huella Social, Huella Democrática y Huella Ecológica. 
 
