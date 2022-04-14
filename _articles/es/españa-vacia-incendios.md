@@ -67,13 +67,13 @@ Hechas las presentaciones, Javier, Miguel y Roger se dieron cita en videoconfere
 
 **Javier (Civio)**: De los 525 municipios en toda España con zonas declaradas de alto riesgo de incendios, sólo 61 disponen de planes de prevención. En muchos casos son municipios pequeños con mucha masa forestal y no disponen de recursos económicos para llevar a cabo el plan. Muchas veces no es fácil identificar la propiedad de los terrenos, requisito previo a cualquier intervención en ellos. Existe una descoordinación entre la administración y los agentes rurales, un desconocimiento de las casuísticas y problemáticas de aspectos claves como la despoblación rural, el envejecimiento de la población, la falta de recursos... donde es muy difícil cambiar dinámicas. 
 
-<iframe src="https://www.youtube.com/embed/RYnNhSB4a4o" width="80%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style=" display: block; margin: 20px auto;"></iframe>
+{% video { "title": "Intervención de Fundación Ciudadana Civio en el DialoGoteo 'La España vaciada y sus incendios'", "url": "https://www.youtube.com/embed/RYnNhSB4a4o" } %}
 
 **Roger (Rebrotem)**: Muy de acuerdo. En la zona donde vivo (Ribera d'Ebre) hemos visto como la masa forestal se ha duplicado y eso es un problema. La regresión del sector primario es evidente pues se ha perdido mucha de la gente que vivía de la tierra: vino, aceite, fruta dulce... se pagan a precios insuficientes por parte de las grandes distribuidoras y no es posible competir con el producto de importación, que se consigue a un precio más barato, siendo más interesante para los márgenes de ganancia de grandes superfícies de alimentación. El cambio climático actual agrava la situación: clima seco, altas temperaturas y fuertes vientos son capaces de romper la barrera de la atmosfera, provocando una "lluvia de fuego" que lo arrasa todo.
 
 Todos estos factores (clima, despoblación y falta de planes de prevención) son fatales. Aquí, en Cataluña, el incendio en Ribera d'Ebre ha llevado la gestión forestal al debate político nacional. A nivel social podemos hacer más y ya se están formando ADF (Asociaciones de Defensa Forestal). En Rebrotem estamos viendo eso, que era el momento de hacer el llamamiento a la ciudadanía para activar la solidaridad y la conciencia sobre esta problemática. Fue así como nos pusimos en contacto con Fundación Goteo para iniciar la campaña de crowdfunding y conseguir cofinanciar con la plataforma solidaria esa recuperación, estableciendo un mínimo de 50.000€ y un óptimo de 250.00€ (a fecha de hoy llevan 84.372€). El objetivo a largo plazo es que administración y población recuperen esa vinculación de la que hablaba Javier.
 
-<iframe src="https://www.youtube.com/embed/Z_cFyY6uoec" width="80%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style=" display: block; margin: 20px auto;"></iframe>
+{% video { "title": "Intervención del colectivo Rebrotem en el DialoGoteo 'La España vaciada y sus incendios'", "url": "https://www.youtube.com/embed/Z_cFyY6uoec" } %}
 
 **Miguel (Proxecto Batefogo)**: Bien, nuestro proyecto nace de la iniciativa conjunta de varias personas que trabajamos en el ámbito de la educación social. La falta de un aparato administrativo y la falta de recursos nos indicaba que habí que hacer algo y nos pusimos a ello. Cuando empezamos a investigar descubrimos que la mayor parte del presupuesto para combatir esta situación iba a parar a la limpieza de masa forestal y no había practicamente nada destinado a sensibilización ambiental, y lo que había estaba destinado a públicos que, por lo menos que nosotros sabemos, poco tiene que ver con los incendios. Hacer charlas en colegios e institutos está bien, pero quizás una criatura de ocho años no es la principal responsable de los grandes incendios, por lo menos aquí en Galicia. 
 
@@ -87,7 +87,7 @@ Fuimos descubriendo que la gestión del monte, tanto en el ámbito de la madera 
 
 De ahí surge abrir un espacio de debate y contactamos con una serie de autoras, que no trabajaban específicamente esa área de prevención, pero sí una reflexión hecha en clave de género en ámbito dispares, pero muy relacionados. Esas reflexiones quedan plasmadas en el libro "Árbores que non arden" editado por Catro Ventos, que se cofinancia a través de la plataforma de Goteo.
 
-<iframe src="https://www.youtube.com/embed/j90xCW31w0s" width="80%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style=" display: block; margin: 20px auto;"></iframe>
+{% video { "title": "Intervención de Proxecto Botefogo en el DialoGoteo 'La España vaciada y sus incendios'", "url": "https://www.youtube.com/embed/j90xCW31w0s" } %} 
 
 ### Conclusiones
 
@@ -101,7 +101,7 @@ Como vemos, con las dinámicas actuales, se atajan las consecuencias y se obvia 
 
 Si ya nos parecieron muy interesantes las actividades que cada uno de estos colectivos llevan a cabo, lo que nos terminó de fascinar fue el intercambio de ideas y pareceres que se produjo a continuación. Es diálogo, que en la redacción llamamos cariñosamente "DiáloGoteo", está disponible en el siguiente video. 
 
-<iframe src="https://www.youtube.com/embed/J6932KwaAAU" width="80%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style=" display: block; margin: 20px auto;"></iframe>
+{% video { "title": "Civio, Rebrotem y Proxecto Batefogo dialogan acerca de la prevención en incendios forestales en España", "url": "https://www.youtube.com/embed/J6932KwaAAU" } %}
 
 Sin más, nos despedimos, dedicando este artículo a todas esas personas lucháis a diario, y a mi abuela también, para que tengamos la sensibilidad e inteligencia de cooperar, compartir saberes y preservar la vida. Y ya sabes, puedes empezar aportando lo que puedas a sus campañas a través de [Goteo.org](https://www.goteo.org/discover?q=incend&review=0) 😉
 
