@@ -101,7 +101,7 @@ Dos casos paradigmáticos de esta combinación de crowdfunding y presupuestos pa
 
 En este apartado vamos a sacar la lupa y hacer un ejercicio tan doloroso como necesario. Si son muchas las virtudes, no son pocas las flaquezas ni los retos que se viven en la práctica. Identificamos tres aspectos como los más sensibles: divulgación de la propuesta, evaluación de los proyectos y rendición de cuentas.
 
-Divulgación de la propuesta: Diseñamos ergo Decidimos
+### Divulgación de la propuesta: Diseñamos ergo Decidimos
 
 Ambas herramientas siguen siendo desconocidas para la mayor parte de la población, cuya confianza en su capacidad para participar de forma activa en la sociedad se ha visto mermada junto a las valoración que otorgan a sus representantes políticos.
 
@@ -109,7 +109,7 @@ La capacidad de impulsar un proceso serio con reglas claras, requiere también d
 
 La coexistencia actual de proceso participativos "puros", que hemos llamado modelo Porto Alegre, junto a otros etiquetados como tal pero que se ejecutan más bien como un “espectáculo” (para un solo político o la ciudad en su conjunto) de democracywashing que un dispositivo real de participación ciudadana, perjudican la poca fe que aún atesora parte de la ciudadanía empoderada. En esta situación es crucial mantener una distancia crítica y no confundir discursos ideológicos y logros reales, así como seguir desarrollando herramientas descentralizadas que faciliten la iniciativa y organización de abajo a arriba, como encontramos en [Decidim.org](https://decidim.org/es/), una plataforma digital con infraestructura abierta que incluye código, documentación, diseño, formación, un marco legal, interfaces colaborativas, una comunidad de usuarias, facilitadoras que ayudan a personas, organizaciones e instituciones públicas a auto-organizarse democráticamente en todas las escalas.
 
-Evaluación de los proyectos: más allá del menú y la carta
+### Evaluación de los proyectos: más allá del menú y la carta
 
 ![](https://www.goteo.org/img/700x0/cooking-democracy.jpeg)
 
@@ -131,18 +131,16 @@ Ese sistema de confianza compartido con las personas cofinanciadoras, que decide
 
 [Europapress](https://www.europapress.es/madrid/noticia-madrid-volvera-tener-presupuestos-participativos-votando-proyectos-viables-podrian-ejecutarse-anos-20210624183145.html) cita el caso de los presupuestos participativos en Madrid y el desfase entre la aprobación y su materialización, ya que gran número de propuestas ciudadanas tuvieron que ejecutarse en varias anualidades debido a su magnitud o complejidad e indican que "de hecho, entre 2016 y julio de 2019, de un total de 1.214 proyectos participativos, 998 no se ejecutaron, lo que supone elc 82 por ciento", llegando al punto en que en la actualidad y según certifica el Boletín Oficial del Ayuntamiento de Madrid (BOAM), ya \[se han declarado en “inviabilidad sobrevenida” los 182 proyectos](En Madrid, por ejemplo, leemos en [El Diario.es](https://www.eldiario.es/madrid/somos/noticias/ayuntamiento-madrid-entierra-182-proyectos-ciudadanos-carmena_1_8299637.html) ciudadanos que recibieron suficientes votos para ser aprobados durante las ediciones de los años 2016, 2017, 208 y 2019.
 
-## Más preguntas para la reflexión y el análisis
-
-{% questions { "items": [{"question":"¿Si mejoramos la brecha digital de género mejoraremos la participación ciudadana?"},{"question":"¿Hay un estilo de participación propio para los grupos socializados de géneros diferentes?"},{"question":"Si mujeres de diferentes distritos, edades, culturas, nivel económico y de empoderamiento diseñaran una metodología de procesos de participación, ¿utilizarían la tecnología digital?"},{"question":"¿Son los espacios de participación digital cercanos, amables y accesibles para las mujeres?"}] } %}
-
-- - -
-
-Sin nosotras no hay democracia (feminista)
+### Bonus Track: Sin nosotras no hay democracia (feminista)
 
 Las teorías de la modernización sugieren que el desarrollo socioeconómico fomenta la mejora en la vida de todos los ciudadanos, incluidas las mujeres, a medida que la sociedad se transforma de agraria a industrial y luego a posindustrial. Además, Inglehart, en su teoría revisada de la modernización, afirma que la modernización trae cambios socioeconómicos y culturales que resultan en una mayor igualdad de género en la política (Inglehart & Welzel, 2005). Sin embargo, las estadísticas mundiales de género no reflejan esa afirmación. En todo el mundo, las mujeres son marginales en la política, y esto es cierto independientemente del nivel de modernización económica dentro de los países. Un dato revelador es comprobar que en las 493 ciudades con más de un millón de habitantes, sólo hay 29 alcaldesas y de las 27 megaciudades que tienen más población que algunos países, ninguna estaba dirigida por mujeres hasta 2015 (UnitedCities and Local Governments, 2015).
 
 Los impedimentos a la participación política de las mujeres se pueden categorizar en términos generales en tres grandes grupos: barreras socioeconómicas, políticas y socioculturales. Las barreras socioeconómicas clave identificadas comprenden las responsabilidades familiares, la falta de educación y las finanzas. En algunas ocasiones se menciona explícitamente la violencia y el acoso en torno a las actividades públicas en general y la política en particular como un problema grave, a las que se suma las actitudes negativas de los políticos varones y la falta de iniciativas de los partidos políticos para garantizar una mayor participación femenina en la organización y la jerarquía del partido, disuadiendo el acceso de las mujeres a la política.
 
-¿Podría pues una participación descentralizada en el espacio y el tiempo, como son los presupuestos participativos y el crowdfunding, ser una brecha donde la democracia se abriera paso? \*\*Veamos la participación de mujeres en plataformas como Decidim, AhoraMadrid o Goteo.
+¿Podría pues una participación descentralizada en el espacio y el tiempo, como son los presupuestos participativos y el crowdfunding, ser una brecha donde la democracia se abriera paso? Tenemos los datos de participación de mujeres en plataformas como Decidim, AhoraMadrid o Goteo para comprobarlo.
 
-¡AQUÍ NECESITO DATOS!\*\*
+## Más preguntas para la reflexión y el análisis
+
+{% questions { "items": [{"question":"¿Si mejoramos la divulgación de las propuestas mejoraremos la participación ciudadana?"},{"question":"¿Debemos \"reparar\" nuestras democracias o reimaginarlas?"},{"question":"¿Quiénes pueden supervisar la legitimidad de un proceso participativo?"},{"question":"¿Es el participatory washing un mal endémico incurable o un escollo a superar?"}] } %}
+
+- - -
