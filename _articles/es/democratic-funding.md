@@ -40,11 +40,11 @@ Otras, sin embargo, entienden que la participación ciudadana debe ser mayor, as
 
 **En este artículo hablaremos los Presupuestos Participativos y el Matchfunding, dos herramientas que ya han permitido a miles de personas decidir a qué destinar los recursos públicos y hacer realidad iniciativas de bienestar social. Lo primero será dar una breve definición de cada una, luego pasaremos a profundizar en sus fortalezas y debilidades, para terminar puntualizando algunos de sus principales retos así como logros que ya celebramos.** 
 
-{% quote { "author": "Chris Colin" } %}Diversos estudios muestran que la juventud es más propensa a votar en elecciones locales y nacionales tras participar en presupuestos participativos: más propensos a entrar en edificios municipales, meterse en política, hablar con un funcionario público, hacer voluntariado y confiar en sus habilidades.{% endquote %}
+{% quote { "author": "Chris Colin (1)" } %}Diversos estudios muestran que la juventud es más propensa a votar en elecciones locales y nacionales tras participar en presupuestos participativos: también más propensa a entrar en edificios municipales, meterse en política, hablar con un funcionario público, hacer voluntariado y confiar en sus habilidades.{% endquote %}
 
 ## ¿Por qué creemos que esta cuestión es relevante?
 
-Los presupuestos participativos pueden ser una de las vías para recuperar la credibilidad en las instituciones, pues, como muy bien dice Molina (1), los presupuestos participativos «no sólo tratan de participar en la toma de decisiones, sino que ponen en práctica las condiciones y mecanismos para que esa condición sea posible, lo que implica **mejorar y hacer transparente la gestión, que es el camino para erradicar las conductas corruptas**».
+Los presupuestos participativos pueden ser una de las vías para recuperar la credibilidad en las instituciones, pues, como muy bien dice Molina (2), los presupuestos participativos «no sólo tratan de participar en la toma de decisiones, sino que ponen en práctica las condiciones y mecanismos para que esa condición sea posible, lo que implica **mejorar y hacer transparente la gestión, que es el camino para erradicar las conductas corruptas**».
 
 El Matchfunding a su vez y como financiación colectiva de proyectos, junto a la recepción de aportaciones ciudadanas mediante campañas de crowdfunding, **permite a organizaciones destinar recursos propios en proyectos ya validados por el apoyo social**.
 
@@ -147,4 +147,13 @@ Los impedimentos a la participación política de las mujeres se pueden categori
 
 {% questions { "items": [{"question":"¿Si mejoramos la divulgación de las propuestas mejoraremos la participación ciudadana?"},{"question":"¿Debemos \"reparar\" nuestras democracias o reimaginarlas?"},{"question":"¿Quiénes pueden supervisar la legitimidad de un proceso participativo?"},{"question":"¿Es el participatory washing un mal endémico incurable o un escollo a superar?"}] } %}
 
-- - -
+## Call to action
+
+Si tienes experiencia o información sobre estas cuestiones que nos ayuden a entender mejor las necesidades y existencia de nuevas herramientas de empoderamiento ciudadano, ¡[contáctanos](mailto:info@platoniq.net)! Queremos conocerte y conversar contigo. Nos encontrarás en [info@platoniq.net](mailto:info@platoniq.net).
+
+## Referencias
+
+1. https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html 
+2. A. B. Ruble, «Introduction: Globalism and Local Realities-Five Paths to the Urban Future», en M. A. Cohen (ed.), Preparing for the Urban Future, Washington, 1996, p. 1, citado por J. Molina Molina, Los presupuestos participativos. Un modelo para priorizar objetivos y gestionar eficientemente en la Administración local, Pamplona, Thomson Reuters, 2010, p. 342.
+3. Fung, Archon y Wright, Erik Olin (2003), “Thinking about empowered participatory governance”, en Archon Fun y Erik Olin Wright (editors), Deeping democracy, Londres, Verso..
+4. Frase, Nancy (1996), "Redistribución y reconocimiento: hacia una visión integrada de justicia del género", New School for Social Research, Nueva York
