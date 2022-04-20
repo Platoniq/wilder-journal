@@ -52,9 +52,7 @@ En este punto creemos útil, tanto para quien ya domina la cuestión como para q
 
 * En los **presupuestos participativos** la ciudadanía puede presentar proyectos y decidir a dónde va el dinero, pero los proyectos se ejecutan desde la Administración, con todas sus limitaciones en el proceso, integración de diversidad y ejecución final. 
 
-<div style= "text-align: center; margin-top: 0px; margin-bottom: 40px;">
-<img style="margin: 0 auto" src="https://i.imgur.com/NeR5Mrl.png">
-</div>
+{% gallery { "simple": true, "images": [{"path":"/media/participatorybudget.png","alt":"Presupuestos Participativos","caption":"Presupuestos Participativos","credits":"."}] } %}
 
 * En el **matchfunding** la ciudadanía presenta y ejecuta a través de una campaña de micromecenazgo una iniciativa cuyos costes son cubiertos a partes iguales entre personas donantes y Administración.
 
