@@ -123,6 +123,8 @@ Así, en las convocatorias de Matchfunding la elección de proyectos es competen
 
 ### Rendición de cuentas: ¿Dónde está Wally?
 
+{% gallery { "simple": true, "images": [{"path":"/media/find-walfo-.png"}] } %}
+
 {% questions { "items": [{"question":"¿Qué pasa si un proyecto rompe las reglas del crowdfunding?"},{"question":"¿Quién es responsable de completar un proyecto como se prometió?"}] } %}
 
 En toda selección de proyectos hay un equipo de confianza y seguridad que revisa a fondo cada propuesta y toma las máximas medidas de precaución existentes, sin embargo es responsabilidad del creador del proyecto completarlo. Aunque en algunos procesos participativos puede llegar a intervenirse en el proceso creativo del mismo, ni las pataformas de micromecenazgo ni las instituciones administran su cumplimiento.
@@ -132,6 +134,8 @@ Ese sistema de confianza compartido con las personas cofinanciadoras, que decide
 [Europapress](https://www.europapress.es/madrid/noticia-madrid-volvera-tener-presupuestos-participativos-votando-proyectos-viables-podrian-ejecutarse-anos-20210624183145.html) cita el caso de los presupuestos participativos en Madrid y el desfase entre la aprobación y su materialización, ya que gran número de propuestas ciudadanas tuvieron que ejecutarse en varias anualidades debido a su magnitud o complejidad e indican que "de hecho, entre 2016 y julio de 2019, de un total de 1.214 proyectos participativos, 998 no se ejecutaron, lo que supone elc 82 por ciento", llegando al punto en que en la actualidad y según certifica el Boletín Oficial del Ayuntamiento de Madrid (BOAM), ya \[se han declarado en “inviabilidad sobrevenida” los 182 proyectos](En Madrid, por ejemplo, leemos en [El Diario.es](https://www.eldiario.es/madrid/somos/noticias/ayuntamiento-madrid-entierra-182-proyectos-ciudadanos-carmena_1_8299637.html) ciudadanos que recibieron suficientes votos para ser aprobados durante las ediciones de los años 2016, 2017, 208 y 2019.
 
 ### Bonus Track: Sin nosotras no hay democracia (feminista)
+
+{% gallery { "simple": true, "images": [{"path":"/media/feminismo-carlos-rodriguez-estacio.jpeg"}] } %}
 
 Las teorías de la modernización sugieren que el desarrollo socioeconómico fomenta la mejora en la vida de todos los ciudadanos, incluidas las mujeres, a medida que la sociedad se transforma de agraria a industrial y luego a posindustrial. Además, Inglehart, en su teoría revisada de la modernización, afirma que la modernización trae cambios socioeconómicos y culturales que resultan en una mayor igualdad de género en la política (Inglehart & Welzel, 2005). Sin embargo, las estadísticas mundiales de género no reflejan esa afirmación. En todo el mundo, las mujeres son marginales en la política, y esto es cierto independientemente del nivel de modernización económica dentro de los países. Un dato revelador es comprobar que en las 493 ciudades con más de un millón de habitantes, sólo hay 29 alcaldesas y de las 27 megaciudades que tienen más población que algunos países, ninguna estaba dirigida por mujeres hasta 2015 (UnitedCities and Local Governments, 2015).
 
