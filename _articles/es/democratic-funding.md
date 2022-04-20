@@ -5,15 +5,15 @@ category: deep-dives
 date: 2022-04-01T09:47:37.297Z
 article-order: 1
 uid: democratic-funding
-title: "La ciudadanía elige su futuro: límites y esperanzas en Matchfunding y
-  Democratic Funding"
+title: "Democratic Funding: la ciudadanía elige su futuro con los Presupuestos
+  Participativos y el Matchfunding"
 description: "La participación ciudadana aspira a ser parte activa de la toma de
   decisiones y se pregunta: ¿hay procesos más democráticos que otros a la hora
   de decidir en qué se gasta el dinero público?"
 author: joan-cabot
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  path: /media/articles/heroes/pngegg.png
+  thumbnail: /media/articles/thumbnails/pngegg.png
   alt: .
   credits: .
   caption: .
@@ -32,20 +32,80 @@ image:
   path: /assets/media/no_image-social_media.png
   alt: .
 ---
-Democracia es participación
+## Hipótesis
 
-Hay quienes conciben la democracia como el acto de votar a sus representantes políticos una vez cada cuatro o cinco años y pagar impuestos confiando en que irán destinados a los mejores proyectos posibles para sostener una sociedad del bienestar. Otras, sin embargo, entienden que la participación ciudadana debe ser mayor, aspiran a ser parte activa de la toma de decisiones y se hacen preguntas como: ¿hay procesos más democráticos que otros a la hora de decidir en qué se gasta el dinero público?
+Para muchas personas la democracia se resume en votar a representantes políticos una vez cada cuatro o cinco años y pagar impuestos confiando en que irán destinados a los mejores proyectos posibles para sostener una sociedad del bienestar. Otras, sin embargo, entienden que la participación ciudadana debe ser mayor, aspiran a ser parte activa de la toma de decisiones y se hacen una misma pregunta: ¿hay procesos más democráticos que otros a la hora de decidir en qué se gasta el dinero público?  
 
-En Fundación Platoniq creemos que un buen gobierno comienza a nivel municipal y la participación de la ciudadanía en los procesos municipales es un elemento importante en esto. Por ello, parte de nuestra misión se centra en impulsar herramientas como los presupuestos participativos y el matchfunding, apoyando el intercambio de experiencias entre organizaciones y ofreciendo a los municipios interesados información, asesoramiento inicial y talleres impartidos por nuestras especialistas.
+**En este artículo hablaremos los Presupuestos Participativos y el Matchfunding, dos herramientas que ya han permitido a miles de personas decidir a qué destinar los recursos públicos y hacer realidad iniciativas de bienestar social. Lo primero será dar una breve definición de cada una, luego pasaremos a profundizar en sus fortalezas y debilidades, para terminar puntualizando algunos de sus principales retos así como logros que ya celebramos.** 
 
-En este artículo hablaremos de estas dos herramientas, los Presupuestos Participativos y el Matchfunding, las cuales ya han permitido a miles de personas decidir a qué destinar los recursos públicos y hacer realidad iniciativas de bienestar social. Lo primero será dar una breve definición de cada una, luego pasaremos a profundizar en sus fortalezas y debilidades, para terminar puntualizando algunos de sus principales retos así como logros que ya celebramos.
+{% quote { "author": "Chris Colin" } %}Diversos estudios muestran que la juventud es más propensa a votar en elecciones locales y nacionales tras participar Presupuestos Participativos: más propensos a entrar en edificios municipales, meterse en política, hablar con un funcionario público, hacer voluntariado y confiar en sus habilidades.{% endquote %}
+
+## ¿Por qué creemos que esta cuestión es relevante?
+
+Los presupuestos participativos pueden ser una de las vías para recuperar la credibilidad en las instituciones, pues, como muy bien dice Molina (1), los presupuestos participativos «no sólo tratan de participar en la toma de decisiones, sino que ponen en práctica las condiciones y mecanismos para que esa condición sea posible, lo que implica **mejorar y hacer transparente la gestión, que es el camino para erradicar las conductas corruptas**».
+
+El Matchfunding a su vez y como financiación colectiva de proyectos, junto a la recepción de aportaciones ciudadanas mediante campañas de crowdfunding, **permite a organizaciones destinar recursos propios en proyectos ya validados por el apoyo social**.
+
+En este punto creemos útil, tanto para quien ya domina la cuestión como para quien descubre ahora estos conceptos, dedicar el siguiente apartado a profundizar en ambas herramientas.
+
+## Estado de la cuestión
+
+* En los **presupuestos participativos** la ciudadanía puede presentar proyectos y decidir a dónde va el dinero, pero los proyectos se ejecutan desde la Administración, con todas sus limitaciones en el proceso, integración de diversidad y ejecución final. 
+
+<div style= "text-align: center; margin-top: 0px; margin-bottom: 40px;">
+<img style="margin: 0 auto" src="https://i.imgur.com/NeR5Mrl.png">
+</div>
+
+* En el **matchfunding** la ciudadanía presenta y ejecuta a través de una campaña de micromecenazgo una iniciativa cuyos costes son cubiertos a partes iguales entre personas donantes y Administración.
+
+<iframe allowfullscreen="" frameborder="0" height="360" mozallowfullscreen="" src="https://player.vimeo.com/video/180870827" style=" display: block; margin: 20px auto;" webkitallowfullscreen="" width="80%"></iframe>
+
+**Los presupuesto participativos** aparecen por primera vez como herramienta participativa a finales de los años 80 en la ciudad de Porto Alegre, Brasil en la coincidencia de tres situaciones concretas:
+
+* Llegada al poder de un partido progresista que lleva en su programa la implantación de esta herramienta.
+* Existencia de una red de organizaciones sociales que gana fuerza gracias a su lucha contra el gobierno militar existente en los 80.
+* Necesidad de los gobiernos locales de dar respuesta a las necesidades no cubiertas por el gobierno central.          
+
+Así, durante la década de los 90, la ciudadanía de Porto alegre decidió destinar casi un 25% del presupuesto a mejorar el alcantarillado y aumentar el acceso al suministro de agua. Aunque para conseguirlo tuvieron que enfrentarse a diversas dificultades: legales en la proposición de determinadas propuestas y comunicativas en la explicación de la metodología a una población con elevado grado de analfabetismo y temerosa de instrumentación política. A medida que en ciudades de otros países fueron ensayando el modelo, encontraron los mismos obstáculos siendo en 2001 cuando se plantean los primeros presupuestos participativos en España, concretamente en Córdoba, Las Cabezas de San Juan y Puente Genil. A nivel mediático, los procesos más conocidos serán en Madrid y Barcelona al ser llevados a cabo por partidos políticos de reciente formación, con fuertes reticiencias de la oposición y con una suma de inversión muy elevada. Destacamos, por ejemplo, que gracias a los presupuestos participativos del Ayuntamiento de Madrid, se empieza a usar en el resto de España la plataforma Consul, herramienta de código libre que facilita los procesos participativos de entidades o administraciones.
+
+En la actualidad muchos ayuntamientos aún no se atreven a ponerlos en práctica o la desestiman por su dimensión cuantitativa (en España participan entre el 0,5% y el 1,5% de la población que puede votar) mientras subestiman la dimensión cualitativa de los procesos de participación social cuando dotan al gobierno que lo impulsa de mayor transparencia, de un nuevo canal de comunicación bidireccional con la población, información contrastada y priorizada de las necesidades de la población, aumento del asociacionismo, implicación de la población en decisiones importantes y acercamiento a una democracia más participativa.
+
+A la vez, la metodología de presupuestos participativos es muy diversa y consideramos interesante resumir aquí la tipología propuesta por [Sintomer, Herzberg y Röcke](https://www.academia.edu/7324565/Participatory_Budgeting_in_Europe_Potentials_and_Challenges) basada en cuatro criterios (1) Origen del proceso; (2) Organización de las reuniones (asambleas barriales, de ciudad y/o temáticas; reuniones cerradas vs públicas, etc.); (3) Tipo de deliberación (temas de discusión, modalidades de discusión, etc.); (4) Posición de la sociedad civil en el procedimiento (tipo de ciudadanos participantes, co-elaboración de metodología, etc.) donde podemos identificar seis modelos distintos y empezar a vislumbrar su nivel de participación democrática:
+
+* Porto Alegre adaptado para Europa
+* Participación de intereses organizados: las asociaciones secundarias, ONG, sindicatos y otros grupos organizados son actores principales, en una lógica neocorporativista nacida en lugares donde la tradición participativa anterior se ha basado en la contribución de asociaciones y grupos de interés a la definición de políticas públicas en sectores particulares.
+* Fondos comunitarios a nivel local y de la ciudad: Existe un fondo para inversiones o proyectos (en las áreas social, ambiental y cultural) relativamente independientes del presupuesto municipal, que no proviene, o proviene solo en parte, de la administración local y sobre el cual el ayuntamiento no tiene la última palabra en cuanto a la aceptación de propuestas. Depende de una comisión o asamblea que genera las prioridades. Los grupos organizados, como las asociaciones locales o comunitarias y las ONG, están en el centro de este modelo y las empresas están excluidas. La calidad deliberativa puede considerarse justa, pues se realizan varias reuniones con un grupo manejable de participantes.
+* La mesa de negociación público/privada: Las empresas privadas y posiblemente las organizaciones internacionales recaudan parte del dinero, permitiendo que el patrocinador privado influya en el diseño del procedimiento, mientras que la ciudadanía, que no da dinero pero lo solicita, solo juega un papel secundario. Este modelo puede desarrollarse cuando los actores internacionales intentan incluir grupos de ciudadanos u ONG en asociaciones públicas/privadas.
+* Participación de proximidad: Incluyen procesos meramente consultivos y las participantes aquí no votan ni desarrollan prioridades para los proyectos. No persiguen fines sociales y no existen criterios distributivos en el proceso. Más bien, es un proceso de "escucha selectiva" donde el gobierno local convoca individualmente a ciudadanas mediante anuncios en los medios de comunicación, carta o contacto personal y puede integrar libremente (y arbitrariamente) algunas de las propuestas en sus políticas públicas después del proceso participativo. A nivel de la ciudad en su conjunto, este modelo ya no trata de inversiones, sino de objetivos generales de política ("una ciudad hermosa"). El término "proximidad" se refiere a geográfica, en el sentido de organizar varias reuniones dentro de los barrios en vez de una sola reunión en el ayuntamiento, y de estrecho contacto entre el liderazgo municipal o la administración y los ciudadanos al organizar reuniones abiertas para responder a las preocupaciones de los ciudadanos. 
+* Consulta sobre finanzas públicas: es parte de una modernización general de la burocracia local que trata ante todo de transparentar la situación financiera de la ciudad con información sobre el presupuesto general a través de folletos, Internet y comunicados de prensa. En general, la calidad deliberativa del modelo es baja, ya que una discusión limitada a una o dos reuniones al año difícilmente puede producir grandes efectos, a diferencia del modelo de 'participación de proximidad', donde la ciudadanía a veces trabajan en pequeños grupos que se reúnen repetidamente durante un período de tiempo más largo. En ambos modelos, la rendición de cuentas es baja con respecto a la realización de propuestas y la autonomía de la sociedad civil es débil.
+
+El **matchfunding**, por su parte, es la evolución de la financiación colectiva de proyectos a través de campañas de crowdfunding en  plataformas como [goteo.org](www.goteo.org), nacida en el seno de la Fundación Platoniq para el impulso de iniciativas enfocadas en la innovación social y primera plataforma a nivel nacional con matchfunding (en 2013), como modelo innovador de co-financiación por el cual una institución pública o privada o una persona física aporta fondos para complementar (doblando o aumentando) la cantidad recaudada por un proyecto en campaña, fomentando la inversión co-responsable y ampliando el impacto de proyectos que cuentan con el apoyo de la sociedad civil. 
+
+Sabemos que existen numerosas instituciones interesadas en promover y apoyar proyectos creativos en el ámbito de la cultura, la investigación, la tecnología o la ciencia. A veces, les resulta difícil hacer visible su contribución, llegar al sector y al público correctos o lograr que las comunidades se involucren. Las instituciones también buscan medios para ayudar a estos proyectos a recaudar fondos, administrar mejor los altos costos de administración y garantizar la sostenibilidad del proyecto a largo plazo. Un programa de financiación de contrapartida proporciona una poderosa herramienta para lograr todo lo anterior.
+
+En el financiamiento de contrapartida, una institución pone a disposición una suma para desarrollar un área específica (cultura, educación, etc.), luego llama a la comunidad a presentar proyectos en esta área y hace un llamado al público en general para que se comprometa con el dinero. La multitud apoya un proyecto específico haciendo pequeñas donaciones de fondos que la institución iguala con la misma cantidad. Por ejemplo, si la multitud dona 1000€ a un proyecto específico, la institución de financiación equivalente (una organización pública o privada) también proporcionará 1000€, aumentando así el presupuesto total del proyecto a 2000€.
+
+Así, los programas matchfunding son convocatorias para impulsar mediante ayudas económicas a proyectos u organizaciones según los criterios definidos por las instituciones públicas y privadas colaboradoras. Las beneficiarias deben pasar por una campaña de crowdfunding y un programa de formación para validar el interés de la ciudadanía y la viabilidad de la propuesta. A partir del éxito de la campaña, también se suma una ayuda económica proveniente del convenio de colaboración con la entidad pública o privada colaboradora. 
+
+Tanto para entidades públicas o privadas y organizaciones como para particulares, el matchfunding permite distribuir fondos a través de un modelo que promueve la "excelencia eficiente" gracias a la participación ciudadana, la agilidad, la transparencia y la creación de capacidades. En caso de que los fondos se administren de forma responsable, como es en el caso de la Fundación Platoniq, todas las aportaciones pueden gozar de importantes [desgravaciones fiscales](https://www.goteo.org/calculadora-fiscal), siendo en el caso de las personas físicas de hasta un 80% en el tramo de los primeros 150€.
+
+Para las entidades públicas o privadas y las organizaciones es una forma de vehicular de un modo innovador parte de sus competencias y programas, así como sus políticas de compromiso y responsabilidad social, utilizando el potencial de la tecnología. De este modo, les permite llegar a un ecosistema de la sociedad civil a la que, por sí solas, no llegan tan fácilmente. Además obtienen otras ventajas, como participar en la generación de formas de conocimiento colectivo y proyectos socialmente innovadores, cercanía e interlocución directa con comunidades emergentes, visibilidad y reconocimiento vinculado a proyectos relacionados con el procomún, etc. 
+
+El matchfunding es, como crowdfunding bajo el principio de corresponsabilidad, una oportunidad que se brinda a la institución para ampliar su impacto, colaborando con comunidades y públicos nuevos e involucrarlos en su misión, los cuales a su vez sondean y ven validada su propuesta a través del apoyo activo de las personas donantes. 
+
+Dos casos paradigmáticos de esta combinación de crowdfunding y presupuestos participativos que llamamos “Matchfunding” son la convocatoria [Metakultura](https://meta.goteo.org/), por su parte ya acumula 6 ediciones exitosas (2016-2021) con un total de 94 proyectos financiados y 886.871 € distribuidos, como programa impulsado por la Diputación Foral de Gipuzkoa, quien aporta hasta 70.000€ para el impulso de proyectos culturales en la provincia, como herramienta a disposición de los agentes culturales para financiar iniciativas que enriquecen y fortalecen el tejido local, así como “[Conjuntament](https://www.goteo.org/call/conjuntament)”, que significa “en cooperación” en catalán, llevada a cabo por el Ayuntamiento de Barcelona en 2018, junto con la plataforma Goteo y la organización Barcelona Activa, con el objetivo de financiar proyectos sociales propuestos por la ciudadanía, conectando la democracia deliberativa con el presupuesto público con la que salieron adelante 22 iniciativas cofinanciadas a través de 2.629 aportaciones con un reparto total de 231.336€, entre donaciones ciudadanas y los 96.000€ aportados en matchfunding.
+
+## ¿Cómo abordamos la pregunta desde Platoniq?
+
+## Más preguntas para la reflexión y el análisis
+
+{% questions { "items": [{"question":"¿Si mejoramos la brecha digital de género mejoraremos la participación ciudadana?"},{"question":"¿Hay un estilo de participación propio para los grupos socializados de géneros diferentes?"},{"question":"Si mujeres de diferentes distritos, edades, culturas, nivel económico y de empoderamiento diseñaran una metodología de procesos de participación, ¿utilizarían la tecnología digital?"},{"question":"¿Son los espacios de participación digital cercanos, amables y accesibles para las mujeres?"}] } %}
+
+\*\*\*\*\*\*\*\*\*\*\*\**
 
 ¿Presupuestos Participativos o Matchfunding?
 
 * En los **presupuestos participativos** la ciudadanía puede presentar proyectos y decidir a dónde va el dinero, pero los proyectos se ejecutan desde la Administración, con todas sus limitaciones en el proceso, integración de diversidad y ejecución final.
-
-{% gallery { "simple": false, "images": [{"path":"/media/democratic-funding-steps.png","bw":true,"alt":"Blabla","caption":"Blabla","credits":"Blablai"}] } %}
-
 * En el **matchfunding** la ciudadanía presenta y ejecuta a través de una campaña de micromecenazgo una iniciativa cuyos costes son cubiertos a partes iguales entre personas donantes y Administración.
 
 ¿De dónde vienen los presupuestos participativos?

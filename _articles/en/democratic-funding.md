@@ -7,8 +7,8 @@ article-order: 1
 uid: democratic-funding
 author: joan-cabot
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  path: /media/articles/heroes/pngegg.png
+  thumbnail: /media/articles/thumbnails/pngegg.png
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
