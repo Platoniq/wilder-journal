@@ -97,22 +97,17 @@ Dos casos paradigmáticos de esta combinación de crowdfunding y presupuestos pa
 
 ## ¿Cómo abordamos la pregunta desde Platoniq?
 
-
-
-
-
 ![](https://i.imgur.com/CxTiooc.jpg)
 
 En este apartado vamos a sacar la lupa y hacer un ejercicio tan doloroso como necesario. Si son muchas las virtudes, no son pocas las flaquezas ni los retos que se viven en la práctica. Identificamos tres aspectos como los más sensibles: divulgación de la propuesta, evaluación de los proyectos y rendición de cuentas.
 
 Divulgación de la propuesta: Diseñamos ergo Decidimos
 
-Ambas herramientas siguen siendo desconocidas para la mayor parte de la población, cuya confianza en su capacidad para participar de\
-forma activa en la sociedad se ha visto mermada junto a las valoración que torogan a sus representantes políticos.
+Ambas herramientas siguen siendo desconocidas para la mayor parte de la población, cuya confianza en su capacidad para participar de forma activa en la sociedad se ha visto mermada junto a las valoración que otorgan a sus representantes políticos.
 
 La capacidad de impulsar un proceso serio con reglas claras, requiere también de una sociedad civil activa y una administración local y un ejecutivo que hayan aprendido a cooperar en vez de competir para llegar a resultados considerables.
 
-La coexistencia actual de proceso participativos "puros", que hemos llamado modelo Porto Alegre, junto a otros etiquetados como tal pero que se ejecutan más bien como un “espectáculo” (para un solo político o la ciudad en su conjunto) de democracywashing que un dispositivo real de participación ciudadana, perjudican la poca fe que aún atesora parte de la ciuadanía empoderada. En esta situación es crucial mantener una distancia crítica y no confundir discursos ideológicos y logros reales, así como seguir desarrollando herramientas descentralizadas que faciliten la iniciativa y organización de abajo a arriba, como encontramos en [Decidim.org](https://decidim.org/es/), una plataforma digital con infraestructura abierta que incluye código, documentación, diseño, formación, un marco legal, interfaces colaborativas, una comunidad de usuarias, facilitadoras que ayudan a personas, organizaciones e instituciones públicas a auto-organizarse democráticamente en todas las escalas.
+La coexistencia actual de proceso participativos "puros", que hemos llamado modelo Porto Alegre, junto a otros etiquetados como tal pero que se ejecutan más bien como un “espectáculo” (para un solo político o la ciudad en su conjunto) de democracywashing que un dispositivo real de participación ciudadana, perjudican la poca fe que aún atesora parte de la ciudadanía empoderada. En esta situación es crucial mantener una distancia crítica y no confundir discursos ideológicos y logros reales, así como seguir desarrollando herramientas descentralizadas que faciliten la iniciativa y organización de abajo a arriba, como encontramos en [Decidim.org](https://decidim.org/es/), una plataforma digital con infraestructura abierta que incluye código, documentación, diseño, formación, un marco legal, interfaces colaborativas, una comunidad de usuarias, facilitadoras que ayudan a personas, organizaciones e instituciones públicas a auto-organizarse democráticamente en todas las escalas.
 
 Evaluación de los proyectos: más allá del menú y la carta
 
@@ -136,19 +131,9 @@ Ese sistema de confianza compartido con las personas cofinanciadoras, que decide
 
 [Europapress](https://www.europapress.es/madrid/noticia-madrid-volvera-tener-presupuestos-participativos-votando-proyectos-viables-podrian-ejecutarse-anos-20210624183145.html) cita el caso de los presupuestos participativos en Madrid y el desfase entre la aprobación y su materialización, ya que gran número de propuestas ciudadanas tuvieron que ejecutarse en varias anualidades debido a su magnitud o complejidad e indican que "de hecho, entre 2016 y julio de 2019, de un total de 1.214 proyectos participativos, 998 no se ejecutaron, lo que supone elc 82 por ciento", llegando al punto en que en la actualidad y según certifica el Boletín Oficial del Ayuntamiento de Madrid (BOAM), ya \[se han declarado en “inviabilidad sobrevenida” los 182 proyectos](En Madrid, por ejemplo, leemos en [El Diario.es](https://www.eldiario.es/madrid/somos/noticias/ayuntamiento-madrid-entierra-182-proyectos-ciudadanos-carmena_1_8299637.html) ciudadanos que recibieron suficientes votos para ser aprobados durante las ediciones de los años 2016, 2017, 208 y 2019.
 
-
-
-
-
-
-
 ## Más preguntas para la reflexión y el análisis
 
 {% questions { "items": [{"question":"¿Si mejoramos la brecha digital de género mejoraremos la participación ciudadana?"},{"question":"¿Hay un estilo de participación propio para los grupos socializados de géneros diferentes?"},{"question":"Si mujeres de diferentes distritos, edades, culturas, nivel económico y de empoderamiento diseñaran una metodología de procesos de participación, ¿utilizarían la tecnología digital?"},{"question":"¿Son los espacios de participación digital cercanos, amables y accesibles para las mujeres?"}] } %}
-
-
-
-
 
 - - -
 
