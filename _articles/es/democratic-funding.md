@@ -34,7 +34,9 @@ image:
 ---
 ## Hipótesis
 
-Para muchas personas la democracia se resume en votar a representantes políticos una vez cada cuatro o cinco años y pagar impuestos confiando en que irán destinados a los mejores proyectos posibles para sostener una sociedad del bienestar. Otras, sin embargo, entienden que la participación ciudadana debe ser mayor, aspiran a ser parte activa de la toma de decisiones y se hacen una misma pregunta: ¿hay procesos más democráticos que otros a la hora de decidir en qué se gasta el dinero público?  
+Para muchas personas la democracia se resume en votar a representantes políticos una vez cada cuatro o cinco años y pagar impuestos confiando en que irán destinados a los mejores proyectos posibles para sostener una sociedad del bienestar. 
+
+Otras, sin embargo, entienden que la participación ciudadana debe ser mayor, aspiran a ser parte activa de la toma de decisiones y se hacen una misma pregunta: ¿hay procesos más democráticos que otros a la hora de decidir en qué se gasta el dinero público?  
 
 **En este artículo hablaremos los Presupuestos Participativos y el Matchfunding, dos herramientas que ya han permitido a miles de personas decidir a qué destinar los recursos públicos y hacer realidad iniciativas de bienestar social. Lo primero será dar una breve definición de cada una, luego pasaremos a profundizar en sus fortalezas y debilidades, para terminar puntualizando algunos de sus principales retos así como logros que ya celebramos.** 
 
