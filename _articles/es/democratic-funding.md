@@ -119,7 +119,7 @@ Para muchas de las personas que han experimentado con el Matchfunding o los Pres
 
 Así, en las convocatorias de Matchfunding la elección de proyectos es competencia de la entidad impulsora y/o la plataforma de micromecenazgo, mientras en los modelos 'Porto Alegre en Europa' y 'Fondos comunitarios a nivel de barrio y ciudad' se puede desarrollar una 'gobernanza participativa empoderada' (Fung y Wright, 2003) y la ciudadanía asume directamente un poder de decisión (Gret y Sintomer, 2005), que posibilita el surgimiento de un 'poder fuerte' público' (Fraser, 1996: 89), mientras los modelos de Participación de Proximidad y Consulta de las finanzas públicas son únicamente consultivos y los modelos de participación de intereses organizados y de mesa de negociación pública/privada pueden dar un poder de decisión al dispositivo participativo, pero difícilmente pueden hacer posibles cambios políticos y sociales fundamentales.
 
-¿Cabría la posibilidad de recibir "encargos" de proyecto por parte de la ciudadanía y que las plataformas de micromecenazgo, junto a las administraciones impulsoras de Presupuestos Participativos, enontraran chef para cocinarlas a demanda?
+¿Cabría la posibilidad de recibir "encargos" de proyecto por parte de la ciudadanía y que así las plataformas de micromecenazgo, junto a las administraciones impulsoras de Presupuestos Participativos, encontraran chef para cocinarlas a demanda?
 
 ### Rendición de cuentas: ¿Dónde está Wally?
 
