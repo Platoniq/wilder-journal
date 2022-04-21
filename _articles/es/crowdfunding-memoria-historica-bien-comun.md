@@ -1,7 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-category: interviews
+category: reports
 date: 2022-04-01T13:49:06.964Z
 article-order: 3
 uid: crowdfunding-historical-memory-common-good

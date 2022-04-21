@@ -1,7 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-category: interviews
+category: reports
 date: 2022-04-01T11:25:28.606Z
 article-order: 2
 uid: españa-vacia-incendios
