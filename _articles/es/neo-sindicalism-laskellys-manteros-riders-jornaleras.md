@@ -1,7 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-category: deep-dives
+category: reports
 date: 2022-04-01T15:14:30.165Z
 article-order: 4
 uid: neo-sindicalism-laskellys-manteros-riders-jornaleras
