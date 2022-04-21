@@ -44,25 +44,25 @@ A continuación, os presentamos algunas de las aportaciones que han hecho las y 
 
 Las personas jóvenes son el futuro, pero maman del pasado, del entorno y de las condiciones en que han crecido. El contexto en el que nos desarrollamos determina, en muchas ocasiones, la predisposición que tenemos para participar. No obstante, cabe recordar y tener en cuenta que, antes de poder y querer participar, es necesario tener las necesidades básicas cubiertas, tanto a nivel material como psicológico.
 
-
-
 {% quote %}En el centro la mayoría del alumnado es de niveles económicos bajos. Son personas jóvenes agradecidas pero muy desmotivadas porque están convencidas de que no sirven para nada. Lo más complicado de entrar en estas aulas es darles valor y conseguir que tengan un poco más de autoestima.{% endquote %}
 
 ¿Hemos dicho antes que las personas jóvenes son el futuro? ¿Te chirriaron los oídos al leerlo? Estamos tan acostumbradas a frases de este estilo que olvidamos remarcar que las y los jóvenes también son el presente. Quizás sea una nimiedad pero, a nuestro entender, desvela la punta de un iceberg de tamaño considerable, un problema que también preocupa al profesorado:
 
 {% quote %}Hay un tema que me preocupa mucho como educador de jóvenes que es que, por norma general, hay un sentimiento de exclusión en las decisiones sociales que provoca que [las personas jóvenes] no se sientan empoderadas en muchos aspectos, incluido el de la escuela. (…) Creo que el principal freno es este. Realmente sienten, y así les hemos hecho entender, no nosotras sino la sociedad, que son sujetos pasivos de su vida. Yo creo que este es el gran tema no solo a nivel educativo, sino a nivel de sociedad. (1/2){% endquote %}
 
-### About the school system
+### Sobre el sistema escolar
 
-"Many institutes are not prepared to accommodate real student participation as there is a very structured operation, with very defined rules and hierarchy."
+{% quote %}Muchos institutos no están preparados para acoger una participación real del alumnado dado que hay un funcionamiento muy estructurado, con normas y jerarquía muy definidas.{% endquote %}
 
-Although the school system seems a bit rigid and immovable, there are specific projects that, featuring student participation, have managed to complement the established structures and rules of what-to-do-when. The same teacher continues to tell us:
+Aunque el sistema escolar parezca algo rígido e inamovible, hay proyectos puntuales que, incluyendo la participación del alumnado, han logrado complementar las estructuras y normas establecidas de lo-que-hay-que-hacer-cuando. Sigue relatándonos el mismo profesor:
 
-"In many schools, the peer mediation commission works to resolve conflicts. This is a good example of how a participatory project complements a previous structure that says what to do when there is a conflict. ”
+{% quote %}En muchos institutos funciona la comisión de mediación entre iguales para la resolución de conflictos. Este es un buen ejemplo de cómo un proyecto de participación complementa una estructura previa que dice lo que hay que hacer cuando hay un conflicto.{% endquote %}
 
-On the other hand, it is important to note that to build a school system open to youth participation, this openness must be given from the participation and involvement of students, not only in the implementation phase of the proposals, but also in the design phase.
+Por otro lado, es importante remarcar que para construir un sistema escolar abierto a la participación juvenil, esta apertura debe darse desde la participación e involucración del alumnado, no solo en la fase de ejecución de las propuestas, sino también en el diseño.
 
-"If the school system is to be improved, it can only come from the participation of students, and at all levels. I think that many of the current proposals for educational innovation and transformation make no sense without the participation of students. I think many of these proposals fail because they keep focusing on educators instead of the person who’s learning. Many methodologies say they ‘focus on the students’ but everything about them is decided."
+
+
+{% quote %}Si se tiene que mejorar el sistema escolar, solo puede venir por la participación de los y las estudiantes, y a todos los niveles. Creo que muchas de las propuestas de innovación educativa y transformación actual, sin la participación del alumnado no tienen sentido. Creo que muchas fracasan porque siguen saliendo y poniendo en el centro a los educadores y no a la persona que aprende. Muchas metodologías dicen ‘pongo al alumno en el centro’ pero se decide todo sobre el alumnado.{% endquote %}
 
 {% gallery { "simple": true, "images": [{"path":"/media/1w3zlyo0v0hveyhaczpdpmw.jpeg"}] } %}
 
