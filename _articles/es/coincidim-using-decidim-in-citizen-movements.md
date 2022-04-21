@@ -42,7 +42,7 @@ En cuanto al agua, la gestión del servicio está en manos de Aigües de Barcelo
 
 En el campo de la energía, uno de los éxitos de la APE fue la aprobación de la ley catalana 24/2015 que **prohíbe los cortes de suministro en situaciones de vulnerabilidad** económica aplicando el principio de precaución. Para hacer valer la ley, diferentes municipios han puesto en marcha los **Puntos de Asesoramiento Energético (PAE)** para ayudar a la ciudadanía en la garantía de sus derechos a los suministros. Aun así, a causa de las malas praxis cometidas por las empresas suministradoras y la desinformación generalizada, se identifica la necesidad, por un lado, de informar de los PAE y otros servicios vinculados; y por otro lado, de recopilar, mediante el ***crowdsourcing* de datos,** información de interés y problemáticas que se derivan de la pobreza energética, como son los cortes de suministro que se producen en el territorio.
 
-# El nacimiento de (Co)incidim
+## El nacimiento de (Co)incidim
 
 Ante la situación descrita y teniendo en cuenta los cambios en la forma de comunicarnos socialmente que pasan por la aparición de plataformas y redes sociales, se identifica la necesidad de dar un paso adelante en la apuesta por **nuevas metodologías** que nos permitan **construir espacios comunitarios** donde materializar la **inteligencia colectiva**, fortalecerla mediante la **cooperación y la asociación** y librarla de la oleada del capitalismo cognitivo y de plataformas que privatizan el conocimiento, las interacciones, y las ponen al servicio de unos pocos.
 
@@ -54,25 +54,19 @@ Esta hibridación es posible gracias a la adaptación de la **plataforma digital
 
 Así es como nace el proyecto (Co)incidim: creando una instancia de Decidim **adaptada a las necesidades de los movimientos sociales** en la lucha por la garantía de los derechos universales de agua y energía, poniendo **en el centro a las personas** y su rol en la toma de decisiones.
 
-# Aspectos técnicos de (Co)incidim
+## Aspectos técnicos de (Co)incidim
 
 En [(Co)incidim](https://coincidim.cat/) encontraréis dos grandes procesos participativos: **[Participamos para mejorar la gestión del agua en el AMB](https://coincidim.cat/processes/aiguaAMB)** y el **[Mapa de Energía](https://coincidim.cat/processes/mapadenergia).** También hay en funcionamiento varias asambleas, pero son de carácter privado y sólo se puede acceder a ellas si se forma parte del equipo de trabajo (¿te interesa? escríbenos a [bcnaigua@gmail.com](mailto:bcnaigua@gmail.com)).
-
-
-
-
 
 {% gallery { "simple": true, "images": [{"path":"/media/coincidim-2.png","alt":"-","caption":"-","credits":"-","bw":true}] } %}
 
 Técnicamente, la gran novedad que aporta la plataforma es el **Mapa General** (“Awesome Map”). Este componente, que se puede añadir en cualquier espacio participativo, muestra un mapa en pantalla completa con todos los encuentros y propuestas georeferenciadas que se han publicado dentro de un proceso o asamblea. Los puntos del mapa se muestran con un marcador que varía de color según la categoría y, al clicar encima, se muestra la información del punto. En nuestro caso, hemos reunido los datos de tres componentes propuestas (asesoramiento energético, datos de transparencia municipales y cortes denunciados) para crear el **mapa de energía**. Aparte de la visualización del mapa, el componente también permite el ***crowdsourcing* de datos** mediante la creación de nuevos puntos (propuestas) por parte de cualquier usuaria de la plataforma.
 
-
-
 {% gallery { "simple": true, "images": [{"path":"/media/coincidim-3.png","alt":"-","caption":"-","credits":"-","bw":true}] } %}
 
 Otros componentes fundamentales para nuestros procesos y asambleas han sido el **componente encuesta**, a través del cual hemos podido evaluar las prioridades de la ciudadanía en torno al servicio del agua dentro del territorio metropolitano; el **componente página**, donde hemos podido compartir los resultados de la encuesta; el componente **encuentros**, que nos ha permitido centralizar los contenidos, acta y compromisos adquiridos de cada encuentro; los **textos participativos**, mediante los cuales hemos podido revisar y modificar— conjuntamente y a distancia — el argumentario del proceso de agua; los **borradores colaborativos**, que nos han permitido redactar el **“Manifest per l’aigua a l’AMB”** de forma conjunta; el componente **seguimiento**, a través del cual hemos podido hacer el seguimiento del estado de ejecución del proyecto en cuanto a objetivos, acciones y resultados esperados; y el componente **propuestas** que, además del uso que le hemos dado para el mapa de energía, nos ha servido para crear un **mapeo de entidades**, proponer acciones para llevar a cabo o reportar errores técnicos de la plataforma.
 
-# Retos y perspectivas de futuro
+## Retos y perspectivas de futuro
 
 Los principales retos que nos encontramos son los mismos que plantea la participación ciudadana desde hace mucho tiempo. Por un lado nos encontramos la cuestión de la **redistribución del poder** que hay que implementar no solo en el modelo de gobernanza de los servicios básicos sino en todo el sistema democrático para reconocer el papel y el espacio que juega la ciudadanía. En este sentido, y como el proyecto aspira a lograr objetivos que son **obligaciones de las administraciones**, hay que preguntarse cómo **co-responsabilizarlas**. Aquí nos cruzamos con otro gran reto estructural del modelo de gestión de servicios básicos que tenemos: cómo garantizamos un equilibrio entre la relación de fuerzas y la influencia de determinados actores?
 
