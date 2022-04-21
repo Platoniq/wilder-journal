@@ -82,49 +82,49 @@ Uno de los objetivos de Be Part es, precisamente, formar y acompañar al profeso
 
 {% gallery { "simple": true, "images": [{"path":"/media/181h8oy1wotazdbjjvjzmzq.jpeg"}] } %}
 
-## How can we build capacity for BePart to make its mark for its future sustainability?
+## ¿Cómo podemos crear capacidades para que BePart deje huella para su futura sostenibilidad?
 
-"There has to be a change of mindset, which is the big challenge of education, that we really have confidence that boys and girls will end up leading change processes within the school itself."
+{% quote %}Tiene que haber un cambio de chip, que es el gran reto de la educación, que realmente tengamos confianza que los y las chicas terminen liderando procesos de cambio dentro de la propia escuela.{% endquote %}
 
-BePart takes place in four schools in four different European countries. It is a pilot project that aims to promote student participation through the implementation of models of youth participation (MYP). Surely, in order to foster this leadership, it will be necessary to strengthen transversal skills and competences, such as, for example, entrepreneurial competence:
+Be Part se desarrolla en cuatro escuelas de cuatro países europeos diferentes. Es un proyecto piloto que pretende impulsar la participación del alumnado a partir de la implementación de modelos de participación juvenil (MYP, por sus siglas en inglés). Seguramente, para fomentar este liderazgo habrá que fortalecer habilidades y competencias transversales como, por ejemplo, la competencia emprendedora:
 
-“Entrepreneurship has three basic legs. One is detection, alertness. Being able to detect what's around me - what's going on, what's not working, because I'm sure students see things, but since they don't have a chance to say it, I think they don't even notice. (…) The second leg is: with the resources I have, what can I do ?; and the third is to take action. In the field of participation, entrepreneurial competence would play a very important role.”
+{% quote %}En la emprendeduría hay tres patas básicas. Una es la detección, el estado de alerta. Ser capaz de detectar que hay a mi alrededor: qué está pasando, qué no está funcionando, porque yo estoy segura que el alumnado ve cosas, pero como que no tienen la oportunidad de poderlo decir para solucionarlo, creo que ya ni se fijan. (…) La segunda pata es: con los recursos que tengo, ¿qué puedo hacer?; y la tercera es llevarla a la acción. En el campo de la participación la competencia emprendedora tendría un papel súper relevante.{% endquote %}
 
 {% gallery { "simple": true, "images": [{"path":"/media/1yhwsvtbaoyasvoripmjfmw.jpeg"}] } %}
 
-## How can we create spaces for participation that are as safe as possible for students?
+## ¿Cómo podemos crear espacios de participación que sean lo más seguros posible para las y los estudiantes?
 
-“In order for students to be able to learn, participate or contribute as much as possible, they need to be comfortable. And by being comfortable, I don't mean that they can throw a party in the classroom, but that they can be comfortable and calm so that they can be themselves.”
+{% quote %}Para que un alumno o alumna pueda aprender, participar o aportar el máximo de sí, debe estar a gusto. Y con estar a gusto no me refiero a que pueda montar una fiesta en clase, sino que esté cómoda y que tranquila para poder ser él o ella misma.{% endquote %}
 
-To participate, it is important to create spaces where students feel free and comfortable to be and express themselves. Therefore, it is important that students feel and take ownership of these spaces.
+Para participar, es importante crear espacios donde las y los estudiantes se sientan libres y cómodas para ser y expresarse. Para ello, es importante que el alumnado sienta, haga suyos y se apodere de estos espacios.
 
-"To avoid this \[students being passive subjects of their lives], the school gives them spaces, possibilities to have a say in some of the decisions, but they are still very controlled and led from the school’s structure. We still have a long way to go to generate real participation and governance without the constant supervision of the educator. We cannot claim empowerment without spaces of empowerment.” (2/2)
+{% quote %}Para evitar esto [que las y los alumnos sean sujetos pasivos de su vida], la escuela da espacios, posibilidades de tener voz y voto en alguna de las decisiones, pero todavía está muy controlado y liderado desde la propia estructura de la escuela. Aún tenemos mucho recorrido para generar una participación y una gobernanza real sin la supervisión constante del educador. No podemos pretender un apoderamiento sin espacios de apoderamiento. (2/2){% endquote %}
 
 {% gallery { "simple": true, "images": [{"path":"/media/1jrozx3t_dnalziozlsvhva.jpeg"}] } %}
 
-## What is the role of technology, social media and innovative communication strategies in involving young people?
+## ¿Cuál es el papel de la tecnología, las redes sociales y las estrategias innovadoras de comunicación en la involucración de las y los jóvenes?
 
-One of the interviews we conducted was with the director of an institute where a participatory budget was carried out with the whole educational community through the digital participation platform [Decidim](https://decidim.org/en/), and where the students played a leading role \[2]. After the experience, the interviewee was clear about the role that new technologies should play in these processes:
+Una de las entrevistas que hemos realizado ha sido al director de un instituto donde se llevó a cabo un presupuesto participativo con toda la comunidad educativa a través de la plataforma de participación digital [Decidim](https://decidim.org/es/), y en el que el alumnado tuvo un papel protagonista \[2]. Tras la experiencia, el entrevistado tenía claro el papel que deberían tomar las nuevas tecnologías en estos procesos:
 
-“Digital platforms are essential for student participation, because otherwise it gets very complicated. Although it is necessary to chase the students so that they take out their mobile phones, connect, click on the links, choose… ”
+{% quote %}Las plataformas digitales son imprescindibles para la participación del alumnado, porque sino se complica mucho. Aunque hay que perseguir al alumnado para que saquen el móvil, se conecten, le den al link, escojan…{% endquote %}
 
-## How to recognize the validity and dignity of the experiences and knowledge of students?
+## ¿Cómo reconocer la validez y dignidad de las experiencias y conocimientos de las y los estudiantes?
 
-Finally, we share the dilemma that a teacher conveyed to us and whose answer is probably a very accurate thermometer to measure how arid or fertile the school grounds are to accommodate real student participation:
+Para finalizar, compartimos el dilema que un docente nos transmitió y cuya respuesta es, seguramente, un termómetro bastante preciso para medir qué tan árido o fértil está el terreno escolar para acoger una participación real del alumnado:
 
-“A year ago we considered reformulating the School’s Regulations for the Organisation and Operation and we wanted to have the opinion of the students. Here comes the big dilemma: does the decision of a student have the same strength or power as the decision of a teacher?”
+{% quote %}Hace un año nos planteamos reformular la Normativa de Organización y Funcionamiento del Centro y queríamos contar con la opinión del alumnado. Aquí vino el gran dilema: ¿tiene la misma fuerza o poder la decisión de un o una alumna que la decisión de un o una docente?{% endquote %}
 
-## To be continued!
+## ¡Seguimos!
 
-Until the thermometer of empowerment and youth leadership comes to a boil, from Platoniq we continue to work to achieve models and school policies that include real student participation.
+Hasta que el termómetro del empoderamiento y liderazgo juvenil no esté hirviendo, desde Platoniq seguimos trabajando para lograr un modelo y políticas escolares que incluyan una participación real del alumnado.
 
-At the moment, through the BePart project, we are developing a co-creation manual and a virtual training for teachers. Both resources will guide and train teachers in facilitating the participation processes that are generated in their schools, led by students and accompanied by the entire school community.
+De momento, a través del proyecto BePart, estamos desarrollando un manual de co-creación y una formación virtual para docentes. Ambos recursos guiarán y capacitarán al profesorado en la facilitación de los procesos de participación que se generen en sus escuelas, liderados por sus estudiantes y acompañados por toda la comunidad escolar.
 
-We'll tell you more about it soon, so stay tuned ;)
+Pronto te contaremos más, no pierdas el hilo ;)
 
-## References
+## Referencias
 
-1. Freire, P. Letters to those who intend to teach (Professora sim, tia não: cartas a quem ousa ensinar). (1993). Fragment of the seventh letter.
-2. Experiences in schools that use Decidim for participatory budgeting: <https://atelierdevosidees.loiret.fr/processes/budgetcollegiens>
+1. Freire, P. Cartas a quien pretende enseñar (*Professora sim, tia não: cartas a quem ousa ensinar*). (1993). Fragmento de la séptima carta.
+2. Experiencias en escuelas que usan Decidim para presupuestos participativos: <https://atelierdevosidees.loiret.fr/processes/budgetcollegiens>
 
-Photographs by Antonio Miñán and Blanca García during the [workshop](https://platoniq.net/es/experiences/p/14/banco-comun-de-conocimientos-en-el-ies-antonio-dominguez-ortiz-de-sevilla/) of the Banco Común de Conocimientos. <https://platoniq.net/es/bcc/>
+Fotografías de Antonio Miñán y Blanca García durante el [taller](https://platoniq.net/es/experiences/p/14/banco-comun-de-conocimientos-en-el-ies-antonio-dominguez-ortiz-de-sevilla/) del Banco Común de Conocimientos. <https://platoniq.net/es/bcc/>.
