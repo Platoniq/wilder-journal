@@ -66,17 +66,19 @@ Por otro lado, es importante remarcar que para construir un sistema escolar abie
 
 {% gallery { "simple": true, "images": [{"path":"/media/1w3zlyo0v0hveyhaczpdpmw.jpeg"}] } %}
 
-## How can we help teachers become facilitators for their students?
+## ¿Cómo podemos ayudar a las y los docentes para que se conviertan en facilitadoras de sus alumnas?
 
-“Teachers know that participation is a value that needs to be encouraged. But sometimes it's scary, because when you turn on the microphone you have to be willing to listen to everything, what you like and what you don't. And this fear sometimes holds us back.”
+{% quote %}El profesorado sabe que la participación es un valor que se tiene que fomentar. Pero a veces da temor, porque cuando pones el micrófono tienes que estar dispuesta a escuchar de todo, lo que te gusta y lo que no. Y ese temor a veces frena.{% endquote %}
 
-As a teacher reflected in the previous point, there is a lack of participatory culture in society and this not only affects students, but all actors in the school context. Turning on this “microphone” is scary and holds us back, why touch things if they’re working?
+Como reflexionaba una docente en el punto anterior, hay una falta de cultura participativa en la sociedad y esto no solo afecta al alumnado, sino a todos los actores del contexto escolar. Abrir el micrófono da miedo y frena, ¿por qué tocar las cosas si así ya funcionan?
 
-"The teacher is difficult. It’s classic to think that we have the absolute truth, but it is often a fear of not touching much of what is already working for me (…) It is normal for people to be afraid, but if it is an accompanied fear, that is, if they accompany you through this process of change, it's always much easier.”
+{% quote %}El docente es difícil. Pensar que tenemos la verdad absoluta es un clásico, pero a menudo es un miedo de no tocar mucho lo que ya me está funcionando (…) Es normal que la gente tenga miedo, pero si es un miedo acompañado, es decir, que si te acompañan a hacer este proceso de cambio siempre es mucho más sencillo.{% endquote %}
 
-One of the goals of BePart is precisely to train and accompany teachers in the transition from the role of teacher to the role of facilitator. At Platoniq we are in charge of leading this training in participation and co-creation. Therefore, we interviewed and reflected with experts, whose contributions have helped us to establish the challenges of the training. Fear and power, oppression and privileges are some of the sharp issues that we consider necessary to address in order to rebalance weights and achieve, in the medium and long term, real student participation.
+Uno de los objetivos de Be Part es, precisamente, formar y acompañar al profesorado a transitar del papel de docente al rol de persona facilitadora. Desde Platoniq nos encargamos de liderar esta capacitación en participación y co-creación. Para ello, hemos entrevistado y reflexionado con expertas, cuyas contribuciones nos han servido para establecer los retos de la formación. Miedos y poder, opresión y privilegios son algunos de los temas puntiagudos que consideramos necesario abordar para reequilibrar la balanza y conseguir, a medio y largo plazo, una participación real del alumnado.
 
-"Teachers are by default immobilistic, because they defend their status. Therefore, any participatory issue will clash with teachers if they want to violate any of their privileges. If not, it can work with complete freedom. ”
+
+
+{% quote %}El profesorado por defecto es inmovilista, porque defiende su estatus. Por tanto, cualquier tema participativo chocará con las docentes si pretende vulnerar alguno de sus privilegios. Si no es así, puede funcionar con total libertad.{% endquote %}
 
 {% gallery { "simple": true, "images": [{"path":"/media/181h8oy1wotazdbjjvjzmzq.jpeg"}] } %}
 
