@@ -5,8 +5,8 @@ category: deep-dives
 date: 2022-04-01T09:47:37.297Z
 article-order: 1
 uid: democratic-funding
-title: "Democratic Funding: la ciudadanía elige su futuro con los Presupuestos
-  Participativos y el Matchfunding"
+title: "Democratic Funding: la ciudadanía elige su futuro. Límites y esperanzas
+  en Presupuestos Participativos i Matchfunding"
 description: "La participación ciudadana aspira a ser parte activa de la toma de
   decisiones y se pregunta: ¿hay procesos más democráticos que otros a la hora
   de decidir en qué se gasta el dinero público?"
@@ -127,7 +127,7 @@ Así, en las convocatorias de Matchfunding la elección de proyectos es competen
 
 {% questions { "items": [{"question":"¿Qué pasa si un proyecto rompe las reglas del crowdfunding?"},{"question":"¿Quién es responsable de completar un proyecto como se prometió?"}] } %}
 
-En toda selección de proyectos hay un equipo de confianza y seguridad que revisa a fondo cada propuesta y toma las máximas medidas de precaución existentes, sin embargo es responsabilidad del creador del proyecto completarlo. Aunque en algunos procesos participativos puede llegar a intervenirse en el proceso creativo del mismo, ni las pataformas de micromecenazgo ni las instituciones administran su cumplimiento.
+En toda selección de proyectos hay un equipo de confianza y seguridad que revisa a fondo cada propuesta y toma las máximas medidas de precaución existentes, sin embargo es responsabilidad del creador del proyecto completarlo. Aunque en algunos procesos participativos puede llegar a intervenirse en el proceso creativo del mismo, ni las plataformas de micromecenazgo ni las instituciones administran su cumplimiento.
 
 Ese sistema de confianza compartido con las personas cofinanciadoras, que deciden en última instancia la validez y el valor de un proyecto al apoyarlo, es paradójicamente la mayor decepción cuando la iniciativa no cumple sus promesas.
 
@@ -137,7 +137,7 @@ Ese sistema de confianza compartido con las personas cofinanciadoras, que decide
 
 {% gallery { "simple": true, "images": [{"path":"/media/feminismo-carlos-rodriguez-estacio.jpeg"}] } %}
 
-Las teorías de la modernización sugieren que el desarrollo socioeconómico fomenta la mejora en la vida de todos los ciudadanos, incluidas las mujeres, a medida que la sociedad se transforma de agraria a industrial y luego a posindustrial. Además, Inglehart, en su teoría revisada de la modernización, afirma que la modernización trae cambios socioeconómicos y culturales que resultan en una mayor igualdad de género en la política (Inglehart & Welzel, 2005). Sin embargo, las estadísticas mundiales de género no reflejan esa afirmación. En todo el mundo, las mujeres son marginales en la política, y esto es cierto independientemente del nivel de modernización económica dentro de los países. Un dato revelador es comprobar que en las 493 ciudades con más de un millón de habitantes, sólo hay 29 alcaldesas y de las 27 megaciudades que tienen más población que algunos países, ninguna estaba dirigida por mujeres hasta 2015 (UnitedCities and Local Governments, 2015).
+Las teorías de la modernización sugieren que el desarrollo socioeconómico fomenta la mejora en la vida de todos los ciudadanos, incluidas las mujeres, a medida que la sociedad se transforma de agraria a industrial y luego a posindustrial. Además, Inglehart, en su teoría revisada de la modernización, afirma que la modernización trae cambios socioeconómicos y culturales que resultan en una mayor igualdad de género en la política (Inglehart & Welzel, 2005). Sin embargo, las estadísticas mundiales de género no reflejan esa afirmación. En todo el mundo, las mujeres son marginales en la política, y esto es cierto independientemente del nivel de modernización económica dentro de los países. Un dato revelador es comprobar que en las 493 ciudades con más de un millón de habitantes, sólo hay 29 alcaldesas y de las 27 megaciudades que tienen más población que algunos países, ninguna estaba dirigida por mujeres hasta 2015 (United Cities and Local Governments, 2015).
 
 Los impedimentos a la participación política de las mujeres se pueden categorizar en términos generales en tres grandes grupos: barreras socioeconómicas, políticas y socioculturales. Las barreras socioeconómicas clave identificadas comprenden las responsabilidades familiares, la falta de educación y las finanzas. En algunas ocasiones se menciona explícitamente la violencia y el acoso en torno a las actividades públicas en general y la política en particular como un problema grave, a las que se suma las actitudes negativas de los políticos varones y la falta de iniciativas de los partidos políticos para garantizar una mayor participación femenina en la organización y la jerarquía del partido, disuadiendo el acceso de las mujeres a la política.
 

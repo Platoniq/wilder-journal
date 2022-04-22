@@ -9,6 +9,10 @@ author: joan-cabot
 cover:
   path: /media/articles/heroes/pngegg.png
   thumbnail: /media/articles/thumbnails/pngegg.png
+related_article_uids:
+  - arantxa-mendiharat
+  - digital-participation-gap
+  - democracy-is-fun
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
