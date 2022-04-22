@@ -78,6 +78,6 @@ El segundo día, con el fin de que las y los participantes reflexionaran de form
 
 ![](https://miro.medium.com/max/1400/0*9TaeKiQA26Y4gtVB)
 
-{% file { "title": "¿Te interesa explorar el trabajo realizado por las Flash Task Forces?", "info": "Puedes encontrar las hipótesis de cada grupo en el Observatorio Abierto y añadir su opinión sobre los temas debatidos. Haz click en el botón para unirte a los debates.", "file": "https://participate.indices-culture.eu/assemblies/hypotheses", "image": "/assets/media/no_image-file.png", "button_text": "Únete al debate", "button_icon": "null" } %}
+{% file { "title": "¿Te interesa explorar el trabajo realizado por las Flash Task Forces?", "info": "Puedes encontrar las hipótesis de cada grupo en el Observatorio Abierto y añadir su opinión sobre los temas debatidos. Haz click en el botón para unirte a los debates.", "file": "https://participate.indices-culture.eu/assemblies/hypotheses", "image": "/assets/media/no_image-file.png", "button_text": "Únete al debate", "button_icon": "" } %}
 
 *En colaboración con [Aisha Villegas](https://indices-culture.eu/dispatches-from-the-indices-bootcamp/)*

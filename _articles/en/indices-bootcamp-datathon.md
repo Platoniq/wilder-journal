@@ -80,6 +80,6 @@ On the second day, with the aim of getting participants to critically reflect on
 
 ![](https://miro.medium.com/max/1400/0*9TaeKiQA26Y4gtVB)
 
-{% file { "title": "Interested in exploring the work done in these Flash Task Forces?", "info": "You can find the hypothesis of every group in the Open Observatory and contribute your own opinion on the issues discussed.", "file": "https://participate.indices-culture.eu/assemblies/hypotheses", "image": "/assets/media/no_image-file.png", "button_text": "Join the debate", "button_icon": "null" } %}
+{% file { "title": "Interested in exploring the work done in these Flash Task Forces?", "info": "You can find the hypothesis of every group in the Open Observatory and contribute your own opinion on the issues discussed.", "file": "https://participate.indices-culture.eu/assemblies/hypotheses", "image": "/assets/media/no_image-file.png", "button_text": "Join the debate", "button_icon": "" } %}
 
 *In collaboration with [Aisha Villegas](https://indices-culture.eu/dispatches-from-the-indices-bootcamp/)*
