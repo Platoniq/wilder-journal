@@ -1,16 +1,18 @@
 ---
-uid: wilder-journal-1
-layout: journal
-volume-number: 1
-title: "Journal" # TODO
+published: true
 date: 2021-12-02
+layout: journal
+title: Wilder Journal
+uid: wilder-journal-1
 cover:
-  alt: "" # TODO
-  credits: "" # TODO
-  path: /media/volumes/heroes/heroimage_2.png
-  thumbnail: /media/volumes/thumbnails/n1.png
+  alt: "Wilder Journal #1 by Platoniq"
+  credits: "Wilder Journal #1 by Platoniq"
+  path: /media/volumes/heroes/sticker16.png
+  thumbnail: /media/volumes/thumbnails/sticker16.png
 locale: es
-description: "" # TODO
+volume-number: 1
+description: "Wilder Journal #1 by Platoniq"
 image:
-  path: /media/volumes/social/dd-example-01.jpg
+  path: /media/volumes/social/sticker16.png
+  alt: "Wilder Journal #1 by Platoniq"
 ---
