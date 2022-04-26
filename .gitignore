@@ -4,3 +4,10 @@ _site
 .jekyll-metadata
 vendor
 build
+
+# Functions
+.env
+
+node_modules
+# Local Netlify folder
+.netlify
