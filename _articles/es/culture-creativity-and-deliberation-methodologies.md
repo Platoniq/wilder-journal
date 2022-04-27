@@ -19,7 +19,7 @@ stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
   alt: "-"
