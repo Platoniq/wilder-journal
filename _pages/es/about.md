@@ -16,7 +16,7 @@ La temática de este Journal estará especialmente enfocada a la participación 
 
 Pero antes, querras saber...
 
-## ¿Quienes somos y que hacemos?
+# ¿Quiénes somos y qué hacemos?
 
 La Fundación Platoniq diseña procesos participativos digitales y facilita metodologías innovadoras de participación para contribuir a formar sociedades y organizaciones más democráticas y justas, haciendo uso de tecnologías cívicas abiertas.
 
