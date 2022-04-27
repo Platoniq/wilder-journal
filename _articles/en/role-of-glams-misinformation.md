@@ -20,7 +20,7 @@ stickers:
   sticker_two_animation: animation-none
   sticker_one: null
   sticker_two: null
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
   alt: "-"
