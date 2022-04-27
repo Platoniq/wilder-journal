@@ -1,4 +1,4 @@
-// // details in https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget
+// details in https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget
 require('dotenv').config()
 
 const fetch = require('node-fetch')
@@ -20,7 +20,7 @@ const handler = async(event) => {
 
   const payload = JSON.parse(event.body).payload
 
-  console.log(`Received a submission: ${payload.email}, ${payload.name}`)
+  console.log(`Sending email to: ${payload.email}, ${payload.name}`)
 
   let transporter = nodemailer.createTransport({
     service: 'gmail',
