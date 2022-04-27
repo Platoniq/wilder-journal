@@ -11,7 +11,9 @@
   "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/795f1c5d-b211-40d6-9ff6-4d45cbf662ca/deploy-status)](https://app.netlify.com/sites/next-wilder-journal/deploys)",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "netlify-plugin-image-optim": "^0.4.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
