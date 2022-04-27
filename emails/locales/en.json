@@ -1,0 +1,4 @@
+{
+  "welcome_title": "Hi {{ name }}, welcome to the Wilder Journal!",
+  "welcome_intro": "We hope you enjoy it :)"
+}
