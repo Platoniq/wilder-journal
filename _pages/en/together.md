@@ -79,3 +79,15 @@ layout: page
 
 
 **1-A o 1-B Para qué fecha lo necesitas <Fecha>**
+
+<section class="pj-collaborators">
+  <h2>Colaboramos con</h2>
+  
+  <div class="pj-collaborators__list">
+    <img class="pj-collaborator" src="/media/collaborators/decidim-logo.svg"/>
+    <img class="pj-collaborator" src="/media/collaborators/tecnopolitica.svg"/>
+    <img class="pj-collaborator" src="/media/collaborators/aj-bcn.png"/>
+    <img class="pj-collaborator" src="/media/collaborators/uoc.png"/>
+    <img class="pj-collaborator" src="/media/collaborators/som-energia.png"/>
+  </div>
+</section>
