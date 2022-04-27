@@ -67,7 +67,8 @@ const handler = async(event) => {
     .then(console.log)
     .catch(console.error);
 
-  return { statusCode: 200, body: `Email sent to ${payload.name} (${payload.email}) with payload ${JSON.stringify(payload)}` }
+  return { statusCode: 200, body: `Email sent to ${payload.name} (${payload.email}) from ${process.env.FROM_EMAIL_ADDRESS} with payload ${JSON.stringify(payload)}` }
+
 }
 
 module.exports = { handler }
