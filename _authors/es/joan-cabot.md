@@ -1,6 +1,5 @@
 ---
 uid: joan-cabot
-layout: author
 name: Joan Cabot
 position: .
 image:
