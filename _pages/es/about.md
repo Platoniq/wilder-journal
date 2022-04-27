@@ -10,11 +10,23 @@ description: La Fundación Platoniq diseña procesos participativos digitales y
   sociedades y organizaciones más democráticas y justas, haciendo uso de
   tecnologías cívicas abiertas.
 ---
+Este Journal que tienes “entre manos” es la manera que tenemos en Fundación Platoniq de abrirte las puertas a nuestro(s) mundo(s). Aquí encontrarás artículos en profundidad (deep dives), entrevistas y otros contenidos relacionados con nuestras líneas de actividad (Cultura futura, Innovación democrática, Empoderamiento ciudadano, Economía Social y Solidaria y cooperativismo). 
+
+La temática de este Journal estará especialmente enfocada a la participación e influencia de la ciudadanía en las decisiones públicas o en sus propias organizaciones. También sirve de plataforma para que iniciativas de este tipo se conozcan y se investiguen.
+
+Pero antes, querras saber...
+
+## ¿Quienes somos y que hacemos?
+
 La Fundación Platoniq diseña procesos participativos digitales y facilita metodologías innovadoras de participación para contribuir a formar sociedades y organizaciones más democráticas y justas, haciendo uso de tecnologías cívicas abiertas.
 
 Es además impulsora de la plataforma de crowdfunding cívico Goteo.org, a través de la cual financia iniciativas con impacto social -a nivel regional, nacional e internacional-, fomenta el cooperativismo y refuerza el conjunto de la Economía Social y Solidaria. Por ello, la Fundación es miembro de la XES (Xarxa d’Economia Solidària de Catalunya).
 
 La Fundación promueve la transparencia, la economía colaborativa y ética, la innovación democrática y la replicabilidad de las experiencias. Se financia a través de alianzas con instituciones públicas y privadas que comparten su misión y visión. Contamos con 23 personas contratadas distribuidas entre las oficinas de Barcelona, Madrid, Roma y Palma (sede social y fiscal) y un equipo de colaboradores en el estado español y en otros países europeos.
+
+> {% quote { "author": "Susana Noguero, fundadora de la Fundación Platoniq" } %}> Desde que las sociedades entendieron que aprender es fundamental para progresar, existen los juegos con reglas. ¿Podemos aprender a participar en nuestra democracia mediante la gamificación? La democracia es divertida…¡si nos la tomamos en serio!{% endquote %}
+>
+> {% quote { "author": "Olivier Schulbaum, fundador de la Fundación Platoniq" } %}> Las instituciones públicas y los responsables políticos están ávidos por una mayor participación (wider participation). La ciudadanía les reta con una participación más salvaje (wiLder participation). ¡La democracia deliberativa está solamente a una letra de distancia! ¡Debatamos, mezclemos, democraticemos!{% endquote %}
 
 ## ¿Cuál es nuestra misión?
 
