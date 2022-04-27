@@ -24,9 +24,9 @@ Es además impulsora de la plataforma de crowdfunding cívico Goteo.org, a trav�
 
 La Fundación promueve la transparencia, la economía colaborativa y ética, la innovación democrática y la replicabilidad de las experiencias. Se financia a través de alianzas con instituciones públicas y privadas que comparten su misión y visión. Contamos con 23 personas contratadas distribuidas entre las oficinas de Barcelona, Madrid, Roma y Palma (sede social y fiscal) y un equipo de colaboradores en el estado español y en otros países europeos.
 
-> {% quote { "author": "Susana Noguero, fundadora de la Fundación Platoniq" } %}> Desde que las sociedades entendieron que aprender es fundamental para progresar, existen los juegos con reglas. ¿Podemos aprender a participar en nuestra democracia mediante la gamificación? La democracia es divertida…¡si nos la tomamos en serio!{% endquote %}
->
-> {% quote { "author": "Olivier Schulbaum, fundador de la Fundación Platoniq" } %}> Las instituciones públicas y los responsables políticos están ávidos por una mayor participación (wider participation). La ciudadanía les reta con una participación más salvaje (wiLder participation). ¡La democracia deliberativa está solamente a una letra de distancia! ¡Debatamos, mezclemos, democraticemos!{% endquote %}
+{% quote { "author": "Susana Noguero, fundadora de la Fundación Platoniq" } %}> Desde que las sociedades entendieron que aprender es fundamental para progresar, existen los juegos con reglas. ¿Podemos aprender a participar en nuestra democracia mediante la gamificación? La democracia es divertida…¡si nos la tomamos en serio!{% endquote %}
+
+{% quote { "author": "Olivier Schulbaum, fundador de la Fundación Platoniq" } %}> Las instituciones públicas y los responsables políticos están ávidos por una mayor participación (wider participation). La ciudadanía les reta con una participación más salvaje (wiLder participation). ¡La democracia deliberativa está solamente a una letra de distancia! ¡Debatamos, mezclemos, democraticemos!{% endquote %}
 
 ## ¿Cuál es nuestra misión?
 
