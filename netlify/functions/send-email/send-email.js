@@ -68,6 +68,7 @@ const handler = async(event) => {
   }
 
   console.log(`Sending email to: ${payload.email}, ${payload.name}`)
+  console.log(`${JSON.stringify(config)}`)
 
   const email = new Email(_.merge({
       message: {
@@ -87,7 +88,7 @@ const handler = async(event) => {
         $t
       }, payload)
     })
-    .then()
+    .then(console.log)
     .catch(console.error);
 
   return { statusCode: 200, body: `Sent email to ${config.to} from ${config.from}` }

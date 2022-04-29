@@ -8,4 +8,4 @@
   # a base hasn’t been set.
   directory = "netlify/functions/"
    # Includes all files inside the "emails/" directory.
-  included_files = ["emails/*"]
+  included_files = ["emails/**"]
