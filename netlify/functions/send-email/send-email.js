@@ -11,7 +11,48 @@ const resolve = require('path').resolve
 const nodemailer = require('nodemailer')
 const Email = require('email-templates')
 
+const smtp = {
+  host: process.env.SMTP_HOST,
+  port: process.env.SMTP_PORT,
+  username: process.env.SMTP_USERNAME,
+  password: process.env.SMTP_PASSWORD
+}
+
+let transporter = nodemailer.createTransport({
+  pool: true,
+  host: smtp.host,
+  port: smtp.port,
+  // secure: true, // use TLS
+  auth: {
+    user: smtp.username,
+    pass: smtp.password,
+  },
+});
+
+const emailSettings = {
+  send: true, // uncomment to send emails in development/test env
+  transport: transporter,
+  i18n: {
+    defaultLocale: 'es',
+    directory: resolve('emails/locales'),
+    locales: ['en', 'es'],
+  },
+  views: {
+    options: {
+      extension: 'hbs'
+    }
+  }
+}
+
 const handler = async(event) => {
+  // verify connection configuration
+  transporter.verify(function(error, success) {
+    if (error) {
+      console.log(error);
+    } else {
+      console.log("Server is ready to take our messages");
+    }
+  });
 
   // Common form fields: "lang","page_uid","site_url","ip","user_agent","referrer","created_at"
   // Newsletter form fields: "name","email"
@@ -20,55 +61,43 @@ const handler = async(event) => {
 
   const payload = JSON.parse(event.body).payload
 
+  const config = {
+    from: `"${process.env.FROM_EMAIL_NAME}" <${process.env.FROM_EMAIL_ADDRESS}>`,
+    to: `"${payload.name}" <${payload.email}>`,
+    template: "welcome"
+  }
+
   console.log(`Sending email to: ${payload.email}, ${payload.name}`)
 
-  let transporter = nodemailer.createTransport({
-    service: 'gmail',
-    auth: {
-      user: process.env.FROM_EMAIL_ADDRESS,
-      pass: process.env.FROM_EMAIL_PASSWORD
-    }
-  });
-
-  const email = new Email({
-    message: {
-      from: process.env.FROM_EMAIL_ADDRESS
-    },
-    // send: true, // uncomment to send emails in development/test env
-    transport: transporter,
-    i18n: {
-      defaultLocale: 'es',
-      directory: resolve('emails/locales'),
-      locales: ['en', 'es'],
-    },
-    views: {
-      options: {
-        extension: 'hbs'
+  const email = new Email(_.merge({
+      message: {
+        from: config.from
       }
     },
-  });
+    emailSettings))
 
   email
     .send({
-      template: 'welcome',
+      template: config.template,
       message: {
-        to: payload.email
+        to: config.to
       },
-      locals: _.merge(payload, {
+      locals: _.merge({
         locale: payload.lang,
-        $t(key, options) {
-          // <------ THIS IS OUR OWN TRANSLATION HELPER
-          return options.data.root.t({ phrase: key, locale: options.data.root.locale },
-            options.hash
-          );
-        }
-      })
+        $t
+      }, payload)
     })
-    .then(console.log)
+    .then()
     .catch(console.error);
 
-  return { statusCode: 200, body: `Email sent to ${payload.name} (${payload.email}) from ${process.env.FROM_EMAIL_ADDRESS} with payload ${JSON.stringify(payload)}` }
+  return { statusCode: 200, body: `Sent email to ${config.to} from ${config.from}` }
+}
 
+let $t = (key, options) => {
+  // <------ THIS IS OUR OWN TRANSLATION HELPER
+  return options.data.root.t({ phrase: key, locale: options.data.root.locale },
+    options.hash
+  );
 }
 
 module.exports = { handler }
