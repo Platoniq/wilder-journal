@@ -28,7 +28,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/articles/social/arantxa_mendiharat.jpg
+  path: /media/articles/social/alba-feito_entrevista-arantxa-1-.png
   alt: "# TODO"
 ---
 Arantxa Mendiharat envisions the possibility of different worlds: new futures and new democracies. Cultural mediator, co-founder of [Deliberativa](https://twitter.com/delibera_tiva) and co-creator of the website [democraciaporsorteo.org](https://democraciaporsorteo.org/), she has, since 2016, been working professionally on deliberative methodologies which get citizens involved based on random selection. Arantxa co-designs and manages projects related to culture and participation which aim to transform our political systems.
