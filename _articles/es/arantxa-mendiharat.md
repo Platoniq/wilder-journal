@@ -17,8 +17,8 @@ description: "Arantxa Mendiharat imagina mundos posibles: futuros posibles y
 author: xesca-sastre
 interviewee: Arantxa Mendiharat
 cover:
-  path: /media/articles/heroes/arantxa_mendiharat.jpg
-  thumbnail: /media/articles/thumbnails/arantxa_mendiharat.jpg
+  path: /media/articles/heroes/alba-feito_entrevista-arantxa-1-.png
+  thumbnail: /media/articles/thumbnails/alba-feito_entrevista-arantxa-1-.png
   alt: "# TODO"
   caption: "# TODO"
   credits: "# TODO"
@@ -109,3 +109,11 @@ Ahora mismo, quien tiene la última palabra son las personas electas, no las asa
 ### Aunque no tuviéramos una democracia representativa con partidos políticos detrás, seguiría habiendo presión por parte de los poderes económicos. ¿Para que cambien realmente las cosas debe cambiar el sistema entero?
 
 Claro. Ahora nos estamos centrando en el proceso de elección, pero deberían cambiar muchas cosas más, como la separación de poderes. Habría que revisar, por ejemplo, la relación entre el Ejecutivo y el Legislativo, que ahora mismo está muy distorsionada. Habría que ver cómo se eligen las personas del poder ejecutivo y las del sistema judicial. Hay muchas cosas más por ver y por experimentar. Es un campo apasionante, yo creo que podemos ilusionarnos con esto porque ahora mismo nos falta ilusión hacia la política. Vemos que el sistema no está bien, pero no vemos ninguna manera de mejorarlo. Lo que podemos hacer entonces es probar otros sistemas alternativos y ver qué pasa.
+
+### Recientemente has participado en el diseño de la metodología y la implementación de la [Conferencia sobre el Futuro de Europa](https://futureu.europa.eu/?locale=es). ¿Qué valoración haces de la experiencia?
+
+Era la primera vez que se hacía un proceso deliberativo transnacional incluyendo a tantos países (27), idiomas (24) y participantes (800) y el aprendizaje ha sido brutal. A parte de la organización de los propios paneles ciudadanos (entre septiembre 2021 y enero 2022) que han desembocado en la publicación de recomendaciones, la segunda parte de la Conferencia (entre enero y mayo 2022) ha sido también un ejercicio totalmente inédito de negociar esas recomendaciones con diputados europeos, nacionales y organizaciones de la sociedad civil, para llegar a las propuestas conjuntas que son el resultado final de la Conferencia presentado el 9 de mayo. La gran pena del proceso ha sido que las tres instituciones europeas (Parlamento, Comisión, Consejo) comanditarias del proceso no fueron capaces de establecer unas preguntas concretas al principio del mismo, y en vez de trabajar sobre pocas cuestiones complejas y de largo plazo, los ciudadanos han trabajado sobre prácticamente todos los aspectos de las políticas europeas. Un abanico muy amplio que ha permitido abordar muchas temáticas, pero ha impedido profundizar en las cuestiones más problemáticas.
+
+### Se han hecho también asambleas nacionales en paralelo, y se seguirán haciendo. ¿Crees que el formato local mejora la calidad de las conversaciones?
+
+No tiene por qué. Si las asambleas ciudadanas están correctamente diseñadas, hay medios para implementarlas y sobre todo si los gobiernos entienden cómo esas asambleas les pueden ayudar a pensar mejores políticas públicas y resolver cuestiones a las cuales es más difícil dar respuestas desde el sistema político tradicional, se pueden hacer a cualquier escala. Obviamente es más fácil trabajar con uno o dos idiomas, que con 24, y con distancias de viaje más cortas, pero todos los sistemas políticos deberían de incluir asambleas ciudadanas en sus mecanismos de toma de decisiones. Si existen instituciones europeas, es necesario que existan asambleas ciudadanas de nivel europeo.

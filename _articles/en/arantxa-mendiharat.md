@@ -17,8 +17,8 @@ description: "Arantxa Mendiharat envisions the possibility of different worlds:
 author: xesca-sastre
 interviewee: Arantxa Mendiharat
 cover:
-  path: /media/articles/heroes/arantxa_mendiharat.jpg
-  thumbnail: /media/articles/thumbnails/arantxa_mendiharat.jpg
+  path: /media/articles/heroes/alba-feito_entrevista-arantxa-1-.png
+  thumbnail: /media/articles/thumbnails/alba-feito_entrevista-arantxa-1-.png
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
@@ -44,8 +44,6 @@ One mechanism which is proving very effective is sortition: a group of people, s
 ### Some would argue that your average citizen might not be equipped to make certain decisions about public matters…
 
 For this exact reason the system will allow Citizens’ Assemblies to call on expert committees from all fields, which they can consult regarding the matters at hand. These experts could include civic organisers, politicians, technicians and the like, and each participant can choose the experts from whom they would like to solicit advice, thus ensuring a diverse range of viewpoints. Another important factor is that participants chosen by lottery are given enough time and training to ground themselves in the topic they will be debating. In this way we can ensure that any decision made by the Citizens’ Assembly will be an informed one.
-
-
 
 {% quote { "author": "Arantxa Mendiharat" } %}Sortition is an immensely effective tool in the fight against polarisation{% endquote %}
 
@@ -110,3 +108,11 @@ Right now those who have the last word are the elected officials, not assemblies
 ### Even if we didn’t have representative democracy with political parties behind it, there would still be economic pressure to contend with. For things to truly change, do we need to change the entire system?
 
 Of course. Now we are focussing on the electoral process, but there are many more things that need to change, like the separation of powers. We need to reconsider, for example, the relationship between the Executive and the Legislative branches, which right now is extremely distorted and imbalanced. We need to look closely at how we select those with executive power and those in the judicial system. There is so much to reconsider and to experiment with. It’s an exciting field, and I think we should be very excited about it, because right now excitement is what is missing from politics. We can see that the system is in a bad state, but we can’t seem to find any way of making it better. What we can do then, is try out alternative systems and see what happens.
+
+### You recently participated in the design of the methodology and implementation of the [Conference on the Future of Europe](https://futureu.europa.eu/?locale=en). What is your assessment of the experience?
+
+It was the first time that a transnational deliberative process was carried out involving so many countries (27), languages (24) and participants (800) and the learning process was brutal. Apart from the organisation of the citizens' panels themselves (between September 2021 and January 2022) which led to the publication of recommendations, the second part of the Conference (between January and May 2022) was also a totally unprecedented exercise of negotiating these recommendations with European and national MPs and civil society organisations, to arrive at the joint proposals that are the final result of the Conference presented on 9 May. The great pity of the process was that the three European institutions (Parliament, Commission, Council) in charge of the process were not able to establish specific questions at the beginning of the process, and instead of working on a few complex and long-term issues, citizens worked on practically all aspects of European policies. A very wide range has allowed many issues to be addressed, but has prevented the most problematic issues from being dealt with in depth.
+
+### National assemblies have also been held in parallel and will continue to be held. Do you think that the local format improves the quality of the discussions?
+
+It doesn't necessarily have to. If the citizens' assemblies are properly designed, if there are the means to implement them and, above all, if governments understand how these assemblies can help them to think about better public policies and resolve issues that are more difficult to answer through the traditional political system, they can be held at any scale. Obviously it is easier to work with one or two languages than with 24, and with shorter travel distances, but all political systems should include citizens' assemblies in their decision-making mechanisms. If there are European institutions, there need to be European-level citizens' assemblies.
