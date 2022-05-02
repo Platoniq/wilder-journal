@@ -1,6 +1,5 @@
 ---
 uid: chiara-rutolo
-layout: author
 name: Chiara Rutolo
 position: "Coordinadora de proyectos europeos "
 image:

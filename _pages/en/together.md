@@ -5,7 +5,7 @@ title: Let's collaborate!
 description: At Platoniq we're delighted encanta encontrar nuevas alianzas y
   colaboraciones, ¡haznos tu propuesta!
 call_to_action: cta-contact
-layout: page
+layout: collaborators
 ---
 **— Inspiración —-**
 
@@ -79,15 +79,3 @@ layout: page
 
 
 **1-A o 1-B Para qué fecha lo necesitas <Fecha>**
-
-<section class="pj-collaborators">
-  <h2>Colaboramos con</h2>
-  
-  <div class="pj-collaborators__list">
-    <img class="pj-collaborator" src="/media/collaborators/decidim-logo.svg"/>
-    <img class="pj-collaborator" src="/media/collaborators/tecnopolitica.svg"/>
-    <img class="pj-collaborator" src="/media/collaborators/aj-bcn.png"/>
-    <img class="pj-collaborator" src="/media/collaborators/uoc.png"/>
-    <img class="pj-collaborator" src="/media/collaborators/som-energia.png"/>
-  </div>
-</section>
