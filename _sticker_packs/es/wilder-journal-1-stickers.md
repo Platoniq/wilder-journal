@@ -25,4 +25,4 @@ Dentro de mis prácticas de dibujo también entran mis piezas de cerámica, m
 
 
 
-{% file { "title": "Añade el pack de stickers a Telegram", "info": "Comparte estos maravillosos stickers con tus grupos y contactos preferidos <3", "file": "https://t.me/addstickers/WilderStickersVolume1", "image": "/media/sticker16.png", "button_text": "Añadir stickers", "button_icon": "null" } %}
+{% file { "title": "Añade el pack de stickers a Telegram", "info": "Comparte estos maravillosos stickers con tus grupos y contactos preferidos <3", "file": "https://t.me/addstickers/WilderStickersVolume1", "image": "/media/sticker16.png", "button_text": "Añadir stickers", "button_icon": "" } %}

@@ -25,4 +25,4 @@ My drawing practices also include my ceramic pieces, my paintings, or any of the
 
 
 
-{% file { "title": "Add the sticker pack to Telegram", "info": "Share these wonderful stickers with your favourite groups and contacts <3", "file": "https://t.me/addstickers/WilderStickersVolume1", "image": "/media/sticker16.png", "button_text": "Añadir stickers", "button_icon": "null" } %}
+{% file { "title": "Add the sticker pack to Telegram", "info": "Share these wonderful stickers with your favourite groups and contacts <3", "file": "https://t.me/addstickers/WilderStickersVolume1", "image": "/media/sticker16.png", "button_text": "Añadir stickers", "button_icon": "" } %}
