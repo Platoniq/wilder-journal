@@ -92,6 +92,7 @@ exclude: [Gemfile, Gemfile.lock, README.md, LICENSE.txt, .editorconfig]
 # Plugins
 plugins:
   - jekyll-target-blank
+  - jekyll-loading-lazy
 
 target-blank:
   add_css_classes: link-external
