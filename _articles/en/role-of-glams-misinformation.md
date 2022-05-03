@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
 date: 2022-04-01T15:06:42.013Z
-article-order: 1
+article-order: 9
 uid: role-of-glams-misinformation
 title: What is the role of GLAMs in the spread of misinformation?
 description: "-"

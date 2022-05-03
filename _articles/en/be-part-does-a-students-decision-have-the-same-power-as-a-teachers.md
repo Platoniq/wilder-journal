@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-04-01T10:42:45.427Z
-article-order: 8
+article-order: 4
 uid: be-part-does-a-students-decision-have-the-same-power-as-a-teachers
 title: "“BePart”: Does a student's decision have the same power as a teacher's?"
 author: marta-anducas

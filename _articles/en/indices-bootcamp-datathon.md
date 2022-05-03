@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-04-22T11:27:04.485Z
-article-order: 1
+article-order: 10
 uid: indices-bootcamp-datathon
 title: El inDICEs Bootcamp, Datathon for a Fairer Democracy
 description: "-"

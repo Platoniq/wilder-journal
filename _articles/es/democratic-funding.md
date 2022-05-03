@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
 date: 2022-04-01T09:47:37.297Z
-article-order: 1
+article-order: 13
 uid: democratic-funding
 title: "Democratic Funding: la ciudadanía elige su futuro. Límites y esperanzas
   en Presupuestos Participativos i Matchfunding"

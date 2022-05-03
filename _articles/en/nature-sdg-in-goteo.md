@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: blueprints
 date: 2022-01-01T17:13:53.362Z
-article-order: 1
+article-order: 8
 uid: nature-sdg-in-goteo
 title: " Crowdfunding and SDGs open data to accelerate knowledge about
   sustainability and citizen participation"

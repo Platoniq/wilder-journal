@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-04-01T11:25:28.606Z
-article-order: 2
+article-order: 11
 uid: españa-vacia-incendios
 author: joan-cabot
 interviewee: Editorial Catro Ventos, Proxecto Batego, Fundación Civio

@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
 date: 2022-04-01T14:15:22.373Z
-article-order: 1
+article-order: 6
 uid: culture-creativity-and-deliberation-methodologies
 title: Cultura, creatividad y metodologías de deliberación
 description: "-"

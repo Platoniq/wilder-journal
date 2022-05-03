@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-04-01T11:25:28.606Z
-article-order: 2
+article-order: 11
 uid: españa-vacia-incendios
 title: La España vaciada y sus incendios
 description: Iniciativas ciudadanas que utilizan el crowdfunding para salvar

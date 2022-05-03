@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-04-01T13:49:06.964Z
-article-order: 3
+article-order: 7
 uid: crowdfunding-historical-memory-common-good
 title: La memoria histórica como bien común
 description: Reunimos a dos campañas que nunca deberían haber sido necesarias

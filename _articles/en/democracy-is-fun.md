@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-01-01T00:00:00.000Z
-article-order: 3
+article-order: 12
 uid: democracy-is-fun
 title: Democracy is fun if you take it… seriously!
 description: "[# TODO] Democracy is fun if you take it… seriously!"

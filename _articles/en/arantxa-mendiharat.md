@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: interviews
 date: 2022-01-01T12:51:36.642Z
-article-order: 1
+article-order: 3
 uid: arantxa-mendiharat
 title: Citizens’ Assemblies provide spaces of trust, with a high degree of
   direct participation

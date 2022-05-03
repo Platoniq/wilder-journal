@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
 date: 2022-01-01T00:00:00.000Z
-article-order: 1
+article-order: 14
 uid: digital-participation-gap
 title: Does the digital participation gap have gender?
 description: In this article we focus on the situation women face within the
