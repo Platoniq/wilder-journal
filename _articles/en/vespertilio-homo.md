@@ -112,7 +112,7 @@ In this sense, we are involved in the [SMILES](http://smiles.platoniq.net/) Euro
 
 {% questions { "items": [{"question":"Do you want to reclaim the role of libraries as an umbrella against disinformation and a place for training critical users?"},{"question":"Can you imagine creating an atmosphere similar to the one Orson Wells engineered to talk about disinformation with your students and empower their critical thinking?"},{"question":"Want to show your teachers that Wikipedia is a reliable repository of information?"}] } %}
 
-{% file { "title": "If as a librarian, teacher or student you want to join the fight against disinformation", "info": "contact us at facilita@platoniq.net and we will tell you what we are doing and how you can be part of the SMILES project.", "file": "mailto:facilita@platoniq.net", "image": "/media/stickers/wilder-journal-1/sticker4.png", "button_text": "Contact us", "button_icon": "" } %}
+{% file { "title": "If as a librarian, teacher or student you want to join the fight against disinformation", "info": "contact us at facilita@platoniq.net and we will tell you what we are doing and how you can be part of the SMILES project.", "file": "mailto:facilita@platoniq.net", "image": "/media/stickers/wilder-journal-1/sticker4.png", "button_text": "Contact us", "button_icon": "", "alt_color": false } %}
 
 ## Resources and references
 

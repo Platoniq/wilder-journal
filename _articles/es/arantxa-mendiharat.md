@@ -80,7 +80,7 @@ Extinction Rebellion, entidad que está reclamando que se hagan muchas asambleas
 
 En castellano está la web [democraciaporsorteo.org](https://democraciaporsorteo.org), que da las claves de lo que son estos procesos deliberativos y este es el trabajo más importante ahora; darlo a conocer y que se entienda cuál es el interés de estos mecanismos y de ahí crear cultura ciudadana.
 
-{% file { "title": "Si te interesa el tema puedes escuchar este podcast", "info": "En inglés", "file": "https://facilitatingpublicdeliberation.libsyn.com/episode-44-deliberation-around-the-world-with-claudia-chwalisz?tdest_id=1717865", "image": "/media/stickers/wilder-journal-1/sticker9.png", "button_text": "Escuchar", "button_icon": "" } %}
+{% file { "title": "Si te interesa el tema puedes escuchar este podcast", "info": "En inglés", "file": "https://facilitatingpublicdeliberation.libsyn.com/episode-44-deliberation-around-the-world-with-claudia-chwalisz?tdest_id=1717865", "image": "/media/stickers/wilder-journal-1/sticker9.png", "button_text": "Escuchar", "button_icon": "", "alt_color": false } %}
 
 ### ¿Cómo ha afectado la pandemia a las Asambleas ciudadanas, tanto en su ejecución como en el diseño de las futuras?
 

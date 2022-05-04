@@ -121,7 +121,7 @@ En este sentido, estamos embarcadas en el proyecto europeo [SMILES](http://smile
 
 {% questions { "items": [{"question":"¿Quieres reivindicar el papel de las bibliotecas como paraguas contra la desinformación y lugar de capacitación de usuarias críticas?"},{"question":"¿Te imaginas crear una atmósfera similar a la que ingenió Orson Wells para hablar sobre la desinformación con tus estudiantes y potenciar su pensamiento crítico?"},{"question":"¿Quieres demostrar a tus profes que Wikipedia es un repositorio fiable de información?"}] } %}
 
-{% file { "title": "Si como bibliotecaria, docente o estudiante quieres sumarte a la lucha contra la desinformación", "info": "contáctanos a facilita@platoniq.net y te contaremos en qué estamos y cómo puedes ser parte del proyecto SMILES.", "file": "mailto:facilita@platoniq.net", "image": "/media/stickers/wilder-journal-1/sticker4.png", "button_text": "Contáctanos", "button_icon": "" } %}
+{% file { "title": "Si como bibliotecaria, docente o estudiante quieres sumarte a la lucha contra la desinformación", "info": "contáctanos a facilita@platoniq.net y te contaremos en qué estamos y cómo puedes ser parte del proyecto SMILES.", "file": "mailto:facilita@platoniq.net", "image": "/media/stickers/wilder-journal-1/sticker4.png", "button_text": "Contáctanos", "button_icon": "", "alt_color": false } %}
 
 ## Referencias
 

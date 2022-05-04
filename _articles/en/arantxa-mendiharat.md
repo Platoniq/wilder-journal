@@ -79,7 +79,7 @@ Extinction Rebellion, an entity which is calling for widespread climate-focussed
 
 In Spanish we have the website [www.democraciaporsorteo.org](http://www.democraciaporsorteo.org). It explains key ideas about what these deliberative processes are, and this is the most important work to be done right now; spreading knowledge and showing people what the aims of these mechanisms are, and creating a starting point from which to build up a civic, cultural support base.
 
-{% file { "title": "If this is a topic which interests you, and you’d like to find out more, have a listen to the following podcast", "info": "English", "file": "https://facilitatingpublicdeliberation.libsyn.com/episode-44-deliberation-around-the-world-with-claudia-chwalisz?tdest_id=1717865", "image": "/assets/media/no_image-file.png", "button_text": "Listen", "button_icon": "" } %}
+{% file { "title": "If this is a topic which interests you, and you’d like to find out more, have a listen to the following podcast", "info": "English", "file": "https://facilitatingpublicdeliberation.libsyn.com/episode-44-deliberation-around-the-world-with-claudia-chwalisz?tdest_id=1717865", "image": "/assets/media/no_image-file.png", "button_text": "Listen", "button_icon": "", "alt_color": false } %}
 
 ### How has the pandemic impacted Citizens’ Assemblies, both in their implementation and planning?
 

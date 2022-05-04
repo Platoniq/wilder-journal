@@ -10,7 +10,7 @@ description: "[# TODO] Democracy is fun if you take it… seriously!"
 author: olivier-schulbaum
 cover:
   path: /media/articles/heroes/sticker12.png
-  thumbnail: /media/articles/thumbnails/decidim_the_game.jpeg
+  thumbnail: /media/articles/thumbnails/sticker12.png
 stickers:
   layout: layout-none
   sticker_one: null
@@ -66,7 +66,7 @@ On the other hand, the data and proposals collected in the participatory process
 
 On the other hand, it is key that the technical staff in public participation facilities and services integrate the participation system into their daily work and are proactive in informing service users and proposing improvements for their greater involvement.
 
-{% file { "title": "If you like this article", "info": "support our work by buying the T-shirt to freshen up your democratic praxis and your fall fashion!", "file": "https://wotify.eu/premium-toolkits/", "image": "/assets/media/no_image-file.png", "button_text": "Support", "button_icon": "" } %}
+{% file { "title": "If you like this article", "info": "support our work by buying the T-shirt to freshen up your democratic praxis and your fall fashion!", "file": "https://wotify.eu/premium-toolkits/", "image": "/assets/media/no_image-file.png", "button_text": "Support", "button_icon": "", "alt_color": false } %}
 
 ### Challenge 4: Direct democracy platforms as a public citizen service for training and digital mediation
 

@@ -50,21 +50,17 @@ These phases allowed the Flash Task Forces, each with their own data and ideas, 
 
 📣 **Infodemics and Society with Open Data and Archives**, with Oyidiya Oji Palino – This Flash Task Force worked on ‘infodemics’, digital culture and pandemics, giving special attention to the impact of society and its attitude towards BIPOC communities. 
 
-![](https://miro.medium.com/max/1400/0*B94gf4rZXA-esvau)
-
-![](https://miro.medium.com/max/1400/0*st6_aJNiiFT0zo9R)
-
-![](https://miro.medium.com/max/1400/0*J8VL1ryIGpAp-Fq1)
+{% gallery { "simple": true, "images": [{"path":"/media/indices_1.jpeg"}, {"path":"/media/indices_2.jpeg"}, {"path":"/media/indices_3.jpeg"}] } %}
 
 ## Accessible, inclusive and usable data for a fairer democracy
 
 In contrast to most datathons, the inDICEs Bootcamp focussed on visualising available data and bringing it to life for a non-specialised audience. In order to help visualise data as accessible narratives, artist, professor and illustrator [Hayfaa Chalabi](http://hayfaachalabi.com/) presented examples and spoke of her own experience in the creation of accessible and impactful data narratives around themes of visual culture, gender and migration. In her own words, “There is no neutral data. Data visualisation is always emotional.”
 
-![](https://miro.medium.com/max/1400/0*vMJ7ABEBWHkPx6l4)Keynote speaker: Hayfaa Chalabi
+{% gallery { "simple": false, "images": [{"path":"/media/indices_4.jpeg","caption":"Keynote speaker: Hayfaa Chalabi"}] } %}
 
 The event was also attended by **Pablo Aragón**, scientific researcher for the **Wikimedia Foundation**, where he focuses on content integrity and preventing the spread of misinformation on Wikipedia and other open knowledge projects. Aragón gave a presentation about community governance in combating misinformation at Wikimedia, which he states, “has shown that the internet can continue to be an open space for free knowledge.”
 
-![](https://miro.medium.com/max/1400/0*P7-cPFk7tNrNcwWD)Pablo Aragón introduces his work with Wikipedia
+{% gallery { "simple": false, "images": [{"path":"/media/indices_5.jpeg","caption":"Pablo Aragón introduces his work with Wikipedia"}] } %}
 
 The final speaker of the event was **Ivana Feldfeber**, head of [DataGénero](https://sites.google.com/view/datagenero-english), a data observatory with a firm focus on gender located in Argentina. Using Python, she is developing code that focuses on data related to social issues and data justice. At the bootcamp, Ivana spoke about gender inequalities and biases in public policy and also advocated for an intersectional feminist perspective on data and AI, offering a critical take on the exploitative use of data. 
 
@@ -72,14 +68,8 @@ The final speaker of the event was **Ivana Feldfeber**, head of [DataGénero](ht
 
 On the second day, with the aim of getting participants to critically reflect on data and tell an accessible story, **Hayfaa Chalabi** led a workshop based on the work of [Mycket](https://mycket.org/About-Us). Working with artistic design and architecture, Mycket experimented with the cartography of Gothenburg from a queer perspective after many clubs had been attacked, arsoned or closed during the period from 1980 into the 90s. Artefacts of queer culture and desire are absent from all archival material, probably as a consequence of the prevalence of homophobic, transphobic and racist hate crimes in Gothenburg during this time. This meant that the participants had to work with immaterial data which only existed in individual and collective memory. Driving the exercise was the idea of mapping out the cultures of communities that are so often rendered invisible and to reclaim hidden data as a cultural legacy. Gathered in two groups, participants set out to create a queer cartography of spaces they used to know. The activity gave each group the space to reflect on information that they considered relevant and to then make it visible.
 
-![](https://miro.medium.com/max/1400/0*AlXHWr7syA1Zi35B)
+{% gallery { "simple": true, "images": [{"path":"/media/indices_6.jpeg"}, {"path":"/media/indices_7.jpeg"}, {"path":"/media/indices_8.jpeg"}, {"path":"/media/indices_9.jpeg"}] } %}
 
-![](https://miro.medium.com/max/1400/0*4Kgp8OXPQs4ZZnIK)
-
-![](https://miro.medium.com/max/1400/0*N0lgmZ9jBkAH_Kqj)
-
-![](https://miro.medium.com/max/1400/0*9TaeKiQA26Y4gtVB)
-
-{% file { "title": "Interested in exploring the work done in these Flash Task Forces?", "info": "You can find the hypothesis of every group in the Open Observatory and contribute your own opinion on the issues discussed.", "file": "https://participate.indices-culture.eu/assemblies/hypotheses", "image": "/assets/media/no_image-file.png", "button_text": "Join the debate", "button_icon": "" } %}
+{% file { "title": "Interested in exploring the work done in these Flash Task Forces?", "info": "You can find the hypothesis of every group in the Open Observatory and contribute your own opinion on the issues discussed.", "file": "https://participate.indices-culture.eu/assemblies/hypotheses", "image": "/media/stickers/wilder-journal-1/sticker14.png", "button_text": "Join the debate", "button_icon": "", "alt_color": true } %}
 
 *In collaboration with [Aisha Villegas](https://indices-culture.eu/dispatches-from-the-indices-bootcamp/)*
