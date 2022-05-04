@@ -17,8 +17,9 @@ description: "Arantxa Mendiharat imagina mundos posibles: futuros posibles y
 author: xesca-sastre
 interviewee: Arantxa Mendiharat
 cover:
-  path: /media/articles/heroes/alba-feito_entrevista-arantxa-1-.png
-  thumbnail: /media/articles/thumbnails/alba-feito_entrevista-arantxa-1-.png
+  path: /media/articles/heroes/arantxa-mendiharat.png
+  mobile: /media/articles/mobile/arantxa-mendiharat.png
+  thumbnail: /media/articles/thumbnails/arantxa-mendiharat.png
   alt: "# TODO"
   caption: "# TODO"
   credits: "# TODO"
@@ -28,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/articles/social/alba-feito_entrevista-arantxa-1-.png
+  path: /media/articles/social/arantxa-mendiharat.png
   alt: "# TODO"
 ---
 Arantxa Mendiharat imagina mundos posibles: futuros posibles y democracias posibles. Mediadora cultural, co-fundadora de Deliberativa y co-creadora de la web [democraciaporsorteo.org](https://democraciaporsorteo.org), desde el 2016 lleva trabajando profesionalmente en metodologías deliberativas que activan a ciudadanas elegidas por sorteo. Arantxa co-diseña y gestiona proyectos relacionados con la cultura y la participación que aspiran a la transformación de los sistemas políticos. 
