@@ -11,7 +11,7 @@ description: "[# TODO] Gamificación, incentivos y espacios más seguros para
 author: olivier-schulbaum
 cover:
   path: /media/articles/heroes/sticker12.png
-  thumbnail: /media/articles/thumbnails/decidim_the_game.jpeg
+  thumbnail: /media/articles/thumbnails/sticker12.png
   alt: "# TODO"
   credits: "# TODO"
   caption: "# TODO"
@@ -21,7 +21,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/sticker12.png
   alt: "# TODO"
 ---
 ### 4/8 Desafíos descomunales de la participación ciudadana

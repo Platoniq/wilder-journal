@@ -6,7 +6,7 @@ date: 2022-04-01T09:47:37.297Z
 article-order: 13
 uid: democratic-funding
 title: "Democratic Funding: la ciudadanía elige su futuro. Límites y esperanzas
-  en Presupuestos Participativos i Matchfunding"
+  en Presupuestos Participativos y Matchfunding"
 description: "La participación ciudadana aspira a ser parte activa de la toma de
   decisiones y se pregunta: ¿hay procesos más democráticos que otros a la hora
   de decidir en qué se gasta el dinero público?"
@@ -58,7 +58,7 @@ En este punto creemos útil, tanto para quien ya domina la cuestión como para q
 
 * En el **matchfunding** la ciudadanía presenta y ejecuta a través de una campaña de micromecenazgo una iniciativa cuyos costes son cubiertos a partes iguales entre personas donantes y Administración.
 
-<iframe allowfullscreen="" frameborder="0" height="360" mozallowfullscreen="" src="https://player.vimeo.com/video/180870827" style=" display: block; margin: 20px auto;" webkitallowfullscreen="" width="80%"></iframe>
+{% video { "title": "Goteo: Matchfunding Public and Private Funds with Crowdfunding", "url": "https://player.vimeo.com/video/180870827" } %}
 
 **Los presupuesto participativos** aparecen por primera vez como herramienta participativa a finales de los años 80 en la ciudad de Porto Alegre, Brasil en la coincidencia de tres situaciones concretas:
 
@@ -97,7 +97,7 @@ Dos casos paradigmáticos de esta combinación de crowdfunding y presupuestos pa
 
 ## ¿Cómo abordamos la pregunta desde Platoniq?
 
-![](https://i.imgur.com/CxTiooc.jpg)
+{% gallery { "simple": true, "images": [{"path":"/media/democratic-funding-moustache.png"}] } %}
 
 En este apartado vamos a sacar la lupa y hacer un ejercicio tan doloroso como necesario. Si son muchas las virtudes, no son pocas las flaquezas ni los retos que se viven en la práctica. Identificamos tres aspectos como los más sensibles: divulgación de la propuesta, evaluación de los proyectos y rendición de cuentas.
 
@@ -111,7 +111,7 @@ La coexistencia actual de proceso participativos "puros", que hemos llamado mode
 
 ### Evaluación de los proyectos: más allá del menú y la carta
 
-![](https://www.goteo.org/img/700x0/cooking-democracy.jpeg)
+{% gallery { "simple": true, "images": [{"path":"/media/cooking-democracy.jpeg"}] } %}
 
 Cada restaurante gestionan sus costes de producción elaborando una serie de platos de gran consumo dentro de un listado no muy extenso a precio asequible (menú) junto a una oferta más amplia de precio superior (carta). El servicio será igual de atento, pero a mayor poder adquisitivo, mayores opciones. ¿Podemos imaginar un restaurante que invitara a clientes a sugerir nuevos platos para ser añadidos y disfrutados en siguientes visitas?
 

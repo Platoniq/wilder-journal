@@ -11,15 +11,17 @@ author: olivier-schulbaum
 cover:
   path: /media/articles/heroes/sticker12.png
   thumbnail: /media/articles/thumbnails/sticker12.png
+  alt: "# TODO"
+  credits: "# TODO"
+  caption: "# TODO"
 stickers:
   layout: layout-none
-  sticker_one: null
   sticker_one_animation: animation-none
-  sticker_two: null
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/sticker12.png
+  alt: "# TODO"
 ---
 ### Four out of eight Big Challenges in citizen participation
 
