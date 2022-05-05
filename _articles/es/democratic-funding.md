@@ -3,6 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
 date: 2022-04-01T09:47:37.297Z
+date-updated: 2022-05-05T17:55:17.959Z
 article-order: 13
 uid: democratic-funding
 title: "Democratic Funding: la ciudadanía elige su futuro. Límites y esperanzas
@@ -12,11 +13,12 @@ description: "La participación ciudadana aspira a ser parte activa de la toma d
   de decidir en qué se gasta el dinero público?"
 author: joan-cabot
 cover:
-  path: /media/articles/heroes/pngegg.png
+  path: /media/articles/heroes/democraticfunding.png
   thumbnail: /media/articles/thumbnails/pngegg.png
   alt: .
   credits: .
   caption: .
+  mobile: /media/articles/mobile/democraticfunding.png
 related_article_uids:
   - arantxa-mendiharat
   - digital-participation-gap
