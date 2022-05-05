@@ -3,6 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-04-01T11:25:28.606Z
+date-updated: 2022-05-05T17:28:21.287Z
 article-order: 11
 uid: españa-vacia-incendios
 title: La España vaciada y sus incendios
@@ -16,6 +17,7 @@ cover:
   alt: .
   credits: Stephanie Peters
   caption: .
+  mobile: /media/articles/mobile/incendio.png
 related_article_uids:
   - arantxa-mendiharat
   - nature-sdg-in-goteo
