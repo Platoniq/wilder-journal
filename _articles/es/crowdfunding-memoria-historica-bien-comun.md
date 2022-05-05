@@ -3,6 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-04-01T13:49:06.964Z
+date-updated: 2022-05-05T17:36:04.717Z
 article-order: 7
 uid: crowdfunding-historical-memory-common-good
 title: La memoria histórica como bien común
@@ -16,6 +17,7 @@ cover:
   alt: Fosa de Parasimón
   credits: Asociación de Familiares y Amigos "Fosa de Parasimón"
   caption: Fosa de Parasimón
+  mobile: /media/articles/mobile/parsiarbol.png
 related_article_uids:
   - democratic-funding
 stickers:
