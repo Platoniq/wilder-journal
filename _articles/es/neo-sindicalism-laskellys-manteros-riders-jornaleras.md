@@ -3,6 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-04-01T15:14:30.165Z
+date-updated: 2022-05-05T17:42:40.961Z
 article-order: 16
 uid: neo-sindicalism-laskellys-manteros-riders-jornaleras
 title: Bienvenidas al neo-sindicalismo de Las Kellys, Jornaleras, Manteros,
@@ -17,6 +18,7 @@ cover:
   alt: NeoSindicalism
   credits: .
   caption: NeoSindicalism
+  mobile: /media/articles/mobile/unionism.png
 related_article_uids:
   - arantxa-mendiharat
   - recovering-collaborative-governance-through-design-justice
