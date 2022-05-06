@@ -60,20 +60,20 @@ Impulsar una cultura democrática inclusiva y la economía cooperativa, social y
 
 En 2021 iniciamos un proceso colectivo para diseñar el plan estratégico de la Fundación Platoniq para 2022-2025. Con esta planificación creamos el futuro deseado al que queremos dirigirnos como organización. De este proceso nacieron las cuatro líneas maestras de actuación en las que se engloba la actividad de la Fundación.
 
-**CULTURA FUTURA**
-
-Todas las actividades que a través de la cultura, la investigación y estrategias de comunicación y difusión ayuden al diálogo, la transformación social, a generar sociedades más democráticas y justas, a acabar con la brecha digital y a proporcionar espacios más seguros de colaboración y participación ciudadana. Entre ellas, la recopilación y divulgación de documentación que contenga procesos y metodologías de participación, contenidos digitales, dinámicas gamificadas, juegos y actividades creativas. También el diseño de procesos y actividades de gobernanza colaborativa y reuso del patrimonio digital y físico europeo.
-
 **INNOVACIÓN DEMOCRÁTICA INCLUSIVA**
 
 Todas las actividades necesarias para la innovación, desarrollo informático, explotación y mantenimiento de plataformas digitales cívicas y/o de código abierto, entre ellas las herramientas de financiación colectiva y de colaboración, como Goteo.org y de participación ciudadana, como Decidim.org. También el cuidado, archivo y mantenimiento de bases de datos y documentación relacionados con estas herramientas digitales cívicas.
+
+**ECONOMÍA SOCIAL Y SOLIDARIA**
+
+Todas las actividades para la gestión, formación y el fortalecimiento de la Economía Social, Solidaria, de financiación ética y el crowdfunding y la cultura democrática participativa, especialmente en los ámbitos de la emprendeduría social y la educación secundaria y universitaria. Entre ellas, actividades como: la gestión e impulso de la plataforma de crowdfunding Goteo; la difusión, la formación y financiación de iniciativas ciudadanas y de organizaciones; la asesoría en el uso de TICS y en la comunicación digital. De la misma manera, el fomento y la creación de empleo, autoempleo y de nuevas cooperativas.
 
 **EMPODERAMIENTO CIUDADANO**
 
 Todas las actividades necesarias de cooperación y colaboración con otras organizaciones e iniciativas como son: la creación de consorcios y/o proyectos nacionales, europeos o internacionales; la creación de institutos y grupos de investigación; las alianzas y la participación en redes con organizaciones cívicas, instituciones y otras entidades que trabajen con colectivos desfavorecidos o con dificultades para el acceso a la información y el crecimiento.
 
-**ECONOMÍA SOCIAL Y SOLIDARIA**
+**CULTURA FUTURA**
 
-Todas las actividades para la gestión, formación y el fortalecimiento de la Economía Social, Solidaria, de financiación ética y el crowdfunding y la cultura democrática participativa, especialmente en los ámbitos de la emprendeduría social y la educación secundaria y universitaria. Entre ellas, actividades como: la gestión e impulso de la plataforma de crowdfunding Goteo; la difusión, la formación y financiación de iniciativas ciudadanas y de organizaciones; la asesoría en el uso de TICS y en la comunicación digital. De la misma manera, el fomento y la creación de empleo, autoempleo y de nuevas cooperativas.
+Todas las actividades que a través de la cultura, la investigación y estrategias de comunicación y difusión ayuden al diálogo, la transformación social, a generar sociedades más democráticas y justas, a acabar con la brecha digital y a proporcionar espacios más seguros de colaboración y participación ciudadana. Entre ellas, la recopilación y divulgación de documentación que contenga procesos y metodologías de participación, contenidos digitales, dinámicas gamificadas, juegos y actividades creativas. También el diseño de procesos y actividades de gobernanza colaborativa y reuso del patrimonio digital y físico europeo.
 
 ![Platoniq logo](/media/altres_altres-68.png "Platoniq")
