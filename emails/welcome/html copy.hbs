@@ -1,0 +1,36 @@
+<html>
+
+<head>
+  <link rel="stylesheet" href="/emails.css" data-inline>
+</head>
+
+<body>
+  <header>
+    <img src="/wilder-journal-logo.svg" alt="">
+  </header>
+
+  <section>
+    <h1>{{ $t "welcome_title" name=name }}</h1>
+
+    <p>{{ $t "welcome_intro" }}</p>
+  </section>
+
+  <section>
+    <h2>Payload</h2>
+    <dl>
+      <dt>Email</dt>
+      <dd>{{ email }}</dd>
+      <dt>Locale</dt>
+      <dd>{{ locale }}</dd>
+      <dt>Page UID</dt>
+      <dd>{{ page_uid }}</dd>
+      <dt>Site URL</dt>
+      <dd>{{ site_url }}</dd>
+      <dt>Created at</dt>
+      <dd>{{ created_at }}</dd>
+    </dl>
+  </section>
+
+</body>
+
+</html>

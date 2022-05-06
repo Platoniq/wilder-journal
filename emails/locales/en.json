@@ -1,4 +1,11 @@
 {
   "welcome_title": "Hi {{ name }}, welcome to the Wilder Journal!",
-  "welcome_intro": "We hope you enjoy it :)"
+  "welcome_subject": "Welcome to the Wilder Journal",
+  "welcome_teaser": "Fuga facere natus nemo. Culpa quo minima sunt beatae sunt quaerat in.",
+  "welcome_content_1": "This Journal that you have “in your hands” is the way we have at Fundación Platoniq to open the door(s) to our world(s) to you. Here you will find in-depth articles (deep dives), interviews and other content along our lines of activity (Future Culture, Democratic Innovation, Citizen Empowerment, Social and Solidary Economy, and Cooperativism).",
+  "welcome_content_2": "The theme of this Journal will be especially focused on the participation and influence of citizens in public decisions or in their own organizations. It also serves as a platform for initiatives of this type to become known and be investigated.",
+  "welcome_content_3": "Bla bla",
+  "welcome_content_4": "Bla bla",
+  "global_twitter": "Follow us on Twitter",
+  "global_instagram": "Follow us on Instagram"
 }

@@ -1,11 +1,14 @@
 // details in https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget
+// https://nodemailer.com/transports/ses/
+// https://github.com/forwardemail/email-templates
+
 require('dotenv').config()
 
 const fetch = require('node-fetch')
 const process = require('process')
 
 const _ = require('lodash')
-const resolve = require('path').resolve
+const path = require('path')
 
 // Emails
 const nodemailer = require('nodemailer')
@@ -17,6 +20,8 @@ const smtp = {
   username: process.env.SMTP_USERNAME,
   password: process.env.SMTP_PASSWORD
 }
+
+const ASSET_URL = "localhost:4000/";
 
 let transporter = nodemailer.createTransport({
   pool: true,
@@ -34,13 +39,33 @@ const emailSettings = {
   transport: transporter,
   i18n: {
     defaultLocale: 'es',
-    directory: resolve('emails/locales'),
+    directory: path.resolve('emails/locales'),
     locales: ['en', 'es'],
   },
   views: {
     options: {
       extension: 'hbs'
     }
+  },
+  juice: true,
+  juiceSettings: {
+    tableElements: ['TABLE']
+  },
+  juiceResources: {
+    preserveImportant: true,
+    webResources: {
+      relativeTo: path.resolve('emails/assets')
+        // images: true,
+        // svgs: true
+    }
+  }
+}
+
+const global_vars = {
+  contact: {
+    twitter_url: "https://twitter.com/platoniq/",
+    instagram_url: "https://www.instagram.com/platoniqfoundation/",
+    email_address: "info@platoniq,net"
   }
 }
 
@@ -60,6 +85,7 @@ const handler = async(event) => {
   // Service form fields: ?
 
   const payload = JSON.parse(event.body).payload
+  const message = `Send email to ${payload.name} (${payload.email}) from ${process.env.FROM_EMAIL_ADDRESS} with payload ${JSON.stringify(payload)}`
 
   const config = {
     from: `"${process.env.FROM_EMAIL_NAME}" <${process.env.FROM_EMAIL_ADDRESS}>`,
@@ -83,10 +109,15 @@ const handler = async(event) => {
       message: {
         to: config.to
       },
+      attachments: [{
+        filename: "wilder-journal-logo.png",
+        path: path.resolve("emails/assets"),
+        cid: "wilder-journal-logo"
+      }],
       locals: _.merge({
         locale: payload.lang,
         $t
-      }, payload)
+      }, payload, global_vars)
     })
     .then(console.log)
     .catch(console.error);
