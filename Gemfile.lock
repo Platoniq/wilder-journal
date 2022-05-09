@@ -8,9 +8,9 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: 14d2fa45e517a52fdb9b01ebbdaff6aa469b1d6f
+  revision: c050bf01c59a4a1e552d6f4c413806ac49c7c030
   specs:
-    jekyll-theme-platoniq-journal (0.0.80)
+    jekyll-theme-platoniq-journal (0.0.81)
       jekyll (~> 4.2)
       jekyll-data (~> 1.1.1)
       jekyll-plugin-platoniq-journal (~> 0.0.1)
@@ -84,10 +84,10 @@ GEM
     mercenary (0.4.0)
     mini_magick (4.11.0)
     mini_portile2 (2.8.0)
-    nokogiri (1.13.4)
+    nokogiri (1.13.6)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    nokogiri (1.13.4-x86_64-linux)
+    nokogiri (1.13.6-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
