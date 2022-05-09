@@ -3,7 +3,7 @@ license: CC
 layout: sticker_pack
 author: xesca-sastre
 stickers_author: Alba Feito
-title: Sticker Pack
+title: "Sticker Pack para el Wilder Journal #1"
 title_menu: Sticker Pack
 cover:
   path: /media/sticker_packs/heroes/sticker20.png
@@ -23,7 +23,7 @@ Además de por mis estudios, mis prácticas artísticas han sido moldeadas cas
 
 {% quote %}[...] mis prácticas   artísticas   han sido moldeadas casi más por mis colaboraciones en proyectos comunitarios [...], por las amigas que me ha ido regalando la vida, por los viajes y por los bailes.{% endquote %}
 
-{% file { "title": "Descarga los stickers", "info": "1.9 MB ZIP", "file": "/media/sticker_packs/files/Wilder Journal by Platoniq - Volume 1 Sticker Pack by Alba Feito.zip", "image": "/media/stickers/wilder-journal-1/sticker20.png", "button_text": "Descargar", "button_icon": "icon-download", "alt_color": true } %}
+{% file { "title": "Descarga los stickers", "info": "20 imágenes PNG en un ZIP de 1.9 MB", "file": "/media/sticker_packs/files/Wilder Journal by Platoniq - Volume 1 Sticker Pack by Alba Feito.zip", "image": "/media/stickers/wilder-journal-1/sticker20.png", "button_text": "Descargar", "button_icon": "icon-download", "alt_color": true } %}
 
 Mis dibujos han aparecido en un montón de fanzines propios y colectivos, ilustrado artículos y portadas de libros, movido en varios proyectos de animación, alojado en exposiciones y conducido talleres. 
 

@@ -3,7 +3,7 @@ license: CC
 layout: sticker_pack
 author: xesca-sastre
 stickers_author: Alba Feito
-title: Sticker Pack
+title: "Sticker Pack for Wilder Journal #1"
 title_menu: Sticker Pack
 cover:
   path: /media/sticker_packs/heroes/sticker20.png
@@ -21,7 +21,7 @@ I was born in Asturias and moved to Barcelona to study Fine Arts and later a mas
 
 {% quote %}[...] my artistic practices have been shaped mostly by my collaborations in community projects [...], by the friends that life has given me, by travelling and by dancing.{% endquote %}
 
-{% file { "title": "Download stickers", "info": "1.9 MB ZIP", "file": "/media/sticker_packs/files/Wilder Journal by Platoniq - Volume 1 Sticker Pack by Alba Feito.zip", "image": "/media/stickers/wilder-journal-1/sticker20.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": true } %}
+{% file { "title": "Download stickers", "info": "20 PNG images in a 1.9 MB ZIP", "file": "/media/sticker_packs/files/Wilder Journal by Platoniq - Volume 1 Sticker Pack by Alba Feito.zip", "image": "/media/stickers/wilder-journal-1/sticker20.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": true } %}
 
 My drawings have appeared in a lot of collective fanzines (some of my own), illustrated articles and book covers. They have been moved in several animation projects, hosted exhibitions and conducted workshops. 
 
