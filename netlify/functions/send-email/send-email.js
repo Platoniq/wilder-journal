@@ -69,15 +69,17 @@ const global_vars = {
   }
 }
 
-const handler = async(event) => {
+const handler = async function(event, context) {
+
   // verify connection configuration
-  transporter.verify(function(error, success) {
-    if (error) {
-      console.log(error);
-    } else {
-      console.log("Server is ready to take our messages");
-    }
-  });
+
+  // transporter.verify(function(error, success) {
+  //   if (error) {
+  //     console.log(error);
+  //   } else {
+  //     console.log("Server is ready to take our messages");
+  //   }
+  // });
 
   // Common form fields: "lang","page_uid","site_url","ip","user_agent","referrer","created_at"
   // Newsletter form fields: "name","email"
@@ -85,6 +87,14 @@ const handler = async(event) => {
   // Service form fields: ?
 
   const payload = JSON.parse(event.body).payload
+  const site = JSON.parse(event.body).site
+
+  console.log("Payload, site: ")
+  console.log(payload)
+  console.log(site)
+  console.log(context)
+  console.log("--")
+
   const message = `Send email to ${payload.name} (${payload.email}) from ${process.env.FROM_EMAIL_ADDRESS} with payload ${JSON.stringify(payload)}`
 
   const config = {
