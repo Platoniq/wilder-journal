@@ -11,14 +11,15 @@ author: olivier-schulbaum
 cover:
   path: /media/articles/heroes/sticker12.png
   thumbnail: /media/articles/thumbnails/sticker12.png
-  alt: "# TODO"
-  credits: "# TODO"
-  caption: "# TODO"
+  mobile: /media/articles/mobile/sticker12.png
+  alt: "Smiling binoculars"
+  credits: "Alba Feito for Platoniq"
+  caption: "Wilder Journal Sticker Pack"
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
-call_to_action: cta-donate
+call_to_action: cta-contact
 image:
   path: /media/articles/social/sticker12.png
   alt: "# TODO"

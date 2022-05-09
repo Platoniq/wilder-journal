@@ -11,12 +11,12 @@ description: Citizen initiatives that use crowdfunding to save our forests
 author: joan-cabot
 interviewee: Editorial Catro Ventos, Proxecto Batego, Fundación Civio
 cover:
-  path: /media/articles/heroes/firepoppies72dpi-1-orig.jpeg
+  path: /media/articles/heroes/incendio.png
   thumbnail: /media/articles/thumbnails/incendios_mini.png
-  alt: .
+  alt: Painting with burnt trees
   credits: Stephanie Peters
-  caption: .
-  mobile: /media/articles/mobile/incendio.png
+  caption: Fire Poppies
+  mobile: /media/articles/mobile/incendios_mini.png
 related_article_uids:
   - arantxa-mendiharat
   - nature-sdg-in-goteo
@@ -29,8 +29,8 @@ stickers:
   sticker_two: null
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: .
+  path: /media/articles/social/incendios_mini.png
+  alt: The emptied Spain and its fires
 ---
 My great grandmother used to say: "The whole village goes to fire and to wedding." I never knew if he meant that with the chimney burning in winter there was always a visit to warm up at home ... or that in a fire community solidarity was activated to extinguish it. I want to believe that he was referring to both situations, well Galician was. We will talk about all of them in this article.
 
