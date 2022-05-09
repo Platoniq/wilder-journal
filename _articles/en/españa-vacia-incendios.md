@@ -4,7 +4,7 @@ volume-uid: wilder-journal-1
 category: reports
 date: 2022-04-01T11:25:28.606Z
 date-updated: 2022-05-05T17:28:21.287Z
-article-order: 11
+article-order: 12
 uid: españa-vacia-incendios
 title: The emptied Spain and its fires
 description: Citizen initiatives that use crowdfunding to save our forests

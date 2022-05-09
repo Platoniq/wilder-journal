@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-1
 category: reports
 date: 2022-01-01T00:00:00.000Z
-article-order: 12
+article-order: 11
 uid: democracy-is-fun
 title: Gamificación, incentivos y espacios más seguros para mejorar la democracia
 description: "[# TODO] Gamificación, incentivos y espacios más seguros para

@@ -13,11 +13,11 @@ interviewee: Asociación de Familiares y Amigos "Fosa de Parasimón" y La Comuna
   Presxs del Franquismo
 cover:
   path: /media/articles/heroes/memoria-historica.jpeg
-  thumbnail: /media/articles/thumbnails/memoria-mini.jpeg
+  thumbnail: /media/articles/thumbnails/memoria-historica.jpeg
   alt: Parasimon's Pit
   credits: Association of Family and Friends "Fosa de Parasimón"
   caption: Parasimon's Pit
-  mobile: /media/articles/mobile/parsiarbol.png
+  mobile: /media/articles/mobile/memoria-historica.jpeg
 related_article_uids:
   - democratic-funding
 stickers:
@@ -28,7 +28,7 @@ stickers:
   sticker_two: null
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/memoria-mini.jpeg
+  path: /media/articles/social/memoria-historica.jpeg
   alt: Fosa de Parasimón
 ---
 How to talk about a campaign that should not exist? How can we talk about a project that is born of a personal and family pain, but that feels the need to take the collective? How to talk about the use of crowdfunding in the recovery of historical memory?

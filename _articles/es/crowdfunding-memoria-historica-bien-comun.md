@@ -13,11 +13,11 @@ interviewee: Asociación de Familiares y Amigos "Fosa de Parasimón" y La Comuna
   Presxs del Franquismo
 cover:
   path: /media/articles/heroes/memoria-historica.jpeg
-  thumbnail: /media/articles/thumbnails/memoria-mini.jpeg
+  thumbnail: /media/articles/thumbnails/memoria-historica.jpeg
   alt: Fosa de Parasimón
   credits: Asociación de Familiares y Amigos "Fosa de Parasimón"
   caption: Fosa de Parasimón
-  mobile: /media/articles/mobile/parsiarbol.png
+  mobile: /media/articles/social/memoria-historica.jpeg
 related_article_uids:
   - democratic-funding
 stickers:
@@ -26,7 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/memoria-mini.jpeg
+  path: /media/articles/social/memoria-historica.jpeg
   alt: Fosa de Parasimón
 ---
 ¿Cómo hablar de una campaña que no debería existir? ¿Cómo hablar de un proyecto que nace de un dolor personal y familiar, pero en el que se siente la necesidad de llevar a lo colectivo? ¿Cómo hablar del uso del crowdfunding en la recuperación de la memoria histórica? 
