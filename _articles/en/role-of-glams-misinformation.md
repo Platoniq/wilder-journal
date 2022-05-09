@@ -3,9 +3,11 @@ layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
 date: 2022-04-01T15:06:42.013Z
+date-updated: 2022-05-09T18:07:20.124Z
 article-order: 9
 uid: role-of-glams-misinformation
-title: What is the role of GLAMs in the spread of misinformation?
+title: What is the role of cultural heritage institutions in the spread of
+  misinformation?
 description: "-"
 author: nadia-nadesan
 cover:
@@ -13,7 +15,7 @@ cover:
   mobile: /media/articles/mobile/glams.jpg
   thumbnail: /media/articles/thumbnails/glams.jpg
   alt: "Rhetoric (from the Tarocchi, series C: Liberal Arts, #23)"
-  credits: "The Cleveland Museum of Art"
+  credits: The Cleveland Museum of Art
   caption: "Rhetoric (from the Tarocchi, series C: Liberal Arts, #23)"
 stickers:
   layout: layout-none
@@ -41,7 +43,7 @@ Five themes arose from our questions:
 * **People behind the data set: people who are targeted by hate speech, and motivations of people who spread misinformation;**
 * **Past, history, narrative**: misinformation is not a new phenomenon and has historically repeated the same pattern of exploiting the most vulnerable or the most “other” members of societies;
 * **Power dynamics**: misinformation that takes the form of hate speech is based on historical unequal power dynamics that discriminate
-* **The role of institutions like GLAMs: heritage organisations who shape historical narratives and public memory have a role to play in collecting and presenting counter-narratives that challenge historical stereotypes and injustices.**
+* **The role of institutions like GLAMs (galleries, libraries, archives and museums):** heritage organisations who shape historical narratives and public memory have a role to play in collecting and presenting counter-narratives that challenge historical stereotypes and injustices.
 
 Taking into account the different themes, we formulated the following hypothesis to inform our investigation:
 

@@ -3,9 +3,11 @@ layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
 date: 2022-04-01T15:06:42.013Z
+date-updated: 2022-05-09T18:07:20.124Z
 article-order: 9
 uid: role-of-glams-misinformation
-title: ¿Qué papel desempeñan las GLAM en la propagación de desinformación?
+title: ¿Qué papel desempeñan las instituciones culturales en la propagación de
+  desinformación?
 description: "-"
 author: nadia-nadesan
 cover:
@@ -13,7 +15,7 @@ cover:
   mobile: /media/articles/mobile/glams.jpg
   thumbnail: /media/articles/thumbnails/glams.jpg
   alt: "Rhetoric (from the Tarocchi, series C: Liberal Arts, #23)"
-  credits: "The Cleveland Museum of Art (CC0 1.0 Universal Creative Commons License Zero)"
+  credits: The Cleveland Museum of Art (CC0 1.0 Universal Creative Commons License Zero)
   caption: "Rhetoric (from the Tarocchi, series C: Liberal Arts, #23)"
 stickers:
   layout: layout-none
@@ -39,7 +41,7 @@ Nuestras preguntas dieron lugar a cinco ejes temáticos para trabajar:
 * **Las personas que hay detrás de los datos:** es decir, quiénes son el blanco de los discursos de odio y qué motivaciones tienen quienes difunden los bulos. 
 * **Pasado, historia, relato:** la desinformación no es un fenómeno nuevo; históricamente ha repetido el mismo patrón, que no es sino explotar a los miembros más vulnerables o más percibidos como «otros» de las sociedades. 
 * **Dinámicas de poder:** la desinformación que se presenta como discurso de odio se basa en unas dinámicas de poder históricas que discriminan. 
-* **El papel que desempeñan las GLAM:** las organizaciones a cargo del patrimonio cultural marcan la memoria histórica y las narrativas en torno al pasado, por lo que tienen un papel que desempeñar a la hora de recopilar y presentar unos contrarrelatos que desafíen los estereotipos e injusticias de la historia. 
+* **El papel que desempeñan las GLAM (galleries, libraries, archives and museums):** las organizaciones a cargo del patrimonio cultural marcan la memoria histórica y las narrativas en torno al pasado, por lo que tienen un papel que desempeñar a la hora de recopilar y presentar unos contrarrelatos que desafíen los estereotipos e injusticias de la historia. 
 
 Teniendo en cuenta estos diferentes temas, formulamos las siguientes hipótesis para nuestra investigación:
 
@@ -48,8 +50,6 @@ H1. La desinformación propagada durante la pandemia se ha construido sobre unas
 H2. Los medios digitales han exacerbado el daño que causan los discursos de odio.
 
 H3. Las instituciones culturales pueden actuar y han actuado como agentes facilitadores del diálogo y reflexiones que cuestionen las narrativas discriminatorias de la desinformación.
-
-
 
 ## Investigación
 
