@@ -34,6 +34,8 @@ image:
 ---
 Arantxa Mendiharat imagina mundos posibles: futuros posibles y democracias posibles. Mediadora cultural, co-fundadora de Deliberativa y co-creadora de la web [democraciaporsorteo.org](https://democraciaporsorteo.org), desde el 2016 lleva trabajando profesionalmente en metodologías deliberativas que activan a ciudadanas elegidas por sorteo. Arantxa co-diseña y gestiona proyectos relacionados con la cultura y la participación que aspiran a la transformación de los sistemas políticos. 
 
+{% gallery { "simple": true, "images": [{"path":"/media/arantxa.jpg"}] } %}
+
 ### Cuando pensamos en la palabra democracia, sólo podemos concebir el modelo representativo que hoy conocemos. ¿Existen otros modelos?
 
 Tal como dijo Peter MacLeod, yo creo que hasta ahora hemos vivido lo que sería el Acto I de la democracia. Estos han sido los 200 años de democracia representativa, en los que elegimos a unos pocos representantes para que tomen las decisiones por nosotros. Puede que ahora estemos entrando en el Acto II de la democracia; ahora la ciudadanía empieza a compartir el privilegio y la responsabilidad de tomar decisiones sobre las políticas públicas.

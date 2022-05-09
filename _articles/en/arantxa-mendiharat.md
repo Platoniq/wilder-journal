@@ -34,6 +34,8 @@ image:
 ---
 Arantxa Mendiharat envisions the possibility of different worlds: new futures and new democracies. Cultural mediator, co-founder of [Deliberativa](https://twitter.com/delibera_tiva) and co-creator of the website [democraciaporsorteo.org](https://democraciaporsorteo.org/), she has, since 2016, been working professionally on deliberative methodologies which get citizens involved based on random selection. Arantxa co-designs and manages projects related to culture and participation which aim to transform our political systems.
 
+{% gallery { "simple": true, "images": [{"path":"/media/arantxa.jpg"}] } %}
+
 ### When we think of the word democracy, we can only conceive of the representative model that we know today. Are there other models?
 
 In the words of Peter McLeod, I believe that up to now we have been living through what will come to be known as democracy’s first act. This has been 200 years of representative democracy, in which we choose a handful of individuals to represent us and make decisions on our behalf. Now, we may well be entering democracy’s second act, in which citizens begin to share the privilege and responsibility of making decisions about public policy.

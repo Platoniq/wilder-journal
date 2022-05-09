@@ -6,15 +6,16 @@ date: 2022-04-01T08:57:15.117Z
 article-order: 2
 uid: ines-cheniour
 title: Ines Cheniour
-description: "-"
+description: "# TODO"
 author: elena-silvestrini
 interviewee: Ines Cheniour
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: "-"
-  credits: "-"
-  caption: "-"
+  path: /media/articles/heroes/ines.jpg
+  mobile: /media/articles/mobile/ines.jpg
+  thumbnail: /media/articles/thumbnails/ines.jpg
+  alt: "Ines Cheniour"
+  credits: "Ines Cheniour"
+  caption: "# TODO"
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -23,8 +24,8 @@ stickers:
   sticker_two: null
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: "-"
+  path: /media/articles/social/ines.jpg
+  alt: "# TODO"
 ---
 Ines Cheniour es una asesora en materia de *design thinking* y estrategias de comunicación tunecina. Es la fundadora de COMMITT Consulting y ha trabajado con ONG, organizaciones internacionales como el British Council, el PNUD, la GIZ, y muchas otras iniciativas sociales locales. Ines integra el elemento humano en todos los proyectos que desarrolla a partir de las herramientas basadas en el *design thinking*. Su principal labor consiste en ayudar a mujeres y jóvenes a desarrollar su autoliderazgo y su capacidad de liderazgo social.
 

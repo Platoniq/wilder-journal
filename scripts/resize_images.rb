@@ -12,12 +12,14 @@ require "mini_magick"
 require "image_optim"
 
 SIZES = {
-  "volumes/heroes": [4000, 2000],
-  "volumes/social": [600, 600],
-  "volumes/thumbnails": [600, 600],
-  "articles/heroes": [2000, 2000],
-  "articles/social": [600, 600],
-  "articles/thumbnails": [600, 600]
+  "volumes/heroes": [3840, 1920],
+  "volumes/mobile": [1920, 1080],
+  "volumes/social": [540, 540],
+  "volumes/thumbnails": [540, 540],
+  "articles/heroes": [1920, 1920],
+  "articles/mobile": [1920, 1080],
+  "articles/social": [540, 540],
+  "articles/thumbnails": [540, 540],
 }
 
 SIZES.each_pair do |path, size|

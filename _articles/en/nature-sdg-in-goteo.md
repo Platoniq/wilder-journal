@@ -36,7 +36,7 @@ See full paper [here](https://www.nature.com/articles/s41597-020-0472-0?utm_sour
 
 For this, through a process of coding and enriching data based on the 17 SDG indicators, in accordance with the impact “footprints” that Goteo was already presenting on its campaigns, between both organizations we have managed to generate not only a volume of open data reusable by other research initiatives on SDGs and crowdfunding, but also a qualitative and quantitative improvement in the way the Goteo platform itself allows to classify campaigns in relation to the SDGs.
 
-{% gallery { "simple": true, "images": [{"path":"/media/1.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/sdgs-1.jpg"}] } %}
 
 The Goteo open source platform, led by the [Goteo Foundation](https://fundacion.goteo.org/?lang=en), was established in 2011 for the development of social and solidarity economy initiatives and open knowledge, something that in the platform’s strategy translates as “[crowdvocacy](https://medium.com/@platoniq/crowdvocacy-amplifying-democracy-by-bridging-political-participation-digital-campaigning-a364a2cfd6db)”.
 
@@ -44,7 +44,7 @@ Apart from a crowdfunding tool used by thousands of projects and hundreds of com
 
 As an example, among its [different platform features](https://en.wikipedia.org/wiki/Goteo#Features) one of the financing modalities that Goteo enables for campaigns is “match-funding”, which consists of an algorithm for automatic multiplication of donations thanks to public and monetary fund, which “match” contributions for the types of projects they want to support.
 
-{% gallery { "simple": true, "images": [{"path":"/media/2.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/sdgs-2.jpg"}] } %}
 
 Added to this, there’s an initial mechanism for users of the platform to classify their initiatives according to three types of impact “footprints” (social, democratic and ecological), and a first automatic assignment that relates it to the SDGs that through this collaboration with Dimmons team could be refined and extended, prior to the preparation of the open dataset that we now share.
 
@@ -52,4 +52,4 @@ We believe that this open data and open research initiative can be a good starti
 
 From a perspective of social impact of civic technologies, based on the idea of ​​“crowdvocacy”, future lines of similar research that we are considering is to continue refining the analysis of citizen participation around the SDGs within other platforms related to Goteo, as well as in its connection with more stakeholders and actors in the economy, governance and sustainability spheres.
 
-{% gallery { "simple": true, "images": [{"path":"/media/3.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/sdgs-3.jpg"}] } %}

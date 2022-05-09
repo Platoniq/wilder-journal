@@ -9,19 +9,20 @@ title: ¿Qué papel desempeñan las GLAM en la propagación de desinformación?
 description: "-"
 author: nadia-nadesan
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: "-"
-  credits: "-"
-  caption: "-"
+  path: /media/articles/heroes/glams.jpg
+  mobile: /media/articles/mobile/glams.jpg
+  thumbnail: /media/articles/thumbnails/glams.jpg
+  alt: "Rhetoric (from the Tarocchi, series C: Liberal Arts, #23)"
+  credits: "The Cleveland Museum of Art (CC0 1.0 Universal Creative Commons License Zero)"
+  caption: "Rhetoric (from the Tarocchi, series C: Liberal Arts, #23)"
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: "-"
+  path: /media/articles/social/glams.jpg
+  alt: "# TODO"
 ---
 ## Hipótesis
 
@@ -62,7 +63,7 @@ Nos resultó difícil encontrar ejemplos de cómo las GLAM se referían a las ep
 
 «Estas obras provocadoras abordan de frente el VIH/sida. Mezclando el activismo político, la poesía visual y un retorcido sentido del humor obligan al espectador a enfrentarse a su miedo a la muerte y al contagio». Nuestra investigación incluyó la búsqueda de otros ejemplos parecidos; exposiciones o iniciativas de GLAM que incitaran el pensamiento crítico e invitaran a reflexionar sobre el impacto de las pandemias y la desinformación, especialmente para abordar los temas polémicos de la desinformación de nuestros días con una perspectiva histórica. Quizá «no estamos pasando por exactamente lo mismo que ocurrió en 1917, o la epidemia de polio a mediados del siglo XX, o la primera época del sida en los 80, \[no obstante] cada uno de estos ejemplos históricos nos ofrecen un baremo útil para medirnos y para comprender… las complejidades sociales que estamos observando hoy». Sin embargo, no pudimos encontrar muchos ejemplos buscando en Internet, de modo que, a medida que fue avanzando el Bootcamp, la hipótesis fue dejando de ser una afirmación que confirmar o refutar para convertirse en una iniciativa, un imperativo para situar a las GLAM como un espacio fundamental donde cuestionar, repensar y comprender la desinformación con perspectiva crítica.
 
-# Narrativas de datos visuales: el signo de los tiempos
+## Narrativas de datos visuales: el signo de los tiempos
 
 Con los datos de libre acceso que teníamos y las reflexiones de esta primera fase, procedimos a experimentar con diferentes maneras de visualizar nuestros datos. Mientras que el informe de la UE mencionaba al Kremlin en 34 ocasiones y a Rusia en 120 ocasiones, en el conjunto de datos de Princeton apenas había menciones a Rusia.
 

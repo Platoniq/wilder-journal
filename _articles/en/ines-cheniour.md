@@ -6,23 +6,24 @@ date: 2022-04-01T08:57:15.117Z
 article-order: 2
 uid: ines-cheniour
 title: Ines Cheniour
-description: "-"
+description: "# TODO"
 author: elena-silvestrini
 interviewee: Ines Cheniour
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: "-"
-  credits: "-"
-  caption: "-"
+  path: /media/articles/heroes/ines.jpg
+  mobile: /media/articles/mobile/ines.jpg
+  thumbnail: /media/articles/thumbnails/ines.jpg
+  alt: "Ines Cheniour"
+  credits: "Ines Cheniour"
+  caption: "# TODO"
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: "-"
+  path: /media/articles/social/ines.jpg
+  alt: "# TODO"
 ---
 Ines Cheniour is a Tunisian consultant in design thinking and communication strategy. She is the founder of COMMITT consulting and has worked with NGOs like British Council, UNDP, GIZ and many other local social initiatives. Using design thinking tools, Ines integrates the human element in all the projects she undertakes. Her main work focuses on helping youth and women to develop their self leadership and social leadership skills.
 

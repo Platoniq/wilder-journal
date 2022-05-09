@@ -8,8 +8,12 @@ uid: be-part-does-a-students-decision-have-the-same-power-as-a-teachers
 title: "“BePart”: Does a student's decision have the same power as a teacher's?"
 author: marta-anducas
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  path: /media/articles/heroes/bepart.jpg
+  mobile: /media/articles/mobile/bepart.jpg
+  thumbnail: /media/articles/thumbnails/bepart.jpg
+  alt: "Classroom with projector"
+  caption: "Classroom with projector"
+  credits: "University of Alberta Archives (Public Domain Mark 1.0 Creative Commons License)"
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -18,7 +22,7 @@ stickers:
   sticker_two: null
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/bepart.jpg
 ---
 {% quote { "author": "Paulo Freire [1]" } %}“It is worth repeating here an affirmation still rejected by many people despite its obviousness: education is a political act.”{% endquote %}
 
@@ -30,7 +34,7 @@ A few months ago, in [this article](https://medium.com/social-justice-by-design/
 
 Below are some of the contributions made by teachers where they indirectly reflect on the questions we asked. We greatly appreciate their time and availability.
 
-{% gallery { "simple": true, "images": [{"path":"/media/1wxgncfl07lsrgz7nyvpjeg.jpeg","alt":""}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-1.jpeg","alt":""}] } %}
 
 ## How can we support schools to be more participatory?
 
@@ -62,7 +66,7 @@ On the other hand, it is important to note that to build a school system open to
 
 {% quote %}I think that many of the current proposals for educational innovation and transformation make no sense without the participation of students{% endquote %}
 
-{% gallery { "simple": true, "images": [{"path":"/media/1w3zlyo0v0hveyhaczpdpmw.jpeg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-2.jpeg"}] } %}
 
 ## How can we help teachers become facilitators for their students?
 
@@ -76,7 +80,7 @@ One of the goals of BePart is precisely to train and accompany teachers in the t
 
 {% quote %}Teachers are by default immobilistic, because they defend their status. Therefore, any participatory issue will clash with teachers if they want to violate any of their privileges. If not, it can work with complete freedom. {% endquote %}
 
-{% gallery { "simple": true, "images": [{"path":"/media/181h8oy1wotazdbjjvjzmzq.jpeg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-3.jpeg"}] } %}
 
 ## How can we build capacity for BePart to make its mark for its future sustainability?
 
@@ -86,7 +90,7 @@ BePart takes place in four schools in four different European countries. It is a
 
 > "Entrepreneurship has three basic legs. One is detection, alertness. Being able to detect what's around me - what's going on, what's not working, because I'm sure students see things, but since they don't have a chance to say it, I think they don't even notice. (…) The second leg is: with the resources I have, what can I do ?; and the third is to take action. In the field of participation, entrepreneurial competence would play a very important role."
 
-{% gallery { "simple": true, "images": [{"path":"/media/1yhwsvtbaoyasvoripmjfmw.jpeg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-4.jpeg"}] } %}
 
 ## How can we create spaces for participation that are as safe as possible for students?
 
@@ -98,7 +102,7 @@ To participate, it is important to create spaces where students feel free and co
 
 > "To avoid this \[students being passive subjects of their lives], the school gives them spaces, possibilities to have a say in some of the decisions, but they are still very controlled and led from the school’s structure. We still have a long way to go to generate real participation and governance without the constant supervision of the educator. We cannot claim empowerment without spaces of empowerment. (2/2)"
 
-{% gallery { "simple": true, "images": [{"path":"/media/1jrozx3t_dnalziozlsvhva.jpeg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-5.jpeg"}] } %}
 
 ## What is the role of technology, social media and innovative communication strategies in involving young people?
 

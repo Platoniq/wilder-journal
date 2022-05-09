@@ -10,19 +10,20 @@ title: "“BePart”: ¿Tiene el mismo poder la decisión de una alumna que la d
 description: "-"
 author: marta-anducas
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: "-"
-  credits: "-"
-  caption: "-"
+  path: /media/articles/heroes/bepart.jpg
+  mobile: /media/articles/mobile/bepart.jpg
+  thumbnail: /media/articles/thumbnails/bepart.jpg
+  alt: "Clase con proyector"
+  caption: "Clase con proyector"
+  credits: "University of Alberta Archives (Public Domain Mark 1.0 Creative Commons License)"
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: "-"
+  path: /media/articles/social/bepart.jpg
+  alt: "# TODO"
 ---
 {% quote { "author": "Paulo Freire [1]" } %}“No está de más repetir aquí la afirmación todavía rechazada por mucha gente no obstante su obviedad: la educación es un acto político.”{% endquote %}
 
@@ -34,7 +35,7 @@ Hace unos meses, en [este artículo](https://medium.com/social-justice-by-design
 
 A continuación, os presentamos algunas de las aportaciones que han hecho las y los docentes donde, indirectamente, reflexionan sobre las preguntas que nos planteábamos. A ellas, ellos y elles, gracias por su tiempo y disponibilidad.
 
-{% gallery { "simple": true, "images": [{"path":"/media/1wxgncfl07lsrgz7nyvpjeg.jpeg","alt":""}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-1.jpeg","alt":""}] } %}
 
 ## ¿Cómo podemos apoyar a las escuelas para que sean más participativas?
 
@@ -64,7 +65,7 @@ Por otro lado, es importante remarcar que para construir un sistema escolar abie
 
 > "Si se tiene que mejorar el sistema escolar, solo puede venir por la participación de los y las estudiantes, y a todos los niveles. Creo que muchas de las propuestas de innovación educativa y transformación actual, sin la participación del alumnado no tienen sentido. Creo que muchas fracasan porque siguen saliendo y poniendo en el centro a los educadores y no a la persona que aprende. Muchas metodologías dicen ‘pongo al alumno en el centro’ pero se decide todo sobre el alumnado."
 
-{% gallery { "simple": true, "images": [{"path":"/media/1w3zlyo0v0hveyhaczpdpmw.jpeg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-2.jpeg"}] } %}
 
 ## ¿Cómo podemos ayudar a las y los docentes para que se conviertan en facilitadoras de sus alumnas?
 
@@ -78,7 +79,7 @@ Uno de los objetivos de Be Part es, precisamente, formar y acompañar al profeso
 
 {% quote %}El profesorado por defecto es inmovilista, porque defiende su estatus. Por tanto, cualquier tema participativo chocará con las docentes si pretende vulnerar alguno de sus privilegios. Si no es así, puede funcionar con total libertad.{% endquote %}
 
-{% gallery { "simple": true, "images": [{"path":"/media/181h8oy1wotazdbjjvjzmzq.jpeg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-3.jpeg"}] } %}
 
 ## ¿Cómo podemos crear capacidades para que BePart deje huella para su futura sostenibilidad?
 
@@ -88,7 +89,7 @@ Be Part se desarrolla en cuatro escuelas de cuatro países europeos diferentes. 
 
 > "En la emprendeduría hay tres patas básicas. Una es la detección, el estado de alerta. Ser capaz de detectar que hay a mi alrededor: qué está pasando, qué no está funcionando, porque yo estoy segura que el alumnado ve cosas, pero como que no tienen la oportunidad de poderlo decir para solucionarlo, creo que ya ni se fijan. (…) La segunda pata es: con los recursos que tengo, ¿qué puedo hacer?; y la tercera es llevarla a la acción. En el campo de la participación la competencia emprendedora tendría un papel súper relevante."
 
-{% gallery { "simple": true, "images": [{"path":"/media/1yhwsvtbaoyasvoripmjfmw.jpeg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-4.jpeg"}] } %}
 
 ## ¿Cómo podemos crear espacios de participación que sean lo más seguros posible para las y los estudiantes?
 
@@ -101,7 +102,7 @@ Para participar, es importante crear espacios donde las y los estudiantes se sie
 
 > "Para evitar esto [que las y los alumnos sean sujetos pasivos de su vida], la escuela da espacios, posibilidades de tener voz y voto en alguna de las decisiones, pero todavía está muy controlado y liderado desde la propia estructura de la escuela. Aún tenemos mucho recorrido para generar una participación y una gobernanza real sin la supervisión constante del educador. No podemos pretender un apoderamiento sin espacios de apoderamiento." (2/2)
 
-{% gallery { "simple": true, "images": [{"path":"/media/1jrozx3t_dnalziozlsvhva.jpeg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-5.jpeg"}] } %}
 
 ## ¿Cuál es el papel de la tecnología, las redes sociales y las estrategias innovadoras de comunicación en la involucración de las y los jóvenes?
 

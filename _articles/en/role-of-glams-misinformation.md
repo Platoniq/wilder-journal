@@ -9,11 +9,12 @@ title: What is the role of GLAMs in the spread of misinformation?
 description: "-"
 author: nadia-nadesan
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: "-"
-  credits: "-"
-  caption: "-"
+  path: /media/articles/heroes/glams.jpg
+  mobile: /media/articles/mobile/glams.jpg
+  thumbnail: /media/articles/thumbnails/glams.jpg
+  alt: "Rhetoric (from the Tarocchi, series C: Liberal Arts, #23)"
+  credits: "The Cleveland Museum of Art"
+  caption: "Rhetoric (from the Tarocchi, series C: Liberal Arts, #23)"
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -22,8 +23,8 @@ stickers:
   sticker_two: null
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: "-"
+  path: /media/articles/social/glams.jpg
+  alt: "# TODO"
 ---
 ## Hypothesis
 
@@ -62,7 +63,7 @@ In our search, it was difficult to find examples of how GLAMs addressed epidemic
 
 ‘These provocative pieces confront HIV/AIDS head-on, blending political activism, visual poetry and a wicked sense of humor, forcing viewers to face their fears of death and transmission.’ In our research we were in search of similar examples of exhibitions or initiatives by GLAMs that encouraged critical thinking and reflection on the impact of misinformation and pandemics, especially in terms of approaching the polemic themes of today’s misinformation with a more historical perspective. Perhaps we are not ‘going through exactly the same thing that happened in 1917, or the polio epidemic in the mid-20th century, or the early days of the AIDS pandemic primarily in the 1980s \[however] each one of these historical examples is simply a useful lens to measure ourselves against, and to better understand some of the social …complexities that we’re seeing right now.’ However, few examples were available just through searching the world wide web. So as the bootcamp progressed the hypothesis became less of a statement to prove or disprove but an imperative initiative to situate GLAMs as a cornerstone space for people to challenge, rethink, and critically understand misinformation.
 
-# Visual Data Narratives: A Sign of the Times
+## Visual Data Narratives: A Sign of the Times
 
 Using the open data set and reflections we experimented with different visualizations of our data. One initial observation was the difference between our data sources. While the report conducted by the EU mentioned the Kremlin 34 times and Russia 120 times, there was little to mention of Russia and the Kremlin from the data set from Princeton.
 
