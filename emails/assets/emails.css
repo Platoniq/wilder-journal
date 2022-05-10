@@ -102,6 +102,12 @@ body,
   height: 80px;
 }
 
+.userMessage {
+  border-left: 4px solid #fd4022;
+
+  font-style: italic;
+  padding-left: 20px;
+}
 
 body,
 #bodyTable {

@@ -1,11 +1,25 @@
 {
-  "welcome_title": "Hola {{ name }}, ¡te damos la bienvenida al Wilder Journal!",
-  "welcome_subject": "Te damos la bienvenida al Wilder Journal",
+  "welcome_title": "Hola {{ name }}, ¡nos encanta tenerte por aquí!",
+  "welcome_subject": "Platoniq te da la bienvenida al Wilder Journal",
   "welcome_teaser": "Fuga facere natus nemo. Culpa quo minima sunt beatae sunt quaerat in.",
   "welcome_content_1": "Este Journal que tienes “entre manos” es la manera que tenemos en Fundación Platoniq de abrirte las puertas a nuestro(s) mundo(s). Aquí encontrarás artículos en profundidad (deep dives), entrevistas y otros contenidos relacionados con nuestras líneas de actividad (Cultura futura, Innovación democrática, Empoderamiento ciudadano, Economía Social y Solidaria y cooperativismo).",
   "welcome_content_2": "La temática de este Journal estará especialmente enfocada a la participación e influencia de la ciudadanía en las decisiones públicas o en sus propias organizaciones. También sirve de plataforma para que iniciativas de este tipo se conozcan y se investiguen.",
   "welcome_content_3": "Bla bla",
   "welcome_content_4": "Bla bla",
   "global_twitter": "Síguenos en Twitter",
-  "global_instagram": "Síguenos en Instagram"
+  "global_instagram": "Síguenos en Instagram",
+  "contact_user_subject": "Wilder Journal te lee a ti",
+  "contact_user_teaser": "contact_user_teaser",
+  "contact_user_title": "Hola {{ name }}, hemos recibido tu mensaje",
+  "contact_user_content_1": "¡Gracias por escribirnos! Siempre nos ilusiona poder resolver dudas, cuidar nuestros vínculos y sembrar nuevas alianzas.",
+  "contact_user_content_2": "Nos has enviado el siguiente mensaje:",
+  "contact_user_content_3": "En breve nos pondremos en contacto contigo. Hasta entonces... ¡y que disfrutes de la espera!",
+  "contact_admin_subject": "[Wilder Journal] {{ name }} nos ha enviado un mensaje",
+  "contact_admin_teaser": "contact_admin_teaser",
+  "contact_admin_title": "{{ name }} nos ha enviado un mensaje",
+  "contact_admin_content_1": "¡Hola! Nos han enviado un mensaje a través del formulario de contacto de Wilder Journal.",
+  "contact_admin_content_2": "El contenido del mensaje es el siguiente:",
+  "contact_admin_content_3": "Puedes responder al mensaje fácilmente haciendo click en el siguiente link:",
+  "contact_admin_mailto_subject": "Wilder Journal responde a tu mensaje",
+  "contact_admin_mailto_body": "Hola {{ name }}, \n"
 }
