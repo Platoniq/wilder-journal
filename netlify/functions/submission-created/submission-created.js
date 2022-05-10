@@ -3,6 +3,7 @@
 // https://github.com/forwardemail/email-templates
 
 require('dotenv').config()
+require('handlebars')
 
 const process = require('process')
 
