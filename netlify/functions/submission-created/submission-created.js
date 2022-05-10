@@ -4,7 +4,6 @@
 
 require('dotenv').config()
 
-const fetch = require('node-fetch')
 const process = require('process')
 
 const _ = require('lodash')
@@ -20,8 +19,6 @@ const smtp = {
   username: process.env.SMTP_USERNAME,
   password: process.env.SMTP_PASSWORD
 }
-
-const ASSET_URL = "localhost:4000/";
 
 let transporter = nodemailer.createTransport({
   pool: true,
@@ -70,32 +67,7 @@ const global_vars = {
 }
 
 const handler = async function(event, context) {
-
-  // verify connection configuration
-
-  // transporter.verify(function(error, success) {
-  //   if (error) {
-  //     console.log(error);
-  //   } else {
-  //     console.log("Server is ready to take our messages");
-  //   }
-  // });
-
-  // Common form fields: "lang","page_uid","site_url","ip","user_agent","referrer","created_at"
-  // Newsletter form fields: "name","email"
-  // Contact form fields: "name","email","message"
-  // Service form fields: ?
-
   const payload = JSON.parse(event.body).payload
-  const site = JSON.parse(event.body).site
-
-  console.log("Payload, site: ")
-  console.log(payload)
-  console.log(site)
-  console.log(context)
-  console.log("--")
-
-  const message = `Send email to ${payload.name} (${payload.email}) from ${process.env.FROM_EMAIL_ADDRESS} with payload ${JSON.stringify(payload)}`
 
   const config = {
     from: `"${process.env.FROM_EMAIL_NAME}" <${process.env.FROM_EMAIL_ADDRESS}>`,
@@ -103,8 +75,12 @@ const handler = async function(event, context) {
     template: "welcome"
   }
 
-  console.log(`Sending email to: ${payload.email}, ${payload.name}`)
-  console.log(`${JSON.stringify(config)}`)
+  console.log(`== Sending "${config.template}" email to ${payload.name} (${payload.email}) from ${process.env.FROM_EMAIL_ADDRESS} with payload ${JSON.stringify(payload)}`)
+
+  // Common form fields: "lang","page_uid","site_url","ip","user_agent","referrer","created_at"
+  // Newsletter form fields: "name","email"
+  // Contact form fields: "name","email","message"
+  // Service form fields: ?
 
   const email = new Email(_.merge({
       message: {
@@ -113,7 +89,7 @@ const handler = async function(event, context) {
     },
     emailSettings))
 
-  email
+  let response = await email
     .send({
       template: config.template,
       message: {
@@ -129,10 +105,11 @@ const handler = async function(event, context) {
         $t
       }, payload, global_vars)
     })
-    .then(console.log)
-    .catch(console.error);
 
-  return { statusCode: 200, body: `Sent email to ${config.to} from ${config.from}` }
+  if (response.accepted.length) console.log(`== Sent email to: ${response.accepted}`);
+  if (response.rejected.length) console.log(`== Failed sending email to: ${response.rejected}`);
+
+  return { statusCode: 200, body: `Sent email to: ${response.accepted}` };
 }
 
 let $t = (key, options) => {
