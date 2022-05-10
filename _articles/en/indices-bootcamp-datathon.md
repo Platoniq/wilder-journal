@@ -7,7 +7,7 @@ article-order: 10
 uid: indices-bootcamp-datathon
 title: El inDICEs Bootcamp, Datathon for a Fairer Democracy
 description: "-"
-author: tayrine-dias
+author: Tayrine Dias in collaboration with Aisha Villegas
 cover:
   path: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
@@ -54,7 +54,7 @@ These phases allowed the Flash Task Forces, each with their own data and ideas, 
 
 ## Accessible, inclusive and usable data for a fairer democracy
 
-In contrast to most datathons, the inDICEs Bootcamp focussed on visualising available data and bringing it to life for a non-specialised audience. In order to help visualise data as accessible narratives, artist, professor and illustrator [Hayfaa Chalabi](http://hayfaachalabi.com/) presented examples and spoke of her own experience in the creation of accessible and impactful data narratives around themes of visual culture, gender and migration. In her own words, “There is no neutral data. Data visualisation is always emotional.”
+In contrast to most datathons, the inDICEs Bootcamp focussed on visualising available data and bringing it to life for a non-specialised audience. In order to help visualise data as accessible narratives, artist, professor and illustrator [Hayfaa Chalabi](https://hayfaachalabi.com/) presented examples and spoke of her own experience in the creation of accessible and impactful data narratives around themes of visual culture, gender and migration. In her own words, “There is no neutral data. Data visualisation is always emotional.”
 
 {% gallery { "simple": false, "images": [{"path":"/media/indices_4.jpeg","caption":"Keynote speaker: Hayfaa Chalabi"}] } %}
 
@@ -71,5 +71,3 @@ On the second day, with the aim of getting participants to critically reflect on
 {% gallery { "simple": true, "images": [{"path":"/media/indices_6.jpeg"}, {"path":"/media/indices_7.jpeg"}, {"path":"/media/indices_8.jpeg"}, {"path":"/media/indices_9.jpeg"}] } %}
 
 {% file { "title": "Interested in exploring the work done in these Flash Task Forces?", "info": "You can find the hypothesis of every group in the Open Observatory and contribute your own opinion on the issues discussed.", "file": "https://participate.indices-culture.eu/assemblies/hypotheses", "image": "/media/stickers/wilder-journal-1/sticker14.png", "button_text": "Join the debate", "button_icon": "", "alt_color": true } %}
-
-*In collaboration with [Aisha Villegas](https://indices-culture.eu/dispatches-from-the-indices-bootcamp/)*

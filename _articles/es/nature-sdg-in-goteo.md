@@ -9,7 +9,7 @@ title: " Crowdfunding y datos abiertos ODS para la sostenibilidad y la
   participación ciudadana "
 description: Goteo y Dimmons por el crowdfunding cívico y el estudio del impacto
   ciudadano del activismo digital
-author: olivier-schulbaum
+author: Olivier Schulbaum
 cover:
   path: /media/articles/heroes/fingerprint.png
   thumbnail: /media/articles/thumbnails/fingerprint.png

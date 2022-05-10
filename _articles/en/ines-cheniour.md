@@ -7,7 +7,7 @@ article-order: 2
 uid: ines-cheniour
 title: Ines Cheniour
 description: "# TODO"
-author: elena-silvestrini
+author: Chiara Rutolo & Elena Silvestrini
 interviewee: Ines Cheniour
 cover:
   path: /media/articles/heroes/ines.jpg

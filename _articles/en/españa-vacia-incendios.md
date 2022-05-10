@@ -8,7 +8,7 @@ article-order: 12
 uid: españa-vacia-incendios
 title: The emptied Spain and its fires
 description: Citizen initiatives that use crowdfunding to save our forests
-author: joan-cabot
+author: Joan Cabot
 interviewee: Editorial Catro Ventos, Proxecto Batego, Fundación Civio
 cover:
   path: /media/articles/heroes/incendio.png
@@ -34,7 +34,7 @@ image:
 ---
 My great grandmother used to say: "The whole village goes to fire and to wedding." I never knew if he meant that with the chimney burning in winter there was always a visit to warm up at home ... or that in a fire community solidarity was activated to extinguish it. I want to believe that he was referring to both situations, well Galician was. We will talk about all of them in this article.
 
-It is as surprising as disconcerting to repeat a mistake when we think we know the cause, so having to regret every summer as the flames devour forests, fields and houses is really sad. As the [Fundacion Pau Acosta](http://www.paucostafoundation.org/) reminds us, fire is a phenomenon present in nature and, in a controlled way, is a tool. We use it for cooking, heating, manufacturing tools ... What is happening in our forests so that an element that was once our ally is now our enemy? At what time have we gone from using fire in our favor to having to protect ourselves from fire?
+It is as surprising as disconcerting to repeat a mistake when we think we know the cause, so having to regret every summer as the flames devour forests, fields and houses is really sad. As the [Fundacion Pau Acosta](https://www.paucostafoundation.org/) reminds us, fire is a phenomenon present in nature and, in a controlled way, is a tool. We use it for cooking, heating, manufacturing tools ... What is happening in our forests so that an element that was once our ally is now our enemy? At what time have we gone from using fire in our favor to having to protect ourselves from fire?
 
 In the drafting of Fundación Goteo we were talking about it and we defined three concepts (fire, fire and town). We wanted to understand their relationship and decided to contact who could explain. Believers to the core in mutual support, we pulled the agenda and asked for help from three groups that had campaigned on our platform: [Civio](https://www.goteo.org/project/espana-en-llamas), [Rebrotem](https://www.goteo.cc/rebrotem) y [Proxecto Batefogo](https://www.goteo.org/project/arbores-que-non-arden).
 

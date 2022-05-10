@@ -10,7 +10,7 @@ description: "En este artículo, nos centramos en la situación de las mujeres
   dentro de la brecha digital, así como en nuestra inclusión y pertenencia a los
   espacios de participación digital: ¿son espacios accesibles y cercanos para
   nosotras? ¿Nos sentimos cómodas en ellos? ¿Son nuestros?"
-author: marta-anducas
+author: Marta Anducas Armengou
 cover:
   path: /media/articles/heroes/sticker7.png
   thumbnail: /media/articles/thumbnails/sticker7.png
@@ -92,6 +92,6 @@ Si tienes experiencia o información sobre estas cuestiones que nos ayuden a ent
 2. Duyn, Emily & Peacock, Cynthia & Stroud, Natalie. (2019). The Gender Gap in Online News Comment Sections. Social Science Computer Review.
 3. Arenas Ramiro, Mónica (2011). Brecha digital de género: la mujer y las nuevas tecnologías. Anuario de la Facultad de Derecho (Universidad de Alcalá), 2011, no. 4, p. 97–125. ISSN 1888–3214
 4. Eticas foundation (2018). [El ecosistema de las TIC desde la perspectiva de género en Barcelona](https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/111228/1/MAQEcosistema_Tic_Barcelona_Castella.pdf) // [L’ecosistema de les TIC des de la perspectiva de gènere a Barcelona](https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/111008/1/MAQEcosistema_Tic_Barcelona_Cat.pdf). Ajuntament de Barcelona, Departament de Transversalitat de Gènere.
-5. Mobile World Capital Barcelona (2016). [La brecha en la ciudad de Barcelona](http://www.mobileworldcapital.com/escletxa-digital/index_cas.php). Barcelona: Mobile World Capital.
+5. Mobile World Capital Barcelona (2016). [La brecha en la ciudad de Barcelona](https://www.mobileworldcapital.com/escletxa-digital/index_cas.php). Barcelona: Mobile World Capital.
 6. Ajuntament de Barcelona. Patrimonio de Gracia: proceso participativo para incidir en la protección de los elementos patrimoniales arquitectónicos y naturales de Gracia. Proceso de Decidim Barcelona: <https://www.decidim.barcelona/processes/patrimonigracia?locale=es>.
 7. Associació Catalana d’Enginyeria Sense Fronteres. Remunicipalicemos Barcelona: solicitar la celebración de una consulta ciudadana. Iniciativa de Decidim Barcelona: <https://www.decidim.barcelona/initiatives/i-1?locale=es>

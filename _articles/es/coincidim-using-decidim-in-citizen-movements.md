@@ -8,7 +8,7 @@ uid: coincidim-using-decidim-in-citizen-movements
 title: "(CO)INCIDIM: Experiencia de utilización del Decidim desde los
   Movimientos Sociales"
 description: "-"
-author: marta-anducas
+author: Marta Anducas Armengou & Dante Maschio
 cover:
   path: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png

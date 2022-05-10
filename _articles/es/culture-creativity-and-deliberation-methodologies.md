@@ -7,7 +7,7 @@ article-order: 6
 uid: culture-creativity-and-deliberation-methodologies
 title: Cultura, creatividad y metodologías de deliberación
 description: "-"
-author: tayrine-dias
+author: Tayrine Dias
 interviewee: ""
 cover:
   path: /assets/media/no_image-hero.png

@@ -9,7 +9,7 @@ uid: role-of-glams-misinformation
 title: What is the role of cultural heritage institutions in the spread of
   misinformation?
 description: "-"
-author: nadia-nadesan
+author: Nadia Nadesan
 cover:
   path: /media/articles/heroes/glams.jpg
   mobile: /media/articles/mobile/glams.jpg
@@ -97,7 +97,7 @@ Cultural institutions have the unique space of allowing for power to be conteste
 
 This article was originally published in the inDICEs Open Observatory. You can read the original post [here](https://participate.indices-culture.eu/processes/cocreation/f/6/posts/8).
 
-[inDICEs](https://indices-culture.eu/) is a research project funded by the Horizon 2020 program in response to the new challenges that digitization and the Digital Single Market represent for European culture. The goal of inDICEs is to enable policy and decision-makers in the cultural heritage sector (GLAMs) to understand the social and economic impact of digitization on the cultural sector. The project also aims to address the need for innovative (re)use of cultural assets. In this regard, the InDICEs platform — [the InDICEs Open Observatory](http://participate.indices-culture.eu) — has emerged to provide tools and resources to cultural heritage sector decision-makers to better understand and strategize for the future around the digitization of culture.
+[inDICEs](https://indices-culture.eu/) is a research project funded by the Horizon 2020 program in response to the new challenges that digitization and the Digital Single Market represent for European culture. The goal of inDICEs is to enable policy and decision-makers in the cultural heritage sector (GLAMs) to understand the social and economic impact of digitization on the cultural sector. The project also aims to address the need for innovative (re)use of cultural assets. In this regard, the InDICEs platform — [the InDICEs Open Observatory](https://participate.indices-culture.eu) — has emerged to provide tools and resources to cultural heritage sector decision-makers to better understand and strategize for the future around the digitization of culture.
 
 ## References
 

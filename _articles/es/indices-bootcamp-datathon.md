@@ -7,7 +7,7 @@ article-order: 10
 uid: indices-bootcamp-datathon
 title: El inDICEs Bootcamp, un Datathon por una democracia más justa
 description: "-"
-author: tayrine-dias
+author: Tayrine Dias en colaboración con Aisha Villegas
 cover:
   path: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
@@ -52,7 +52,7 @@ Estas fases permitieron que cada *Flash Task Force*, con datos e ideas distintas
 
 ## **Por una democracia más justa, datos accesibles, inclusivos y usables**
 
-A diferencia de la mayoría de los *datathons*, el Bootcamp de inDICEs se centró en visualizar los datos disponibles y darles vida para un público no especializado. Para visualizar los datos como narrativas accesibles, la artista, profesora e ilustradora [Hayfaa Chalabi](http://hayfaachalabi.com/) presentó casos de datos y habló de su propia experiencia en la creación de narrativas de datos accesibles e impactantes en torno a la cultura visual, el género y la migración. En sus palabras, “no existen los datos neutrales. La visualización de datos es siempre emocional”.
+A diferencia de la mayoría de los *datathons*, el Bootcamp de inDICEs se centró en visualizar los datos disponibles y darles vida para un público no especializado. Para visualizar los datos como narrativas accesibles, la artista, profesora e ilustradora [Hayfaa Chalabi](https://hayfaachalabi.com/) presentó casos de datos y habló de su propia experiencia en la creación de narrativas de datos accesibles e impactantes en torno a la cultura visual, el género y la migración. En sus palabras, “no existen los datos neutrales. La visualización de datos es siempre emocional”.
 
 {% gallery { "simple": false, "images": [{"path":"/media/indices_4.jpeg","caption":"Keynote speaker: Hayfaa Chalabi"}] } %}
 

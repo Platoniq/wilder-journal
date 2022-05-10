@@ -9,7 +9,7 @@ uid: role-of-glams-misinformation
 title: ¿Qué papel desempeñan las instituciones culturales en la propagación de
   desinformación?
 description: "-"
-author: nadia-nadesan
+author: Nadia Nadesan
 cover:
   path: /media/articles/heroes/glams.jpg
   mobile: /media/articles/mobile/glams.jpg
@@ -95,7 +95,7 @@ Las instituciones culturales cuentan con un espacio único que permite contestar
 
 Este artículo se publicó originalmente en el Observatorio Abierto inDICEs. Puedes leer la publicación original (en inglés) [aquí](https://participate.indices-culture.eu/processes/cocreation/f/6/posts/8).
 
-[inDICEs](https://indices-culture.eu/) es un proyecto de investigación financiado por el programa Horizonte 2020 para responder a los nuevos retos que plantean la digitalización y el Mercado Único Digital para la cultura europea. El objetivo de inDICEs es permitir que quienes toman las decisiones y elaboran las políticas del sector del patrimonio cultural (las instituciones GLAM) comprendan el impacto social y económico de la digitalización en el sector cultural. Este proyecto aspira también a abordar la necesidad de un uso, o aprovechamiento, de los bienes culturales. En este sentido, la plataforma de inDICEs —[el Observatorio Abierto inDICEs](http://participate.indices-culture.eu/)— surge para poner herramientas y recursos a disposición de los dirigentes del sector del patrimonio cultural para que comprendan mejor la digitalización de la cultura y elaboren estrategias para el futuro.
+[inDICEs](https://indices-culture.eu/) es un proyecto de investigación financiado por el programa Horizonte 2020 para responder a los nuevos retos que plantean la digitalización y el Mercado Único Digital para la cultura europea. El objetivo de inDICEs es permitir que quienes toman las decisiones y elaboran las políticas del sector del patrimonio cultural (las instituciones GLAM) comprendan el impacto social y económico de la digitalización en el sector cultural. Este proyecto aspira también a abordar la necesidad de un uso, o aprovechamiento, de los bienes culturales. En este sentido, la plataforma de inDICEs —[el Observatorio Abierto inDICEs](https://participate.indices-culture.eu/)— surge para poner herramientas y recursos a disposición de los dirigentes del sector del patrimonio cultural para que comprendan mejor la digitalización de la cultura y elaboren estrategias para el futuro.
 
 ## Referencias
 

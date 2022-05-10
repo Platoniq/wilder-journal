@@ -7,7 +7,7 @@ article-order: 6
 uid: culture-creativity-and-deliberation-methodologies
 title: Culture, creativity, and deliberation methodologies
 description: "-"
-author: tayrine-dias
+author: Tayrine Dias
 interviewee: ""
 cover:
   path: /assets/media/no_image-hero.png
@@ -72,12 +72,12 @@ How should digital participatory and deliberative methodologies combine cultural
 
 [Culture Labs](https://culture-labs.eu/methodology-of-culturelabs/) creates contextualized recipes and ingredients to promote engagement of marginalized communities, investigates and proposes the use of digital platforms for facilitating the access to Cultural Heritage through tailor-made novel experiences, creative reuse, enrichment and co-creation. Generating empathy is the key mediating mechanism to promote social inclusion through storytelling.
 
-[ComparteTuRollo](http://platoniq.net/en/ecreative/p/17/colombia-co-crear-la-memoria-colectiva-del-pais-a-traves-de-500-bibliotecas-publicas-/) is another project that put historical heritage in the center of a participation process to build Colombia’s historical memory. As much as for Beuys every human being is an artist, this project welcomed participants as history co-creators, democratizing civic creativity to engage and promote digital inclusion. 
+[ComparteTuRollo](https://platoniq.net/en/ecreative/p/17/colombia-co-crear-la-memoria-colectiva-del-pais-a-traves-de-500-bibliotecas-publicas-/) is another project that put historical heritage in the center of a participation process to build Colombia’s historical memory. As much as for Beuys every human being is an artist, this project welcomed participants as history co-creators, democratizing civic creativity to engage and promote digital inclusion. 
 
 ## References
 
 1. [https://cadmus.eui.eu/bitstream/handle/1814/62424/PB_2019_10_Globalstat.pdf?sequence=5&isAllowed=y](https://cadmus.eui.eu/bitstream/handle/1814/62424/PB_2019_10_Globalstat.pdf?sequence=5&isAllowed=y)
-2. **According to the CIS:** [http://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html](http://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html)
+2. **According to the CIS:** [https://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html](https://www.cis.es/cis/opencms/ES/11_barometros/Indicadores_PI/documentos/serPol.html)
 3. Cortés-Cediel, M. E., Cantador, I., & Bolívar, M. P. R. (2019). ***Analyzing citizen participation and engagement in european smart cities. Social Science Computer Review, 0894439319877478.***
 
 ## Call to action

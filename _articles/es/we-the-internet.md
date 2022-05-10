@@ -11,7 +11,7 @@ description: "We The Internet fue el mayor diálogo global y ciudadano de la era
   digital. Su objetivo: tender un puente entre ciudadanía, especialistas y
   responsables de políticas públicas, con la idea de influir en la toma de
   decisiones a nivel local y global."
-author: xesca-sastre
+author: Xesca Sastre
 cover:
   path: /assets/media/no_image-hero.png
   mobile: /assets/media/no_image-hero.png
@@ -40,7 +40,7 @@ El diálogo, liderado por [Missions Publiques](https://missionspubliques.org/?la
 
 En España, el diálogo fue implementado por **Platoniq**, como **laboratorio de innovación social** que cree firmemente en la **tecnología** y la **participación ciudadana** para mejorar las sociedades. Aquí os presentamos el **informe oficial** que recoge todos los **resultados**, metodología y reflexiones surgidas.
 
-Lo puedes consultar en [este enlace](http://wetheinternet.platoniq.net/uploads/decidim/attachment/file/92/WTI-report-ES_v1_compressed.pdf).
+Lo puedes consultar en [este enlace](https://wetheinternet.platoniq.net/uploads/decidim/attachment/file/92/WTI-report-ES_v1_compressed.pdf).
 
 ![](https://miro.medium.com/max/1400/1*viZXWL7og4bkHf7iYGObUA.png)
 

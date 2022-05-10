@@ -1,7 +1,7 @@
 ---
 license: CC
 layout: sticker_pack
-author: xesca-sastre
+author: Xesca Sastre
 stickers_author: Alba Feito
 title: "Sticker Pack para el Wilder Journal #1"
 title_menu: Sticker Pack

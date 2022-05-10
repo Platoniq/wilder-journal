@@ -14,7 +14,7 @@ description: "Arantxa Mendiharat envisions the possibility of different worlds:
   involved based on random selection. Arantxa co-designs and manages projects
   related to culture and participation which aim to transform our political
   systems."
-author: xesca-sastre
+author: Xesca Sastre
 interviewee: Arantxa Mendiharat
 cover:
   path: /media/articles/heroes/arantxa-mendiharat.png
@@ -80,7 +80,7 @@ Not necessarily. The first Citizens’ Assembly in Ireland was not set up by the
 
 Extinction Rebellion, an entity which is calling for widespread climate-focussed Citizens’ Assemblies, has a lot of detailed information on its website about what Citizens’ Assemblies are and how they work. In reality, however, the movement is still yet to be clearly defined or created, and we can’t say right now that there is a civic base pushing for these types of assemblies, since a lot of people don’t even know what they are yet.
 
-In Spanish we have the website [www.democraciaporsorteo.org](http://www.democraciaporsorteo.org). It explains key ideas about what these deliberative processes are, and this is the most important work to be done right now; spreading knowledge and showing people what the aims of these mechanisms are, and creating a starting point from which to build up a civic, cultural support base.
+In Spanish we have the website [www.democraciaporsorteo.org](https://www.democraciaporsorteo.org). It explains key ideas about what these deliberative processes are, and this is the most important work to be done right now; spreading knowledge and showing people what the aims of these mechanisms are, and creating a starting point from which to build up a civic, cultural support base.
 
 {% file { "title": "If this is a topic which interests you, and you’d like to find out more, have a listen to the following podcast", "info": "English", "file": "https://facilitatingpublicdeliberation.libsyn.com/episode-44-deliberation-around-the-world-with-claudia-chwalisz?tdest_id=1717865", "image": "/assets/media/no_image-file.png", "button_text": "Listen", "button_icon": "", "alt_color": false } %}
 

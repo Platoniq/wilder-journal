@@ -6,7 +6,7 @@ date: 2022-04-01T10:42:45.427Z
 article-order: 4
 uid: be-part-does-a-students-decision-have-the-same-power-as-a-teachers
 title: "“BePart”: Does a student's decision have the same power as a teacher's?"
-author: marta-anducas
+author: Marta Anducas Armengou & Elena Silvestrini
 cover:
   path: /media/articles/heroes/bepart.jpg
   mobile: /media/articles/mobile/bepart.jpg

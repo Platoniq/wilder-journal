@@ -7,7 +7,7 @@ article-order: 1
 uid: vespertilio-homo
 title: "The power to (dis)inform: a journey on the back of the vespertilio homo"
 description: "# TODO"
-author: marta-anducas
+author: Marta Anducas Armengou
 cover:
   path: /media/articles/heroes/vespertilio_homo.png
   thumbnail: /media/articles/thumbnails/vespertilio_homo.png
@@ -44,7 +44,7 @@ Disinformation is not a new phenomenon and [History is full of falsehoods](https
 
 **The history of disinformation alerts us to the damage that this phenomenon can cause in multiple social dimensions,** from the political system and international relations to migration or climate policies, among many others. Recently, we have seen its impact in the health field with the appearance of Covid-19, to the point that the WHO had to warn of an *infodemic* or overabundance of information superimposed on the pandemic.
 
-As the [Reuters Institute Digital News Report 2020](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2020-06/DNR_2020_FINAL.pdf) points out, disinformation is a concern in countries where the use of social networks is high and traditional institutions are weak. In this sense, **[an own study](http://smiles.platoniq.net/processes/output1/f/140/?locale=en) has analysed the context of disinformation in the Spanish State and the situation it reveals is worrying** for several reasons, to highlight:
+As the [Reuters Institute Digital News Report 2020](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2020-06/DNR_2020_FINAL.pdf) points out, disinformation is a concern in countries where the use of social networks is high and traditional institutions are weak. In this sense, **[an own study](https://smiles.platoniq.net/processes/output1/f/140/?locale=en) has analysed the context of disinformation in the Spanish State and the situation it reveals is worrying** for several reasons, to highlight:
 
 1. The lack of credibility of citizens in public institutions and the media,
 2. The increase in the number of people who get information through social networks, and the increase of disinformation on these platforms,
@@ -98,7 +98,7 @@ Despite [the criticism](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_is
 
 The [Study of the conditioning factors of disinformation](https://laboratoriodeperiodismo.org/estudio-sobre-la-desinformacion/) carried out by the INECO research group highlights that **more than half of the Spanish citizenship presents a relevant degree of vulnerability to disinformation, and points out that young people are the most vulnerable group**.
 
-On the other hand, the people interviewed in our [baseline study](http://smiles.platoniq.net/processes/output1/f/140/?locale=es) agree that, although media literacy is not being worked on much, there is a great interest and educational demand for training on disinformation for both students and teachers. They also emphasize the need to provide young people with the skills to critically analyze information.
+On the other hand, the people interviewed in our [baseline study](https://smiles.platoniq.net/processes/output1/f/140/?locale=es) agree that, although media literacy is not being worked on much, there is a great interest and educational demand for training on disinformation for both students and teachers. They also emphasize the need to provide young people with the skills to critically analyze information.
 
 ## The story of now: how do we at Platoniq try to answer the question
 
@@ -106,7 +106,7 @@ In the face of misinformation, the experts insist on the need to disseminate man
 
 From Platoniq we fully agree on the need to **teach literacy, create critical citizens and reinforce democratic values**, with a special focus on [young people](https://qz.com/1533747/in-the-age-of-fake-news-heres-how-schools-are-teaching-kids-to-think-like-fact-checkers/) who, besides being unprepared to deal with the flood of information that reaches them digitally, are the present and the future of society.
 
-In this sense, we are involved in the [SMILES](http://smiles.platoniq.net/) European project in which we are committed to training teachers and librarians so that they can develop workshops against disinformation with high school students. We also want to work together with Wikipedia and Verificat to create community and value models of production and verification of information from a critical, shared and distributed perspective.
+In this sense, we are involved in the [SMILES](https://smiles.platoniq.net/) European project in which we are committed to training teachers and librarians so that they can develop workshops against disinformation with high school students. We also want to work together with Wikipedia and Verificat to create community and value models of production and verification of information from a critical, shared and distributed perspective.
 
 ## Call to action
 
@@ -116,7 +116,7 @@ In this sense, we are involved in the [SMILES](http://smiles.platoniq.net/) Euro
 
 ## Resources and references
 
-1. Anducas-Armengou, Marta & Nadesan, Nadia. (2021). *SMILES Baseline Study — Country Report.* Fundación Platoniq. [http://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline\_study\_-_Country_report_Spain-ES.pdf](http://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline_study_-_Country_report_Spain-ES.pdf)
+1. Anducas-Armengou, Marta & Nadesan, Nadia. (2021). *SMILES Baseline Study — Country Report.* Fundación Platoniq. [https://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline\_study\_-_Country_report_Spain-ES.pdf](https://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline_study_-_Country_report_Spain-ES.pdf)
 2. Amoedo, Avelino; Kaufmann, Jürg; Moreno, Elsa; Negredo, Samuel & Vara-Miguel, Alfonso. (2021). *DIGITALNEWSREPORT.ES 2021: Periodismo de calidad y cercanía para combatir la infodemia*. Digital News Report. <https://www.digitalnewsreport.es/>
 3. DiResta, Renée. (2021, July 21). *Institutional Authority Has Vanished. Wikipedia Points to the Answer.* The Atlantic. <https://www.theatlantic.com/ideas/archive/2021/07/cdc-should-be-more-like-wikipedia/619469/>
 4. Gelado-Marcos, Roberto & Puebla-Martínez, Belén. (2019). *Estudio de los factores condicionantes de la desinformación*. Laboratorio de periodismo. <https://laboratoriodeperiodismo.org/estudio-sobre-la-desinformacion/>

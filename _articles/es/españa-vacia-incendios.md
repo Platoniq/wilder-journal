@@ -9,7 +9,7 @@ uid: españa-vacia-incendios
 title: La España vaciada y sus incendios
 description: Iniciativas ciudadanas que utilizan el crowdfunding para salvar
   nuestros bosques
-author: joan-cabot
+author: Joan Cabot
 interviewee: Editorial Catro Ventos, Proxecto Batego, Fundación Civio
 cover:
   path: /media/articles/heroes/incendio.png
@@ -33,7 +33,7 @@ image:
 ---
 Solía decir mi bisabuela: "A fuego y a boda va la aldea toda". Nunca supe si se refería a que con la chimenea encendida en invierno siempre venía alguna visita a calentarse a casa... o que ante un incendio se activaba la solidaridad comunal para extinguirlo. Quiero creer que se refería a ambas situaciones, pues bien gallega era. De todas ellas hablaremos en este artículo.
 
-Es tan sorprendente como desconcertante reincidir en un error cuando creemos conocer la causa, así que tener que lamentar cada verano como las llamas devoran bosques, campos de cultivo y casas es realmente triste. Como bien nos recuerda la [Fundacion Pau Acosta](http://www.paucostafoundation.org/), el fuego es un fenómeno presente en la naturaleza y, de forma controlada, es una herramienta. Lo usamos para cocinar, calentarnos, fabricar herramientas... ¿Qué está ocurriendo en nuestros bosques para que un elemento que antes era nuestro aliado ahora sea nuestro enemigo? ¿En qué momento hemos pasado de utilizar el fuego a nuestro favor a tener que protegernos del fuego?
+Es tan sorprendente como desconcertante reincidir en un error cuando creemos conocer la causa, así que tener que lamentar cada verano como las llamas devoran bosques, campos de cultivo y casas es realmente triste. Como bien nos recuerda la [Fundacion Pau Acosta](https://www.paucostafoundation.org/), el fuego es un fenómeno presente en la naturaleza y, de forma controlada, es una herramienta. Lo usamos para cocinar, calentarnos, fabricar herramientas... ¿Qué está ocurriendo en nuestros bosques para que un elemento que antes era nuestro aliado ahora sea nuestro enemigo? ¿En qué momento hemos pasado de utilizar el fuego a nuestro favor a tener que protegernos del fuego?
 
 En la redacción de Fundación Goteo lo estuvimos hablando y definimos tres conceptos (fuego, incendio y pueblo). Quisimos comprender su relación y decidimos contactar con quien pudiera explicarnos. Creyentes hasta la médula en el apoyo mutuo, tiramos de agenda y pedimos ayuda a tres colectivos que hubieran hecho campaña en nuestra plataforma: [Civio](https://www.goteo.org/project/espana-en-llamas), [Rebrotem](https://www.goteo.cc/rebrotem) y [Proxecto Batefogo](https://www.goteo.org/project/arbores-que-non-arden).
 

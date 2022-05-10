@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # "/journal-content" # the subpath of your site, e.g. /blog
-url: "http://next.journal.platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://next.journal.platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
 analytics_id: G-0N0TWKN871
 
 repository: "https://github.com/Platoniq/wilder-journal-next"
@@ -27,8 +27,8 @@ collections:
     output: true
     custom_permalink_placeholders: ["locale", "volume-uid", "category","uid"]
     permalink: /:locale/:volume-uid/:category/:uid/
-  authors:
-    output: false
+  # authors:
+  #   output: false
   call_to_actions:
     output: false
   volumes:
@@ -65,22 +65,22 @@ defaults:
       type: volumes
     values:
       layout: "journal"
-      author: "platoniq"
+      author: "Platoniq"
   - scope:
       type: articles
     values:
       layout: "article"
-      author: "anonymous"
+      author: "Platoniq"
   - scope:
       type: sticker_packs
     values:
       layout: "sticker_pack"
-      author: "anonymous"
+      author: "Platoniq"
   - scope:
       type: pages
     values:
       layout: "page"
-      author: "platoniq"
+      author: "Platoniq"
   - scope:
       path: "media"
     values:

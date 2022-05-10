@@ -7,7 +7,7 @@ date-updated: 2022-05-06T17:31:25.530Z
 article-order: 3
 uid: we-the-internet
 title: "#WeTheInternet and citizen empowerment dialogues"
-author: xesca-sastre
+author: Xesca Sastre
 cover:
   path: /assets/media/no_image-hero.png
   mobile: /assets/media/no_image-hero.png

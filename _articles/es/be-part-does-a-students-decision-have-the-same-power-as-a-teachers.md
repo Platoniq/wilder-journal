@@ -8,7 +8,7 @@ uid: be-part-does-a-students-decision-have-the-same-power-as-a-teachers
 title: "“BePart”: ¿Tiene el mismo poder la decisión de una alumna que la de una
   docente?"
 description: "-"
-author: marta-anducas
+author: Marta Anducas Armengou & Elena Silvestrini
 cover:
   path: /media/articles/heroes/bepart.jpg
   mobile: /media/articles/mobile/bepart.jpg
@@ -27,7 +27,7 @@ image:
 ---
 {% quote { "author": "Paulo Freire [1]" } %}“No está de más repetir aquí la afirmación todavía rechazada por mucha gente no obstante su obviedad: la educación es un acto político.”{% endquote %}
 
-Aprendices de la sabiduría de Freire y conscientes de que a participar se aprende participando, desde Platoniq nos hemos embarcado en [BePart](http://bepart-project.eu/), un proyecto europeo que promueve procesos de participación, empoderamiento y liderazgo juvenil en las escuelas.
+Aprendices de la sabiduría de Freire y conscientes de que a participar se aprende participando, desde Platoniq nos hemos embarcado en [BePart](https://bepart-project.eu/), un proyecto europeo que promueve procesos de participación, empoderamiento y liderazgo juvenil en las escuelas.
 
 Hace unos meses, en [este artículo](https://medium.com/social-justice-by-design/new-project-bepart-and-how-to-make-schools-more-participative-627455568e2c) compartíamos las pinceladas del proyecto y algunas de las preguntas que nos surgieron. Durante este tiempo, hemos conversado con docentes de secundaria de Barcelona, Madrid y alrededores. A través de sus miradas, hemos aterrizado a una realidad un poco árida para una participación real del alumnado pero con un gran potencial: el de las personas jóvenes, estudiantes de secundaria, las protagonistas de BePart.
 

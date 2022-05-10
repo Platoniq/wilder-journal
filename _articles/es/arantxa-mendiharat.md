@@ -14,7 +14,7 @@ description: "Arantxa Mendiharat imagina mundos posibles: futuros posibles y
   elegidas por sorteo. Arantxa co-diseña y gestiona proyectos relacionados con
   la cultura y la participación que aspiran a la transformación de los sistemas
   políticos."
-author: xesca-sastre
+author: Xesca Sastre
 interviewee: Arantxa Mendiharat
 cover:
   path: /media/articles/heroes/arantxa-mendiharat.png

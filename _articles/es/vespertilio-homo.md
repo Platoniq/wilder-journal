@@ -7,7 +7,7 @@ article-order: 1
 uid: vespertilio-homo
 title: "El poder de (des)informar: un viaje a lomos del vespertilio homo"
 description: "# TODO"
-author: marta-anducas
+author: Marta Anducas Armengou
 cover:
   path: /media/articles/heroes/vespertilio_homo.png
   thumbnail: /media/articles/thumbnails/vespertilio_homo.png
@@ -47,7 +47,7 @@ La desinformación no es un fenómeno nuevo y [la Historia está llena de falsed
 
 **La historia de la desinformación nos alerta del daño que este fenómeno puede acarrear en las múltiples dimensiones sociales**, desde el sistema político y las relaciones internacionales hasta las políticas migratorias o climáticas, entre tantas otras. Recientemente, hemos podido comprobar su incidencia en el campo de la salud con la aparición del Covid-19, hasta el punto que la OMS tuvo que alertar de una *infodemia* o sobreabundancia de información superpuesta a la pandemia.
 
-Como señala el [Reuters Institute Digital News Report 2020](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2020-06/DNR_2020_FINAL.pdf), la desinformación es una amenaza en países donde el uso de redes sociales es alto y las instituciones tradicionales son débiles. En este sentido, **[un estudio propio](http://smiles.platoniq.net/processes/output1/f/140/?locale=es) ha analizado el contexto de la desinformación en el Estado español y la situación que revela es preocupante** por diversos motivos, a destacar:
+Como señala el [Reuters Institute Digital News Report 2020](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2020-06/DNR_2020_FINAL.pdf), la desinformación es una amenaza en países donde el uso de redes sociales es alto y las instituciones tradicionales son débiles. En este sentido, **[un estudio propio](https://smiles.platoniq.net/processes/output1/f/140/?locale=es) ha analizado el contexto de la desinformación en el Estado español y la situación que revela es preocupante** por diversos motivos, a destacar:
 
 1. La falta de credibilidad de la ciudadanía en las instituciones públicas y en los medios de comunicación;
 2. El aumento de personas que se informan a través de las redes sociales, y el aumento de bulos en dichas plataformas;
@@ -107,7 +107,7 @@ Un 67% de las personas encuestadas para el [Digital News Report España 2021](ht
 
 El [Estudio de los factores condicionantes de la desinformación](https://laboratoriodeperiodismo.org/estudio-sobre-la-desinformacion/) realizado por el Grupo de investigación INECO destaca que **más de la mitad de la ciudadanía española presenta un grado relevante de vulnerabilidad ante la desinformación, y señala a las personas jóvenes como el grupo más vulnerable**.
 
-Por otro lado, las personas entrevistadas en nuestro [estudio de referencia](http://smiles.platoniq.net/processes/output1/f/140/?locale=es) coinciden en que, aunque no se trabaja mucho la alfabetización mediática, hay un gran interés y demanda educativa en formación sobre desinformación tanto para estudiantes como para personal docente. Asimismo, destacan que es necesario dotar a las personas jóvenes de competencias para analizar críticamente la información.
+Por otro lado, las personas entrevistadas en nuestro [estudio de referencia](https://smiles.platoniq.net/processes/output1/f/140/?locale=es) coinciden en que, aunque no se trabaja mucho la alfabetización mediática, hay un gran interés y demanda educativa en formación sobre desinformación tanto para estudiantes como para personal docente. Asimismo, destacan que es necesario dotar a las personas jóvenes de competencias para analizar críticamente la información.
 
 ## ¿Cómo abordamos la pregunta desde Platoniq?
 
@@ -115,7 +115,7 @@ Ante la desinformación, las expertas insisten en la necesidad de difundir manua
 
 Desde Platoniq coincidimos totalmente en la necesidad de **alfabetizar, crear ciudadanas críticas y reforzar los valores democráticos**, con una especial mirada a [las personas jóvenes](https://qz.com/1533747/in-the-age-of-fake-news-heres-how-schools-are-teaching-kids-to-think-like-fact-checkers/) quienes, además de no estar preparadas para lidiar con la avalancha de información que les llega digitalmente, son el presente y el futuro de la sociedad.
 
-En este sentido, estamos embarcadas en el proyecto europeo [SMILES](http://smiles.platoniq.net/) en el que apostamos por la capacitación de personal docente y bibliotecario para que puedan desarrollar talleres contra la desinformación con estudiantes de secundaria. Queremos trabajar, además, junto con Wikipedia y Verificat para crear comunidad y poner en valor modelos de producción y verificación de la información desde una perspectiva crítica, compartida y distribuida.
+En este sentido, estamos embarcadas en el proyecto europeo [SMILES](https://smiles.platoniq.net/) en el que apostamos por la capacitación de personal docente y bibliotecario para que puedan desarrollar talleres contra la desinformación con estudiantes de secundaria. Queremos trabajar, además, junto con Wikipedia y Verificat para crear comunidad y poner en valor modelos de producción y verificación de la información desde una perspectiva crítica, compartida y distribuida.
 
 ## Call to action
 
@@ -125,7 +125,7 @@ En este sentido, estamos embarcadas en el proyecto europeo [SMILES](http://smile
 
 ## Referencias
 
-1. Anducas-Armengou, Marta & Nadesan, Nadia. (2021). *SMILES Baseline Study - Country Report.* Fundación Platoniq. [http://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline\_study\_-_Country_report_Spain-ES.pdf](http://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline_study_-_Country_report_Spain-ES.pdf)
+1. Anducas-Armengou, Marta & Nadesan, Nadia. (2021). *SMILES Baseline Study - Country Report.* Fundación Platoniq. [https://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline\_study\_-_Country_report_Spain-ES.pdf](https://smiles.platoniq.net/uploads/decidim/attachment/file/101/Baseline_study_-_Country_report_Spain-ES.pdf)
 2. Amoedo, Avelino; Kaufmann, Jürg; Moreno, Elsa; Negredo, Samuel & Vara-Miguel, Alfonso. (2021). *DIGITALNEWSREPORT.ES 2021: Periodismo de calidad y cercanía para combatir la infodemia*. Digital News Report. <https://www.digitalnewsreport.es/>
 3. DiResta, Renée. (2021, July 21). *Institutional Authority Has Vanished. Wikipedia Points to the Answer.* The Atlantic. <https://www.theatlantic.com/ideas/archive/2021/07/cdc-should-be-more-like-wikipedia/619469/>
 4. Gelado-Marcos, Roberto & Puebla-Martínez, Belén. (2019). *Estudio de los factores condicionantes de la desinformación*. Laboratorio de periodismo. <https://laboratoriodeperiodismo.org/estudio-sobre-la-desinformacion/>

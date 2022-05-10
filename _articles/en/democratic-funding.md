@@ -11,7 +11,7 @@ title: "Democratic Funding: Citizens choose their future. Limits and hopes in
 description: "Citizen participation aspires to be an active part of
   decision-making and asks itself: are there processes more democratic than
   others when it comes to deciding what public money is spent on?"
-author: joan-cabot
+author: Joan Cabot
 cover:
   path: /media/articles/heroes/democraticfunding.png
   thumbnail: /media/articles/thumbnails/pngegg.png

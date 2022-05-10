@@ -7,7 +7,7 @@ article-order: 11
 uid: democracy-is-fun
 title: Democracy is fun if you take it… seriously!
 description: "[# TODO] Democracy is fun if you take it… seriously!"
-author: olivier-schulbaum
+author: Olivier Schulbaum
 cover:
   path: /media/articles/heroes/sticker12.png
   thumbnail: /media/articles/thumbnails/sticker12.png

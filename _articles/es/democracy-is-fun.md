@@ -8,7 +8,7 @@ uid: democracy-is-fun
 title: Gamificación, incentivos y espacios más seguros para mejorar la democracia
 description: "[# TODO] Gamificación, incentivos y espacios más seguros para
   mejorar la democracia"
-author: olivier-schulbaum
+author: Olivier Schulbaum
 cover:
   path: /media/articles/heroes/sticker12.png
   thumbnail: /media/articles/thumbnails/sticker12.png
@@ -43,7 +43,7 @@ Desde que la investigación académica, con el impulso de la jugosa industria de
 
 Si pensamos en los momentos en los que la acción política, formal o informal, motiva a muchas personas a involucrarse, aparece un telón de fondo de inestabilidad, injusticia, en definitiva, de alteraciones lo suficientemente llamativas para provocar emociones, ya sean positivas o negativas. A menudo, escuchamos la defensa de la política aburrida, especialmente desde el punto de vista conservador. Pero también desde la óptica progresista cuando ha estado en mayoría: cuando la política es aburrida es síntoma de que todo “marcha bien”. En todo caso, la estabilidad y la madurez democrática –tediosa, inaccesible o incomprensible para la mayoría– no tiene por qué renunciar a ser interesante y divertida.
 
-Otra manera de aplicar la gamificación en la democracia es a través de las plataformas digitales de participación ciudadana, bastante recientes por lo que también con poco recorrido y experiencia. Estas plataformas invitan y facilitan la colaboración ciudadana en el perfeccionamiento de la gestión pública y tienen como misión co-decidir la política entre ciudadanos. Una de las plataformas más consolidadas es Decide Madrid, impulsada por el Ayuntamiento de Madrid y basada en la plataforma de código libre [Cónsul](http://consulproject.org/) que es utilizada actualmente por más de 130 instituciones o gobiernos.
+Otra manera de aplicar la gamificación en la democracia es a través de las plataformas digitales de participación ciudadana, bastante recientes por lo que también con poco recorrido y experiencia. Estas plataformas invitan y facilitan la colaboración ciudadana en el perfeccionamiento de la gestión pública y tienen como misión co-decidir la política entre ciudadanos. Una de las plataformas más consolidadas es Decide Madrid, impulsada por el Ayuntamiento de Madrid y basada en la plataforma de código libre [Cónsul](https://consulproject.org/) que es utilizada actualmente por más de 130 instituciones o gobiernos.
 
 {% gallery { "images": [{"path":"/media/participa_lab.png","caption":"En el 2018 Platoniq colaboró con Participa Lab para aplicar la gamificación en la plataforma Decide Madrid creando el ​Dashboard de Propuestas Ciudadanas, introduciendo incentivos y umbrales intermediarios.","alt":"En el 2018 Platoniq colaboró con Participa Lab para introducir la gamificación en Decide Madrid creando el ​Dashboard de Propuestas Ciudadanas.","credits":"","bw":true}] } %}
 

@@ -11,7 +11,7 @@ title: "Democratic Funding: la ciudadanía elige su futuro. Límites y esperanza
 description: "La participación ciudadana aspira a ser parte activa de la toma de
   decisiones y se pregunta: ¿hay procesos más democráticos que otros a la hora
   de decidir en qué se gasta el dinero público?"
-author: joan-cabot
+author: Joan Cabot
 cover:
   path: /media/articles/heroes/democraticfunding.png
   thumbnail: /media/articles/thumbnails/pngegg.png

@@ -10,7 +10,7 @@ title: " Crowdfunding and SDGs open data to accelerate knowledge about
 description: Development of a dataset on civic crowdfunding and Sustainable
   Development Goals to study citizen impact of digital activism and
   collaboration between stakeholders
-author: olivier-schulbaum
+author: Olivier Schulbaum
 cover:
   path: /media/articles/heroes/fingerprint.png
   thumbnail: /media/articles/thumbnails/fingerprint.png
@@ -28,7 +28,7 @@ image:
   path: /media/articles/social/fingerprint.png
   alt: "# TODO"
 ---
-With an early release of open research data in the Social Sciences, we present the results of a pioneering initiative that unites action research and open knowledge, developed in collaboration between the [Dimmons research group of the Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/in3/recerca/grups/digital_commons) and the [Goteo civic crowdfunding initiative](http://www.goteo.org/).
+With an early release of open research data in the Social Sciences, we present the results of a pioneering initiative that unites action research and open knowledge, developed in collaboration between the [Dimmons research group of the Universitat Oberta de Catalunya](https://www.uoc.edu/portal/en/in3/recerca/grups/digital_commons) and the [Goteo civic crowdfunding initiative](https://www.goteo.org/).
 
 The results here consist in a [detailed dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KTIX3D) and its corresponding data descriptor in Scientific Data, containing various statistics on 487 campaigns on Goteo.org that followed various crowdfunding modalities, in parallel to its relationship with the [Sustainable Development Goals (SDGs) of the United Nations](https://en.wikipedia.org/wiki/Sustainable_Development_Goals).
 
@@ -48,7 +48,7 @@ As an example, among its [different platform features](https://en.wikipedia.org/
 
 Added to this, there’s an initial mechanism for users of the platform to classify their initiatives according to three types of impact “footprints” (social, democratic and ecological), and a first automatic assignment that relates it to the SDGs that through this collaboration with Dimmons team could be refined and extended, prior to the preparation of the open dataset that we now share.
 
-We believe that this open data and open research initiative can be a good starting point to continue expanding possibilities of transdisciplinarity and action research, so we would like to invite more researchers and digital activists to [contact Dimmons](http://dimmons.net/contact/) or access the [Goteo API](http://developers.goteo.org/doc/sdgs.html) for exploring the reuse or improvement of the dataset that we have prepared. From this open knowledge perspective, we also believe that it is important to raise the need for [more crowdfunding platforms](https://en.wikipedia.org/wiki/Category:Crowdfunding_platforms) (and for civic software in general) to join this effort and release open data, to allow a wider and rigorous access to derived research that can broaden this field of knowledge.
+We believe that this open data and open research initiative can be a good starting point to continue expanding possibilities of transdisciplinarity and action research, so we would like to invite more researchers and digital activists to [contact Dimmons](https://dimmons.net/contact/) or access the [Goteo API](https://developers.goteo.org/doc/sdgs.html) for exploring the reuse or improvement of the dataset that we have prepared. From this open knowledge perspective, we also believe that it is important to raise the need for [more crowdfunding platforms](https://en.wikipedia.org/wiki/Category:Crowdfunding_platforms) (and for civic software in general) to join this effort and release open data, to allow a wider and rigorous access to derived research that can broaden this field of knowledge.
 
 From a perspective of social impact of civic technologies, based on the idea of ​​“crowdvocacy”, future lines of similar research that we are considering is to continue refining the analysis of citizen participation around the SDGs within other platforms related to Goteo, as well as in its connection with more stakeholders and actors in the economy, governance and sustainability spheres.
 
