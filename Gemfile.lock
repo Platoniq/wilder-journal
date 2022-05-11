@@ -8,9 +8,9 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: 5a41a249d97c044275324f455ca267951fe26ee2
+  revision: e80aee2f60ad6a98431db29fc12b8f423c521efc
   specs:
-    jekyll-theme-platoniq-journal (0.0.86)
+    jekyll-theme-platoniq-journal (0.0.87)
       jekyll (~> 4.2)
       jekyll-data (~> 1.1.1)
       jekyll-plugin-platoniq-journal (~> 0.0.1)

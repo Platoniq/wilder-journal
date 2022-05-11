@@ -155,7 +155,7 @@ Si tienes experiencia o información sobre estas cuestiones que nos ayuden a ent
 
 ## Referencias
 
-1. https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html 
+1. [https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html](https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html)
 2. A. B. Ruble, «Introduction: Globalism and Local Realities-Five Paths to the Urban Future», en M. A. Cohen (ed.), Preparing for the Urban Future, Washington, 1996, p. 1, citado por J. Molina Molina, Los presupuestos participativos. Un modelo para priorizar objetivos y gestionar eficientemente en la Administración local, Pamplona, Thomson Reuters, 2010, p. 342.
 3. Fung, Archon y Wright, Erik Olin (2003), “Thinking about empowered participatory governance”, en Archon Fun y Erik Olin Wright (editors), Deeping democracy, Londres, Verso..
 4. Frase, Nancy (1996), "Redistribución y reconocimiento: hacia una visión integrada de justicia del género", New School for Social Research, Nueva York
