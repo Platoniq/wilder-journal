@@ -30,8 +30,6 @@ const email = function(transporter) {
       preserveImportant: true,
       webResources: {
         relativeTo: path.resolve('emails/assets')
-          // images: true,
-          // svgs: true
       }
     }
   }
