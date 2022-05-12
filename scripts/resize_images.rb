@@ -24,15 +24,20 @@ SIZES = {
 
 SIZES.each_pair do |path, size|
   fullpath = File.join("./media/", path.to_s)
-  images = Dir.glob(File.join(fullpath, "*.{png,jpeg}"))
+  images = Dir.glob(File.join(fullpath, "*.{png,jpg,jpeg}"))
 
   puts ">>> [Resizing] images in directory: #{path}; max size: #{size};"
 
+  
   images.each do |filename|
     puts "  > filename: #{filename};"
+    
+    tmp = "#{filename}.tmp"
 
-    image = MiniMagick::Image.open(filename)
-    image.resize size.join("x") + ">"
+    File.rename(filename, tmp)
+
+    image = MiniMagick::Image.open(tmp)
+    image.resize "#{size.join("x")}>"
     image.write filename
   end
 end
