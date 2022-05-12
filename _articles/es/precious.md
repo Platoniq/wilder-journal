@@ -25,7 +25,24 @@ image:
   path: /media/articles/social/precious.png
   alt: "# TODO"
 ---
-Esta mañana me he despertado otra vez con la pequeña Charissa. Le están saliendo los dientes y llora un montón. Tampoco es un problema, me gustan los bebés. Cuando vi que ya no me iba a poder volver a dormir, salí de la cama y me hice un té. Tiffany también estaba en la cocina, calentando leche. Tenía cara de no haber dormido nada. Es nigeriana como yo y es buena gente, pero no hablamos mucho. Su marido conoce a otros nigerianos aquí en Ancona. Son traficantes. Ya sé que hay que llevarse bien con los traficantes, pero también te hace sentirte un poco sola. Es mejor no fiarse de nadie.
+Contar historias es algo que alberga un gran potencial para tender puentes entre las personas, ya que permite crear un vínculo emocional y establecer unas bases comunes a partir de las cuales impulsar la colaboración entre diferentes comunidades. Las historias nos conectan con cuestiones sociales que a menudo nos superan y, al hacer que conectemos con las vivencias de otras personas y sus motivaciones, logran también que adquiramos una visión de dichas problemáticas mucho más completa.
+
+{% questions { "items": [{ "question": "¿Cómo pueden ayudarnos las historias a llevar las experiencias individuales a una dimensión colectiva?" }, { "question": "¿Cómo pueden contribuir a que la gente entienda cómo son las vivencias de los demás?" }, { "question": "¿Pueden servirnos para que las personas cuestionen sus sesgos hacia los demás?" }] } %}
+
+> Para poder abordar estos retos, apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología para CultureLabs, un proyecto en el que llevamos trabajando tres años. CultureLabs crea recursos para desarrollar procesos participativos con diferentes comunidades, aprovechando la riqueza del patrimonio cultural. El proyecto también organizó cuatro proyectos pilotos en diferentes regiones de Europa, cuya metodología de creación conjunta desarrollamos desde Platoniq. (Aquí se puede ver un resumen de la metodología: https://www.youtube.com/watch?v=Wmc7CNAafRM&t=268s).
+
+
+> En el caso concreto del proyecto CultureLabs —un proyecto en el que nos embarcamos junto a otras entidades para desarrollar una metodología que apoyase la creación conjunta de actividades participativas centradas en el patrimonio cultural— el hecho de contar historias fue un instrumento muy potente de cara a cuestionar sesgos, especialmente respecto a las comunidades de migrantes. Nuestro objetivo fue invitar a las demás entidades del proyecto que participaron en nuestro taller a que pensaran cómo sus propias experiencias vitales influyen sobre sus posturas en torno a la participación y el patrimonio cultural. Nuestro objetivo era también visualizar las diferentes vías de la migración, donde los viajes y las historias siguen diferentes rutas, para después poner esos casos en relación con los servicios de apoyo locales.
+
+
+> La escritora de relatos Evelien Vos escribió dos cuentos a partir de las vivencias reales de varias personas migrantes recogidas por COOSS, una organización que participaba en CultureLabs y que trabajaba con diversas comunidades de migrantes que llegaban a Ancona, Italia. El ilustrador Gonzalo Sainz Sotomayor enriqueció los relatos con dos dibujos llenos de fuerza.
+
+
+> Las historias se leyeron en voz alta a quienes participaron en el taller. A continuación, se hizo una dinámica con roles donde se pedía a los participantes que se preguntaran qué podría llevar a los integrantes de las comunidades migrantes a participar y volcarse en los proyectos de CultureLabs. De esta forma se instaba a los participantes a cuestionarse sus sesgos en los procesos de diálogo intercultural y creación conjunta.
+
+{% gallery { "simple": true, "images": [{"path":"/media/articles/heroes/precious.png"}] } %}
+
+### Esta mañana me he despertado otra vez con la pequeña Charissa. Le están saliendo los dientes y llora un montón. Tampoco es un problema, me gustan los bebés. Cuando vi que ya no me iba a poder volver a dormir, salí de la cama y me hice un té. Tiffany también estaba en la cocina, calentando leche. Tenía cara de no haber dormido nada. Es nigeriana como yo y es buena gente, pero no hablamos mucho. Su marido conoce a otros nigerianos aquí en Ancona. Son traficantes. Ya sé que hay que llevarse bien con los traficantes, pero también te hace sentirte un poco sola. Es mejor no fiarse de nadie.
 
 Me asomé por la ventaba de la cocina y parecía que se estaba despejando. El cielo estaba lleno de esos pájaros negros que están por toda la ciudad, y olía a mar. El mar me sigue gustando. Si no tengo cosas que hacer, a veces doy un paseo sola junto al mar y miro los barcos grandes llenos de turistas.
 
