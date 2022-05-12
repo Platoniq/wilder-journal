@@ -5,7 +5,7 @@ category: reports
 date: 2022-04-01T11:25:28.606Z
 date-updated: 2022-05-05T17:28:21.287Z
 article-order: 12
-uid: españa-vacia-incendios
+uid: incendios
 title: La España vaciada y sus incendios
 description: Iniciativas ciudadanas que utilizan el crowdfunding para salvar
   nuestros bosques
@@ -13,11 +13,11 @@ author: Joan Cabot
 interviewee: Editorial Catro Ventos, Proxecto Batego, Fundación Civio
 cover:
   path: /media/articles/heroes/incendio.png
-  thumbnail: /media/articles/thumbnails/incendios_mini.png
+  thumbnail: /media/articles/thumbnails/sticker_incendio.png
   alt: Pintura con árboles quemados
   credits: Stephanie Peters
   caption: Fire Poppies
-  mobile: /media/articles/mobile/incendios_mini.png
+  mobile: /media/articles/mobile/incendio.png
 related_article_uids:
   - arantxa-mendiharat
   - nature-sdg-in-goteo
@@ -28,7 +28,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/incendios_mini.png
+  path: /media/articles/social/incendio.png
   alt: La España vaciada y sus incendios
 ---
 Solía decir mi bisabuela: "A fuego y a boda va la aldea toda". Nunca supe si se refería a que con la chimenea encendida en invierno siempre venía alguna visita a calentarse a casa... o que ante un incendio se activaba la solidaridad comunal para extinguirlo. Quiero creer que se refería a ambas situaciones, pues bien gallega era. De todas ellas hablaremos en este artículo.

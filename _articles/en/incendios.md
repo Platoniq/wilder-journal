@@ -5,18 +5,18 @@ category: reports
 date: 2022-04-01T11:25:28.606Z
 date-updated: 2022-05-05T17:28:21.287Z
 article-order: 12
-uid: españa-vacia-incendios
+uid: incendios
 title: The emptied Spain and its fires
 description: Citizen initiatives that use crowdfunding to save our forests
 author: Joan Cabot
 interviewee: Editorial Catro Ventos, Proxecto Batego, Fundación Civio
 cover:
   path: /media/articles/heroes/incendio.png
-  thumbnail: /media/articles/thumbnails/incendios_mini.png
+  thumbnail: /media/articles/thumbnails/sticker_incendio.png
   alt: Painting with burnt trees
   credits: Stephanie Peters
   caption: Fire Poppies
-  mobile: /media/articles/mobile/incendios_mini.png
+  mobile: /media/articles/mobile/incendio.png
 related_article_uids:
   - arantxa-mendiharat
   - nature-sdg-in-goteo
@@ -29,7 +29,7 @@ stickers:
   sticker_two: null
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/incendios_mini.png
+  path: /media/articles/social/incendio.png
   alt: The emptied Spain and its fires
 ---
 My great grandmother used to say: "The whole village goes to fire and to wedding." I never knew if he meant that with the chimney burning in winter there was always a visit to warm up at home ... or that in a fire community solidarity was activated to extinguish it. I want to believe that he was referring to both situations, well Galician was. We will talk about all of them in this article.
