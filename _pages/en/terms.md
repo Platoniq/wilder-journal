@@ -8,102 +8,99 @@ description: All the terms that you agree to when you read and use Platoniq's
   Wilder Journal.
 call_to_action: cta-contact
 ---
-> To be translated to English
+## LEGAL NOTICE AND REGULATION ON THE USE OF THIS WEBSITE
 
-## AVISO LEGAL Y REGULACIÓN SOBRE EL USO DE ESTE SITIO WEB
+The terms and conditions indicated below regulate the access and use of the website [https://journal.platoniq.net](https://journal.platoniq.net), carried out by FUNDACIÓN PLATONIQ, whose registered office is It is located at Carrer Forn de l'Olivera 22 -07012 Palma (Illes Balears), whose CIF is G577282172, and is validly registered with number 1438 of the State Registry of Foundations.
 
-Los términos y condiciones que a continuación se indican regulan el acceso y el uso del sitio web https://journal.platoniq.net, realizado por FUNDACIÓN GOTEO, cuyo domicilio social se encuentra en Carrer Forn de l’Olivera 22 -07012 Palma (Illes Balears), cuyo CIF es G577282172, y esta validamente registrada con el número 1438 del Regsitro Estatal de Fundaciones.
+- Contact telephone: +34 871 57 15 57 from Monday to Friday from 9 a.m. to 5 p.m.
+- Contact email: [info@goteo.org](mailto:info@goteo.org)
+- Twitter: [https://twitter.com/platoniq](https://twitter.com/platoniq)
+- Instagram: [https://www.instagram.com/platoniqfoundation](https://www.instagram.com/platoniqfoundation)
 
-- Teléfono de contacto: 34 871 57 15 57 de Lunes a Viernes de 9h a 17:00h.
-- E-mail de contacto: info@goteo.org
-- Twitter: https://twitter.com/fundaciongoteo
-- Facebook: https://www.facebook.com/fundaciongoteo
-- Instagram: https://www.instagram.com/fundaciongoteo
+## PURPOSE AND SCOPE OF APPLICATION
 
-## OBJETO Y ÁMBITO DE APLICACIÓN
+These Terms and Conditions –Legal Notice– regulate the access, navigation and use of the website “https://journal.platoniq.net” (the “Website”).
 
-Los presentes Términos y condiciones  –Aviso legal– regulan el acceso, navegación y uso del sitio web  “https://journal.platoniq.net” (el “Sitio Web”).
+It will be understood that the access or mere use of the Website by the user implies the user's adherence to the Terms and Conditions that FUNDACIÓN PLATONIQ has published at each time the Website is accessed. Consequently, the User must carefully read these Terms and Conditions.
 
-Se entenderá que el acceso o la mera utilización del Sitio Web por parte del usuario implica la adhesión de este a los Términos y condiciones que FUNDACIÓN GOTEO tenga publicadas en cada momento en el que acceda al Sitio Web. En consecuencia, el Usuario debe leer atentamente estos Términos y condiciones.
+In this sense, "User" shall be understood as the person who accesses, browses, uses or participates in the services and activities, free or onerous, developed on the Website.
 
-En este sentido, se entenderá por “Usuario” a la persona que acceda, navegue, utilice o participe en los servicios y actividades, gratuitas u onerosas, desarrolladas en el Sitio Web.
+## INTELLECTUAL AND INDUSTRIAL PROPERTY RIGHTS
 
-## DERECHOS DE PROPIEDAD INTELECTUAL E INDUSTRIAL
+PLATONIQ FOUNDATION works under OPEN SOURCE values, using CREATIVE COMMONS licenses.
 
-FUNDACIÓN GOTEO trabaja bajo valores de OPEN SOURCE, empleando las licencias CREATIVE COMMONS.
+## USE OF THE WEBSITE
 
-## UTILIZACIÓN DEL SITIO WEB
+The user agrees to use the website in accordance with the law and with the terms contained in the Terms and Conditions-Legal Notice section. The user also agrees to refrain from using the website for illicit purposes or effects or contrary to what is established in the Terms and Conditions-Legal Notice section.
 
-El usuario se compromete a usar el sitio web de conformidad con la ley y con los términos contenidos en el apartado de Términos y Condiciones-Aviso Legal. El usuario se obliga asimismo a abstenerse de utilizar el sitio web con fines o efectos ilícitos o contrarios a lo establecido en el apartado de Términos y Condiciones-Aviso Legal. 
+The website is governed by Spanish law and by national and international legislation on intellectual and industrial property. The user has a strictly private right of use, exclusively for the purpose of enjoying the benefits of the service and the contents in accordance with the different general conditions. The user undertakes not to circumvent the technological protection measures used by the PLATONIQ FOUNDATION on the website, which he undertakes to respect at all times.
 
-El sitio web se rige por las leyes españolas y por la legislación nacional e internacional sobre propiedad intelectual e industrial. El usuario dispone de un derecho de uso estrictamente privado, exclusivamente con la finalidad de disfrutar de las prestaciones del servicio y los contenidos de acuerdo con las diferentes condiciones generales. El usuario se compromete a no eludir las medidas tecnológicas de protección usadas por FUNDACIÓN GOTEO en el sitio web, las cuales se compromete a respetar en todo momento.
+References to names and trademarks or registered trademarks, logos or other distinctive signs, whether owned by FUNDACIÓN PLATONIQ or third-party companies, implicitly prohibit their use, without the prior, express and written consent of FUNDACIÓN PLATONIQ or its legitimate owners. Access to or use of the website and/or its contents and/or services, at no time, except in advance, expressly and in writing, confer on the user any rights over the brands, logos and/or distinctive signs included therein, protected by law.
 
-Las referencias a nombres y marcas comerciales o registradas, logotipos u otros signos distintivos, ya sean titularidad de FUNDACIÓN GOTEO o de terceras empresas, llevan implícitas la prohibición sobre su uso, sin el consentimiento previo, expreso y por escrito de FUNDACIÓN GOTEO o de sus legítimos propietarios. En ningún momento, salvo manifestación previa, expresa y por escrito, el acceso o uso del sitio web y/o de sus contenidos y/o servicios, confiere al usuario derecho alguno sobre las marcas, logotipos y/o signos distintivos en él incluidos, protegidos por Ley.
+All Intellectual and Industrial Property rights over the contents and/or services are reserved and, in particular, it is forbidden to modify, copy, reproduce, publicly communicate, transform or distribute in any way all or part of the contents and/or services. included in the website, for public or commercial purposes, if you do not have the prior, express and written authorization of the PLATONIQ FOUNDATION or, where appropriate, of the owner of the corresponding rights.
 
-Quedan reservados todos los derechos de Propiedad Intelectual e Industrial sobre los contenidos y/o servicios y, en particular, queda prohibido modificar, copiar, reproducir, comunicar públicamente, transformar o distribuir de cualquier forma la totalidad o parte de los contenidos y/o servicios incluidos en el sitio web, para propósitos públicos o comerciales, si no se cuenta con la autorización previa, expresa y por escrito de FUNDACIÓN GOTEO o, en su caso, del titular de los derechos correspondientes.
+PLATONIQ FOUNDATION is committed to respecting the intellectual and industrial property rights of the owners of rights derived from the content. Thus, if, while using the platform, the user considers that an infringement of their intellectual and industrial property rights or those of third parties is being carried out, please inform the PLATONIQ FOUNDATION of such situation by sending an email to [info@goteo.org](mailto:info@goteo.org)
 
-FUNDACIÓN GOTEO se encuentra comprometida con el respeto a los derechos de propiedad intelectual e industrial de los titulares de derechos derivados de los contenidos. Así, si, durante la utilización de la plataforma, el usuario considera que se está llevando a cabo una infracción de sus derechos de propiedad intelectual e industrial o de los de terceros, le rogamos ponga en conocimiento de FUNDACIÓN GOTEO tal situación enviado un correo a info@goteo.org
+If for the use on the Website, the User should register, he will be responsible for providing truthful and lawful information.
 
-Si para la utilización en el Sitio Web, el Usuario debiera proceder a su registro, éste será responsable de aportar información veraz y lícita. 
+## ACCESS AND SECURITY MEASURES
 
-## MEDIDAS DE ACCESO Y SEGURIDAD
+PLATONIQ FOUNDATION has adopted and will adopt all the technical and organizational security measures that are mandatory, in accordance with the provisions of current legislation and existing quality standards in the sector, in order to guarantee the maximum security and confidentiality of the communications.
 
-FUNDACIÓN GOTEO ha adoptado y adoptará todas las medidas técnicas y organizativas de seguridad que sean de obligación, de conformidad con lo establecido por la legislación vigente y los estándares de calidad existentes en el sector, a fin de garantizar al máximo la seguridad y confidencialidad de las comunicaciones.
+Access to information about the content (including, without limitation, any audiovisual or editorial content) is free.
 
-El acceso a la información sobre los contenidos (incluyendo, sin carácter limitativo, cualquier contenido audiovisual o editorial) tiene carácter gratuito.
+Access and navigation through the website does not require registration, although the user may subscribe to receive the updated content of the website via email.
 
-El acceso y navegación a través del sitio web no requiere registro, si bien el usuario podrá suscribirse a la recepción del contenido actualizado del sitio web vía correo electrónico.
+## LINKS
 
-## ENLACES
+### Links to other websites:
 
-### Enlaces a otros sitios web:
+On the Website, the User may find links to other web pages through different buttons, links, banners, etc., which can be managed by the PLATONIQ FOUNDATION itself or by third parties. PLATONIQ FOUNDATION does not have the power or the human or technical means to know, control or approve all the information, content, products or services provided by other websites to which links are established from the Website. Consequently, FUNDACIÓN PLATONIQ does not assume any type of responsibility for any aspect related to the web page to which a link is established from the Website, specifically, by way of example and not limited to, its operation, access, data, information , files, quality and reliability of its products and services, its own links and/or any of its content, in general.
 
-En el Sitio Web, el Usuario podrá encontrar enlaces a otras páginas web mediante diferentes botones, links, banners, etc., que pueden ser gestionados por la propia FUNDACIÓN GOTEO o por terceras partes. FUNDACIÓN GOTEO no tiene facultad ni medios humanos ni técnicos para conocer, controlar ni aprobar toda la información, contenidos, productos o servicios facilitados por otros sitios web a los que se establecen enlaces desde el Sitio Web. En consecuencia, FUNDACIÓN GOTEO no asume ningún tipo de responsabilidad por cualquier aspecto relativo a la página web a la que se establece un enlace desde el Sitio Web, en concreto, a título enunciativo y no taxativo, sobre su funcionamiento, acceso, datos, información, archivos, calidad y fiabilidad de sus productos y servicios, sus propios enlaces y/o cualquiera de sus contenidos, en general.
+The establishment of any type of link by the Website to another external website does not imply that there is any type of relationship, collaboration or dependency between FUNDACIÓN PLATONIQ and the person in charge of the external website.
 
-El establecimiento de cualquier tipo de enlace por parte del Sitio Web a otro sitio web ajeno no implica que exista algún tipo de relación, colaboración o dependencia entre FUNDACIÓN GOTEO y el responsable del sitio web ajeno.
+### Links on other websites to the Website:
 
-### Enlaces en otros sitios web con destino al Sitio Web:
+On the page that establishes the link, it cannot be declared in any way that the PLATONIQ FOUNDATION has authorized such a link, unless it has been done expressly and in writing. If the entity that makes the link from its page to the Website correctly wishes to include in its web page the brand, denomination, trade name, label, logo, slogan or any other type of identifying element of the Website and/or PLATONIQ FOUNDATION, it must have your express written consent in advance.
 
-En la página que establece el enlace no se podrá declarar de ninguna manera que FUNDACIÓN GOTEO ha autorizado tal enlace, salvo que se haya hecho expresamente y por escrito. Si la entidad que realiza el enlace desde su página al Sitio Web correctamente deseara incluir en su página web la marca, denominación, nombre comercial, rótulo, logotipo, slogan o cualquier otro tipo de elemento identificativo del Sitio Web y/o FUNDACIÓN GOTEO, deberá contar previamente con su autorización expresa y por escrito.
+PLATONIQ FOUNDATION does not authorize the establishment of a link to the Website from those web pages that contain illicit, illegal, degrading, obscene materials, information or content and, in general, that contravene morality, public order or generally accepted social norms. Thus, FUNDACIÓN PLATONIQ does not assume any type of responsibility for any aspect related to the third-party website that establishes that link to the Website, specifically, by way of example and not limitation, regarding its operation, access, data, information, files, quality and reliability of its products and services, its own links and/or any of its content, in general.
 
-FUNDACIÓN GOTEO no autoriza el establecimiento de un enlace al Sitio Web desde aquellas páginas web que contengan materiales, información o contenidos ilícitos, ilegales, degradantes, obscenos y, en general, que contravengan la moral, el orden público o las normas sociales generalmente aceptadas. Así, FUNDACIÓN GOTEO no asume ningún tipo de responsabilidad por cualquier aspecto relativo al sitio web ajeno que establece ese enlace con destino al Sitio Web, en concreto a título enunciativo y no taxativo, sobre su funcionamiento, acceso, datos, información, archivos, calidad y fiabilidad de sus productos y servicios, sus propios enlaces y/o cualquiera de sus contenidos, en general.
+## PRINCIPLES AND RULES OF PARTICIPATION (COMMENTS)
 
-## PRINCIPIOS Y NORMAS DE PARTICIPACIÓN (COMENTARIOS)
+PLATONIQ FOUNDATION wants to encourage user participation through comments on the content published on the website, always under a quality requirement that excludes insults, disqualifications and considerations unrelated to the subject in question. The objective is to offer the user a platform for debate and discussion supported by the following principles
 
-FUNDACIÓN GOTEO quiere favorecer la participación de los usuarios a través de comentarios en los contenidos publicados en el sitio web, siempre bajo una exigencia de calidad que excluye insultos, descalificaciones y consideraciones no relacionadas con el tema en cuestión. El objetivo es ofrecer al usuario una plataforma de debate y discusión amparada por los siguientes principios
+All user comments that contribute to enriching the content and quality of the website and that help us improve are welcome.
 
-Son bienvenidos todos los comentarios de los usuarios que contribuyan a enriquecer el contenido y la calidad del sitio web y que nos ayuden a mejorar.
+The discrepancy, the contrast of opinions and the criticism are basic elements of the debate. Insults, personal attacks, disqualifications or any expression or content that moves away from the correct channels of discussion have no place, whether they are directed against the authors or protagonists of the articles or against other registered users.
 
-La discrepancia, el contraste de pareceres y la crítica son elementos básicos del debate. Los insultos, ataques personales, descalificaciones o cualquier expresión o contenido que se aleje de los cauces correctos de discusión no tienen cabida, ya sean dirigidos contra los autores o protagonistas de los artículos o contra otros usuarios registrados.
+We reject insulting, xenophobic, racist, homophobic, defamatory or any other opinion that is considered unacceptable.
 
-Rechazamos opiniones insultantes, xenófobas, racistas, homófobas, difamatorias o de cualquier otra índole que se consideren inaceptables.
+The editorial direction will decide which contents are open to comments. This selection will be made with informative value criteria and whenever it is possible to manage quality moderation. The list of contents open to comments aspires to be as broad as possible and to be constantly updated.
 
-La dirección editorial decidirá qué contenidos se abren a comentarios. Esta selección se hará con criterios de valor informativo y siempre que resulte posible gestionar una moderación de calidad. La lista de contenidos abierta a comentarios aspira a ser lo más amplia posible y a estar en permanente actualización.
+Advertising messages or on issues unrelated to the subject of the article in question will be rejected.
 
-Los mensajes publicitarios o sobre cuestiones no relacionadas con el tema del artículo en cuestión serán rechazados.
+PLATONIQ FOUNDATION reserves the right to eliminate, without prior notice, comments that may be considered inappropriate. Each user is solely legally responsible for their interventions through the participation spaces and, consequently, to exercise the legal actions they deem appropriate.
 
-FUNDACIÓN GOTEO se reserva el derecho de eliminar, sin previo aviso, comentarios que puedan considerarse inadecuados. Cada usuario es el único responsable legal de sus intervenciones a través de los espacios de participación y, en consecuencia, a ejercitar las acciones legales que considere oportunas.
+## WEBSITE ACCESS CONDITIONS
 
-## CONDICIONES DEL ACCESO DEL SITIO WEB
+Access to and consultation of the Website is free and free of charge, and user registration is not necessary.
 
-El acceso y consulta al Sitio Web tiene carácter libre y gratuito, no siendo necesario el registro de los usuarios. 
+Similarly, in order to start the contracting process for the Services displayed on the Website, it is essential that users register.
 
-Del mismo modo, para poder iniciar el proceso de contratación de los Servicios expuestos en el Sitio Web, es esencial que los usuarios se registren.
+## CANCELLATION OF THE SUBSCRIPTION TO THE NEWSLETTER
 
-## CANCELACIÓN DE LA SUSCRIPCIÓN A LA NEWSLETTER
+The user may proceed to unilaterally cancel the subscription at any time during its term. To unsubscribe, the user must send an email to [info@goteo.org](mailto:info@goteo.org) indicating their wish to stop receiving the newsletter.
 
-El usuario podrá proceder a cancelar unilateralmente la suscripción en cualquier momento durante la vigencia de la misma. Para darse de baja de la suscripción, el usuario deberá envioar un correo a [info@goteo.org](mailto:info@goteo.org) indicando su voluntad de dejar de recibir la newsletter.
+In any case, once the subscription has been cancelled, the user may request a new registration.
 
-En cualquier caso, una vez efectuada la cancelación de la suscripción, el usuario podrá solicitar una nueva alta.
+## RESPONSIBILITIES AND RELEASE OF LIABILITY
 
-## RESPONSABILIDADES Y EXONERACIÓN DE RESPONSABILIDADES
+PLATONIQ FOUNDATION maintains all efforts possible to guarantee the reliability, usefulness or veracity of the information that is made through the website. In this sense, FUNDACIÓN PLATONIQ declares that it has adopted all the necessary measures, within its possibilities and the state of technology, to guarantee the operation of the website and avoid the existence and transmission of viruses and other harmful components to users.
 
-FUNDACIÓN GOTEO mantiene todos los esfuerzos posibles para garantizar la fiabilidad, utilidad o veracidad de la información que se realice a través del sitio web. En este sentido, FUNDACIÓN GOTEO declara que ha adoptado todas las medidas necesarias, dentro de sus posibilidades y del estado de la tecnología, para garantizar el funcionamiento del sitio web y evitar la existencia y transmisión de virus y demás componentes dañinos a los usuarios.
+PLATONIQ FOUNDATION cannot guarantee the technical continuity of the website, the absence of service failures or interruptions, or that the website is available or accessible without interruption.
 
-FUNDACIÓN GOTEO no puede garantizar la continuidad técnica de la web, la ausencia de fallos o interrupciones del servicio ni que la web esté disponible o accesible ininterrumpidamente. 
+Notwithstanding the foregoing, FUNDACIÓN PLATONIQ will make its best efforts and whatever actions are in its power to ensure the continued provision of the service or, where appropriate, its reestablishment as soon as possible. Thus, the PLATONIQ FOUNDATION will carry out maintenance and updates on a regular basis.
 
-No obstante lo anterior, FUNDACIÓN GOTEO realizará sus mejores esfuerzos y cuantas acciones estén en su mano para velar por la prestación continuada del servicio o, en su caso, el restablecimiento del mismo a la mayor brevedad posible. Así, FUNDACIÓN GOTEO llevará a cabo las labores de mantenimiento y actualizaciones de manera periódica.
+## JURISDICTION AND COURTS
 
-## JURISDICCIÓN Y TRIBUNALES
-
-Las relaciones establecidas entre FUNDACIÓN GOTEO y el Usuario se regirán por lo dispuesto en la normativa vigente acerca de la legislación aplicable y la jurisdicción competente, sometiéndose a los Juzgados de Barcelona.
+The relationships established between the PLATONIQ FOUNDATION and the User will be governed by the provisions of the current regulations regarding the applicable legislation and the competent jurisdiction, submitting to the Courts of Barcelona.
