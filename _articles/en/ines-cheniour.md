@@ -3,18 +3,25 @@ layout: article
 volume-uid: wilder-journal-1
 category: interviews
 date: 2022-04-01T08:57:15.117Z
+date-updated: 2022-05-12T15:30:18.627Z
 article-order: 2
 uid: ines-cheniour
-title: Ines Cheniour
-description: "# TODO"
+title: It is key to find the right balance between the rules and giving the
+  flexibility to playing around and have fun
+description: Ines Cheniour is a Tunisian consultant in design thinking and
+  communication strategy. She is the founder of COMMITT consulting and has
+  worked with NGOs like British Council, UNDP, GIZ and many other local social
+  initiatives. Using design thinking tools, Ines integrates the human element in
+  all the projects she undertakes. Her main work focuses on helping youth and
+  women to develop their self leadership and social leadership skills.
 author: Chiara Rutolo & Elena Silvestrini
 interviewee: Ines Cheniour
 cover:
   path: /media/articles/heroes/ines.jpg
   mobile: /media/articles/mobile/ines.jpg
   thumbnail: /media/articles/thumbnails/ines.jpg
-  alt: "Ines Cheniour"
-  credits: "Ines Cheniour"
+  alt: Ines Cheniour
+  credits: Ines Cheniour
   caption: "# TODO"
 stickers:
   layout: layout-none
