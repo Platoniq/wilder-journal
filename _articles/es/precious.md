@@ -7,7 +7,14 @@ date-updated: 2022-05-12T10:21:21.974Z
 article-order: 20
 uid: precious
 title: Precious
-description: "# TODO"
+description: Esta mañana me he despertado otra vez con la pequeña Charissa. Le
+  están saliendo los dientes y llora un montón. Tampoco es un problema, me
+  gustan los bebés. Cuando vi que ya no me iba a poder volver a dormir, salí de
+  la cama y me hice un té. Tiffany también estaba en la cocina, calentando
+  leche. Tenía cara de no haber dormido nada. Es nigeriana como yo y es buena
+  gente, pero no hablamos mucho. Su marido conoce a otros nigerianos aquí en
+  Ancona. Son traficantes. Ya sé que hay que llevarse bien con los traficantes,
+  pero también te hace sentirte un poco sola. Es mejor no fiarse de nadie.
 author: Elena Silvestrini
 cover:
   path: /media/articles/heroes/precious.png
