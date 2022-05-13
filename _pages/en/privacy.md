@@ -3,66 +3,44 @@ title: Privacy Policy
 layout: page
 uid: privacy
 locale: en
-published: false
+published: true
+description: Privacy Policy
+call_to_action: cta-contact
 ---
+In accordance with Regulation (EU) 2016/679 of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on its the free movement, plus the stated in the Royal Decree 1720/2007, of 21 December, approving the Regulations for the development of Organic Law 15/1999, of 13 December on the Protection of Personal Data, FUNDACIÓN PLATONIQ informs its users who, by accepting this Privacy Policy, give free and unequivocal consent for the personal data he provides to be processed by the Owner of the same in accordance with the purposes indicated below in the present privacy policy.
 
-# Kitchen sink en ESPAÑOL
+### RESPONSIBLE AND OWNER OF THE DATA
 
-This is a demo of all styled elements in Jekyll Now. 
+Holder: **FUNDACIÓN PLATONIQ**
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+Registered office: Carrer Forn de l’Olivera, 22-07012, Palma de Mallorca, Islas Baleares
 
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
+CIF: G-57728172
 
-## Header 2 (H1 is reserved for post titles)##
+Public Registry: Register of Foundations of State Competition with the number 1438 EDU
 
-### Header 3
+E-mail: [info@goteo.org](mailto:info@goteo.org)
 
-#### Header 4
- 
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A literal link <http://github.com/barryclark/jekyll-now/>
-  
-An image, located within `/media`
+### INFORMATION AND PERSONAL DATA WE PROCESS
 
-![an image alt text]({{ site.baseurl }}/media/logo-platoniq_xxss.jpg "an image title") 
+PLATONIQ FOUNDATION will process the data requested and, in any case, those that are indicated as mandatory in the web forms enabled for subscribing to the newsletter.
 
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
+The data collected is: name and email.
 
-1. An
-2. ordered
-3. list
+### PURPOSE OF THE DATA PROCESSED
 
-Inline markup styles: 
+\-If you have signed up for the newsletter, the data stored is for sending it.
 
-- _italics_
-- **bold**
-- `code()` 
- 
-> Blockquote
->> Nested Blockquote 
- 
-Syntax highlighting can be used by wrapping your code in a liquid tag like so:
+The data will also be processed in order to comply with the obligations generated (resolution of incidents, customer service, security issues, etc.).
 
-{{ "{% highlight javascript " }}%}  
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-{{ "{% endhighlight " }}%}  
+The legitimacy of the treatment is based on the consent of the data subject or on the pre-contractual or contractual relationship and, in certain cases, for the legitimate interest, arising from, for example, security reasons.
 
-creates...
+The nature and services provided by PLATONIQ FOUNDATION do not require the appointment of a Data Protection Officer for the management of personal data processing. In any case, the data obtained will be kept as long as it is necessary to manage the relationship, to prove responsibility or as long as it is registered. You may exercise your rights of access, limitation, portability, complaint to the Spanish Data Protection Authority, deletion or forgetfulness, rectification, cancellation and opposition to the processing of data or receipt of e-mailing in the e-mail info@goteo.org or at the address located at Carrer Forn de l'Olivera 22-07012 Palma (Balearic Islands).
 
-{% highlight javascript %}
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-{% endhighlight %}
- 
-Use two trailing spaces  
-on the right  
-to create linebreak tags  
- 
-Finally, horizontal lines
- 
-----
-****
+Your data will be retained as long as it is necessary to manage the relationship or as long as you are registered.
+
+The recipient of the data is PLATONIQ FOUNDATION. We have third party providers (such as hosting, e-mailing, etc.) who are in charge of processing. Browsing habits are regulated through the Cookies Policy.
+
+The user guarantees that the data provided is true, accurate, complete and up to date. In order for the data contained in our files, computer and / or paper, always correspond to reality, we will try to keep up to date, so that, for this purpose, the User must make the changes, directly , when so authorized or communicated, by reliable means, in the corresponding area or department.
+
+In order to safeguard the security of your personal data, we inform you that the Company has taken all necessary technical and organizational measures to ensure the computer security of the personal data provided.
