@@ -1,27 +1,25 @@
 GIT
-  remote: https://github.com/Platoniq/jekyll-plugin-platoniq-journal.git
-  revision: ebfc18a98696ac913b4d1712634713cea9cfe1b3
+  remote: https://github.com/Platoniq/jekyll_custom_permalink.git
+  revision: 89100593834e5cb2243a6eb8e82bfa9ee4c16ae3
+  specs:
+    jekyll_custom_permalink (0.0.2)
+
+PATH
+  remote: ../jekyll-plugin-platoniq-journal
   specs:
     jekyll-plugin-platoniq-journal (0.0.22)
       jekyll (~> 4.2)
       kramdown (~> 2.3)
 
-GIT
-  remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: d5e2f256b54cbe3fff068abf633337e05ddf0138
+PATH
+  remote: ../jekyll-theme-platoniq-journal
   specs:
-    jekyll-theme-platoniq-journal (0.0.92)
+    jekyll-theme-platoniq-journal (0.0.93)
       jekyll (~> 4.2)
       jekyll-data (~> 1.1.1)
       jekyll-plugin-platoniq-journal (~> 0.0.1)
       jekyll-seo-tag (~> 2.6)
       jekyll_version_plugin (~> 2.0.0)
-
-GIT
-  remote: https://github.com/Platoniq/jekyll_custom_permalink.git
-  revision: 89100593834e5cb2243a6eb8e82bfa9ee4c16ae3
-  specs:
-    jekyll_custom_permalink (0.0.2)
 
 GEM
   remote: https://rubygems.org/
