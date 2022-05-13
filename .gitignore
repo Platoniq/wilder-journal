@@ -4,4 +4,10 @@ _site
 .jekyll-metadata
 vendor
 build
-.byebug_history
+
+# Functions
+.env
+
+node_modules
+# Local Netlify folder
+.netlify

@@ -5,10 +5,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # "/journal-content" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://journal.platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
+analytics_id: G-0N0TWKN871
 
 repository: "https://github.com/Platoniq/journal-content"
-logo: media/logo-platoniq_xxss.jpg
+logo: media/logo-platoniq_xxss.png
 twitter:
   username: platoniq
   card: summary_large_image
@@ -26,8 +27,8 @@ collections:
     output: true
     custom_permalink_placeholders: ["locale", "volume-uid", "category","uid"]
     permalink: /:locale/:volume-uid/:category/:uid/
-  authors:
-    output: false
+  # authors:
+  #   output: false
   call_to_actions:
     output: false
   volumes:
@@ -51,7 +52,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      locale: en
+      locale: es
   - scope:
       path: "*/en/*"
     values:
@@ -64,26 +65,22 @@ defaults:
       type: volumes
     values:
       layout: "journal"
-      author: "platoniq"
-  - scope:
-      type: authors
-    values:
-      layout: "author"
+      author: "Platoniq"
   - scope:
       type: articles
     values:
       layout: "article"
-      author: "anonymous"
+      author: "Platoniq"
   - scope:
       type: sticker_packs
     values:
       layout: "sticker_pack"
-      author: "anonymous"
+      author: "Platoniq"
   - scope:
       type: pages
     values:
       layout: "page"
-      author: "platoniq"
+      author: "Platoniq"
   - scope:
       path: "media"
     values:
@@ -95,6 +92,7 @@ exclude: [Gemfile, Gemfile.lock, README.md, LICENSE.txt, .editorconfig]
 # Plugins
 plugins:
   - jekyll-target-blank
+  - jekyll-loading-lazy
 
 target-blank:
   add_css_classes: link-external

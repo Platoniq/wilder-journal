@@ -23,8 +23,11 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-youtube"
   gem "jekyll-redirect-from"
-  gem "jekyll-target-blank"
+  gem 'jekyll-target-blank'
   gem "jekyll_custom_permalink", git: "https://github.com/Platoniq/jekyll_custom_permalink.git"
+  gem 'jekyll-loading-lazy'
 end
 
 gem "webrick"
+
+gem "mini_magick", "~> 4.11"
