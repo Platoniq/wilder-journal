@@ -3,18 +3,27 @@ layout: article
 volume-uid: wilder-journal-1
 category: interviews
 date: 2022-04-01T08:57:15.117Z
+date-updated: 2022-05-12T15:30:18.627Z
 article-order: 2
 uid: ines-cheniour
-title: Ines Cheniour
-description: "# TODO"
+title: Es fundamental encontrar el equilibrio idóneo entre las normas y la
+  flexibilidad para jugar y divertirse
+description: Ines Cheniour es una asesora en materia de *design thinking* y
+  estrategias de comunicación tunecina. Es la fundadora de COMMITT Consulting y
+  ha trabajado con ONG, organizaciones internacionales como el British Council,
+  el PNUD, la GIZ, y muchas otras iniciativas sociales locales. Ines integra el
+  elemento humano en todos los proyectos que desarrolla a partir de las
+  herramientas basadas en el *design thinking*. Su principal labor consiste en
+  ayudar a mujeres y jóvenes a desarrollar su autoliderazgo y su capacidad de
+  liderazgo social.
 author: Chiara Rutolo & Elena Silvestrini
 interviewee: Ines Cheniour
 cover:
   path: /media/articles/heroes/ines.jpg
   mobile: /media/articles/mobile/ines.jpg
   thumbnail: /media/articles/thumbnails/ines.jpg
-  alt: "Ines Cheniour"
-  credits: "Ines Cheniour"
+  alt: Ines Cheniour
+  credits: Ines Cheniour
   caption: "# TODO"
 stickers:
   layout: layout-none
