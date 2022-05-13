@@ -1,0 +1,11 @@
+[[plugins]]
+ # Installs the Image Optim plugin for all deploy contexts
+ package = "netlify-plugin-image-optim"
+[functions]
+  # Directory with serverless functions, including background 
+  # functions, to deploy. This is relative to the base directory
+  # if one has been set, or the root directory if
+  # a base hasn’t been set.
+  directory = "netlify/functions/"
+   # Includes all files inside the "emails/" directory.
+  included_files = ["emails/**"]
