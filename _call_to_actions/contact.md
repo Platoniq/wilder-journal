@@ -1,14 +1,15 @@
 ---
 uid: cta-contact
 en:
-  title: Contact us
-  content: "Fill in the form to contact us:"
+  title: Let's be awesome together!
+  content: We'd love to meet you and our knowledgeable staff will be happy to
+    answer any of your questions. Contact us!
   button:
     label: Send
   image:
-    path: /assets/media/no_image-cta.png
+    path: /media/stickers/wilder-journal-1/sticker9.png
     alt: Alt text contact en
-  form_fields: > 
+  form_fields: |
     <fieldset class="pj-cta-contact">
       <label for="name">Name</label>
       <input type="text" name="name" />
@@ -18,14 +19,15 @@ en:
       <textarea name="message"></textarea>
     </fieldset>
 es:
-  title: Contacta con nosotras
-  content: "Rellena el formulario para contactar:"
+  title: ¡Colaboremos!
+  content: Nos encantaría conocerte y nuestro personal experto estará encantado de
+    responder a todas tus preguntas. ¡Contáctanos!
   button:
     label: Enviar
   image:
-    path: /assets/media/no_image-cta.png
+    path: /media/stickers/wilder-journal-1/sticker9.png
     alt: Alt text contact es
-  form_fields: >
+  form_fields: |
     <fieldset class="pj-cta-contact">
       <label for="name">Nombre</label>
       <input type="text" name="name" />
