@@ -7,7 +7,10 @@ date-updated: 2022-05-12T10:21:21.974Z
 article-order: 20
 uid: ahmed
 title: Ahmed
-description: "# TODO"
+description: When I arrived in Ancona everything was cold. The room where I had
+  to wait was windy and my jacket was still wet. I thought I was prepared. Back
+  in Somalia I had read everything about the journey, everything but not too
+  much, because my wife kept telling me to stop it.
 author: Elena Silvestrini
 cover:
   path: /media/articles/heroes/ahmed.png

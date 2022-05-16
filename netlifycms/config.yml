@@ -6,7 +6,7 @@ permalink: cms/config.yml
 
 backend:
   name: git-gateway
-  repo: Platoniq/journal-content
+  repo: Platoniq/wilder-journal
   branch: main
 i18n:
   default_locale: es
