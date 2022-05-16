@@ -1,6 +1,6 @@
 # Platoniq Journal
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/795f1c5d-b211-40d6-9ff6-4d45cbf662ca/deploy-status)](https://app.netlify.com/sites/next-wilder-journal/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/795f1c5d-b211-40d6-9ff6-4d45cbf662ca/deploy-status)](https://app.netlify.com/sites/wilder-journal/deploys)
 
 ## Development
 
@@ -57,10 +57,10 @@ Example contact form payload:
       "message": "El nombre del mundo es Bosque",
       "lang": "es",
       "page_uid": "about",
-      "site_url": "https://next.journal.platoniq.net",
+      "site_url": "https://journal.platoniq.net",
       "ip": "79.154.77.88",
       "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:99.0) Gecko/20100101 Firefox/99.0",
-      "referrer": "https://next.journal.platoniq.net/en/about/"
+      "referrer": "https://journal.platoniq.net/en/about/"
     },
     "created_at": "2022-05-10T11:57:44.515Z",
     "human_fields": {
@@ -69,7 +69,7 @@ Example contact form payload:
       "Message": "El nombre del mundo es Bosque",
       "Lang": "es",
       "Page Uid": "about",
-      "Site Url": "https://next.journal.platoniq.net"
+      "Site Url": "https://journal.platoniq.net"
     },
     "ordered_human_fields": [
       { "title": "Name", "name": "name", "value": "Ursula K. Le Guin" },
@@ -77,11 +77,11 @@ Example contact form payload:
       { "title": "Message", "name": "message", "value": "El nombre del mundo es Bosque" },
       { "title": "Lang", "name": "lang", "value": "en" },
       { "title": "Page Uid", "name": "page_uid", "value": "about" },
-      { "title": "Site Url", "name": "site_url", "value": "https://next.journal.platoniq.net" }
+      { "title": "Site Url", "name": "site_url", "value": "https://journal.platoniq.net" }
     ],
     "id": "627a533894a7dd09dd3e0abf",
     "form_id": "62179ae05b6c0b000808de23",
-    "site_url": "https://next.journal.platoniq.net",
+    "site_url": "https://journal.platoniq.net",
     "form_name": "contact"
   }
 ```
