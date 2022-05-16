@@ -7,8 +7,8 @@
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.7"
   },
-  "name": "wilder-journal-next",
-  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/795f1c5d-b211-40d6-9ff6-4d45cbf662ca/deploy-status)](https://app.netlify.com/sites/next-wilder-journal/deploys)",
+  "name": "wilder-journal",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/795f1c5d-b211-40d6-9ff6-4d45cbf662ca/deploy-status)](https://app.netlify.com/sites/wilder-journal-production/deploys)",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Platoniq/wilder-journal-next.git"
+    "url": "git+https://github.com/Platoniq/wilder-journal.git"
   },
   "author": "Platoniq Foundation",
   "license": "CC BY-SA 4.0",
   "bugs": {
-    "url": "https://github.com/Platoniq/wilder-journal-next/issues"
+    "url": "https://github.com/Platoniq/wilder-journal/issues"
   },
-  "homepage": "https://github.com/Platoniq/wilder-journal-next#readme"
+  "homepage": "https://github.com/Platoniq/wilder-journal#readme"
 }

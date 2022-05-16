@@ -7,7 +7,11 @@ date-updated: 2022-05-12T10:21:21.974Z
 article-order: 20
 uid: precious
 title: Precious
-description: "# TODO"
+description: This morning I woke up with the sound of little Charissa again.
+  She’s getting teeth and she is crying a lot. It’s not a problem. I like
+  babies. When I knew I couldn’t sleep anymore, I got out of bed and made myself
+  a tea. Tiffany was in the kitchen as well, warming milk. She looked like she
+  didn’t sleep at all.
 author: Elena Silvestrini
 cover:
   path: /media/articles/heroes/precious.png

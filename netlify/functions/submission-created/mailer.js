@@ -77,11 +77,12 @@ const send = async function(email, payload) {
 
   const config = {
     locals: _.merge({
-      locale: payload.data.lang,
       assets,
+      locale: payload.data.lang,
+      payload: payload,
       site_url: payload.site_url,
       $t
-    }, payload, globalVariables)
+    }, globalVariables)
   };
 
   switch (payload.form_name) {
