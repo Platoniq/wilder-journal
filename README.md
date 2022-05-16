@@ -114,4 +114,8 @@ All other directories and files are available as open source under the terms of 
 
 ## Credits
 
-This site has been developed by ![Platoniq](https://avatars.githubusercontent.com/u/31537393?s=200&v=4)
+This site has been developed by
+
+<img src="media/logo-platoniq_xxss.png" title="Platoniq Foundation" alt="Platoniq Foundation" height=100px/>
+
+
