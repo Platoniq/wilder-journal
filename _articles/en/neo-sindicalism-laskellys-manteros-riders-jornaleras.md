@@ -6,7 +6,7 @@ date: 2022-04-01T15:14:30.165Z
 date-updated: 2022-05-05T17:42:40.961Z
 article-order: 16
 uid: neo-sindicalism-laskellys-manteros-riders-jornaleras
-title: Welcome to the neo-syndicalism of Las Kellys, Jornaleras, Manteros, Mensakas...
+title: Welcome to the neo-syndicalism of Las Kellys, Jornaleras, Manteros, Mensakas…
 description: New modes of union organization to deal with high temporality,
   cultural differences and the fragmentation of the workforce
 author: Joan Cabot

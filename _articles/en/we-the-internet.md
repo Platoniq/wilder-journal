@@ -20,7 +20,7 @@ call_to_action: cta-contact
 image:
   path: /assets/media/no_image-social_media.png
 ---
-You're having coffee with your group of friends and you say that you've been having back pain lately, that maybe it's time to change your mattress. You get home, spend some time in social media and... mattress ads appear. **Has it happened to you?**
+You're having coffee with your group of friends and you say that you've been having back pain lately, that maybe it's time to change your mattress. You get home, spend some time in social media and… mattress ads appear. **Has it happened to you?**
 
 It seems that the **internet** (or rather, the big internet companies) **know everything about you**. They **collect all our data** and we never know for sure what they do with it. The **big tech companies** are the ones who possess our personal and private information and can do with it whatever they want. Given this enormous and dangerous **concentration of power**, isn't it fair and necessary for citizens to make use of their **right to information** and be able to know, **debate** and **decide** on these issues?
 
@@ -38,7 +38,7 @@ You can read it [here](https://es.scribd.com/document/573096337/WTI-report-EN-v1
 
 This dialogue has allowed us to visibilize that citizens perceive the **Internet** as an opportunity for entertainment and social interaction, as well as a source for economic or commercial development. However, they also perceive it as a **threat** because it compromises their privacy and is not considered a safe space.
 
-{% gallery { "simple": false, "images": [{"path":"/media/we-the-internet_3.png", "caption": "To you, the Internet is... (Both a threat and an opportunity, more of an opportunity than a threat, more of a threat than an opportunity, neither an opportunity nor a threat)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/we-the-internet_3.png", "caption": "To you, the Internet is… (Both a threat and an opportunity, more of an opportunity than a threat, more of a threat than an opportunity, neither an opportunity nor a threat)"}] } %}
 
 The participant group has strong **hopes and fears** for the **future of the Internet**. They want the Internet in **2040** to be more **democratic, inclusive, accessible** and for digital developments to serve the greater **good of humanity**. They want to avoid the Internet becoming so important that it leads to health problems, tremendous unemployment, environmental problems, loss of social interactions, online abuse or cyber attacks. To achieve this **desirable future** and avoid ending up in these fears, the key is a robust **Internet governance system**. Citizens strongly support a global, multi-stakeholder approach as the way forward for **the Internet and its governance**. In this scenario, **citizen deliberation** is seen as a crucial instrument.
 

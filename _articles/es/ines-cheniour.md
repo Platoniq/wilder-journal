@@ -46,7 +46,7 @@ Me di cuenta de que la metodología del *design thinking*, algo que había apren
 
 En el año 2015 empecé a trabajar en mi propia empresa, Committ.
 
-### Entonces, si lo he entendido bien, tu objetivo al principio eran las personas jóvenes...
+### Entonces, si lo he entendido bien, tu objetivo al principio eran las personas jóvenes…
 
 Sí, organizaciones juveniles de la sociedad civil. Pero nuestro objetivo ha cambiado mucho desde el principio: en el periodo entre 2015 y 2018 trabajamos con el PNUD y varias ONG, luego la industria y el mundo corporativo empezaron a pedirnos formación en *design thinking*… Al principio me resistí, pero después de un tiempo pensé: «¿Por qué no?» Así que a finales del año 2018 organizamos nuestra primera formación corporativa. En la actualidad mi equipo y yo trabajamos con:
 
