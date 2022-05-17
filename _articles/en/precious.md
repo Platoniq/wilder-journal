@@ -7,11 +7,13 @@ date-updated: 2022-05-12T10:21:21.974Z
 article-order: 20
 uid: precious
 title: Precious
-description: This morning I woke up with the sound of little Charissa again.
-  She’s getting teeth and she is crying a lot. It’s not a problem. I like
-  babies. When I knew I couldn’t sleep anymore, I got out of bed and made myself
-  a tea. Tiffany was in the kitchen as well, warming milk. She looked like she
-  didn’t sleep at all.
+description: When I knew I couldn’t sleep anymore, I got out of bed
+  and made myself a tea. Tiffany was in the kitchen as well, warming
+  milk. She looked like she didn’t sleep at all. She’s Nigerian
+  too and she is nice, but we don’t speak a lot. Her husband knows
+  some other Nigerian men in Ancona. Traffickers. You have to be
+  friends with the traffickers, I know, but it makes you a little
+  lonely. Better not to trust anyone.
 author: Elena Silvestrini
 cover:
   path: /media/articles/heroes/precious.png
@@ -31,25 +33,9 @@ image:
   path: /media/articles/social/precious.png
   alt: "# TODO"
 ---
-Storytelling is a powerful bridge to connecting people. Stories can create emotional connection and common ground for collaboration between different people and communities. Stories connect us to social issues that are bigger than us, providing us with a deeper and more nuanced understanding, allowing us to connect with other people’s lived experiences and motivations. 
+This morning I woke up with the sound of little Charissa again. She’s getting teeth and she is crying a lot. It’s not a problem. I like babies. When I knew I couldn’t sleep anymore, I got out of bed and made myself a tea. 
 
-{% questions { "items": [{ "question": "How can stories help connect individual experiences to a collective dimension?" }, { "question": "How can they help people come closer to understanding how other people’s lived experiences are like?" }, { "question": "Can stories support people in questioning their biases towards others?" }] } %}
-
-> In order to approach these challenges, we have invested in storytelling as a key element of the methodology we have designed for CultureLabs - a project we have participated in for the last three years. CultureLabs creates resources for developing participatory processes with different communities, using the power of cultural heritage. The project also organised 4 pilot programmes in different parts of Europe, for which Platoniq has designed the co-creation methodology. (An overview of the methodology can be found [in this video](https://www.youtube.com/watch?v=Wmc7CNAafRM&t=268s)).
-
-
-> In the specific case of the CultureLabs project - as we embarked together with the project partners on developing a methodology that could support the co-creation of cultural heritage centered participatory activities - stories and storytelling were a powerful instrument for questioning biases especially towards migrant communities. Our goal was to invite project partners who participated in our workshop to consider how their lived experiences influence their positions and view on the topics of participation and cultural heritage. Our objective was also visualizing different ways of migration, whose journeys and stories follow different paths, and relating both particular cases to the support services in the territory. 
-
-
-> The professional storyteller Evelien Vos wrote two stories from a collection of real life experiences of migrants compiled by COOSS, an organisation participating at the CultureLabs and working with different migrant communities arriving in Ancona, Italy. The illustrator Gonzalo Sainz Sotomayor enriched the storytelling by adding two powerful drawings.
-
-
-> The stories have been read out loud to workshop participants before participating in a dynamic role play, challenging participants to ask themselves why would members of the different migrant communities engage and spend energies in the CultureLabs projects, inviting partners to question their biases in intercultural dialogue and in co-creation processes. 
-
-{% gallery { "simple": true, "images": [{"path":"/media/articles/heroes/precious.png"}] } %}
-
-### This morning I woke up with the sound of little Charissa again. She’s getting teeth and she is crying a lot. It’s not a problem. I like babies. When I knew I couldn’t sleep anymore, I got out of bed and made myself a tea. Tiffany was in the kitchen as well, warming milk. She looked like she didn’t sleep at all.
-She’s Nigerian too and she is nice, but we don’t speak a lot. Her husband knows some other Nigerian men in Ancona. Traffickers. You have to be friends with the traffickers, I know, but it makes you a little lonely. Better not to trust anyone.
+Tiffany was in the kitchen as well, warming milk. She looked like she didn’t sleep at all. She’s Nigerian too and she is nice, but we don’t speak a lot. Her husband knows some other Nigerian men in Ancona. Traffickers. You have to be friends with the traffickers, I know, but it makes you a little lonely. Better not to trust anyone.
  
 I hang out of the kitchen window and it seemed to become a nice day. The sky was full of those little black birds that are everywhere in the city and you could smell the sea. I still like the sea. Sometimes I walk by the coast on my own and look at the big boats with tourists, if I don’t have work to do.
  
