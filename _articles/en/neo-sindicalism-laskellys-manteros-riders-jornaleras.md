@@ -14,10 +14,10 @@ interviewee: ""
 cover:
   path: /media/articles/heroes/neosindicalism.png
   thumbnail: /media/articles/thumbnails/neo-sindicalism-mini.png
+  mobile: /media/articles/mobile/unionism.png
   alt: NeoSindicalism
   credits: .
   caption: NeoSindicalism
-  mobile: /media/articles/mobile/unionism.png
 related_article_uids:
   - arantxa-mendiharat
   - recovering-collaborative-governance-through-design-justice
@@ -30,7 +30,7 @@ stickers:
   sticker_two: /media/stickers/wilder-journal-1/sticker12.png
 call_to_action: cta-donate
 image:
-  path: https://i.imgur.com/sLyxgSS.png
+  path: /media/articles/social/neosindicalism.jpg
   alt: Las Kellys
 ---
 Not all citizens have the previously right and now the privilege of an indefinite contract in a company that complies with labor rights and under the timely defense of a union, guild or association. In fact, the life of many workers has worsened in Spain in a few years with the liberalization of dismissal, the decentralization of collective bargaining and the erosion of the political representation system during the economic recession.
@@ -39,7 +39,7 @@ In this article we look back to understand how the traditional models of union o
 
 ## First of all, who are Las Kellys?
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/sj3dH73.jpg","alt":"Las Kellys","caption":"Las Kellys","credits":"Las Kellys"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_1.jpg","alt":"Las Kellys","caption":"Las Kellys","credits":"Las Kellys"}] } %}
 
 Las Kellys are the chambermaids affected by outsourcing processes who have temporary contracts or whose working conditions have deteriorated or have never been in accordance with the conditions established in the agreement. Most of them do not belong to the central staff of the hotels, and in any case the most common is that they have temporary contracts of 3 or 6 months, which are almost never renewed.
 
@@ -47,7 +47,7 @@ Working side by side with them are the chambermaids who have not suffered this d
 
 ## Okay, remind me what a union is for
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/hyX91RS.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_2.jpg"}] } %}
 
 Unions are associations made up of female workers in defense and promotion of their labor interests, before the person who employs them and with whom they are related by contract. In Spain, the CCOO is the first force and the UGT the second, holding between the two unions the hegemony of representation with 75% of the total delegates. With the labor reforms of 1994, 1997, 2010 and 2012, a process of decentralization of collective bargaining was carried out that generated a considerable reduction in their bargaining power, facilitating the reduction of wage costs with greater flexibility in hiring and dismissal.
 
@@ -59,9 +59,9 @@ This temporality is a source of insecurity, both personal, social and monetary, 
 
 With outsourcing, the company subcontracts central positions of its activity in various companies, lowering costs and controlling the labor conflict tending to differentiate the jobs. With these reforms, each worker can have different conditions and unitary collective bargaining is made more difficult by limiting the effectiveness of sectoral agreements. By breaking with the scenario where people live in relatively similar conditions and have common collective experiences through their job, work identity is fragmented, as we have already seen in the case of chambermaids.
 
-## The Phantom Union Delegation 👻
+## The Phantom Union Delegation
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/xFevzy2.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_3.png"}] } %}
 
 Do you have a "union person" who ignores you? Unfortunately it is very common. The law requires that there be at least one union delegate in companies that have more than 6 workers, but in most cases the figure is diluted for two main reasons: lack of commitment from the people who make up the delegation that leads to inactivity from the trade union sphere; or presence of "yellow" delegations, that is, those formed by candidates presented by the company itself. This fact directly affects the perception that women workers have of the action of the unions and of their effective capacity to improve their daily reality with respect to their jobs.
 
@@ -69,7 +69,7 @@ This is how the company often limits the capacity for union organization among h
 
 ## Las Kellys breaking schemes: association, union and much more
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/ZvzBPsw.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_4.png"}] } %}
 
 Faced with such a scenario, Las Kellys decide to form their own union due to the need to create a tool with greater legal guarantees than the one they had as an association. After winning a lawsuit with which they managed to reverse an outsourcing in a hotel, they decide that the constitution as a union will allow them to achieve a degree of protection that they had not found with the association. As a union, they will be able to face the processes that have been deteriorating their working conditions, assuming that changing things depends on them.
 
@@ -85,7 +85,7 @@ The fact that the Kellys are an association and a union at the same time allows 
 
 ## Are there more like them?
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/sLyxgSS.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_5.png"}] } %}
 
 Of course, this new typology of unions that make the oldschool vs. newschool conflict visible is very present in migrant groups and new jobs linked to platform capitalism, where international companies employ false self-employed workers for their main activity. Capital has used new technologies to reorganize the production process and, often, labor relations as well. Both industry and services are going through a process of profound transformations and even technological ruptures. As a consequence, companies, both traditional and innovative, such as digital platforms, promote new ultra-flexible and precarious models of work organization that, for the moment, are combated well with work cooperatives, such as the riders, or unions such as Mantero or Las Kellys.
 

@@ -10,8 +10,9 @@ description: "-"
 author: Tayrine Dias
 interviewee: ""
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  path: /media/articles/heroes/sticker1.png
+  mobile: /media/articles/mobile/sticker1.png
+  thumbnail: /media/articles/thumbnails/sticker1.png
   alt: "-"
   credits: "-"
   caption: "-"
@@ -21,7 +22,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/sticker1.png
   alt: "-"
 ---
 ## Hypothesis

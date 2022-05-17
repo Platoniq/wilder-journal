@@ -22,14 +22,19 @@ SIZES = {
   "articles/thumbnails": [540, 540],
 }
 
+filter_name = nil
+# filter_name = "ahmed.png"
+
 SIZES.each_pair do |path, size|
-  fullpath = File.join("./media/", path.to_s)
+  fullpath = File.join(ARGV[0] || "./media/", path.to_s)
   images = Dir.glob(File.join(fullpath, "*.{png,jpg,jpeg}"))
 
   puts ">>> [Resizing] images in directory: #{path}; max size: #{size};"
 
   
   images.each do |filename|
+    next unless filter_name && filename.match?(filter_name)
+
     puts "  > filename: #{filename};"
     
     tmp = "#{filename}.tmp"

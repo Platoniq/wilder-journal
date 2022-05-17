@@ -2,7 +2,7 @@
 published: true
 date: 2021-12-02
 layout: journal
-title: "Innovación Democrática y Financiación Democrática "
+title: "Innovación democrática y financiación democrática"
 uid: wilder-journal-1
 cover:
   alt: "Wilder Journal #1 by Platoniq"

@@ -2,7 +2,7 @@
 published: true
 date: 2021-12-02
 layout: journal
-title: Democratic Innovation and Democratic Funding
+title: "Democratic Innovation & Democratic Funding"
 uid: wilder-journal-1
 cover:
   alt: ""

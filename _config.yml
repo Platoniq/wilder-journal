@@ -9,10 +9,13 @@ url: "https://next.journal.platoniq.net" # the base hostname & protocol for your
 analytics_id: G-0N0TWKN871
 
 repository: "https://github.com/Platoniq/wilder-journal-next"
-logo: media/logo-platoniq_xxss.png
+logo: /media/logo-platoniq_xxss.png
 twitter:
   username: platoniq
   card: summary_large_image
+
+image:
+  path: /media/volumes/social/cover-01.png
 
 # Build settings
 theme: jekyll-theme-platoniq-journal

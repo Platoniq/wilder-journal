@@ -40,13 +40,13 @@ El Bootcamp se concibió como una versión única de un** *Datathon*** en el que
 
 Estas fases permitieron que cada *Flash Task Force*, con datos e ideas distintas, formara una estructura cohesiva con objetivos paralelos para su trabajo. Cada *Flash Task Force* abordó uno de los siguientes temas:
 
-📺 **Igualdad de género en las GLAM**. Este *Flash Task Force* analizó datos desagregados por sexo de la industria cinematográfica en España. El objetivo era comprender las tendencias relativas a la desigualdad de género y compartir buenas prácticas en torno a los datos abiertos para la justicia social.
+**Igualdad de género en las GLAM**. Este *Flash Task Force* analizó datos desagregados por sexo de la industria cinematográfica en España. El objetivo era comprender las tendencias relativas a la desigualdad de género y compartir buenas prácticas en torno a los datos abiertos para la justicia social.
 
-📋 Recogida de datos para diseñar el impacto con el **Europeana Impact Steering Committee** — Los participantes en este *Flash Task Force* trabajaron con datos para reconstruir y crear ejemplos de recogida de datos, creando más lenguaje, herramientas y estrategias para que los GLAMs recojan datos que demuestren su impacto.
+Recogida de datos para diseñar el impacto con el **Europeana Impact Steering Committee** — Los participantes en este *Flash Task Force* trabajaron con datos para reconstruir y crear ejemplos de recogida de datos, creando más lenguaje, herramientas y estrategias para que los GLAMs recojan datos que demuestren su impacto.
 
-💻 **Datos y Democracia** — Este *Flash Task Force* exploró propuestas basadas en datos e indicadores de calidad para mejorar la cultura de la participación, con compañeras de Platoniq y del grupo de investigación Tecnopolítica. Este *Flash Task Force* abordó los datos sobre la deliberación y la cultura participativa en las instancias de Decidim.
+**Datos y Democracia** — Este *Flash Task Force* exploró propuestas basadas en datos e indicadores de calidad para mejorar la cultura de la participación, con compañeras de Platoniq y del grupo de investigación Tecnopolítica. Este *Flash Task Force* abordó los datos sobre la deliberación y la cultura participativa en las instancias de Decidim.
 
-*📣 **Infodemics*** **y Sociedad con Open Data y archivos**, con Oyidiya Oji Palino — Esta *Flash Task Force* trabajó sobre *infodemics*, cultura digital y pandemias prestando especial atención al impacto de la sociedad y su actitud hacia las minorías.
+***Infodemics*** **y Sociedad con Open Data y archivos**, con Oyidiya Oji Palino — Esta *Flash Task Force* trabajó sobre *infodemics*, cultura digital y pandemias prestando especial atención al impacto de la sociedad y su actitud hacia las minorías.
 
 {% gallery { "simple": true, "images": [{"path":"/media/indices_1.jpeg"}, {"path":"/media/indices_2.jpeg"}, {"path":"/media/indices_3.jpeg"}] } %}
 

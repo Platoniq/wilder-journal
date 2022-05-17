@@ -35,7 +35,7 @@ Antes de plantear este artículo, hablamos con la [Asociación para la Recuperac
 
 Esas dos campañas y sus respectivos colectivos a las que nos referimos son [La Intervención en la Fosa de Parasimón](https://ca.goteo.org/project/intervencion-fosa-de-parasimon), de la Asociación de Familiares y Amigos "Fosa de Parasimón" y [Denunciando al Torturador](https://www.goteo.org/project/denunciando-al-torturador), de [La Comuna Presxs del Franquismo](https://www.lacomunapresxsdelfranquismo.org/).
 
-{% gallery { "simple": true, "images": [{"path":"https://data.goteo.org/600x600/00-mockup-poster-parasimon.jpg","bw":true}] } %}
+{% gallery { "simple": true, "images": [{"path": "/media/memoria-historica_0.jpeg"}]} %}
 
 Para nuestra alegría, los colectivos aceptaron, poniéndonos en contacto con Toño (Parasimón) y Ana (Presxs del Franquismo). Así, dispusimos un espacio virtual donde se encontraran y escuchamos su experiencia. 
 
@@ -43,9 +43,7 @@ Para nuestra alegría, los colectivos aceptaron, poniéndonos en contacto con To
 
 **Ana**: Cierto que en nuestra misión no está la de exhumar a nadie… pero seguimos una misma línea al final. **Ha habido una serie de hechos que no han sido investigados por cómo se han hecho las cosas en este país y que se están financiado a través de personas particulares cuando debería estar investigado directamente por el Estado**. Por ello ya hemos hecho dos campañas. Una sobre Billy el Niño, campaña cuya contundencia fue bastante grande como se pudo ver en los medios. Ahora estamos con Martín Villa, el responsable político del anterior caso, como se pudo ver después. Nunca fue juzgado y esa es nuestra misión: que la sociedad sepa lo que ha pasado y que a partir de ahí se tomen medidas. Nuestro trabajo va hacia el objetivo de que se sume gente a esta idea. Una muestra de que estamos en el mismo camino, es que vosotros (refiriéndose a “Fosas de Parasimón”) estáis también en la [Querella Argentina](https://memoriahistorica.org.es/querella-argentina/).
 
-<div style= "text-align: center; margin-top: 40px; margin-bottom: 40px;">
-<img style="margin: 0 auto" src="//data.goteo.org/600x600/emotionheader-1.jpeg">
-</div>
+{% gallery { "simple": true, "images": [{"path": "/media/memoria-historica_1.jpeg"}]} %}
 
 **Toño**: Sí. Los resultados sobre la exhumación en Parasimón serán presentados en esa querella. Ya fuimos a declarar al consulado de Argentina en Madrid cuando vino Carlos Slepoy (presidente durante 10 años de la Asociación Argentina Pro Derechos Humanos). Nuestra intención es que el Ministerio de Justicia, como parte del Estado, asuma su responsabilidad. Todos los convenios internacionales obligan a ciertas cosas, y nosotros consideramos que el Estado no quiere actuar. 
 
@@ -53,9 +51,7 @@ Para nuestra alegría, los colectivos aceptaron, poniéndonos en contacto con To
 
 **Toño**: Cierto. En el caso de Parasimón, en Asturias, hay cerca de 300 fosas… la mayoría se perderán y nadie asume ninguna responsabilidad. Porque nosotros… **nosotros hacemos una cosa que no queremos hacer**. Yo no tengo ningún interés en ir con un pico y una pala a buscar a mi abuelo. Eso lo tiene que hacer el Estado. ¿Porqué no llaman a Martín Villa y lo hacen declarar? No tiene por qué haber unas persona detrás insistiendo cuando se trata de una cuestión de justicia normal y corriente. En esa circunstancia había la opción de pedir dinero a la gente cercana, que no nos parecía la manera, o tirarnos a la piscina del crowdfunding. Porque para nosotros era algo que no teníamos ni idea de cómo funcionaba. Por decirlo de alguna manera, nuestro error fue ser poco ambiciosos. No nos imaginamos que la respuesta iba a ser la que fue: recabamos el dinero que necesitábamos mucho antes y mucho más fácilmente de lo que pensamos que iba a resultar.
 
-<div style= "text-align: center; margin-top: 40px; margin-bottom: 40px;">
-<img style="margin: 0 auto" src="//data.goteo.org/600x600/imagen-campana-2.jpg">
-</div>
+{% gallery { "simple": true, "images": [{"path": "/media/memoria-historica_2.jpeg"}]} %}
 
 **Ana**: Sí, ambos proyectos estaban en campaña, con la primera ronda de financiación ya finalizada, cuando se estrenó [El Silencio de Otros](https://www.rtve.es/alacarta/videos/documaster/documaster-silencio-otros/5120098). El éxito del metraje podría haber ayudado, aunque no hizo falta, pues a nivel de medios de comunicación, tanto afines como generales, la campaña de Billy el Niño se movió muy bien y recibimos solicitudes de más de 25-30 medios cada vez que comunicábamos un avance. 
 
@@ -63,9 +59,7 @@ Para nuestra alegría, los colectivos aceptaron, poniéndonos en contacto con To
 
 **Ana**: **Creo que el objetivo es crear movimiento para que entre unas y otros, al final, lo asuman ellos. La idea es hacer una incidencia política en todo aquello que consideramos debería entrar dentro de la justicia y de la memoria**. Abarcar todos aquellos aspectos que debería estar solucionados por el Estado y no las entidades o la ciudadanía. ...
 
-<div style= "text-align: center; margin-top: 40px; margin-bottom: 40px;">
-<img style="margin: 0 auto" src="//data.goteo.org/600x600/parsiarbol-1.jpg">
-</div>
+{% gallery { "simple": true, "images": [{"path": "/media/memoria-historica_3.jpeg"}]} %}
 
 Si quieres saber como siguió el resto de diálogo, te invitamos a visionar este y otros cortes que iremos colgando en próximas actualizaciones en este mismo artículo.
 
