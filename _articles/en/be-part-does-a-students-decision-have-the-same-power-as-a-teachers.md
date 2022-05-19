@@ -102,7 +102,7 @@ To participate, it is important to create spaces where students feel free and co
 
 > "To avoid this \[students being passive subjects of their lives], the school gives them spaces, possibilities to have a say in some of the decisions, but they are still very controlled and led from the school’s structure. We still have a long way to go to generate real participation and governance without the constant supervision of the educator. We cannot claim empowerment without spaces of empowerment. (2/2)"
 
-{% gallery { "simple": true, "images": [{"path":"/media/bepart-5.jpeg", "caption": "What is the role of technology, social media and innovative communication strategies in involving young people?"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/bepart-5.jpeg", "caption": "What is the role of technology, social media and innovative communication strategies in involving young people?"}] } %}
 
 ## What is the role of technology, social media and innovative communication strategies in involving young people?
 

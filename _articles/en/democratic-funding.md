@@ -56,7 +56,7 @@ At this point we believe it is useful, both for those who have already mastered 
 
 * In the **participatory budgets** the citizenry can present projects and decide where the money goes, but the projects are executed by the Administration, with all its limitations in the process, integration of diversity and final execution.
 
-{% gallery { "simple": true, "images": [{"path":"/media/participatorybudget.png","alt":"Participatory Budgets","caption":"Participatory Budgets","credits":"."}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/participatorybudget.png","alt":"Participatory Budgets","caption":"(1) Citizens propose ideas for projects (2) The Administration studies and selects ideas, and formalizes projects (3) Citizens vote (4) The Administration implements winning projects"}] } %}
 
 * In **matchfunding**, citizens present and execute an initiative through a crowdfunding campaign whose costs are covered equally between donors and the Administration.
 
