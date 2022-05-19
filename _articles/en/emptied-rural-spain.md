@@ -9,7 +9,6 @@ uid: emptied-rural-spain
 title: The emptied Spain and its fires
 description: Citizen initiatives that use crowdfunding to save our forests
 author: Joan Cabot
-interviewee: Editorial Catro Ventos, Proxecto Batego, Fundación Civio
 cover:
   path: /media/articles/heroes/incendio.png
   thumbnail: /media/articles/thumbnails/sticker_incendio.png

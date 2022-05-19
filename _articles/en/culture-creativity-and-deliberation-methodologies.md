@@ -8,7 +8,6 @@ uid: culture-creativity-and-deliberation-methodologies
 title: Culture, creativity, and deliberation methodologies
 description: "-"
 author: Tayrine Dias
-interviewee: ""
 cover:
   path: /media/articles/heroes/sticker1.png
   mobile: /media/articles/mobile/sticker1.png

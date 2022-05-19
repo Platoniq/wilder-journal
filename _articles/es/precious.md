@@ -31,7 +31,7 @@ image:
   path: /media/articles/social/precious.png
   alt: "# TODO"
 ---
-Esta mañana me he despertado otra vez con la pequeña Charissa. Le están saliendo los dientes y llora un montón. Tampoco es un problema, me gustan los bebés. Cuando vi que ya no me iba a poder volver a dormir, salí de la cama y me hice un té.
+{% quote %}Esta mañana me he despertado otra vez con la pequeña Charissa. Le están saliendo los dientes y llora un montón. Tampoco es un problema, me gustan los bebés. Cuando vi que ya no me iba a poder volver a dormir, salí de la cama y me hice un té.{% endquote %}
 
 Tiffany también estaba en la cocina, calentando leche. Tenía cara de no haber dormido nada. Es nigeriana como yo y es buena gente, pero no hablamos mucho. Su marido conoce a otros nigerianos aquí en Ancona. Son traficantes. Ya sé que hay que llevarse bien con los traficantes, pero también te hace sentirte un poco sola. Es mejor no fiarse de nadie.
 
@@ -60,4 +60,4 @@ Aunque supe que la había decepcionado, la mujer me llamó esa misma semana y me
 
 «¿Te gustaría montar tu propia empresa en el futuro?», me preguntó una de las profesoras en un descanso. Vio las cicatrices de mis brazos y supe que también quería conocer mi historia. «A lo mejor», contesté riendo. No le dije que no soy coherente.
 
-Las clases terminaron a los ocho días. Fui a todas. Ahora mis semanas están un poco vacías otra vez. Como hoy, que lo único que he tenido que hacer ha sido ir a estar una hora con ese hombre blanco. Pero no pasa nada. Después cogí el autobús con el dinero que me dio Ismael, me compré un batido con lo que me quedaba y me senté en un banco del puerto a mirar los barcos.
+Las clases terminaron a los ocho días. Fui a todas. Ahora mis semanas están un poco vacías otra vez. Como hoy, que lo único que he tenido que hacer ha sido ir a estar una hora con ese hombre blanco. Pero no pasa nada. Después cogí el autobús con el dinero que me dio Ismael, me compré un batido con lo que me quedaba y me senté en un banco del puerto a mirar los barcos

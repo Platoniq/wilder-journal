@@ -10,7 +10,6 @@ title: La España vaciada y sus incendios
 description: Iniciativas ciudadanas que utilizan el crowdfunding para salvar
   nuestros bosques
 author: Joan Cabot
-interviewee: Editorial Catro Ventos, Proxecto Batego, Fundación Civio
 cover:
   path: /media/articles/heroes/incendio.png
   thumbnail: /media/articles/thumbnails/sticker_incendio.png

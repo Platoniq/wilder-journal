@@ -33,7 +33,7 @@ image:
   path: /media/articles/social/precious.png
   alt: "# TODO"
 ---
-This morning I woke up with the sound of little Charissa again. She’s getting teeth and she is crying a lot. It’s not a problem. I like babies. When I knew I couldn’t sleep anymore, I got out of bed and made myself a tea. 
+{% quote %}This morning I woke up with the sound of little Charissa again. She’s getting teeth and she is crying a lot. It’s not a problem. I like babies. When I knew I couldn’t sleep anymore, I got out of bed and made myself a tea.{% endquote %} 
 
 Tiffany was in the kitchen as well, warming milk. She looked like she didn’t sleep at all. She’s Nigerian too and she is nice, but we don’t speak a lot. Her husband knows some other Nigerian men in Ancona. Traffickers. You have to be friends with the traffickers, I know, but it makes you a little lonely. Better not to trust anyone.
  
@@ -64,4 +64,4 @@ At first they said that I could not participate because I don’t speak Italian,
 ‘Would you like to start your own business in the future?’ one of the teachers asked me when we had a coffee break. She looked at the scars on my arms and I knew she wanted to know my story as well.
 ‘Maybe,’ I said and I laughed. I didn’t tell her that I am not coherent.
  
-After eight days the classes ended. I went to all. Now my weeks are a bit empty again. Like today, the only thing I had to do was to be one hour with this white man again. But it’s no problem. Afterwards I took a bus with the money Ismael gave me and I bought a milkshake with the money that was left and then I sat on a bench in the harbour and watched the boats.
+After eight days the classes ended. I went to all. Now my weeks are a bit empty again. Like today, the only thing I had to do was to be one hour with this white man again. But it’s no problem. Afterwards I took a bus with the money Ismael gave me and I bought a milkshake with the money that was left and then I sat on a bench in the harbour and watched the boats

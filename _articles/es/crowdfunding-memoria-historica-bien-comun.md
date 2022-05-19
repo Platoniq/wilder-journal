@@ -9,8 +9,6 @@ uid: crowdfunding-historical-memory-common-good
 title: La memoria histórica como bien común
 description: Reunimos a dos campañas que nunca deberían haber sido necesarias
 author: Joan Cabot
-interviewee: Asociación de Familiares y Amigos "Fosa de Parasimón" y La Comuna
-  Presxs del Franquismo
 cover:
   path: /media/articles/heroes/memoria-historica.jpeg
   thumbnail: /media/articles/thumbnails/memoria-historica.jpeg

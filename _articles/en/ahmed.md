@@ -32,7 +32,7 @@ image:
   path: /media/articles/social/ahmed.png
   alt: "# TODO"
 ---
-When I arrived in Ancona everything was cold. The room where I had to wait was windy and my jacket was still wet. I thought I was prepared. Back in Somalia I had read everything about the journey, everything but not too much, because my wife kept telling me to stop it.
+{% quote %}When I arrived in Ancona everything was cold. The room where I had to wait was windy and my jacket was still wet. I thought I was prepared. Back in Somalia I had read everything about the journey, everything but not too much, because my wife kept telling me to stop it.{% endquote %}
 
 ‘On the internet people only make up stories,’ she said.
 
@@ -60,4 +60,4 @@ At the meantime a lady from COOSS, an NGO over here, is trying to convert my Som
 
 Well, you might have stopped reading already. It is a sad story, I know. I don’t like sad stories either.
 
-So, I will just leave it here. I will get my stuff and go to the park again. Do my Italian homework and ignore the old, Italian ladies with their small dogs, who cross the lane to walk on the other side when they see me on my bench and afterwards maybe I will phone one of the Somali guys here and start to improve my soccer skills a bit. My kids have to be proud of their father when they come over.
+So, I will just leave it here. I will get my stuff and go to the park again. Do my Italian homework and ignore the old, Italian ladies with their small dogs, who cross the lane to walk on the other side when they see me on my bench and afterwards maybe I will phone one of the Somali guys here and start to improve my soccer skills a bit. My kids have to be proud of their father when they come over

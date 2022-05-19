@@ -11,7 +11,6 @@ title: Bienvenidas al neo-sindicalismo de Las Kellys, Jornaleras, Manteros,
 description: Nuevos modales de organización sindical para enfrentar la alta
   temporalidad, las diferencias culturales y la fragmentación de la mano de obra
 author: Joan Cabot
-interviewee: ""
 cover:
   path: /media/articles/heroes/neosindicalism.png
   thumbnail: /media/articles/thumbnails/neo-sindicalism-mini.png

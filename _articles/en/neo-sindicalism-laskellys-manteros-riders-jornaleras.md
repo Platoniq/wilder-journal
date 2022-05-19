@@ -10,7 +10,6 @@ title: Welcome to the neo-syndicalism of Las Kellys, Jornaleras, Manteros, Mensa
 description: New modes of union organization to deal with high temporality,
   cultural differences and the fragmentation of the workforce
 author: Joan Cabot
-interviewee: ""
 cover:
   path: /media/articles/heroes/neosindicalism.png
   thumbnail: /media/articles/thumbnails/neo-sindicalism-mini.png

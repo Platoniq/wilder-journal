@@ -30,9 +30,13 @@ image:
   path: /media/articles/social/ahmed.png
   alt: "# TODO"
 ---
-Cuando llegué a Ancona todo estaba helado. Había corriente en la sala donde tuve que esperar, y mi chaqueta estaba mojada todavía. Creí que estaba preparado. Cuando estaba en Somalia lo leí todo acerca del viaje; todo, aunque tampoco demasiado, porque mi mujer siempre me pedía que lo dejara. «En Internet la gente solo se inventa cuentos», decía. Sé que tenía razón, pero no podía evitarlo. Quería conocer los riesgos. Quería que esto saliera adelante.
+{% quote %}Cuando llegué a Ancona todo estaba helado. Había corriente en la sala donde tuve que esperar, y mi chaqueta estaba mojada todavía. Creí que estaba preparado. Cuando estaba en Somalia lo leí todo acerca del viaje; todo, aunque tampoco demasiado, porque mi mujer siempre me pedía que lo dejara.{% endquote %}
 
-Apenas recuerdo los primeros días que pasé en este apartamento, donde vivo junto a otros cinco tipos más. Creo que me quedé en la cama todo el tiempo y nada más. Los días de viaje en el camión y las horas calado en el mar habían hecho mella en mi cuerpo, estuve temblando y con escalofríos. Cualquier movimiento hacía que me marease,  y todos los recuerdos que me asaltaban me mareaban también. La niña que se cayó del camión en el desierto, el chillido de su madre, los ojos grandes de los otros hijos de ella, la mujer del barco que murió en mi regazo. Sentía que mi cabeza era como el camión y como el barco, demasiado pequeña para todo lo que tenía dentro. Al menos aún tenía las fotos de mi mujer y mis seis hijos en el móvil. Cuando estaba despierto me obligaba a mirarlas, y el resto del tiempo intentaba dormir.
+«En Internet la gente solo se inventa cuentos», decía.
+
+Sé que tenía razón, pero no podía evitarlo. Quería conocer los riesgos. Quería que esto saliera adelante.
+
+Apenas recuerdo los primeros días que pasé en este apartamento, donde vivo junto a otros cinco tipos más. Creo que me quedé en la cama todo el tiempo y nada más. Los días de viaje en el camión y las horas calado en el mar habían hecho mella en mi cuerpo, estuve temblando y con escalofríos. Cualquier movimiento hacía que me marease, y todos los recuerdos que me asaltaban me mareaban también. La niña que se cayó del camión en el desierto, el chillido de su madre, los ojos grandes de los otros hijos de ella, la mujer del barco que murió en mi regazo. Sentía que mi cabeza era como el camión y como el barco, demasiado pequeña para todo lo que tenía dentro. Al menos aún tenía las fotos de mi mujer y mis seis hijos en el móvil. Cuando estaba despierto me obligaba a mirarlas, y el resto del tiempo intentaba dormir.
 
 Después de un día, o tres, empecé las clases de italiano y con eso volví un poco a la vida. Es un italiano un poco antiguo, nos enseñan a comprar en puestos del mercado y cosas así, aunque aquí por ahora solo he visto supermercados. Pero estoy contento de aprender cosas. No me he saltado ni una clase y pienso seguir así hasta que encuentre trabajo aquí.
 
@@ -50,4 +54,4 @@ Mientras tanto, una señora de COOSS, una ONG de aquí, está intentando convert
 
 Quizá hayas dejado de leer ya. Es una historia triste, lo sé. A mí tampoco me gustan las historias tristes.
 
-Por eso lo voy a dejar aquí. Voy a coger mis cosas e irme al parque de nuevo. Haré los deberes de italiano, intentaré ignorar a las señoras mayores italianas que van paseando con sus perrillos y que cruzan de acera cuando me ven sentado en el banco. Quizá luego llame a uno de los somalíes que hay aquí y procuraré mejorar un poco como futbolista; mis hijos tienen que estar orgullosos de su padre cuando vengan.
+Por eso lo voy a dejar aquí. Voy a coger mis cosas e irme al parque de nuevo. Haré los deberes de italiano, intentaré ignorar a las señoras mayores italianas que van paseando con sus perrillos y que cruzan de acera cuando me ven sentado en el banco. Quizá luego llame a uno de los somalíes que hay aquí y procuraré mejorar un poco como futbolista; mis hijos tienen que estar orgullosos de su padre cuando vengan

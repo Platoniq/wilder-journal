@@ -9,8 +9,6 @@ uid: crowdfunding-historical-memory-common-good
 title: Historical memory as a common good
 description: We bring together two campaigns that should never have been necessary
 author: Joan Cabot
-interviewee: Asociación de Familiares y Amigos "Fosa de Parasimón" y La Comuna
-  Presxs del Franquismo
 cover:
   path: /media/articles/heroes/memoria-historica.jpeg
   thumbnail: /media/articles/thumbnails/memoria-historica.jpeg
