@@ -34,7 +34,7 @@ A few months ago, in [this article](https://medium.com/social-justice-by-design/
 
 Below are some of the contributions made by teachers where they indirectly reflect on the questions we asked. We greatly appreciate their time and availability.
 
-{% gallery { "simple": true, "images": [{"path":"/media/bepart-1.jpeg","alt":""}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/bepart-1.jpeg","caption":"How can we support schools to be more participatory?"}] } %}
 
 ## How can we support schools to be more participatory?
 
@@ -66,7 +66,7 @@ On the other hand, it is important to note that to build a school system open to
 
 {% quote %}I think that many of the current proposals for educational innovation and transformation make no sense without the participation of students{% endquote %}
 
-{% gallery { "simple": true, "images": [{"path":"/media/bepart-2.jpeg"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/bepart-2.jpeg", "caption": "How can we help teachers become facilitators for their students?"}] } %}
 
 ## How can we help teachers become facilitators for their students?
 
@@ -80,7 +80,7 @@ One of the goals of BePart is precisely to train and accompany teachers in the t
 
 {% quote %}Teachers are by default immobilistic, because they defend their status. Therefore, any participatory issue will clash with teachers if they want to violate any of their privileges. If not, it can work with complete freedom. {% endquote %}
 
-{% gallery { "simple": true, "images": [{"path":"/media/bepart-3.jpeg"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/bepart-3.jpeg", "caption": "How can we build capacity for BePart to make its mark for its future sustainability?"}] } %}
 
 ## How can we build capacity for BePart to make its mark for its future sustainability?
 
@@ -90,7 +90,7 @@ BePart takes place in four schools in four different European countries. It is a
 
 > "Entrepreneurship has three basic legs. One is detection, alertness. Being able to detect what's around me - what's going on, what's not working, because I'm sure students see things, but since they don't have a chance to say it, I think they don't even notice. (…) The second leg is: with the resources I have, what can I do ?; and the third is to take action. In the field of participation, entrepreneurial competence would play a very important role."
 
-{% gallery { "simple": true, "images": [{"path":"/media/bepart-4.jpeg"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/bepart-4.jpeg", "caption": "How can we create spaces for participation that are as safe as possible for students?"}] } %}
 
 ## How can we create spaces for participation that are as safe as possible for students?
 
@@ -102,7 +102,7 @@ To participate, it is important to create spaces where students feel free and co
 
 > "To avoid this \[students being passive subjects of their lives], the school gives them spaces, possibilities to have a say in some of the decisions, but they are still very controlled and led from the school’s structure. We still have a long way to go to generate real participation and governance without the constant supervision of the educator. We cannot claim empowerment without spaces of empowerment. (2/2)"
 
-{% gallery { "simple": true, "images": [{"path":"/media/bepart-5.jpeg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/bepart-5.jpeg", "caption": "What is the role of technology, social media and innovative communication strategies in involving young people?"}] } %}
 
 ## What is the role of technology, social media and innovative communication strategies in involving young people?
 
