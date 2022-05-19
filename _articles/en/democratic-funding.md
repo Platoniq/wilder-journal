@@ -42,7 +42,7 @@ Others, however, understand that citizen participation should be greater, they a
 
 **In this article we will talk about Participatory Budgets and Matchfunding, two tools that have already allowed thousands of people to decide what to allocate public resources to and make social welfare initiatives a reality. The first thing will be to give a brief definition of each one, then we will delve into their strengths and weaknesses, to finish by pointing out some of their main challenges as well as achievements that we already celebrate.**
 
-{% quote { "author": "Chris Colin (1)" } %}Diversos estudios muestran que la juventud es más propensa a votar en elecciones locales y nacionales tras participar en presupuestos participativos: también más propensa a entrar en edificios municipales, meterse en política, hablar con un funcionario público, hacer voluntariado y confiar en sus habilidades.{% endquote %}
+{% quote { "author": "Chris Colin (1)" } %}Various studies show that youth are more likely to vote in local and national elections after participating in participatory budgeting: they are also more likely to enter municipal buildings, get involved in politics, talk to a public official, volunteer and trust their abilities.{% endquote %}
 
 ## Why do we think this question is relevant?
 
@@ -56,7 +56,7 @@ At this point we believe it is useful, both for those who have already mastered 
 
 * In the **participatory budgets** the citizenry can present projects and decide where the money goes, but the projects are executed by the Administration, with all its limitations in the process, integration of diversity and final execution.
 
-{% gallery { "simple": true, "images": [{"path":"/media/participatorybudget.png","alt":"Presupuestos Participativos","caption":"Presupuestos Participativos","credits":"."}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/participatorybudget.png","alt":"Participatory Budgets","caption":"Participatory Budgets","credits":"."}] } %}
 
 * In **matchfunding**, citizens present and execute an initiative through a crowdfunding campaign whose costs are covered equally between donors and the Administration.
 
@@ -69,8 +69,6 @@ At this point we believe it is useful, both for those who have already mastered 
 * Need for local governments to respond to needs not covered by the central government.
 
 Thus, during the 1990s, the citizens of Porto Alegre decided to allocate almost 25% of the budget to improve the sewage system and increase access to the water supply. Although to achieve this they had to face various difficulties: legal in proposing certain proposals and communicative in explaining the methodology to a population with a high degree of illiteracy and fearful of political instrumentation. As cities in other countries tested the model, they encountered the same obstacles, being in 2001 when the first participatory budgets were proposed in Spain, specifically in Córdoba, Las Cabezas de San Juan and Puente Genil. At a media level, the best-known processes will be in Madrid and Barcelona, as they will be carried out by recently formed political parties, with strong reluctance from the opposition and with a very high investment. We highlight, for example, that thanks to the participatory budgets of the Madrid City Council, the Consul platform, a free code tool that facilitates the participatory processes of entities or administrations, is beginning to be used in the rest of Spain.
-
-
 
 At present, many city councils still do not dare to put them into practice or dismiss them due to their quantitative dimension (in Spain, between 0.5% and 1.5% of the population that can vote participate) while they underestimate the qualitative dimension of the social participation processes when they provide the government that promotes it with greater transparency, a new two-way communication channel with the population, contrasted and prioritized information on the needs of the population, increased associationism, involvement of the population in important decisions and rapprochement to a more participatory democracy.
 
