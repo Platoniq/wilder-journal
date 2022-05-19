@@ -42,13 +42,13 @@ The Bootcamp was conceived of as a unique kind of **datathon** where participant
 
 These phases allowed the Flash Task Forces, each with their own data and ideas, to form independent structures while maintaining parallel goals for their work. Each Flash Task Force addressed one of the following themes:
 
-📺 **Gender equality in GLAMs.** This Flash Task Force analysed data on the film industry in Spain, broken down by gender. The goal was to understand the patterns of gender inequality and share best practices around the use of open data for social justice. 
+**Gender equality in GLAMs.** This Flash Task Force analysed data on the film industry in Spain, broken down by gender. The goal was to understand the patterns of gender inequality and share best practices around the use of open data for social justice. 
 
-📋 Collection of data to work with the **European Impact Steering Committee** on impact design – Participants in this Flash Task Force worked with data to reconstruct and create examples of how to collect data, coming up with new language, tools and strategies for GLAMs to use when gathering data to showcase their impact. 
+Collection of data to work with the **European Impact Steering Committee** on impact design – Participants in this Flash Task Force worked with data to reconstruct and create examples of how to collect data, coming up with new language, tools and strategies for GLAMs to use when gathering data to showcase their impact. 
 
-💻 **Data and Democracy** – This Flash Task Force explored proposals based on data and quality indicators to improve the culture of participatory democracy, in collaboration with colleagues from Platoniq and the research group Tecnopolítica. The task force worked with data on deliberation and the participatory culture of Decidim petitions. 
+**Data and Democracy** – This Flash Task Force explored proposals based on data and quality indicators to improve the culture of participatory democracy, in collaboration with colleagues from Platoniq and the research group Tecnopolítica. The task force worked with data on deliberation and the participatory culture of Decidim petitions. 
 
-📣 **Infodemics and Society with Open Data and Archives**, with Oyidiya Oji Palino – This Flash Task Force worked on ‘infodemics’, digital culture and pandemics, giving special attention to the impact of society and its attitude towards BIPOC communities. 
+**Infodemics and Society with Open Data and Archives**, with Oyidiya Oji Palino – This Flash Task Force worked on ‘infodemics’, digital culture and pandemics, giving special attention to the impact of society and its attitude towards BIPOC communities. 
 
 {% gallery { "simple": true, "images": [{"path":"/media/indices_1.jpeg"}, {"path":"/media/indices_2.jpeg"}, {"path":"/media/indices_3.jpeg"}] } %}
 

@@ -61,33 +61,33 @@ A salient theme was the creation of the ‘other’ in misinformation to create 
 
 In our search, it was difficult to find examples of how GLAMs addressed epidemics or hateful misinformation of the past. Many of the examples were based on each task force members’ memory of an exhibition or relevant examples that might relate. One such example from our collective intelligence was the work, *Lethal Weapons.* In *Lethal Weapons, artist* Barton Benes challenges the audience with humor on their notion of the peril present in the blood of individuals living with HIV and AIDs. Benes, an individual living with HIV, filled everyday objects such as a perfume bottle or squirt gun with his blood which were then converted into ‘lethal weapons’.
 
-{% gallery { "simple": false, "images": [{"path":"/media/glams_1.png","alt":"Lethal Weapons: Venomous Rose, 1993. Barton Lidicé Beneš / Courtesy of Pavel Zoubok Gallery","credits":"Barton Lidicé Beneš / Courtesy of Pavel Zoubok Gallery","caption":"Lethal Weapons: Venomous Rose, 1993"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/glams_1.png","alt":"Lethal Weapons: Venomous Rose, 1993. Barton Lidicé Beneš / Courtesy of Pavel Zoubok Gallery","credits":"Courtesy of [Pavel Zoubok Gallery](http://pavelzoubok.com/)","caption":"*Lethal Weapons: Venomous Rose*, 1993. Barton Lidicé Beneš"}] } %}
 
-‘These provocative pieces confront HIV/AIDS head-on, blending political activism, visual poetry and a wicked sense of humor, forcing viewers to face their fears of death and transmission.’ In our research we were in search of similar examples of exhibitions or initiatives by GLAMs that encouraged critical thinking and reflection on the impact of misinformation and pandemics, especially in terms of approaching the polemic themes of today’s misinformation with a more historical perspective. Perhaps we are not ‘going through exactly the same thing that happened in 1917, or the polio epidemic in the mid-20th century, or the early days of the AIDS pandemic primarily in the 1980s \[however] each one of these historical examples is simply a useful lens to measure ourselves against, and to better understand some of the social …complexities that we’re seeing right now.’ However, few examples were available just through searching the world wide web. So as the bootcamp progressed the hypothesis became less of a statement to prove or disprove but an imperative initiative to situate GLAMs as a cornerstone space for people to challenge, rethink, and critically understand misinformation.
+‘These provocative pieces confront HIV/AIDS head-on, blending political activism, visual poetry and a wicked sense of humor, forcing viewers to face their fears of death and transmission.’ In our research we were in search of similar examples of exhibitions or initiatives by GLAMs that encouraged critical thinking and reflection on the impact of misinformation and pandemics, especially in terms of approaching the polemic themes of today’s misinformation with a more historical perspective. Perhaps we are not ‘going through exactly the same thing that happened in 1917, or the polio epidemic in the mid-20th century, or the early days of the AIDS pandemic primarily in the 1980s \[however] each one of these historical examples is simply a useful lens to measure ourselves against, and to better understand some of the social…complexities that we’re seeing right now.’ However, few examples were available just through searching the world wide web. So as the bootcamp progressed the hypothesis became less of a statement to prove or disprove but an imperative initiative to situate GLAMs as a cornerstone space for people to challenge, rethink, and critically understand misinformation.
 
 ## Visual Data Narratives: A Sign of the Times
 
 Using the open data set and reflections we experimented with different visualizations of our data. One initial observation was the difference between our data sources. While the report conducted by the EU mentioned the Kremlin 34 times and Russia 120 times, there was little to mention of Russia and the Kremlin from the data set from Princeton.
 
-{% gallery { "simple": true, "images": [{"path":"/media/glams_2.png","bw":true}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/glams_2.png"}] } %}
 
 Additionally, the following visualization was a reflection finding a lot of examples of misinformation but fewer counter narratives.
 
-{% gallery { "simple": true, "images": [{"path":"/media/glams_3.png","bw":true}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/glams_3.png"}] } %}
 
 And the following visualization captures types of misinformation and medium they are most spread on:
 
-{% gallery { "simple": true, "images": [{"path":"/media/glams_4.png","bw":true}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/glams_4.png"}] } %}
 
 Creating visual narratives in a collaborative and playful manner, as we did, has brought us together for an insightful exploration resulting in a creative data visualisation of the main motivations that are behind the misinformation and hate speech.
 
 Below is a graph of the reasons for creating hate speech which were then filled with images and memes that we thought captured each sentiment. The activity and visualization were interesting because essentially they are now artifacts that capture both data and images that capture what we’re feeling and how we are feeling them.
 
-{% gallery { "simple": false, "images": [{"path":"/media/glams_5.png","alt":"Motivations for Misinformation and Hate speech","caption":"Motivations for Misinformation and Hate speech","bw":false}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/glams_5.png","alt":"Motivations for Misinformation and Hate speech","caption":"Motivations for Misinformation and Hate speech"}] } %}
 
 ## Conclusions
 
-{% gallery { "simple": true, "images": [{"path":"/media/glams_6.png","bw":true}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/glams_6.png"}] } %}
 
 Ultimately our research reminded us of the collective role we all play in maintaining each other’s dignity and humanising each other in the face of disinformation and polarizing news. GLAMs such as museums and libraries can and have played a role in opening up spaces for visitors to observe and reflect on society’s issues and there is an ever present need for them to do so. Projects such as [SMILEs (External link)](https://participate.indices-culture.eu/processes/cocreation/f/6/posts/smiles.platoniq.net/) are necessary for cultural heritage institutions when envisioning their future and their role in society to go beyond just being a respository of the past but also assume the role they play in society’s collective critical thinking. At this moment in time with changing notions of culture and cultural heritage, as collectors of histories GLAMs need to reckon with their responsibility and role of harmful colonial and nationalist narratives and re envision their future both on and offline. And perhaps it might even be helpful for people to be able to confront the pressing or polemic issues from the distance and doses of information offered in an exhibition.
 

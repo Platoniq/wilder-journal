@@ -13,7 +13,7 @@ call_to_action: cta-contact
 Los términos y condiciones que a continuación se indican regulan el acceso y el uso del sitio web [https://journal.platoniq.net](https://journal.platoniq.net), realizado por FUNDACIÓN PLATONIQ, cuyo domicilio social se encuentra en Carrer Forn de l’Olivera 22 -07012 Palma (Illes Balears), cuyo CIF es G577282172, y esta validamente registrada con el número 1438 del Regsitro Estatal de Fundaciones.
 
 - Teléfono de contacto: +34 871 57 15 57 de Lunes a Viernes de 9h a 17:00h.
-- E-mail de contacto: [info@goteo.org](mailto:info@goteo.org)
+- E-mail de contacto: [info@platoniq.net](mailto:info@platoniq.net)
 - Twitter: [https://twitter.com/platoniq](https://twitter.com/platoniq)
 - Instagram: [https://www.instagram.com/platoniqfoundation](https://www.instagram.com/platoniqfoundation)
 
@@ -39,7 +39,7 @@ Las referencias a nombres y marcas comerciales o registradas, logotipos u otros 
 
 Quedan reservados todos los derechos de Propiedad Intelectual e Industrial sobre los contenidos y/o servicios y, en particular, queda prohibido modificar, copiar, reproducir, comunicar públicamente, transformar o distribuir de cualquier forma la totalidad o parte de los contenidos y/o servicios incluidos en el sitio web, para propósitos públicos o comerciales, si no se cuenta con la autorización previa, expresa y por escrito de FUNDACIÓN PLATONIQ o, en su caso, del titular de los derechos correspondientes.
 
-FUNDACIÓN PLATONIQ se encuentra comprometida con el respeto a los derechos de propiedad intelectual e industrial de los titulares de derechos derivados de los contenidos. Así, si, durante la utilización de la plataforma, el usuario considera que se está llevando a cabo una infracción de sus derechos de propiedad intelectual e industrial o de los de terceros, le rogamos ponga en conocimiento de FUNDACIÓN PLATONIQ tal situación enviado un correo a [info@goteo.org](mailto:info@goteo.org)
+FUNDACIÓN PLATONIQ se encuentra comprometida con el respeto a los derechos de propiedad intelectual e industrial de los titulares de derechos derivados de los contenidos. Así, si, durante la utilización de la plataforma, el usuario considera que se está llevando a cabo una infracción de sus derechos de propiedad intelectual e industrial o de los de terceros, le rogamos ponga en conocimiento de FUNDACIÓN PLATONIQ tal situación enviado un correo a [info@platoniq.net](mailto:info@platoniq.net)
 
 Si para la utilización en el Sitio Web, el Usuario debiera proceder a su registro, éste será responsable de aportar información veraz y lícita. 
 
@@ -89,7 +89,7 @@ Del mismo modo, para poder iniciar el proceso de contratación de los Servicios 
 
 ## CANCELACIÓN DE LA SUSCRIPCIÓN A LA NEWSLETTER
 
-El usuario podrá proceder a cancelar unilateralmente la suscripción en cualquier momento durante la vigencia de la misma. Para darse de baja de la suscripción, el usuario deberá envioar un correo a [info@goteo.org](mailto:info@goteo.org) indicando su voluntad de dejar de recibir la newsletter.
+El usuario podrá proceder a cancelar unilateralmente la suscripción en cualquier momento durante la vigencia de la misma. Para darse de baja de la suscripción, el usuario deberá envioar un correo a [info@platoniq.net](mailto:info@platoniq.net) indicando su voluntad de dejar de recibir la newsletter.
 
 En cualquier caso, una vez efectuada la cancelación de la suscripción, el usuario podrá solicitar una nueva alta.
 

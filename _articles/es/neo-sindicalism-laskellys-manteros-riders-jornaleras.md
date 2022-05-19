@@ -7,18 +7,17 @@ date-updated: 2022-05-05T17:42:40.961Z
 article-order: 16
 uid: neo-sindicalism-laskellys-manteros-riders-jornaleras
 title: Bienvenidas al neo-sindicalismo de Las Kellys, Jornaleras, Manteros,
-  Mensakas...
+  Mensakas…
 description: Nuevos modales de organización sindical para enfrentar la alta
   temporalidad, las diferencias culturales y la fragmentación de la mano de obra
 author: Joan Cabot
-interviewee: ""
 cover:
   path: /media/articles/heroes/neosindicalism.png
   thumbnail: /media/articles/thumbnails/neo-sindicalism-mini.png
+  mobile: /media/articles/mobile/unionism.png
   alt: NeoSindicalism
   credits: .
   caption: NeoSindicalism
-  mobile: /media/articles/mobile/unionism.png
 related_article_uids:
   - arantxa-mendiharat
   - recovering-collaborative-governance-through-design-justice
@@ -31,7 +30,7 @@ stickers:
   sticker_two: /media/stickers/wilder-journal-1/sticker12.png
 call_to_action: cta-donate
 image:
-  path: https://i.imgur.com/sLyxgSS.png
+  path: /media/articles/social/neosindicalism.jpg
   alt: Las Kellys
 ---
 No toda la ciudadanía tiene el anteriormente derecho y ahora privilegio de un contrato indefinido en una empresa que cumple con los derechos laborales y bajo la defensa oportuna de un sindicato, gremio o asociación. De hecho, la vida de muchas trabajadoras ha empeorado en España en muy pocos años con la liberalización del despido, la descentralización de la negociación colectiva y el desgaste del sistema de representación política durante la recesión económica. 
@@ -40,7 +39,7 @@ En este artículo echamos la vista atrás para entender como los modelos tradici
 
 ## Antes de nada ¿Quiénes son Las Kellys?
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/sj3dH73.jpg","alt":"Las Kellys","caption":"Las Kellys","credits":"Las Kellys"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_1.jpg","alt":"Las Kellys","caption":"Las Kellys","credits":"Las Kellys"}] } %}
 
 Las Kellys son las camareras de piso afectadas por procesos de externalización que cuentan con contratos temporales o cuyas condiciones laborales se han visto deteriorados o nunca han estado de acuerdo a las condiciones establecidas en el convenio. La mayoría de ellas no pertenecen a la plantilla central de los hoteles, y en todo caso lo más común es que cuenten con contratos temporales de 3 o 6 meses, que casi nunca son renovados. 
 
@@ -48,7 +47,7 @@ Trabajando codo a codo con ellas, están las camareras de piso que no han sufrid
 
 ## Vale, recuérdame para qué sirve un sindicato
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/hyX91RS.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_2.jpg"}] } %}
 
 Los sindicatos son asociaciones integradas por trabajadoras en defensa y promoción de sus intereses laborales, ante la persona que las  emplea y con quien están relacionadas con un contrato. En España CCOO se sitúa como primera fuerza y UGT como segunda, ostentando entre los dos sindicatos la hegemonía de la representatividad con un 75% de los delegados totales. Con las reformas laborales de 1994, 1997, 2010 y 2012 se lleva a cabo un proceso de descentralización de la negociación colectiva que genera una merma considerable de su poder de negociación, facilitando la reducción de costes salariales con una mayor flexibilidad en la contratación y el despido.
 
@@ -60,9 +59,9 @@ Esta temporalidad es fuente de inseguridad, tanto personal, como social y moneta
 
 Con la externalización la empresa subcontrata puestos centrales de su actividad en diversas empresas, abaratando costes y controlando el conflicto laboral tendente a diferenciar los puestos de trabajo. Con estas reformas cada trabajadora puede tener condiciones distintas y se dificuta la negociación colectiva unitaria al limitar la efectividad de los convenios sectoriales. Al romper con el escenario donde las personas viven en condiciones relativamente similares y tiene experiencias colectivas comunes a través de su puesto de trabajo, se fragmenta la identidad laboral, como ya hemos visto en el caso de las camareras de piso. 
 
-## La delegación sindical fantasma 👻
+## La delegación sindical fantasma
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/xFevzy2.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_3.png"}] } %}
 
 ¿Tienes una "persona del sindicato" que no te hace ni caso? Por desgracia es muy habitual. La ley obliga a que haya al menos una delegada sindical en las empresas que cuentan con más de 6 trabajadores pero en la mayoría de casos se diluye la figura por dos razones principales: falta de compromiso de las personas que conforman la delegación que conlleva inactividad desde el ámbito sindical; o presencia de delegaciones "amarillas", es decir, las formadas por candidaturas presentadas por la propia empresa. Este hecho afecta de forma directa a la percepción que tienen las trabajadoras de la acción de los sindicatos y de su capacidad efectiva de mejorar su realidad cotidiana con respecto a sus empleos. 
 
@@ -70,7 +69,7 @@ Así es como desde la empresa se limita en muchas ocasiones la capacidad de orga
 
 ## Las Kellys rompiendo esquemas: asociación, sindicato y mucho más
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/ZvzBPsw.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_4.png"}] } %}
 
 Ante tal panorama, Las Kellys deciden formar su propio sindicato por la necesidad de crear una herramienta con mayores garantías jurídicas que la que tenían como asociación. Tras ganar un juicio con el que consiguieron revertir una externalización en un hotel, deciden que la constitución como sindicato les permitirá alcanzar un grado de protección que con la asociación no habían encontrado. Como sindicato podrán enfrentar los procesos que venían deteriorando sus condiciones de trabajo, asumiendo que cambiar las cosas depende de ellas mismas. 
 
@@ -86,7 +85,7 @@ Que las Kellys sean asociación y sindicato a la vez les permite ser más flexib
 
 ## ¿Hay más como ellas?
 
-{% gallery { "simple": true, "images": [{"path":"https://i.imgur.com/sLyxgSS.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_5.png"}] } %}
 
 Por supuesto, esta nueva tipologia de sindicatos que visibilizan el conflicto oldschool vs newschool está muy presente en colectivos migrantes y nuevos trabajos ligados al capitalismo de plataforma, donde empresas internacionales emplean a falsas autónomas para su actividad principal. El capital se ha servido de las nuevas tecnologías para reorganizar el proceso de producción y, con frecuencia, también las relaciones laborales. Tanto la industria como los servicios están atravesando un proceso de profundas transformaciones y hasta rupturas tecnológicas.  Como consecuencia, las empresas tanto tradicionales como novedosas como las plataformas digitales impulsan nuevos modelos ultraflexibles y precarios de organización del trabajo que por el momento se combaten bien con cooperativas de trabajo, como las riders, o sindicatos como el Mantero o Las Kellys.
 

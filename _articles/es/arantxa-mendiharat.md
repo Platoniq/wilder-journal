@@ -19,7 +19,7 @@ interviewee: Arantxa Mendiharat
 cover:
   path: /media/articles/heroes/arantxa-mendiharat.png
   mobile: /media/articles/mobile/arantxa-mendiharat.png
-  thumbnail: /media/articles/thumbnails/arantxa-mendiharat.png
+  thumbnail: /media/articles/thumbnails/arantxa.jpg
   alt: "# TODO"
   caption: "# TODO"
   credits: "# TODO"
@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/articles/social/arantxa-mendiharat.png
+  path: /media/articles/social/arantxa.jpg
   alt: "# TODO"
 ---
 Arantxa Mendiharat imagina mundos posibles: futuros posibles y democracias posibles. Mediadora cultural, co-fundadora de Deliberativa y co-creadora de la web [democraciaporsorteo.org](https://democraciaporsorteo.org), desde el 2016 lleva trabajando profesionalmente en metodologías deliberativas que activan a ciudadanas elegidas por sorteo. Arantxa co-diseña y gestiona proyectos relacionados con la cultura y la participación que aspiran a la transformación de los sistemas políticos. 
@@ -44,7 +44,7 @@ Tal como dijo Peter MacLeod, yo creo que hasta ahora hemos vivido lo que sería 
 
 El mecanismo que está demostrando ser efectivo es el sorteo cívico. Un grupo de personas elegidas por sorteo, que conforman una muestra lo más descriptiva posible de la población, forman Jurados ciudadanos o Asambleas ciudadanas que deliberan y toman decisiones. Como si fuera el Pleno de un Ayuntamiento o el Congreso de los Diputados, pero en lugar de representantes públicos elegidos mediante elecciones, lo conforman ciudadanos elegidos al azar. Estas Asambleas se activan para tratar un tema en concreto o un conjunto de temas y tienen mandatos cortos, por lo que las personas ejercen su cargo durante un tiempo limitado, permitiendo la rotación.
 
-### Habrá quien diga que no cualquier ciudadano está preparado para tomar ciertas decisiones sobre los asuntos públicos...
+### Habrá quien diga que no cualquier ciudadano está preparado para tomar ciertas decisiones sobre los asuntos públicos…
 
 Y es por este motivo que este sistema contempla que la asamblea ciudadana cuente con comités de personas expertas de todas las tendencias para consultar sobre los temas que se debaten. Estos expertos incluyen la sociedad civil organizada, los cargos políticos, técnicos, etc. y cada participante puede elegir las personas expertas a las que consultar. Así se asegura la pluralidad de puntos de vista. Otro dato clave es que a las personas elegidas por sorteo se les da el tiempo suficiente como para informarse y formarse en el tema sobre el que van a deliberar. Así se consigue que la decisión tomada por la asamblea ciudadana sea una decisión informada.
 

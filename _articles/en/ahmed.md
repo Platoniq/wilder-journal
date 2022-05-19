@@ -9,8 +9,10 @@ uid: ahmed
 title: Ahmed
 description: When I arrived in Ancona everything was cold. The room where I had
   to wait was windy and my jacket was still wet. I thought I was prepared. Back
-  in Somalia I had read everything about the journey, everything but not too
-  much, because my wife kept telling me to stop it.
+  in Somalia I had read everything about the journey, everything but not too 
+  much, because my wife kept telling me to stop it. ‘On the internet people only
+  make up stories,’ she said. I know she was right, but I couldn’t help it. I
+  wanted to be aware of the risks. I wanted to make this work.
 author: Elena Silvestrini
 cover:
   path: /media/articles/heroes/ahmed.png
@@ -30,25 +32,7 @@ image:
   path: /media/articles/social/ahmed.png
   alt: "# TODO"
 ---
-
-Storytelling is a powerful bridge to connecting people. Stories can create emotional connection and common ground for collaboration between different people and communities. Stories connect us to social issues that are bigger than us, providing us with a deeper and more nuanced understanding, allowing us to connect with other people’s lived experiences and motivations. 
-
-{% questions { "items": [{ "question": "How can stories help connect individual experiences to a collective dimension?" }, { "question": "How can they help people come closer to understanding how other people’s lived experiences are like?" }, { "question": "Can stories support people in questioning their biases towards others?" }] } %}
-
-> In order to approach these challenges, we have invested in storytelling as a key element of the methodology we have designed for CultureLabs - a project we have participated in for the last three years. CultureLabs creates resources for developing participatory processes with different communities, using the power of cultural heritage. The project also organised 4 pilot programmes in different parts of Europe, for which Platoniq has designed the co-creation methodology. (An overview of the methodology can be found [in this video](https://www.youtube.com/watch?v=Wmc7CNAafRM&t=268s)).
-
-
-> In the specific case of the CultureLabs project - as we embarked together with the project partners on developing a methodology that could support the co-creation of cultural heritage centered participatory activities - stories and storytelling were a powerful instrument for questioning biases especially towards migrant communities. Our goal was to invite project partners who participated in our workshop to consider how their lived experiences influence their positions and view on the topics of participation and cultural heritage. Our objective was also visualizing different ways of migration, whose journeys and stories follow different paths, and relating both particular cases to the support services in the territory. 
-
-
-> The professional storyteller Evelien Vos wrote two stories from a collection of real life experiences of migrants compiled by COOSS, an organisation participating at the CultureLabs and working with different migrant communities arriving in Ancona, Italy. The illustrator Gonzalo Sainz Sotomayor enriched the storytelling by adding two powerful drawings.
-
-
-> The stories have been read out loud to workshop participants before participating in a dynamic role play, challenging participants to ask themselves why would members of the different migrant communities engage and spend energies in the CultureLabs projects, inviting partners to question their biases in intercultural dialogue and in co-creation processes. 
-
-{% gallery { "simple": true, "images": [{"path":"/media/articles/heroes/ahmed.png"}] } %}
-
-### When I arrived in Ancona everything was cold. The room where I had to wait was windy and my jacket was still wet. I thought I was prepared. Back in Somalia I had read everything about the journey, everything but not too much, because my wife kept telling me to stop it.
+{% quote %}When I arrived in Ancona everything was cold. The room where I had to wait was windy and my jacket was still wet. I thought I was prepared. Back in Somalia I had read everything about the journey, everything but not too much, because my wife kept telling me to stop it.{% endquote %}
 
 ‘On the internet people only make up stories,’ she said.
 
@@ -76,4 +60,4 @@ At the meantime a lady from COOSS, an NGO over here, is trying to convert my Som
 
 Well, you might have stopped reading already. It is a sad story, I know. I don’t like sad stories either.
 
-So, I will just leave it here. I will get my stuff and go to the park again. Do my Italian homework and ignore the old, Italian ladies with their small dogs, who cross the lane to walk on the other side when they see me on my bench and afterwards maybe I will phone one of the Somali guys here and start to improve my soccer skills a bit. My kids have to be proud of their father when they come over.
+So, I will just leave it here. I will get my stuff and go to the park again. Do my Italian homework and ignore the old, Italian ladies with their small dogs, who cross the lane to walk on the other side when they see me on my bench and afterwards maybe I will phone one of the Somali guys here and start to improve my soccer skills a bit. My kids have to be proud of their father when they come over

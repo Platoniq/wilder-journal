@@ -8,11 +8,14 @@ baseurl: "" # "/journal-content" # the subpath of your site, e.g. /blog
 url: "https://journal.platoniq.net" # the base hostname & protocol for your site, e.g. http://example.com
 analytics_id: G-0N0TWKN871
 
-repository: "https://github.com/Platoniq/journal-content"
+repository: "https://github.com/Platoniq/wilder-journal"
 logo: media/logo-platoniq_xxss.png
 twitter:
   username: platoniq
   card: summary_large_image
+
+image:
+  path: /media/volumes/social/cover-01.png
 
 # Build settings
 theme: jekyll-theme-platoniq-journal

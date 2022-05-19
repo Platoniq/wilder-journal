@@ -10,9 +10,9 @@ title: "“BePart”: ¿Tiene el mismo poder la decisión de una alumna que la d
 description: "-"
 author: Marta Anducas Armengou & Elena Silvestrini
 cover:
-  path: /media/articles/heroes/bepart.jpg
-  mobile: /media/articles/mobile/bepart.jpg
-  thumbnail: /media/articles/thumbnails/bepart.jpg
+  path: /media/articles/heroes/bepart.png
+  mobile: /media/articles/mobile/bepart.png
+  thumbnail: /media/articles/thumbnails/bepart.png
   alt: "Clase con proyector"
   caption: "Clase con proyector"
   credits: "University of Alberta Archives (Public Domain Mark 1.0 Creative Commons License)"
@@ -22,7 +22,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/bepart.jpg
+  path: /media/articles/social/bepart.png
   alt: "# TODO"
 ---
 {% quote { "author": "Paulo Freire [1]" } %}“No está de más repetir aquí la afirmación todavía rechazada por mucha gente no obstante su obviedad: la educación es un acto político.”{% endquote %}

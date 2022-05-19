@@ -42,9 +42,9 @@ I noticed that the design thinking methodology, about which I had learned while 
 
 I started working on my own company, Committ, in 2015.
 
-### Ok so, as far as I understand, your target at the beginning was youth...
+### Ok so, as far as I understand, your target at the beginning was youth…
 
-Yes, youth CSOs. But since the beginning, our target has changed a lot: we worked with UNDP and NGOs in the period between 2015 and 2018, then the industry and the corporate world started asking for design thinking training...at the beginning I resisted, but after a while I thought why not? Thus in the late 2018 we organized our first corporate training. Today my team and I work with:
+Yes, youth CSOs. But since the beginning, our target has changed a lot: we worked with UNDP and NGOs in the period between 2015 and 2018, then the industry and the corporate world started asking for design thinking training…at the beginning I resisted, but after a while I thought why not? Thus in the late 2018 we organized our first corporate training. Today my team and I work with:
 
 1. CSOs and youth, a lot with UNDP in the Mena Region, the World Bank and GIZ, the German cooperation agency;
 2. the corporate world, big companies, small SMEs, incubators and startups;
@@ -80,7 +80,7 @@ Then, your last question touched the subject of co-creation vs. empathy. Co-crea
 
 For example, when I worked with GIZ and the government, the first time none of the participants was able to speak without interrupting the others. I spent like three sessions just helping them learn how to work together, not interrupting each other and summarizing their ideas. Then we were able to work; and to achieve that, I had to make them sing, play, doing yoga together, before they were able to start co-creating. This is something that people often do not think about, they want to achieve very high results immediately, investing very little and without taking into consideration adopting different perspectives, like theatre, music, dance. 
 
-Remember, co-creation works in the long term. Before we have to start the change with people, with their mindset. The working environment also plays a big role. Co-creation works easier and better when you take people out in nature to spend 3 or 4 days together in a hostel. But when you are in a meeting room where they used to work...mmh, it’s harder. In my experience, to make co-creation work you have to create a contest for it, to put people in the right mindset, especially for those who are not used to working together and are not trained in co-creation.
+Remember, co-creation works in the long term. Before we have to start the change with people, with their mindset. The working environment also plays a big role. Co-creation works easier and better when you take people out in nature to spend 3 or 4 days together in a hostel. But when you are in a meeting room where they used to work…mmh, it’s harder. In my experience, to make co-creation work you have to create a contest for it, to put people in the right mindset, especially for those who are not used to working together and are not trained in co-creation.
 
 ### Wow, so many thoughts! So, it sounds like you see yourself a lot as a facilitator rather than an expert necessarily. 
 
@@ -88,7 +88,7 @@ Oh, yeah, definitely!
 
 ### So this is one of the principles of Design Justice for example: the designer as a facilitator rather than an expert. Of course, you are an expert in your discipline, but the way you approach communities is by finding the way to facilitate their own knowledge, their own understanding.
 
-### And another question, you mentioned working with different communities and I was wondering if you adapt your way of working according to your target audience, especially with youth and less structured environments than ministerial or governmental world...what about participatory processes with communities and territories? Could you also touch on your specific national and local environment, for example as compared to Canada?
+### And another question, you mentioned working with different communities and I was wondering if you adapt your way of working according to your target audience, especially with youth and less structured environments than ministerial or governmental world…what about participatory processes with communities and territories? Could you also touch on your specific national and local environment, for example as compared to Canada?
 
 (*Ines laughs*) Yes, there are big differences between Canada and Tunisia, of course, but also, I did not do the same social work I do here in Tunisia when I was living in Canada so I cannot really compare. I can say that there are some basic concepts in Canadian education that we don’t have here in Tunisia, for example active listening, drawing to visualize information, learning to be short and effective. etc. So there are some basic competences for design thinking that “already exist” in Canada and in the USA and that here you have to build from scratch. And this is exactly what I have done when I first arrived here, I knew that the way design thinking existed, alyas referring and attached to the digital and virtual world, the way people talked about it, its specific terms, etc. could not work here. It had to be cut in small pieces and we had to add other pieces to make it easier to transfer and be digestive for Tunisians. 
 
