@@ -19,7 +19,7 @@ CIF: G-57728172
 
 Public Registry: Register of Foundations of State Competition with the number 1438 EDU
 
-E-mail: [info@goteo.org](mailto:info@goteo.org)
+E-mail: [info@platoniq.net](mailto:info@platoniq.net)
 
 ### INFORMATION AND PERSONAL DATA WE PROCESS
 
@@ -35,7 +35,7 @@ The data will also be processed in order to comply with the obligations generate
 
 The legitimacy of the treatment is based on the consent of the data subject or on the pre-contractual or contractual relationship and, in certain cases, for the legitimate interest, arising from, for example, security reasons.
 
-The nature and services provided by PLATONIQ FOUNDATION do not require the appointment of a Data Protection Officer for the management of personal data processing. In any case, the data obtained will be kept as long as it is necessary to manage the relationship, to prove responsibility or as long as it is registered. You may exercise your rights of access, limitation, portability, complaint to the Spanish Data Protection Authority, deletion or forgetfulness, rectification, cancellation and opposition to the processing of data or receipt of e-mailing in the e-mail info@goteo.org or at the address located at Carrer Forn de l'Olivera 22-07012 Palma (Balearic Islands).
+The nature and services provided by PLATONIQ FOUNDATION do not require the appointment of a Data Protection Officer for the management of personal data processing. In any case, the data obtained will be kept as long as it is necessary to manage the relationship, to prove responsibility or as long as it is registered. You may exercise your rights of access, limitation, portability, complaint to the Spanish Data Protection Authority, deletion or forgetfulness, rectification, cancellation and opposition to the processing of data or receipt of e-mailing in the e-mail info@platoniq.net or at the address located at Carrer Forn de l'Olivera 22-07012 Palma (Balearic Islands).
 
 Your data will be retained as long as it is necessary to manage the relationship or as long as you are registered.
 

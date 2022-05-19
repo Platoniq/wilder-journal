@@ -30,26 +30,13 @@ image:
   path: /media/articles/social/ahmed.png
   alt: "# TODO"
 ---
-Contar historias es algo que alberga un gran potencial para tender puentes entre las personas, ya que permite crear un vínculo emocional y establecer unas bases comunes a partir de las cuales impulsar la colaboración entre diferentes comunidades. Las historias nos conectan con cuestiones sociales que a menudo nos superan y, al hacer que conectemos con las vivencias de otras personas y sus motivaciones, logran también que adquiramos una visión de dichas problemáticas mucho más completa.
+{% quote %}Cuando llegué a Ancona todo estaba helado. Había corriente en la sala donde tuve que esperar, y mi chaqueta estaba mojada todavía. Creí que estaba preparado. Cuando estaba en Somalia lo leí todo acerca del viaje; todo, aunque tampoco demasiado, porque mi mujer siempre me pedía que lo dejara.{% endquote %}
 
-{% questions { "items": [{ "question": "¿Cómo pueden ayudarnos las historias a llevar las experiencias individuales a una dimensión colectiva?" }, { "question": "¿Cómo pueden contribuir a que la gente entienda cómo son las vivencias de los demás?" }, { "question": "¿Pueden servirnos para que las personas cuestionen sus sesgos hacia los demás?" }] } %}
+«En Internet la gente solo se inventa cuentos», decía.
 
-> Para poder abordar estos retos, apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología para CultureLabs, un proyecto en el que llevamos trabajando tres años. CultureLabs crea recursos para desarrollar procesos participativos con diferentes comunidades, aprovechando la riqueza del patrimonio cultural. El proyecto también organizó cuatro proyectos pilotos en diferentes regiones de Europa, cuya metodología de creación conjunta desarrollamos desde Platoniq. (Aquí se puede ver un resumen de la metodología: https://www.youtube.com/watch?v=Wmc7CNAafRM&t=268s).
+Sé que tenía razón, pero no podía evitarlo. Quería conocer los riesgos. Quería que esto saliera adelante.
 
-
-> En el caso concreto del proyecto CultureLabs —un proyecto en el que nos embarcamos junto a otras entidades para desarrollar una metodología que apoyase la creación conjunta de actividades participativas centradas en el patrimonio cultural— el hecho de contar historias fue un instrumento muy potente de cara a cuestionar sesgos, especialmente respecto a las comunidades de migrantes. Nuestro objetivo fue invitar a las demás entidades del proyecto que participaron en nuestro taller a que pensaran cómo sus propias experiencias vitales influyen sobre sus posturas en torno a la participación y el patrimonio cultural. Nuestro objetivo era también visualizar las diferentes vías de la migración, donde los viajes y las historias siguen diferentes rutas, para después poner esos casos en relación con los servicios de apoyo locales.
-
-
-> La escritora de relatos Evelien Vos escribió dos cuentos a partir de las vivencias reales de varias personas migrantes recogidas por COOSS, una organización que participaba en CultureLabs y que trabajaba con diversas comunidades de migrantes que llegaban a Ancona, Italia. El ilustrador Gonzalo Sainz Sotomayor enriqueció los relatos con dos dibujos llenos de fuerza.
-
-
-> Las historias se leyeron en voz alta a quienes participaron en el taller. A continuación, se hizo una dinámica con roles donde se pedía a los participantes que se preguntaran qué podría llevar a los integrantes de las comunidades migrantes a participar y volcarse en los proyectos de CultureLabs. De esta forma se instaba a los participantes a cuestionarse sus sesgos en los procesos de diálogo intercultural y creación conjunta.
-
-{% gallery { "simple": true, "images": [{"path":"/media/articles/heroes/ahmed.png"}] } %}
-
-### Cuando llegué a Ancona todo estaba helado. Había corriente en la sala donde tuve que esperar, y mi chaqueta estaba mojada todavía. Creí que estaba preparado. Cuando estaba en Somalia lo leí todo acerca del viaje; todo, aunque tampoco demasiado, porque mi mujer siempre me pedía que lo dejara. «En Internet la gente solo se inventa cuentos», decía. Sé que tenía razón, pero no podía evitarlo. Quería conocer los riesgos. Quería que esto saliera adelante.
-
-Apenas recuerdo los primeros días que pasé en este apartamento, donde vivo junto a otros cinco tipos más. Creo que me quedé en la cama todo el tiempo y nada más. Los días de viaje en el camión y las horas calado en el mar habían hecho mella en mi cuerpo, estuve temblando y con escalofríos. Cualquier movimiento hacía que me marease,  y todos los recuerdos que me asaltaban me mareaban también. La niña que se cayó del camión en el desierto, el chillido de su madre, los ojos grandes de los otros hijos de ella, la mujer del barco que murió en mi regazo. Sentía que mi cabeza era como el camión y como el barco, demasiado pequeña para todo lo que tenía dentro. Al menos aún tenía las fotos de mi mujer y mis seis hijos en el móvil. Cuando estaba despierto me obligaba a mirarlas, y el resto del tiempo intentaba dormir.
+Apenas recuerdo los primeros días que pasé en este apartamento, donde vivo junto a otros cinco tipos más. Creo que me quedé en la cama todo el tiempo y nada más. Los días de viaje en el camión y las horas calado en el mar habían hecho mella en mi cuerpo, estuve temblando y con escalofríos. Cualquier movimiento hacía que me marease, y todos los recuerdos que me asaltaban me mareaban también. La niña que se cayó del camión en el desierto, el chillido de su madre, los ojos grandes de los otros hijos de ella, la mujer del barco que murió en mi regazo. Sentía que mi cabeza era como el camión y como el barco, demasiado pequeña para todo lo que tenía dentro. Al menos aún tenía las fotos de mi mujer y mis seis hijos en el móvil. Cuando estaba despierto me obligaba a mirarlas, y el resto del tiempo intentaba dormir.
 
 Después de un día, o tres, empecé las clases de italiano y con eso volví un poco a la vida. Es un italiano un poco antiguo, nos enseñan a comprar en puestos del mercado y cosas así, aunque aquí por ahora solo he visto supermercados. Pero estoy contento de aprender cosas. No me he saltado ni una clase y pienso seguir así hasta que encuentre trabajo aquí.
 
@@ -67,4 +54,4 @@ Mientras tanto, una señora de COOSS, una ONG de aquí, está intentando convert
 
 Quizá hayas dejado de leer ya. Es una historia triste, lo sé. A mí tampoco me gustan las historias tristes.
 
-Por eso lo voy a dejar aquí. Voy a coger mis cosas e irme al parque de nuevo. Haré los deberes de italiano, intentaré ignorar a las señoras mayores italianas que van paseando con sus perrillos y que cruzan de acera cuando me ven sentado en el banco. Quizá luego llame a uno de los somalíes que hay aquí y procuraré mejorar un poco como futbolista; mis hijos tienen que estar orgullosos de su padre cuando vengan.
+Por eso lo voy a dejar aquí. Voy a coger mis cosas e irme al parque de nuevo. Haré los deberes de italiano, intentaré ignorar a las señoras mayores italianas que van paseando con sus perrillos y que cruzan de acera cuando me ven sentado en el banco. Quizá luego llame a uno de los somalíes que hay aquí y procuraré mejorar un poco como futbolista; mis hijos tienen que estar orgullosos de su padre cuando vengan

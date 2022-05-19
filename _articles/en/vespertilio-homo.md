@@ -10,10 +10,11 @@ description: "# TODO"
 author: Marta Anducas Armengou
 cover:
   path: /media/articles/heroes/vespertilio_homo.png
+  mobile: /media/articles/mobile/vespertilio_homo.png
   thumbnail: /media/articles/thumbnails/vespertilio_homo.png
-  alt: "# TODO"
-  credits: "# TODO"
-  caption: "# TODO"
+  alt: Illustration of the vespertilio homo published in The Sun (Wikimedia)
+  credits: Wikimedia (https://commons.wikimedia.org/wiki/File:Great-Moon-Hoax-1835-New-York-Sun-lithograph-298px.jpg)
+  caption: Illustration of the vespertilio homo published in The Sun (Wikimedia)
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -24,11 +25,11 @@ image:
 ---
 Did you know that in the mid-19th century, thanks to the great scientific advances made by the astronomer Sir John Herschel, the *vespertilio homo* –a short-haired, shiny creature with wings composed of a thin, hairless membrane– was discovered on the Moon?
 
-The news, credited to the Edinburgh Journal of Science, went viral in 1835 when it was published in The Sun newspaper. The scoop generated a huge popular stir, boosted the newspaper’s sales and profits, and became **the [first fake news in contemporary history](https://revistas.ucm.es/index.php/HICS/article/view/66268)**, named the Great Moon Hoax.
+The news, credited to the Edinburgh Journal of Science, went viral in 1835 when it was published in The Sun newspaper. The scoop generated a huge popular stir, boosted the newspaper's sales and profits, and became **the [first fake news in contemporary history](https://revistas.ucm.es/index.php/HICS/article/view/66268)**, named the Great Moon Hoax.
 
 How could the people of that time have swallowed such a hoax?
 
-“Apart from the technological innovation brought about by trains, steamships, fast presses, voicing children and low prices, there was one more factor that contributed to the spread of the 1835 hoax: the credulity of the masses in the new media.”
+"Apart from the technological innovation brought about by trains, steamships, fast presses, voicing children and low prices, there was one more factor that contributed to the spread of the 1835 hoax: the credulity of the masses in the new media."
 
 Recently, the Moon has been the protagonist of another hoax when a video of [a giant moon at the North Pole](https://maldita.es/malditobulo/20210928/video-luna-gigante-polo-norte-creado-digitalmente-real-montaje/) went viral. Although the video was created and shared on the [TikTok account](https://www.tiktok.com/@aleksey__nz/video/6963129421117132038) of a digital creation artist, some accounts have shared it as if it were a real phenomenon and the lie has shocked social networks.
 
@@ -40,7 +41,7 @@ In this article, we look back to understand how the production, distribution and
 
 Disinformation is not a new phenomenon and [History is full of falsehoods](https://www.thesocialhistorian.com/fake-news/): some have changed the course of events, others have generated succulent profits for a few, others have reinforced prejudices and generated collective moods, and many [have provoked violence](https://www.politico.eu/article/fake-news-elections-trump-media/).
 
-{% gallery { "simple": false, "images": [{"path":"/media/fake_news.png","alt":"Chronology of some historical fake news","caption":"Chronology of some historical fake news.","credits":"Common Sense Education"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/fake_news.png","alt":"Chronology of some historical fake news","caption":"Chronology of some historical fake news.","credits":"[Common Sense Education](https://www.commonsense.org/education/)"}] } %}
 
 **The history of disinformation alerts us to the damage that this phenomenon can cause in multiple social dimensions,** from the political system and international relations to migration or climate policies, among many others. Recently, we have seen its impact in the health field with the appearance of Covid-19, to the point that the WHO had to warn of an *infodemic* or overabundance of information superimposed on the pandemic.
 
@@ -58,17 +59,17 @@ In this context, **fighting disinformation is urgent and essential**. To this en
 
 Since the invention of the printing press, newspaper, radio and television publishers have monopolized the power to inform. Under their mandate, or editorial line, it was decided what was newsworthy and what was necessary to highlight, who was given a voice and who was kept on the sidelines. Consequently, they have also been responsible for the dissemination of historical hoaxes, from the *vespertilio homo* to the [Zinoviev letter](https://en.wikipedia.org/wiki/Zinoviev_letter), among many others.
 
-In today’s cyber society, **the phenomenon of disinformation has become globalized**. Nowadays, those who create and spread hoaxes can be both people with certain ideological interests and people with computer skills looking to make some money. In addition, the new digital framework has led to a large increase in the number of senders, incorporating new actors into the information distribution cycle who can disseminate unverified content.
+In today's cyber society, **the phenomenon of disinformation has become globalized**. Nowadays, those who create and spread hoaxes can be both people with certain ideological interests and people with computer skills looking to make some money. In addition, the new digital framework has led to a large increase in the number of senders, incorporating new actors into the information distribution cycle who can disseminate unverified content.
 
-If, in 1835, someone doubted the existence of the vespertilio homo “only” had to wait a few months for the arrival of the *Edinburgh Journal of Science* to verify the information, or to discover that the newspaper had ceased printing in 1833. If, in 2021, someone doubts the authenticity of the video of a giant moon, they only have to surf the internet for a few minutes or hours to verify the information.
+If, in 1835, someone doubted the existence of the vespertilio homo "only" had to wait a few months for the arrival of the *Edinburgh Journal of Science* to verify the information, or to discover that the newspaper had ceased printing in 1833. If, in 2021, someone doubts the authenticity of the video of a giant moon, they only have to surf the internet for a few minutes or hours to verify the information.
 
 Just as the phenomenon of disinformation has globalized, so has information. Nowadays, we are facing a paradigm shift in which people are no longer passive consumers of (dis)information, but opt for an active role in the cycle of production, distribution and consumption of information. **The power to inform has been distributed**.
 
 ### Media for (dis)information
 
-In late 1938, Orson Wells dramatized “[The War of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama))” on his radio program. For the public’s entertainment, the production team (*The Mercury Theatre*) decided to adapt H. G. Wells’ novel to the radio medium and used a news-bulletin format to relate the alien invasion. Although warned of the fiction, many people believed the story and panicked, or so the myth goes.
+In late 1938, Orson Wells dramatized "[The War of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama))" on his radio program. For the public's entertainment, the production team (*The Mercury Theatre*) decided to adapt H. G. Wells' novel to the radio medium and used a news-bulletin format to relate the alien invasion. Although warned of the fiction, many people believed the story and panicked, or so the myth goes.
 
-This event, which was repeated years later at Radio Quito with a tragic ending, is known for showing the power of the media, either because of the panic caused by the fictitious newscast or because of the media’s magnification of what happened.
+This event, which was repeated years later at Radio Quito with a tragic ending, is known for showing the power of the media, either because of the panic caused by the fictitious newscast or because of the media's magnification of what happened.
 
 **The credulity of the masses in the emerging media gives power to those who control such media**. In this context, disinformation is a powerful tool for creating fictitious realities or exaggerating certain events that have an impact on the population and ultimately benefit the interests of those who control the media.
 
@@ -78,7 +79,7 @@ Unlike traditional media, the new media –in addition to having increased the n
 2. In both social networks and messaging applications, much news are received through friends, family or people we follow, a fact that causes a greater predisposition to believe the information received.
 3. In social networks, the popularity of content is counted through likes or number of views. The higher the count, the more likely people are to tune in to the story, although such popularity has (perhaps) been inflated by the use of online bots.
 
-While hoaxes have exploited the characteristics of the new media, **we also find proposals that take advantage of these characteristics to promote knowledge and information**. On the one hand, fact-checking organizations have used social networks to fight online disinformation and encourage participation. On the other, **Wikipedia has leveraged the redistribution of power to create an open, collaborative and distributed place of knowledge**, with a strong reference base underpinning content, a system of historical traceability and open dialogue pages for controversial topics. In this model, information is no longer a single, unidirectional “truth” but a shared and distributed experience and knowledge.
+While hoaxes have exploited the characteristics of the new media, **we also find proposals that take advantage of these characteristics to promote knowledge and information**. On the one hand, fact-checking organizations have used social networks to fight online disinformation and encourage participation. On the other, **Wikipedia has leveraged the redistribution of power to create an open, collaborative and distributed place of knowledge**, with a strong reference base underpinning content, a system of historical traceability and open dialogue pages for controversial topics. In this model, information is no longer a single, unidirectional "truth" but a shared and distributed experience and knowledge.
 
 ### Contents for disinformation
 
@@ -86,7 +87,7 @@ The purpose of disinformation is and has always been to deceive or manipulate th
 
 In the historical analysis of disinformation, it should be kept in mind that **evidence can change over time, as knowledge evolves dynamically and in real time**. A recent example can be found on the twitter of the World Health Organization (WHO), who at the end of March 2020 stated that Covid-19 was not airborne:
 
-{% gallery { "simple": false, "images": [{"path":"/media/covid_not_airborne.png","credits":"@WHO (Twitter)","alt":"“FACT CHECK: COVID-19 is NOT airborne”.","caption":"“FACT CHECK: COVID-19 is NOT airborne”.","bw":true}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/covid_not_airborne.png","credits":"[@WHO \(Twitter\)](https://twitter.com/WHO/status/1243972193169616898)","alt":"FACT CHECK: COVID-19 is NOT airborne.","caption":"FACT CHECK: COVID-19 is NOT airborne."}] } %}
 
 Therefore, not all historical news that have turned out to be false have been made with the intention of disinformation. In these cases, both to avoid public confusion and to maintain the credibility of who issued the news, it is necessary to establish a historical traceability system that allows tracking of evidence and news. However, few platforms offer this feature. Again, we return to the Wikipedia model, which presents a historical traceability system that allows retracting and correcting truths that, over time, ceased to be so.
 
@@ -120,10 +121,10 @@ In this sense, we are involved in the [SMILES](https://smiles.platoniq.net/) Eur
 2. Amoedo, Avelino; Kaufmann, Jürg; Moreno, Elsa; Negredo, Samuel & Vara-Miguel, Alfonso. (2021). *DIGITALNEWSREPORT.ES 2021: Periodismo de calidad y cercanía para combatir la infodemia*. Digital News Report. <https://www.digitalnewsreport.es/>
 3. DiResta, Renée. (2021, July 21). *Institutional Authority Has Vanished. Wikipedia Points to the Answer.* The Atlantic. <https://www.theatlantic.com/ideas/archive/2021/07/cdc-should-be-more-like-wikipedia/619469/>
 4. Gelado-Marcos, Roberto & Puebla-Martínez, Belén. (2019). *Estudio de los factores condicionantes de la desinformación*. Laboratorio de periodismo. <https://laboratoriodeperiodismo.org/estudio-sobre-la-desinformacion/>
-5. Ramon-Vegas, Xavier; Mauri-Ríos, Marcel; & Rodríguez-Martínez, Ruth. (2020). *Redes sociales yplataformas de fact-checking contra la desinformación sobre la COVID-19*.Hipertext.net, (21), 79–92. <https://doi.org/10.31009/hipertext.net.2020.i21.07>
-6. Salas Abad, Carlos. (2019). *The first fake news of History*. Historia y Comunicación Social, 24(2), 411–431. <https://doi.org/10.5209/hics.66268>
+5. Ramon-Vegas, Xavier; Mauri-Ríos, Marcel; & Rodríguez-Martínez, Ruth. (2020). *Redes sociales yplataformas de fact-checking contra la desinformación sobre la COVID-19*.Hipertext.net, (21), 79-92. <https://doi.org/10.31009/hipertext.net.2020.i21.07>
+6. Salas Abad, Carlos. (2019). *The first fake news of History*. Historia y Comunicación Social, 24(2), 411-431. <https://doi.org/10.5209/hics.66268>
 7. Scolari A., Carlos. (2021). *«La guerra de los mundos»: la invasión transmedia*. CCCBLab. <https://lab.cccb.org/es/la-guerra-de-los-mundos-la-invasion-transmedia/>
 8. Soll, Jacob. (2016, December 19). *The long and brutal history of fake news*. Politico. <https://www.politico.eu/article/fake-news-elections-trump-media/>
 9. Starmans, Barbara. *10 Examples of Fake News from History.* The social historian. <https://www.thesocialhistorian.com/fake-news/>
-10. Timsit, Annabelle. (2019, February 12). *In the age of fake news, here’s how schools are teaching kids to think like fact-checkers*. Quartz. <https://qz.com/1533747/in-the-age-of-fake-news-heres-how-schools-are-teaching-kids-to-think-like-fact-checkers/>
+10. Timsit, Annabelle. (2019, February 12). *In the age of fake news, here's how schools are teaching kids to think like fact-checkers*. Quartz. <https://qz.com/1533747/in-the-age-of-fake-news-heres-how-schools-are-teaching-kids-to-think-like-fact-checkers/>
 11. *A Brief History of Fake News*. CITS. <https://www.cits.ucsb.edu/fake-news/brief-history>

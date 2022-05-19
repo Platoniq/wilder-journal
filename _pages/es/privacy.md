@@ -19,7 +19,7 @@ CIF: G-57728172
 
 Registro Público: Registro de Fundaciones de Competencia Estatal con el nº 1438 EDU
 
-E-mail: [info@goteo.org](mailto:info@goteo.org)
+E-mail: [info@platoniq.net](mailto:info@platoniq.net)
 
 
 
@@ -41,7 +41,7 @@ Los datos también serán tratados con la finalidad de cumplir las obligaciones 
 La legitimación del tratamiento se basa en el consentimiento del interesado o en la relación precontractual o contractual y, en determinados casos, por el interés legítimo, derivado de, por ejemplo, motivos de seguridad.
 
 
-La naturaleza y servicios que presta FUNDACIÓN PLATONIQ no requiere del nombramiento de un Delegado de Protección de Datos para la gestión de los tratamientos de datos personales. En cualquier caso, los datos obtenidos serán conservados mientras sean necesarios para gestionar la relación, para acreditar la responsabilidad o mientras estés dado ºde alta. Puedes ejercer los derechos de acceso, limitación, portabilidad, reclamación a la autoridad Española de Protección de Datos, supresión u olvido, rectificación, cancelación y oposición al tratamiento de datos o recepción de e-mailing en el e-mail info@goteo.org o en el domicilio sito en Carrer Forn de l’Olivera 22-07012 Palma (Illes Balears).
+La naturaleza y servicios que presta FUNDACIÓN PLATONIQ no requiere del nombramiento de un Delegado de Protección de Datos para la gestión de los tratamientos de datos personales. En cualquier caso, los datos obtenidos serán conservados mientras sean necesarios para gestionar la relación, para acreditar la responsabilidad o mientras estés dado ºde alta. Puedes ejercer los derechos de acceso, limitación, portabilidad, reclamación a la autoridad Española de Protección de Datos, supresión u olvido, rectificación, cancelación y oposición al tratamiento de datos o recepción de e-mailing en el e-mail info@platoniq.net o en el domicilio sito en Carrer Forn de l’Olivera 22-07012 Palma (Illes Balears).
 
 
 Tus datos serán conservados mientras sean necesarios para gestionar la relación o mientras estés dado de alta.
