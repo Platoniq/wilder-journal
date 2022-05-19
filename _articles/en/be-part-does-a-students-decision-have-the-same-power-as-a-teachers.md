@@ -8,9 +8,9 @@ uid: be-part-does-a-students-decision-have-the-same-power-as-a-teachers
 title: "“BePart”: Does a student's decision have the same power as a teacher's?"
 author: Marta Anducas Armengou & Elena Silvestrini
 cover:
-  path: /media/articles/heroes/bepart.jpg
-  mobile: /media/articles/mobile/bepart.jpg
-  thumbnail: /media/articles/thumbnails/bepart.jpg
+  path: /media/articles/heroes/bepart.png
+  mobile: /media/articles/mobile/bepart.png
+  thumbnail: /media/articles/thumbnails/bepart.png
   alt: "Classroom with projector"
   caption: "Classroom with projector"
   credits: "University of Alberta Archives (Public Domain Mark 1.0 Creative Commons License)"
@@ -22,7 +22,7 @@ stickers:
   sticker_two: null
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/bepart.jpg
+  path: /media/articles/social/bepart.png
 ---
 {% quote { "author": "Paulo Freire [1]" } %}“It is worth repeating here an affirmation still rejected by many people despite its obviousness: education is a political act.”{% endquote %}
 
