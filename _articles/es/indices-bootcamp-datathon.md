@@ -2,26 +2,32 @@
 layout: article
 volume-uid: wilder-journal-1
 category: reports
+published: true
 date: 2022-04-22T11:27:04.485Z
 article-order: 10
 uid: indices-bootcamp-datathon
 title: El inDICEs Bootcamp, un Datathon por una democracia más justa
-description: "-"
-author: Tayrine Dias en colaboración con Aisha Villegas
+description: En el evento las participantes trabajaron en la intersección de datos, la digitalización y el patrimonio cultural, explorando los datos como recursos culturales
+author: Tayrine Dias in collaboration with Aisha Villegas
+author_uids:
+  - tayrine-dias
+  - aisha-villegas
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: "-"
-  credits: "-"
-  caption: "-"
+  path: /media/articles/heroes/indices.jpeg
+  thumbnail: /media/articles/thumbnails/indices.jpeg
+  mobile: /media/articles/mobile/indices.jpeg
+  alt: Personas participando en el Bootcamp de inDICEs celebrado el 23 y 24 de noviembre de 2022 en el Canòdrom
+  credits: Platoniq
+  caption: Personas participando en el Bootcamp de inDICEs celebrado el 23 y 24 de noviembre de 2022 en el Canòdrom
 stickers:
-  layout: layout-none
+  layout: layout-two
   sticker_one_animation: animation-none
-  sticker_two_animation: animation-none
+  sticker_two_animation: animation-breathe
+  sticker_one: ""
+  sticker_two: /media/stickers/wilder-journal-1/sticker17.png
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: "-"
+  mobile: /media/articles/social/indices.jpeg
 ---
 Los días 23 y 24 de noviembre, **Platoniq** celebró el **inDICEs Bootcamp** en el [Canòdrom](https://canodrom.barcelona/) de Barcelona. El espacio es un ateneo-laboratorio que busca acercar la cultura digital y la innovación democrática. Como centro cultural y lugar de encuentro de organizaciones de base, proyectos sociales y centros de investigación, fue el lugar perfecto para reunir a más de 20 investigadores, profesionales, *practitioners,* ciudadanas y ciudadanos para el evento.
 
@@ -52,11 +58,11 @@ Recogida de datos para diseñar el impacto con el **Europeana Impact Steering Co
 
 ## **Por una democracia más justa, datos accesibles, inclusivos y usables**
 
-A diferencia de la mayoría de los *datathons*, el Bootcamp de inDICEs se centró en visualizar los datos disponibles y darles vida para un público no especializado. Para visualizar los datos como narrativas accesibles, la artista, profesora e ilustradora [Hayfaa Chalabi](https://hayfaachalabi.com/) presentó casos de datos y habló de su propia experiencia en la creación de narrativas de datos accesibles e impactantes en torno a la cultura visual, el género y la migración. En sus palabras, “no existen los datos neutrales. La visualización de datos es siempre emocional”.
+A diferencia de la mayoría de los *datathons*, el Bootcamp de inDICEs se centró en visualizar los datos disponibles y darles vida para un público no especializado. Para visualizar los datos como narrativas accesibles, la artista, profesora e ilustradora [Hayfaa Chalabi](https://hayfaachalabi.com/) presentó casos de datos y habló de su propia experiencia en la creación de narrativas de datos accesibles e impactantes en torno a la cultura visual, el género y la migración. En sus palabras, "no existen los datos neutrales. La visualización de datos es siempre emocional".
 
 {% gallery { "simple": false, "images": [{"path":"/media/indices_4.jpeg","caption":"Keynote speaker: Hayfaa Chalabi"}] } %}
 
-También se unió al evento **Pablo Aragón**, científico investigador de la **Fundación Wikimedia**, donde se centra en la integridad de los contenidos y la resistencia a la desinformación en Wikipedia y otros proyectos de conocimiento libre. Aragón hizo una presentación sobre la gobernanza comunitaria para hacer frente a la desinformación en el caso de Wikimedia, que según él “ha demostrado que la web puede seguir siendo un espacio abierto para el conocimiento libre”.
+También se unió al evento **Pablo Aragón**, científico investigador de la **Fundación Wikimedia**, donde se centra en la integridad de los contenidos y la resistencia a la desinformación en Wikipedia y otros proyectos de conocimiento libre. Aragón hizo una presentación sobre la gobernanza comunitaria para hacer frente a la desinformación en el caso de Wikimedia, que según él "ha demostrado que la web puede seguir siendo un espacio abierto para el conocimiento libre".
 
 {% gallery { "simple": false, "images": [{"path":"/media/indices_5.jpeg","caption":"Pablo Aragón introduces his work with Wikipedia"}] } %}
 

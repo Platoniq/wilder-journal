@@ -21,9 +21,10 @@ It is also the driving force behind the civic crowdfunding platform Goteo.org, w
 
 Platoniq Foundation promotes transparency, collaborative and ethical economy, democratic innovation and the replicability of experiences. It is financed via partnerships with public and private institutions that share its mission and vision. We have 23 employees in our offices in Barcelona, Madrid, Rome and Palma (head office and tax office) and a team of collaborators in Spain and other European countries.
 
-{% quote { "author": "Susana Noguero, founder of Platoniq Foundation" } %}Ever since societies have understood that learning is fundamental to progress, there have been games with rules. Can we learn to participate in our democracies through gamification? Democracy is fun if we take it...seriously!{% endquote %}
 
-{% quote { "author": "Olivier Schulbaum, founder of Platoniq Foundation" } %}Institutions and policy makers hunger for wider participation. Citizens challenge them with wiLder participation. Deliberative democracy is just one letter away! Let’s debate, let’s mix and mingle!{% endquote %}
+{% author { "name": "Susana Noguero", "position": "Co-founder of Platoniq Foundation", "image": { "path": "/media/susana.jpeg", "alt": "Susana Noguero, co-founder of Platoniq Foundation" }, "description": "\"Ever since societies have understood that learning is fundamental to progress, there have been games with rules. Can we learn to participate in our democracies through gamification? Democracy is fun if we take it...seriously!\"" } %}
+
+{% author { "name": "Olivier Schulbaum", "position": "Co-founder of Platoniq Foundation", "image": { "path": "/media/olivier.jpg", "alt": "Olivier Schulbaum, co-founder of Platoniq Foundation" }, "description": "\"Institutions and policy makers hunger for wider participation. Citizens challenge them with wiLder participation. Deliberative democracy is just one letter away! Let's debate, let's mix and mingle!\"" } %}
 
 ## What is our mission?
 

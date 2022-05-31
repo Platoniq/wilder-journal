@@ -2,27 +2,31 @@
 layout: article
 volume-uid: wilder-journal-1
 category: reports
+published: true
 date: 2022-01-01T00:00:00.000Z
 article-order: 11
 uid: democracy-is-fun
-title: Democracy is fun if you take it… seriously!
-description: "[# TODO] Democracy is fun if you take it… seriously!"
+title: Democracy is fun if you take it... seriously!
+description: Digital platforms for citizen participation created by local governments "represent", in a way, the democratization of participatory politics.
 author: Olivier Schulbaum
+author_uids:
+  - olivier-schulbaum
 cover:
   path: /media/articles/heroes/sticker12.png
   thumbnail: /media/articles/thumbnails/sticker12.png
   mobile: /media/articles/mobile/sticker12.png
-  alt: "Smiling binoculars"
-  credits: "Alba Feito for Platoniq"
-  caption: "Wilder Journal Sticker Pack"
+  alt: "Wilder Journal #1 sticker by Alba Feitó"
+  credits: Alba Feitó
+  caption: "Wilder Journal #1 sticker"
 stickers:
-  layout: layout-none
+  layout: layout-two
   sticker_one_animation: animation-none
-  sticker_two_animation: animation-none
+  sticker_two_animation: animation-breathe
+  sticker_one: ""
+  sticker_two: /media/stickers/wilder-journal-1/sticker17.png
 call_to_action: cta-contact
 image:
   path: /media/articles/social/sticker12.png
-  alt: "# TODO"
 ---
 ### Four out of eight Big Challenges in citizen participation
 
@@ -40,7 +44,7 @@ Since academic research, driven by the juicy video game industry, discovered the
 
 {% quote %}We breathe a sigh of relief to be in a democracy, but it only motivates us when it is threatened.{% endquote %}
 
-If we think about the moments when political action, formal or informal, motivates many people to get involved, a backdrop of instability, injustice, in short, of alterations sufficiently striking to provoke emotions, whether positive or negative, appears. We often hear the defense of boring politics, especially from a conservative point of view. But also from the progressive point of view when it has been in the majority: when politics is boring it is a symptom that everything " is going well". In any case, stability and democratic maturity — which is dreadful, inaccessible or incomprehensible to the majority — does not have to forgo being interesting and fun. At platoniq we have designed workshops on co-creation of incentives for participation and workshops on pro-commons data culture and digital care. The citizen initiative gamified lifecycle in Decide.Madrid
+If we think about the moments when political action, formal or informal, motivates many people to get involved, a backdrop of instability, injustice, in short, of alterations sufficiently striking to provoke emotions, whether positive or negative, appears. We often hear the defense of boring politics, especially from a conservative point of view. But also from the progressive point of view when it has been in the majority: when politics is boring it is a symptom that everything "is going well". In any case, stability and democratic maturity — which is dreadful, inaccessible or incomprehensible to the majority — does not have to forgo being interesting and fun. At Platoniq we have designed workshops on co-creation of incentives for participation and workshops on pro-commons data culture and digital care. The citizen initiative gamified lifecycle in Decide.Madrid
 
 ### Challenge 2: (More) secure participation spaces
 
@@ -48,14 +52,14 @@ In Platoniq, as facilitators, hosts and co-designers of processes of participati
 
 We propose the design of forms of support for participation that focus on the following principles
 
-* **No harm:** a space that aims to reduce as much as possible the possibility of any kind of physical and/or psychological harm to participants (this may be related to provoking violence and conflict, triggering trauma or mental disorders, health…)
+* **No harm:** a space that aims to reduce as much as possible the possibility of any kind of physical and/or psychological harm to participants (this may be related to provoking violence and conflict, triggering trauma or mental disorders, health...)
 * **Focus on the experiences of marginalized people** in relation to the project area or its themes
 * **Support the creation of spaces for marginalized communities** and actors to have a space at the table or resources to build their own spaces for collaboration and co-creation
 * **Redesigning participation to eliminate or reduce barriers** that marginalize or create exclusive spaces due to normative ideas of bodies and capacities.
 * **Recognize and address social and contextual power** in participation processes.
 * **Use what already works** (methodologies, communities' own procedures) and not impose new models when there is already a good basis on which to build.
 
-{% quote %}A key to solving the enormous challenges of citizen participation is to train those involved in the process to become facilitators. Train a group of neighbors in the neighborhoods where intervention takes place with diverse profiles (age, origin, gender…) to facilitate inclusive participation.{% endquote %}
+{% quote %}A key to solving the enormous challenges of citizen participation is to train those involved in the process to become facilitators. Train a group of neighbors in the neighborhoods where intervention takes place with diverse profiles (age, origin, gender...) to facilitate inclusive participation.{% endquote %}
 
 {% gallery { "images": [{"path":"/media/moving_communities.png","caption":"[The Moving Communities](https://wotify.eu/blog/t_tool_package/moving-communities/) methodology is a collaborative working platform for developing ideas focused on building societies with greater equality, sustainability, solidarity, and sense of social justice","alt":"Moving Communities"}] } %}
 
@@ -75,7 +79,7 @@ On the other hand, it is key that the technical staff in public participation fa
 
 The public reception and the great expectation generated by the digital platforms for citizen participation of the city councils of Madrid and Barcelona -[Decide](https://decide.madrid.es/) and [Decidim](https://www.decidim.barcelona/processes?locale=es)- highlights the need to promote this form of direct democracy. These platforms are essential pieces of the puzzle of digital democracy, to **create a framework for the interrelationship between citizens' demands, the agents involved in citizen services and the design of the city's plans and investments**.
 
-To cite an example that we know best, the city of Barcelona has ahead of it the challenge of setting up a comprehensive digital Training and Mediation Plan for democracy. This Plan contemplates different dimensions: a dissemination campaign to make the Decidim platform known to wide social sectors, training sessions in the city's local facilities for the use of Decidim (libraries, neighborhood centres, civic centres, old people's homes…), dissemination of Decidim among the organised citizenry and the social fabric and, finally, specific training aimed at the professionalization of experts in digital mediation and facilitation.
+To cite an example that we know best, the city of Barcelona has ahead of it the challenge of setting up a comprehensive digital Training and Mediation Plan for democracy. This Plan contemplates different dimensions: a dissemination campaign to make the Decidim platform known to wide social sectors, training sessions in the city's local facilities for the use of Decidim (libraries, neighborhood centres, civic centres, old people's homes...), dissemination of Decidim among the organised citizenry and the social fabric and, finally, specific training aimed at the professionalization of experts in digital mediation and facilitation.
 
 
 {% gallery { "simple": false, "images": [{"path":"/media/decidim_barcelona.png","caption":"Promoting citizen action and the Barcelona Neighborhood Plan as an integral action tool for improving living conditions, social equity and the right to the city.", "credits": "[Decidim.Barcelona](https://www.decidim.barcelona/processes/PAM2020)"}] } %}
@@ -90,7 +94,7 @@ In Platoniq we believe that digital **technology is a powerful tool for strength
 
 {% gallery { "simple": false, "images": [{"path":"/media/open_heritage_prakow.png","caption":"Navigating participatory processes using blueprints and maps of a site or building. <br>*A Decidim feature developed by Platoniq*","alt":"Open Heritage"}] } %}
 
-Likewise, from the Coincidim! (lets co-influence!) project, we are working together with grassroots activists organization from the Barcelona Metropolitan area such as Aigua es vida (water is life) and the catalan NGO Enginyeria Sense Fronteres, to transform the platform into a space where the right to information, access and participation in the field of basic amenities is guaranteed, turning it into a tool for citizens to guarantee their fundamental rights. The running pilot is focusing on basic access to water and energy within vulnerable neighborhoods.
+Likewise, from the [Coincidim](/en/wilder-journal-1/reports/coincidim-using-decidim-in-citizen-movements) (Spanish for *Let's co-influence*) project, we are working together with grassroots activists organization from the Barcelona Metropolitan area such as Aigua es vida (water is life) and the catalan NGO Enginyeria Sense Fronteres, to transform the platform into a space where the right to information, access and participation in the field of basic amenities is guaranteed, turning it into a tool for citizens to guarantee their fundamental rights. The running pilot is focusing on basic access to water and energy within vulnerable neighborhoods.
 
 However, we are aware that social inequalities are reproduced and perpetuated through the digital sphere. For this reason, and in order to include all of us, **we believe it is essential to [consider the digital divide in any process of digital transition](https://medium.com/tecnologia-digital-derechos-y-empoderamiento/does-the-digital-participation-gap-have-gender-d09f46ba3fb9).**
 

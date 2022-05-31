@@ -13,7 +13,7 @@ In accordance with Regulation (EU) 2016/679 of 27 April 2016 on the protection o
 
 Holder: **FUNDACIÓN PLATONIQ**
 
-Registered office: Carrer Forn de l’Olivera, 22-07012, Palma de Mallorca, Islas Baleares
+Registered office: Carrer Forn de l'Olivera, 22-07012, Palma de Mallorca, Islas Baleares
 
 CIF: G-57728172
 

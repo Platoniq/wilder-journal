@@ -30,8 +30,8 @@ collections:
     output: true
     custom_permalink_placeholders: ["locale", "volume-uid", "category","uid"]
     permalink: /:locale/:volume-uid/:category/:uid/
-  # authors:
-  #   output: false
+  authors:
+    output: false
   call_to_actions:
     output: false
   volumes:
@@ -94,8 +94,9 @@ exclude: [Gemfile, Gemfile.lock, README.md, LICENSE.txt, .editorconfig]
 
 # Plugins
 plugins:
-  - jekyll-target-blank
   - jekyll-loading-lazy
+  - jekyll-target-blank
+  - jekyll-sitemap
 
 target-blank:
   add_css_classes: link-external

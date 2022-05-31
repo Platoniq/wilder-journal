@@ -2,13 +2,16 @@
 layout: article
 volume-uid: wilder-journal-1
 category: reports
+published: true
 date: 2022-04-01T11:25:28.606Z
 date-updated: 2022-05-05T17:28:21.287Z
 article-order: 12
 uid: emptied-rural-spain
 title: The emptied Spain and its fires
 description: Citizen initiatives that use crowdfunding to save our forests
-author: Joan Cabot
+author: Joan B. Cabot
+author_uids:
+  - joan-cabot
 cover:
   path: /media/articles/heroes/incendio.png
   thumbnail: /media/articles/thumbnails/sticker_incendio.png
@@ -21,19 +24,19 @@ related_article_uids:
   - nature-sdg-in-goteo
   - recovering-collaborative-governance-through-design-justice
 stickers:
-  layout: layout-none
+  layout: layout-two
   sticker_one_animation: animation-none
-  sticker_two_animation: animation-none
-  sticker_one: null
-  sticker_two: null
+  sticker_two_animation: animation-breathe
+  sticker_one: ""
+  sticker_two: /media/stickers/wilder-journal-1/sticker17.png
 call_to_action: cta-donate
 image:
   path: /media/articles/social/incendio.png
   alt: The emptied Spain and its fires
 ---
-My great grandmother used to say: "The whole village goes to fire and to wedding." I never knew if he meant that with the chimney burning in winter there was always a visit to warm up at home… or that in a fire community solidarity was activated to extinguish it. I want to believe that he was referring to both situations, well Galician was. We will talk about all of them in this article.
+My great grandmother used to say: "The whole village goes to fire and to wedding." I never knew if he meant that with the chimney burning in winter there was always a visit to warm up at home... or that in a fire community solidarity was activated to extinguish it. I want to believe that he was referring to both situations, well Galician was. We will talk about all of them in this article.
 
-It is as surprising as disconcerting to repeat a mistake when we think we know the cause, so having to regret every summer as the flames devour forests, fields and houses is really sad. As the [Pau Costa Foundation](https://www.paucostafoundation.org/) reminds us, fire is a phenomenon present in nature and, in a controlled way, is a tool. We use it for cooking, heating, manufacturing tools… What is happening in our forests so that an element that was once our ally is now our enemy? At what time have we gone from using fire in our favor to having to protect ourselves from fire?
+It is as surprising as disconcerting to repeat a mistake when we think we know the cause, so having to regret every summer as the flames devour forests, fields and houses is really sad. As the [Pau Costa Foundation](https://www.paucostafoundation.org/) reminds us, fire is a phenomenon present in nature and, in a controlled way, is a tool. We use it for cooking, heating, manufacturing tools... **What is happening in our forests so that an element that was once our ally is now our enemy?** At what time have we gone from using fire in our favor to having to protect ourselves from fire?
 
 In the drafting of Fundación Goteo we were talking about it and we defined three concepts (fire, fire and town). We wanted to understand their relationship and decided to contact who could explain. Believers to the core in mutual support, we pulled the agenda and asked for help from three groups that had campaigned on our platform: [Civio](https://www.goteo.org/project/espana-en-llamas), [Rebrotem](https://www.goteo.cc/rebrotem) y [Proxecto Batefogo](https://www.goteo.org/project/arbores-que-non-arden).
 
@@ -67,11 +70,11 @@ Finally, [Rebrotem](https://goteo.cc/rebrotem) questioned the whole society: **H
 
 Once the presentations were made, Javier, Miguel and Roger met at a videoconference to tell their experience and learn more about the other projects. Some interesting contributions are those that you can read here, as well as listen to them in selected court.
 
-**Javier (Civio)**: Of the 525 municipalities throughout Spain with areas declared high risk of fire, only 61 have prevention plans. In many cases they are small municipalities with a lot of forest mass and do not have the financial resources to carry out the plan. Many times it is not easy to identify land ownership, a prerequisite for any intervention on them. There is a lack of coordination between the administration and the rural agents, an ignorance of the casuistry and problems of key aspects such as rural depopulation, the aging of the population, the lack of resources… where it is very difficult to change dynamics.
+**Javier (Civio)**: Of the 525 municipalities throughout Spain with areas declared high risk of fire, only 61 have prevention plans. In many cases they are small municipalities with a lot of forest mass and do not have the financial resources to carry out the plan. Many times it is not easy to identify land ownership, a prerequisite for any intervention on them. There is a lack of coordination between the administration and the rural agents, an ignorance of the casuistry and problems of key aspects such as rural depopulation, the aging of the population, the lack of resources... where it is very difficult to change dynamics.
 
 {% video { "title": "Intervention of the Civio Citizen Foundation in the DialoGoteo 'Empty Spain and its fires'", "url": "https://www.youtube.com/embed/RYnNhSB4a4o" } %}
 
-**Roger (Rebrotem)**: Strongly agree. In the area where I live (Ribera d'Ebre) we have seen how the forest mass has doubled and that is a problem. The regression of the primary sector is evident because many of the people who lived on the land have been lost: wine, oil, sweet fruit… they are paid at insufficient prices by the large distributors and it is not possible to compete with the product of import, which is achieved at a cheaper price, being more interesting for the profit margins of large food surfaces. The current climate change aggravates the situation: dry weather, high temperatures and strong winds are able to break the barrier of the atmosphere, causing a "rain of fire" that devastates everything.
+**Roger (Rebrotem)**: Strongly agree. In the area where I live (Ribera d'Ebre) we have seen how the forest mass has doubled and that is a problem. The regression of the primary sector is evident because many of the people who lived on the land have been lost: wine, oil, sweet fruit... they are paid at insufficient prices by the large distributors and it is not possible to compete with the product of import, which is achieved at a cheaper price, being more interesting for the profit margins of large food surfaces. The current climate change aggravates the situation: dry weather, high temperatures and strong winds are able to break the barrier of the atmosphere, causing a "rain of fire" that devastates everything.
 
 All these factors (weather, depopulation and lack of prevention plans) are fatal. Here, in Catalonia, the fire in Ribera d'Ebre has brought forest management to the national political debate. On a social level we can do more and ADF (Forest Defense Associations) are already being formed. In Rebrotem we are seeing that, which was the time to call on citizens to activate solidarity and awareness about this issue. That is how we got in touch with Fundación Goteo to start the crowdfunding campaign and get co-financed with the solidarity platform that recovery, establishing a minimum of €50,000 and an optimum of €250,000 (at the date of writing they had raised €84,372). The long-term objective is for the administration and the population to recover that link that Javier was talking about.
 
@@ -93,15 +96,15 @@ From there it arises to open a space for debate and we contacted a series of aut
 
 ### Conclusions
 
-To end with our contribution, we want to underline one of the factors that we consider key in this situation: in this #EspañaVaciada (Spanish for *emptied Spain*) we need institutional strategies with the participation of all the actors involved that allow us to reverse the current trend, there is a human and cultural heritage that is necessary to protect , so that everyone lives wherever they want and does not have to leave where they want to live.
+To end with our contribution, we want to underline one of the factors that we consider key in this situation: in this #EspañaVaciada (Spanish for *emptied Spain*) we need institutional strategies with the participation of all the actors involved that allow us to reverse the current trend, **there is a human and cultural heritage that is necessary to protect , so that everyone lives wherever they want and does not have to leave where they want to live**.
 
 We know that the problem of emptied Spain is not new and goes back several decades. Here the objective is not only to be part of the political agenda but also to implement a common strategy against the demographic challenge in favor of the rural environment
 
-Here are two of our missions as a foundation, support for any initiative that generates and strengthens the Democratic Footprint that allows citizens to make decisions on aspects that affect the common; and the care of our environment, of our environment, creating dynamics that favor a positive and sustainable Ecological Footprint for the planet.
+Here are two of our missions as a foundation, **support for any initiative that generates and strengthens the Democratic Footprint that allows citizens to make decisions on aspects that affect the common; and the care of our environment**, of our environment, creating dynamics that favor a positive and sustainable Ecological Footprint for the planet.
 
 As we see, with the current dynamics, the consequences are stopped and people who know how to prevent the situation are obvious. Ancestral knowledge that was transmitted from generation to generation, creating a robust rural economy today becomes invisible. We can thank the emergence of groups such as these, and many others, who make a great effort to raise awareness and activism to revitalize the mountain and promote a positive change on the landscape.
 
-If we already found the activities that each of these groups carry out very interesting, what ended up fascinating us was the exchange of ideas and opinions that followed. It is dialogue, which we affectionately call "DiáloGoteo", is available in the following video.
+**If we already found the activities that each of these groups carry out very interesting, what ended up fascinating us was the exchange of ideas and opinions that followed**. It is dialogue, which we affectionately call "DiáloGoteo", is available in the following video.
 
 {% video { "title": "Civio, Rebrotem and Proxecto Batefogo discuss the prevention of forest fires in Spain", "url": "https://www.youtube.com/embed/J6932KwaAAU" } %}
 

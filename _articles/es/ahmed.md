@@ -2,6 +2,7 @@
 layout: article
 volume-uid: wilder-journal-1
 category: stories
+published: true
 date: 2022-05-12T10:21:21.857Z
 date-updated: 2022-05-12T10:21:21.974Z
 article-order: 20
@@ -13,14 +14,16 @@ description: Cuando llegué a Ancona todo estaba helado. Había corriente en la
   aunque tampoco demasiado, porque mi mujer siempre me pedía que lo dejara. «En
   Internet la gente solo se inventa cuentos», decía. Sé que tenía razón, pero no
   podía evitarlo. Quería conocer los riesgos. Quería que esto saliera adelante.
-author: Elena Silvestrini
+author: Evelien Vos
+author_uids:
+  - evelien-vos
 cover:
   path: /media/articles/heroes/ahmed.png
   mobile: /media/articles/mobile/ahmed.png
   thumbnail: /media/articles/thumbnails/ahmed.png
-  alt: "# TODO"
-  credits: "# TODO"
-  caption: "# TODO"
+  alt: "Ilustración para 'Ahmed' por Gonzalo Sainz Sotomayor"
+  credits: Gonzalo Sainz Sotomayor
+  caption: Ilustración para 'Ahmed'
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -28,7 +31,6 @@ stickers:
 call_to_action: cta-newsletter
 image:
   path: /media/articles/social/ahmed.png
-  alt: "# TODO"
 ---
 {% quote %}Cuando llegué a Ancona todo estaba helado. Había corriente en la sala donde tuve que esperar, y mi chaqueta estaba mojada todavía. Creí que estaba preparado. Cuando estaba en Somalia lo leí todo acerca del viaje; todo, aunque tampoco demasiado, porque mi mujer siempre me pedía que lo dejara.{% endquote %}
 

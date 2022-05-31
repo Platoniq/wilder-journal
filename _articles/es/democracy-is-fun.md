@@ -2,34 +2,38 @@
 layout: article
 volume-uid: wilder-journal-1
 category: reports
+published: true
 date: 2022-01-01T00:00:00.000Z
 article-order: 11
 uid: democracy-is-fun
 title: Gamificación, incentivos y espacios más seguros para mejorar la democracia
-description: "[# TODO] Gamificación, incentivos y espacios más seguros para
-  mejorar la democracia"
+description: Hoy día, las plataformas digitales de participación ciudadana creadas
+  por los gobiernos locales "representan" la democratización de la política participativa.
 author: Olivier Schulbaum
+author_uids:
+  - olivier-schulbaum
 cover:
   path: /media/articles/heroes/sticker12.png
   thumbnail: /media/articles/thumbnails/sticker12.png
   mobile: /media/articles/mobile/sticker12.png
-  alt: "Smiling binoculars"
-  credits: "Alba Feito for Platoniq"
-  caption: "Wilder Journal Sticker Pack"
+  alt: "Sticker del Wilder Journal #1 por Alba Feitó"
+  credits: Alba Feitó
+  caption: "Sticker del Wilder Journal #1"
 stickers:
-  layout: layout-none
+  layout: layout-two
   sticker_one_animation: animation-none
-  sticker_two_animation: animation-none
+  sticker_two_animation: animation-breathe
+  sticker_one: ""
+  sticker_two: /media/stickers/wilder-journal-1/sticker17.png
 call_to_action: cta-contact
 image:
   path: /media/articles/social/sticker12.png
-  alt: "# TODO"
 ---
 ### 4/8 Desafíos descomunales de la participación ciudadana
 
 Desde que las sociedades entendieron que aprender es fundamental para progresar, existen los juegos con reglas. La mayoría de los juegos nacieron como reflejo de la vida real, muchas veces –no lo perdamos de vista– de la guerra. El ajedrez se enseñaba en la Edad Media para aprender estrategia militar. En los torneos de caballeros, puro entrenamiento militar, ya se utilizaban elementos de gamificación como los puntos, las medallas, los niveles y los premios, que iban desde ganar oro a las cintas de las damiselas. **Pero, ¿podemos aprender con la gamificación sobre valores democráticos y sus instituciones, o sobre cómo participar en nuestra democracia?**
 
-### **Reto #1: Solo nos motiva la participación cuando la democracia está amenazada**
+### **Desafío #1: Solo nos motiva la participación cuando la democracia está amenazada**
 
 Hoy día, las plataformas digitales de participación ciudadana creadas por los gobiernos locales "representan", de alguna manera, la democratización de la política participativa. La ciudadanía puede acceder a ellas y ser parte activa de las propuestas y decisiones de sus gobiernos. Sin embargo, la gente entra continuamente en Internet pero pocas veces accede a estas plataformas. ¿Por qué? Sencillo: la política como contenido resulta aburrida, y colaborar en asuntos públicos, bastante tedioso. Pero OJO, como artesanos innovadores democráticos que somos, no nos libramos y solemos repetir el mismo error de usar lenguajes asépticos o que resultan crípticos para la ciudadanía.
 
@@ -53,7 +57,7 @@ Decide Madrid es una herramienta social que permite que cualquier persona de Mad
 
 El usuario mantiene con la plataforma lo que se denomina un "involucramiento progresivo" mediante una mecánica basada en proporcionar incentivos a los participantes de forma escalonada; por un lado, invitando a superar metas, en este caso sumando apoyos de personas en la propuesta y, por otro, al alcanzar las metas, desbloqueando nuevos recursos para difundir su propuesta como sistema de logro-recompensa.
 
-### **Reto #2: Espacios de participación (más) seguros**
+### **Desafío #2: Espacios de participación (más) seguros**
 
 En Platoniq, como facilitadoras, anfitrionas y co-diseñadoras de procesos de participación y co-creación, creemos que es nuestra responsabilidad fomentar espacios que sean conscientes y aborden activamente los problemas de identidad, poder, privilegio, opresión y legitimidad.
 
@@ -65,18 +69,18 @@ Estamos desarrollando un marco para que Platoniq evalúe sus propios proyectos y
 
 Proponemos el diseño de formas de apoyo a la participación que se centren en los siguientes principios:
 
-* **Sin daño:** un espacio que tiene como objetivo reducir al máximo la posibilidad de que se produzca cualquier tipo de daño físico y/o psicológico para las participantes (esto puede relacionarse con provocar violencia y conflicto, desencadenar traumas o trastornos mentales, salud…)
+* **Sin daño:** un espacio que tiene como objetivo reducir al máximo la posibilidad de que se produzca cualquier tipo de daño físico y/o psicológico para las participantes (esto puede relacionarse con provocar violencia y conflicto, desencadenar traumas o trastornos mentales, salud...)
 * **Poner el foco en las experiencias de las personas marginadas** en relación con el área del proyecto o sus temas
 * **Apoyar la creación de espacios para las comunidades y actores marginados** para que tengan un espacio en la mesa o recursos para construir sus propios espacios de colaboración y co-creación
 * **Rediseñar la participación para eliminar o reducir las barreras** que marginan o crean espacios exclusivos debido a las ideas normativas de los cuerpos y las capacidades.
 * **Reconocer y abordar el poder social y contextual** en los procesos de participación.
 * **Usar lo que ya funciona** (metodologías, procedimientos de las propias comunidades) y no imponer nuevos modelos cuando ya hay una buena base sobre la que construir.
 
-{% quote %}Una clave para resolver los desafíos descomunales de la participación ciudadana es formar a las propias afectadas para que sean las facilitadoras de los procesos. Formar a un grupo de vecinas y vecinos de los barrios donde se interviene con perfiles diversos (edad, origen, género…) para facilitar una participación inclusiva.{% endquote %}
+{% quote %}Una clave para resolver los desafíos descomunales de la participación ciudadana es formar a las propias afectadas para que sean las facilitadoras de los procesos. Formar a un grupo de vecinas y vecinos de los barrios donde se interviene con perfiles diversos (edad, origen, género...) para facilitar una participación inclusiva.{% endquote %}
 
 {% gallery { "images": [{"path":"/media/moving_communities.png","caption":"La metodología ['Moving Communities'](https://wotify.eu/blog/t_tool_package/moving-communities/) (Comunidades en movimiento) es una plataforma de trabajo colaborativo para desarrollar ideas enfocadas en construir sociedades con mayor igualdad, sostenibilidad, solidaridad y sentido de justicia social.","alt":"Moving Communities"}] } %}
 
-### **Reto #3: Hacer accesible la información sobre los derechos digitales y la privacidad de datos.**
+### **Desafío #3: Hacer accesible la información sobre los derechos digitales y la privacidad de datos.**
 
 Urge crear un modelo innovador y seguro donde la ciudadanía pueda escoger el grado de cesión de uso de datos que quiera compartir con la administración pública y con terceros.
 
@@ -86,13 +90,13 @@ Por otro lado, los datos y propuestas recogidas en los procesos participativos d
 
 Por otro lado, es clave que el personal técnico de los equipamientos y servicios de participación públicos integren el sistema de participación en su día a día y sean pro-activos informando a las usuarias de los servicios y proponiendo mejoras para una mayor implicación de estas.
 
-### **Reto #4: Decidim como servicio público ciudadano para la Capacitación y Mediación digital**
+### **Desafío #4: Decidim como servicio público ciudadano para la Capacitación y Mediación digital**
 
 La acogida ciudadana y la gran expectativa que han generado las plataformas digitales para la participación ciudadana de los ayuntamientos de Madrid y Barcelona -Decide y Decidim- pone de manifiesto la necesidad de potenciar esta forma de democracia directa.
 
 {% gallery { "simple": true, "images": [{"path":"/media/decidim_barcelona.png","caption":"","alt":"Decidim.Barcelona promueve la acción ciudadana y el Plan de Barrio de Barcelona como herramienta de acción integral para mejorar las condiciones de vida, la equidad social y el derecho a la ciudad."}] } %}
 
-Por citar un ejemplo que conocemos, la ciudad de Barcelona tiene por delante el reto de poner en marcha un amplio Plan de Capacitación y Mediación digital para la democracia. Este Plan contempla diferentes dimensiones: una campaña de difusión para dar a conocer la plataforma Decidim a amplios sectores sociales, sesiones formativas en los equipamientos de proximidad de la ciudad para la utilización de Decidim (bibliotecas, Casals de barrio, centros cívicos, casales de gente mayor…), difusión de Decidim entre la ciudadanía organizada y el tejido social y, por último, una formación específica dirigida a la profesionalización de personas expertas en mediación y facilitación digital.
+Por citar un ejemplo que conocemos, la ciudad de Barcelona tiene por delante el desafío de poner en marcha un amplio Plan de Capacitación y Mediación digital para la democracia. Este Plan contempla diferentes dimensiones: una campaña de difusión para dar a conocer la plataforma Decidim a amplios sectores sociales, sesiones formativas en los equipamientos de proximidad de la ciudad para la utilización de Decidim (bibliotecas, Casals de barrio, centros cívicos, casales de gente mayor...), difusión de Decidim entre la ciudadanía organizada y el tejido social y, por último, una formación específica dirigida a la profesionalización de personas expertas en mediación y facilitación digital.
 
 Al mismo tiempo, Barcelona está convirtiéndose en un faro para el desarrollo de infraestructuras digitales y democráticas para la participación basadas en el software libre y el conocimiento abierto. De este modo, desde Barcelona se está exportando, por un lado, un modelo y una manera de entender y organizar la participación que incorpora desde el inicio tecnologías digitales libres y sus principios democráticos como Decidim y, por el otro, un modelo de desarrollo tecnológico y de gestión de los datos digitales, plenamente garantista, que pone en el centro a la gente y su capacidad de decidir.
 

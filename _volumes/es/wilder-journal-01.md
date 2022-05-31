@@ -1,8 +1,8 @@
 ---
 published: true
-date: 2021-12-02
+date: 2022-04-01
 layout: journal
-title: "Innovación democrática y financiación democrática"
+title: "De 'liberación' a 'deliberación': Hacia una democracia más fuerte"
 uid: wilder-journal-1
 cover:
   alt: "Wilder Journal #1 by Platoniq"

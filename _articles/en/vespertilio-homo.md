@@ -2,12 +2,15 @@
 layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
+published: true
 date: 2022-01-01T00:00:00.000Z
 article-order: 1
 uid: vespertilio-homo
 title: "The power to (dis)inform: a journey on the back of the vespertilio homo"
-description: "# TODO"
+description: In this article, we look back to understand how the production, distribution and consumption of hoaxes and disinformation has evolved throughout history.
 author: Marta Anducas Armengou
+author_uids:
+  - marta-anducas
 cover:
   path: /media/articles/heroes/vespertilio_homo.png
   mobile: /media/articles/mobile/vespertilio_homo.png
@@ -16,9 +19,11 @@ cover:
   credits: Wikimedia (https://commons.wikimedia.org/wiki/File:Great-Moon-Hoax-1835-New-York-Sun-lithograph-298px.jpg)
   caption: Illustration of the vespertilio homo published in The Sun (Wikimedia)
 stickers:
-  layout: layout-none
-  sticker_one_animation: animation-none
-  sticker_two_animation: animation-none
+  layout: layout-one
+  sticker_one_animation: animation-glitch
+  sticker_two_animation: animation-breathe
+  sticker_one: /media/stickers/wilder-journal-1/sticker6.png
+  sticker_two: ""
 call_to_action: cta-donate
 image:
   path: /media/articles/social/vespertilio_homo.png

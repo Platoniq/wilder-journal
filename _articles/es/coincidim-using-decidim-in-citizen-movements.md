@@ -2,33 +2,40 @@
 layout: article
 volume-uid: wilder-journal-1
 category: reports
+published: true
 date: 2022-04-01T14:04:27.603Z
+date-updated: 2022-05-23T11:43:00.639Z
 article-order: 5
 uid: coincidim-using-decidim-in-citizen-movements
 title: "(CO)INCIDIM: Experiencia de utilización del Decidim desde los
   Movimientos Sociales"
-description: "-"
+description: (Co)incidim agrupa movimientos sociales, entidades socioambientales y personas que persisten en el camino para construir una sociedad más justa y cuidadosa
 author: Marta Anducas Armengou & Dante Maschio
+author_uids:
+  - marta-anducas
+  - dante-maschio
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: "-"
-  credits: "-"
-  caption: "-"
+  path: /media/articles/heroes/coincidim.jpg
+  mobile: /media/articles/mobile/coincidim.jpg
+  thumbnail: /media/articles/thumbnails/coincidim.jpg
+  alt: Fotografía de un módulo con conexiones ethernet para ilustrar el artículo sobre 'Coincidim'
+  credits: https://archive.org/details/C-2002-1990
+  caption: Fotografía de un módulo con conexiones ethernet
 stickers:
-  layout: layout-none
+  layout: layout-two
   sticker_one_animation: animation-none
-  sticker_two_animation: animation-none
+  sticker_two_animation: animation-breathe
+  sticker_one: ""
+  sticker_two: /media/stickers/wilder-journal-1/sticker17.png
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: "-"
+  path: /media/articles/social/coincidim.jpg
 ---
 En (Co)incidim coincidimos para co-incidir. Coincidimos movimientos sociales, entidades socioambientales y personas individuales que, con entusiasmo y tenacidad, persistimos en el camino para construir una sociedad más abierta, justa y cuidadosa, tanto con las personas como con el medio natural.
 
-Juntas, en (co) — en reunión, en cooperación, en agregación — , queremos incidir en las políticas locales, metropolitanas y nacionales porque creemos que la ciudadanía tenemos derecho a opinar y a participar en la gestión de los bienes comunes. No obstante, somos conscientes de que para poder participar con decisiones bien fundamentadas necesitamos reforzar el derecho a la información, revalorizar y aprender de la sabiduría colectiva, y empoderarnos para construir así una ciudadanía crítica que sea capaz de debatir y tomar decisiones en beneficio al bien común, por encima del capital y del bien individual. Y, para lograrlo, creemos que es importante adaptarnos a los tiempos actuales e innovar los sistemas democráticos con la introducción de herramientas digitales. Herramientas que no sustituyen a los procesos presenciales, sino que los complementan para llegar más allá.
+Juntas, en (co) — en reunión, en cooperación, en agregación — , **queremos incidir en las políticas locales, metropolitanas y nacionales porque creemos que la ciudadanía tenemos derecho a opinar y a participar en la gestión de los bienes comunes.** No obstante, somos conscientes de que para poder participar con decisiones bien fundamentadas necesitamos reforzar el derecho a la información, revalorizar y aprender de la sabiduría colectiva, y empoderarnos para construir así una ciudadanía crítica que sea capaz de debatir y tomar decisiones en beneficio al bien común, por encima del capital y del bien individual. Y, para lograrlo, creemos que es importante **adaptarnos a los tiempos actuales e innovar los sistemas democráticos con la introducción de herramientas digitales.** Herramientas que no sustituyen a los procesos presenciales, sino que los complementan para llegar más allá.
 
-(Co)incidim es una herramienta digital para el empoderamiento ciudadano que apenas empieza a germinar. Surge de la simbiosis entre Enginyeria Sense Fronteres (ESF) y Platoniq gracias al impulso de Barcelona Activa mediante el programa "Impulsem el que fas" y a la plataforma digital de participación ciudadana Decidim, el germen de (Co)incidim.
+**(Co)incidim es una herramienta digital para el empoderamiento ciudadano** que apenas empieza a germinar. Surge de la simbiosis entre **Enginyeria Sense Fronteres (ESF)** y **Platoniq** gracias al impulso de Barcelona Activa mediante el programa "Impulsem el que fas" y a la plataforma digital de participación ciudadana Decidim, el germen de (Co)incidim.
 
 ## Recuperando el control del agua y la energía
 
@@ -36,7 +43,7 @@ Desde 1992, Enginyeria Sense Fronteres (ESF) llevamos a cabo proyectos de cooper
 
 {% quote %}Para que los servicios de agua y energía respondan a las necesidades locales y garanticen el derecho universal a su acceso, hace falta que el control de la gestión implique a la ciudadanía y a las comunidades como garantía de calidad democrática y respuesta al interés común.{% endquote %}
 
-En nuestro territorio la lucha por el acceso a los suministros básicos no es nada despreciable. Si tenemos en cuenta que a pesar de la ofensiva neoliberal de los años 90 y después del fracaso flagrante de las privatizaciones impulsadas por las Instituciones Financieras Internacionales solo el 10% de la población mundial todavía es abastecida por empresas privadas, en Cataluña esta cifra asciende al 80%. En el campo de la energía, el control del sistema está en manos de 5 grandes empresas que, a pesar de que la ley lo prohíbe, controlan la generación, distribución y comercialización. Estas situaciones, a la práctica, generan una situación de mercado privilegiada y de desequilibrio de poder, donde un conjunto de grandes empresas controlan la gestión del agua y la energía, respondiendo a sus intereses comerciales.
+En nuestro territorio la lucha por el acceso a los suministros básicos no es nada despreciable. Si tenemos en cuenta que a pesar de la ofensiva neoliberal de los años 90 y después del fracaso flagrante de las privatizaciones impulsadas por las Instituciones Financieras Internacionales **solo el 10% de la población mundial todavía es abastecida por empresas privadas, en Cataluña esta cifra asciende al 80%.** En el campo de la energía, el control del sistema está en manos de 5 grandes empresas que, a pesar de que la ley lo prohíbe, controlan la generación, distribución y comercialización. Estas situaciones, a la práctica, generan una situación de mercado privilegiada y de desequilibrio de poder, donde **un conjunto de grandes empresas controlan la gestión del agua y la energía, respondiendo a sus intereses comerciales.**
 
 Ante esta situación, movimientos sociales como Aigua és Vida, el Moviment per l'Aigua Pública i Democràtica a l'AMB (MAPiD) y la Aliança contra la Pobresa Energètica (APE) se han organizado para luchar contra la injusticia en la garantía del derecho universal a los suministros básicos. En esta lucha de fondo se identifican necesidades peculiares.
 
@@ -46,15 +53,15 @@ En el campo de la energía, uno de los éxitos de la APE fue la aprobación de l
 
 ## El nacimiento de (Co)incidim
 
-Ante la situación descrita y teniendo en cuenta los cambios en la forma de comunicarnos socialmente que pasan por la aparición de plataformas y redes sociales, se identifica la necesidad de dar un paso adelante en la apuesta por nuevas metodologías que nos permitan construir espacios comunitarios donde materializar la inteligencia colectiva, fortalecerla mediante la cooperación y la asociación y librarla de la oleada del capitalismo cognitivo y de plataformas que privatizan el conocimiento, las interacciones, y las ponen al servicio de unos pocos.
+Ante la situación descrita y teniendo en cuenta los cambios en la forma de comunicarnos socialmente que pasan por la aparición de plataformas y redes sociales, se identifica la necesidad de dar un paso adelante en la **apuesta por nuevas metodologías que nos permitan construir espacios comunitarios donde materializar la inteligencia colectiva**, **fortalecerla mediante la cooperación y la asociación** y librarla de la oleada del capitalismo cognitivo y de plataformas que privatizan el conocimiento, las interacciones, y las ponen al servicio de unos pocos.
 
 {% gallery { "simple": true, "images": [{"path":"/media/coincidim-1.png"}] } %}
 
-Desde esta postura empieza la sinergia entre ESF y Platoniq — Creatividad y Democracia. Esta última desde 2005 desarrolla software de código abierto y metodologías de participación con las cuales impulsa el empoderamiento ciudadano y la participación. Si la afinidad de valores entre ambas organizaciones ha sido importante para el acercamiento inicial, la complementariedad de caminos y saberes ha sido la clave por el nacimiento de (Co)incidim: los procesos de participación presenciales impulsados desde ESF se potencian y complementan mediante la incorporación de nuevas tecnologías y metodologías promovida desde Platoniq. En (Co)incidim la participación es híbrida.
+Desde esta postura empieza la sinergia entre ESF y Platoniq — Creatividad y Democracia. Esta última desde 2005 desarrolla software de código abierto y metodologías de participación con las cuales impulsa el empoderamiento ciudadano y la participación. Si la afinidad de valores entre ambas organizaciones ha sido importante para el acercamiento inicial, la complementariedad de caminos y saberes ha sido la clave por el nacimiento de (Co)incidim: **los procesos de participación presenciales impulsados desde ESF se potencian y complementan mediante la incorporación de nuevas tecnologías y metodologías promovida desde Platoniq. En (Co)incidim la participación es híbrida.**
 
-Esta hibridación es posible gracias a la adaptación de la plataforma digital de participación ciudadana Decidim. La apuesta por Decidim no se reduce al concepto de "código libre", que puede ser lo más popular; sino que va más allá, en la forma ética de entender el software en su desarrollo, distribución, uso y comercialización; así como en los valores compartidos a tres bandas de colaboración, transparencia, integridad, no discriminación y, sobre todo, libertad. Es en este sentido que esta metodología de trabajo puede inspirar a los movimientos sociales a la hora de construir comunidad bajo un propósito tangible o intangible.
+Esta hibridación es posible gracias a la adaptación de la plataforma digital de participación ciudadana **Decidim**. La apuesta por Decidim no se reduce al concepto de "código libre", que puede ser lo más popular; sino que va más allá, en la forma ética de entender el software en su desarrollo, distribución, uso y comercialización; así como en los valores compartidos a tres bandas de colaboración, transparencia, integridad, no discriminación y, sobre todo, libertad. Es en este sentido que esta metodología de trabajo puede inspirar a los movimientos sociales a la hora de construir comunidad bajo un propósito tangible o intangible.
 
-Así es como nace el proyecto (Co)incidim: creando una instancia de Decidim adaptada a las necesidades de los movimientos sociales en la lucha por la garantía de los derechos universales de agua y energía, poniendo en el centro a las personas y su rol en la toma de decisiones.
+**Así es como nace el proyecto (Co)incidim: creando una instancia de Decidim adaptada a las necesidades de los movimientos sociales en la lucha por la garantía de los derechos universales de agua y energía**, poniendo en el centro a las personas y su rol en la toma de decisiones.
 
 ## Aspectos técnicos de (Co)incidim
 
@@ -70,12 +77,12 @@ Otros componentes fundamentales para nuestros procesos y asambleas han sido el c
 
 ## Retos y perspectivas de futuro
 
-Los principales retos que nos encontramos son los mismos que plantea la participación ciudadana desde hace mucho tiempo. Por un lado nos encontramos la cuestión de la redistribución del poder que hay que implementar no solo en el modelo de gobernanza de los servicios básicos sino en todo el sistema democrático para reconocer el papel y el espacio que juega la ciudadanía. En este sentido, y como el proyecto aspira a lograr objetivos que son obligaciones de las administraciones, hay que preguntarse cómo co-responsabilizarlas. Aquí nos cruzamos con otro gran reto estructural del modelo de gestión de servicios básicos que tenemos: cómo garantizamos un equilibrio entre la relación de fuerzas y la influencia de determinados actores?
+Los principales retos que nos encontramos son los mismos que plantea la participación ciudadana desde hace mucho tiempo. Por un lado nos encontramos la cuestión de la **redistribución del poder que hay que implementar no solo en el modelo de gobernanza de los servicios básicos sino en todo el sistema democrático** para reconocer el papel y el espacio que juega la ciudadanía. En este sentido, y como el proyecto aspira a lograr objetivos que son obligaciones de las administraciones, hay que preguntarse cómo co-responsabilizarlas. Aquí nos cruzamos con otro gran reto estructural del modelo de gestión de servicios básicos que tenemos: **cómo garantizamos un equilibrio entre la relación de fuerzas y la influencia de determinados actores?**
 
 Teniendo en cuenta los retos anteriores, la estrategia que seguimos se basa al reconocer el conocimiento situado que hay entre la ciudadanía, intentando articular el conjunto de miradas y perspectivas existentes, valorando y reconociendo de este modo el poder que tiene la ciudadanía. Esta es la filosofía detrás del *crowdsourcing* de datos a través de los mapas, y la que creemos que legitima el proceso de demanda de reconocimiento, de creación de espacios para la ciudadanía y de redistribución de poder que hacemos en las administraciones.
 
-En el diseño de un proceso híbrido como el de (Co)incidim, hay que preguntarnos cómo conectar los procesos digitales y presenciales. Y más importante todavía, como evitar la generación de una nueva desigualdad — la digital — en un proyecto que quiere hacer accesible el derecho a la participación.
+En el diseño de un proceso híbrido como el de (Co)incidim, hay que preguntarnos cómo conectar los procesos digitales y presenciales. Y más importante todavía, **cómo evitar la generación de una nueva desigualdad — la digital — en un proyecto que quiere hacer accesible el derecho a la participación.**
 
 Con el proyecto hemos encontrado, también, retos en cuanto al diseño de la plataforma Decidim. Si se apuesta por adaptar la plataforma a necesidades específicas como la que encontramos con (Co)incidim, hay que explorar las potencialidades de componentes como el de "Propuestas", que actualmente se enfoca mucho a demandas hacia la administración. O pequeñas modificaciones que podrían facilitar la participación ciudadana como sería permitir la posibilidad de añadir una propuesta o enmienda en un solo paso o explorar una mejor visualización e interacción con Decidim desde dispositivos móviles.
 
-Por último, el deseo que tenemos es que (Co)incidim pueda acontecer la semilla para muchos proyectos más impulsados desde la ciudadanía, contribuyendo así a la oleada social de ruptura con el sistema democrático tal y como se entiende hoy en día. La decisión de implementar nuevas herramientas y mecanismos donde participar es en sí misma una herramienta de presión y de reclamo de redistribución de poder. Coincidir en el impulso de este tipo de proyecto supone una huella imborrable en el camino hacia la democratización de nuestras sociedades.
+Por último, el deseo que tenemos es que **(Co)incidim pueda acontecer la semilla para muchos proyectos más impulsados desde la ciudadanía, contribuyendo así a la oleada social de ruptura con el sistema democrático tal y como se entiende hoy en día**. La decisión de implementar nuevas herramientas y mecanismos donde participar es en sí misma una herramienta de presión y de reclamo de redistribución de poder. Coincidir en el impulso de este tipo de proyecto supone una huella imborrable en el camino hacia la democratización de nuestras sociedades.

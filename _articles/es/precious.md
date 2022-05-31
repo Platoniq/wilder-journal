@@ -2,26 +2,28 @@
 layout: article
 volume-uid: wilder-journal-1
 category: stories
+published: true
 date: 2022-05-12T10:21:21.857Z
 date-updated: 2022-05-12T10:21:21.974Z
 article-order: 20
 uid: precious
 title: Precious
-description: Cuando vi que ya no me iba a poder volver a dormir, salí de
-  la cama y me hice un té. Tiffany también estaba en la cocina, calentando
-  leche. Tenía cara de no haber dormido nada. Es nigeriana como yo y es
-  buena gente, pero no hablamos mucho. Su marido conoce a otros nigerianos
-  aquí en Ancona. Son traficantes. Ya sé que hay que llevarse bien con
-  los traficantes, pero también te hace sentirte un poco sola. Es mejor
-  no fiarse de nadie.
-author: Elena Silvestrini
+description: Cuando vi que ya no me iba a poder volver a dormir, salí de la cama
+  y me hice un té. Tiffany también estaba en la cocina, calentando leche. Tenía
+  cara de no haber dormido nada. Es nigeriana como yo y es buena gente, pero no
+  hablamos mucho. Su marido conoce a otros nigerianos aquí en Ancona. Son
+  traficantes. Ya sé que hay que llevarse bien con los traficantes, pero también
+  te hace sentirte un poco sola. Es mejor no fiarse de nadie.
+author: Evelien Vos
+author_uids:
+  - evelien-vos
 cover:
   path: /media/articles/heroes/precious.png
   mobile: /media/articles/mobile/precious.png
   thumbnail: /media/articles/thumbnails/precious.png
-  alt: "# TODO"
-  credits: "# TODO"
-  caption: "# TODO"
+  alt: Ilustración para 'Precious' por Gonzalo Sainz Sotomayor
+  credits: Gonzalo Sainz Sotomayor
+  caption: Ilustración para 'Precious'
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -29,7 +31,6 @@ stickers:
 call_to_action: cta-newsletter
 image:
   path: /media/articles/social/precious.png
-  alt: "# TODO"
 ---
 {% quote %}Esta mañana me he despertado otra vez con la pequeña Charissa. Le están saliendo los dientes y llora un montón. Tampoco es un problema, me gustan los bebés. Cuando vi que ya no me iba a poder volver a dormir, salí de la cama y me hice un té.{% endquote %}
 
