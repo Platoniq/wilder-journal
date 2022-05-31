@@ -10,7 +10,7 @@ call_to_action: cta-contact
 ---
 ## AVISO LEGAL Y REGULACIÓN SOBRE EL USO DE ESTE SITIO WEB
 
-Los términos y condiciones que a continuación se indican regulan el acceso y el uso del sitio web [https://journal.platoniq.net](https://journal.platoniq.net), realizado por FUNDACIÓN PLATONIQ, cuyo domicilio social se encuentra en Carrer Forn de l’Olivera 22 -07012 Palma (Illes Balears), cuyo CIF es G577282172, y esta validamente registrada con el número 1438 del Regsitro Estatal de Fundaciones.
+Los términos y condiciones que a continuación se indican regulan el acceso y el uso del sitio web [https://journal.platoniq.net](https://journal.platoniq.net), realizado por FUNDACIÓN PLATONIQ, cuyo domicilio social se encuentra en Carrer Forn de l'Olivera 22 -07012 Palma (Illes Balears), cuyo CIF es G577282172, y esta validamente registrada con el número 1438 del Regsitro Estatal de Fundaciones.
 
 - Teléfono de contacto: +34 871 57 15 57 de Lunes a Viernes de 9h a 17:00h.
 - E-mail de contacto: [info@platoniq.net](mailto:info@platoniq.net)
@@ -19,11 +19,11 @@ Los términos y condiciones que a continuación se indican regulan el acceso y e
 
 ## OBJETO Y ÁMBITO DE APLICACIÓN
 
-Los presentes Términos y condiciones  –Aviso legal– regulan el acceso, navegación y uso del sitio web  “https://journal.platoniq.net” (el “Sitio Web”).
+Los presentes Términos y condiciones  –Aviso legal– regulan el acceso, navegación y uso del sitio web  "https://journal.platoniq.net" (el "Sitio Web").
 
 Se entenderá que el acceso o la mera utilización del Sitio Web por parte del usuario implica la adhesión de este a los Términos y condiciones que FUNDACIÓN PLATONIQ tenga publicadas en cada momento en el que acceda al Sitio Web. En consecuencia, el Usuario debe leer atentamente estos Términos y condiciones.
 
-En este sentido, se entenderá por “Usuario” a la persona que acceda, navegue, utilice o participe en los servicios y actividades, gratuitas u onerosas, desarrolladas en el Sitio Web.
+En este sentido, se entenderá por "Usuario" a la persona que acceda, navegue, utilice o participe en los servicios y actividades, gratuitas u onerosas, desarrolladas en el Sitio Web.
 
 ## DERECHOS DE PROPIEDAD INTELECTUAL E INDUSTRIAL
 
@@ -31,7 +31,7 @@ FUNDACIÓN PLATONIQ trabaja bajo valores de OPEN SOURCE, empleando las licencias
 
 ## UTILIZACIÓN DEL SITIO WEB
 
-El usuario se compromete a usar el sitio web de conformidad con la ley y con los términos contenidos en el apartado de Términos y Condiciones-Aviso Legal. El usuario se obliga asimismo a abstenerse de utilizar el sitio web con fines o efectos ilícitos o contrarios a lo establecido en el apartado de Términos y Condiciones-Aviso Legal. 
+El usuario se compromete a usar el sitio web de conformidad con la ley y con los términos contenidos en el apartado de Términos y Condiciones-Aviso Legal. El usuario se obliga asimismo a abstenerse de utilizar el sitio web con fines o efectos ilícitos o contrarios a lo establecido en el apartado de Términos y Condiciones-Aviso Legal. 
 
 El sitio web se rige por las leyes españolas y por la legislación nacional e internacional sobre propiedad intelectual e industrial. El usuario dispone de un derecho de uso estrictamente privado, exclusivamente con la finalidad de disfrutar de las prestaciones del servicio y los contenidos de acuerdo con las diferentes condiciones generales. El usuario se compromete a no eludir las medidas tecnológicas de protección usadas por FUNDACIÓN PLATONIQ en el sitio web, las cuales se compromete a respetar en todo momento.
 
@@ -41,7 +41,7 @@ Quedan reservados todos los derechos de Propiedad Intelectual e Industrial sobre
 
 FUNDACIÓN PLATONIQ se encuentra comprometida con el respeto a los derechos de propiedad intelectual e industrial de los titulares de derechos derivados de los contenidos. Así, si, durante la utilización de la plataforma, el usuario considera que se está llevando a cabo una infracción de sus derechos de propiedad intelectual e industrial o de los de terceros, le rogamos ponga en conocimiento de FUNDACIÓN PLATONIQ tal situación enviado un correo a [info@platoniq.net](mailto:info@platoniq.net)
 
-Si para la utilización en el Sitio Web, el Usuario debiera proceder a su registro, éste será responsable de aportar información veraz y lícita. 
+Si para la utilización en el Sitio Web, el Usuario debiera proceder a su registro, éste será responsable de aportar información veraz y lícita. 
 
 ## MEDIDAS DE ACCESO Y SEGURIDAD
 
@@ -83,7 +83,7 @@ FUNDACIÓN PLATONIQ se reserva el derecho de eliminar, sin previo aviso, comenta
 
 ## CONDICIONES DEL ACCESO DEL SITIO WEB
 
-El acceso y consulta al Sitio Web tiene carácter libre y gratuito, no siendo necesario el registro de los usuarios. 
+El acceso y consulta al Sitio Web tiene carácter libre y gratuito, no siendo necesario el registro de los usuarios. 
 
 Del mismo modo, para poder iniciar el proceso de contratación de los Servicios expuestos en el Sitio Web, es esencial que los usuarios se registren.
 
@@ -97,7 +97,7 @@ En cualquier caso, una vez efectuada la cancelación de la suscripción, el usua
 
 FUNDACIÓN PLATONIQ mantiene todos los esfuerzos posibles para garantizar la fiabilidad, utilidad o veracidad de la información que se realice a través del sitio web. En este sentido, FUNDACIÓN PLATONIQ declara que ha adoptado todas las medidas necesarias, dentro de sus posibilidades y del estado de la tecnología, para garantizar el funcionamiento del sitio web y evitar la existencia y transmisión de virus y demás componentes dañinos a los usuarios.
 
-FUNDACIÓN PLATONIQ no puede garantizar la continuidad técnica de la web, la ausencia de fallos o interrupciones del servicio ni que la web esté disponible o accesible ininterrumpidamente. 
+FUNDACIÓN PLATONIQ no puede garantizar la continuidad técnica de la web, la ausencia de fallos o interrupciones del servicio ni que la web esté disponible o accesible ininterrumpidamente. 
 
 No obstante lo anterior, FUNDACIÓN PLATONIQ realizará sus mejores esfuerzos y cuantas acciones estén en su mano para velar por la prestación continuada del servicio o, en su caso, el restablecimiento del mismo a la mayor brevedad posible. Así, FUNDACIÓN PLATONIQ llevará a cabo las labores de mantenimiento y actualizaciones de manera periódica.
 

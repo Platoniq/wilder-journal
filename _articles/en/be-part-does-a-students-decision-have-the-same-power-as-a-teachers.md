@@ -2,29 +2,37 @@
 layout: article
 volume-uid: wilder-journal-1
 category: reports
+published: true
 date: 2022-04-01T10:42:45.427Z
+date-updated: 2022-05-30T16:17:53.314Z
 article-order: 4
 uid: be-part-does-a-students-decision-have-the-same-power-as-a-teachers
-title: "“BePart”: Does a student's decision have the same power as a teacher's?"
+title: "\"BePart\": Does a student's decision have the same power as a teacher's?"
+description: Young people have a great spirit of participation and a desire to
+  be useful, so we want to provide you with more ways to get involved.
 author: Marta Anducas Armengou & Elena Silvestrini
+author_uids:
+  - marta-anducas
+  - elena-silvestrini
 cover:
   path: /media/articles/heroes/bepart.png
   mobile: /media/articles/mobile/bepart.png
   thumbnail: /media/articles/thumbnails/bepart.png
-  alt: "Classroom with projector"
-  caption: "Classroom with projector"
-  credits: "University of Alberta Archives (Public Domain Mark 1.0 Creative Commons License)"
+  alt: Classroom with projector
+  caption: Classroom with projector
+  credits: University of Alberta Archives (Public Domain Mark 1.0 Creative Commons
+    License)
 stickers:
-  layout: layout-none
+  layout: layout-two
   sticker_one_animation: animation-none
-  sticker_two_animation: animation-none
-  sticker_one: null
-  sticker_two: null
+  sticker_two_animation: animation-breathe
+  sticker_one: ""
+  sticker_two: /media/stickers/wilder-journal-1/sticker17.png
 call_to_action: cta-contact
 image:
   path: /media/articles/social/bepart.png
 ---
-{% quote { "author": "Paulo Freire [1]" } %}“It is worth repeating here an affirmation still rejected by many people despite its obviousness: education is a political act.”{% endquote %}
+{% quote { "author": "Paulo Freire [1]" } %}"It is worth repeating here an affirmation still rejected by many people despite its obviousness: education is a political act."{% endquote %}
 
 Learners of Freire's wisdom and aware that participation is learned by participating, from Platoniq we have embarked on [BePart](http://bepart-project.eu/), a European project that promotes processes of participation, empowerment and youth leadership in schools.
 
@@ -48,9 +56,9 @@ Young people are the future, but they rely on the past, the environment and the 
 
 {% quote %}That's why I think so few young people are participating, because there is a lack of a global culture of participation for families and adults.{% endquote %}
 
-We said before that young people are the future… Did it make you cringe when you read it? We are so used to phrases like this that we forget to point out that young people are also the present. It may be trivial, but in our opinion, it reveals the tip of an iceberg of considerable size, a problem that also worries teachers: 
+We said before that young people are the future... Did it make you cringe when you read it? We are so used to phrases like this that we forget to point out that young people are also the present. It may be trivial, but in our opinion, it reveals the tip of an iceberg of considerable size, a problem that also worries teachers: 
 
-> "One issue that worries me a lot as a youth educator is that, as a general rule, there is a sense of exclusion in social decisions that causes \[young people] not to feel empowered in many ways, including that of the school. (…) I think this is the main barrier. They really feel, and this is how we have made them understand, not us \[teachers] but society, that they are passive subjects of their life. I think this is the biggest issue not only at the educational level, but also at the societal level." (1/2)
+> "One issue that worries me a lot as a youth educator is that, as a general rule, there is a sense of exclusion in social decisions that causes \[young people] not to feel empowered in many ways, including that of the school. (...) I think this is the main barrier. They really feel, and this is how we have made them understand, not us \[teachers] but society, that they are passive subjects of their life. I think this is the biggest issue not only at the educational level, but also at the societal level." (1/2)
 
 ### About the school system
 
@@ -62,7 +70,7 @@ Although the school system seems a bit rigid and immovable, there are specific p
 
 On the other hand, it is important to note that to build a school system open to youth participation, this openness must be given from the participation and involvement of students, not only in the implementation phase of the proposals, but also in the design phase.
 
-> "If the school system is to be improved, it can only come from the participation of students, and at all levels. I think that many of the current proposals for educational innovation and transformation make no sense without the participation of students. I think many of these proposals fail because they keep focusing on educators instead of the person who’s learning. Many methodologies say they ‘focus on the students’ but everything about them is decided."
+> "If the school system is to be improved, it can only come from the participation of students, and at all levels. I think that many of the current proposals for educational innovation and transformation make no sense without the participation of students. I think many of these proposals fail because they keep focusing on educators instead of the person who's learning. Many methodologies say they 'focus on the students' but everything about them is decided."
 
 {% quote %}I think that many of the current proposals for educational innovation and transformation make no sense without the participation of students{% endquote %}
 
@@ -72,9 +80,9 @@ On the other hand, it is important to note that to build a school system open to
 
 {% quote %}Teachers know that participation is a value that needs to be encouraged. But sometimes it's scary, because when you turn on the microphone you have to be willing to listen to everything, what you like and what you don't. And this fear sometimes holds us back.{% endquote %}
 
-As a teacher reflected in the previous point, there is a lack of participatory culture in society and this not only affects students, but all actors in the school context. Turning on this “microphone” is scary and holds us back, why touch things if they’re working?
+As a teacher reflected in the previous point, there is a lack of participatory culture in society and this not only affects students, but all actors in the school context. Turning on this "microphone" is scary and holds us back, why touch things if they're working?
 
-> "The teacher is difficult. It’s classic to think that we have the absolute truth, but it is often a fear of not touching much of what is already working for me (…) It is normal for people to be afraid, but if it is an accompanied fear, that is, if they accompany you through this process of change, it's always much easier."
+> "The teacher is difficult. It's classic to think that we have the absolute truth, but it is often a fear of not touching much of what is already working for me (...) It is normal for people to be afraid, but if it is an accompanied fear, that is, if they accompany you through this process of change, it's always much easier."
 
 One of the goals of BePart is precisely to train and accompany teachers in the transition from the role of teacher to the role of facilitator. At Platoniq we are in charge of leading this training in participation and co-creation. Therefore, we interviewed and reflected with experts, whose contributions have helped us to establish the challenges of the training. Fear and power, oppression and privileges are some of the sharp issues that we consider necessary to address in order to rebalance weights and achieve, in the medium and long term, real student participation.
 
@@ -88,7 +96,7 @@ One of the goals of BePart is precisely to train and accompany teachers in the t
 
 BePart takes place in four schools in four different European countries. It is a pilot project that aims to promote student participation through the implementation of models of youth participation (MYP). Surely, in order to foster this leadership, it will be necessary to strengthen transversal skills and competences, such as, for example, entrepreneurial competence:
 
-> "Entrepreneurship has three basic legs. One is detection, alertness. Being able to detect what's around me - what's going on, what's not working, because I'm sure students see things, but since they don't have a chance to say it, I think they don't even notice. (…) The second leg is: with the resources I have, what can I do ?; and the third is to take action. In the field of participation, entrepreneurial competence would play a very important role."
+> "Entrepreneurship has three basic legs. One is detection, alertness. Being able to detect what's around me - what's going on, what's not working, because I'm sure students see things, but since they don't have a chance to say it, I think they don't even notice. (...) The second leg is: with the resources I have, what can I do ?; and the third is to take action. In the field of participation, entrepreneurial competence would play a very important role."
 
 {% gallery { "simple": false, "images": [{"path":"/media/bepart-4.jpeg", "caption": "How can we create spaces for participation that are as safe as possible for students?"}] } %}
 
@@ -100,7 +108,7 @@ To participate, it is important to create spaces where students feel free and co
 
 {% quote %}We cannot claim empowerment without spaces of empowerment.{% endquote %}
 
-> "To avoid this \[students being passive subjects of their lives], the school gives them spaces, possibilities to have a say in some of the decisions, but they are still very controlled and led from the school’s structure. We still have a long way to go to generate real participation and governance without the constant supervision of the educator. We cannot claim empowerment without spaces of empowerment. (2/2)"
+> "To avoid this \[students being passive subjects of their lives], the school gives them spaces, possibilities to have a say in some of the decisions, but they are still very controlled and led from the school's structure. We still have a long way to go to generate real participation and governance without the constant supervision of the educator. We cannot claim empowerment without spaces of empowerment. (2/2)"
 
 {% gallery { "simple": false, "images": [{"path":"/media/bepart-5.jpeg", "caption": "What is the role of technology, social media and innovative communication strategies in involving young people?"}] } %}
 
@@ -108,13 +116,13 @@ To participate, it is important to create spaces where students feel free and co
 
 One of the interviews we conducted was with the director of an institute where a participatory budget was carried out with the whole educational community through the digital participation platform [Decidim](https://decidim.org/en/), and where the students played a leading role \[2]. After the experience, the interviewee was clear about the role that new technologies should play in these processes:
 
-> "Digital platforms are essential for student participation, because otherwise it gets very complicated. Although it is necessary to chase the students so that they take out their mobile phones, connect, click on the links, choose…"
+> "Digital platforms are essential for student participation, because otherwise it gets very complicated. Although it is necessary to chase the students so that they take out their mobile phones, connect, click on the links, choose..."
 
 {% questions { "items": [ { "question": "How to recognize the validity and dignity of the experiences and knowledge of students?" }, { "question": "Does the decision of a student have the same strength or power as the decision of a teacher?" } ] } %}
 
 Finally, we share the dilemma that a teacher conveyed to us and whose answer is probably a very accurate thermometer to measure how arid or fertile the school grounds are to accommodate real student participation:
 
-> "A year ago we considered reformulating the School’s Regulations for the Organisation and Operation and we wanted to have the opinion of the students. Here comes the big dilemma: does the decision of a student have the same strength or power as the decision of a teacher?"
+> "A year ago we considered reformulating the School's Regulations for the Organisation and Operation and we wanted to have the opinion of the students. Here comes the big dilemma: does the decision of a student have the same strength or power as the decision of a teacher?"
 
 
 

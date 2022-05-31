@@ -2,6 +2,7 @@
 layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
+published: true
 date: 2022-04-01T09:47:37.297Z
 date-updated: 2022-05-05T17:55:17.959Z
 article-order: 1
@@ -11,14 +12,16 @@ title: "Democratic Funding: la ciudadanía elige su futuro. Límites y esperanza
 description: "La participación ciudadana aspira a ser parte activa de la toma de
   decisiones y se pregunta: ¿hay procesos más democráticos que otros a la hora
   de decidir en qué se gasta el dinero público?"
-author: Joan Cabot
+author: Joan B. Cabot
+author_uids:
+  - joan-cabot
 cover:
-  path: /media/articles/heroes/democraticfunding.png
-  thumbnail: /media/articles/thumbnails/pngegg.png
-  alt: .
-  credits: .
-  caption: .
-  mobile: /media/articles/mobile/democraticfunding.png
+  path: /media/articles/heroes/sticker4.png
+  mobile: /media/articles/mobile/sticker4.png
+  thumbnail: /media/articles/thumbnails/sticker4.png
+  alt: "Sticker del Wilder Journal #1 por Alba Feitó"
+  credits: Alba Feitó
+  caption: "Sticker del Wilder Journal #1"
 related_article_uids:
   - arantxa-mendiharat
   - digital-participation-gap
@@ -27,12 +30,11 @@ stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
   sticker_two_animation: animation-breathe
-  sticker_one: /media/stickers/wilder-journal-1/sticker3.png
-  sticker_two: /media/stickers/wilder-journal-1/sticker5.png
+  sticker_one: /media/stickers/wilder-journal-1/sticker6.png
+  sticker_two: ""
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: .
+  path: /media/articles/social/sticker4.png
 ---
 ## Hipótesis
 
@@ -54,11 +56,11 @@ En este punto creemos útil, tanto para quien ya domina la cuestión como para q
 
 ## Estado de la cuestión
 
-* En los **presupuestos participativos** la ciudadanía puede presentar proyectos y decidir a dónde va el dinero, pero los proyectos se ejecutan desde la Administración, con todas sus limitaciones en el proceso, integración de diversidad y ejecución final. 
+En los **presupuestos participativos** la ciudadanía puede presentar proyectos y decidir a dónde va el dinero, pero los proyectos se ejecutan desde la Administración, con todas sus limitaciones en el proceso, integración de diversidad y ejecución final. 
 
-{% gallery { "simple": true, "images": [{"path":"/media/participatorybudget.png","alt":"Presupuestos Participativos","caption":"Presupuestos Participativos","credits":"."}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/participatorybudget.png","alt":"Presupuestos Participativos","caption":"","credits":"Comunicaciones EVoting"}] } %}
 
-* En el **matchfunding** la ciudadanía presenta y ejecuta a través de una campaña de micromecenazgo una iniciativa cuyos costes son cubiertos a partes iguales entre personas donantes y Administración.
+En el **matchfunding** la ciudadanía presenta y ejecuta a través de una campaña de micromecenazgo una iniciativa cuyos costes son cubiertos a partes iguales entre personas donantes y Administración.
 
 {% video { "title": "Goteo: Matchfunding Public and Private Funds with Crowdfunding", "url": "https://player.vimeo.com/video/180870827" } %}
 
@@ -95,11 +97,11 @@ Para las entidades públicas o privadas y las organizaciones es una forma de veh
 
 El matchfunding es, como crowdfunding bajo el principio de corresponsabilidad, una oportunidad que se brinda a la institución para ampliar su impacto, colaborando con comunidades y públicos nuevos e involucrarlos en su misión, los cuales a su vez sondean y ven validada su propuesta a través del apoyo activo de las personas donantes. 
 
-Dos casos paradigmáticos de esta combinación de crowdfunding y presupuestos participativos que llamamos “Matchfunding” son la convocatoria [Metakultura](https://meta.goteo.org/), por su parte ya acumula 6 ediciones exitosas (2016-2021) con un total de 94 proyectos financiados y 886.871€ distribuidos, como programa impulsado por la Diputación Foral de Gipuzkoa, quien aporta hasta 70.000€ para el impulso de proyectos culturales en la provincia, como herramienta a disposición de los agentes culturales para financiar iniciativas que enriquecen y fortalecen el tejido local, así como “[Conjuntament](https://www.goteo.org/call/conjuntament)”, que significa “en cooperación” en catalán, llevada a cabo por el Ayuntamiento de Barcelona en 2018, junto con la plataforma Goteo y la organización Barcelona Activa, con el objetivo de financiar proyectos sociales propuestos por la ciudadanía, conectando la democracia deliberativa con el presupuesto público con la que salieron adelante 22 iniciativas cofinanciadas a través de 2.629 aportaciones con un reparto total de 231.336€, entre donaciones ciudadanas y los 96.000€ aportados en matchfunding.
+Dos casos paradigmáticos de esta combinación de crowdfunding y presupuestos participativos que llamamos "Matchfunding" son la convocatoria [Metakultura](https://meta.goteo.org/), por su parte ya acumula 6 ediciones exitosas (2016-2021) con un total de 94 proyectos financiados y 886.871€ distribuidos, como programa impulsado por la Diputación Foral de Gipuzkoa, quien aporta hasta 70.000€ para el impulso de proyectos culturales en la provincia, como herramienta a disposición de los agentes culturales para financiar iniciativas que enriquecen y fortalecen el tejido local, así como "[Conjuntament](https://www.goteo.org/call/conjuntament)", que significa "en cooperación" en catalán, llevada a cabo por el Ayuntamiento de Barcelona en 2018, junto con la plataforma Goteo y la organización Barcelona Activa, con el objetivo de financiar proyectos sociales propuestos por la ciudadanía, conectando la democracia deliberativa con el presupuesto público con la que salieron adelante 22 iniciativas cofinanciadas a través de 2.629 aportaciones con un reparto total de 231.336€, entre donaciones ciudadanas y los 96.000€ aportados en matchfunding.
 
 ## ¿Cómo abordamos la pregunta desde Platoniq?
 
-{% gallery { "simple": true, "images": [{"path":"/media/democratic-funding-moustache.png"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/democratic-funding-moustache.png","alt":"","caption":"Representación de impulsoras de proyecto eludiendo su responsabilidad en la ejecución del proyecto","credits":"Toma el Dinero y Huye (Woody Allen)"}] } %}
 
 En este apartado vamos a sacar la lupa y hacer un ejercicio tan doloroso como necesario. Si son muchas las virtudes, no son pocas las flaquezas ni los retos que se viven en la práctica. Identificamos tres aspectos como los más sensibles: divulgación de la propuesta, evaluación de los proyectos y rendición de cuentas.
 
@@ -109,15 +111,15 @@ Ambas herramientas siguen siendo desconocidas para la mayor parte de la poblaci�
 
 La capacidad de impulsar un proceso serio con reglas claras, requiere también de una sociedad civil activa y una administración local y un ejecutivo que hayan aprendido a cooperar en vez de competir para llegar a resultados considerables.
 
-La coexistencia actual de proceso participativos "puros", que hemos llamado modelo Porto Alegre, junto a otros etiquetados como tal pero que se ejecutan más bien como un “espectáculo” (para un solo político o la ciudad en su conjunto) de democracywashing que un dispositivo real de participación ciudadana, perjudican la poca fe que aún atesora parte de la ciudadanía empoderada. En esta situación es crucial mantener una distancia crítica y no confundir discursos ideológicos y logros reales, así como seguir desarrollando herramientas descentralizadas que faciliten la iniciativa y organización de abajo a arriba, como encontramos en [Decidim.org](https://decidim.org/es/), una plataforma digital con infraestructura abierta que incluye código, documentación, diseño, formación, un marco legal, interfaces colaborativas, una comunidad de usuarias, facilitadoras que ayudan a personas, organizaciones e instituciones públicas a auto-organizarse democráticamente en todas las escalas.
+La coexistencia actual de proceso participativos "puros", que hemos llamado modelo Porto Alegre, junto a otros etiquetados como tal pero que se ejecutan más bien como un "espectáculo" (para un solo político o la ciudad en su conjunto) de democracywashing que un dispositivo real de participación ciudadana, perjudican la poca fe que aún atesora parte de la ciudadanía empoderada. En esta situación es crucial mantener una distancia crítica y no confundir discursos ideológicos y logros reales, así como seguir desarrollando herramientas descentralizadas que faciliten la iniciativa y organización de abajo a arriba, como encontramos en [Decidim.org](https://decidim.org/es/), una plataforma digital con infraestructura abierta que incluye código, documentación, diseño, formación, un marco legal, interfaces colaborativas, una comunidad de usuarias, facilitadoras que ayudan a personas, organizaciones e instituciones públicas a auto-organizarse democráticamente en todas las escalas.
 
 ### Evaluación de los proyectos: más allá del menú y la carta
 
-{% gallery { "simple": true, "images": [{"path":"/media/cooking-democracy.jpeg"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/cooking-democracy.jpeg","caption":"Cocinando la Democracia","credits":"Svetlana Malysheva"}] } %}
 
 Cada restaurante gestionan sus costes de producción elaborando una serie de platos de gran consumo dentro de un listado no muy extenso a precio asequible (menú) junto a una oferta más amplia de precio superior (carta). El servicio será igual de atento, pero a mayor poder adquisitivo, mayores opciones. ¿Podemos imaginar un restaurante que invitara a clientes a sugerir nuevos platos para ser añadidos y disfrutados en siguientes visitas?
 
-Para muchas de las personas que han experimentado con el Matchfunding o los Presupuestos Participativos, la sensación puede resultar muy familiar y parecida: se las invita a la mesa de la democracia a escoger, aliñar y disfrutar de una variedad de proyectos… cuya oferta y forma de acceso ha sido "cocinada" de puertas adentro.
+Para muchas de las personas que han experimentado con el Matchfunding o los Presupuestos Participativos, la sensación puede resultar muy familiar y parecida: se las invita a la mesa de la democracia a escoger, aliñar y disfrutar de una variedad de proyectos... cuya oferta y forma de acceso ha sido "cocinada" de puertas adentro.
 
 Así, en las convocatorias de Matchfunding la elección de proyectos es competencia de la entidad impulsora y/o la plataforma de micromecenazgo, mientras en los modelos 'Porto Alegre en Europa' y 'Fondos comunitarios a nivel de barrio y ciudad' se puede desarrollar una 'gobernanza participativa empoderada' (Fung y Wright, 2003) y la ciudadanía asume directamente un poder de decisión (Gret y Sintomer, 2005), que posibilita el surgimiento de un 'poder fuerte' público' (Fraser, 1996: 89), mientras los modelos de Participación de Proximidad y Consulta de las finanzas públicas son únicamente consultivos y los modelos de participación de intereses organizados y de mesa de negociación pública/privada pueden dar un poder de decisión al dispositivo participativo, pero difícilmente pueden hacer posibles cambios políticos y sociales fundamentales.
 
@@ -125,7 +127,7 @@ Así, en las convocatorias de Matchfunding la elección de proyectos es competen
 
 ### Rendición de cuentas: ¿Dónde está Wally?
 
-{% gallery { "simple": true, "images": [{"path":"/media/find-walfo-.png"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/find-walfo-.png","caption":"Poner el foco en las personas responsables del proyecto es tan difícil como encontrar a Wally","credits":"Martin Handford"}] } %}
 
 {% questions { "items": [{"question":"¿Qué pasa si un proyecto rompe las reglas del crowdfunding?"},{"question":"¿Quién es responsable de completar un proyecto como se prometió?"}] } %}
 
@@ -133,11 +135,11 @@ En toda selección de proyectos hay un equipo de confianza y seguridad que revis
 
 Ese sistema de confianza compartido con las personas cofinanciadoras, que deciden en última instancia la validez y el valor de un proyecto al apoyarlo, es paradójicamente la mayor decepción cuando la iniciativa no cumple sus promesas.
 
-[Europapress](https://www.europapress.es/madrid/noticia-madrid-volvera-tener-presupuestos-participativos-votando-proyectos-viables-podrian-ejecutarse-anos-20210624183145.html) cita el caso de los presupuestos participativos en Madrid y el desfase entre la aprobación y su materialización, ya que gran número de propuestas ciudadanas tuvieron que ejecutarse en varias anualidades debido a su magnitud o complejidad e indican que "de hecho, entre 2016 y julio de 2019, de un total de 1.214 proyectos participativos, 998 no se ejecutaron, lo que supone elc 82 por ciento", llegando al punto en que en la actualidad y según certifica el Boletín Oficial del Ayuntamiento de Madrid (BOAM), ya \[se han declarado en “inviabilidad sobrevenida” los 182 proyectos](En Madrid, por ejemplo, leemos en [El Diario.es](https://www.eldiario.es/madrid/somos/noticias/ayuntamiento-madrid-entierra-182-proyectos-ciudadanos-carmena_1_8299637.html) ciudadanos que recibieron suficientes votos para ser aprobados durante las ediciones de los años 2016, 2017, 208 y 2019.
+[Europapress](https://www.europapress.es/madrid/noticia-madrid-volvera-tener-presupuestos-participativos-votando-proyectos-viables-podrian-ejecutarse-anos-20210624183145.html) cita el caso de los presupuestos participativos en Madrid y el desfase entre la aprobación y su materialización, ya que gran número de propuestas ciudadanas tuvieron que ejecutarse en varias anualidades debido a su magnitud o complejidad e indican que "de hecho, entre 2016 y julio de 2019, de un total de 1.214 proyectos participativos, 998 no se ejecutaron, lo que supone elc 82 por ciento", llegando al punto en que en la actualidad y según certifica el Boletín Oficial del Ayuntamiento de Madrid (BOAM), ya \[se han declarado en "inviabilidad sobrevenida" los 182 proyectos](En Madrid, por ejemplo, leemos en [El Diario.es](https://www.eldiario.es/madrid/somos/noticias/ayuntamiento-madrid-entierra-182-proyectos-ciudadanos-carmena_1_8299637.html) ciudadanos que recibieron suficientes votos para ser aprobados durante las ediciones de los años 2016, 2017, 208 y 2019.
 
 ### Bonus Track: Sin nosotras no hay democracia (feminista)
 
-{% gallery { "simple": true, "images": [{"path":"/media/feminismo-carlos-rodriguez-estacio.jpeg"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/feminismo-carlos-rodriguez-estacio.jpeg","credits":"Museum of London (Anónima)","caption":"Luchas feministas s.XX"}] } %}
 
 Las teorías de la modernización sugieren que el desarrollo socioeconómico fomenta la mejora en la vida de todos los ciudadanos, incluidas las mujeres, a medida que la sociedad se transforma de agraria a industrial y luego a posindustrial. Además, Inglehart, en su teoría revisada de la modernización, afirma que la modernización trae cambios socioeconómicos y culturales que resultan en una mayor igualdad de género en la política (Inglehart & Welzel, 2005). Sin embargo, las estadísticas mundiales de género no reflejan esa afirmación. En todo el mundo, las mujeres son marginales en la política, y esto es cierto independientemente del nivel de modernización económica dentro de los países. Un dato revelador es comprobar que en las 493 ciudades con más de un millón de habitantes, sólo hay 29 alcaldesas y de las 27 megaciudades que tienen más población que algunos países, ninguna estaba dirigida por mujeres hasta 2015 (United Cities and Local Governments, 2015).
 
@@ -155,7 +157,8 @@ Si tienes experiencia o información sobre estas cuestiones que nos ayuden a ent
 
 ## Referencias
 
-1. [https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html](https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html)
-2. A. B. Ruble, «Introduction: Globalism and Local Realities-Five Paths to the Urban Future», en M. A. Cohen (ed.), Preparing for the Urban Future, Washington, 1996, p. 1, citado por J. Molina Molina, Los presupuestos participativos. Un modelo para priorizar objetivos y gestionar eficientemente en la Administración local, Pamplona, Thomson Reuters, 2010, p. 342.
-3. Fung, Archon y Wright, Erik Olin (2003), “Thinking about empowered participatory governance”, en Archon Fun y Erik Olin Wright (editors), Deeping democracy, Londres, Verso..
-4. Frase, Nancy (1996), "Redistribución y reconocimiento: hacia una visión integrada de justicia del género", New School for Social Research, Nueva York
+1. <https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html>
+2. A. B. Ruble, *«Introduction: Globalism and Local Realities-Five Paths to the Urban Future»*, en M. A. Cohen (ed.), Preparing for the Urban Future, Washington, 1996, p. 1, citado por J. Molina Molina, Los presupuestos participativos. Un modelo para priorizar objetivos y gestionar eficientemente en la Administración local, Pamplona, Thomson Reuters, 2010, p. 342.
+3. Fung, Archon y Wright, Erik Olin (2003), *"Thinking about empowered participatory governance"*, en Archon Fun y Erik Olin Wright (editors), Deeping democracy, Londres, Verso.
+4. Frase, Nancy (1996), *"Redistribución y reconocimiento: hacia una visión integrada de justicia del género"*, New School for Social Research, Nueva York
+5. <https://www.publicdeliberation.net/how-participatory-budgeting-can-strengthen-civil-society-political-participation/>

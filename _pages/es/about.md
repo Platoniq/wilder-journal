@@ -10,7 +10,7 @@ description: La Fundación Platoniq diseña procesos participativos digitales y
   sociedades y organizaciones más democráticas y justas, haciendo uso de
   tecnologías cívicas abiertas.
 ---
-Este Journal que tienes “entre manos” es la manera que tenemos en Fundación Platoniq de abrirte las puertas a nuestro(s) mundo(s). Aquí encontrarás artículos en profundidad (deep dives), entrevistas y otros contenidos relacionados con nuestras líneas de actividad (Cultura futura, Innovación democrática, Empoderamiento ciudadano, Economía Social y Solidaria y cooperativismo). 
+Este Journal que tienes "entre manos" es la manera que tenemos en Fundación Platoniq de abrirte las puertas a nuestro(s) mundo(s). Aquí encontrarás artículos en profundidad (deep dives), entrevistas y otros contenidos relacionados con nuestras líneas de actividad (Cultura futura, Innovación democrática, Empoderamiento ciudadano, Economía Social y Solidaria y cooperativismo).
 
 La temática de este Journal estará especialmente enfocada a la participación e influencia de la ciudadanía en las decisiones públicas o en sus propias organizaciones. También sirve de plataforma para que iniciativas de este tipo se conozcan y se investiguen.
 
@@ -20,13 +20,13 @@ Pero antes, querras saber...
 
 La Fundación Platoniq diseña procesos participativos digitales y facilita metodologías innovadoras de participación para contribuir a formar sociedades y organizaciones más democráticas y justas, haciendo uso de tecnologías cívicas abiertas.
 
-Es además impulsora de la plataforma de crowdfunding cívico Goteo.org, a través de la cual financia iniciativas con impacto social -a nivel regional, nacional e internacional-, fomenta el cooperativismo y refuerza el conjunto de la Economía Social y Solidaria. Por ello, la Fundación es miembro de la XES (Xarxa d’Economia Solidària de Catalunya).
+Es además impulsora de la plataforma de crowdfunding cívico Goteo.org, a través de la cual financia iniciativas con impacto social -a nivel regional, nacional e internacional-, fomenta el cooperativismo y refuerza el conjunto de la Economía Social y Solidaria. Por ello, la Fundación es miembro de la XES (Xarxa d'Economia Solidària de Catalunya).
 
 La Fundación promueve la transparencia, la economía colaborativa y ética, la innovación democrática y la replicabilidad de las experiencias. Se financia a través de alianzas con instituciones públicas y privadas que comparten su misión y visión. Contamos con 23 personas contratadas distribuidas entre las oficinas de Barcelona, Madrid, Roma y Palma (sede social y fiscal) y un equipo de colaboradores en el estado español y en otros países europeos.
 
-{% quote { "author": "Susana Noguero, fundadora de la Fundación Platoniq" } %}> Desde que las sociedades entendieron que aprender es fundamental para progresar, existen los juegos con reglas. ¿Podemos aprender a participar en nuestra democracia mediante la gamificación? La democracia es divertida…¡si nos la tomamos en serio!{% endquote %}
+{% author { "name": "Susana Noguero", "position": "Co-fundadora de la Fundación Platoniq", "image": { "path": "/media/susana.jpeg", "alt": "Susana Noguero, co-fundadora de la Fundación Platoniq" }, "description": "\"Desde que las sociedades entendieron que aprender es fundamental para progresar, existen los juegos con reglas. ¿Podemos aprender a participar en nuestra democracia mediante la gamificación? La democracia es divertida... ¡si nos la tomamos en serio!\"" } %}
 
-{% quote { "author": "Olivier Schulbaum, fundador de la Fundación Platoniq" } %}> Las instituciones públicas y los responsables políticos están ávidos por una mayor participación (wider participation). La ciudadanía les reta con una participación más salvaje (wiLder participation). ¡La democracia deliberativa está solamente a una letra de distancia! ¡Debatamos, mezclemos, democraticemos!{% endquote %}
+{% author { "name": "Olivier Schulbaum", "position": "Co-fundador de la Fundación Platoniq", "image": { "path": "/media/olivier.jpg", "alt": "Olivier Schulbaum, co-fundador de la Fundación Platoniq" }, "description": "\"Las instituciones públicas y los responsables políticos están ávidos por una mayor participación (wider participation). La ciudadanía les reta con una participación más salvaje (wiLder participation). ¡La democracia deliberativa está solamente a una letra de distancia! ¡Debatamos, mezclemos, democraticemos!\"" } %}
 
 ## ¿Cuál es nuestra misión?
 
@@ -35,24 +35,17 @@ Impulsar una cultura democrática inclusiva y la economía cooperativa, social y
 ## ¿Cuáles son nuestros valores?
 
 * Valentía, curiosidad y ambición en abordar retos difíciles o inexplorados.
-* Espíritu “hacker”
-* La creatividad como una forma de hacer política y un estímulo para la acción
-* colectiva
+* Espíritu "hacker"
+* La creatividad como una forma de hacer política y un estímulo para la acción colectiva
 * Generosidad y colaboración. Compartiendo y creando conocimiento libre
 * Búsqueda de la excelencia y singularidad en términos de impacto social
-* Adaptabilidad para resolver los gap sociales que se van detectando a través de
-* la actividad y las relaciones con comunidades
+* Adaptabilidad para resolver los gap sociales que se van detectando a través de la actividad y las relaciones con comunidades
 * Coherencia y fidelidad en los compromisos adquiridos
-* Fomentar la libertad con responsabilidad del individuo y el respeto a la
-* diferencia
+* Fomentar la libertad con responsabilidad del individuo y el respeto a la diferencia
 * Búsqueda del bienestar del equipo humano impulsando la participación, la
-* motivación personal y la flexibilidad en la conciliación familiar, con la
-* implementación de horarios y lugar de trabajo flexibles
-* Búsqueda de la justicia en las decisiones y en las actuaciones por encima de
-* los intereses económicos o los favoritismos. Fomentando consensos y el
-* diálogo
-* La autonomía y la autogestión tanto de los equipos humanos, como su fomento
-* en todas sus actividades
+* motivación personal y la flexibilidad en la conciliación familiar, con la implementación de horarios y lugar de trabajo flexibles
+* Búsqueda de la justicia en las decisiones y en las actuaciones por encima de los intereses económicos o los favoritismos. Fomentando consensos y el diálogo
+* La autonomía y la autogestión tanto de los equipos humanos, como su fomento en todas sus actividades
 * Una cultura organizacional siempre abierta y proactiva a la mejora y al cambio.
 * Internacionalidad desde lo Mediterráneo
 

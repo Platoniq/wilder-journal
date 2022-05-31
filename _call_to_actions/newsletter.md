@@ -9,7 +9,7 @@ en:
   button:
     label: Let's go!
   image:
-    path: /media/stickers/wilder-journal-1/sticker17.png
+    path: /media/stickers/wilder-journal-1/sticker16.png
     alt: Alt text newsletter en
   form_fields: |
     <fieldset class="pj-cta-newsletter">
@@ -44,7 +44,7 @@ es:
   button:
     label: ¡Vamos allá!
   image:
-    path: /media/stickers/wilder-journal-1/sticker17.png
+    path: /media/stickers/wilder-journal-1/sticker16.png
     alt: Alt text newsleter es
   form_fields: |
     <fieldset class="pj-cta-newsletter">
@@ -56,7 +56,7 @@ es:
   filled:
     title: ¡Gracias por suscribirte a nuestro boletín!
     content: >-
-      Este Journal que tienes “entre manos” es la manera que tenemos en
+      Este Journal que tienes "entre manos" es la manera que tenemos en
       Fundación Platoniq de abrirte las puertas a nuestro(s) mundo(s). Aquí
       encontrarás artículos en profundidad (deep dives), entrevistas y otros
       contenidos relacionados con nuestras líneas de actividad (Cultura futura,

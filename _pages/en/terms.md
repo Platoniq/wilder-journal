@@ -19,7 +19,7 @@ The terms and conditions indicated below regulate the access and use of the webs
 
 ## PURPOSE AND SCOPE OF APPLICATION
 
-These Terms and Conditions –Legal Notice– regulate the access, navigation and use of the website “https://journal.platoniq.net” (the “Website”).
+These Terms and Conditions –Legal Notice– regulate the access, navigation and use of the website "https://journal.platoniq.net" (the "Website").
 
 It will be understood that the access or mere use of the Website by the user implies the user's adherence to the Terms and Conditions that FUNDACIÓN PLATONIQ has published at each time the Website is accessed. Consequently, the User must carefully read these Terms and Conditions.
 

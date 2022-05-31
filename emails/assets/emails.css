@@ -161,31 +161,6 @@ h4 {
 
 /* ========== Header Styles ========== */
 
-#templatePreheader {
-  background-color: #ffdfda;
-}
-
-.preheaderContent {
-  background-color: black;
-  color: white;
-  font-family: Helvetica;
-  font-size: 10px;
-  line-height: 125%;
-  text-align: left;
-}
-
-.preheaderContent a:link,
-.preheaderContent a:visited,
-/* Yahoo! Mail Override */
-.preheaderContent a .yshortcuts
-
-/* Yahoo! Mail Override */
-  {
-  color: #380f09;
-  font-weight: normal;
-  text-decoration: underline;
-}
-
 #templateHeader {
   background-color: #ffdfda;
 }
@@ -354,12 +329,6 @@ h4 {
   }
 
   /* ======== Header Styles ======== */
-
-  #templatePreheader {
-    display: none !important;
-  }
-
-  /* Hide the template preheader to save space */
 
   #headerImage {
     height: auto !important;

@@ -2,6 +2,7 @@
 layout: article
 volume-uid: wilder-journal-1
 category: reports
+published: true
 date: 2022-04-01T11:25:28.606Z
 date-updated: 2022-05-05T17:28:21.287Z
 article-order: 12
@@ -9,7 +10,9 @@ uid: emptied-rural-spain
 title: La España vaciada y sus incendios
 description: Iniciativas ciudadanas que utilizan el crowdfunding para salvar
   nuestros bosques
-author: Joan Cabot
+author: Joan B. Cabot
+author_uids:
+  - joan-cabot
 cover:
   path: /media/articles/heroes/incendio.png
   thumbnail: /media/articles/thumbnails/sticker_incendio.png
@@ -22,17 +25,19 @@ related_article_uids:
   - nature-sdg-in-goteo
   - recovering-collaborative-governance-through-design-justice
 stickers:
-  layout: layout-none
+  layout: layout-two
   sticker_one_animation: animation-none
-  sticker_two_animation: animation-none
+  sticker_two_animation: animation-breathe
+  sticker_one: ""
+  sticker_two: /media/stickers/wilder-journal-1/sticker17.png
 call_to_action: cta-donate
 image:
   path: /media/articles/social/incendio.png
   alt: La España vaciada y sus incendios
 ---
-Solía decir mi bisabuela: "A fuego y a boda va la aldea toda". Nunca supe si se refería a que con la chimenea encendida en invierno siempre venía alguna visita a calentarse a casa… o que ante un incendio se activaba la solidaridad comunal para extinguirlo. Quiero creer que se refería a ambas situaciones, pues bien gallega era. De todas ellas hablaremos en este artículo.
+Solía decir mi bisabuela: "A fuego y a boda va la aldea toda". Nunca supe si se refería a que con la chimenea encendida en invierno siempre venía alguna visita a calentarse a casa... o que ante un incendio se activaba la solidaridad comunal para extinguirlo. Quiero creer que se refería a ambas situaciones, pues bien gallega era. De todas ellas hablaremos en este artículo.
 
-Es tan sorprendente como desconcertante reincidir en un error cuando creemos conocer la causa, así que tener que lamentar cada verano como las llamas devoran bosques, campos de cultivo y casas es realmente triste. Como bien nos recuerda la [Fundación Pau Costa](https://www.paucostafoundation.org/), el fuego es un fenómeno presente en la naturaleza y, de forma controlada, es una herramienta. Lo usamos para cocinar, calentarnos, fabricar herramientas… ¿Qué está ocurriendo en nuestros bosques para que un elemento que antes era nuestro aliado ahora sea nuestro enemigo? ¿En qué momento hemos pasado de utilizar el fuego a nuestro favor a tener que protegernos del fuego?
+Es tan sorprendente como desconcertante reincidir en un error cuando creemos conocer la causa, así que tener que lamentar cada verano como las llamas devoran bosques, campos de cultivo y casas es realmente triste. Como bien nos recuerda la [Fundación Pau Costa](https://www.paucostafoundation.org/), el fuego es un fenómeno presente en la naturaleza y, de forma controlada, es una herramienta. Lo usamos para cocinar, calentarnos, fabricar herramientas... **¿Qué está ocurriendo en nuestros bosques para que un elemento que antes era nuestro aliado ahora sea nuestro enemigo?** ¿En qué momento hemos pasado de utilizar el fuego a nuestro favor a tener que protegernos del fuego?
 
 En la redacción de Fundación Goteo lo estuvimos hablando y definimos tres conceptos (fuego, incendio y pueblo). Quisimos comprender su relación y decidimos contactar con quien pudiera explicarnos. Creyentes hasta la médula en el apoyo mutuo, tiramos de agenda y pedimos ayuda a tres colectivos que hubieran hecho campaña en nuestra plataforma: [Civio](https://www.goteo.org/project/espana-en-llamas), [Rebrotem](https://www.goteo.cc/rebrotem) y [Proxecto Batefogo](https://www.goteo.org/project/arbores-que-non-arden).
 
@@ -66,11 +71,11 @@ Finalmente, [Rebrotem](https://goteo.cc/rebrotem) interpeló a toda la sociedad:
 
 Hechas las presentaciones, Javier, Miguel y Roger se dieron cita en videoconferencia para contar su experiencia y saber más de los otros proyectos. Algunas aportaciones interesantes son las que podréis leer aquí, así como escucharles en corte seleccionados.
 
-**Javier (Civio)**: De los 525 municipios en toda España con zonas declaradas de alto riesgo de incendios, sólo 61 disponen de planes de prevención. En muchos casos son municipios pequeños con mucha masa forestal y no disponen de recursos económicos para llevar a cabo el plan. Muchas veces no es fácil identificar la propiedad de los terrenos, requisito previo a cualquier intervención en ellos. Existe una descoordinación entre la administración y los agentes rurales, un desconocimiento de las casuísticas y problemáticas de aspectos claves como la despoblación rural, el envejecimiento de la población, la falta de recursos… donde es muy difícil cambiar dinámicas. 
+**Javier (Civio)**: De los 525 municipios en toda España con zonas declaradas de alto riesgo de incendios, sólo 61 disponen de planes de prevención. En muchos casos son municipios pequeños con mucha masa forestal y no disponen de recursos económicos para llevar a cabo el plan. Muchas veces no es fácil identificar la propiedad de los terrenos, requisito previo a cualquier intervención en ellos. Existe una descoordinación entre la administración y los agentes rurales, un desconocimiento de las casuísticas y problemáticas de aspectos claves como la despoblación rural, el envejecimiento de la población, la falta de recursos... donde es muy difícil cambiar dinámicas. 
 
 {% video { "title": "Intervención de Fundación Ciudadana Civio en el DialoGoteo 'La España vaciada y sus incendios'", "url": "https://www.youtube.com/embed/RYnNhSB4a4o" } %}
 
-**Roger (Rebrotem)**: Muy de acuerdo. En la zona donde vivo (Ribera d'Ebre) hemos visto como la masa forestal se ha duplicado y eso es un problema. La regresión del sector primario es evidente pues se ha perdido mucha de la gente que vivía de la tierra: vino, aceite, fruta dulce… se pagan a precios insuficientes por parte de las grandes distribuidoras y no es posible competir con el producto de importación, que se consigue a un precio más barato, siendo más interesante para los márgenes de ganancia de grandes superfícies de alimentación. El cambio climático actual agrava la situación: clima seco, altas temperaturas y fuertes vientos son capaces de romper la barrera de la atmosfera, provocando una "lluvia de fuego" que lo arrasa todo.
+**Roger (Rebrotem)**: Muy de acuerdo. En la zona donde vivo (Ribera d'Ebre) hemos visto como la masa forestal se ha duplicado y eso es un problema. La regresión del sector primario es evidente pues se ha perdido mucha de la gente que vivía de la tierra: vino, aceite, fruta dulce... se pagan a precios insuficientes por parte de las grandes distribuidoras y no es posible competir con el producto de importación, que se consigue a un precio más barato, siendo más interesante para los márgenes de ganancia de grandes superfícies de alimentación. El cambio climático actual agrava la situación: clima seco, altas temperaturas y fuertes vientos son capaces de romper la barrera de la atmosfera, provocando una "lluvia de fuego" que lo arrasa todo.
 
 Todos estos factores (clima, despoblación y falta de planes de prevención) son fatales. Aquí, en Cataluña, el incendio en Ribera d'Ebre ha llevado la gestión forestal al debate político nacional. A nivel social podemos hacer más y ya se están formando ADF (Asociaciones de Defensa Forestal). En Rebrotem estamos viendo eso, que era el momento de hacer el llamamiento a la ciudadanía para activar la solidaridad y la conciencia sobre esta problemática. Fue así como nos pusimos en contacto con Fundación Goteo para iniciar la campaña de crowdfunding y conseguir cofinanciar con la plataforma solidaria esa recuperación, estableciendo un mínimo de 50.000€ y un óptimo de 250.000€ (en la fecha de redacción de este artículo llevaban 84.372€ recaudados). El objetivo a largo plazo es que administración y población recuperen esa vinculación de la que hablaba Javier.
 
@@ -92,15 +97,15 @@ De ahí surge abrir un espacio de debate y contactamos con una serie de autoras,
 
 ### Conclusiones
 
-Para terminar con nuestra aportación, queremos subrayar uno de los factores que consideramos clave en esta situación: en esta #EspañaVaciada necesitamos estrategias institucionales con participación de todos los actores involucrados que permita revertir la tendencia actual, hay un patrimonio humano y cultural que es necesario proteger, para que la cada cual viva donde quiera y no se tenga que marchar de allí donde quiere quedarse a vivir. 
+Para terminar con nuestra aportación, queremos subrayar uno de los factores que consideramos clave en esta situación: en esta #EspañaVaciada necesitamos estrategias institucionales con participación de todos los actores involucrados que permita revertir la tendencia actual, **hay un patrimonio humano y cultural que es necesario proteger, para que la cada cual viva donde quiera y no se tenga que marchar de allí donde quiere quedarse a vivir**. 
 
 Sabemos que el problema de la España vaciada no es nuevo y se remonta varias décadas atrás. Aquí el objetivo no sólo es que forme parte de la agenda política sino poner en mrcha una estrategia común frente al reto demográfico en favor del medio rural 
 
-He ahí dos de nuestras misiones como fundación, el apoyo a toda iniciativa que genere y fortalezca la Huella Democrática que permite la toma de decisión de la ciudadanía en los aspectos que afectan al común; y el cuidado de nuestro entorno, de nuestro medio ambiente, fomentando dinámicas que permitan favorecer una Huella Ecológica positiva y sostenible para el planeta.
+He ahí dos de nuestras misiones como fundación, **el apoyo a toda iniciativa que genere y fortalezca la Huella Democrática que permite la toma de decisión de la ciudadanía en los aspectos que afectan al común; y el cuidado de nuestro entorno, de nuestro medio ambiente**, fomentando dinámicas que permitan favorecer una Huella Ecológica positiva y sostenible para el planeta.
 
 Como vemos, con las dinámicas actuales, se atajan las consecuencias y se obvia a las gentes que saben como prevenir la situación. Conocimientos ancestrales que se transmitían de generación en generación, creando una economía rural robusta hoy día se invisibilizan. Podemos dar las gracias que surgen colectivos como estos, y muchos otros más, que hacen un gran esfuerzo de concienciación y activismo para revitalizar el monte e impulsar un cambio en positivo sobre el paisaje. 
 
-Si ya nos parecieron muy interesantes las actividades que cada uno de estos colectivos llevan a cabo, lo que nos terminó de fascinar fue el intercambio de ideas y pareceres que se produjo a continuación. Es diálogo, que en la redacción llamamos cariñosamente "DiáloGoteo", está disponible en el siguiente video. 
+**Si ya nos parecieron muy interesantes las actividades que cada uno de estos colectivos llevan a cabo, lo que nos terminó de fascinar fue el intercambio de ideas y pareceres que se produjo a continuación**. Es diálogo, que en la redacción llamamos cariñosamente "DiáloGoteo", está disponible en el siguiente video. 
 
 {% video { "title": "Civio, Rebrotem y Proxecto Batefogo dialogan acerca de la prevención en incendios forestales en España", "url": "https://www.youtube.com/embed/J6932KwaAAU" } %}
 

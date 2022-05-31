@@ -92,7 +92,7 @@ Make a request to send a welcome email:
 curl --location --request POST 'localhost:8888/.netlify/functions/submission-created' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-    "payload": { "name": "Vera", "email": "vera@platoniq.net", "data":{ "lang": "es" }, "form_name": "newsletter" }
+    "payload": { "name": "User", "email": "user-email@example.org", "data":{ "lang": "es" }, "form_name": "newsletter" }
 }'
 ```
 
@@ -102,7 +102,7 @@ Make a request to send a contact email:
 curl --location --request POST 'localhost:8888/.netlify/functions/submission-created' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-    "payload": { "name": "Vera", "email": "vera@platoniq.net", "data":{ "lang": "es" }, "form_name": "contact", "message": "Hi I'\''d like to bla bla bla" }
+    "payload": { "name": "User", "email": "user-email@example.org", "data":{ "lang": "es" }, "form_name": "contact", "message": "Hi I'\''d like to bla bla bla" }
 }'
 ```
 

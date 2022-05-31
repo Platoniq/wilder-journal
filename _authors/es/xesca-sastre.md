@@ -1,6 +1,6 @@
 ---
 uid: xesca-sastre
 name: Xesca Sastre
-position: Coordinadora de Comunicación
+position: "# TODO"
 ---
 \# TODO

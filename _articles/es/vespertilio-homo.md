@@ -2,12 +2,15 @@
 layout: article
 volume-uid: wilder-journal-1
 category: deep-dives
+published: true
 date: 2022-01-01T00:00:00.000Z
 article-order: 1
 uid: vespertilio-homo
 title: "El poder de (des)informar: un viaje a lomos del vespertilio homo"
-description: "# TODO"
+description: En este artículo, miramos atrás para entender cómo ha evolucionado la producción, distribución y consumo de bulos y desinformación en la historia.
 author: Marta Anducas Armengou
+author_uids:
+  - marta-anducas
 cover:
   path: /media/articles/heroes/vespertilio_homo.png
   mobile: /media/articles/mobile/vespertilio_homo.png
@@ -16,13 +19,14 @@ cover:
   credits: Wikimedia (https://commons.wikimedia.org/wiki/File:Great-Moon-Hoax-1835-New-York-Sun-lithograph-298px.jpg)
   caption: Ilustración del vespertilio homo publicada en The Sun.
 stickers:
-  layout: layout-none
-  sticker_one_animation: animation-none
-  sticker_two_animation: animation-none
+  layout: layout-one
+  sticker_one_animation: animation-glitch
+  sticker_two_animation: animation-breathe
+  sticker_one: /media/stickers/wilder-journal-1/sticker6.png
+  sticker_two: ""
 call_to_action: cta-donate
 image:
   path: /media/articles/social/vespertilio_homo.png
-  alt: "# TODO"
 ---
 {% quote { "author": "Ryszard Kapuscinski, Lapidarium IV" } %}Desde que se descubrió que la información es un producto que proporciona suculentos beneficios, dejó de estar sujeta a los criterios tradicionales de la verdad y la mentira.{% endquote %}
 
