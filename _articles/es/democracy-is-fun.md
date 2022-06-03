@@ -4,11 +4,13 @@ volume-uid: wilder-journal-1
 category: reports
 published: true
 date: 2022-01-01T00:00:00.000Z
-article-order: 11
+date-updated: 2022-06-02T11:39:13.239Z
+article-order: 16
 uid: democracy-is-fun
 title: Gamificación, incentivos y espacios más seguros para mejorar la democracia
-description: Hoy día, las plataformas digitales de participación ciudadana creadas
-  por los gobiernos locales "representan" la democratización de la política participativa.
+description: Hoy día, las plataformas digitales de participación ciudadana
+  creadas por los gobiernos locales "representan" la democratización de la
+  política participativa.
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
@@ -19,6 +21,10 @@ cover:
   alt: "Sticker del Wilder Journal #1 por Alba Feitó"
   credits: Alba Feitó
   caption: "Sticker del Wilder Journal #1"
+related_article_uids:
+  - arantxa-mendiharat
+  - culture-creativity-and-deliberation-methodologies
+  - we-the-internet
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none

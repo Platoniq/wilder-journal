@@ -5,7 +5,7 @@ category: stories
 published: true
 date: 2022-05-12T10:21:21.857Z
 date-updated: 2022-05-12T10:21:21.974Z
-article-order: 20
+article-order: 14
 uid: precious
 title: Precious
 description: When I knew I couldn't sleep anymore, I got out of bed and made

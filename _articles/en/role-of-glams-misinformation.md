@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-04-01T15:06:42.013Z
 date-updated: 2022-05-09T18:07:20.124Z
-article-order: 9
+article-order: 6
 uid: role-of-glams-misinformation
 title: What is the role of cultural heritage institutions in the spread of
   misinformation?

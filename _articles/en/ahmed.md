@@ -5,7 +5,7 @@ category: stories
 published: true
 date: 2022-05-12T10:21:21.857Z
 date-updated: 2022-05-12T10:21:21.974Z
-article-order: 20
+article-order: 13
 uid: ahmed
 title: Ahmed
 description: When I arrived in Ancona everything was cold. The room where I had
@@ -21,7 +21,7 @@ cover:
   path: /media/articles/heroes/ahmed.png
   mobile: /media/articles/mobile/ahmed.png
   thumbnail: /media/articles/thumbnails/ahmed.png
-  alt: "Illustration for 'Ahmed' by Gonzalo Sainz Sotomayor"
+  alt: Illustration for 'Ahmed' by Gonzalo Sainz Sotomayor
   credits: Gonzalo Sainz Sotomayor
   caption: Illustration for 'Ahmed'
 stickers:

@@ -5,10 +5,12 @@ category: reports
 published: true
 date: 2022-05-06T17:31:25.494Z
 date-updated: 2022-05-06T17:31:25.530Z
-article-order: 3
+article-order: 17
 uid: we-the-internet
 title: "#WeTheInternet: Diálogos para el empoderamiento ciudadano"
-description: "We The Internet fue un diálogo ciudadano digital entre ciudadanía, especialistas y responsables de políticas públicas, para influir en la toma de decisiones"
+description: We The Internet fue un diálogo ciudadano digital entre ciudadanía,
+  especialistas y responsables de políticas públicas, para influir en la toma de
+  decisiones
 author: Xesca Sastre
 author_uids:
   - xesca-sastre
@@ -19,6 +21,10 @@ cover:
   alt: "Sticker del Wilder Journal #1 por Alba Feitó"
   credits: Alba Feitó
   caption: "Sticker del Wilder Journal #1"
+related_article_uids:
+  - arantxa-mendiharat
+  - culture-creativity-and-deliberation-methodologies
+  - democracy-is-fun
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none

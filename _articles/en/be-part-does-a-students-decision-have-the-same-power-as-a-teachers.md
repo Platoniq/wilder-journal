@@ -5,7 +5,7 @@ category: reports
 published: true
 date: 2022-04-01T10:42:45.427Z
 date-updated: 2022-05-30T16:17:53.314Z
-article-order: 4
+article-order: 19
 uid: be-part-does-a-students-decision-have-the-same-power-as-a-teachers
 title: "\"BePart\": Does a student's decision have the same power as a teacher's?"
 description: Young people have a great spirit of participation and a desire to

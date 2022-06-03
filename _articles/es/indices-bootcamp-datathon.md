@@ -4,10 +4,13 @@ volume-uid: wilder-journal-1
 category: reports
 published: true
 date: 2022-04-22T11:27:04.485Z
-article-order: 10
+date-updated: 2022-06-02T11:44:17.788Z
+article-order: 20
 uid: indices-bootcamp-datathon
 title: El inDICEs Bootcamp, un Datathon por una democracia más justa
-description: En el evento las participantes trabajaron en la intersección de datos, la digitalización y el patrimonio cultural, explorando los datos como recursos culturales
+description: En el evento las participantes trabajaron en la intersección de
+  datos, la digitalización y el patrimonio cultural, explorando los datos como
+  recursos culturales
 author: Tayrine Dias in collaboration with Aisha Villegas
 author_uids:
   - tayrine-dias
@@ -16,9 +19,15 @@ cover:
   path: /media/articles/heroes/indices.jpeg
   thumbnail: /media/articles/thumbnails/indices.jpeg
   mobile: /media/articles/mobile/indices.jpeg
-  alt: Personas participando en el Bootcamp de inDICEs celebrado el 23 y 24 de noviembre de 2022 en el Canòdrom
+  alt: Personas participando en el Bootcamp de inDICEs celebrado el 23 y 24 de
+    noviembre de 2022 en el Canòdrom
   credits: Platoniq
-  caption: Personas participando en el Bootcamp de inDICEs celebrado el 23 y 24 de noviembre de 2022 en el Canòdrom
+  caption: Personas participando en el Bootcamp de inDICEs celebrado el 23 y 24 de
+    noviembre de 2022 en el Canòdrom
+related_article_uids:
+  - culture-creativity-and-deliberation-methodologies
+  - role-of-glams-misinformation
+  - coincidim-using-decidim-in-citizen-movements
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none
@@ -28,6 +37,7 @@ stickers:
 call_to_action: cta-contact
 image:
   mobile: /media/articles/social/indices.jpeg
+  path: /media/articles/social/indices.jpeg
 ---
 Los días 23 y 24 de noviembre, **Platoniq** celebró el **inDICEs Bootcamp** en el [Canòdrom](https://canodrom.barcelona/) de Barcelona. El espacio es un ateneo-laboratorio que busca acercar la cultura digital y la innovación democrática. Como centro cultural y lugar de encuentro de organizaciones de base, proyectos sociales y centros de investigación, fue el lugar perfecto para reunir a más de 20 investigadores, profesionales, *practitioners,* ciudadanas y ciudadanos para el evento.
 

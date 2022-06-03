@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-01-01T00:00:00.000Z
 date-updated: 2022-05-27T11:40:11.131Z
-article-order: 15
+article-order: 7
 uid: recovering-collaborative-governance-through-design-justice
 title: Recovering Collaborative Governance through Design Justice
 description: Design Justice gives greater meaning to collaborative governance as
@@ -16,30 +16,39 @@ author_uids:
   - nadia-nadesan
   - elena-silvestrini
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: "# TODO"
-  credits: "# TODO"
-  caption: "# TODO"
-  mobile: /media/articles/mobile/no_image-hero.png
+  path: /media/articles/heroes/openheritage.jpg
+  thumbnail: /media/articles/thumbnails/openheritage.jpg
+  mobile: /media/articles/mobile/openheritage.jpg
+  alt: LaFábrika detodalavida
+  credits: Source unknown
+  caption: LaFábrika detodalavida
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
-  sticker_two_animation: animation-breathe
+  sticker_two_animation: animation-none
   sticker_one: /media/stickers/wilder-journal-1/sticker6.png
   sticker_two: ""
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: .
+  path: /media/articles/social/openheritage.jpg
 ---
-Design Justice gives greater meaning and orientation to collaborative governance as a means to be a method and tool for more diverse and inclusive participation, and aims towards greater social justice.
+Imagine a former industrial site now abandoned, that local residents want to convert into a community school!\
+\
+**Imagine a park that is used on a daily basis by local young people, local organic farmers and by a collective of elderly people.** Imagine that these residents could participate in taking decisions about the future of the area!\
+\
+Imagine a neighborhood once derelict and now upcoming, at risk of aggressive gentrification but with the presence of a strong grassroots community and local commerce interested in being involved in changing the future of their area for the best!\
+\
+Platoniq is proudly part of **OpenHeritage**, an EU project that wants to explore how such **participatory processes can be applied to heritage**. It identifies and tests the best practices of adaptive heritage re-use in Europe.
+
+![](https://openheritage.eu/wp-content/uploads/2018/11/Warsaw.jpg)
+
+This model of governance is what we call collaborative governance. [Design Justice](https://designjustice.org/) gives collaborative governance a meaning and orientation that allows it to become a method and tool for diverse and inclusive participation that aims for greater social justice.
 
 ## Why do we think this question is relevant and related to our ethical compass (The story of me)
 
 Platoniq's role within OpenHeritage (OH) largely revolves around the **collaborative governance of the online community and platform of the project that aims to develop and share best practices concerning adaptive heritage reuse**. Within the OH platform participants and administrators can co-create, exchange ideas, and collaborate to construct participatory spaces and projects within the larger OH initiative with 16 partners involved from Italy, Hungary, Poland, Belgium, U.K., Germany, Spain and Portugal as well as with the individual labs in Rome, Budapest, Sunderland, Prädikow, Praga, and Lisbon. The labs are heritage sites that use the platform as a tool and space to manage, and conduct their work with their communities and stakeholders.
 
-However, a platform and its governance are not inherently oriented toward the desire for greater good without people and ideas to make it so. Design Justice within this context serves as a framework to build ideas and practices that give importance to vulnerable communities and individuals that might be involved and consciously pushing the needle of the project's ethical compass.
+However, a platform and its governance are not inherently oriented toward the desire for greater good without people and ideas to make it so. [Design Justice](https://designjustice.org/) within this context serves as a framework to build ideas and practices that give importance to vulnerable communities and individuals that might be involved and consciously pushing the needle of the project's ethical compass.
 
 ## State of the art
 
@@ -95,9 +104,7 @@ Much of how the Design Justice principles are interpreted in OH happen through d
 
 ### Creating a Case with and for Sortition
 
-Sortition very basically described is when participants in a project, community, or space are randomly selected into a working group. The idea is that through random selection the working group is not defined by politics or bias that might be held within the group. To create example of how this might work within OH, Platoniq initiated the creating of a collaborative, participatory text, 'OpenHeritage Manifesto'. The text draws from each word in the title of the project '**OpenHeritage: Organizing, Promoting and Enabling Heritage Reuse**
-
-through Inclusion, Technology, Access, Governance and Empowerment' and partners selected at random write an entry that connects their individual values to OH to create a whole text that reflects a unified vision from different heritage contexts. The text itself demonstrates how the practice of sortition has worked within the OH initiative and also serves a reference in terms of process for partners and those within the larger heritage community looking for practices that take an unbiased look at their own diversity to collaborate and co-create. 
+Sortition very basically described is when participants in a project, community, or space are randomly selected into a working group. The idea is that through random selection the working group is not defined by politics or bias that might be held within the group. To create example of how this might work within OH, Platoniq initiated the creating of a collaborative, participatory text, 'OpenHeritage Manifesto'. The text draws from each word in the title of the project '**OpenHeritage: Organizing, Promoting and Enabling Heritage Reuse** through Inclusion, Technology, Access, Governance and Empowerment' and partners selected at random write an entry that connects their individual values to OH to create a whole text that reflects a unified vision from different heritage contexts. The text itself demonstrates how the practice of sortition has worked within the OH initiative and also serves a reference in terms of process for partners and those within the larger heritage community looking for practices that take an unbiased look at their own diversity to collaborate and co-create. 
 
 ### Developing a Feature to Measure Volunteer Hours
 

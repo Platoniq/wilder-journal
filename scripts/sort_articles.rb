@@ -11,22 +11,28 @@
 LOCALES = %w(es en)
 
 ARTICLES = {
-  "arantxa-mendiharat" => 3,
-  "be-part-does-a-students-decision-have-the-same-power-as-a-teachers" => 4,
-  "coincidim-using-decidim-in-citizen-movements" => 5,
-  "crowdfunding-memoria-historica-bien-comun" => 7,
-  "culture-creativity-and-deliberation-methodologies" => 6,
-  "democracy-is-fun" => 11,
-  "democratic-funding" => 13,
-  "digital-participation-gap" => 14,
-  "españa-vacia-incendios" => 12,
-  "indices-bootcamp-datathon" => 10,
-  "ines-cheniour" => 2,
-  "nature-sdg-in-goteo" => 8,
-  "neo-sindicalism-laskellys-manteros-riders-jornaleras" => 16,
-  "recovering-collaborative-governance-through-design-justice" => 15,
-  "role-of-glams-misinformation" => 9,
-  "vespertilio-homo" => 1
+  "editorial" => 1,
+  "vespertilio-homo" => 2,
+  "democratic-funding" => 3,
+  "culture-creativity-and-deliberation-methodologies" => 4,
+  "digital-participation-gap" => 5,
+  "role-of-glams-misinformation" => 6,
+  "recovering-collaborative-governance-through-design-justice" => 7,
+  "arantxa-mendiharat" => 8,
+  "ines-cheniour" => 9,
+  # oliver escobar
+  "storytelling" => 11,
+  "nature-sdg-in-goteo" => 12,
+  "ahmed" => 13,
+  "precious" => 14,
+  "neo-sindicalism-laskellys-manteros-riders-jornaleras" => 15,
+  "democracy-is-fun" => 16,
+  "we-the-internet" => 17,
+  "emptied-rural-spain" => 18,
+  "be-part-does-a-students-decision-have-the-same-power-as-a-teachers" => 19,
+  "indices-bootcamp-datathon" => 20,
+  "coincidim-using-decidim-in-citizen-movements" => 21,
+  "crowdfunding-memoria-historica-bien-comun" => 22
 }
 
 ARTICLES.each_pair do |article, order|

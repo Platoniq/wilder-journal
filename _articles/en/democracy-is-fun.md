@@ -4,10 +4,13 @@ volume-uid: wilder-journal-1
 category: reports
 published: true
 date: 2022-01-01T00:00:00.000Z
-article-order: 11
+date-updated: 2022-06-02T11:39:13.239Z
+article-order: 16
 uid: democracy-is-fun
 title: Democracy is fun if you take it... seriously!
-description: Digital platforms for citizen participation created by local governments "represent", in a way, the democratization of participatory politics.
+description: Digital platforms for citizen participation created by local
+  governments "represent", in a way, the democratization of participatory
+  politics.
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum

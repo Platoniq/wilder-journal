@@ -5,7 +5,7 @@ category: blueprints
 published: true
 date: 2022-01-01T17:13:53.362Z
 date-updated: 2022-05-27T11:11:07.949Z
-article-order: 8
+article-order: 12
 uid: nature-sdg-in-goteo
 title: Crowdfunding and SDGs open data to accelerate knowledge about
   sustainability and citizen participation

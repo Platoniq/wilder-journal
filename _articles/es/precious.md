@@ -5,7 +5,7 @@ category: stories
 published: true
 date: 2022-05-12T10:21:21.857Z
 date-updated: 2022-05-12T10:21:21.974Z
-article-order: 20
+article-order: 14
 uid: precious
 title: Precious
 description: Cuando vi que ya no me iba a poder volver a dormir, salí de la cama
@@ -24,6 +24,9 @@ cover:
   alt: Ilustración para 'Precious' por Gonzalo Sainz Sotomayor
   credits: Gonzalo Sainz Sotomayor
   caption: Ilustración para 'Precious'
+related_article_uids:
+  - ahmed
+  - storytelling
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

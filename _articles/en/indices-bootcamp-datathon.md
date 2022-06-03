@@ -4,10 +4,13 @@ volume-uid: wilder-journal-1
 category: reports
 published: true
 date: 2022-04-22T11:27:04.485Z
-article-order: 10
+date-updated: 2022-06-02T11:44:17.788Z
+article-order: 20
 uid: indices-bootcamp-datathon
 title: El inDICEs Bootcamp, Datathon for a Fairer Democracy
-description: In this event, participants worked together at the intersection of data, digitalisation and cultural heritage, exploring information as a cultural resource.
+description: In this event, participants worked together at the intersection of
+  data, digitalisation and cultural heritage, exploring information as a
+  cultural resource.
 author: Tayrine Dias in collaboration with Aisha Villegas
 author_uids:
   - tayrine-dias
@@ -16,9 +19,11 @@ cover:
   path: /media/articles/heroes/indices.jpeg
   thumbnail: /media/articles/thumbnails/indices.jpeg
   mobile: /media/articles/mobile/indices.jpeg
-  alt: People participating in the inDICEs Bootcamp held November 23rd and 24th, 2022 at Canòdrom
+  alt: People participating in the inDICEs Bootcamp held November 23rd and 24th,
+    2022 at Canòdrom
   credits: Platoniq
-  caption: People participating in the inDICEs Bootcamp held November 23rd and 24th, 2022 at Canòdrom
+  caption: People participating in the inDICEs Bootcamp held November 23rd and
+    24th, 2022 at Canòdrom
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none
@@ -28,6 +33,7 @@ stickers:
 call_to_action: cta-contact
 image:
   mobile: /media/articles/social/indices.jpeg
+  path: /media/articles/social/indices.jpeg
 ---
 On the 23rd and 24th of November, **Platoniq** hosted the **inDICEs Bootcamp** at the [Canòdrom](https://canodrom.barcelona/en) in Barcelona, a cultural centre and laboratory that aims to bridge digital culture with democratic innovation. As a cultural centre and meeting place for grass-roots organisations, social projects and research centres, it was the perfect venue for bringing together more than 20 researchers, professionals, specialists and members of the general public.
 
