@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-01-01T00:00:00.000Z
 date-updated: 2022-05-27T11:40:11.131Z
-article-order: 7
+article-order: 8
 uid: recovering-collaborative-governance-through-design-justice
 title: Recovering Collaborative Governance through Design Justice
 description: Design Justice gives greater meaning to collaborative governance as

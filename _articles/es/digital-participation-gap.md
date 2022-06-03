@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-01-01T00:00:00.000Z
 date-updated: 2022-06-02T11:41:37.527Z
-article-order: 5
+article-order: 7
 uid: digital-participation-gap
 title: ¿La brecha de participación digital tiene género?
 description: "En este artículo, nos centramos en la situación de las mujeres

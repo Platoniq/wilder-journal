@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2022-01-01T12:51:36.642Z
 date-updated: 2022-05-26T13:45:27.739Z
-article-order: 8
+article-order: 3
 uid: arantxa-mendiharat
 title: Las Asambleas ciudadanas son espacios de confianza donde la participación
   es de mayor calidad
