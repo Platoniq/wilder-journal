@@ -5,9 +5,12 @@ category: blueprints
 published: true
 date: 2022-05-06T17:31:25.494Z
 date-updated: 2022-05-06T17:31:25.530Z
-article-order: 3
+article-order: 11
 uid: storytelling
-title: "Storytelling is a powerful bridge to connect people"
+title: Storytelling is a powerful bridge to connect people
+description: Storytelling is a powerful bridge to connect people. Stories can
+  create emotional connection and common ground for collaboration between
+  different people and communities.
 author: Elena Silvestrini
 author_uids:
   - elena-silvestrini
@@ -15,8 +18,10 @@ cover:
   path: /media/articles/heroes/storytelling.jpg
   mobile: /media/articles/heroes/storytelling.jpg
   thumbnail: /media/articles/thumbnails/storytelling.jpg
-  alt: "'Man and Woman Reading', ca. 1742. Gabriel Huquier (Met Museum digital collection)"
-  credits: Met Museum digital collection (https://www.metmuseum.org/art/collection/search/364908)
+  alt: "'Man and Woman Reading', ca. 1742. Gabriel Huquier (Met Museum digital
+    collection)"
+  credits: Met Museum digital collection
+    (https://www.metmuseum.org/art/collection/search/364908)
   caption: "'Man and Woman Reading', ca. 1742. Gabriel Huquier"
 stickers:
   layout: layout-none

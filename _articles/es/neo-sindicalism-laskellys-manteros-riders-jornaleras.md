@@ -5,7 +5,7 @@ category: reports
 published: false
 date: 2022-04-01T15:14:30.165Z
 date-updated: 2023-05-05T17:42:40.961Z
-article-order: 16
+article-order: 15
 uid: neo-sindicalism-laskellys-manteros-riders-jornaleras
 title: Bienvenidas al neo-sindicalismo de Las Kellys, Jornaleras, Manteros,
   Mensakas...
@@ -42,7 +42,7 @@ En este artículo echamos la vista atrás para entender como **los modelos tradi
 
 ## Antes de nada ¿Quiénes son Las Kellys?
 
-{% gallery { "simple": false, "images": [{"path":"/media/neosindicalism_1.jpg","caption":"Las Kellys","credits":"# TODO"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/neosindicalism_1.jpg","caption":"Varias integrantes del sindicato de camareras de piso \"Las Kellys\"","credits":"Las Kellys"}] } %}
 
 **Las Kellys son las camareras de piso afectadas por procesos de externalización que cuentan con contratos temporales o cuyas condiciones laborales se han visto deterioradas** o nunca han estado de acuerdo a las condiciones establecidas en el convenio. La mayoría de ellas no pertenecen a la plantilla central de los hoteles, y en todo caso lo más común es que cuenten con contratos temporales de 3 o 6 meses, que casi nunca son renovados. 
 
@@ -50,7 +50,7 @@ Trabajando codo a codo con ellas, están las camareras de piso que no han sufrid
 
 ## Vale, recuérdame para qué sirve un sindicato
 
-{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_2.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_2.jpg","alt":"","credits":"archivoshistoria.com","caption":"Cigarreras de La Tabacalera en 1936"}] } %}
 
 Los sindicatos son asociaciones integradas por trabajadoras en defensa y promoción de sus intereses laborales, ante la persona que las  emplea y con quien están relacionadas con un contrato. En España CCOO se sitúa como primera fuerza y UGT como segunda, ostentando entre los dos sindicatos la hegemonía de la representatividad con un 75% de los delegados totales. Con las reformas laborales de 1994, 1997, 2010 y 2012 se lleva a cabo un proceso de descentralización de la negociación colectiva que genera una merma considerable de su poder de negociación, facilitando la reducción de costes salariales con una mayor flexibilidad en la contratación y el despido.
 
@@ -64,7 +64,7 @@ Con la externalización la empresa subcontrata puestos centrales de su actividad
 
 ## La delegación sindical fantasma
 
-{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_3.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_3.png","credits":"Dante de La Vega","caption":"Los fantasmas de la organizacion sindical"}] } %}
 
 ¿Tienes una "persona del sindicato" que no te hace ni caso? Por desgracia es muy habitual. La ley obliga a que haya al menos una delegada sindical en las empresas que cuentan con más de 6 trabajadores pero en la mayoría de casos se diluye la figura por dos razones principales: falta de compromiso de las personas que conforman la delegación que conlleva inactividad desde el ámbito sindical; o presencia de delegaciones "amarillas", es decir, las formadas por candidaturas presentadas por la propia empresa. Este hecho afecta de forma directa a la percepción que tienen las trabajadoras de la acción de los sindicatos y de su capacidad efectiva de mejorar su realidad cotidiana con respecto a sus empleos. 
 
@@ -72,7 +72,7 @@ Así es como **desde la empresa se limita en muchas ocasiones la capacidad de or
 
 ## Las Kellys rompiendo esquemas: asociación, sindicato y mucho más
 
-{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_4.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/neosindicalism_4.png","caption":"Sindicato Popular de Vendedores Ambulantes","credits":"Anonimo"}] } %}
 
 Ante tal panorama, **Las Kellys deciden formar su propio sindicato por la necesidad de crear una herramienta con mayores garantías jurídicas que la que tenían como asociación**. Tras ganar un juicio con el que consiguieron revertir una externalización en un hotel, deciden que la constitución como sindicato les permitirá alcanzar un grado de protección que con la asociación no habían encontrado. Como sindicato podrán enfrentar los procesos que venían deteriorando sus condiciones de trabajo, asumiendo que cambiar las cosas depende de ellas mismas. 
 
@@ -109,4 +109,4 @@ Este artículo termina aquí, por lo que si te interesa saber más, te invitamos
 
 ¡Seguimos!
 
-{% gallery { "simple": true, "images": [{"path":"/media/intersindical-feminista1.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/intersindical-feminista1.png","credits":"http://laboratoria.red/","caption":"Hacia una intersindical feminista. Carta a nuestros amigos, aliados, interlocutores."}] } %}

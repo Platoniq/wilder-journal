@@ -5,7 +5,7 @@ category: stories
 published: true
 date: 2022-05-12T10:21:21.857Z
 date-updated: 2022-05-12T10:21:21.974Z
-article-order: 20
+article-order: 13
 uid: ahmed
 title: Ahmed
 description: Cuando llegué a Ancona todo estaba helado. Había corriente en la
@@ -21,9 +21,12 @@ cover:
   path: /media/articles/heroes/ahmed.png
   mobile: /media/articles/mobile/ahmed.png
   thumbnail: /media/articles/thumbnails/ahmed.png
-  alt: "Ilustración para 'Ahmed' por Gonzalo Sainz Sotomayor"
+  alt: Ilustración para 'Ahmed' por Gonzalo Sainz Sotomayor
   credits: Gonzalo Sainz Sotomayor
   caption: Ilustración para 'Ahmed'
+related_article_uids:
+  - ahmed
+  - storytelling
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

@@ -5,7 +5,7 @@ category: reports
 published: true
 date: 2022-04-01T11:25:28.606Z
 date-updated: 2022-05-05T17:28:21.287Z
-article-order: 12
+article-order: 18
 uid: emptied-rural-spain
 title: The emptied Spain and its fires
 description: Citizen initiatives that use crowdfunding to save our forests
@@ -19,10 +19,6 @@ cover:
   credits: Stephanie Peters
   caption: Fire Poppies
   mobile: /media/articles/mobile/incendio.png
-related_article_uids:
-  - arantxa-mendiharat
-  - nature-sdg-in-goteo
-  - recovering-collaborative-governance-through-design-justice
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none

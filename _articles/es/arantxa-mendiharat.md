@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2022-01-01T12:51:36.642Z
 date-updated: 2022-05-26T13:45:27.739Z
-article-order: 3
+article-order: 8
 uid: arantxa-mendiharat
 title: Las Asambleas ciudadanas son espacios de confianza donde la participación
   es de mayor calidad
@@ -27,6 +27,10 @@ cover:
   alt: Ilustración para la entrevista a Arantxa Mendiharat por Alba Feitó
   caption: Ilustración para la entrevista a Arantxa Mendiharat
   credits: Alba Feitó
+related_article_uids:
+  - culture-creativity-and-deliberation-methodologies
+  - democracy-is-fun
+  - digital-participation-gap
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

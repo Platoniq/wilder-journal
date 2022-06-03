@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-04-01T15:06:42.013Z
 date-updated: 2022-05-09T18:07:20.124Z
-article-order: 9
+article-order: 6
 uid: role-of-glams-misinformation
 title: ¿Qué papel desempeñan las instituciones culturales en la propagación de
   desinformación?
@@ -23,6 +23,10 @@ cover:
     Cleveland Museum of Art collection"
   credits: The Cleveland Museum of Art (CC0 1.0 Universal Creative Commons License Zero)
   caption: "Rhetoric (from the Tarocchi, series C: Liberal Arts, #23)"
+related_article_uids:
+  - indices-bootcamp-datathon
+  - vespertilio-homo
+  - be-part-does-a-students-decision-have-the-same-power-as-a-teachers
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch

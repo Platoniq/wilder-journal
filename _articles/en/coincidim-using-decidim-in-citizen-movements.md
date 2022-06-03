@@ -5,10 +5,12 @@ category: reports
 published: true
 date: 2022-04-01T14:04:27.603Z
 date-updated: 2022-05-23T11:43:00.639Z
-article-order: 5
+article-order: 21
 uid: coincidim-using-decidim-in-citizen-movements
 title: "(CO)INCIDIM: Experiences of using Decidim in social movements"
-description: (Co)incidim brings together social movements, grassroots environmental groups and individuals who work towards constructing a more just and caring society
+description: (Co)incidim brings together social movements, grassroots
+  environmental groups and individuals who work towards constructing a more just
+  and caring society
 author: Marta Anducas Armengou & Dante Maschio
 author_uids:
   - marta-anducas
@@ -17,7 +19,8 @@ cover:
   path: /media/articles/heroes/coincidim.jpg
   mobile: /media/articles/mobile/coincidim.jpg
   thumbnail: /media/articles/thumbnails/coincidim.jpg
-  alt: Picture of a module with ethernet connections to illustrate article about 'Coincidim'
+  alt: Picture of a module with ethernet connections to illustrate article about
+    'Coincidim'
   credits: https://archive.org/details/C-2002-1990
   caption: Picture of a module with ethernet connections
 stickers:

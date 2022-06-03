@@ -4,7 +4,7 @@ volume-uid: wilder-journal-1
 category: deep-dives
 published: true
 date: 2022-01-01T00:00:00.000Z
-article-order: 1
+article-order: 2
 uid: vespertilio-homo
 title: "El poder de (des)informar: un viaje a lomos del vespertilio homo"
 description: En este artículo, miramos atrás para entender cómo ha evolucionado la producción, distribución y consumo de bulos y desinformación en la historia.
@@ -18,6 +18,10 @@ cover:
   alt: Ilustración del vespertilio homo publicada en The Sun (Wikimedia)
   credits: Wikimedia (https://commons.wikimedia.org/wiki/File:Great-Moon-Hoax-1835-New-York-Sun-lithograph-298px.jpg)
   caption: Ilustración del vespertilio homo publicada en The Sun.
+related_article_uids:
+  - role-of-glams-misinformation
+  - be-part-does-a-students-decision-have-the-same-power-as-a-teachers
+  - indices-bootcamp-datathon
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch

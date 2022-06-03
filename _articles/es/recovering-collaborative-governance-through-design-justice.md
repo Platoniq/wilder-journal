@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-01-01T00:00:00.000Z
 date-updated: 2022-05-27T11:40:11.131Z
-article-order: 15
+article-order: 7
 uid: recovering-collaborative-governance-through-design-justice
 title: De cómo recuperar la gobernanza colaborativa a través de Design Justice
 description: La Design Justice crea mediante la gobernanza colaborativa una
@@ -16,24 +16,35 @@ author_uids:
   - nadia-nadesan
   - elena-silvestrini
 cover:
-  path: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: "# TODO"
-  credits: "# TODO"
-  caption: "# TODO"
-  mobile: /media/articles/mobile/no_image-hero.png
+  path: /media/articles/heroes/openheritage.jpg
+  thumbnail: /media/articles/thumbnails/openheritage.jpg
+  mobile: /media/articles/mobile/openheritage.jpg
+  alt: LaFábrika detodalavida
+  credits: Autoría desconocida
+  caption: LaFábrika detodalavida
+related_article_uids:
+  - storytelling
+  - ines-cheniour
+  - culture-creativity-and-deliberation-methodologies
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
-  sticker_two_animation: animation-breathe
+  sticker_two_animation: animation-none
   sticker_one: /media/stickers/wilder-journal-1/sticker6.png
   sticker_two: ""
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
-  alt: .
+  path: /media/articles/social/openheritage.jpg
 ---
-La Design Justice dota la gobernanza colaborativa de un significado y una orientación que le permite convertirse en un método y una herramienta de participación diversa e inclusiva que aspira a una mayor justicia social.
+[](http://platoniq.net/media_images/800/DSC09049.JPG)¿Imaginas una zona industrial abandonada, que los residentes quieren convertir en una escuela comunitaria?
+
+**Piensa en un parque frecuentado por jóvenes, pequeños productores ecológicos y  un grupo de personas mayores.** ¿Puedes imaginar que estos colectivos puedan tomar decisiones sobre este espacio que utilizan cada día?\
+\
+**Open Heritage (OH)** es un proyecto europeo que investiga cómo utilizar **procesos participativos en la gestión del patrimonio cultural**. Los objetivos del proyecto son involucrar las comunidades locales en los procesos de decisión y implementación de nuevos usos de edificios o áreas con valor histórico o cultural. Se busca obtener **modelos de gobernanza y gestión económica que puedan llegar a aplicarse en otros contextos similares**; empoderar a las comunidades para dar una nueva vida al patrimonio cultural en desuso.
+
+![](https://openheritage.eu/wp-content/uploads/2018/11/Warsaw.jpg)
+
+Este modelo de gobernanza es lo que llamamos gobernanza colaborativa. La [Design Justice](https://designjustice.org/) dota la gobernanza colaborativa de un significado y una orientación que le permite convertirse en un método y una herramienta de participación diversa e inclusiva que aspira a una mayor justicia social.
 
 ## Relevancia y relación con nuestra ética (Nuestra historia)
 
@@ -57,7 +68,7 @@ Una crítica importante proveniente de la academia sostiene que la gobernanza co
 
 Nuestro objetivo es cuestionar las ideas subyacentes a la colaboración y el consenso incorporando la pospolítica. **¿Existe un espacio para reconocer la discrepancia de ideas y las dinámicas de poder a la hora de implementar la gobernanza colaborativa?** Desde el punto de vista de la pospolítica cabe reconocer que no podemos dar por sentadas la inclusión y la diversidad en el marco de una gobernanza orientada al consenso. Dicho esto, esta perspectiva pospolítica nos ayuda a avanzar hacia una gobernanza colaborativa que aborde la desigualdad de poder y establezca unos procesos de referencia, no solo para nosotras mismas sino también para todas aquellas personas o entidades que realizan una labor parecida.
 
-{% gallery { "simple": false, "images": [{"path":"/media/design-justice-1.jpg", "caption": "**Gobernanza colaborativa** gestión participativa de personas y grupos"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/design-justice-1.jpg","caption":"**Gobernanza colaborativa** gestión participativa de personas y grupos"}] } %}
 
 ### Incorporación de los principios de Design Justice
 

@@ -5,7 +5,7 @@ category: blueprints
 published: true
 date: 2022-01-01T17:13:53.362Z
 date-updated: 2022-05-27T11:11:07.949Z
-article-order: 8
+article-order: 12
 uid: nature-sdg-in-goteo
 title: Crowdfunding y datos abiertos ODS para la sostenibilidad y la
   participación ciudadana
@@ -21,6 +21,10 @@ cover:
   alt: Objetivos de Desarrollo Sostenible en la plataforma de crowdfunding Goteo
   credits: Goteo
   caption: Objetivos de Desarrollo Sostenible en la plataforma de crowdfunding Goteo
+related_article_uids:
+  - democratic-funding
+  - neo-sindicalism-laskellys-manteros-riders-jornaleras
+  - emptied-rural-spain
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

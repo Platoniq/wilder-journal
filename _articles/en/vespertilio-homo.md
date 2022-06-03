@@ -4,7 +4,7 @@ volume-uid: wilder-journal-1
 category: deep-dives
 published: true
 date: 2022-01-01T00:00:00.000Z
-article-order: 1
+article-order: 2
 uid: vespertilio-homo
 title: "The power to (dis)inform: a journey on the back of the vespertilio homo"
 description: In this article, we look back to understand how the production, distribution and consumption of hoaxes and disinformation has evolved throughout history.

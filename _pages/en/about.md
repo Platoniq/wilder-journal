@@ -7,7 +7,7 @@ call_to_action: cta-contact
 locale: en
 description: ""
 ---
-This Journal is the way we at Fundación Platoniq open the doors to our world(s). Here you will find in-depth articles (deep dives), interviews and other content related to our lines of activity (Future Culture, Democratic Innovation, Citizen Empowerment, Social Economy and cooperativism).
+This Journal is the way we at Fundación Platoniq open the doors to our world(s). Here you will find [in-depth articles](/en/wilder-journal-1/deep-dives/) (deep dives), [interviews](/en/wilder-journal-1/interviews/) and other content related to our lines of activity (Future Culture, Democratic Innovation, Citizen Empowerment, Social Economy and cooperativism).
 
 The Journal will be especially focused on the participation and influence of citizens in public decisions or in their own organisations. It also works as a platform for initiatives of this kind to be known and researched.
 

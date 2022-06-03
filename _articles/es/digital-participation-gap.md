@@ -4,7 +4,8 @@ volume-uid: wilder-journal-1
 category: deep-dives
 published: true
 date: 2022-01-01T00:00:00.000Z
-article-order: 14
+date-updated: 2022-06-02T11:41:37.527Z
+article-order: 5
 uid: digital-participation-gap
 title: ¿La brecha de participación digital tiene género?
 description: "En este artículo, nos centramos en la situación de las mujeres
@@ -20,6 +21,11 @@ cover:
   alt: "Sticker del Wilder Journal #1 por Alba Feitó"
   credits: Alba Feitó
   caption: "Sticker del Wilder Journal #1"
+  mobile: /media/articles/mobile/sticker7.png
+related_article_uids:
+  - democracy-is-fun
+  - culture-creativity-and-deliberation-methodologies
+  - arantxa-mendiharat
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch

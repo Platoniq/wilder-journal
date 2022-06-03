@@ -10,7 +10,7 @@ description: La Fundación Platoniq diseña procesos participativos digitales y
   sociedades y organizaciones más democráticas y justas, haciendo uso de
   tecnologías cívicas abiertas.
 ---
-Este Journal que tienes "entre manos" es la manera que tenemos en Fundación Platoniq de abrirte las puertas a nuestro(s) mundo(s). Aquí encontrarás artículos en profundidad (deep dives), entrevistas y otros contenidos relacionados con nuestras líneas de actividad (Cultura futura, Innovación democrática, Empoderamiento ciudadano, Economía Social y Solidaria y cooperativismo).
+Este Journal que tienes "entre manos" es la manera que tenemos en Fundación Platoniq de abrirte las puertas a nuestro(s) mundo(s). Aquí encontrarás [artículos en profundidad](/es/wilder-journal-1/deep-dives) (deep dives), [entrevistas](/es/wilder-journal-1/interviews) y otros contenidos relacionados con nuestras líneas de actividad (Cultura futura, Innovación democrática, Empoderamiento ciudadano, Economía Social y Solidaria y cooperativismo).
 
 La temática de este Journal estará especialmente enfocada a la participación e influencia de la ciudadanía en las decisiones públicas o en sus propias organizaciones. También sirve de plataforma para que iniciativas de este tipo se conozcan y se investiguen.
 

@@ -5,7 +5,7 @@ category: reports
 published: true
 date: 2022-04-01T10:42:45.427Z
 date-updated: 2022-05-30T16:17:53.314Z
-article-order: 4
+article-order: 19
 uid: be-part-does-a-students-decision-have-the-same-power-as-a-teachers
 title: '"BePart": ¿Tiene el mismo poder la decisión de una alumna que la de una
   docente?'
@@ -24,6 +24,10 @@ cover:
   caption: Clase con proyector
   credits: University of Alberta Archives (Public Domain Mark 1.0 Creative Commons
     License)
+related_article_uids:
+  - vespertilio-homo
+  - storytelling
+  - we-the-internet
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none

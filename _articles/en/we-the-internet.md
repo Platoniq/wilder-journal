@@ -5,10 +5,12 @@ category: reports
 published: true
 date: 2022-05-06T17:31:25.494Z
 date-updated: 2022-05-06T17:31:25.530Z
-article-order: 3
+article-order: 17
 uid: we-the-internet
 title: "#WeTheInternet: Citizen dialogues for empowerment"
-description: "We The Internet was a digital citiens dialogue with citizens, specialists and policy-makers with the goal of influencing local and global decision-making."
+description: We The Internet was a digital citiens dialogue with citizens,
+  specialists and policy-makers with the goal of influencing local and global
+  decision-making.
 author: Xesca Sastre
 author_uids:
   - xesca-sastre

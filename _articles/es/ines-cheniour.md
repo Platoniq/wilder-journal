@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2022-04-01T08:57:15.117Z
 date-updated: 2022-05-12T15:30:18.627Z
-article-order: 2
+article-order: 9
 uid: ines-cheniour
 title: Es fundamental encontrar el equilibrio idóneo entre las normas y la
   flexibilidad para jugar y divertirse
@@ -29,6 +29,10 @@ cover:
   alt: Retrato fotográfico de Ines Cheniour
   caption: Ines Cheniour
   credits: .
+related_article_uids:
+  - recovering-collaborative-governance-through-design-justice
+  - storytelling
+  - digital-participation-gap
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

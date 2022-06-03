@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2022-01-01T12:51:36.642Z
 date-updated: 2022-05-26T13:45:27.739Z
-article-order: 3
+article-order: 8
 uid: arantxa-mendiharat
 title: Citizens' Assemblies provide spaces of trust, with a high degree of
   direct participation

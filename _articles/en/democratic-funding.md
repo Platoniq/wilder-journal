@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-04-01T09:47:37.297Z
 date-updated: 2022-05-05T17:55:17.959Z
-article-order: 1
+article-order: 3
 uid: democratic-funding
 title: "Democratic Funding: Citizens choose their future. Limits and hopes in
   Participatory Budgets and Matchfunding"
@@ -22,10 +22,6 @@ cover:
   alt: "Wilder Journal #1 sticker by Alba Feitó"
   credits: Alba Feitó
   caption: "Wilder Journal #1 sticker"
-related_article_uids:
-  - arantxa-mendiharat
-  - digital-participation-gap
-  - democracy-is-fun
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
