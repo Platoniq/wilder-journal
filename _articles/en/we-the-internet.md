@@ -5,7 +5,7 @@ category: reports
 published: true
 date: 2022-05-06T17:31:25.494Z
 date-updated: 2022-05-06T17:31:25.530Z
-article-order: 17
+article-order: 16
 uid: we-the-internet
 title: "#WeTheInternet: Citizen dialogues for empowerment"
 description: We The Internet was a digital citiens dialogue with citizens,

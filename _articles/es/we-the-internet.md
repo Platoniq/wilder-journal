@@ -5,7 +5,7 @@ category: reports
 published: true
 date: 2022-05-06T17:31:25.494Z
 date-updated: 2022-05-06T17:31:25.530Z
-article-order: 17
+article-order: 16
 uid: we-the-internet
 title: "#WeTheInternet: Diálogos para el empoderamiento ciudadano"
 description: We The Internet fue un diálogo ciudadano digital entre ciudadanía,
