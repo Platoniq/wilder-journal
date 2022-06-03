@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-01-01T00:00:00.000Z
 date-updated: 2022-05-27T11:40:11.131Z
-article-order: 7
+article-order: 8
 uid: recovering-collaborative-governance-through-design-justice
 title: De cómo recuperar la gobernanza colaborativa a través de Design Justice
 description: La Design Justice crea mediante la gobernanza colaborativa una

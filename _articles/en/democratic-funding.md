@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-04-01T09:47:37.297Z
 date-updated: 2022-05-05T17:55:17.959Z
-article-order: 3
+article-order: 4
 uid: democratic-funding
 title: "Democratic Funding: Citizens choose their future. Limits and hopes in
   Participatory Budgets and Matchfunding"

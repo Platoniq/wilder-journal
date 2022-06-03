@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2022-04-01T14:15:22.373Z
 date-updated: 2022-05-27T09:50:01.347Z
-article-order: 4
+article-order: 5
 uid: culture-creativity-and-deliberation-methodologies
 title: Cultura, creatividad y metodologías de deliberación
 description: Crear metodologías que mejoren los métodos deliberativos es clave
