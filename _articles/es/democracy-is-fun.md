@@ -5,7 +5,7 @@ category: reports
 published: true
 date: 2022-01-01T00:00:00.000Z
 date-updated: 2022-06-02T11:39:13.239Z
-article-order: 16
+article-order: 17
 uid: democracy-is-fun
 title: Gamificación, incentivos y espacios más seguros para mejorar la democracia
 description: Hoy día, las plataformas digitales de participación ciudadana
