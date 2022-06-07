@@ -22,6 +22,10 @@ cover:
   alt: LaFábrika detodalavida
   credits: Source unknown
   caption: LaFábrika detodalavida
+related_article_uids:
+  - storytelling
+  - ines-cheniour
+  - culture-creativity-and-deliberation-methodologies
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
@@ -40,7 +44,7 @@ Imagine a neighborhood once derelict and now upcoming, at risk of aggressive gen
 \
 Platoniq is proudly part of **OpenHeritage**, an EU project that wants to explore how such **participatory processes can be applied to heritage**. It identifies and tests the best practices of adaptive heritage re-use in Europe.
 
-![](https://openheritage.eu/wp-content/uploads/2018/11/Warsaw.jpg)
+{% gallery { "simple": true, "images": [{"path":"/media/warsaw.jpg"}] } %}
 
 This model of governance is what we call collaborative governance. [Design Justice](https://designjustice.org/) gives collaborative governance a meaning and orientation that allows it to become a method and tool for diverse and inclusive participation that aims for greater social justice.
 
@@ -120,6 +124,7 @@ Do you have any example of justice in Design especially in terms of participatio
 
 ## References
 
-1. [Participedia](https://participedia.net/method/150)
-2. [Wikipedia](https://en.wikipedia.org/wiki/Post-politics) & Davidson, M., & Iveson, K. (2015). Recovering the politics of the city: From the 'post-political city' to a 'method of equality' for critical urban geography. *Progress in human geography*, 39(5), 543-559.
-3. Hutswit, Gary (director). (October 2011). *Urbanized* \[documentary]. United States: Swiss Dots
+1. [Design Justice Network](https://designjustice.org/)
+2. [Participedia](https://participedia.net/method/150)
+3. [Wikipedia](https://en.wikipedia.org/wiki/Post-politics) & Davidson, M., & Iveson, K. (2015). Recovering the politics of the city: From the 'post-political city' to a 'method of equality' for critical urban geography. *Progress in human geography*, 39(5), 543-559.
+4. Hutswit, Gary (director). (October 2011). *Urbanized* \[documentary]. United States: Swiss Dots

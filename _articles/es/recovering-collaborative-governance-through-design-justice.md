@@ -38,11 +38,11 @@ image:
 ---
 [](http://platoniq.net/media_images/800/DSC09049.JPG)¿Imaginas una zona industrial abandonada, que los residentes quieren convertir en una escuela comunitaria?
 
-**Piensa en un parque frecuentado por jóvenes, pequeños productores ecológicos y  un grupo de personas mayores.** ¿Puedes imaginar que estos colectivos puedan tomar decisiones sobre este espacio que utilizan cada día?\
+**Piensa en un parque frecuentado por jóvenes, pequeños productores ecológicos y un grupo de personas mayores.** ¿Puedes imaginar que estos colectivos puedan tomar decisiones sobre este espacio que utilizan cada día?\
 \
 **Open Heritage (OH)** es un proyecto europeo que investiga cómo utilizar **procesos participativos en la gestión del patrimonio cultural**. Los objetivos del proyecto son involucrar las comunidades locales en los procesos de decisión y implementación de nuevos usos de edificios o áreas con valor histórico o cultural. Se busca obtener **modelos de gobernanza y gestión económica que puedan llegar a aplicarse en otros contextos similares**; empoderar a las comunidades para dar una nueva vida al patrimonio cultural en desuso.
 
-![](https://openheritage.eu/wp-content/uploads/2018/11/Warsaw.jpg)
+{% gallery { "simple": true, "images": [{"path":"/media/warsaw.jpg"}] } %}
 
 Este modelo de gobernanza es lo que llamamos gobernanza colaborativa. La [Design Justice](https://designjustice.org/) dota la gobernanza colaborativa de un significado y una orientación que le permite convertirse en un método y una herramienta de participación diversa e inclusiva que aspira a una mayor justicia social.
 
@@ -122,6 +122,7 @@ En el laboratorio de Roma la población de Centocelle ha formado una cooperativa
 
 ## Referencias
 
-1. [Participedia](https://participedia.net/method/150)
-2. [Wikipedia](https://en.wikipedia.org/wiki/Post-politics) & Davidson, M., & Iveson, K. (2015). Recovering the politics of the city: From the 'post-political city' to a 'method of equality' for critical urban geography. *Progress in human geography*, 39(5), 543-559.
-3. Hutswit, Gary (director). (October 2011). *Urbanized* \[documentary]. United States: Swiss Dots
+1. [Design Justice Network](https://designjustice.org/)
+2. [Participedia](https://participedia.net/method/150)
+3. [Wikipedia](https://en.wikipedia.org/wiki/Post-politics) & Davidson, M., & Iveson, K. (2015). Recovering the politics of the city: From the 'post-political city' to a 'method of equality' for critical urban geography. *Progress in human geography*, 39(5), 543-559.
+4. Hutswit, Gary (director). (October 2011). *Urbanized* \[documentary]. United States: Swiss Dots
