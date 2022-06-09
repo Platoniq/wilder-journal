@@ -7,7 +7,8 @@ date: 2022-01-01T00:00:00.000Z
 date-updated: 2022-05-27T11:40:11.131Z
 article-order: 8
 uid: recovering-collaborative-governance-through-design-justice
-title: Recovering Collaborative Governance through Design Justice
+title: "Recovering Collaborative Governance of architectural assets through
+  Design Justice "
 description: Design Justice gives greater meaning to collaborative governance as
   a tool for more diverse and inclusive participation, aiming towards greater
   social justice.

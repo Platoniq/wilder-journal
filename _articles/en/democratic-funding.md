@@ -22,6 +22,10 @@ cover:
   alt: "Wilder Journal #1 sticker by Alba Feitó"
   credits: Alba Feitó
   caption: "Wilder Journal #1 sticker"
+related_article_uids:
+  - arantxa-mendiharat
+  - digital-participation-gap
+  - democracy-is-fun
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
@@ -50,7 +54,7 @@ Matchfunding in turn and as collective financing of projects, together with the 
 
 At this point we believe it is useful, both for those who have already mastered the issue and for those who are now discovering these concepts, to dedicate the following section to delving into both tools.
 
-## State of the matter
+## State of the art
 
 Through **participatory budgets** the citizenry can present projects and decide where the money goes, but the projects are executed by the Administration, with all its limitations in the process, integration of diversity and final execution.
 
