@@ -24,7 +24,7 @@ cover:
   path: /media/articles/heroes/gzihozzd.jpg
   mobile: /media/articles/mobile/gzihozzd.jpg
   thumbnail: /media/articles/thumbnails/gzihozzd.jpg
-  alt: Oliver Escobar
+  alt: Photographic portrait of Oliver Escobar
   credits: .
   caption: Oliver Escobar
 related_article_uids:
