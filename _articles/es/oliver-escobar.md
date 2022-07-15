@@ -39,7 +39,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/gzihozzd.jpg
 ---
-Una conversación entre Tayrine Dias, Olivier Schulbaum y Oliver Escobar, profesor titular de Políticas Públicas en la Universidad de Edimburgo; responsable académico de Innovación Democrática en el [Edinburgh Futures Institute](https://efi.ed.ac.uk/); y codirector de [CRITIQUE](https://critique.sps.ed.ac.uk/) (Centro de Ética y Pensamiento Crítico), sobre la democracia deliberativa, la participación pública y la innovación democrática, con un enfoque en la [Asamblea por el Clima de Escocia](https://en.wikipedia.org/wiki/Scotland%27s_Climate_Assembly).
+Una conversación entre Tayrine Dias, Olivier Schulbaum y Oliver Escobar, profesor titular de Políticas Públicas en la Universidad de Edimburgo; responsable académico de Innovación Democrática en el [Edinburgh Futures Institute](https://efi.ed.ac.uk/); y codirector de [CRITIQUE](https://critique.sps.ed.ac.uk/) (Centro de Ética y Pensamiento Crítico), sobre la democracia deliberativa, la participación pública y la innovación democrática, con un enfoque en la [Asamblea por el Clima de Escocia](https://en.wikipedia.org/wiki/Scotland%27s_Climate_Assembly)
 
 {% quote { "author": "Oliver Escobar" } %}Me interesan muchas cosas, me interesa la política, la cultura, todo tipo de activismo mediado por las artes. Me interesan los movimientos sociales, las instituciones y los espacios oficiales formales. Aparte de eso, nada demasiado inusual. Sólo pasear por el monte con los perros, el cine y a veces también escribo un poco de literatura, sobre todo poesía en lengua gallega.{% endquote %}
 
@@ -120,8 +120,6 @@ En la dinámica de grupo, los facilitadores tienen que trabajar más para crear 
 ### Al principio de nuestra conversación, mencionaste que pasear por las colinas con los perros es terapéutico. ¿Así que pasear a los perros es más importante que pasear por la bruma de la democracia?
 
 Sí, esa es la base de todo lo demás. Normalmente es cuando consigo un poco de espacio para pensar, los perros, han sido increíbles, especialmente durante la pandemia. Ha sido duro para todos. Tuvimos una serie de circunstancias diferentes y difíciles y ellos realmente nos mantuvieron en pie.
-
-
 
 ### Referencias:
 
