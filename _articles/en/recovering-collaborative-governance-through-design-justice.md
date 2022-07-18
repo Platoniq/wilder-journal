@@ -125,7 +125,7 @@ Working with the lab from Sunderland, **Platoniq developed a feature for Decidim
 
 ### Working with Residents to Develop a Feature to Manage Collective resources
 
-In the lab in Rome, residendents of Centocelle have formed a cooperative, CooperACTiva. The cooperative intends to give bike tours of the neighborhood, which was a former stronghold against fascism. Using the Decidim platform they intend to create a system for reservations and bike rentals. The initiative is completely resident led and working them allows for Platoniq to adapt the platform to their needs rather than having an imposed platform structure within their organising.  
+In the lab in Rome, residents of Centocelle have formed a cooperative, CooperACTiva. The cooperative intends to give bike tours of the neighborhood, which was a former stronghold against fascism. Using the Decidim platform they intend to create a system for reservations and bike rentals. The initiative is completely resident led and working them allows for Platoniq to adapt the platform to their needs rather than having an imposed platform structure within their organising.  
 
 ## Call to action
 
