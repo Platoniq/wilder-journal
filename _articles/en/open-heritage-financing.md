@@ -17,9 +17,10 @@ description: "Developed and carried out by Eutropian and Platoniq, the Open
   we have developed training modules to help those interested in repurposing
   empty or underused buildings with symbolic or practical heritage significance.
   "
-author: "Tayrine Dias "
+author: Tayrine Dias and Olivier Schulbaum
 author_uids:
   - tayrine-dias
+  - olivier-schulbaum
 cover:
   path: /media/articles/heroes/la-benefica.jpg
   mobile: /media/articles/mobile/la-benefica.jpg
@@ -27,6 +28,10 @@ cover:
   caption: La Benéfica de Piloña - Espaciu Cultural
   credits: .
   alt: La Benéfica de Piloña - Espaciu Cultural
+related_article_uids:
+  - democratic-funding
+  - recovering-collaborative-governance-through-design-justice
+  - democracy-is-fun
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

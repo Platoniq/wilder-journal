@@ -19,9 +19,10 @@ description: Desarrollado y llevado a cabo por
   representan grandes oportunidades**. Por ello, hemos desarrollado módulos de
   formación para ayudar a los interesados en la reutilización de edificios
   vacíos o infrautilizados con significado patrimonial simbólico o práctico.
-author: Tayrine Dias
+author: Tayrine Dias y Olivier Schulbaum
 author_uids:
   - tayrine-dias
+  - olivier-schulbaum
 cover:
   path: /media/articles/heroes/la-benefica.jpg
   mobile: /media/articles/mobile/la-benefica.jpg
