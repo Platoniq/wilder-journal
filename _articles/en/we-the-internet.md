@@ -21,13 +21,17 @@ cover:
   alt: "Wilder Journal #1 sticker by Alba Feitó"
   credits: Alba Feitó
   caption: "Wilder Journal #1 sticker"
+related_article_uids:
+  - arantxa-mendiharat
+  - culture-creativity-and-deliberation-methodologies
+  - democracy-is-fun
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none
   sticker_two_animation: animation-breathe
   sticker_one: ""
   sticker_two: /media/stickers/wilder-journal-1/sticker17.png
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /media/articles/social/sticker15.png
 ---

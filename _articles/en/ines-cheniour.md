@@ -27,11 +27,15 @@ cover:
   alt: Photographic portrait of Ines Cheniour
   caption: Ines Cheniour
   credits: .
+related_article_uids:
+  - recovering-collaborative-governance-through-design-justice
+  - storytelling
+  - digital-participation-gap
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /media/articles/social/ines.jpg
   alt: Ines Cheniour

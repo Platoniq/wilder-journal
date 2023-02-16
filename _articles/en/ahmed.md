@@ -24,13 +24,16 @@ cover:
   alt: Illustration for 'Ahmed' by Gonzalo Sainz Sotomayor
   credits: Gonzalo Sainz Sotomayor
   caption: Illustration for 'Ahmed'
+related_article_uids:
+  - ahmed
+  - storytelling
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
   sticker_one: null
   sticker_two: null
-call_to_action: cta-newsletter
+call_to_action: cta-donate
 image:
   path: /media/articles/social/ahmed.png
 ---

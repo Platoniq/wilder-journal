@@ -24,13 +24,17 @@ cover:
   credits: Platoniq
   caption: People participating in the inDICEs Bootcamp held November 23rd and
     24th, 2022 at Canòdrom
+related_article_uids:
+  - culture-creativity-and-deliberation-methodologies
+  - role-of-glams-misinformation
+  - coincidim-using-decidim-in-citizen-movements
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none
   sticker_two_animation: animation-breathe
   sticker_one: ""
   sticker_two: /media/stickers/wilder-journal-1/sticker17.png
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   mobile: /media/articles/social/indices.jpeg
   path: /media/articles/social/indices.jpeg

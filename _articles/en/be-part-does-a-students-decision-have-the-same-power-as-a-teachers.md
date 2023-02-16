@@ -22,13 +22,17 @@ cover:
   caption: Classroom with projector
   credits: University of Alberta Archives (Public Domain Mark 1.0 Creative Commons
     License)
+related_article_uids:
+  - vespertilio-homo
+  - storytelling
+  - we-the-internet
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none
   sticker_two_animation: animation-breathe
   sticker_one: ""
   sticker_two: /media/stickers/wilder-journal-1/sticker17.png
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /media/articles/social/bepart.png
 ---

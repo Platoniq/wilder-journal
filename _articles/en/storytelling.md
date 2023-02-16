@@ -23,11 +23,15 @@ cover:
   credits: Met Museum digital collection
     (https://www.metmuseum.org/art/collection/search/364908)
   caption: "'Man and Woman Reading', ca. 1742. Gabriel Huquier"
+related_article_uids:
+  - ahmed
+  - precious
+  - vespertilio-homo
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /media/articles/social/storytelling.jpg
 ---

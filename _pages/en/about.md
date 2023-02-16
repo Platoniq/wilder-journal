@@ -65,7 +65,6 @@ All activities necessary for innovation, IT development, exploitation and mainte
 
 All the necessary activities of cooperation and collaboration with other organisations and initiatives such as: the creation of consortia and/or national, European or international projects; the creation of institutes and research groups; alliances and participation in networks with civic organisations, institutions and other entities that work with disadvantaged groups or those with difficulties in accessing information and growth.
 
-**FUTURE CULTURE**
 
 
 ![Platoniq logo](/media/altres_altres-89.png "Platoniq")

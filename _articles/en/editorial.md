@@ -22,11 +22,15 @@ cover:
   alt: The Wilder Journal and the contemporary challenges to democracy
   caption: Wilder Journal
   credits: by Platoniq
+related_article_uids:
+  - arantxa-mendiharat
+  - culture-creativity-and-deliberation-methodologies
+  - democracy-is-fun
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
-call_to_action: cta-newsletter
+call_to_action: cta-donate
 image:
   path: /media/articles/social/editorial.png
 ---
