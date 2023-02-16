@@ -27,11 +27,15 @@ cover:
   alt: Illustration for the interview to Arantxa Mendiharat by Alba Feitó
   caption: Illustration for the interview to Arantxa Mendiharat
   credits: Alba Feitó
+related_article_uids:
+  - culture-creativity-and-deliberation-methodologies
+  - democracy-is-fun
+  - digital-participation-gap
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
-call_to_action: cta-newsletter
+call_to_action: cta-donate
 image:
   path: /media/articles/social/arantxa.jpg
   alt: Arantxa Mendiharat

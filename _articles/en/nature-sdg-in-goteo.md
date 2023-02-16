@@ -22,13 +22,17 @@ cover:
   alt: Sustainable Development Goals in the Goteo crowdfunding platform
   credits: Goteo
   caption: Sustainable Development Goals in the Goteo crowdfunding platform
+related_article_uids:
+  - democratic-funding
+  - neo-sindicalism-laskellys-manteros-riders-jornaleras
+  - emptied-rural-spain
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
   sticker_one: null
   sticker_two: null
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /media/articles/social/sdgs.png
   alt: .

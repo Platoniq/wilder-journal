@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-breathe
   sticker_one: ""
   sticker_two: /media/stickers/wilder-journal-1/sticker17.png
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /media/articles/social/bepart.png
 ---

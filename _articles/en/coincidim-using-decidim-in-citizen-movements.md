@@ -23,13 +23,17 @@ cover:
     'Coincidim'
   credits: https://archive.org/details/C-2002-1990
   caption: Picture of a module with ethernet connections
+related_article_uids:
+  - recovering-collaborative-governance-through-design-justice
+  - nature-sdg-in-goteo
+  - democracy-is-fun
 stickers:
   layout: layout-two
   sticker_one_animation: animation-none
   sticker_two_animation: animation-breathe
   sticker_one: ""
   sticker_two: /media/stickers/wilder-journal-1/sticker17.png
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /media/articles/social/coincidim.jpg
 ---

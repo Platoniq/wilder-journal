@@ -39,7 +39,7 @@ stickers:
   sticker_two_animation: animation-none
   sticker_one: null
   sticker_two: null
-call_to_action: cta-contact
+call_to_action: cta-donate
 image:
   path: /media/articles/social/ines.jpg
   alt: Ines Cheniour
