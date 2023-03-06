@@ -7,7 +7,8 @@ date: 2023-02-22T14:05:16.943Z
 date-updated: 2023-02-22T14:05:16.971Z
 article-order: 23
 uid: deliberative-assemblies
-title: How to organize Deliberative Assemblies by Civic Draw in institutes
+title: How to organize Deliberative Assemblies through a process of ''Civic
+  lottery" in high schools
 description: The essential LADA Guide to learn to deliberate collectively and
   activate social change
 author: Joan B. Cabot
