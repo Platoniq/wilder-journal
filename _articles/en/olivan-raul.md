@@ -9,7 +9,7 @@ article-order: 24
 uid: olivan-raul
 interviewee: Raúl Oliván
 cover:
-  path: /media/articles/heroes/raul-olivan-e1619599547287.webp
+  path: /media/articles/heroes/raul.webp
   mobile: /media/articles/mobile/raul-olivan-e1619599547287.webp
   thumbnail: /media/articles/thumbnails/raul-olivan-e1619599547287.webp
 stickers:
