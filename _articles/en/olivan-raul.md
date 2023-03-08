@@ -12,6 +12,10 @@ cover:
   path: /media/articles/heroes/raul.webp
   mobile: /media/articles/mobile/raul-olivan-e1619599547287.webp
   thumbnail: /media/articles/thumbnails/raul-olivan-e1619599547287.webp
+related_article_uids:
+  - arantxa-mendiharat
+  - culture-creativity-and-deliberation-methodologies
+  - democratic-funding
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

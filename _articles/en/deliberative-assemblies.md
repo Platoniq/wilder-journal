@@ -39,9 +39,17 @@ We are excited after the publication of the **Guide "How to organize Deliberativ
 
 At **Platoniq Foundation** we are the first to be clear that youth are a fundamental part of society and their participation in politics is essential for the development of a healthy and strong democracy. It is not lost on anyone that the way in which young people participate has changed over the years and they continue to be an important factor in political decision-making. Currently, online petition signing, conscious consumption, graffiti, social media statements, flash mobs, protests and demonstrations are the most visible forms.
 
+
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2023-03-07-a-les-18.15.40.png"}] } %}
+
 This guide focuses on describing **the eleven steps to organize a Deliberative Assembly**, where young people can participate in a diverse and inclusive way in their institute or community space. The Deliberative Assembly is a space where each participant meets to explore relevant issues of their reality, propose actions or projects, evaluate their advantages and disadvantages and decide among the proposals presented which ones have the support of the group for their future implementation.
 
+{% quote { "author": "Olivier Schulbaum" } %}Youth participation in politics is essential for the development of a strong and healthy democracy.{% endquote %}
+
 The selection of participants in a Deliberative Assembly is carried out by civic lottery, a form of election that is fairer than elections or referendums. **Democracy by lot is more egalitarian and offers equal opportunities for all participants**, regardless of their ethnicity, socioeconomic background, educational or cultural level. Also, there is no competition for votes or candidacies, so the lack of competition prevents winners from feeling superior and losers from feeling rejected.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2023-03-07-a-les-18.19.45.png","caption":"Extract from Chapter 1: The educator as a facilitator, changing paradigms"}] } %}
 
 **The experience of Democracy in Practice in Bolivia is a world benchmark** in democracy by lottery in schools. From this initiative, the empowerment of students is emphasized so that they can develop skills related to teamwork, deliberation, collective decision-making and public speaking. The election by lottery is a way of not discriminating in the school learning process and fosters the empowerment of students.
 
