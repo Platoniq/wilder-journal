@@ -11,7 +11,7 @@ title: "Cajas Negras de la Innovación Democrática: Abrir Instituciones desde D
 description: Olivier Schulbaum entrevista a Raúl Oliván, director general de
   Participación ciudadana, Transparencia, Cooperación y Voluntariado en el
   Gobierno de Aragón, LAAAB.
-author: Joan B. Cabot
+author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
 interviewee: Raúl Oliván
