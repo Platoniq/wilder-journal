@@ -13,7 +13,6 @@ description: Olivier Schulbaum entrevista a Raúl Oliván, director general de
   Gobierno de Aragón, LAAAB.
 author: Joan B. Cabot
 author_uids:
-  - joan-cabot
   - olivier-schulbaum
 interviewee: Raúl Oliván
 cover:
