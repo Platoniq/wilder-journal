@@ -7,7 +7,7 @@ date: 2022-04-22T11:27:04.485Z
 date-updated: 2022-06-02T11:44:17.788Z
 article-order: 20
 uid: indices-bootcamp-datathon
-title: El inDICEs Bootcamp, Datathon for a Fairer Democracy
+title: inDICEs Bootcamp, Datathon for a Fairer Democracy
 description: In this event, participants worked together at the intersection of
   data, digitalisation and cultural heritage, exploring information as a
   cultural resource.
