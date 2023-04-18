@@ -15,25 +15,30 @@ author: Joan B Cabot
 author_uids:
   - joan-cabot
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2023-04-05-a-les-19.16.16.png
-  mobile: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  path: /media/articles/heroes/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
   alt: The Restoration Toolbox
   credits: Midjourney
   caption: The Restoration Toolbox
+related_article_uids:
+  - open-heritage-financing
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
 ---
 ¿Eres una apasionada de la preservación el patrimonio comunitario y estás buscando formas de involucrarte? ¡Acabas de encontrar The Restoration Toolbox! Este nuevo proyecto tiene como objetivo capacitar a la ciudadanía para que tomen medidas colaborativas para preservar su propio patrimonio comunitario a través de metodologías de código abierto.
 
-[The Restoration Toolbo](https://therestorationtoolbox.com/)x tiene como objetivo crear una plataforma digital fácil de usar que conecte a varios grupos de interés, incluidos propietarios, comunidades, artesanos, administradores de espacios, profesionales y autoridades cívicas, para colaborar en proyectos de salvaguarda del patrimonio comunitario. La falta de conciencia o acceso a información técnica correcta o profesionales capacitados ha llevado a la demolición de muchos edificios históricos, lo que resulta en una pérdida de identidad y narrativa para la ciudad y la comunidad. La restauración y renovación de edificios antiguos contribuyen a la economía circular y son estrategias clave para lograr la sostenibilidad y la resiliencia climática.
+[The Restoration Toolbox](https://therestorationtoolbox.com/) tiene como objetivo crear una plataforma digital fácil de usar que conecte a varios grupos de interés, incluidos propietarios, comunidades, artesanos, administradores de espacios, profesionales y autoridades cívicas, para colaborar en proyectos de salvaguarda del patrimonio comunitario. La falta de conciencia o acceso a información técnica correcta o profesionales capacitados ha llevado a la demolición de muchos edificios históricos, lo que resulta en una pérdida de identidad y narrativa para la ciudad y la comunidad. La restauración y renovación de edificios antiguos contribuyen a la economía circular y son estrategias clave para lograr la sostenibilidad y la resiliencia climática.
 
 El proyecto está siendo co-creado por [Jugaadopolis](https://jugaadopolis.com/), una iniciativa de innovación social con sede en Nueva Delhi, y la propia Fundación Platoniq, como impulsoras de innovación social con sede en Barcelona y amplia experiencia en participación ciudadana digital y participativa. El proyecto ya ha recibido financiamiento inicial del Goethe Institute / Max Muller Bhawan como parte del programa C3: Codes, Community Creativity.
+
+
+
 
 <div style= "text-align: center; margin-top: 0px; margin-bottom: 40px;">
 <img style="margin: 0 auto" src="https://www.goteo.org/img/700x0/jugaadoopolis.jpg" alt="jugaadoopolis 🫧">
