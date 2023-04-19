@@ -15,16 +15,16 @@ author: Joan B Cabot
 author_uids:
   - joan-cabot
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2023-04-05-a-les-19.16.16.png
-  mobile: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  path: /media/articles/heroes/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
 ---
 Are you passionate about preserving community heritage and looking for ways to get involved? You just found The Restoration Toolbox! This new project aims to empower citizens to take collaborative measures to preserve their own community heritage through open-source methodologies.
 
