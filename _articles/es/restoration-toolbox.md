@@ -31,7 +31,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
 ---
-¿Eres una apasionada de la preservación el patrimonio comunitario y estás buscando formas de involucrarte? ¡Acabas de encontrar The Restoration Toolbox! Este nuevo proyecto tiene como objetivo capacitar a la ciudadanía para que tomen medidas colaborativas para preservar su propio patrimonio comunitario a través de metodologías de código abierto.
+¿Eres una apasionada de la preservación del patrimonio comunitario y estás buscando formas de involucrarte? ¡Acabas de encontrar The Restoration Toolbox! Este nuevo proyecto tiene como objetivo capacitar a la ciudadanía para que tomen medidas colaborativas para preservar su propio patrimonio comunitario a través de metodologías de código abierto.
 
 [The Restoration Toolbox](https://therestorationtoolbox.com/) tiene como objetivo crear una plataforma digital fácil de usar que conecte a varios grupos de interés, incluidos propietarios, comunidades, artesanos, administradores de espacios, profesionales y autoridades cívicas, para colaborar en proyectos de salvaguarda del patrimonio comunitario. La falta de conciencia o acceso a información técnica correcta o profesionales capacitados ha llevado a la demolición de muchos edificios históricos, lo que resulta en una pérdida de identidad y narrativa para la ciudad y la comunidad. La restauración y renovación de edificios antiguos contribuyen a la economía circular y son estrategias clave para lograr la sostenibilidad y la resiliencia climática.
 
