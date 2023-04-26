@@ -68,7 +68,7 @@ On the other hand, there are very emotional projects oriented towards the Demos,
 
 Finding the right balance is crucial: the Demos to give legitimacy and concrete results to transform people's lives. You cannot stay in a permanent assembly or a prototype that never becomes effective. It is important to combine both realities. The LAAB is on that bisector, between the Demos and the Kratos, and that is where we must reflect and deepen to expand the idea of democracy critically, adding the layer of affectivity and emotionality.
 
-### **A synthesis drawn from your own words could be "More Demos, better Kratos. An excess of Demos without Kratos can lead to populism. An excess of Kratos without Demos can generate technocracy." What importance does finding the right narrative or words have so that citizens receive the message of change from the institution without technical jargon?
+### \*\*A synthesis drawn from your own words could be "More Demos, better Kratos. An excess of Demos without Kratos can lead to populism. An excess of Kratos without Demos can generate technocracy." What importance does finding the right narrative or words have so that citizens receive the message of change from the institution without technical jargon?
 
 It is a complicated tension because on the one hand, you need people to understand you, but on the other hand, you also have to illuminate a new world that does not exist, and because it does not exist, you have to invent it by stretching words.
 

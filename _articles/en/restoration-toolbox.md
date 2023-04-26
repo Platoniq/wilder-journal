@@ -18,6 +18,8 @@ cover:
   path: /media/articles/heroes/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
   mobile: /media/articles/mobile/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
+related_article_uids:
+  - open-heritage-financing
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
