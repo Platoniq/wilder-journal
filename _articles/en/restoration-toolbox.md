@@ -34,9 +34,7 @@ Are you passionate about preserving community heritage and looking for ways to g
 
 The project is being co-created by [Jugaadopolis](https://jugaadopolis.com/), a social innovation initiative based in New Delhi, and the Platoniq Foundation, a social innovation driving force based in Barcelona with extensive experience in digital and participatory citizen participation. The project has already received initial funding from the Goethe Institute/Max Muller Bhawan as part of the C3: Codes, Community Creativity program.
 
-<div style= "text-align: center; margin-top: 0px; margin-bottom: 40px;">
 <img style="margin: 0 auto" src="https://www.goteo.org/img/700x0/jugaadoopolis.jpg" alt="jugaadoopolis 🫧">
-</div>
 
 Key values of the project include empowering and enabling young people, accessibility for all through digital technologies, involving all beneficiaries and stakeholders in the co-creation process, implementing the project in a hybrid manner to be more cost-effective, and openly sharing learnings to enable replicability of the project.
 
@@ -46,9 +44,7 @@ The project will involve the development of the platform, co-creation workshops,
 
 The Restoration Toolbox is an opportunity for anyone passionate about community heritage preservation to participate in a collaborative project that will have a real impact on their community. Join us and help make a positive impact on the future of our cities and communities.
 
-<div style= "text-align: center; margin-top: 0px; margin-bottom: 40px;">
 <img style="margin: 0 auto" src="https://www.goteo.org/img/700x0/restoration.png" alt="restoration 🫧">
-</div>
 
 So, we invite you to attend the very exciting launch event of The Restoration Toolbox, signing [here](https://docs.google.com/forms/d/e/1FAIpQLSfTQUBjz4G894x3wNgKYMrTCH7xIlKsma4Z_DBvuqMdAJXDJg/viewform) a participatory open-source platform inspired by the circular economy concept. The event will take place on April 19, 2023, at 5 pm in the ML Bhartia Auditorium, located at the Alliance Française de Delhi. The aim of the platform is to empower citizens to restore their buildings, democratize the heritage conservation process, improve access to experts, and create a space for collaboration between citizens and policymakers to enhance our lives and neighborhoods.
 
