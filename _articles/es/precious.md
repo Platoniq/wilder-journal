@@ -37,6 +37,8 @@ image:
 ---
 {% quote %}Esta mañana me he despertado otra vez con la pequeña Charissa. Le están saliendo los dientes y llora un montón. Tampoco es un problema, me gustan los bebés. Cuando vi que ya no me iba a poder volver a dormir, salí de la cama y me hice un té.{% endquote %}
 
+{% video { "title": "Precious", "url": "https://www.youtube.com/embed/JB5phI4KGA4" } %}
+
 Tiffany también estaba en la cocina, calentando leche. Tenía cara de no haber dormido nada. Es nigeriana como yo y es buena gente, pero no hablamos mucho. Su marido conoce a otros nigerianos aquí en Ancona. Son traficantes. Ya sé que hay que llevarse bien con los traficantes, pero también te hace sentirte un poco sola. Es mejor no fiarse de nadie.
 
 Me asomé por la ventaba de la cocina y parecía que se estaba despejando. El cielo estaba lleno de esos pájaros negros que están por toda la ciudad, y olía a mar. El mar me sigue gustando. Si no tengo cosas que hacer, a veces doy un paseo sola junto al mar y miro los barcos grandes llenos de turistas.

@@ -39,6 +39,8 @@ image:
 ---
 {% quote %}This morning I woke up with the sound of little Charissa again. She's getting teeth and she is crying a lot. It's not a problem. I like babies. When I knew I couldn't sleep anymore, I got out of bed and made myself a tea.{% endquote %} 
 
+{% video { "title": "Precious", "url": "https://www.youtube.com/embed/JB5phI4KGA4" } %}
+
 Tiffany was in the kitchen as well, warming milk. She looked like she didn't sleep at all. She's Nigerian too and she is nice, but we don't speak a lot. Her husband knows some other Nigerian men in Ancona. Traffickers. You have to be friends with the traffickers, I know, but it makes you a little lonely. Better not to trust anyone.
  
 I hang out of the kitchen window and it seemed to become a nice day. The sky was full of those little black birds that are everywhere in the city and you could smell the sea. I still like the sea. Sometimes I walk by the coast on my own and look at the big boats with tourists, if I don't have work to do.
