@@ -39,6 +39,8 @@ image:
 ---
 {% quote %}When I arrived in Ancona everything was cold. The room where I had to wait was windy and my jacket was still wet. I thought I was prepared. Back in Somalia I had read everything about the journey, everything but not too much, because my wife kept telling me to stop it.{% endquote %}
 
+{% video { "title": "Ahmed", "url": "https://www.youtube.com/embed/1G1JOvaDWok" } %}
+
 'On the internet people only make up stories', she said.
 
 I know she was right, but I couldn't help it. I wanted to be aware of the risks. I wanted to make this work.

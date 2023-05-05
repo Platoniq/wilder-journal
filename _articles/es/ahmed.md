@@ -37,6 +37,8 @@ image:
 ---
 {% quote %}Cuando llegué a Ancona todo estaba helado. Había corriente en la sala donde tuve que esperar, y mi chaqueta estaba mojada todavía. Creí que estaba preparado. Cuando estaba en Somalia lo leí todo acerca del viaje; todo, aunque tampoco demasiado, porque mi mujer siempre me pedía que lo dejara.{% endquote %}
 
+{% video { "title": "Ahmed", "url": "https://www.youtube.com/embed/1G1JOvaDWok" } %}
+
 «En Internet la gente solo se inventa cuentos», decía.
 
 Sé que tenía razón, pero no podía evitarlo. Quería conocer los riesgos. Quería que esto saliera adelante.
