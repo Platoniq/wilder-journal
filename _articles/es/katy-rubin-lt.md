@@ -2,12 +2,12 @@
 layout: article
 volume-uid: wilder-journal-1
 category: interviews
-published: false
+published: true
 date: 2023-05-04T16:04:41.157Z
 date-updated: 2023-05-04T16:04:41.310Z
 article-order: 8
 uid: katy-rubin
-title: El teatro legislativo analiza como las cuestiones políticas están
+title: El Teatro Legislativo analiza como las cuestiones políticas están
   atravesadas por el poder
 description: Conversación con Katy Rubin sobre Teatro Legislativo, basado en el
   Teatro del Oprimido de Augusto Boal
@@ -19,9 +19,9 @@ interviewee: Katy Rubin
 cover:
   path: /media/articles/heroes/katyrubin.jpeg
   mobile: /media/articles/mobile/katyrubin.jpeg
-  thumbnail: /media/articles/thumbnails/katyrubin.jpeg
+  thumbnail: /media/articles/thumbnails/katyrubin-small.png
   alt: Katy Rubin
-  credits: .
+  credits: https://www.katyrubin.com/
   caption: Katy Rubin
 related_article_uids:
   - be-part-does-a-students-decision-have-the-same-power-as-a-teachers
@@ -31,39 +31,47 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/katyrubin.jpg
 ---
 Una conversación entre Marta Anducas, Olivier Schulbaum y Katy Rubin, artista y profesional del cambio cívico que trabaja con ciudades del Reino Unido e internacionalmente para implantar y hacer avanzar el Teatro Legislativo.
 
-En un [artículo](https://journal.platoniq.net/es/wilder-journal-1/reports/be-part-does-a-students-decision-have-the-same-power-as-a-teachers/) de la primera edición del journal, nos declarábamos aprendices de la sabiduría de Freire. En esta ocasión, seguimos indagando en su legado desde otra perspectiva: el escenario. Subimos el telón para sumergirnos en el mundo del teatro legislativo de la mano de Katy Rubin.
+En un [artículo](https://journal.platoniq.net/es/wilder-journal-1/reports/be-part-does-a-students-decision-have-the-same-power-as-a-teachers/) de la primera edición del journal, nos declarábamos aprendices de la sabiduría de Freire. En esta ocasión, seguimos indagando en su legado desde otra perspectiva: el escenario. Subimos el telón para sumergirnos en el mundo del Teatro Legislativo de la mano de Katy Rubin.
+
+{% gallery { "simple": true, "images": [{"path":"/media/katyrubin.jpg","alt":"Conversación con Katy Rubin"}] } %}
 
 Nos encontramos con Katy Rubin en Barcelona, aprovechando su paso por la ciudad para compartir las potencialidades del Teatro Legislativo en unas [jornadas](https://urbanjournalism.institute/municipaltimes/enabling-the-power-of-we/) de CGLU (Ciudades y Gobiernos Locales Unidos). 
 
-{% quote %}En el teatro legislativo una comunidad que enfrenta un problema hace una obra de teatro. Por ejemplo, ¿cuál es nuestra experiencia en cuanto a la obtención de apoyo en salud mental para la gente joven en las escuelas de Manchester?{% endquote %}
+{% quote %}En el Teatro Legislativo una comunidad que enfrenta un problema hace una obra de teatro. Por ejemplo, ¿cuál es nuestra experiencia en cuanto a la obtención de apoyo en salud mental para la gente joven en las escuelas de Manchester?{% endquote %}
 
 Durante una hora, conversamos sobre el Teatro Legislativo (TL): desde sus orígenes, características y potencialidades, hasta el caso de uso que ha unido nuestros caminos, punto de partida de esta relatoría. Esperamos que disfruten y aprendan tanto como nosotras de los compartires y sabiduría de Katy Rubin.
 
 ## Optimistic Minds & Mindset Revolution: TL a la práctica
 
-El camino de Katy Rubin se cruza con el nuestro gracias a la colaboración de la Fundación Platoniq con el proyecto Mindset Revolution (MR). MR surge tras el desarrollo de [Optimistic Minds](https://emergingminds.org.uk/optimistic-minds/), un proyecto en el que un grupo diverso de jóvenes de Gran Manchester crearon, con el apoyo de Katy y usando el teatro legislativo, una obra para relatar su experiencia de navegar por un sistema de salud mental que no da respuesta.
+El camino de Katy Rubin se cruza con el nuestro gracias a la colaboración de la Fundación Platoniq con el proyecto Mindset Revolution (MR). MR surge tras el desarrollo de [Optimistic Minds](https://emergingminds.org.uk/optimistic-minds/), un proyecto en el que un grupo diverso de jóvenes de Gran Manchester crearon, con el apoyo de Katy y usando el Teatro Legislativo, una obra para relatar su experiencia de navegar por un sistema de salud mental que no da respuesta.
 
-> ***En el teatro legislativo una comunidad que enfrenta un problema hace una obra de teatro. Por ejemplo, ¿cuál es nuestra experiencia en cuanto a la obtención de apoyo en salud mental para la gente joven en las escuelas de Manchester? Entonces las personas se reúnen, juegan, cuentan historias, identifican experiencias compartidas, construyen una obra de teatro y hacen una investigación participativa sobre el proceso de creación de esa obra. El objetivo es enmarcar su experiencia humana diaria con la problemática y comprender algo del contexto, como la burocracia en torno al problema, y reflejarlo en la obra.***
+> ***En el Teatro Legislativo una comunidad que enfrenta un problema hace una obra de teatro. Por ejemplo, ¿cuál es nuestra experiencia en cuanto a la obtención de apoyo en salud mental para la gente joven en las escuelas de Manchester? Entonces las personas se reúnen, juegan, cuentan historias, identifican experiencias compartidas, construyen una obra de teatro y hacen una investigación participativa sobre el proceso de creación de esa obra. El objetivo es enmarcar su experiencia humana diaria con la problemática y comprender algo del contexto, como la burocracia en torno al problema, y reflejarlo en la obra.***
 
-Mindset Revolution da continuidad a Optimistic Minds a través de la formación de personas jóvenes como facilitadoras de teatro legislativo, así como brindando recursos para que las jóvenes creen sus propios espacios de participación, desde donde puedan trabajar y proponer políticas de salud mental para jóvenes.
+Mindset Revolution da continuidad a Optimistic Minds a través de la formación de personas jóvenes como facilitadoras de Teatro Legislativo, así como brindando recursos para que las jóvenes creen sus propios espacios de participación, desde donde puedan trabajar y proponer políticas de salud mental para jóvenes.
 
 Jóvenes y salud mental es un binomio fundamental para el futuro de la sociedad, no exento de desafíos, como los que Katy nos los detalla:
 
 > ***Este es un proyecto con jóvenes que experimentan problemas de salud mental, y cada día es diferente. La forma en que creamos el espacio, la estructura y cada detalle debe ser considerado cuidadosamente.***
 >
+>
+>
 > ***La obra original creada por jóvenes para Optimistic Minds involucró a la policía, ya que un gran problema es que la policía responde a las emergencias de salud mental y las complica. A través de nuestra investigación participativa, supimos que el 80% de las llamadas de emergencia en Gran Manchester son crisis de salud mental.***
+>
+>
 >
 > ***Un desafío fue cómo involucrar a la policía en esto cuando realmente no queríamos estar en la misma sala que la policía. En la primera función, la policía nunca apareció, y las jóvenes lo abordaron con el público. En la segunda actuación, vinieron algunas personas del equipo específico de salud mental y traumatología de la policía, y se comprometieron a realizar un estudio propuesto por el público. Este estudio mostrará cuántas de ese 80% de las llamadas en los últimos cinco años han derivado en algún tipo de peligro o violencia física.***
 >
+>
+>
 > ***Otros desafíos se relacionan con la academia. Este proyecto se inició con un objetivo de investigación y no \[hubo] un compromiso de las personas que toman decisiones para hacer cambios. Estamos persiguiendo a las tomadoras de decisiones para que se comprometan con algo que originalmente no aceptaron. Esto crea otros desafíos, como trabajar con ellas en sus términos.***
 
-Las participantes del proyecto MR se dividen en tres grupos: el grupo de teatro legislativo, que cuenta con el apoyo de Katy Rubin; el grupo de participación digital, que cuenta con el apoyo de Sonia Bussu y nuestra colaboración, y el grupo de investigación participativa. En cuanto al primer grupo, Katy nos relata como ha proseguido su trabajo:
+Las participantes del proyecto MR se dividen en tres grupos: el grupo de Teatro Legislativo, que cuenta con el apoyo de Katy Rubin; el grupo de participación digital, que cuenta con el apoyo de Sonia Bussu y nuestra colaboración, y el grupo de investigación participativa. En cuanto al primer grupo, Katy nos relata como ha proseguido su trabajo:
 
-> ***En el proyecto de seguimiento estoy capacitando a cuatro jóvenes como facilitadoras de teatro legislativo y van a crear su propio proyecto. Son increíbles, lo están haciendo genial. Una de las cosas que forma parte del ethos del Teatro del Oprimido, que constituye la base del Teatro Legislativo, es el [pájaro de multiplicación](https://www.tonyc.nyc/the_little_bird_on_the_tree), que simboliza organización, facilitación y activismo. No se trata de acaparar el poder de facilitar u organizar, se trata de expandirlo para que puedas hacerlo con tus comunidades; no se trata del individualismo de la persona que facilita, se trata de que el equipo trabaje en conjunto, se multiplique y crezca.***
+> ***En el proyecto de seguimiento estoy capacitando a cuatro jóvenes como facilitadoras de Teatro Legislativo y van a crear su propio proyecto. Son increíbles, lo están haciendo genial. Una de las cosas que forma parte del ethos del Teatro del Oprimido, que constituye la base del Teatro Legislativo, es el [pájaro de multiplicación](https://www.tonyc.nyc/the_little_bird_on_the_tree), que simboliza organización, facilitación y activismo. No se trata de acaparar el poder de facilitar u organizar, se trata de expandirlo para que puedas hacerlo con tus comunidades; no se trata del individualismo de la persona que facilita, se trata de que el equipo trabaje en conjunto, se multiplique y crezca.***
 
 ## Orígenes del Teatro Legislativo (TL)
 
@@ -81,7 +89,7 @@ De modo que Augusto decidió incorporar el teatro al terreno legislativo:
 
 Durante los cuatro años que Boal fue concejal de Río se aprobaron 13 leyes que surgieron directamente de las ideas de la audiencia, siendo el inicio del Teatro Legislativo.
 
-{% quote %}La base del teatro legislativo no es dar a la gente respuestas a los problemas, sino cocrear las políticas, cambios o prácticas con las que queremos vivir.{% endquote %}
+{% quote %}La base del Teatro Legislativo no es dar a la gente respuestas a los problemas, sino cocrear las políticas, cambios o prácticas con las que queremos vivir.{% endquote %}
 
 ## Aprendiendo de Boal
 
@@ -89,15 +97,15 @@ Durante los cuatro años que Boal fue concejal de Río se aprobaron 13 leyes que
 
 Katy Rubin se formó en el CTO Rio con Boal, un año antes de su muerte. Cuando Katy regresó a Nueva York, fundó el *[Theatre of the Oppressed NYC](https://www.tonyc.nyc/)*, donde desarrollaron obras de [teatro foro](https://es.wikipedia.org/wiki/Teatro_foro) con personas en situación de sinhogarismo, personas afectadas por VIH con dificultad en el acceso a atención médica, y con miembros del colectivo trans discriminadas al acceso a vivienda social, entre otras.
 
-> ***En el teatro legislativo analizamos como los problemas derivados de ciertas políticas están atravesados por el poder: por el racismo, el clasismo, el sexismo, la discriminación por edad… Las políticas se crean a partir de ideologías opresivas que impactan en las instituciones con las que tenemos que convivir, como la policía, el transporte, o los negocios. Cuando comenzamos a desarrollar teatro legislativo en la ciudad de Nueva York pensamos que si queríamos cambiar algunos de estos problemas necesitábamos impactar las reglas y si queríamos impactar las reglas necesitábamos implicar a las personas que hacían las reglas.***
+> ***En el Teatro Legislativo analizamos como los problemas derivados de ciertas políticas están atravesados por el poder: por el racismo, el clasismo, el sexismo, la discriminación por edad… Las políticas se crean a partir de ideologías opresivas que impactan en las instituciones con las que tenemos que convivir, como la policía, el transporte, o los negocios. Cuando comenzamos a desarrollar Teatro Legislativo en la ciudad de Nueva York pensamos que si queríamos cambiar algunos de estos problemas necesitábamos impactar las reglas y si queríamos impactar las reglas necesitábamos implicar a las personas que hacían las reglas.***
 
-Ante la disyuntiva de cómo impactar en las políticas y la legislación sin ser miembros electos ni tener un canal directo de incidencia, en el 2013 desarrollaron un modelo propio de teatro legislativo en Nueva York, el cual Katy ha trasladado y sigue trabajando desde hace tres años con el gobierno, instituciones y comunidades locales del Reino Unido.
+Ante la disyuntiva de cómo impactar en las políticas y la legislación sin ser miembros electos ni tener un canal directo de incidencia, en el 2013 desarrollaron un modelo propio de Teatro Legislativo en Nueva York, el cual Katy ha trasladado y sigue trabajando desde hace tres años con el gobierno, instituciones y comunidades locales del Reino Unido.
 
 > ***Una comunidad que enfrenta un problema hace una obra de teatro. La estructura de la obra debe terminar con una pregunta clara. ¿Qué podría ir mejor en la provisión de atención de salud mental para las personas jóvenes y por qué?***
 >
 > ***A partir de aquí, llevamos la obra a una audiencia diversa de* stakeholders*, desde compañeras, amigas, vecinas, otras personas afectadas y grupos de defensa, hasta grupos comunitarios, abogadas y legisladoras. A veces los llamo* Policy Rangers*, como los Power Rangers. Si conoces a los Power Rangers sabrás que tienen muchos poderes diferentes para atacar un problema, y no puedes hacerlo solo con uno, los necesitas a todos.***
 
-{% quote %}Llevamos la obra a una audiencia diversa de stakeholders (...), a veces los llamo Policy Rangers [ya que son] como los Power Rangers (...) que tienen muchos poderes diferentes para atacar un problema, y no puedes hacerlo solo con uno, los necesitas a todos.{% endquote %}
+{% quote %}Llevamos la obra a una audiencia diversa de stakeholders (...). A veces los llamo Policy Rangers [ya que son] como los Power Rangers (...) que tienen muchos poderes diferentes para atacar un problema, y no puedes hacerlo solo con uno, los necesitas a todos.{% endquote %}
 
 La clave para el éxito del Teatro Legislativo es la implicación, por un lado, de los individuos y comunidades afectadas y, por otro, de toda la diversidad de personas y personalidades que tienen la capacidad de influir en el problema y/o en su resolución.
 
@@ -105,13 +113,13 @@ La clave para el éxito del Teatro Legislativo es la implicación, por un lado, 
 
 ## Teatro Legislativo en escena
 
-El teatro legislativo, así como el teatro del oprimido y el teatro foro, se caracteriza por utilizar el concepto de *espect-actor*, en el que la persona espectadora se transforma en parte de la acción dramática. Katy nos detalla las fases que componen un proceso de teatro legislativo:
+El Teatro Legislativo, así como el Teatro del Oprimido y el teatro foro, se caracteriza por utilizar el concepto de *espect-actor*, en el que la persona espectadora se transforma en parte de la acción dramática. Katy nos detalla las fases que componen un proceso de Teatro Legislativo:
 
 > ***Después de ver una obra de teatro, el público la analiza y crea solidaridad al conectar los problemas expuestos con sus propias experiencias en la ciudad. A continuación, se invita a la audiencia a intervenir y probar ideas. Los actores y actrices están preparadas para retroceder y mostrar si una idea funcionaría o no, creando un proceso interactivo de prueba de políticas. Tanto la audiencia como las personas responsables de crear políticas trabajan juntas para desarrollar la idea y hacerla más radical. Analizan qué falta y qué personas aún están excluidas.***
 >
 > ***Luego, la audiencia escribe su propuesta de política basada en todo lo que ha aprendido durante el evento. La comunidad vota para priorizar las ideas y las personas responsables de crear políticas se comprometen a actuar en un marco de tiempo acordado.***
 >
-> ***El proceso se registra y se crea una base de datos como evidencia. Algunos proyectos han tenido una evaluación externa y han producido resultados concretos, como la estrategia de prevención de personas sin hogar de Gran Manchester, que ganó un [premio en 2022](https://oidp.net/distinction/en/index2022.php). La estrategia ha movido millones de libras, ha creado nuevos puestos de trabajo e incluye 23 propuestas surgidas de un proceso de teatro legislativo.***
+> ***El proceso se registra y se crea una base de datos como evidencia. Algunos proyectos han tenido una evaluación externa y han producido resultados concretos, como la estrategia de prevención de personas sin hogar de Gran Manchester, que ganó un [premio en 2022](https://oidp.net/distinction/en/index2022.php). La estrategia ha movido millones de libras, ha creado nuevos puestos de trabajo e incluye 23 propuestas surgidas de un proceso de Teatro Legislativo.***
 
 ## De la insatisfacción al empoderamiento
 
@@ -125,17 +133,17 @@ El teatro de Boal no se considera un teatro catártico, en el cual la audiencia 
 
 > ***Queremos solidaridad. Somos personas en esta ciudad o en esta región o en este mundo, y estamos igualmente afectadas por el clasismo, el racismo, la discriminación por edad, la homofobia, la transfobia y todas estas ideologías de opresión. Tenemos que luchar contra todo esto para luchar contra lo que estamos trabajando.*** 
 >
-> ***Necesitamos análisis, diálogo, interacción e improvisación para convertir la liberación emocional en una intervención práctica, como políticas o prácticas. El árbol del teatro del oprimido pasa de los problemas a los juegos, escenarios, intervenciones y acciones sociales concretas y éticas.***
+> ***Necesitamos análisis, diálogo, interacción e improvisación para convertir la liberación emocional en una intervención práctica, como políticas o prácticas. El árbol del Teatro del Oprimido pasa de los problemas a los juegos, escenarios, intervenciones y acciones sociales concretas y éticas.***
 
 ## Características de un evento de TL
 
-Cuando intentamos imaginar un evento de teatro legislativo, no sabemos si ubicarlo en un gran teatro o en un teatro de barrio. ¿Es posible crear grandes eventos de teatro legislativo con muchas personas, o es mejor tener un número reducido de participantes?
+Cuando intentamos imaginar un evento de Teatro Legislativo, no sabemos si ubicarlo en un gran teatro o en un teatro de barrio. ¿Es posible crear grandes eventos de Teatro Legislativo con muchas personas, o es mejor tener un número reducido de participantes?
 
-> ***En la ciudad de Nueva York, solíamos hacer festivales de teatro legislativo con 250 personas a la vez, lo que implica que todas presentaban propuestas de políticas. Eran cientos de hojas de papel, teníamos que clasificarlas con rapidez, realmente era un caos maravilloso en un gran salón universitario o teatro.***
+> ***En la ciudad de Nueva York, solíamos hacer festivales de Teatro Legislativo con 250 personas a la vez, lo que implica que todas presentaban propuestas de políticas. Eran cientos de hojas de papel, teníamos que clasificarlas con rapidez, realmente era un caos maravilloso en un gran salón universitario o teatro.***
 >
 > ***Ahora prefiero una audiencia de 50 personas. De esta forma se puede escuchar a todas las participantes, se puede dedicar tiempo a las ideas de políticas, en definitiva, es más manejable trabajar con las ideas y acotarlas.***
 
-También nos cuestionamos, sobre todo tras la virtualización que padecieron nuestras vidas a raíz de la pandemia, si es posible crear eventos en línea o híbridos de teatro legislativo.
+También nos cuestionamos, sobre todo tras la virtualización que padecieron nuestras vidas a raíz de la pandemia, si es posible crear eventos en línea o híbridos de Teatro Legislativo.
 
 > ***Durante la pandemia, tuvimos eventos que fueron completamente en línea, como la creación de la estrategia de prevención de personas sin hogar de Gran Manchester, cosa que nunca antes había hecho. Primero, teníamos actores y actrices en persona, con mascarillas y micrófonos, en una retransmisión en vivo. La audiencia estaba en una pantalla frente a nosotras, y eran destacadas en la pantalla para poder improvisar y actuar con los actores que estaban en la sala. Luego enviaban sus propuestas a través del formulario de Google y había personas en la sala que recogían el formulario, miraban las entradas y las clasificaban. Luego volvíamos a enviar nuestras preguntas a las personas que formulan políticas que estaban en Zoom. Era bastante complicado.*** 
 >
@@ -145,11 +153,11 @@ También nos cuestionamos, sobre todo tras la virtualización que padecieron nue
 
 ## Replicabilidad del TL
 
-Nos comenta Katy Rubin que su objetivo es que los procesos de teatro legislativo sean muy replicables, por este motivo está trabajando en *[The Participation Playbook](https://participationplaybook.org/es/teatro-legislativo)* de *People Powered*, y nos detalla algunos casos de uso:
+Nos comenta Katy Rubin que su objetivo es que los procesos de Teatro Legislativo sean muy replicables, por este motivo está trabajando en *[The Participation Playbook](https://participationplaybook.org/es/teatro-legislativo)* de *People Powered*, y nos detalla algunos casos de uso:
 
-> ***Una de mis colegas es mentora de un proyecto en Nigeria donde se está realizando un proyecto de democracia climática utilizando el teatro legislativo, por lo que están usando el* Playbook *para llevar a cabo las preguntas de quién es su comunidad, cuándo se reúnen, cuál es la plataforma de políticas, cuáles son sus partes interesadas, cuál es la historia de la obra…*** 
+> ***Una de mis colegas es mentora de un proyecto en Nigeria donde se está realizando un proyecto de democracia climática utilizando el Teatro Legislativo, por lo que están usando el* Playbook *para llevar a cabo las preguntas de quién es su comunidad, cuándo se reúnen, cuál es la plataforma de políticas, cuáles son sus partes interesadas, cuál es la historia de la obra…*** 
 >
-> ***También estoy trabajando con otro proyecto en Zimbabue que está trabajando un plan de resiliencia después de que un ciclón haya destruido muchas casas. En concreto, se está trabajando con jóvenes para tratar de que el Consejo haga un mejor plan de resiliencia y es \[un caso] perfecto para el teatro legislativo.***
+> ***También estoy trabajando con otro proyecto en Zimbabue que está trabajando un plan de resiliencia después de que un ciclón haya destruido muchas casas. En concreto, se está trabajando con jóvenes para tratar de que el Consejo haga un mejor plan de resiliencia y es \[un caso] perfecto para el Teatro Legislativo.***
 
 ## Digitalización de un proceso de TL
 
@@ -157,13 +165,13 @@ Fundación Platoniq colabora con el grupo de participación digital de Mindset R
 
 > ***Creo que hay oportunidades para todo tipo de participación digital, incluso en la sala, como votar en línea, priorizar y clasificar las ideas de manera más efectiva, recibir aportes de otras personas residentes, generar una negociación continua de ideas y rendir cuentas. Lleva tiempo hacer que estas cosas avancen, \[pero ahora] tenemos infraestructura en el proyecto para monitorizarlo.***
 >
-> ***En la democracia participativa tenemos los presupuestos participativos, las asambleas ciudadanas, y el teatro legislativo, entre otras herramientas, y creo que todas se pueden beneficiar si integramos las fortalezas de las diferentes herramientas.***
+> ***En la democracia participativa tenemos los Presupuestos Participativos, las Asambleas Ciudadanas, y el Teatro Legislativo, entre otras herramientas, y creo que todas se pueden beneficiar si integramos las fortalezas de las diferentes herramientas.***
 >
-> ***Los presupuestos participativos son excelentes porque se concretan con dinero, pero en su implementación, al menos en la ciudad de Nueva York, las opciones para el cambio pueden ser restrictivas y no siempre involucra mucha deliberación abierta.*** 
+> ***Los Presupuestos Participativos son excelentes porque se concretan con dinero, pero en su implementación, al menos en la ciudad de Nueva York, las opciones para el cambio pueden ser restrictivas y no siempre involucra mucha deliberación abierta.*** 
 >
-> ***Las asambleas ciudadanas involucran la construcción de relaciones, pero a veces no interactúa de cerca con la esfera política. Hay un especial énfasis a las expertas, lo que hace que no siempre se priorice la experiencia de las residentes.***
+> ***Las Asambleas Ciudadanas involucran la construcción de relaciones, pero a veces no interactúa de cerca con la esfera política. Hay un especial énfasis a las expertas, lo que hace que no siempre se priorice la experiencia de las residentes.***
 >
-> ***El teatro legislativo necesita de la concreción del presupuesto participativo y de la experiencia de las asambleas ciudadanas, y trae otros elementos como la experiencia en primera persona, la experiencia comunitaria, la construcción de relaciones con todas las partes interesadas y la obtención de compromisos.*** 
+> ***El Teatro Legislativo necesita de la concreción del Presupuesto Participativo y de la experiencia de las Asambleas Ciudadanas, y trae otros elementos como la experiencia en primera persona, la experiencia comunitaria, la construcción de relaciones con todas las partes interesadas y la obtención de compromisos.*** 
 
 {% quote %}Creo que existe la oportunidad de combinar todo lo que estamos aprendiendo de estas prácticas (...) Y creo que la participación digital puede facilitar eso, dando apoyo a los procesos de desarrollo participativo.{% endquote %}
 
@@ -177,10 +185,12 @@ Finalmente, y a partir de nuestra experiencia acompañando digitalmente a comuni
 >
 > ***Es difícil descifrar de quién es la responsabilidad para que se siga avanzando, así que creo que existe una necesidad real de tener una infraestructura propia en la que se pueda publicar de forma transparente y ser dueños de los resultados.***
 
+{% quote %}Creo que existe una necesidad real de tener una infraestructura propia en la que se pueda publicar de forma transparente y ser dueños de los resultados.{% endquote %}
+
 ## Clausura
 
 Aunque nos quedan en el tintero un par de preguntas que hicimos sobre democracia y diversión, las guardamos para otra edición. 
 
 Por ahora, nos despedimos de Katy agradeciéndole su sabiduría, tiempo y buena disposición. Cerramos el telón, pero antes tomamos nota de donde podemos seguirle los pasos:
 
-> ***Ha sido una conversación maravillosa e interesante. Pronto publicaremos un* Playbook *que cualquiera podrá usar. Pueden seguirme en mi sitio web, [katyrubin.com](https://www.katyrubin.com/), que tiene muchos recursos sobre teatro legislativo, evidencias y videos, y pueden suscribirse al boletín. También comparto actualizaciones y proyectos en Twitter en [@KatyRubinTO](https://twitter.com/KatyRubinTO). ¡Muchas gracias!***
+> ***Ha sido una conversación maravillosa e interesante. Pronto publicaremos un* Playbook *que cualquiera podrá usar. Pueden seguirme en mi sitio web, [katyrubin.com](https://www.katyrubin.com/), que tiene muchos recursos sobre Teatro Legislativo, evidencias y videos, y pueden suscribirse al boletín. También comparto actualizaciones y proyectos en Twitter en [@KatyRubinTO](https://twitter.com/KatyRubinTO). ¡Muchas gracias!***
