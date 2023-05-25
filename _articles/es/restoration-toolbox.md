@@ -15,9 +15,9 @@ author: Joan B Cabot
 author_uids:
   - joan-cabot
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
-  mobile: /media/articles/mobile/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
-  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
+  path: /media/articles/heroes/india.jpg
+  mobile: /media/articles/mobile/india.jpg
+  thumbnail: /media/articles/thumbnails/india.jpg
   alt: The Restoration Toolbox
   credits: Midjourney
   caption: The Restoration Toolbox
