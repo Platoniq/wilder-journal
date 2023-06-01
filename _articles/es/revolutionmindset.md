@@ -18,7 +18,7 @@ cover:
   mobile: /media/articles/mobile/mental.jpg
   thumbnail: /media/articles/thumbnails/mental.jpg
   alt: mental-health-young-people
-  credits: CC
+  credits: Crsitina Daura
   caption: Mental Health for Young People
 related_article_uids:
   - katy-rubin
