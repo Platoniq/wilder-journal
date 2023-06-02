@@ -32,7 +32,7 @@ image:
 ---
 La salud mental de los jóvenes es un problema que exige atención inmediata. Una crisis que ha aumentado en magnitud debido a la pandemia y otros desafíos socioeconómicos. Pero, ¿qué sucede cuando los jóvenes toman el control y se convierten en protagonistas de la narrativa de salud mental? Eso es precisamente lo que busca el proyecto Mindset Revolution.
 
-Mindset Revolution es un proyecto innovador financiado por UKRI/RSA y liderado por la Universidad Metropolitana de Manchester, en colaboración con Katy Rubin, Youth Focus North West, Reform Radio, 42nd St, por GM I-Thrive y Platoniq. Esta iniciativa busca cambiar la forma en que se aborda la salud mental de los jóvenes, al permitir que sean ellos mismos quienes diseñen, implementen y lideren su participación. 
+Mindset Revolution es un proyecto innovador financiado por UKRI/RSA y liderado por la Universidad Metropolitana de Birmingham, en colaboración con Katy Rubin, Youth Focus North West, Reform Radio, 42nd St, por GM I-Thrive y Platoniq. Esta iniciativa busca cambiar la forma en que se aborda la salud mental de los jóvenes, al permitir que sean ellos mismos quienes diseñen, implementen y lideren su participación. 
 
 El proceso es diseñado y facilitado por los propios jóvenes, a quienes se proporciona espacios y recursos a para que inventen sus propios espacios de participación, pasando de afectados a plenos protagonistas de su propio proceso, donde su voz pueda ser escuchada con claridad y desde donde puedan ayudar a moldear las políticas de salud mental juvenil y cambiar la forma en que se prestan los servicios.
 
