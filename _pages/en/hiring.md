@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 uid: hiring
 title: Open Jobs application
 description: O﻿pen job applications here

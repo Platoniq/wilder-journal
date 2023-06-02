@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 uid: hiring
 title: Ofertas de trabajo
 description: C﻿onsulta las ofertas de trabajo que tenemos activas
