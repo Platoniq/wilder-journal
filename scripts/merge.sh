@@ -1,3 +1,4 @@
+git checkout main
 git fetch next
 git branch -D merge
 git checkout -b merge
@@ -18,3 +19,6 @@ git commit -m "Merge 'next' @ $COMMIT_ID"
 
 # Create the PR to merge into main
 gh pr create -f -R Platoniq/wilder-journal -B main -w
+
+git checkout main
+git branch -D merge
