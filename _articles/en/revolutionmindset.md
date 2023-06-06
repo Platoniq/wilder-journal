@@ -31,7 +31,7 @@ image:
 ---
 The mental health of young people is a pressing issue that demands immediate attention. It is a crisis that has escalated due to the pandemic and other socio-economic challenges. But what happens when young people take control and become the protagonists in the narrative of mental health? That's precisely what the Mindset Revolution project aims to achieve.
 
-Mindset Revolution is an innovative project funded by UKRI/RSA and led by the University of Birmingham, in collaboration with Katy Rubin, Youth Focus North West, Reform Radio, 42nd St, GM I-Thrive, and Platoniq. This initiative seeks to change the way young people's mental health is addressed by empowering them to design, implement, and lead their own participation.
+Mindset Revolution is funded by UKRI/ RSA. The partnership is led by the University of Birmingham (Sonia Bussu) and includes: Manchester Metropolitan University (James Duggan, Zarah Eve), Youth Focus North West, Katy Rubin, Platoniq, 42nd Street, Reform Radio, and GM-i Thrive. Leading the whole process young people from Greater Manchester: Ali Coleman, Bolu Onalaja, Charlie, Cicka, Chimwemwe, Dan, Destiny, Jordan, Juliet, Lee, Linton, Maame, Millissa, Mahdiyyah, MJ, Oscar, Prateek, Saira, Sam, Ummay, Zainab, Zara.
 
 One of the key techniques used in this project is Legislative Theater, which employs creativity and art as tools to foster policy change. Through this technique, young people create and perform a theater play that narrates their experience with the mental health system. The audience, comprised of professionals and policymakers, actively participates by offering solutions and committing to implementing changes.
 
