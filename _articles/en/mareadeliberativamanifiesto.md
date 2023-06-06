@@ -9,13 +9,17 @@ article-order: 27
 uid: mareadeliberativamanifiesto
 cover:
   path: /media/articles/heroes/marea.jpeg
-  mobile: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  mobile: /media/articles/mobile/marea.jpeg
+  thumbnail: /media/articles/thumbnails/marea.jpeg
+related_article_uids:
+  - deliberative-assemblies
+  - culture-creativity-and-deliberation-methodologies
+  - democratic-funding
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/marea.jpeg
 ---
