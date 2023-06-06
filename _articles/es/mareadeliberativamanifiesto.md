@@ -33,7 +33,7 @@ image:
 ---
 El cambio climático no es una posibilidad, es una realidad. Pero aún más preocupante es la lentitud con la que se están adoptando medidas para mitigar sus efectos. Este es el grito de auxilio que se transmite en el Manifiesto por la democracia climática.
 
-Este llamamiento nos convoca a todas, como sociedad civil, a apropiarnos de la lucha por un planeta sostenible, y a superar las barreras que han impedido hasta ahora una acción contundente en la lucha contra el cambio climático. Su propuesta, si bien desafiante, es una renovada forma de encarar esta crisis: ampliar la democracia para hacer frente a la emergencia climática.
+Este llamamiento nos convoca a todas, especialmente a los gobiernos y poderes políticos para que apliquen las recomendaciones de la Asamblea Climática y las blinden mediante un pacto de estado, a apropiarnos de la lucha por un planeta sostenible, y a superar las barreras que han impedido hasta ahora una acción contundente en la lucha contra el cambio climático. Su propuesta, si bien desafiante, es una renovada forma de encarar esta crisis: ampliar la democracia para hacer frente a la emergencia climática.
 
 [Marea Deliberativa](https://mareadeliberativa.org/) es la iniciativa que ha lanzado este llamamiento y promueve la participación ciudadana para fortalecer la democracia a través de las Asambleas Ciudadanas. Su objetivo es abordar los desafíos actuales, como la emergencia climática, la desigualdad y otros problemas sociales, mediante un enfoque colaborativo y basado en el diálogo.
 
