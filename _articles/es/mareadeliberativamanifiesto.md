@@ -64,3 +64,49 @@ Las recomendaciones de las Asambleas Ciudadanas son solo un primer paso para def
 Porque, como bien señala el Manifiesto, cualquier retraso conlleva muertes. Y la solución, aún está en nuestras manos. Debemos afrontar la emergencia climática con coraje y determinación, y con el convencimiento de que una transición ecológica y energética justa es posible, y está al alcance de nuestras manos. 
 
 No es solo el futuro de nuestro planeta lo que está en juego, sino también nuestro presente, nuestra salud, nuestra economía y nuestra democracia.
+
+Como organizaciones que representamos a la sociedad civil, consideramos nuestra tarea desarrollar propuestas adicionales que pongan en práctica los principios y objetivos de la declaración. Instamos a los Estados miembros y a la Comisión a comenzar a explorar vías hacia la creación de un Fondo lo antes posible. Estamos totalmente comprometidos a co-crear y formar parte de dicho proceso.
+
+### Signatories:
+
+* AI forensics
+* Allianace for Europe
+* Center for Internet and Society of CNRS
+* Centre for Research on Multinational Corporations (SOMO)
+* Centrum Cyfrowe
+* Collectif Société des communs
+* Commons Network
+* COMMUNIA
+* Coop des Commun
+* CoopTech Hub
+* Corporate Europe Observatory
+* Creative Commons
+* Creative Commons Italy
+* Creative Commons Nederland
+* Defend Democracy
+* DisCO.coop
+* European Big Blue Button Association - eBBBa e.V.
+* European Digital Rights (EDRi)
+* European Partnership for Democracy
+* European Public Service Union (EPSU)
+* Fair Vote UK
+* Framasoft
+* Free Software Foundation Europe
+* NederLandse Unix User Group
+* Netherlands Institute for Sound and Vision
+* Open Fisca
+* Open Future
+* Open Knowledge Foundation
+* Open Terms Archive
+* Platformcoops Germany
+* Platoniq ​​​​
+* Polish Economics Network
+* Public Spaces ​​​
+* SUPERRR Lab
+* Verband Freier Rundfunk Österreich
+* Vereniging Open Nederland
+* Waag Futurelab
+* Wikimedia Deutschland
+* Wikimedia Europe
+* Wikimedia France
+* Xnet Institute for Democratic Digitisation
