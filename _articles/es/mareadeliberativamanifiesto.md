@@ -14,8 +14,8 @@ author_uids:
   - joan-cabot
 cover:
   path: /media/articles/heroes/marea.jpeg
-  mobile: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  mobile: /media/articles/mobile/marea.jpeg
+  thumbnail: /media/articles/thumbnails/marea.jpeg
   alt: Marea Deliberativa
   credits: Creative Commons
   caption: Marea Deliberativa
@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/marea.jpeg
 ---
 El cambio climático no es una posibilidad, es una realidad. Pero aún más preocupante es la lentitud con la que se están adoptando medidas para mitigar sus efectos. Este es el grito de auxilio que se transmite en el Manifiesto por la democracia climática.
 
