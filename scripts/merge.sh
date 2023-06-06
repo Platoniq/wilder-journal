@@ -1,4 +1,5 @@
 git checkout main
+git pull origin main
 git fetch next
 git branch -D merge
 git checkout -b merge
