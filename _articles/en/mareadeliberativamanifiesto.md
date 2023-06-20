@@ -31,7 +31,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/marea.jpeg
 ---
-Climate change is not a possibility; it is a reality. What is even more concerning is the sluggishness with which measures to mitigate its effects are being adopted. This is the cry for help echoed in the [Manifesto for Climate Democracy](https://shared-digital.eu/statement/).
+Climate change is not a possibility; it is a reality. What is even more concerning is the sluggishness with which measures to mitigate its effects are being adopted. This is the cry for help echoed in the [Manifesto for Climate Democracy](https://www.democraciaporelclima.com/).
 
 This call summons all of us, especially governments and political powers, to implement the recommendations of the Climate Assembly and safeguard them through a state pact. It urges us to take ownership of the fight for a sustainable planet and overcome the barriers that have so far hindered decisive action against climate change. Their proposal, though challenging, presents a renewed approach to tackling this crisis: expanding democracy to confront the climate emergency.
 

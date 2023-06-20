@@ -8,9 +8,9 @@ date-updated: 2023-04-17T09:01:44.426Z
 article-order: 25
 uid: Restoration-Toolbox
 title: "Discover the new participatory platform: The Restoration Toolbox"
-description: '"Welcome to the participatory platform designed to help people
-  collaborate in the restoration of degraded ecosystems and combat climate
-  change."'
+description: Welcome to the participatory platform based in New Delhi and
+  designed to help people collaborate in the restoration of degraded ecosystems
+  and combat climate change.
 author: Joan B Cabot
 author_uids:
   - joan-cabot
@@ -26,11 +26,11 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
+  path: /media/articles/social/india.jpg
 ---
-Are you passionate about preserving community heritage and looking for ways to get involved? You just found The Restoration Toolbox! This new project aims to empower citizens to take collaborative measures to preserve their own community heritage through open-source methodologies.
+Are you passionate about preserving community heritage and looking for ways to get involved? You just found [The Restoration Toolbox](https://therestorationtoolbox.com/)! This new project based in New Delhi aims to empower citizens to take collaborative measures to preserve their own community heritage through open-source methodologies.
 
-[The Restoration Toolbox](https://therestorationtoolbox.com/) aims to create an easy-to-use digital platform that connects various stakeholders, including property owners, communities, artisans, space managers, professionals, and civic authorities, to collaborate on community heritage safeguarding projects. Lack of awareness or access to correct technical information or trained professionals has led to the demolition of many historic buildings, resulting in a loss of identity and narrative for the city and community. Restoration and renovation of old buildings contribute to the circular economy and are key strategies to achieving sustainability and climate resilience.
+The Restoration Toolbox aims to create an easy-to-use digital platform that connects various stakeholders, including property owners, communities, artisans, space managers, professionals, and civic authorities, to collaborate on community heritage safeguarding projects. Lack of awareness or access to correct technical information or trained professionals has led to the demolition of many historic buildings, resulting in a loss of identity and narrative for the city and community. Restoration and renovation of old buildings contribute to the circular economy and are key strategies to achieving sustainability and climate resilience.
 
 The project is being co-created by [Jugaadopolis](https://jugaadopolis.com/), a social innovation initiative based in New Delhi, and the Platoniq Foundation, a social innovation driving force based in Barcelona with extensive experience in digital and participatory citizen participation. The project has already received initial funding from the Goethe Institute/Max Muller Bhawan as part of the C3: Codes, Community Creativity program.
 

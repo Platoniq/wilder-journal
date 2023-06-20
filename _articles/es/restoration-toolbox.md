@@ -8,9 +8,9 @@ date-updated: 2023-04-17T09:01:44.426Z
 article-order: 25
 uid: Restoration-Toolbox
 title: "Descubre la nueva plataforma participativa: The Restoration Toolbox"
-description: Bienvenidas a la plataforma participativa diseñada para ayudar a
-  las personas a colaborar en la restauración de ecosistemas degradados y a
-  combatir el cambio climático.
+description: Bienvenidas a la plataforma participativa con base en Nueva Delhi,
+  diseñada para ayudar a las personas a colaborar en la restauración de
+  ecosistemas degradados y a combatir el cambio climático.
 author: Joan B Cabot
 author_uids:
   - joan-cabot
@@ -29,11 +29,11 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/captura-de-pantalla-2023-04-18-a-les-11.00.11.png
+  path: /media/articles/social/india.jpg
 ---
-¿Eres una apasionada de la preservación del patrimonio comunitario y estás buscando formas de involucrarte? ¡Acabas de encontrar The Restoration Toolbox! Este nuevo proyecto tiene como objetivo capacitar a la ciudadanía para que tomen medidas colaborativas para preservar su propio patrimonio comunitario a través de metodologías de código abierto.
+¿Eres una apasionada de la preservación del patrimonio comunitario y estás buscando formas de involucrarte? ¡Acabas de encontrar [The Restoration Toolbox](https://therestorationtoolbox.com/)! Este nuevo proyecto basado en Nueva Delhi tiene como objetivo capacitar a la ciudadanía para que tomen medidas colaborativas para preservar su propio patrimonio comunitario a través de metodologías de código abierto.
 
-[The Restoration Toolbox](https://therestorationtoolbox.com/) tiene como objetivo crear una plataforma digital fácil de usar que conecte a varios grupos de interés, incluidos propietarios, comunidades, artesanos, administradores de espacios, profesionales y autoridades cívicas, para colaborar en proyectos de salvaguarda del patrimonio comunitario. La falta de conciencia o acceso a información técnica correcta o profesionales capacitados ha llevado a la demolición de muchos edificios históricos, lo que resulta en una pérdida de identidad y narrativa para la ciudad y la comunidad. La restauración y renovación de edificios antiguos contribuyen a la economía circular y son estrategias clave para lograr la sostenibilidad y la resiliencia climática.
+The Restoration Toolbox tiene como objetivo crear una plataforma digital fácil de usar que conecte a varios grupos de interés, incluidos propietarios, comunidades, artesanos, administradores de espacios, profesionales y autoridades cívicas, para colaborar en proyectos de salvaguarda del patrimonio comunitario. La falta de conciencia o acceso a información técnica correcta o profesionales capacitados ha llevado a la demolición de muchos edificios históricos, lo que resulta en una pérdida de identidad y narrativa para la ciudad y la comunidad. La restauración y renovación de edificios antiguos contribuyen a la economía circular y son estrategias clave para lograr la sostenibilidad y la resiliencia climática.
 
 El proyecto está siendo co-creado por [Jugaadopolis](https://jugaadopolis.com/), una iniciativa de innovación social con sede en Nueva Delhi, y la propia Fundación Platoniq, como impulsoras de innovación social con sede en Barcelona y amplia experiencia en participación ciudadana digital y participativa. El proyecto ya ha recibido financiamiento inicial del Goethe Institute / Max Muller Bhawan como parte del programa C3: Codes, Community Creativity.
 
@@ -49,7 +49,7 @@ The Restoration Toolbox es una oportunidad para que cualquier persona apasionada
 
 <img style="margin: 0 auto" src="https://www.goteo.org/img/700x0/restoration.png" alt="restoration 🫧">
 
-Así pues, te invitamos a asistir de manera telématica, apuntándote [aquí](https://docs.google.com/forms/d/e/1FAIpQLSfTQUBjz4G894x3wNgKYMrTCH7xIlKsma4Z_DBvuqMdAJXDJg/viewform) al muy emocionante evento que se llevará a cabo el próximo 19 de abril de 2023 en el Auditorio ML Bhartia, ubicado en la Alliance Française de Delhi a las 5 de la tarde, donde se lanzará The Restoration Toolbox, como plataforma participativa de código abierto, inspirada en el concepto de la economía circular, que tiene como objetivo empoderar a los ciudadanos para que puedan restaurar sus edificios, democratizar el proceso de conservación del patrimonio, mejorar el acceso a expertos y crear un espacio de colaboración entre ciudadanos y responsables políticos para mejorar nuestras vidas y vecindarios.
+Así pues, te invitamos a asistir de manera telemtica, apuntándote [aquí](https://docs.google.com/forms/d/e/1FAIpQLSfTQUBjz4G894x3wNgKYMrTCH7xIlKsma4Z_DBvuqMdAJXDJg/viewform) al muy emocionante evento que se llevará a cabo el próximo 19 de abril de 2023 en el Auditorio ML Bhartia, ubicado en la Alliance Française de Delhi a las 5 de la tarde, donde se lanzará The Restoration Toolbox, como plataforma participativa de código abierto, inspirada en el concepto de la economía circular, que tiene como objetivo empoderar a los ciudadanos para que puedan restaurar sus edificios, democratizar el proceso de conservación del patrimonio, mejorar el acceso a expertos y crear un espacio de colaboración entre ciudadanos y responsables políticos para mejorar nuestras vidas y vecindarios.
 
 Durante el evento, se llevará a cabo una mesa redonda para discutir el concepto de "reciclar, reutilizar y renovar" como estrategia de diseño, y se presentará la plataforma como una herramienta para lograr este objetivo.
 
