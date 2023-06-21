@@ -34,7 +34,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/sticker14.png
 ---
-¡Estamos entusiasmadas tras la publicación de la **Guía "[Cómo organizar Asambleas Deliberativas por Sorteo Cívico en institutos](<http://laaventuradeaprender.intef.es/documents/10184/143733/60_22_RED_LADA_C%C3%B3mo+hacer+asambleas+deliberativas+R3.pdf/b7dfd053-69e6-4d04-84ef-b63529ba7332 >)"**" que con tanto cariño han desarrollado nuestra compañera **Tayrine Dias** y nuestro co-fundador **Olivier Schulbaum!**
+¡Estamos entusiasmadas tras la publicación de la **Guía "[Cómo organizar Asambleas Deliberativas por Sorteo Cívico en institutos](https://laaventuradeaprender.intef.es/documents/10184/143733/60_22_RED_LADA_C%C3%B3mo+hacer+asambleas+deliberativas+R3.pdf/b7dfd053-69e6-4d04-84ef-b63529ba7332)"**" que con tanto cariño han desarrollado nuestra compañera **Tayrine Dias** y nuestro co-fundador **Olivier Schulbaum!**
 
 En **Fundación Platoniq** somos las primeras en tener claro que la juventud es una parte fundamental de la sociedad y su participación en la política es esencial para el desarrollo de una democracia sana y fuerte. A nadie se le escapa que la forma en que las personas jóvenes participan ha cambiado a lo largo de los años y siguen siendo un factor importante en la toma de decisiones políticas. En la actualidad, la firma de peticiones en línea, el consumo consciente, el grafiti, las declaraciones en las redes sociales, los flash mobs, las protestas y las manifestaciones son las formas más visibles.
 
