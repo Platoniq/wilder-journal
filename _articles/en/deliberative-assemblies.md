@@ -35,11 +35,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/sticker14.png
 ---
-We are excited after the publication of the **Guide "How to organize Deliberative Assemblies by Civic Draw in High Schools"**" that our colleague **Tayrine Dias** and our co-founder **Olivier Schulbaum have developed with so much love!* *
+We are excited after the publication of the **Guide "[How to organize Deliberative Assemblies by Civic Draw in High Schools](<http://laaventuradeaprender.intef.es/documents/10184/143733/60_22_RED_LADA_C%C3%B3mo+hacer+asambleas+deliberativas+R3.pdf/b7dfd053-69e6-4d04-84ef-b63529ba7332 >)"**" that our colleague **Tayrine Dias** and our co-founder **Olivier Schulbaum have developed with so much love!* *
 
 At **Platoniq Foundation** we are the first to be clear that youth are a fundamental part of society and their participation in politics is essential for the development of a healthy and strong democracy. It is not lost on anyone that the way in which young people participate has changed over the years and they continue to be an important factor in political decision-making. Currently, online petition signing, conscious consumption, graffiti, social media statements, flash mobs, protests and demonstrations are the most visible forms.
-
-
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2023-03-07-a-les-18.15.40.png"}] } %}
 
@@ -55,4 +53,4 @@ The selection of participants in a Deliberative Assembly is carried out by civic
 
 In conclusion, **the participation of youth in politics is essential for the development of a strong and healthy democracy**. The Deliberative Assembly is a space where young people can participate in a diverse and inclusive way in their institute or space of coexistence, and the election by lottery is a fairer way to select the participants. Democracy by lot offers equal opportunities for all and fosters the empowerment of students in the school learning process. It is important to support and promote the participation of youth in politics, since they are the ones who can build a more democratic and equitable future for all.
 
-Take a look and if you want to organize a citizen dialogue or citizen assembly in your institute, neighborhood or square, contact us at info@platoniq.net and we'll do it together!
+Take a look at http://laaventuradeaprender.intef.es/documents/10184/143733/60_22_RED_LADA_C%C3%B3mo+hacer+asambleas+deliberativas+R3.pdf/b7dfd053-69e6-4d04-84ef-b63529ba7332 and if you want to organize a citizen dialogue or citizen assembly in your institute, neighborhood or square, contact us at info@platoniq.net and we'll do it together!
