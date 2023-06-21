@@ -35,7 +35,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/sticker14.png
 ---
-We are excited after the publication of the **Guide "How to organize Deliberative Assemblies by Civic Draw in High Schools"**" that our colleague **Tayrine Dias** and our co-founder **Olivier Schulbaum have developed with so much love!* *
+We are excited after the publication of the **Guide "[How to organize Deliberative Assemblies by Civic Draw in High Schools](https://laaventuradeaprender.intef.es/documents/10184/143733/60_22_RED_LADA_C%C3%B3mo+hacer+asambleas+deliberativas+R3.pdf/b7dfd053-69e6-4d04-84ef-b63529ba7332)"**" that our colleague **Tayrine Dias** and our co-founder **Olivier Schulbaum have developed with so much love!* *
 
 At **Platoniq Foundation** we are the first to be clear that youth are a fundamental part of society and their participation in politics is essential for the development of a healthy and strong democracy. It is not lost on anyone that the way in which young people participate has changed over the years and they continue to be an important factor in political decision-making. Currently, online petition signing, conscious consumption, graffiti, social media statements, flash mobs, protests and demonstrations are the most visible forms.
 

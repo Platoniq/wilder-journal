@@ -7,10 +7,11 @@ date: 2023-04-17T09:01:44.397Z
 date-updated: 2023-04-17T09:01:44.426Z
 article-order: 25
 uid: Restoration-Toolbox
-title: "Descubre la nueva plataforma participativa: The Restoration Toolbox"
-description: Bienvenidas a la plataforma participativa con base en Nueva Delhi,
-  diseñada para ayudar a las personas a colaborar en la restauración de
-  ecosistemas degradados y a combatir el cambio climático.
+title: "Descubre la nueva plataforma participativa en Nueva Delhi: The
+  Restoration Toolbox"
+description: Bienvenidas a la plataforma participativa diseñada para ayudar a
+  las personas a colaborar en la restauración de ecosistemas degradados y a
+  combatir el cambio climático.
 author: Joan B Cabot
 author_uids:
   - joan-cabot
