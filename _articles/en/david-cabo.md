@@ -7,8 +7,8 @@ date: 2023-07-28T15:24:31.414Z
 date-updated: 2023-07-28T15:24:31.466Z
 article-order: 5
 uid: david-cabo
-title: '"At Civio, we want the administration to feel that it is being watched
-  and that it is accountable to the public".'
+title: '"At Civio, we want the public administration to feel that it is being
+  watched and that it is accountable to the public".'
 description: Interview with David Cabo, founder of Civio and computer engineer
   and expert in open data, transparency, public information analysis and budget
   data.
