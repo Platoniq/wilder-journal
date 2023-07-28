@@ -44,7 +44,7 @@ Nuestra misión es que las administraciones trabajen para toda la ciudadanía, q
 
 Hay otros agentes que se encargan de la participación, como lo hacéis en Platoniq, mientras en CIVIO nos centramos en ofrecer información transparente y al alcance de todas las personas.
 
-## ¿Qué método de financiación usáis y por qué es importante para vuestra independencia?
+## **¿Qué método de financiación usáis y por qué es importante para vuestra independencia?**
 
 La financiación siempre ha sido uno de los grandes dramas y uno de los grandes quebraderos de cabeza. Cuando nacimos no teníamos experiencia en el tercer sector y probamos a vender el contenido que hacíamos o a hacer formaciones a periodistas, pero los medios de comunicación pagan muy mal. Hemos hecho un poco de todo, pero nuestro modelo actual consta de tres ejes. En primer lugar, nos financiamos con proyectos europeos, pero es cierto que nos ha costado encontrar los adecuados que se alineen con nuestra misión. En segundo lugar, también obtenemos fondos de becas privadas, como una red de fundaciones europeas con las que trabajamos el tema de la inteligencia artificial. Por último, nos financiamos con las aportaciones de los personas socias, y esta es la parte que nos parece más estratégica y que depende de nosotros, además de ser la que nos permite hacer lo que queremos hacer y no estar a merced de agentes externos.
 
