@@ -16,7 +16,7 @@ author: Xesca Sastre and Olivier Schulbaum
 author_uids:
   - xesca-sastre
   - olivier-schulbaum
-interviewee: David Cabo, cofundador de Civio
+interviewee: David Cabo
 cover:
   path: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
   mobile: /media/articles/mobile/photo_2023-07-19_11-07-45.jpg
