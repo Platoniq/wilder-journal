@@ -2,7 +2,7 @@
 layout: netlifycms/config
 permalink: cms/config.yml
 
-# local_backend: true
+
 
 backend:
   name: github
