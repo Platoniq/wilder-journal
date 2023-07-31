@@ -1,0 +1,11 @@
+version: '3'
+services:
+  jekyll:
+    build: .
+    volumes:
+      - gems:/usr/local/bundle:delegated
+      - .:/wilder-journal
+    ports:
+      - "80:80"
+volumes:
+  gems: {}

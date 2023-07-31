@@ -5,9 +5,9 @@ permalink: cms/config.yml
 # local_backend: true
 
 backend:
-  name: git-gateway
-  repo: Platoniq/wilder-journal
-  branch: main
+  name: github
+  repo: alejandroruedanazaries/wilder-journal # Path to your GitHub repository
+  branch: master # Branch to update (master by default)
 i18n:
   default_locale: es
 ---
