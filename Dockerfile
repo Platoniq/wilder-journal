@@ -18,7 +18,7 @@ ARG UID="1000"
 COPY . .
 # RUN bundle install
 EXPOSE 4000
-RUN npx netlify-cms-proxy-server &
+#RUN npx netlify-cms-proxy-server &
 #CMD ["bundle", "exec", "jekyll", "serve", "--force_polling", "-H", "0.0.0.0", "-P", "4000"]
 RUN git config --global --add safe.directory /wilder-journal
 # CMD ["bundle", "exec", "jekyll", "serve", "--livereload", "--future", "--drafts", "--unpublished", "--trace", "-H", "172.21.16.1", "-P", "4000"]
