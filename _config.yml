@@ -6,7 +6,7 @@ baseurl: "" # "/journal-content" # the subpath of your site, e.g. /blog
 url: "http://localhost" # the base hostname & protocol for your site, e.g. http://example.com
 analytics_id: G-LLGWB6TLNS
 
-repository: "https://github.com/Platoniq/wilder-journal"
+repository: "https://github.com/alejandroruedanazaries/wilder-journal"
 logo: media/logo-platoniq_xxss.png
 twitter:
   username: platoniq
