@@ -19,8 +19,8 @@ author_uids:
 interviewee: David Cabo
 cover:
   path: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
-  mobile: /media/articles/mobile/photo_2023-07-19_11-07-45.jpg
-  thumbnail: /media/articles/thumbnails/photo_2023-07-19_11-07-45.jpg
+  mobile: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
+  thumbnail: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
   caption: David Cabo, co-founder of Civio.
   alt: David Cabo, co-founder of Civio.
   credits: .
