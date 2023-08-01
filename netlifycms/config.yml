@@ -6,7 +6,7 @@ permalink: cms/config.yml
 
 backend:
   name: github
-  repo: alejandroruedanazaries/wilder-journal # Path to your GitHub repository
+
   branch: main # Branch to update (master by default)
 i18n:
   default_locale: es
