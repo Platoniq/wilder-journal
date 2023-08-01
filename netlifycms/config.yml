@@ -1,7 +1,7 @@
 ---
 layout: netlifycms/config
 permalink: cms/config.yml
----
+
 
 
 backend:
@@ -10,4 +10,4 @@ backend:
   branch: main # Branch to update (master by default)
 i18n:
   default_locale: es
-
+---
