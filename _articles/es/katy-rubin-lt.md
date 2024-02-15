@@ -35,7 +35,11 @@ image:
 ---
 Una conversación entre Marta Anducas, Olivier Schulbaum y Katy Rubin, artista y profesional del cambio cívico que trabaja con ciudades del Reino Unido e internacionalmente para implantar y hacer avanzar el Teatro Legislativo.
 
+<<<<<<< HEAD
 En un [artículo](https://journal.platoniq.net/es/wilder-journal-1/reports/be-part-does-a-students-decision-have-the-same-power-as-a-teachers/) de la primera edición del journal, nos declarábamos aprendices de la sabiduría de Freire. En esta ocasión, seguimos indagando en su legado desde otra perspectiva: el escenario. Subimos el telón para sumergirnos en el mundo del Teatro Legislativo de la mano de Katy Rubin.
+=======
+En un [artículo](https://journal.platoniq.net/es/wilder-journal-1/learnings/be-part-does-a-students-decision-have-the-same-power-as-a-teachers/) de la primera edición del journal, nos declarábamos aprendices de la sabiduría de Freire. En esta ocasión, seguimos indagando en su legado desde otra perspectiva: el escenario. Subimos el telón para sumergirnos en el mundo del Teatro Legislativo de la mano de Katy Rubin.
+>>>>>>> next/main
 
 {% gallery { "simple": true, "images": [{"path":"/media/katyrubin.jpg","alt":"Conversación con Katy Rubin"}] } %}
 

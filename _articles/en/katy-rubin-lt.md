@@ -35,7 +35,11 @@ image:
 ---
 A conversation between Marta Anducas, Olivier Schulbaum and Katy Rubin, artist and civic change practitioner, working with cities across the UK and internationally to implement and advance Legislative Theatre.
 
+<<<<<<< HEAD
 In an [article](https://journal.platoniq.net/en/wilder-journal-1/reports/be-part-does-a-students-decision-have-the-same-power-as-a-teachers/) in the first edition of the journal, we declared ourselves learners of Freire's wisdom. On this occasion, we continue to explore his legacy from another perspective: the stage. We raise the curtain to dive into the world of Legislative Theatre with Katy Rubin.
+=======
+In an [article](https://journal.platoniq.net/en/wilder-journal-1/learnings/be-part-does-a-students-decision-have-the-same-power-as-a-teachers/) in the first edition of the journal, we declared ourselves learners of Freire's wisdom. On this occasion, we continue to explore his legacy from another perspective: the stage. We raise the curtain to dive into the world of Legislative Theatre with Katy Rubin.
+>>>>>>> next/main
 
 {% gallery { "simple": true, "images": [{"path":"/media/katyrubin.jpg","alt":"Conversation with Katy Rubin","caption":"","credits":""}] } %}
 
