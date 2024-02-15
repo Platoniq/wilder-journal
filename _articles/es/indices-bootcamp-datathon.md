@@ -1,11 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-<<<<<<< HEAD
-category: reports
-=======
 category: learnings
->>>>>>> next/main
 published: true
 date: 2022-04-22T11:27:04.485Z
 date-updated: 2022-06-02T11:44:17.788Z

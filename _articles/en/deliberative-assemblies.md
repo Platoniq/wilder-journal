@@ -1,11 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-<<<<<<< HEAD
-category: reports
-=======
 category: learnings
->>>>>>> next/main
 published: true
 date: 2023-02-22T14:05:16.943Z
 date-updated: 2023-02-22T14:05:16.971Z
@@ -57,8 +53,4 @@ The selection of participants in a Deliberative Assembly is carried out by civic
 
 In conclusion, **the participation of youth in politics is essential for the development of a strong and healthy democracy**. The Deliberative Assembly is a space where young people can participate in a diverse and inclusive way in their institute or space of coexistence, and the election by lottery is a fairer way to select the participants. Democracy by lot offers equal opportunities for all and fosters the empowerment of students in the school learning process. It is important to support and promote the participation of youth in politics, since they are the ones who can build a more democratic and equitable future for all.
 
-<<<<<<< HEAD
 Take a look at http://laaventuradeaprender.intef.es/documents/10184/143733/60_22_RED_LADA_C%C3%B3mo+hacer+asambleas+deliberativas+R3.pdf/b7dfd053-69e6-4d04-84ef-b63529ba7332 and if you want to organize a citizen dialogue or citizen assembly in your institute, neighborhood or square, contact us at info@platoniq.net and we'll do it together!
-=======
-Take a look at http://laaventuradeaprender.intef.es/documents/10184/143733/60_22_RED_LADA_C%C3%B3mo+hacer+asambleas+deliberativas+R3.pdf/b7dfd053-69e6-4d04-84ef-b63529ba7332 and if you want to organize a citizen dialogue or citizen assembly in your institute, neighborhood or square, contact us at info@platoniq.net and we'll do it together!
->>>>>>> next/main

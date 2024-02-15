@@ -1,11 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-<<<<<<< HEAD
-category: reports
-=======
 category: learnings
->>>>>>> next/main
 published: true
 date: 2023-02-22T14:05:16.943Z
 date-updated: 2023-02-22T14:05:16.971Z
@@ -56,8 +52,4 @@ La selección de participantes en una Asamblea Deliberativa se lleva a cabo medi
 
 En conclusión, la participación de la juventud en la política es esencial para el desarrollo de una democracia fuerte y sana. La Asamblea Deliberativa es un espacio donde los jóvenes pueden participar de manera diversa e inclusiva en su instituto o espacio de convivencia, y la elección por sorteo es una forma más justa de seleccionar a los participantes. La democracia por sorteo ofrece igualdad de oportunidades para todos y fomenta el empoderamiento de los estudiantes en el proceso de aprendizaje escolar. Es importante apoyar y promover la participación de la juventud en la política, ya que son ellos quienes pueden construir un futuro más democrático y equitativo para todos.
 
-<<<<<<< HEAD
 ¡Échale un vistazo en http://laaventuradeaprender.intef.es/documents/10184/143733/60_22_RED_LADA_C%C3%B3mo+hacer+asambleas+deliberativas+R3.pdf/b7dfd053-69e6-4d04-84ef-b63529ba7332 y si quieres organizar una diálogo ciudadano o asamblea ciudadana en tu instituto, barrio o plaza, contáctanos en info@platoniq.net y lo hacemos juntas!
-=======
-¡Échale un vistazo en http://laaventuradeaprender.intef.es/documents/10184/143733/60_22_RED_LADA_C%C3%B3mo+hacer+asambleas+deliberativas+R3.pdf/b7dfd053-69e6-4d04-84ef-b63529ba7332 y si quieres organizar una diálogo ciudadano o asamblea ciudadana en tu instituto, barrio o plaza, contáctanos en info@platoniq.net y lo hacemos juntas!
->>>>>>> next/main
