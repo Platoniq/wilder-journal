@@ -1,7 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-category: reports
+category: learnings
 published: true
 date: 2022-07-14T14:24:33.644Z
 date-updated: 2022-07-14T14:24:33.704Z
@@ -173,6 +173,6 @@ A more complicated issue is the part of the relevance on crowdfunding financial 
 
 **Relevant literature on the match-funding + civic crowdfunding marriage:**
 
-1. [Triggering Participation:A Collection of Civic Crowdfunding and Match-funding Experiences in the EU including Goteo's case](http://eurocrowd.org/2018/07/04/cf4esif-report-triggering-participation-collection-civic-crowdfunding-match-funding-experiences-eu-published/)
+1. [Triggering Participation:A Collection of Civic Crowdfunding and Match-funding Experiences in the EU including Goteo's case](https://eurocrowd.org/2018/07/04/cf4esif-report-triggering-participation-collection-civic-crowdfunding-match-funding-experiences-eu-published/)
 2. [Ezrah Bakker and Frank Jan de Graaf, Civic crowd-funding: not just a game for the self-reliant;](https://www.civictools.nl/en/artikel/civic-crowdfunding-is-niet-alleen-een-speeltje-van-zelfredzame-burgers/)
 3. [Davies, Civic Crowdfunding: Participatory Communities, Entrepreneurs and the Political Economy of Place;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2434615)

@@ -19,8 +19,8 @@ author_uids:
 interviewee: David Cabo
 cover:
   path: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
-  mobile: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
-  thumbnail: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
+  mobile: /media/articles/mobile/photo_2023-07-19_11-07-45.jpg
+  thumbnail: /media/articles/thumbnails/photo_2023-07-19_11-07-45.jpg
   caption: David Cabo, co-founder of Civio.
   alt: David Cabo, co-founder of Civio.
   credits: .
@@ -32,13 +32,15 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/photo_2023-07-19_11-07-45.jpg
 ---
-David Cabo, co-founder of Civio and computer engineer and expert in open data, transparency, public information analysis and budget data, has come to our Platonic space in Palma. Cabo talks to Xesca Sastre and Olivier Schulbaum (Platoniq) about deep time, about the accountability of public administrations, about his research (such as the -[bono social](https://civio.es/bono-social/), the [global gap in access to health](https://civio.es/medicamentalia/2021/03/09/acceso-a-la-salud-mental-en-europa-espana/), the [pardons granted in Spain](https://civio.es/el-indultometro/) since 1996, [data on unattended fires](https://journal.platoniq.net/es/wilder-journal-1/reports/emptied-rural-spain/)) and much more.
+David Cabo, co-founder of Civio and computer engineer and expert in open data, transparency, public information analysis and budget data, has come to our Platonic space in Palma. Cabo talks to Xesca Sastre and Olivier Schulbaum (Platoniq) about deep time, about the accountability of public administrations, about his research (such as the -[bono social](https://civio.es/bono-social/), the [global gap in access to health](https://civio.es/medicamentalia/2021/03/09/acceso-a-la-salud-mental-en-europa-espana/), the [pardons granted in Spain](https://civio.es/el-indultometro/) since 1996, [data on unattended fires](https://journal.platoniq.net/es/wilder-journal-1/learnings/emptied-rural-spain/)) and much more.
 
 ## **For those who don't know you yet, what is Civio, and above all what is its purpose?**
 
 At Civio we make sure that public services work and that the decisions taken by administrations are correct and responsive to citizens.
 
 We are a foundation born ten years ago that fights for more transparency and accountability in Spanish public administrations. Our action ranges from requesting information to going to court if they do not provide it to us in order to push the Transparency Law to its limits. We focus on doing a lot of journalism, trying to expose complex issues that the traditional media do not cover well, such as public procurement, pardons or access to the health system.
+
+{% quote { "author": "David Cabo" } %}Our mission lies in transparency, because we believe that in order for citizens to participate, they need to know where we stand{% endquote %}
 
 Our mission is to make administrations work for all citizens, to make them accountable to citizens so that people feel that they participate and that their needs are the priority of the public authorities. Our task lies in this first part, transparency, because we believe that in order for citizens to participate they must know what the situation is, what the problems are and what the data are; this is how citizens can form their position. 
 
@@ -62,7 +64,9 @@ Another example would be an investigation we did on the saturation of the health
 
 That's the big question. In Civio we have had our ups and downs: the theory, and sometimes we manage to make it a reality, is to put an end to the feeling of impunity. At the political level, this means putting an end to "I can do anything, people will forget and they'll vote for me again", but also at the level of the administration itself, which believes that "the information is mine and even if people ask, I don't have to explain anything and I don't give a damn about anything". The idea is to put an end to this: at Civio we want the administration to feel observed and to feel that it has to be accountable to the citizens -sometimes we achieve this-.
 
-When you win a case in the Supreme Court against the state lawyers of the Ministry of Defence, you feel that even though you are a very small organisation, you have the power to twist the arm of the central government. When you manage to introduce changes in the Contracting Law, where we talked to the opposition parties and managed to introduce amendments so that there would be more public information, you are a bit surprised. The law should not only be made by MPs, but from society, if you organise yourself and find the window - because certain conditions have to be met - you can bring about changes. That's how this should work: the interests of citizens should also be represented in laws and not only the organised interests of lobbies, companies or sectors that have power.
+{% quote { "author": "David Cabo" } %}The law should not only be made by MPs, but also by society, if people are organised and find the window, we can bring about change.{% endquote %}
+
+When you win a case in the Supreme Court against the state lawyers of the Ministry of Defence, you feel that even though you are a very small organisation, you have the power to twist the arm of the central government. When you manage to introduce changes in the Contracting Law, where we talked to the opposition parties and managed to introduce amendments so that there would be more public information, you are a bit surprised. The law should not only be made by MPs, but from society, if people are organised and find the window - because certain conditions have to be met - we can bring about change. That's how this should work: the interests of citizens should also be represented in laws and not only the organised interests of lobbies, companies or sectors that have power.
 
 ## **Do you have an external expert committee, or some other form of external monitoring, when it comes to the selection of the topics to be investigated, and in terms of the treatment of the information itself? Do you monitor yourselves?**
 
@@ -73,6 +77,8 @@ On the other hand, a very valid external monitoring system is the membership. If
 ## **How would you say you are different from other media that define themselves as fact-checkers?**
 
 At Civio we don't do fact checking in a specialised way, partly because there are already people who do it, but also partly because our philosophy is different. There is a risk as a fact-checking media or organisation of giving space to people who play with the mechanism of saying outrageous things. You have to be aware that many people distrust the media and distrust traditional organisations, and that one of their arguments to reach many people is that same distrust. For example: the fact that Trump says outrageous things and gets corrected is not an accident, it is intentional because the fact that he goes against the traditional media is precisely what makes him attractive to many people. It is debatable why: is it because they are angry, or because they are radicalised for some reason? What is proven is that this attracts people.
+
+{% quote { "author": "David Cabo" } %}There is this risk related to fact-checking that by correcting or explaining something that is not true you are amplifying the message{% endquote %}
 
 There is this risk that with your correction or explanation of something that is not true, you are amplifying the message, which may not have reached, but just by the fact of opposing a certain person's message, it adds points in the eyes of their followers, as it is a strategy that gives votes and followers in social networks. That's what keeps us away from fact-checking: our agenda is not going to be marked by what the madman of the day has come up with today, but what I want to do is investigate; I have my own agenda as an organisation that does journalism.
 
@@ -87,6 +93,8 @@ Another thing that is also interactive and that goes in parallel, is that if the
 ## **In your latest research with calls to the Minimum Vital Income helpline, you developed an experiment with a robot that makes the calls. How can AI help in the surveillance of public authorities?**
 
 Just in the case of this research, we made a robot that called the MVI phone, it is traditional code but it is true that I asked ChatGPT to do some parts of the code for me. I do use it for programming, but in general, I am sceptical about artificial intelligence. I think it's very powerful and at the same time I perceive a lot of hype. We at Civio use it to transcribe interviews, because it works very well, but always internally. What we will never do, because it would kill what makes us different, is to use it to generate the text or the content that is offered to people.
+
+{% quote { "author": "David Cabo" } %}We believe that things have to be 100% reliable, verified, as well as providing thoroughly checked data and texts{% endquote %}
 
 On the other hand, AI can pose a risk if it is used in politics for certain purposes. For example, it is problematic that emails are sent on behalf of a political party or a candidate with personalised information, based on where you live, what you work or what they have been able to find out about you, and that they use it to convince you of something. The problem is that at the democratic level, instead of having a visible and public common discourse, a space is generated in mailboxes or private accounts, selling everyone what they want to buy. Moreover, this is already being done; let's remember Cambridge Analytica and Facebook. There is already personalised targeting of political ads, which is something that the European Union is going to regulate. So to speak, now you have, for example, 20 ads in which you have to select specific parameters to see who you are targeting; what artificial intelligence allows is that we will go from these 20 ads to 2000 because you no longer have to make them step by step, but you have a tool that generates them for you. 
 
@@ -113,5 +121,7 @@ Related to this topic, the concept of deep time reminds me of an organisation in
 ## **How can we ensure that citizens also have enough time for research, education, participation, politicisation, deliberation...?**
 
 I myself find it difficult, so I don't dare to give advice. I myself sometimes waste a lot of time and get distracted. In that sense, there is a podcast series ([Musing Mind, by Oshan Jarow](https://www.musingmind.org/#podcast)) that focuses on how the economic, political and cultural system shapes your own consciousness, your ability to do and think. Your own forms are subject to the structure around you, i.e. society shapes you. This system is what pushes you to a certain type of consumption and also conditions the tools with which you communicate. For example, the fact that political discourse has moved from the written press to television and then to social networks also conditions the type of message that reaches you. If you try to condense your message in TikTok, you have to sell it in a certain way, you have to make it entertaining.
+
+{% quote { "author": "David Cabo" } %}If your jobs are precarious and your contracts are short, your thoughts turn to "I have to find a job next week", and you don't have the peace of mind required to think about deeper things{% endquote %}
 
 Coming back to the question, I don't know what the solution is. I guess the first step is to be aware of the extent to which your thinking and opinions are conditioned by this economic, political and cultural system. If your jobs are precarious and your contracts are short, your thinking is directed towards "I have to find a job next week", and you don't have the peace of mind required to think about deeper things. There are also studies that show that people who have little money, who are in a situation of poverty or if they do not have a certain stability, have a less profound capacity to think, as they owe their concentration to day-to-day concerns. And then you have to know how to use that capacity and not let it get diluted into "I've been looking at cats on Instagram for three hours", which happens to all of us sometimes. I guess the key is to find a balance.

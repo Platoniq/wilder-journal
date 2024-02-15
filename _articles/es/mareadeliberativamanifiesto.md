@@ -1,12 +1,12 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-category: blueprints
+category: futures
 published: true
 date: 2023-06-06T08:50:33.733Z
 date-updated: 2023-06-06T08:50:33.760Z
 article-order: 27
-uid: mareadeliberativamanifiesto
+uid: marea-deliberativa-manifiesto
 title: "El manifiesto por la democracia climática "
 description: Un llamamiento urgente y necesario
 author: Joan B. Cabot

@@ -1,7 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-category: reports
+category: learnings
 published: true
 date: 2022-04-01T10:42:45.427Z
 date-updated: 2022-05-30T16:17:53.314Z
@@ -38,7 +38,7 @@ image:
 ---
 {% quote { "author": "Paulo Freire [1]" } %}"It is worth repeating here an affirmation still rejected by many people despite its obviousness: education is a political act."{% endquote %}
 
-Learners of Freire's wisdom and aware that participation is learned by participating, from Platoniq we have embarked on [BePart](http://bepart-project.eu/), a European project that promotes processes of participation, empowerment and youth leadership in schools.
+Learners of Freire's wisdom and aware that participation is learned by participating, from Platoniq we have embarked on [BePart](https://bepart-project.eu/), a European project that promotes processes of participation, empowerment and youth leadership in schools.
 
 A few months ago, in [this article](https://medium.com/social-justice-by-design/new-project-bepart-and-how-to-make-schools-more-participative-627455568e2c) we shared the first drafts of the project and some of the questions that arose. During this time, we talked to high school teachers in Barcelona, Madrid and the surrounding area. Through their eyes, we have landed in a somewhat arid reality for real student participation but with great potential: that of young people, high school students, the protagonists of BePart.
 
