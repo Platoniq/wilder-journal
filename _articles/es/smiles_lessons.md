@@ -40,7 +40,7 @@ Es más, ¿cómo hacerlo con personas que están desarrollando sus habilidades p
 
 Fruto de la residencia en el Canódromo, Ateneo de innovación digital y democrática, hemos desarrollado en formato expositivo los resultados del proyecto de alfabetización mediática [SMILES](https://smiles.platoniq.net/) (Jóvenes contra la desinformación), el cual reúne a entidades de los Países Bajos, España y Bélgica donde se incluyen bibliotecas, organizaciones de alfabetización mediática e institutos de investigación, con el objetivo de desarrollar, probar y monitorear la efectividad de un enfoque educativo innovador para combatir la propagación de la desinformación.
 
-{% gallery { "simple": false, "images": [{"path":"/media/ciutat_desinformacio_dates_ampliades.png","alt":"\"Ciutat de la Desinformació\", 2023","caption":"\"Ciutat de la Desinformació\", 2023","credits":"\"Ciutat de la Desinformació\", 2023"}] } %}
+![](/media/captura-de-pantalla-2024-02-15-a-las-16.21.02.png)
 
 Pensada para la visita de colegios e institutos, la exposición está diseñada para que cualquiera entienda cual es el mecanismo que opera bajo las noticias falsas y sepa identificarlas partiendo de la emoción que generan. Un elemento, este de las emociones, que permite a los alumnos conectar con la temática de forma inmediata. 
 
