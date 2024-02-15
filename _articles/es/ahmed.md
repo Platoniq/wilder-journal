@@ -61,8 +61,4 @@ Mientras tanto, una señora de COOSS, una ONG de aquí, está intentando convert
 
 Quizá hayas dejado de leer ya. Es una historia triste, lo sé. A mí tampoco me gustan las historias tristes.
 
-<<<<<<< HEAD
 Por eso lo voy a dejar aquí. Voy a coger mis cosas e irme al parque de nuevo. Haré los deberes de italiano, intentaré ignorar a las señoras mayores italianas que van paseando con sus perrillos y que cruzan de acera cuando me ven sentado en el banco. Quizá luego llame a uno de los somalíes que hay aquí y procuraré mejorar un poco como futbolista; mis hijos tienen que estar orgullosos de su padre cuando vengan
-=======
-Por eso lo voy a dejar aquí. Voy a coger mis cosas e irme al parque de nuevo. Haré los deberes de italiano, intentaré ignorar a las señoras mayores italianas que van paseando con sus perrillos y que cruzan de acera cuando me ven sentado en el banco. Quizá luego llame a uno de los somalíes que hay aquí y procuraré mejorar un poco como futbolista; mis hijos tienen que estar orgullosos de su padre cuando vengan
->>>>>>> next/main

@@ -1,11 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-<<<<<<< HEAD
-category: reports
-=======
 category: learnings
->>>>>>> next/main
 published: true
 date: 2022-01-01T00:00:00.000Z
 date-updated: 2022-06-02T11:39:13.239Z
@@ -102,15 +98,9 @@ We intend to evaluate and analyze Decidim as a public citizen service, comparing
 
 In Platoniq we believe that digital **technology is a powerful tool for strengthening the right to participation and the promotion of democratic culture**. In this sense, we collaborate in the development and expansion of the digital platform Decidim and we are part of projects of citizen participation such as [Open Heritage](https://openheritage.eu/), a European project that investigates how to manage the cultural heritage that goes from buildings to neighborhoods or areas with archaeological or architectural value, through participatory processes, both at a physical and digital level.
 
-<<<<<<< HEAD
-{% gallery { "simple": false, "images": [{"path":"/media/open_heritage_prakow.png","caption":"Navigating participatory processes using blueprints and maps of a site or building. <br>*A Decidim feature developed by Platoniq*","alt":"Open Heritage"}] } %}
-
-Likewise, from the [Coincidim](/en/wilder-journal-1/reports/coincidim-using-decidim-in-citizen-movements) (Spanish for *Let's co-influence*) project, we are working together with grassroots activists organization from the Barcelona Metropolitan area such as Aigua es vida (water is life) and the catalan NGO Enginyeria Sense Fronteres, to transform the platform into a space where the right to information, access and participation in the field of basic amenities is guaranteed, turning it into a tool for citizens to guarantee their fundamental rights. The running pilot is focusing on basic access to water and energy within vulnerable neighborhoods.
-=======
 {% gallery { "simple": false, "images": [{"path":"/media/open_heritage_prakow.png","caption":"Navigating participatory processes using futures and maps of a site or building. <br>*A Decidim feature developed by Platoniq*","alt":"Open Heritage"}] } %}
 
 Likewise, from the [Coincidim](/en/wilder-journal-1/learnings/coincidim-using-decidim-in-citizen-movements) (Spanish for *Let's co-influence*) project, we are working together with grassroots activists organization from the Barcelona Metropolitan area such as Aigua es vida (water is life) and the catalan NGO Enginyeria Sense Fronteres, to transform the platform into a space where the right to information, access and participation in the field of basic amenities is guaranteed, turning it into a tool for citizens to guarantee their fundamental rights. The running pilot is focusing on basic access to water and energy within vulnerable neighborhoods.
->>>>>>> next/main
 
 However, we are aware that social inequalities are reproduced and perpetuated through the digital sphere. For this reason, and in order to include all of us, **we believe it is essential to [consider the digital divide in any process of digital transition](https://medium.com/tecnologia-digital-derechos-y-empoderamiento/does-the-digital-participation-gap-have-gender-d09f46ba3fb9).**
 

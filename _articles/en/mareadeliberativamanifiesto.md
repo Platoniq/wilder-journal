@@ -1,20 +1,12 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-<<<<<<< HEAD
-category: blueprints
-=======
 category: futures
->>>>>>> next/main
 published: true
 date: 2023-06-06T08:50:33.733Z
 date-updated: 2023-06-06T08:50:33.760Z
 article-order: 27
-<<<<<<< HEAD
-uid: mareadeliberativamanifiesto
-=======
 uid: marea-deliberativa-manifiesto
->>>>>>> next/main
 title: The Manifesto for Climate Democracy
 description: An Urgent and Necessary Call
 author: Joan B. Cabot

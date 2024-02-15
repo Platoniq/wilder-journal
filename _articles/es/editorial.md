@@ -1,11 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-<<<<<<< HEAD
-category: blueprints
-=======
 category: futures
->>>>>>> next/main
 published: true
 date: 2022-06-01T16:48:52.182Z
 date-updated: 2022-06-01T16:48:52.217Z
@@ -15,15 +11,9 @@ title: El Wilder Journal y los retos contemporáneos de la democracia
 description: "Esta primera edición del Wilder Journal la dedicamos comprender
   los retos contemporáneos de la democracia y a experimentos con las
   herramientas y prácticas que permiten superarlos. "
-<<<<<<< HEAD
-author: Platoniq
-author_uids:
-  - platoniq
-=======
 author: Xesca Sastre
 author_uids:
   - xesca-sastre
->>>>>>> next/main
 interviewee: ""
 cover:
   path: /media/articles/heroes/editorial.png

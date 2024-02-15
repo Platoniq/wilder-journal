@@ -1,11 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
-<<<<<<< HEAD
-category: blueprints
-=======
 category: futures
->>>>>>> next/main
 published: true
 date: 2023-04-17T09:01:44.397Z
 date-updated: 2023-04-17T09:01:44.426Z

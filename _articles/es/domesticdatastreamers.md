@@ -15,13 +15,8 @@ author_uids:
 interviewee: Pau García (Domestic Data Streamers)
 cover:
   path: /media/articles/heroes/paugarcia.jpeg
-<<<<<<< HEAD
-  mobile: /media/articles/mobile/paugarcia.jpeg
-  thumbnail: /media/articles/thumbnails/paugarcia.jpeg
-=======
   mobile: /media/articles/mobile/captura-de-pantalla-2023-08-31-a-les-13.13.19.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2023-08-31-a-les-13.13.19.png
->>>>>>> next/main
   alt: Domestic Data Streamers
   credits: Domestic Data Streamers
   caption: Domestic Data Streamers
@@ -31,11 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-<<<<<<< HEAD
-  path: /media/articles/social/paugarcia.jpeg
-=======
   path: /media/articles/social/captura-de-pantalla-2023-08-31-a-les-13.13.19.png
->>>>>>> next/main
 ---
 **Creo que tú y yo coincidimos en ver los datos como lenguaje. Los datos, como el lenguaje, son un sistema descriptivo. Nos ayuda a organizar y comprender el mundo. Y, como el lenguaje, debe ofrecernos posibilidades, invitar a la curiosidad, facilitar la comprensión. ¿Cómo crees que los datos y el trabajo de Domestic data Streamers (DDS) nos ayudan a organizar y entender el mundo?**
 
