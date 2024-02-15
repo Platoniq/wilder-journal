@@ -1,7 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-1
+<<<<<<< HEAD
 category: blueprints
+=======
+category: futures
+>>>>>>> next/main
 published: true
 date: 2022-06-01T16:48:52.182Z
 date-updated: 2022-06-01T16:48:52.217Z
@@ -11,9 +15,15 @@ title: The Wilder Journal and the contemporary challenges to democracy
 description: "This first edition of the Wilder Journal is dedicated to
   understanding contemporary challenges to democracy and experimenting with the
   tools and practices to overcome them. "
+<<<<<<< HEAD
 author: Platoniq
 author_uids:
   - platoniq
+=======
+author: Xesca Sastre
+author_uids:
+  - xesca-sastre
+>>>>>>> next/main
 interviewee: ""
 cover:
   path: /media/articles/heroes/editorial.png

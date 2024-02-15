@@ -37,7 +37,11 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/openheritage.jpg
 ---
+<<<<<<< HEAD
 [](http://platoniq.net/media_images/800/DSC09049.JPG)¿Imaginas una zona industrial abandonada, que los residentes quieren convertir en una escuela comunitaria?
+=======
+[](https://platoniq.net/media_images/800/DSC09049.JPG)¿Imaginas una zona industrial abandonada, que los residentes quieren convertir en una escuela comunitaria?
+>>>>>>> next/main
 
 **Piensa en un parque frecuentado por jóvenes, pequeños productores ecológicos y un grupo de personas mayores.** ¿Puedes imaginar que estos colectivos puedan tomar decisiones sobre este espacio que utilizan cada día?
 

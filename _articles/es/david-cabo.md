@@ -19,8 +19,13 @@ author_uids:
 interviewee: David Cabo
 cover:
   path: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
+<<<<<<< HEAD
   mobile: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
   thumbnail: /media/articles/heroes/photo_2023-07-19_11-07-45.jpg
+=======
+  mobile: /media/articles/mobile/photo_2023-07-19_11-07-45.jpg
+  thumbnail: /media/articles/thumbnails/photo_2023-07-19_11-07-45.jpg
+>>>>>>> next/main
   alt: David Cabo, cofundador de Civio.
   credits: .
   caption: David Cabo, cofundador de Civio.
@@ -32,7 +37,11 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/photo_2023-07-19_11-07-45.jpg
 ---
+<<<<<<< HEAD
 Se ha acercado a nuestro espacio platónico en Palma, David Cabo, fundador de Civio e ingeniero informático experto en datos abiertos, transparencia, análisis de información pública y datos presupuestarios. Cabo conversa con Xesca Sastre y Olivier Schulbaum (Platoniq) sobre tiempo profundo, sobre la obligada rendición de cuentas de las administraciones públicas, sobre sus investigaciones (como la del [bono social](https://civio.es/bono-social/), la [brecha global en el acceso a la salud](https://civio.es/medicamentalia/2021/03/09/acceso-a-la-salud-mental-en-europa-espana/), los [indultos concedidos en España](https://civio.es/el-indultometro/) desde 1996, [los datos de incendios desatendidos](https://journal.platoniq.net/es/wilder-journal-1/reports/emptied-rural-spain/)) y mucho más.
+=======
+Se ha acercado a nuestro espacio platónico en Palma, David Cabo, fundador de Civio e ingeniero informático experto en datos abiertos, transparencia, análisis de información pública y datos presupuestarios. Cabo conversa con Xesca Sastre y Olivier Schulbaum (Platoniq) sobre tiempo profundo, sobre la obligada rendición de cuentas de las administraciones públicas, sobre sus investigaciones (como la del [bono social](https://civio.es/bono-social/), la [brecha global en el acceso a la salud](https://civio.es/medicamentalia/2021/03/09/acceso-a-la-salud-mental-en-europa-espana/), los [indultos concedidos en España](https://civio.es/el-indultometro/) desde 1996, [los datos de incendios desatendidos](https://journal.platoniq.net/es/wilder-journal-1/learnings/emptied-rural-spain/)) y mucho más.
+>>>>>>> next/main
 
 ## **¿Para quien no os conozca todavía, qué es Civio, y sobre todo cuál es su propósito?** 
 
@@ -40,6 +49,11 @@ Desde Civio vigilamos que los servicios públicos funcionen y que las decisiones
 
 Somos una fundación nacida hace diez años que lucha para que haya más transparencia y más rendición de cuentas en las administraciones públicas españolas. Nuestra acción va desde la solicitud de información hasta ir a juicio si no nos la proporcionan para llevar al límite la Ley de Transparencia. Nos centramos en hacer mucho periodismo, intentando exponer temas complejos que los medios tradicionales no cubren bien, como puede ser la contratación pública, los indultos o el acceso al sistema de salud.
 
+<<<<<<< HEAD
+=======
+{% quote { "author": "David Cabo" } %}Nuestra tarea reside en la transparencia, porque creemos que para que la ciudadanía participe debe saber cuál es la situación{% endquote %}
+
+>>>>>>> next/main
 Nuestra misión es que las administraciones trabajen para toda la ciudadanía, que rindan cuentas ante ella para que así la gente sienta que participa y que sus necesidades son la prioridad de los poderes públicos. Nuestra tarea reside en esta primera parte, la transparencia, porque creemos que para que la ciudadanía participe debe saber cuál es la situación, qué problemas hay y cuales son los datos que existen; es así cómo la ciudadanía puede formar su postura. 
 
 Hay otros agentes que se encargan de la participación, como lo hacéis en Platoniq, mientras en CIVIO nos centramos en ofrecer información transparente y al alcance de todas las personas.
@@ -62,6 +76,11 @@ Otro ejemplo sería una investigación que hicimos sobre la saturación del sist
 
 Esa es la gran duda. En Civio hemos tenido nuestros altibajos: la teoría, y a veces conseguimos que sea una realidad, es que se acabe con la sensación de impunidad. A nivel político, esto pasa porque se acabe el “puedo hacer cualquier cosa que total a la gente se le olvida y me van a volver a votar igual”, pero también a nivel de la administración en sí, que cree que “la información es mía y aunque la gente pregunte no tengo porqué explicar nada y paso de todo”. La idea es acabar con esto: en Civio queremos que la administración se sienta observada y sienta que tiene que rendir cuentas a la ciudadanía -a veces lo conseguimos-.
 
+<<<<<<< HEAD
+=======
+{% quote { "author": "David Cabo" } %}La ley no sólo la deben hacer los diputados, sino que desde la sociedad, si te organizas y encuentras la ventana, se pueden provocar cambios{% endquote %}
+
+>>>>>>> next/main
 Cuando ganas un juicio en el Tribunal Supremo, contra los abogados del Estado del Ministerio de Defensa, pues sientes que aunque seas una organización muy pequeña, tienes el poder de torcerle el brazo al gobierno central. Cuando consigues introducir cambios en la Ley de Contratación, donde hablamos con los partidos de la oposición y logramos meter enmiendas para que hubiera más información pública, te sorprendes un poco. La ley no sólo la deben hacer los diputados, sino que desde la sociedad, si te organizas y encuentras la ventana -ya que se deben dar ciertas condiciones-, se pueden provocar cambios. Así es como debería funcionar esto: los intereses de los ciudadanos también tienen que estar representados en las leyes y no solo los intereses organizados de los lobbys, de las empresas o de los sectores que tienen poder.
 
 ## **A la hora de seleccionar los temas a investigar y en cuanto al tratamiento mismo de la información, ¿tenéis algún comité experto externo, o alguna otra modalidad de vigilancia externa? ¿Os auto-vigiláis?** 
@@ -74,6 +93,11 @@ Por otro lado, un sistema de vigilancia externo muy válido son los socios y las
 
 Desde Civio no hacemos fact checking de forma especializada, en parte, porque ya hay gente que lo hace, pero también en parte porque nuestra filosofía es distinta. Existe un riesgo como medio u organización de fact-checking que es el de darle cancha o espacio a gente que juega con el mecanismo de decir barbaridades. Tienes que ser consciente de que mucha gente desconfía de los medios y desconfía de las organizaciones tradicionales, y que uno de sus argumentos para llegar a mucha gente es esa misma desconfianza. Por ejemplo: el hecho de que Trump diga barbaridades y le corrijan no es un accidente, es intencionado porque el hecho de ir contra los medios tradicionales es precisamente lo que le hace atractivo a mucha gente. Se puede discutir por qué: ¿es por qué están enfadados, o porque están radicalizados por algún motivo? Lo que sí está demostrado es que esto atrae a gente.
 
+<<<<<<< HEAD
+=======
+{% quote { "author": "David Cabo" } %}Con el fact-checking hay este riesgo de que con tu corrección o explicación de algo que no es cierto estés amplificando el mensaje{% endquote %}
+
+>>>>>>> next/main
 Hay este riesgo de que con tu corrección o explicación de algo que no es cierto estés amplificando el mensaje, que igual no ha llegado, pero sólo por el hecho de ponerte en contra de un mensaje de cierta persona, sume punto de cara a sus seguidores, ya que es una estrategia que da votos y seguidores en las redes sociales. Eso es lo que nos aleja del fact-cheking: nuestra agenda no va a estar marcada por la ocurrencia que ha tenido hoy el loco de turno, sino que yo lo que quiero es investigar; tengo mi propia agenda como organización que hace periodismo.
 
 ## **Vuestras piezas de investigación incluyen visualización de datos, infografías, combinación de varios  formatos. Se nota el esfuerzo de presentar la información de manera atractiva y comprensible. ¿Transmitir la información de una manera accesible e incluso bella, es democratizarla?** 
@@ -88,6 +112,11 @@ Otra cosa que también es interactiva y que va en paralelo, es que si sale una a
 
 Justo en el caso de esta investigación, hicimos un robot que llamaba al teléfono del IMV, es código tradicional pero sí que es verdad que le pedí a ChatGPT que me hiciera algunas partes del código. Yo sí que lo uso para programar, pero en general, soy escéptico con la inteligencia artificial. Creo que es muy potente y a la vez percibo mucho hype. Nosotros en Civio lo usamos para transcribir entrevistas, porque funciona muy bien, pero siempre de manera interna. Lo que no vamos a hacer nunca, porque mataría un poco lo que nos diferencia, es usarlo para generar el texto o el contenido que se le ofrece a la gente. 
 
+<<<<<<< HEAD
+=======
+{% quote { "author": "David Cabo" } %}Creemos que las cosas tienen que ser 100% fiables, verificadas, además de proporcionar datos y textos revisados exhaustivamente{% endquote %}
+
+>>>>>>> next/main
 Por otro lado, la IA puede suponer un riesgo si desde la política se usa para ciertos fines. Por ejemplo, es problemático que se manden correos electrónicos en nombre de  un partido político o de un candidato con información personalizada, en función de dónde vives, de qué trabajas o con lo que hayan podido averiguar de ti, y que lo usen para convencerte de algo. El problema es que a nivel democrático, en vez de tener un discurso común visible y público, se genera un espacio en buzones o en cuentas privadas, vendiéndole a cada uno lo que quiere comprar. Además, justo esto ya se hace; recordemos Cambridge Analytica y Facebook. Ya se hace targeting personalizado de anuncios políticos, que es algo que la Unión Europea va a regular. Por así decirlo, ahora tienes, por ejemplo, 20 anuncios en los que tienes que seleccionar unos parámetros concretos para ver a quién lo diriges; lo que permite la inteligencia artificial es que pasaremos de estos 20 anuncios a 2000 porque ya no tienes que hacerlos tú paso a paso, sinó que tienes una herramienta que te los genera. 
 
 Volviendo un poco al inicio de lo que decía, nosotros creemos que las cosas tienen que ser 100% fiables, verificadas, además de proporcionar datos y textos revisados exhaustivamente. El hecho de que la inteligencia artificial sea un 95% fiable no nos vale para ofrecer a nuestros usuarios y usuarias una producción final.
@@ -114,4 +143,9 @@ Relacionado con este tema, el concepto de tiempo profundo me recuerda a una orga
 
 A mí mismo me cuesta, entonces no me atrevo a dar consejos. Yo mismo a veces pierdo mucho el tiempo y me distraigo. En ese sentido, hay una serie de podcast ([Musing Mind, by Oshan Jarow](https://www.musingmind.org/#podcast)) que se centra en cómo el sistema económico, político y cultural moldea tu propia conciencia, tu capacidad de hacer y de pensar. Tus propias formas están sujetas a la estructura a tu alrededor, es decir, la sociedad te forma. Este sistema es el que te empuja a un determinado tipo de consumo y también condicionan las herramientas con las que te comunicas. Por ejemplo, el hecho de que el discurso político haya pasado de la prensa escrita a la televisiva y después a las redes sociales también condiciona el tipo de mensaje que te llega. Si tú intentas condensar tu mensaje en TikTok tienes que venderlo de una determinada manera, tienes que hacerlo entretenido.
 
+<<<<<<< HEAD
+=======
+{% quote { "author": "David Cabo" } %}Si tus trabajos son precarios y tus contratos breves, tu pensamiento se dirige a “tengo que encontrar trabajo para la semana que viene”, y no tienes la tranquilidad que se requiere para pensar en cosas más profundas{% endquote %}
+
+>>>>>>> next/main
 Volviendo a la pregunta, no sé cuál es la solución. Supongo que el primer paso es ser consciente hasta que punto tu forma de pensar y tus opiniones están condicionadas por este sistema económico, político y cultural. Si tus trabajos son precarios y tus contratos breves, tu pensamiento se dirige a “tengo que encontrar trabajo para la semana que viene”, y no tienes la tranquilidad que se requiere para pensar en cosas más profundas. También hay estudios que demuestran que las personas que disponen de poco dinero, que se encuentran en situación de pobreza o si no disponen de cierta estabilidad, tienen una capacidad de pensar menos profunda ya que deben su concentración a la preocupación del día a día. Además, después tienes que saber usar esa capacidad y que no se diluya en “llevo tres horas viendo gatos en Instagram”, que a todos nos pasa a veces. Supongo que la clave está en encontrar un equilibrio.
