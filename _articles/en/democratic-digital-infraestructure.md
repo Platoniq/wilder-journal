@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-01-09T15:36:15.557Z
 date-updated: 2024-01-09T15:36:15.617Z
-article-order: 3
+article-order: 7
 uid: democratic-digital-infraestructure
 title: "Democratic and Robust Digital Infrastructures: call for the
   democratization of the digital transition in Europe."

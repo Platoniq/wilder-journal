@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-01-09T09:50:33.733Z
 date-updated: 2024-01-09T09:50:33.760Z
-article-order: 7
+article-order: 3
 uid: marea-deliberativa-manifiesto-asambleas
 title: "Hacia la democracia climática: siete asambleas ciudadanas y un Manifiesto "
 description: Un llamamiento urgente y necesario
