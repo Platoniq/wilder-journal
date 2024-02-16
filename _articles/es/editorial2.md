@@ -18,9 +18,9 @@ author: Fundación Platoniq
 author_uids:
   - platoniq
 cover:
-  path: /media/articles/heroes/esepe-blueplanet.png
-  mobile: /media/articles/mobile/esepe-blueplanet.png
-  thumbnail: /media/articles/thumbnails/esepe-blueplanet.png
+  path: /media/articles/heroes/esepe-blueplanet.webp
+  mobile: /media/articles/mobile/esepe-blueplanet.webp
+  thumbnail: /media/articles/thumbnails/esepe-blueplanet.webp
   alt: Jean-Louis Vidière Ésèpe, Blue Planet, 2023
   credits: Jean-Louis Vidière Ésèpe, Blue Planet, 2023
   caption: Jean-Louis Vidière Ésèpe, Blue Planet, 2023
