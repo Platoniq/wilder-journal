@@ -22,7 +22,8 @@ cover:
   alt: Esepé, Globetrotter, 2023
   credits: Esepé, Globetrotter, 2023
   caption: Esepé, Globetrotter, 2023
-related_article_uids: []
+related_article_uids:
+  - dialogos-migrantes
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
