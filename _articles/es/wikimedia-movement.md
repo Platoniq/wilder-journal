@@ -23,6 +23,7 @@ cover:
 related_article_uids:
   - culture-creativity-and-deliberation-methodologies
   - expo-desinformación
+  - dialogos-migrantes
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
