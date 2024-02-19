@@ -26,6 +26,7 @@ cover:
 related_article_uids:
   - late_legislation
   - were_open
+  - editorial2
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
