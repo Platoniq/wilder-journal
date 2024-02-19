@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/eye.png
+  path: /media/articles/social/esepe-deadbyexcelescess.png
 ---
 Implicar a la ciudadanía en los asuntos públicos, reivindicar el derecho a la participación como derecho fundamental o explorar nuevos espacios y metodologías que permitan practicar la empatía afectiva, son algunos de los desafíos a los que nos enfrentamos desde las trincheras de lo que denominamos **innovación democrática inclusiva.**
 

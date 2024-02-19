@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/eye.png
+  path: /media/articles/social/esepe-deadbyexcelescess.png
 ---
 Involving citizens in public affairs, claiming the right to participation as a fundamental right or exploring new spaces and methodologies that allow us to practice affective empathy are some of the challenges we face from the trenches of what we call **inclusive democratic innovation.**
 
