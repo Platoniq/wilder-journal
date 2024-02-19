@@ -13,7 +13,7 @@ author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
 cover:
-  path: /media/articles/heroes/esepe_bonesfire.png
+  path: /media/articles/heroes/esepe_bonesfire.webp
   mobile: /media/articles/mobile/esepe_bonesfire.webp
   thumbnail: /media/articles/thumbnails/esepe_bonesfire.png
   alt: Ésèpe, Bones fire, 2023
