@@ -23,7 +23,8 @@ cover:
   alt: Katy Rubin
   credits: https://www.katyrubin.com/
   caption: Katy Rubin
-related_article_uids: []
+related_article_uids:
+  - late_legislation
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
