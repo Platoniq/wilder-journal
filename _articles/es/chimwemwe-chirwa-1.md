@@ -20,6 +20,7 @@ cover:
 related_article_uids:
   - katy-rubin
   - late_legislation
+  - revolutionmindset
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
