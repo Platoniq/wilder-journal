@@ -26,7 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/marea.jpeg
+  path: /media/articles/social/esepe_bonesfire.png
 ---
 **La crisis climática no es una posibilidad, es real.** Y aún más preocupante es la lentitud con la que se están adoptando medidas para mitigar sus efectos. A pesar del esfuerzo asambleario que se está haciendo a lo largo y ancho del país, falta mucho más compromiso para que la democracia climática sea efectiva.
 

@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/marea.jpeg
+  path: /media/articles/social/esepe_bonesfire.png
 ---
 **The climate crisis is not a possibility, it is real.** And even more worrying is the slowness with which measures are being adopted to mitigate its effects. In spite of the assembly effort that is being made throughout the country, much more commitment is needed for climate democracy to be effective.
 
