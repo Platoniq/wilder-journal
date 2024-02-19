@@ -19,6 +19,7 @@ cover:
   credits: Mindset Revolution
 related_article_uids:
   - katy-rubin
+  - late_legislation
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
