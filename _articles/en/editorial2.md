@@ -24,7 +24,7 @@ cover:
   credits: Jean-Louis Vidière Ésèpe, Exploding Head, 2023
   caption: Jean-Louis Vidière Ésèpe, Exploding Head, 2023
 related_article_uids:
-  - katy-rubin
+  - crowdfunding-cinema
   - marea-deliberativa-manifiesto-asambleas
   - culture-creativity-and-deliberation-methodologies
 stickers:
