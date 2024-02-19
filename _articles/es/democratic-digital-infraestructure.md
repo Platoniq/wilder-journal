@@ -35,7 +35,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/statement.png
+  path: /media/articles/social/esepe-estrecho.jpg
 ---
 En diciembre de 2022, la [Declaración Europea sobre los Derechos y Principios Digitales para la Década Digital](https://digital-strategy.ec.europa.eu/en/library/european-declaration-digital-rights-and-principles) fue firmada por el Parlamento Europeo, el Consejo y la Comisión Europea. Esta declaración pone en relieve la reciente **necesidad de alternativas a las plataformas comerciales dominantes** y las prácticas extractivas que dominan el entorno en línea hoy en día. 
 

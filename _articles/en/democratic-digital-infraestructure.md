@@ -35,7 +35,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/statement.png
+  path: /media/articles/social/esepe-estrecho.jpg
 ---
 In December 2022, the [European Declaration on Digital Rights and Principles for the Digital Decade](https://digital-strategy.ec.europa.eu/en/library/european-declaration-digital-rights-and-principles) was signed by the European Parliament, the Council and the European Commission. This declaration highlights the recent **need for alternatives to the dominant commercial platforms** and extractive practices that dominate the online environment today. 
 
