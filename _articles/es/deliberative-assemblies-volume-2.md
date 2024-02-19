@@ -20,7 +20,8 @@ cover:
   alt: Ésèpe, Clouds, 2023
   credits: Ésèpe, Clouds, 2023
   caption: Ésèpe, Clouds, 2023
-related_article_uids: []
+related_article_uids:
+  - dialogos-migrantes
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
