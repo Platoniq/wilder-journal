@@ -22,8 +22,7 @@ cover:
   alt: Esepé, Globetrotter, 2023
   credits: Esepé, Globetrotter, 2023
   caption: Esepé, Globetrotter, 2023
-related_article_uids:
-  - open-heritage-financing
+related_article_uids: []
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
