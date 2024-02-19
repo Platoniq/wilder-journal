@@ -22,7 +22,7 @@ cover:
   credits: Ésèpe, Ikea 2, 2023
   caption: Ésèpe, Ikea 2, 2023
 related_article_uids:
-  - democracy-is-fun
+  - strategic-planning
   - arantxa-mendiharat
   - ines-cheniour
 stickers:
