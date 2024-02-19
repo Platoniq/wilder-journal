@@ -28,7 +28,8 @@ cover:
   alt: .
   credits: .
   caption: .
-related_article_uids: []
+related_article_uids:
+  - web-dubois-data
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
