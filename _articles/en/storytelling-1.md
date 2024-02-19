@@ -52,6 +52,6 @@ Las historias se leyeron en voz alta a quienes participaron en el taller. A cont
 
 ## Te invitamos a que leas otras historias de otros proyectos
 
-{% file { "title": "Late Legislation", "info": "“Los lametones liberadores del tabaco sólo pueden durar un tiempo...”", "file": "https://next.journal.platoniq.net/es/wilder-journal-2/stories/late_legislation/", "image": "/media/captura-de-pantalla-2023-08-31-a-les-13.00.39.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
+{% file { "title": "Late Legislation", "info": "“Los lametones liberadores del tabaco sólo pueden durar un tiempo...”", "file": "https://journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/captura-de-pantalla-2023-08-31-a-les-13.00.39.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
 
 {% file { "title": "Were open", "info": "“Suave, cálido y delicado al gusto...”", "file": "https://next.journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/istockphoto-1227224869-612x612.jpg", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
