@@ -21,6 +21,7 @@ cover:
   caption: Ésèpe, Hamaca, 2023
 related_article_uids:
   - web-dubois-data
+  - decide-madrid
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
