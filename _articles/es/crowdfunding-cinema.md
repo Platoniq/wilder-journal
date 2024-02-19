@@ -22,6 +22,8 @@ cover:
   alt: Sem Pons y Javier Pachón
   credits: Sem Pons y Javier Pachón
   caption: Sem Pons y Javier Pachón
+related_article_uids:
+  - decide-madrid
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
