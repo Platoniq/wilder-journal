@@ -6,12 +6,11 @@ published: true
 date: 2024-01-09T10:32:34.287Z
 date-updated: 2024-01-09T10:32:34.375Z
 article-order: 25
-uid: storytelling
-title: Contar historias, tender puentes
-description: Contar historias es algo que alberga un gran potencial para tender
-  puentes entre las personas, ya que permite crear un vínculo emocional y
-  establecer unas bases comunes a partir de las cuales impulsar la colaboración
-  entre diferentes comunidades.
+uid: transformative-narratives
+title: The importance of storytelling to build transformative narratives
+description: Storytelling has great potential for building bridges between
+  people, creating an emotional bond and establishing common ground from which
+  to foster collaboration between different communities.
 author: Elena Silvestrini
 author_uids:
   - elena-silvestrini
@@ -36,22 +35,24 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/20230508b_classic.jpg
 ---
-Contar historias es algo que alberga un gran potencial para tender puentes entre las personas, ya que permite crear un vínculo emocional y establecer unas bases comunes a partir de las cuales impulsar la colaboración entre diferentes comunidades. Las historias nos conectan con cuestiones sociales que a menudo nos superan y, al hacer que conectemos con las vivencias de otras personas y sus motivaciones, logran también que adquiramos una visión de dichas problemáticas mucho más completa.
+**Storytelling has great potential for building bridges between people, creating an emotional bond and establishing common ground from which to foster collaboration between different communities.** Stories connect us to social issues that are often beyond us, and by connecting us to other people's experiences and motivations, they also give us a much more complete view of these issues.
 
-{% questions { "items": [{"question":"¿Cómo pueden ayudarnos las historias a llevar las experiencias individuales a una dimensión colectiva?"},{"question":"¿Cómo pueden contribuir a que la gente entienda cómo son las vivencias de los demás?"},{"question":"¿Pueden servirnos para que las personas cuestionen sus sesgos hacia los demás?"}] } %}
+{% questions { "items": [{"question":"How can stories help us bring individual experiences into a collective dimension?"},{"question":"How can they help people understand what others' experiences are like?"},{"question":"Can they serve to make people question their biases towards others?"}] } %}
 
-Para poder abordar estos retos, apostamos por la narración de historias como un elemento clave en el diseño de nuestra metodología para CultureLabs, un proyecto en el que llevamos trabajando tres años. CultureLabs crea recursos para desarrollar procesos participativos con diferentes comunidades, aprovechando la riqueza del patrimonio cultural. El proyecto también organizó cuatro proyectos pilotos en diferentes regiones de Europa, cuya metodología de creación conjunta desarrollamos desde Platoniq. (Puedes ver un resumen de la metodología en el video siguiente, minuto 4:27).
+In order to address these challenges, we have chosen storytelling as a key element in the design of our methodology for CultureLabs, a project we have been working on for three years. CultureLabs creates resources to develop participatory processes with different communities, taking advantage of the richness of cultural heritage. The project also organized four pilot projects in different regions of Europe, whose co-creation methodology we developed from Platoniq. (You can see a summary of the methodology in the following video, minute 4:27).
 
 {% video { "title": "Methodology of CultureLabs", "url": "https://www.youtube.com/embed/Wmc7CNAafRM" } %}
 
-En el caso concreto del proyecto CultureLabs —un proyecto en el que nos embarcamos junto a otras entidades para desarrollar una metodología que apoyase la creación conjunta de actividades participativas centradas en el patrimonio cultural— el hecho de contar historias fue un instrumento muy potente de cara a cuestionar sesgos, especialmente respecto a las comunidades de migrantes. Nuestro objetivo fue invitar a las demás entidades del proyecto que participaron en nuestro taller a que pensaran cómo sus propias experiencias vitales influyen sobre sus posturas en torno a la participación y el patrimonio cultural. Nuestro objetivo era también visualizar las diferentes vías de la migración, donde los viajes y las historias siguen diferentes rutas, para después poner esos casos en relación con los servicios de apoyo locales.
+In the specific case of the CultureLabs project - a project we embarked on with others to develop a methodology to support the co-creation of participatory activities focused on cultural heritage - **storytelling was a powerful tool for challenging biases, especially with respect to migrant communities.** 
 
-La escritora de relatos Evelien Vos escribió dos cuentos a partir de las vivencias reales de varias personas migrantes recogidas por COOSS, una organización que participaba en CultureLabs y que trabajaba con diversas comunidades de migrantes que llegaban a Ancona, Italia. El ilustrador Gonzalo Sainz Sotomayor enriqueció los relatos con dos dibujos llenos de fuerza.
+Our goal was to invite the other project partners who participated in our workshop to think about how their own life experiences influence their positions on participation and cultural heritage. Our goal was also to visualize the different pathways of migration, where journeys and stories follow different routes, and then to put those cases in relation to local support services.
 
-Las historias se leyeron en voz alta a quienes participaron en el taller. A continuación, se hizo una dinámica con roles donde se pedía a los participantes que se preguntaran qué podría llevar a los integrantes de las comunidades migrantes a participar y volcarse en los proyectos de CultureLabs. De esta forma se instaba a los participantes a cuestionarse sus sesgos en los procesos de diálogo intercultural y creación conjunta.
+Story writer Evelien Vos wrote two stories based on the real life experiences of several migrants collected by COOSS, an organization participating in CultureLabs and working with various migrant communities arriving in Ancona, Italy. Illustrator Gonzalo Sainz Sotomayor enriched the stories with two powerful drawings.
 
-## Te invitamos a que leas otras historias de otros proyectos
+The stories were read aloud to those who participated in the workshop. This was followed by a role-playing exercise in which participants were asked to ask themselves what might lead members of migrant communities to participate and get involved in CultureLabs projects. In this way, participants were encouraged to question their biases in the processes of intercultural dialogue and co-creation.
 
-{% file { "title": "Late Legislation", "info": "“Los lametones liberadores del tabaco sólo pueden durar un tiempo...”", "file": "https://journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/late-legislation.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
+## We invite you to read other stories of other projects.
 
-{% file { "title": "Were open", "info": "“Suave, cálido y delicado al gusto...”", "file": "https://journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/late-legislation2.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
+{% file { "title": "Late Legislation", "info": ""The liberating licks of tobacco can only linger for so long..."", "file": "https://journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/late-legislation.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
+
+{% file { "title": "Were open", "info": ""Soft warm and delicate in taste..."", "file": "https://journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/late-legislation2.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}

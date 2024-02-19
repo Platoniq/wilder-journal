@@ -6,7 +6,7 @@ published: true
 date: 2024-01-09T10:32:34.287Z
 date-updated: 2024-01-09T10:32:34.375Z
 article-order: 25
-uid: storytelling
+uid: transformative-narratives
 title: La importancia de contar historias para construir narrativas transformadoras
 description: Contar historias es algo que alberga un gran potencial para tender
   puentes entre las personas, ya que permite crear un vínculo emocional y
@@ -23,9 +23,7 @@ cover:
   credits: Ésèpe, Classic, 2023
   caption: Ésèpe, Classic, 2023
 related_article_uids:
-  - ahmed
-  - precious
-  - vespertilio-homo
+  - revolutionmindset
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
