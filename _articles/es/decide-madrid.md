@@ -23,6 +23,7 @@ cover:
 related_article_uids:
   - decide-madrid
   - Restoration-Toolbox
+  - dialogos-migrantes
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
