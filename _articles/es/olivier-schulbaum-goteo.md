@@ -24,7 +24,6 @@ cover:
   caption: Olivier Schulbaum
 related_article_uids:
   - neo-sindicalismo
-  - nature-sdg-in-goteo
   - democratic-funding
 stickers:
   layout: layout-none
