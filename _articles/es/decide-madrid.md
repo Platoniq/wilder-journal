@@ -14,9 +14,9 @@ description: El presente artículo traslada todos los aprendizajes del caso de l
 author: Susana Noguero
 author_uids: []
 cover:
-  path: /media/articles/heroes/esepe-lefttight-y-viceversa.jpg
-  mobile: /media/articles/mobile/esepe-lefttight-y-viceversa.jpg
-  thumbnail: /media/articles/thumbnails/esepe-lefttight-y-viceversa.jpg
+  path: /media/articles/heroes/esepe-lefttight-y-viceversa.png
+  mobile: /media/articles/mobile/esepe-lefttight-y-viceversa.png
+  thumbnail: /media/articles/thumbnails/esepe-lefttight-y-viceversa.png
   alt: Esepé, Leftright and viceversa, 2023
   credits: Esepé, Leftright and viceversa, 2023
   caption: Esepé, Leftright and viceversa, 2023

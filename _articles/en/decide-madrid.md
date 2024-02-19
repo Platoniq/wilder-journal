@@ -8,9 +8,9 @@ date-updated: 2024-02-15T14:35:37.507Z
 article-order: 10
 uid: decide-madrid
 cover:
-  path: /media/articles/heroes/esepe-lefttight-y-viceversa.jpg
-  mobile: /media/articles/mobile/esepe-lefttight-y-viceversa.jpg
-  thumbnail: /media/articles/thumbnails/esepe-lefttight-y-viceversa.jpg
+  path: /media/articles/heroes/esepe-lefttight-y-viceversa.png
+  mobile: /media/articles/mobile/esepe-lefttight-y-viceversa.png
+  thumbnail: /media/articles/thumbnails/esepe-lefttight-y-viceversa.png
   alt: Esepé, Leftright and viceversa, 2023
   credits: Esepé, Leftright and viceversa, 2023
   caption: Esepé, Leftright and viceversa, 2023
