@@ -33,7 +33,7 @@ stickers:
   sticker_two: ""
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/sticker1.png
+  path: /media/articles/social/esepe-ikea2.jpg
   alt: Alba Feito
 ---
 ## Hypothesis
