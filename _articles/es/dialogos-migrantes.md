@@ -21,6 +21,8 @@ cover:
   alt: Ésèpe, Selfies a gogo, 2023
   credits: Ésèpe, Selfies a gogo, 2023
   caption: Ésèpe, Selfies a gogo, 2023
+related_article_uids:
+  - wikimedia-movement
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
