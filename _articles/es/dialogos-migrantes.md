@@ -24,6 +24,7 @@ cover:
 related_article_uids:
   - wikimedia-movement
   - expo-desinformación
+  - Restoration-Toolbox
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
