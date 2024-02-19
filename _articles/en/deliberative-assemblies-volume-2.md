@@ -21,9 +21,9 @@ cover:
   alt: Ésèpe, Clouds, 2023
   credits: Ésèpe, Clouds, 2023
 related_article_uids:
-  - arantxa-mendiharat
-  - coincidim-using-decidim-in-citizen-movements
-  - editorial
+  - dialogos-migrantes
+  - expo-desinformación
+  - wikimedia-movement
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
