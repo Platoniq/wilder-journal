@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/articles/social/sticker14.png
+  path: /media/articles/social/20230326d_clouds.jpg
 ---
 We are very excited after the publication of the Guide ["How to organize Deliberative Assemblies by Civic Sortition in high schools"](https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf) that our colleague Tayrine Dias and our co-founder Olivier Schulbaum have so lovingly developed!
 

@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/articles/social/sticker14.png
+  path: /media/articles/social/20230326d_clouds.jpg
 ---
 ¡Estamos entusiasmadas tras la publicación de la Guía [“Cómo organizar Asambleas Deliberativas por Sorteo Cívico en institutos”](https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf) que con tanto cariño han desarrollado nuestra compañera Tayrine Dias y nuestro co-fundador Olivier Schulbaum!
 
