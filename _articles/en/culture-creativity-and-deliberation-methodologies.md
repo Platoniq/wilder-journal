@@ -17,10 +17,14 @@ author_uids:
 cover:
   path: /media/articles/heroes/sticker1.png
   mobile: /media/articles/mobile/sticker1.png
-  thumbnail: /media/articles/thumbnails/sticker1.png
+  thumbnail: /media/articles/thumbnails/esepe-ikea2.jpg
   alt: "Wilder Journal #1 sticker by Alba Feitó"
   credits: Alba Feitó
   caption: "Wilder Journal #1 sticker"
+related_article_uids:
+  - democracy-is-fun
+  - arantxa-mendiharat
+  - ines-cheniour
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
