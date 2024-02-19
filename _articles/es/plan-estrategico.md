@@ -21,7 +21,6 @@ cover:
   credits: Ésèpe, Carcel Excel, 2023
   caption: Ésèpe, Carcel Excel, 2023
 related_article_uids:
-  - transformative-narratives
   - strategic-planning
 stickers:
   layout: layout-none

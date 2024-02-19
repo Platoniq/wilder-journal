@@ -20,6 +20,9 @@ cover:
   alt: Ésèpe, Carcel Excel, 2023
   credits: Ésèpe, Excel Prision, 2023
   caption: Ésèpe, Carcel Excel, 2023
+related_article_uids:
+  - transformative-narratives
+  - strategic-planning
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
