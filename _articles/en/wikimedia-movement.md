@@ -14,9 +14,9 @@ author: Nadia Nadesan
 author_uids:
   - nadia-nadesan
 cover:
-  path: /media/articles/heroes/lost_in_translation.jpg
-  mobile: /media/articles/mobile/lost_in_translation.jpg
-  thumbnail: /media/articles/thumbnails/lost_in_translation.jpg
+  path: /media/articles/heroes/lost_in_translation.png
+  mobile: /media/articles/mobile/lost_in_translation.png
+  thumbnail: /media/articles/thumbnails/lost_in_translation.png
   alt: Ésèpe, Blue Planet, 2023
   credits: Ésèpe, Blue Planet, 2023
   caption: Ésèpe, Blue Planet, 2023
