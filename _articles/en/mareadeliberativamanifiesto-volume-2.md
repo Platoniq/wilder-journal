@@ -21,8 +21,8 @@ cover:
   alt: Ésèpe, Bones fire, 2023
 related_article_uids:
   - deliberative-assemblies
-  - culture-creativity-and-deliberation-methodologies
-  - democratic-funding
+  - web-dubois-data
+  - storytelling
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
