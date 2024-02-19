@@ -23,8 +23,7 @@ cover:
   alt: Katy Rubin
   credits: https://www.katyrubin.com/
   caption: Katy Rubin
-related_article_uids:
-  - be-part-does-a-students-decision-have-the-same-power-as-a-teachers
+related_article_uids: []
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
