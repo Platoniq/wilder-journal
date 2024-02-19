@@ -29,7 +29,6 @@ cover:
   credits: .
   caption: .
 related_article_uids:
-  - storytelling
   - culture-creativity-and-deliberation-methodologies
   - deliberative-assemblies
 stickers:
