@@ -18,7 +18,6 @@ cover:
   alt: Were Open poem, by Chimwemwe Chirwa
   credits: Mindset Revolution
 related_article_uids:
-  - revolutionmindset
   - katy-rubin
 stickers:
   layout: layout-none
