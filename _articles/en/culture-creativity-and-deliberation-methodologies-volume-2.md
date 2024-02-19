@@ -22,9 +22,8 @@ cover:
   credits: Ésèpe, Sunglass, 2023
   caption: Ésèpe, Sunglass, 2023
 related_article_uids:
-  - democracy-is-fun
-  - arantxa-mendiharat
-  - ines-cheniour
+  - strategic-planning
+  - patricia-lujan
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
