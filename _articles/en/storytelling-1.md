@@ -22,9 +22,8 @@ cover:
   credits: Ésèpe, Classic, 2023
   caption: Ésèpe, Classic, 2023
 related_article_uids:
-  - ahmed
-  - precious
-  - vespertilio-homo
+  - revolutionmindset
+  - null
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
