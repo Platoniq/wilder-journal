@@ -24,9 +24,8 @@ cover:
   caption: Sticker by Jean-Louis Vidière Ésèpe for Wilder Journal
   credits: Jean-Louis Vidière Ésèpe
 related_article_uids:
-  - nature-sdg-in-goteo
-  - democratic-funding
   - editorial2
+  - storytelling
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

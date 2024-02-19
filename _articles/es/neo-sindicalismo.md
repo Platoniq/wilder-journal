@@ -25,7 +25,6 @@ cover:
   caption: Sticker de Jean-Louis Vidière Ésèpe para Wilder Journal
 related_article_uids:
   - editorial2
-  - storytelling
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
