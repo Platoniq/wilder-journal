@@ -16,7 +16,7 @@ author_uids:
   - tayrine-dias
 cover:
   path: /media/articles/heroes/sticker1.png
-  mobile: /media/articles/mobile/sticker1.png
+  mobile: /media/articles/mobile/esepe-ikea2.jpg
   thumbnail: /media/articles/thumbnails/esepe-ikea2.jpg
   alt: "Sticker del Wilder Journal #1 por Alba Feitó"
   credits: Alba Feitó
