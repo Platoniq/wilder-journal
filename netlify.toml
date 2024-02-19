@@ -1,4 +1,4 @@
-[[plugins]]
+# [[plugins]]
  # Installs the Image Optim plugin for all deploy contexts
  # package = "netlify-plugin-image-optim"
 [functions]
