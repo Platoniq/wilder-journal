@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/esepe-hamaca.png
 ---
 "To carry out memory recovery processes with the community begins with a single task: listening to the people. You don't have to be a historian. You only have to have one quality and that is to know how to listen and propose a topic. People are coming. You don't have to put it in strange terms". Hernando Alberto Gómez, Librarian of the Public Library Operation P.A.P.A (Quimbaya, Quindío)
 

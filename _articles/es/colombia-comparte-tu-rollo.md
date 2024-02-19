@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/esepe-hamaca.png
 ---
 “A realizar procesos de recuperación de memoria con la comunidad se empieza con una sola tarea: escuchando a la gente. No hay que ser historiadores. Sólo hay que tener una cualidad y es saber escuchar y proponer un tema. La gente va llegando. No hay que ponerlo en términos raros”. Hernando Alberto Gómez, Bibliotecario de la Biblioteca Pública Operación P.A.P.A (Quimbaya, Quindío)
 
