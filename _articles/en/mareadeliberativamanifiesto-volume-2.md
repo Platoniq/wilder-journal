@@ -14,7 +14,7 @@ author_uids:
   - cristian-palazzi
 cover:
   path: /media/articles/heroes/esepe_bonesfire.png
-  mobile: /media/articles/mobile/esepe_bonesfire.png
+  mobile: /media/articles/mobile/esepe_bonesfire.webp
   thumbnail: /media/articles/thumbnails/esepe_bonesfire.png
   credits: Ésèpe, Bones fire, 2023
   caption: Ésèpe, Bones fire, 2023
