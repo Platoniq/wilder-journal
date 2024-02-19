@@ -21,7 +21,6 @@ cover:
   credits: Ésèpe, Clouds, 2023
   caption: Ésèpe, Clouds, 2023
 related_article_uids:
-  - expo-desinformación
   - wikimedia-movement
 stickers:
   layout: layout-none
