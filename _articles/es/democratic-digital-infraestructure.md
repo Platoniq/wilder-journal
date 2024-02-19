@@ -27,7 +27,7 @@ cover:
   caption: .
 related_article_uids:
   - decide-madrid
-  - nature-sdg-in-goteo
+  - plan-estrategico
   - democratic-funding
 stickers:
   layout: layout-none
