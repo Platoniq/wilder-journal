@@ -23,7 +23,7 @@ cover:
   caption: Ésèpe, Ikea 2, 2023
 related_article_uids:
   - strategic-planning
-  - arantxa-mendiharat
+  - patricia-lujan
   - ines-cheniour
 stickers:
   layout: layout-one
