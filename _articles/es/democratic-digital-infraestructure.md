@@ -26,7 +26,7 @@ cover:
   credits: .
   caption: .
 related_article_uids:
-  - coincidim-using-decidim-in-citizen-movements
+  - decide-madrid
   - nature-sdg-in-goteo
   - democratic-funding
 stickers:
