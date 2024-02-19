@@ -21,7 +21,7 @@ cover:
   alt: Esepé, Pink Clouds, 2023
 related_article_uids:
   - katy-rubin
-  - late_legislation
+  - were_open
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
