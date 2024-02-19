@@ -14,6 +14,8 @@ cover:
   alt: Esepé, Leftright and viceversa, 2023
   credits: Esepé, Leftright and viceversa, 2023
   caption: Esepé, Leftright and viceversa, 2023
+related_article_uids:
+  - decide-madrid
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
