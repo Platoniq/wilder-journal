@@ -24,7 +24,6 @@ cover:
 related_article_uids:
   - strategic-planning
   - patricia-lujan
-  - ines-cheniour
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
