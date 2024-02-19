@@ -22,6 +22,7 @@ cover:
   caption: Ésèpe, Carcel Excel, 2023
 related_article_uids:
   - strategic-planning
+  - transformative-narratives
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
