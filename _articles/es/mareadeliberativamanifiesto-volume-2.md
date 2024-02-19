@@ -19,8 +19,7 @@ cover:
   alt: Ésèpe, Bones fire, 2023
   credits: Ésèpe, Bones fire, 2023
   caption: Ésèpe, Bones fire, 2023
-related_article_uids:
-  - storytelling
+related_article_uids: []
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
