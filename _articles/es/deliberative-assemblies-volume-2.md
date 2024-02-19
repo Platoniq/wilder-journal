@@ -23,6 +23,7 @@ cover:
 related_article_uids:
   - dialogos-migrantes
   - expo-desinformación
+  - wikimedia-movement
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
