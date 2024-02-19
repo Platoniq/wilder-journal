@@ -27,6 +27,7 @@ cover:
 related_article_uids:
   - marea-deliberativa-manifiesto-asambleas
   - culture-creativity-and-deliberation-methodologies
+  - strategic-planning
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
