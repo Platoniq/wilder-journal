@@ -24,6 +24,7 @@ cover:
   caption: Olivier Schulbaum
 related_article_uids:
   - neo-sindicalismo
+  - decide-madrid
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
