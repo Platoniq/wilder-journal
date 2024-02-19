@@ -24,7 +24,7 @@ cover:
   credits: Jean-Louis Vidière Ésèpe
   caption: Sticker de Jean-Louis Vidière Ésèpe para Wilder Journal
 related_article_uids:
-  - crowdfunding-cinema
+  - strategic-planning
   - editorial2
 stickers:
   layout: layout-none
