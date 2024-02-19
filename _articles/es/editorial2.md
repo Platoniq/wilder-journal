@@ -25,7 +25,6 @@ cover:
   credits: Jean-Louis Vidière Ésèpe, Blue Planet, 2023
   caption: Jean-Louis Vidière Ésèpe, Blue Planet, 2023
 related_article_uids:
-  - storytelling
   - marea-deliberativa-manifiesto-asambleas
   - culture-creativity-and-deliberation-methodologies
 stickers:
