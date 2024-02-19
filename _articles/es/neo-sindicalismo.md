@@ -26,6 +26,7 @@ cover:
 related_article_uids:
   - strategic-planning
   - storytelling
+  - plan-estrategico
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
