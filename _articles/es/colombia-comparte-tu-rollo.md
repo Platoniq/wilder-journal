@@ -22,6 +22,7 @@ cover:
 related_article_uids:
   - web-dubois-data
   - decide-madrid
+  - marea-deliberativa-manifiesto-asambleas
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
