@@ -26,7 +26,6 @@ cover:
 related_article_uids:
   - editorial2
   - storytelling
-  - plan-estrategico
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
