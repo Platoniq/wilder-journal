@@ -20,7 +20,7 @@ cover:
   credits: Ésèpe, Hamaca, 2023
   caption: Ésèpe, Hamaca, 2023
 related_article_uids:
-  - deliberative-assemblies
+  - web-dubois-data
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
