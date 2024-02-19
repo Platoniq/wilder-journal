@@ -29,7 +29,6 @@ cover:
   credits: .
   caption: .
 related_article_uids:
-  - culture-creativity-and-deliberation-methodologies
   - deliberative-assemblies
 stickers:
   layout: layout-none
