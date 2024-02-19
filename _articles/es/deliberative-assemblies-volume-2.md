@@ -22,6 +22,7 @@ cover:
   caption: Ésèpe, Clouds, 2023
 related_article_uids:
   - dialogos-migrantes
+  - expo-desinformación
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
