@@ -24,6 +24,7 @@ cover:
   caption: Esepé, Globetrotter, 2023
 related_article_uids:
   - dialogos-migrantes
+  - deliberative-assemblies
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
