@@ -22,6 +22,7 @@ cover:
   caption: Ésèpe, Lost in translation, 2023
 related_article_uids:
   - culture-creativity-and-deliberation-methodologies
+  - expo-desinformación
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
