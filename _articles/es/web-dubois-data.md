@@ -21,6 +21,7 @@ cover:
   caption: Ésèpe, Your data, 2023
 related_article_uids:
   - domesticdatastreamers
+  - esepe-danse-macabre
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
