@@ -28,8 +28,7 @@ cover:
   alt: .
   credits: .
   caption: .
-related_article_uids:
-  - deliberative-assemblies
+related_article_uids: []
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
