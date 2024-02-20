@@ -21,7 +21,8 @@ cover:
   alt: "Sticker del Wilder Journal #1 por Alba Feitó"
   credits: Alba Feitó
   caption: "Sticker del Wilder Journal #1"
-related_article_uids: []
+related_article_uids:
+  - transformative-narratives
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
