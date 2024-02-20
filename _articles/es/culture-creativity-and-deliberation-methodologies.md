@@ -22,7 +22,6 @@ cover:
   credits: Alba Feitó
   caption: "Sticker del Wilder Journal #1"
 related_article_uids:
-  - democracy-is-fun
   - arantxa-mendiharat
   - ines-cheniour
 stickers:
