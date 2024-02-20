@@ -23,6 +23,7 @@ cover:
   caption: Ésèpe, Ikea 2, 2023
 related_article_uids:
   - neo-sindicalism-laskellys-manteros-riders-jornaleras
+  - transformative-narratives
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
