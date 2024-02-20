@@ -22,6 +22,7 @@ cover:
 related_article_uids:
   - esepe-danse-macabre
   - editorial2
+  - data-streamers
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
