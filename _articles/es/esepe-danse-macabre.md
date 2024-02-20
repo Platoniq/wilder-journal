@@ -20,6 +20,8 @@ cover:
   alt: Jean-Louis just stop wiggling
   credits: Ésèpe, 2023
   caption: Ésèpe, Jean-Louis just stop wiggling, 2023
+related_article_uids:
+  - data-streamers
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
