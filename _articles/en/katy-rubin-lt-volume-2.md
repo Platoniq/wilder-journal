@@ -24,7 +24,9 @@ cover:
   credits: https://www.katyrubin.com/
   caption: Katy Rubin
 related_article_uids:
-  - be-part-does-a-students-decision-have-the-same-power-as-a-teachers
+  - late_legislation
+  - were_open
+  - editorial2
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
