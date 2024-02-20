@@ -8,9 +8,9 @@ date-updated: 2024-02-15T14:35:37.507Z
 article-order: 10
 uid: decide-madrid
 title: Cómo gamificar la incidencia ciudadana. El caso de Decide Madrid
-description: El presente artículo traslada todos los aprendizajes del caso de la
+description: El presente artículo traslada los aprendizajes del caso de la
   plataforma de crowdfunding cívico Goteo.org a la sección de las Propuestas
-  Ciudadanas de la plataforma Decide Madrid,
+  Ciudadanas de la plataforma Decide Madrid
 author: Susana Noguero
 author_uids: []
 cover:
