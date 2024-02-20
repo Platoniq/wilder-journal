@@ -29,9 +29,7 @@ cover:
   credits: .
   caption: .
 related_article_uids:
-  - storytelling
-  - culture-creativity-and-deliberation-methodologies
-  - deliberative-assemblies
+  - web-dubois-data
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
