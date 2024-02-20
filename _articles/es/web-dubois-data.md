@@ -20,8 +20,8 @@ cover:
   credits: Ésèpe, Your data, 2023
   caption: Ésèpe, Your data, 2023
 related_article_uids:
-  - domesticdatastreamers
   - esepe-danse-macabre
+  - editorial2
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
