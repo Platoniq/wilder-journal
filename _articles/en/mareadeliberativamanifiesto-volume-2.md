@@ -20,9 +20,9 @@ cover:
   caption: Ésèpe, Bones fire, 2023
   alt: Ésèpe, Bones fire, 2023
 related_article_uids:
-  - deliberative-assemblies
-  - web-dubois-data
-  - storytelling
+  - decide-madrid
+  - colombia-comparte-tu-rollo
+  - domesticdatastreamers
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

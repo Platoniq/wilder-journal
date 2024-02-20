@@ -22,7 +22,6 @@ cover:
 related_article_uids:
   - decide-madrid
   - colombia-comparte-tu-rollo
-  - domesticdatastreamers
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
