@@ -23,6 +23,7 @@ cover:
   caption: "Sticker del Wilder Journal #1"
 related_article_uids:
   - transformative-narratives
+  - strategic-planning
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
