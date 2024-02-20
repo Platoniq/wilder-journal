@@ -32,7 +32,7 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/captura-de-pantalla-2024-01-12-a-las-17.13.33.png
 ---
-Si alguna vez has dudado del poder de la comunidad para salvar y transformar los espacios culturales, te presentamos dos iniciativas que están cambiando el panorama del cine en España: [CineCiutat](https://cineciutat.org/es) en Mallorca y el proyecto [Espai Texas ](https://espaitexas.cat/es/)en Barcelona. Estos dos proyectos, impulsados por la comunidad y la participación ciudadana, están redefiniendo el concepto de lo que puede ser un cine.
+**Si alguna vez has dudado del poder de la comunidad para salvar y transformar los espacios culturales, te presentamos dos iniciativas que están cambiando el panorama del cine en España: [CineCiutat](https://cineciutat.org/es) en Mallorca y el proyecto [Espai Texas ](https://espaitexas.cat/es/)en Barcelona.** Estos dos proyectos, impulsados por la comunidad y la participación ciudadana, están redefiniendo el concepto de lo que puede ser un cine.
 
 CineCiutat es el resultado de un movimiento ciudadano que se negó a permitir que su cine local, el Renoir, cerrara sus puertas. Hoy en día, este cine se autogestiona gracias a sus socios, y ofrece mucho más que películas: entre sus programas se encuentran clases de cine, laboratorios y una variedad de eventos. Los miembros de CineCiutat no solo tienen voz y voto en las decisiones del cine, sino que también disfrutan de ventajas como 12 entradas al año, entradas a 4€ y descuentos en ocio. La estructura de la organización es un modelo de democracia participativa, con una Junta Directiva elegida cada dos años por la asamblea de socios y tres círculos de trabajo compuestos por voluntarios miembros de la asociación.
 
