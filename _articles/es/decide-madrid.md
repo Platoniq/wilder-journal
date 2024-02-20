@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-02-15T14:35:24.019Z
 date-updated: 2024-02-15T14:35:37.507Z
-article-order: 10
+article-order: 20
 uid: decide-madrid
 title: Cómo gamificar la incidencia ciudadana. El caso de Decide Madrid
 description: El presente artículo traslada los aprendizajes del caso de la

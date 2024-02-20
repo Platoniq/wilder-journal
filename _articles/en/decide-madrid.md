@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-02-15T14:35:24.019Z
 date-updated: 2024-02-15T14:35:37.507Z
-article-order: 10
+article-order: 20
 uid: decide-madrid
 title: How to gamify citizen advocacy. The case of Decide Madrid
 description: This article transfers the lessons learned from the case of the
