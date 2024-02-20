@@ -22,7 +22,6 @@ cover:
 related_article_uids:
   - katy-rubin
   - were_open
-  - late_legislation
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
