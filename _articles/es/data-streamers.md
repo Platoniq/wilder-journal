@@ -30,8 +30,8 @@ cover:
   caption: .
 related_article_uids:
   - web-dubois-data
-  - esepe-danse-macabre
   - patricia-lujan
+  - decide-madrid
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
