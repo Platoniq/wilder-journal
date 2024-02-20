@@ -20,7 +20,9 @@ cover:
   credits: Ésèpe, Hammock, 2023
   caption: Ésèpe, Hammock, 2023
 related_article_uids:
-  - deliberative-assemblies
+  - web-dubois-data
+  - decide-madrid
+  - marea-deliberativa-manifiesto-asambleas
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
