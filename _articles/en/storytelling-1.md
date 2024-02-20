@@ -52,6 +52,6 @@ The stories were read aloud to those who participated in the workshop. This was 
 
 ## We invite you to read other stories of other projects.
 
-{% file { "title": "Late Legislation", "info": ""The liberating licks of tobacco can only linger for so long..."", "file": "https://journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/late-legislation.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
+{% file { "title": "Late Legislation", "info": "The liberating licks of tobacco can only linger for so long...", "file": "https://journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/late-legislation.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
 
-{% file { "title": "Were open", "info": ""Soft warm and delicate in taste..."", "file": "https://journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/late-legislation2.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
+{% file { "title": "Were open", "info": "Soft warm and delicate in taste...", "file": "https://journal.platoniq.net/es/wilder-journal-2/stories/were_open/", "image": "/media/late-legislation2.png", "button_text": "Leer más", "button_icon": "", "alt_color": true } %}
