@@ -22,8 +22,7 @@ cover:
   credits: Ésèpe, Ikea 2, 2023
   caption: Ésèpe, Ikea 2, 2023
 related_article_uids:
-  - strategic-planning
-  - patricia-lujan
+  - neo-sindicalism-laskellys-manteros-riders-jornaleras
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
