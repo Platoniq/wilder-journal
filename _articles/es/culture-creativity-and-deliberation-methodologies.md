@@ -24,6 +24,7 @@ cover:
 related_article_uids:
   - transformative-narratives
   - strategic-planning
+  - plan-estrategico
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
