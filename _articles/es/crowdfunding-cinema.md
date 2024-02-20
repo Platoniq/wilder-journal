@@ -12,8 +12,7 @@ description: "Presentamos dos iniciativas que están cambiando el panorama del
   cine en España: CineCiutat en Mallorca y el proyecto Espai Texas en Barcelona.
   "
 author: Joan B. Cabot
-author_uids:
-  - joan-cabot
+author_uids: []
 interviewee: Cine Ciutat y Espai Texas
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-01-12-a-las-17.13.33.png
