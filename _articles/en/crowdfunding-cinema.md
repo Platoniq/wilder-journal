@@ -47,7 +47,7 @@ CineCiutat and Espai Texas are living examples of how communities can intervene 
 
 It is true that when we received the proposal, it was at the beginning of 2021, sorry, 2022, and we were still a little bit dragging our feet about Omicrons and Covid. It was practically suicide, but we said whatever, we jumped on the bike and we'll see what happens.
 
-{% quote { "author": "Javier Pachón (CineCiutat)" } %}Nosotros empezamos como plataforma, sin hacer una campaña de crowdfunding, pero es evidente que CineCiutat volvió a nacer a través del crowdfunding.{% endquote %}
+{% quote { "author": "Javier Pachón (CineCiutat)" } %}We started as a platform, without a crowdfunding campaign, but it is clear that CineCiutat was born again through crowdfunding.{% endquote %}
 
 ### FP: They are two quite different initiatives. One has been going on for a decade, the other, although it's a long-standing story, is starting something new. The question would be: what did you get out of the campaign, how did you experience it, what do you think of the impact it could have had?
 
@@ -77,7 +77,7 @@ We started building it at the end of 2019 and launched it on February 12, 2020. 
 
 We have learned stories about Texas from the last hundred years that we were completely unaware of, and this has allowed us to recover the memory of the space. Patronage has helped us do a lot of things, like bringing this space to life and interacting with the people in the area, which is exactly what we wanted to accomplish.
 
-{% quote { "author": "Sem Pons (Espai Texas)" } %}Durante esta campaña, muchos vecinos nos han contado historias sobre el Texas y su larga historia, cosas que no hubiéramos sabido de no ser por esto.{% endquote %}
+{% quote { "author": "Sem Pons (Espai Texas)" } %}During this campaign, many neighbors have told us stories about Texas and its long history, things we would not have known if not for this.{% endquote %}
 
 ### **FP:** It seems that memory is an important issue for you...
 
@@ -89,7 +89,7 @@ We have learned stories about Texas from the last hundred years that we were com
 
 **CC:** Exactly, we carried out the crowdfunding campaign when we had already been working on the project for eight years. It's not only about the financial aspect, but it helped us to reconnect with the project. It's not just about the financial aspect, but it helped us reconnect with the community. Day-to-day life can be difficult, and sometimes you run into obstacles that complicate things. The campaign was very useful for us, as it put us back on the map both externally and internally, revitalizing our relationships with the community.
 
-{% quote { "author": "Javier Pachón (CineCiutat)" } %}Cuando estás en modo micromecenazgo, piensas y haces marketing de manera diferente. Por tanto, creo que abrir el abanico de la fidelización y abrirse al barrio es importante.{% endquote %}
+{% quote { "author": "Javier Pachón (CineCiutat)" } %}When you're in crowdfunding mode, you think and market differently. So, I think opening up the range of loyalty and opening up to the neighborhood is important.{% endquote %}
 
 ### FP: It is interesting that the campaign is not limited to the beginning or to emergency situations. We will now start permanent campaigns, which will last as long as necessary, and periodic contributions to provide ongoing support. We think this is an interesting option. There are various formats that we can explore and adapt to the needs of the project. How would you like to receive contributions from time to time or set up a membership renewal system, for example? What use would you find in this? Would you be interested?
 
@@ -97,7 +97,7 @@ We have learned stories about Texas from the last hundred years that we were com
 
 **CC:** I think the key word, as you said, is loyalty. From what you explain, Goteo's tools, in this case, as tools available to adapt to the needs, seem interesting to me. It is true that, on the one hand, one can think like those people who told you before the campaign that it was one of the nicest things you can do in your life, and that you will not repeat it, because it ends up exhausting. But it is also true that, after a while, when you are calmer, you see the possibilities and the positive aspects of understanding Goteo as a service and a permanent connection that has different resources than the ones you have just as a space. When you are in crowdfunding mode, you think and market differently. Therefore, I think that opening the range of loyalty and opening up to the neighborhood is important.
 
-{% quote { "author": "Javier Pachón (CineCiutat)" } %}Muchas veces, en movimientos asamblearios y participativos, tenemos esta experiencia personal. Venimos de una concepción muy arcaica y primigenia de la participación, que dificulta la evolución de un proyecto.{% endquote %}
+{% quote { "author": "Javier Pachón (CineCiutat)" } %}Many times, in assembly and participatory movements, we have this personal experience. We come from a very archaic and primitive conception of participation, which hinders the evolution of a project.{% endquote %}
 
 ### FP: We know that CineCiutat has a volunteer program. Espai Texas I don't know if they have taken it into account. Cineciutat, which has been around for a while, what strengths they find and difficulties, and to see if Espai Texas would find it interesting to create a network.
 
@@ -111,7 +111,7 @@ There are many people who want to participate and find people with the same valu
 
 **ET:** What kind of society do we want? And that's where we run into Texas. Do you want a society where you have a neighborhood movie theater, without having to travel to a multiplex or watch it on Netflix from home? Do you want a society where you can create community and tell your kids, "Look, there's another way to watch movies, the way I lived when I was your age?" What kind of society do you want? There are many people who have been involved, either with their work, their time or other contributions. Because if we don't put in work, money or something, the society we want won't exist. I think that's essential.
 
-{% quote { "author": "Sem Pons (Espai Texas)" } %}Si tenemos la posibilidad de reunirnos entre varios y promocionar los productos o contenidos que consideremos, el poder al final lo tenemos nosotros.{% endquote %}
+{% quote { "author": "Sem Pons (Espai Texas)" } %}If we have the possibility to get together and promote the products or content that we consider, we have the power at the end of the day.{% endquote %}
 
 ### FP: Can you imagine a YouTube, but open source? A safe space where you can go to watch cultural content, and you don't get cryptobross ads, or denialist ads... What should this space have for you to find it interesting?
 
@@ -127,7 +127,7 @@ One of the social lessons that I think we've learned from the pandemic is that, 
 
 For me there is also a very philosophical part, we would enter into a super political debate, but whose power is it? That is, if we leave the power in the hands of large corporations like YouTube, Netflix, etc., we depend on decisions that affect what we can or cannot consume culturally. We are depriving ourselves. That is to say, we can choose among what we are offered, but if we have the possibility to get together among several and promote the products or content we consider, we have the power in the end. And that, as much as it may seem silly, in the long run we are seeing that it is not, because the algorithms that we always explain are not such a thing. Algorithms are people who make decisions and decide that the crypto-bro or fascist person's content has many more views or is much more recommended than other cultural content that could open perspectives or diversities, that are not taken into account and are more set aside.
 
-{% quote { "author": "Sem Pons (Espai Texas)" } %}¿Quien marca el relato? Al final, o te lo marcan o lo marcas tú, y creo que un espacio cultural es quien tiene que marcar el relato.{% endquote %}
+{% quote { "author": "Sem Pons (Espai Texas)" } %}Who sets the narrative? At the end of the day, either they set it or you set it, and I believe that a cultural space is the one who has to set the story.{% endquote %}
 
 ### FP: Looking at where we are moving forward as a society, the latest cancellations of cultural events due to censorship are worrying. I don't know if within the entity, with your colleagues, you are considering actions or alliances. From our point of view, the only way to stop fascism is in community. We must come together, explain ourselves, help each other, weave networks. This is the only way to solve this kind of problem. One person's problem is everybody's problem. If they are censoring a play that talks about a Republican teacher or a play that talks about eating disorders, they are censoring all of us. If we don't get together, we have it complicated. 
 
