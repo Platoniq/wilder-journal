@@ -22,8 +22,9 @@ cover:
   credits: Ésèpe, Sunglass, 2023
   caption: Ésèpe, Sunglass, 2023
 related_article_uids:
+  - neo-sindicalism-laskellys-manteros-riders-jornaleras
+  - transformative-narratives
   - strategic-planning
-  - patricia-lujan
 stickers:
   layout: layout-one
   sticker_one_animation: animation-glitch
@@ -83,7 +84,7 @@ Examples as Culture Labs and ComparteTuRollo, two projects that combine cultural
 
 [Culture Labs](https://culture-labs.eu/methodology-of-culturelabs/) creates contextualized recipes and ingredients to promote engagement of marginalized communities, investigates and proposes the use of digital platforms for facilitating the access to Cultural Heritage through tailor-made novel experiences, creative reuse, enrichment and co-creation. Generating empathy is the key mediating mechanism to promote social inclusion through storytelling.
 
-[ComparteTuRollo](https://platoniq.net/en/ecreative/p/17/colombia-co-crear-la-memoria-colectiva-del-pais-a-traves-de-500-bibliotecas-publicas-/) is another project that put historical heritage in the center of a participation process to build Colombia's historical memory. As much as for Beuys every human being is an artist, this project welcomed participants as history co-creators, democratizing civic creativity to engage and promote digital inclusion. 
+[ComparteTuRollo](https://journal.platoniq.net/en/wilder-journal-2/deep-dives/colombia-comparte-tu-rollo/) is another project that put historical heritage in the center of a participation process to build Colombia's historical memory. As much as for Beuys every human being is an artist, this project welcomed participants as history co-creators, democratizing civic creativity to engage and promote digital inclusion. 
 
 ## Call to action
 

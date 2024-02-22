@@ -84,7 +84,7 @@ Ejemplo de ello son Culture Labs y ComparteTuRollo, dos proyectos que combinan l
 
 [Culture Labs](https://culture-labs.eu/methodology-of-culturelabs/) crea recetas e ingredientes contextualizados para promover el compromiso de las comunidades marginadas, investiga y propone el uso de plataformas digitales para facilitar el acceso al Patrimonio Cultural a través de experiencias novedosas a medida, reutilización creativa, enriquecimiento y cocreación. Generar empatía es el mecanismo mediador clave para promover la inclusión social a través de la narración.
 
-[ComparteTuRollo](https://platoniq.net/en/ecreative/p/17/colombia-co-crear-la-memoria-colectiva-del-pais-a-traves-de-500-bibliotecas-publicas-/) es otro proyecto que puso el patrimonio histórico en el centro de un proceso de participación para construir la memoria histórica de Colombia. Si bien para Beuys todo ser humano es un artista, este proyecto dio la bienvenida a los participantes como co-creadores de historia, democratizando la creatividad cívica para involucrar y promover la inclusión digital.
+[ComparteTuRollo](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/colombia-comparte-tu-rollo/) es otro proyecto que puso el patrimonio histórico en el centro de un proceso de participación para construir la memoria histórica de Colombia. Si bien para Beuys todo ser humano es un artista, este proyecto dio la bienvenida a los participantes como co-creadores de historia, democratizando la creatividad cívica para involucrar y promover la inclusión digital.
 
 ## Call to action
 
