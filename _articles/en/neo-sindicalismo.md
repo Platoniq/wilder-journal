@@ -25,7 +25,8 @@ cover:
   credits: Jean-Louis Vidière Ésèpe
 related_article_uids:
   - editorial2
-  - decide-madrid
+  - revolutionmindset
+  - democratic-digital-infraestructure
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -56,8 +57,6 @@ Trade unions are associations made up of **workers in defence and promotion of t
 
 With fragmentation comes a proliferation of **non-standard workers**, those who do not meet the parameters of a continuous, stable and full-time working life, i.e. workers in a temporary or part-time relationship, working at a location other than the organisation's headquarters, or subcontracted or self-employed workers who provide services to other companies. The majority of **room maids** belong to this profile, with a **temporariness of 80%** and only 13% of contracts are permanent (Servicio Público de empleo Estatal, 2019).
 
-
-
 {% gallery { "simple": true, "images": [{"path":"/media/cc_2794231_8470390e0f7d45cca45bf9e5b2f64b33_meme_otros_hartisimo_de_todo.jpg","alt":"Hartismo by Las Kellys","credits":"Hartismo by Las Kellys","caption":"Hartismo by Las Kellys"}] } %}
 
 This **temporariness is a source of insecurity**, both personal, social and monetary, and is associated with **exclusion from the collective bargaining process**, with a weakening or elimination of their demands and **loss of protection** of the collective agreement in some cases.
@@ -66,7 +65,7 @@ With outsourcing, **the company subcontracts central positions** of its activity
 
 In addition, the presence of "phantom union delegations" in companies with more than 6 workers makes it even more difficult to represent and defend workers' interests (Dante de La Vega). Many **traditional unions have lost the trust** of women workers due to their **lack of commitment** and the presence of company-friendly candidates, which has led to a **negative perception of their ability to improve the daily reality** of employees.
 
-Of course, this new typology of unions that make visible the oldschool vs \*newschool\* conflict is very present in migrant collectives and new jobs linked to platform capitalism, where international companies employ false freelancers for their core business. Capital has used new technologies to reorganise the production process and often also labour relations. Both industry and services are undergoing a process of profound transformation and even technological disruption. As a consequence, both traditional and new companies such as digital platforms are driving new ultra-flexible and precarious models of work organisation that are currently being fought either by worker cooperatives, such as the riders, or unions such as the Mantero or The Kellys.
+Of course, this new typology of unions that make visible the *oldschool vs newschool* conflict is very present in migrant collectives and **new jobs linked to platform capitalism,** where international companies employ **false freelancers** for their core business. Capital has used new technologies to reorganise the production process and often also labour relations. Both industry and services are undergoing a process of profound transformation and even technological disruption. As a consequence, both traditional and new companies such as digital platforms are driving new ultra-flexible and precarious models of work organisation that are currently being fought either by **worker cooperatives**, such as the **riders**, or unions such as the **Mantero** or **The Kellys.**
 
 In the case of the ***gig economy***, a form of work in which the supplier and the applicant **contact online through digital platforms** for the hiring of sporadic jobs, **digital trade unionism** has reacted by **fighting some of these collaborative platforms in the courts**. **RidersxDerechos** succeeded in getting the 24th social court in Barcelona to rule that **748 Deliveroo delivery drivers** were employees, establishing **in the ruling** the existing employment relationship.
 
@@ -76,7 +75,7 @@ In this sense, **new forms of unconventional organising** have already emerged, 
 * Social networking sites, where powerful digital unionism can be built, given their capacity to spread and convene, and the reputational damage that a viral campaign can inflict on a company.
 * Meeting forums, where new technologies not only allow gig economy workers to **complain and complain**, but also to **share their experiences**, such as the **Turkopticon** search engine, through which Amazon's Mechanical Turk workers, originally independent and disorganised, can discuss their work and evaluate their customers, so that other workers know which ones to avoid.
 * **Digital cooperativism**, where, in the face of the precariousness that prevails in certain labour sectors, digital cooperatives are emerging with their own platforms that put workers and clients in direct contact with each other, thus avoiding the costs of intermediation.
-* On the other hand, the **breakdown of trust in the public administration**, the multiplication of social centres, selfmanaged centres or athenaeums, or the empowerment of many projects in neighbourhoods (consumer cooperatives, the PAH, etc.) have made visible other ways of constructing a **non-state public sphere**. That is to say, a series of projects that look after and promote public interests, but built on the margins, or even "in spite of" the administration (Font, Ojeda, Urbano, 2015).
+* On the other hand, the **breakdown of trust in the public administration**, the multiplication of social centres, selfmanaged centres or athenaeums, or the empowerment of many projects in neighbourhoods (consumer cooperatives, the PAH, etc.) have made visible other ways of constructing a **non-state public sphere**. That is to say, a series of projects that look after and promote public interests, but built on the margins, or even "in spite of" the administration ([Font, Ojeda, Urbano, 2015](https://nativa.cat/2015/03/la-gestio-comunitaria-dins-leconomia-social-i-solidaria/)).
 
 ## Story of now: How do we answer this question?
 
@@ -90,7 +89,7 @@ We also have inspiring examples of **unionism for a dignified life**, such as th
 
 As an example of **platform cooperativism** we have **[Mensakas](https://www.goteo.org/project/mensakas)**, a worker cooperative dedicated to **urban messaging and delivery** with bicycles and cargo-bikes, which flees from the "**uberisation of the economy**" and has as its main objective **caring for people's rights**. An experience of collectivisation, **economic sovereignty and workers' control** of economic activity that emerges from the struggles of **digital workers**.
 
-As an example of **self-organisation**, the social centre *[La Villana de Vallekas](https://www.goteo.org/project/la-villana-de-vallekas-un-centro-social-para-el-ba)*, funded in 2023, also defines itself as a **neighbourhood union**: "We like to imagine ourselves as neighbourhood unions, a **mix between social unionism** (housing, health, education, labour, food) on a neighbourhood scale, capable of aggregating and **mobilising people and needs to reach higher levels of self-organisation**. Our form of organisation is **assembly**, the assembly as a place of representation, organisation, decision-making, respect for collective, horizontal and cooperative work".
+As an example of **self-organisation**, the social centre ***[La Villana de Vallekas](https://www.goteo.org/project/la-villana-de-vallekas-un-centro-social-para-el-ba)***, funded in 2023, also defines itself as a **neighbourhood union**: "We like to imagine ourselves as neighbourhood unions, a **mix between social unionism** (housing, health, education, labour, food) on a neighbourhood scale, capable of aggregating and **mobilising people and needs to reach higher levels of self-organisation**. Our form of organisation is **assembly**, the assembly as a place of representation, organisation, decision-making, respect for collective, horizontal and cooperative work".
 
 ### A trade union for the Citizens' Assemblies?
 
@@ -99,10 +98,3 @@ Neo-Syndicalism aligns with our vision of **promoting deliberative processes tha
 **Could we bring neo-unionism to deliberative democracy?** Can you imagine creating a **union of the people selected to deliberate** in the Citizens' Assemblies? Such a citizens' platform could **vigilate for the Assembly's mandates** and **put pressure on governments** not to turn a deaf ear and fulfil their obligation to **implement the recommendations** proposed bythe citizens' group drawn by lot. 
 
 **Let's keep imagining and let's get down to work to make it happen. Are you in?**
-
-## References
-
-1. M﻿arie, Ann. 2015: "[Mapping 'Below the Radar' Organizations in Crowdfunding platforms, with Maria Botella of European Alternatives](https://fundacion.goteo.org/blog/mapping-below-the-radar-organizations-in-crowdfunding-platforms-with-maria-botella-of-european-alternatives)".
-2. C﻿abot, Joan B. 2021: "[Bienvenidas al neo-sindicalismo de Las Kellys, Jornaleras, Manteros, Mensakas...](https://fundacion.goteo.org/blog/nuevos-sindicatos-las-kellys-manteros-riders-jornaleras)"
-3. G﻿arcía, David. 2021:" [Las Kellys recuperan la tradición obrera de 'label' sindical](https://www.nortes.me/2021/07/31/las-kellys-recuperan-la-tradicion-obrera-del-label-sindical/comment-page-1/)"
-4. Font, Ojeda, Urbano. 2015: "[La gestió comunitària dins l'economia social i solidària](https://nativa.cat/2015/03/la-gestio-comunitaria-dins-leconomia-social-i-solidaria/)"
