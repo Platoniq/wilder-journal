@@ -24,9 +24,9 @@ cover:
   credits: Jean-Louis Vidière Ésèpe, Exploding Head, 2023
   caption: Jean-Louis Vidière Ésèpe, Exploding Head, 2023
 related_article_uids:
-  - storytelling
   - marea-deliberativa-manifiesto-asambleas
   - culture-creativity-and-deliberation-methodologies
+  - strategic-planning
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
