@@ -19,6 +19,7 @@ cover:
   caption: Late Legislation poem, by Chimwemwe Chirwa
 related_article_uids:
   - katy-rubin
+  - were_open
   - revolutionmindset
 stickers:
   layout: layout-none
