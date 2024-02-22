@@ -18,8 +18,9 @@ cover:
   credits: Mindset Revolution
   caption: Were Open poem, by Chimwemwe Chirwa
 related_article_uids:
-  - revolutionmindset
   - katy-rubin
+  - late_legislation
+  - revolutionmindset
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
