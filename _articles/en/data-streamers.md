@@ -20,18 +20,18 @@ description: Pau Garcia is a researcher in the areas of new media technology and
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
-interviewee: Pau García
+interviewee: Axel Gasulla
 cover:
-  path: /media/articles/heroes/paugarcia.jpeg
-  mobile: /media/articles/mobile/captura-de-pantalla-2023-08-31-a-les-13.13.19.png
-  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2023-08-31-a-les-13.13.19.png
+  path: /media/articles/heroes/axel_gasulla-400x400.jpg
+  mobile: /media/articles/mobile/axel_gasulla-400x400.jpg
+  thumbnail: /media/articles/thumbnails/axel_gasulla-400x400.jpg
   alt: .
   credits: .
   caption: .
 related_article_uids:
   - web-dubois-data
-  - esepe-danse-macabre
   - patricia-lujan
+  - decide-madrid
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
