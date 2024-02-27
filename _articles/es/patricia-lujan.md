@@ -107,3 +107,5 @@ En EEUU hace años nació una iniciativa llamada Truth (Verdad) contra las grand
 The School of Feminist lo ha vuelto a hacer, esta es la campaña para el 8M encargada por el Ayuntamiento de Barcelona. Power to the girls!!
 
 media/posts-ceo.mp4
+
+![](/media/posts-ceo.gif)
