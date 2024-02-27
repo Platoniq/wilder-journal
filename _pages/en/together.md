@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 uid: together
 title: What do we do? Our services
 description: At Platoniq we're delighted to find new partnerships and

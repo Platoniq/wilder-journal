@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 uid: together
 title: ¿Qué hacemos? Nuestros servicios
 description: En Platoniq nos encanta encontrar nuevas alianzas y colaboraciones,
