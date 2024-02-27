@@ -106,6 +106,6 @@ En EEUU hace años nació una iniciativa llamada Truth (Verdad) contra las grand
 
 ¡**The School of Feminist** lo ha vuelto a hacer! 
 
-Bajo el lema #RompamosElTechodeCristal la campaña de este año reivindica el papel de las mujeres en los puestos de dirección de empresas, laboratorios de investigación, proyectos tecnológicos y universidades. 
+Bajo el lema #RompamosElTechodeCristal la campaña de este año para el #8M reivindica el papel de las mujeres en los puestos de dirección de empresas, laboratorios de investigación, proyectos tecnológicos y universidades. 
 
 ![](/media/posts-ceo.gif)
