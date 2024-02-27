@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/articles/social/captura-de-pantalla-2023-08-31-a-les-13.13.19.png
+  path: /media/articles/social/axel_gasulla-400x400.jpg
 ---
 **Axel Gasulla** es investigador en las áreas de tecnología nueva de medios y lenguajes de datos. Cofundador y director de investigación de [Domestic Data Streamers](https://domesticstreamers.com/about/), dirige los proyectos de investigación social aplicada en el campo de la comunicación, innovación y desarrollo organizacional. En diálogo con **Olivier Schulbaum**, de **Platoniq**, conversamos sobre su proyecto y cómo los datos son esenciales, pero por sí solos no son suficientes. En esta entrevista veremos cómo cualquier intercambio significativo de información entre personas necesita conllevar emociones y experiencias para crear conocimiento o cambio.
 

@@ -38,7 +38,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/articles/social/captura-de-pantalla-2023-08-31-a-les-13.13.19.png
+  path: /media/articles/social/axel_gasulla-400x400.jpg
 ---
 **Pau García** is a researcher in the areas of new media technology and data languages. He has worked on projects for the REcall European Conflict Archeological Landscape Reappropriation in Berlin and Norway, and on research and design projects in Spain, France, Italy and Germany. In dialogue with **Olivier Shculbaum**, from **Platoniq**, we talke about the project Pau leads, **[Domestic Data Streamers](https://domesticstreamers.com/about/)**, and how data is essential, but not enough on its own. In this interview we look at how any meaningful exchange of information between people needs to involve emotions and experiences to create knowledge or change.
 
