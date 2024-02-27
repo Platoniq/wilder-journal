@@ -102,10 +102,10 @@ Hay mucha gente haciendo cosas desde lo profundo. Como asociación, como platafo
 
 En EEUU hace años nació una iniciativa llamada Truth (Verdad) contra las grandes empresas tabacaleras. Esta gente lanza campañas muy potentes como podría hacer cualquier gran marca con una gran inversión. Contaban las maldades de toda la industria tabacalera. Usaron las herramientas del marketing y pusieron anuncios de TV en prime time que llegaban a un montón de personas con un mensaje que todo el mundo podía entender y que incluso se querrían de slogan en la camiseta. Para mí es toda una referencia en el mundo del activismo; conseguir desde un grupo importante de personas que haya un cambio. Así se consiguieron cambios en la legislación en cuanto al tabaco. Me parece maravillosa esa mezcla. Esto, debo decir, Platoniq siempre lo ha hecho muy bien.
 
-\[Actualización]
+*\[Actualización]*
 
-The School of Feminist lo ha vuelto a hacer, esta es la campaña para el 8M encargada por el Ayuntamiento de Barcelona. Power to the girls!!
+¡**The School of Feminist** lo ha vuelto a hacer! 
 
-media/posts-ceo.mp4
+Bajo el lema #RompamosElTechodeCristal la campaña de este año reivindica el papel de las mujeres en los puestos de dirección de empresas, laboratorios de investigación, proyectos tecnológicos y universidades. 
 
 ![](/media/posts-ceo.gif)
