@@ -42,7 +42,7 @@ image:
 
 **A.-** Los datos cuentan cosas que se han contado numéricamente. Una base de datos es un conteo que puede ser cuántas mesas hay en una casa, cuántos kilómetros has recorrido… y sobre eso no hay mucha discusión. La empatía empieza cuando se visualiza ese conteo y nos preguntamos por qué se ha contado eso.  
 
-{% quote { "author": "Pau García" } %}El dato nos toca a todos por igual, pero el “por qué” es donde hay un relato. Ahí es donde podemos conseguir que una persona pueda girar el relato y moverse “de un hemisferio al otro” a través de una historia{% endquote %}
+{% quote { "author": "Axel Gasulla" } %}El dato nos toca a todos por igual, pero el “por qué” es donde hay un relato. Ahí es donde podemos conseguir que una persona pueda girar el relato y moverse “de un hemisferio al otro” a través de una historia{% endquote %}
 
 ¿Por qué es importante para ti o para mí?  Cada cual puede pasarse el día contando cuánto dinero tiene en la cuenta bancaria, un día lo comparamos y empezamos a hablar de ello: “oye, pero, ¿por qué es importante para ti?; ¿Tú qué has tenido que hacer para llegar aquí?”; “¿Yo qué he tenido que hacer para llegar aquí?”. Ahí quizás alguien dice, “no, mira, yo para llegar a tener mil euros en mi cuenta, pues he trabajado bajo condiciones de esclavitud y precarias donde no me han dado seguridad social, dedicando el tiempo de mi vida a todo esto”. Y alguien dice, “ah, pues yo para tener mil euros en mi cuenta, sólo he tenido que pedírselos a mis padres”. Ahí el dato de esos mil euros son relevantes porque te puede abrir a este espacio de diálogo. Y yo creo que ahí está la gracia: el dato nos toca a todos por igual, pero el “por qué” es donde hay un relato. Ahí es donde podemos conseguir que una persona pueda girar el relato y moverse “de un hemisferio al otro” a través de una historia, así como hacer que quién está en el otro lado pueda venir al anterior. Nos interesa ese gran potencial de crear diálogos entre distintos grupos de seres humanos cuya tendencia es a aislarse unos de otros, superando las historias que nos separan. 
 
@@ -64,7 +64,7 @@ Ahí es donde entendemos que se va escribiendo una historia entre el contexto, e
 
 **A.-** ¡Pues sí! Sería una prueba experimental para comprobar si la idea que tenemos de crear un espacio en el que los visitantes puedan dejar su huella es así viable. En este ejemplo, imagino que podríamos tener un espacio para grafitis y otro para poesía. 
 
-{% quote { "author": "Pau García" } %}Un fenómeno bastante interesante es el de “legado”: cuando en una exposición tratamos al visitante con respeto y como un agente inteligente, llegado el momento de interacción el visitante está a la altura de ese trato en sus acciones{% endquote %}
+{% quote { "author": "Axel Gasulla" } %}Un fenómeno bastante interesante es el de “legado”: cuando en una exposición tratamos al visitante con respeto y como un agente inteligente, llegado el momento de interacción el visitante está a la altura de ese trato en sus acciones{% endquote %}
 
 ### **O.- En cuanto a la cultura de los grafitis eres tan consciente de que dejas un rastro como de que ese rastro puede ser borrado por otros. Así a veces se produce una lucha entre visitantes, entre distintos artistas, donde unos cubren el rastro de otros. ¿Habéis notado tensiones parecidas entre visitantes en vuestras acciones?**
 
@@ -90,7 +90,7 @@ Primero, porque los seres humanos podemos conseguir no ser estúpidos. Y segundo
 
 **A.-**  Me gusta Explorar, Sorprender y Empatizar.
 
-{% quote { "author": "Pau García" } %}Algo que me gusta mucho es generar vértigo: que nuestro relatos e historias generen vértigo con esa sensación inconmensurable de la información como una historia inabarcable{% endquote %}
+{% quote { "author": "Axel Gasulla" } %}Algo que me gusta mucho es generar vértigo: que nuestro relatos e historias generen vértigo con esa sensación inconmensurable de la información como una historia inabarcable{% endquote %}
 
 ### **O.-  Me da la impresión que vuestras acciones comparten mucho de los placeres de trabajo con la materia prima de datos. Crear una cultura alrededor de esto invitando al espectador a participar también, a decidirse a “pintar” él también. ¿Cómo ves la idea de compartir esa obsesión y placer con los datos para que se pueda crear una cultura alrededor de esto?**
 
@@ -110,7 +110,7 @@ Este “frame effect” sería uno de los principales. Otro es el que se produce
 
 **A.-** Oxfam siempre había tenido una narrativa desde la desigualdad, por lo que teníamos un reto que era no numerificar la pobreza. No es lo mismo contar la pobreza que contar la pobreza. No es lo mismo indicar cuántos pobres hay que contar una historia sobre la pobreza.  Seguramente empatizas mucho más con la segunda que con la primera.
 
-{% quote { "author": "Pau García" } %}La gente no escucha una narrativa que le hace sentir mal, pero en cambio si se articula una narrativa en la que tú comprendes que estás perdiendo privilegios… ahí vas a empezar a escuchar{% endquote %}
+{% quote { "author": "Axel Gasulla" } %}La gente no escucha una narrativa que le hace sentir mal, pero en cambio si se articula una narrativa en la que tú comprendes que estás perdiendo privilegios… ahí vas a empezar a escuchar{% endquote %}
 
 La gente no escucha una narrativa que le hace sentir mal, pero en cambio si se articula una narrativa en la que tú comprendes que estás perdiendo privilegios… ahí vas a empezar a escuchar. Y te digo, “esto te afecta”.  No te voy a hablar de unas personas que viven en la pobreza que en principio no tienen nada que ver contigo. No. Yo te voy a decir que la pobreza empieza desde el más privilegiado y ahí empieza a ir restando.
 
