@@ -33,11 +33,11 @@ call_to_action: cta-newsletter
 image:
   path: /media/articles/social/exploding_head.png
 ---
-Hoy se presenta el manifiesto “Ampliando la Democracia”, que alerta de la debilidad de nuestro sistema democrático y propone 7 medidas concretas para atajar esta crisis. 
+Hoy se presenta el manifiesto **“Ampliando la Democracia”,** que alerta de la debilidad de nuestro sistema democrático y propone 7 medidas concretas para atajar esta crisis. 
 
 **La democracia es algo que va más allá de las urnas,** pero a España le está costando subirse a la ola deliberativa que recorre Europa y buena parte de las democracias occidentales. En este manifiesto se propone al Congreso de los Diputados impulsar una asamblea que opere como una 'Oficina Ciudadana' para proporcionar a los diputados recomendaciones sobre dilemas políticos complejos, tal y como ya han hecho los parlamentos de Alemania, Irlanda, Bélgica o el Parlamento Europeo. 
 
-Las entidades promotoras consideran que esta es la mejor receta para combatir algunos de los males que aquejan a nuestras democracias, como **la falta de confianza en el sistema político, la polarización y la desinformación.**
+Las entidades promotoras consideran que esta es la mejor receta para combatir algunos de los males que aquejan a nuestras democracias, **como la falta de confianza en el sistema político, la polarización y la desinformación.**
 
 Las **siete propuestas fundamentales** que recoge la iniciativa son:
 
@@ -61,7 +61,7 @@ Con ello conseguiremos una mayor participación y compromiso de las participante
 
 ¿Qué opinas? ¿Te ves reflejada en las medidas que se proponen? ¿Tienes alguna idea para mejorarlas? **Cuéntanos tu opinión y ampliemos entre todas la democracia.**
 
-Si quieres adherirte individual o colectivamente a este manifiesto, puedes hacerlo en este enlace.
+**Si quieres adherirte individual o colectivamente** a este manifiesto, puedes hacerlo en este enlace.
 
 Los firmantes actuales individuales y colectivos pueden consultarse aquí.
 
