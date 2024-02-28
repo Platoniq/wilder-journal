@@ -10,7 +10,7 @@ uid: democracy-manifesto
 cover:
   path: /media/articles/heroes/exploding_head.png
   mobile: /media/articles/mobile/exploding_head.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/exploding_head.png
 related_article_uids:
   - marea-deliberativa-manifiesto-asambleas
   - culture-creativity-and-deliberation-methodologies

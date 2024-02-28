@@ -17,7 +17,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/exploding_head.png
   mobile: /media/articles/mobile/exploding_head.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/exploding_head.png
   alt: Esepe, Exploding Head, 2023
   credits: Esepe, Exploding Head, 2023
   caption: Esepe, Exploding Head, 2023
