@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-02-28T18:14:42.046Z
 date-updated: 2024-02-28T18:14:42.047Z
-article-order: 5
+article-order: 3
 uid: democracy-manifesto
 title: "Ampliar la democracia: un reto común y necesario"
 description: "Hoy se presenta el manifiesto “Ampliando la Democracia”, que
