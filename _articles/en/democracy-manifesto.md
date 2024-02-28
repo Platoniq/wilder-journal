@@ -8,7 +8,7 @@ date-updated: 2024-02-28T18:14:42.047Z
 article-order: 5
 uid: democracy-manifesto
 cover:
-  path: /media/articles/heroes/exploding_head.jpg
+  path: /media/articles/heroes/exploding_head.png
   mobile: /media/articles/mobile/exploding_head.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:

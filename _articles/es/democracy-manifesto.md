@@ -15,7 +15,7 @@ author: Fundación Platoniq
 author_uids:
   - platoniq
 cover:
-  path: /media/articles/heroes/exploding_head.jpg
+  path: /media/articles/heroes/exploding_head.png
   mobile: /media/articles/mobile/exploding_head.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Esepe, Exploding Head, 2023
