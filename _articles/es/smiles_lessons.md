@@ -41,7 +41,7 @@ Los jóvenes y adolescentes [reciben](https://www.commonsensemedia.org/sites/def
 
 Es más, ¿cómo hacerlo con personas que están desarrollando sus habilidades para distinguir críticamente la información de la mera opinión, y hacerlo con un enfoque orientado al respeto y la justicia social?
 
-Fruto de la residencia en el Canódromo, Ateneo de innovación digital y democrática, hemos desarrollado en formato expositivo los resultados del proyecto de alfabetización mediática [SMILES](https://smiles.platoniq.net/) (Jóvenes contra la desinformación), el cual reúne a entidades de los Países Bajos, España y Bélgica donde se incluyen bibliotecas, organizaciones de alfabetización mediática e institutos de investigación, con el objetivo de desarrollar, probar y monitorear la efectividad de un enfoque educativo innovador para combatir la propagación de la desinformación.
+Fruto de la residencia en el Canódromo, Ateneo de innovación digital y democrática, y gracias a la colaboración del Ayuntamiento de Barcelona, hemos desarrollado en formato expositivo los resultados del proyecto de alfabetización mediática [SMILES](https://smiles.platoniq.net/) (Jóvenes contra la desinformación), el cual reúne a entidades de los Países Bajos, España y Bélgica donde se incluyen bibliotecas, organizaciones de alfabetización mediática e institutos de investigación, con el objetivo de desarrollar, probar y monitorear la efectividad de un enfoque educativo innovador para combatir la propagación de la desinformación.
 
 ![](/media/captura-de-pantalla-2024-02-15-a-las-16.21.02.png)
 

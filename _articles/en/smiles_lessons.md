@@ -24,7 +24,6 @@ cover:
 related_article_uids:
   - deliberative-assemblies
   - wikimedia-movement
-  - Restoration-Toolbox
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -37,11 +36,11 @@ In the "City of disinformation" you never know what is true and what is a lie. T
 
 Young people and adolescents [receive](https://www.commonsensemedia.org/sites/default/files/research/report/2023-cs-smartphone-research-report_final-for-web.pdf) some 237 notifications a day, 41% of which are the result of their use of social networks. In addition, instant messaging, online games and, to a much lesser extent, e-mailing and video or audio streaming platforms. On average, kids spend between 4 and 5 hours in front of their phones. **It is not surprising then that, in such a hyper-communicated environment, the chances of one of these youngsters sharing a piece of news and it being received on thousands of devices in a matter of seconds without validating its veracity is highly probable.** In fact, according to a [Reuters](https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2022) poll, almost 30% of the EU population said they have been exposed to fake news or misinformation often or very often. 
 
-## **How to combat this phenomenon?** 
+## **How to combat this phenomenon?**
 
 Moreover, how to do so with people who are developing their skills to critically distinguish information from mere opinion, and to do so with a focus on respect and social justice?
 
-As a result of the residency at the Canodrome, an athenaeum for digital and democratic innovation, the Platoniq Foundation has developed in exhibition format the results of the media literacy project [SMILES](https://smiles.platoniq.net/) (Youth against disinformation), which brings together entities from the Netherlands, Spain and Belgium including libraries, media literacy organizations and research institutes, with the aim of developing, testing and monitoring the effectiveness of an innovative educational approach to combat the spread of disinformation.
+As a result of the residency at the Canodrome, an athenaeum for digital and democratic innovation, and with the support of the Barcelona City Council, the Platoniq Foundation has developed in exhibition format the results of the media literacy project [SMILES](https://smiles.platoniq.net/) (Youth against disinformation), which brings together entities from the Netherlands, Spain and Belgium including libraries, media literacy organizations and research institutes, with the aim of developing, testing and monitoring the effectiveness of an innovative educational approach to combat the spread of disinformation.
 
 {% gallery { "simple": false, "images": [{"path":"/media/ciutat_desinformacio_dates_ampliades.png","alt":"\"Ciutat de la Desinformació\", 2023","caption":"\"Ciutat de la Desinformació\", 2023","credits":"\"Ciutat de la Desinformació\", 2023"}] } %}
 
