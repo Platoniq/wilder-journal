@@ -7,7 +7,7 @@ date: 2024-02-28T18:14:42.046Z
 date-updated: 2024-02-28T18:14:42.047Z
 article-order: 3
 uid: democracy-manifesto
-title: "Ampliar la democracia: un reto común y necesario"
+title: Subirse a la ola deliberativa para ampliar la democracia
 description: "Hoy se presenta el manifiesto “Ampliando la Democracia”, que
   alerta de la debilidad de nuestro sistema democrático y propone 7 medidas
   concretas para atajar esta crisis. "
