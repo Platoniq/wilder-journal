@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: futures
 published: false
-date: 2024-02-28T18:14:42.046Z
-date-updated: 2024-02-28T18:14:42.047Z
+date: 2024-03-28T18:14:00.000Z
+date-updated: 2024-03-28T18:14:00.000Z
 article-order: 3
 uid: democracy-manifesto
 title: Subirse a la ola deliberativa para ampliar la democracia
