@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/exploding_head.png
 ---
 Hoy se presenta el manifiesto “Ampliando la Democracia”, que alerta de la debilidad de nuestro sistema democrático y propone 7 medidas concretas para atajar esta crisis. 
 
