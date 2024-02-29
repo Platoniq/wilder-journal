@@ -9,11 +9,15 @@ article-order: 3
 uid: democracy-manifesto
 cover:
   path: /media/articles/heroes/exploding_head.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/exploding_head.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Esepe, Exploding Head, 2023
   credits: Esepe, Exploding Head, 2023
   caption: Esepe, Exploding Head, 2023
+related_article_uids:
+  - marea-deliberativa-manifiesto-asambleas
+  - culture-creativity-and-deliberation-methodologies
+  - patricia-lujan
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

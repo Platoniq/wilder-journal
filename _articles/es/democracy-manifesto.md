@@ -16,7 +16,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/exploding_head.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/exploding_head.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Esepe, Exploding Head, 2023
   credits: Esepe, Exploding Head, 2023
