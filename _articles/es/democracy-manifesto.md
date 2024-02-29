@@ -49,7 +49,7 @@ Las **siete propuestas** que recoge la iniciativa son:
 6. Regular la actividad de los grupos de interés para reducir los riesgos de fraude, corrupción y conflictos de intereses
 7. Promover una ciudadanía activa e implicada en el sistema democrático, comenzando desde la infancia y la juventud.
 
-**¿Por qué nos adherimos a [este manifiesto](https://ampliandodemocracia.org/manifiesto-por-la-ampliacion-de-la-democracia/)?**
+### **¿Por qué nos adherimos a [este manifiesto](https://ampliandodemocracia.org/manifiesto-por-la-ampliacion-de-la-democracia/)?**
 
 Desde Platoniq llevamos más de 20 años **impulsando procesos participativos digitales y facilitando metodologías innovadoras de participación para contribuir a formar sociedades y organizaciones más democráticas, haciendo uso de tecnologías cívicas abiertas.** Es por ello que no podíamos dejar de apoyar las siete reivindicaciones que plantea este Manifiesto.
 
@@ -59,7 +59,7 @@ Con ello conseguiremos una mayor participación y compromiso de las participante
 
 Por ello, [te invitamos a que lo leas](https://ampliandodemocracia.org/manifiesto-por-la-ampliacion-de-la-democracia/), compartas tus opiniones y lo difundas entre tu comunidad. Sólo así conseguiremos pasar del papel a la acción, o lo que es lo mismo en este caso, de la política institucional a la responsabilidad ciudadana.
 
-**Llamada a la acción**
+### **Llamada a la acción**
 
 ¿Qué opinas? ¿Te ves reflejada en las medidas que se proponen? **¿Tienes alguna idea para mejorarlas?** Cuéntanos tu opinión y ampliemos entre todas la democracia.
 
@@ -67,4 +67,4 @@ Si quieres adherirte **individual o colectivamente** a este manifiesto, puedes h
 
 Los firmantes actuales individuales y colectivos pueden consultarse [aquí.](https://docs.google.com/document/d/1bthN4p7DxwiUms6gUQ4V4AvGnWUqn17m/edit?rtpof=true&sd=true)
 
-Organizaciones adheridas al Manifiesto: Cámara Cívica, Cátedra José María Martín Patino de la Cultura del Encuentro, CECU, Coglobal, Consejo de la Juventud de España, Cooperativa Raons Públiques, Deliberativa, Demos Lab, Fundación Platoniq, DigitalFems, Equipo Europa, Fakali, Hay Derecho, Hexagonal, Ideas en Guerra, Komons, Marea Deliberativa, Más Democracia, NovaGob, Osoigo, Oxfam Intermón, Plataforma de Infancia, Political Watch, PorCausa, Red Académica de Gobierno Abierto, Secretariado Gitano, Talento para el Futuro, Transparencia Internacional España.
+**Organizaciones adheridas al Manifiesto:** Cámara Cívica, Cátedra José María Martín Patino de la Cultura del Encuentro, CECU, Coglobal, Consejo de la Juventud de España, Cooperativa Raons Públiques, Deliberativa, Demos Lab, Fundación Platoniq, DigitalFems, Equipo Europa, Fakali, Hay Derecho, Hexagonal, Ideas en Guerra, Komons, Marea Deliberativa, Más Democracia, NovaGob, Osoigo, Oxfam Intermón, Plataforma de Infancia, Political Watch, PorCausa, Red Académica de Gobierno Abierto, Secretariado Gitano, Talento para el Futuro, Transparencia Internacional España.
