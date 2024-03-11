@@ -54,6 +54,8 @@ Why is it important for you or for me?  Everyone can spend the whole day countin
 
 **A.-** You see, the initial idea was to give a closer, more human and warm vision to an activity that is usually quite cold, such as data communication. To look for that parallelism with a familiar, intimate environment would help us to create much more complete information experiences. 
 
+![](/media/dds-lifeline.jpg "Lifeline (2014)")
+
 ### O.- Interesting, is there any specific strategy you have in place to ensure that this space is recognized as your own and at the same time shared?
 
 A.- Well, there are certain elements that generate a link between the message to be transmitted and the concepts that you can understand because they are close to your usual knowledge space. When generating an experience whether in the exhibition, digital or public framework, we ask questions and include elements of participation or co-creation. It can be an artistic representation in which the aesthetics itself is already generating an attraction or a cognitive tension that helps you to understand information in more depth.
@@ -73,6 +75,8 @@ That is where we understand that a story is written between the context, the spa
 ### O.- In terms of graffiti culture you are as aware that you leave a trace as you are that this trace can be erased by others. So sometimes there is a struggle between visitors, between different artists, where some cover the traces of others. Have you noticed similar tensions between visitors in your actions?
 
 **A.-** In open exhibition spaces you find everything. An interesting phenomenon is that of "legacy": when in an exhibition we treat the visitor with respect and as an intelligent agent, when the moment of interaction arrives, the visitor lives up to this treatment in his or her actions. Society only behaves childishly when you treat it as such. In social networks the interaction is different because it is anonymous, but when you are in a physical and closed space, people behave in a more civic way. There are always exceptions, but in general people respond positively and leave their mark in a constructive way.
+
+![](/media/captura-de-pantalla-2024-03-11-a-las-16.24.43.png "The world pulse (2018)")
 
 ### O.- In terms of iconic places, not necessarily institutional, what might be the one that has worked best for your visualisations? Any particularly outlandish places?
 
@@ -109,6 +113,8 @@ This "frame effect" would be one of the main ones. Another one is when we are mo
 ### O.- Great. Do you think a lot of politicians use these effects as well?
 
 **A.-** Yes, that's very well proven. Daniel Kahneman (psychologist and economist specialising in decision making and the psychology of judgement and uncertainty, being especially known for his work in collaboration with Amos Tversky on prospect theory and cognitive biases) was awarded a Nobel Prize in Economics for his studies and they are known to be used in politics.
+
+![](/media/captura-de-pantalla-2024-03-11-a-las-16.28.18.png "730 hours of Violence (2018)")
 
 ### O.- Earlier we discussed how sometimes data does not reveal the privilege of some parties involved. With this in mind, I would like to address the project "The Privilege of Choice" that you have worked on together with Oxfam. According to the information available on domesticstreamers.com/projects/the-privilege-of-choice/, this project uses an interactive installation to raise awareness of inequalities and privilege. Could you elaborate on how this tool combines data and visual experiences to communicate disparities in access to opportunities and how it has impacted on awareness and understanding of inequalities and privilege in different settings?
 

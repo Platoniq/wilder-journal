@@ -50,6 +50,8 @@ image:
 
 **A.-** Verás, la idea inicial fue darle una visión más cercana, humana y cálida a una actividad comúnmente bastante fría, como es la comunicación de datos. Buscar ese paralelismo con un entorno conocido, íntimo, nos ayudaría a crear experiencias de información mucho más completas. 
 
+![](/media/dds-lifeline.jpg "Lifeline (2014)")
+
 ### **O.- Interesante. ¿Alguna estrategia concreta que llevéis a cabo para que se reconozca ese espacio como propio y a la vez compartido?**
 
 **A.-**  Pues mira, hay ciertos elementos que generan un enlace entre el mensaje que se quiere transmitir y los conceptos que tú puedes entender porque están cerca de tu espacio de conocimiento habitual. Al generar una experiencia ya sea en el marco expositivo, digital o público, hacemos preguntas e incluimos elementos de participación o cocreación. Puede ser una representación artística en la que la estética en sí ya está generando una atracción o una tensión cognitiva que te ayuda a  comprender una información más en profundidad.
@@ -69,6 +71,8 @@ Ahí es donde entendemos que se va escribiendo una historia entre el contexto, e
 ### **O.- En cuanto a la cultura de los grafitis eres tan consciente de que dejas un rastro como de que ese rastro puede ser borrado por otros. Así a veces se produce una lucha entre visitantes, entre distintos artistas, donde unos cubren el rastro de otros. ¿Habéis notado tensiones parecidas entre visitantes en vuestras acciones?**
 
 **A.-** En espacios expositivos abiertos encuentras de todo. Un fenómeno bastante interesante es el de “legado”: cuando en una exposición tratamos al visitante con respeto y como un agente inteligente, llegado el momento de interacción el visitante está a la altura de ese trato en sus acciones. La sociedad sólo se comporta de manera infantil cuando la tratas como tal. En redes sociales la interacción es diferente porque es anónima, pero cuando estás en un espacio físico y cerrado, la gente se comporta de forma más cívica. Siempre hay excepciones, pero en general la gente responde de manera positiva y deja su huella de forma constructiva.
+
+![](/media/captura-de-pantalla-2024-03-11-a-las-16.24.43.png "The world pulse (2018)")
 
 ### **O.- En cuanto a lugares emblemáticos, no necesariamente institucionales, ¿cuál podría ser el que mejor ha funcionado para vuestras visualizaciones? ¿Algún lugar especialmente estrambótico?**
 
@@ -105,6 +109,8 @@ Este “frame effect” sería uno de los principales. Otro es el que se produce
 ### **O.- Genial. ¿Crees que muchos políticos usan estos efectos también?**
 
 **A.-** Sí, eso está muy comprobado. A Daniel Kahneman (psicólogo y economista especializado en la toma de decisiones y la psicología del juicio y la incertidumbre, siendo especialmente conocido por su trabajo en colaboración con Amos Tversky sobre la teoría de las perspectivas y los sesgos cognitivos) le dieron un premio Nobel de Economía por sus estudios y se sabe que en política los utilizan.
+
+![](/media/captura-de-pantalla-2024-03-11-a-las-16.28.18.png "730 hours of Violence (2018)")
 
 ### **O.- Antes discutimos cómo a veces los datos no revelan el privilegio de algunas partes involucradas. Teniendo en cuenta esto, me gustaría abordar el proyecto "The Privilege of Choice" en el que habéis trabajado junto con Oxfam. Según la información disponible en domesticstreamers.com/projects/the-privilege-of-choice/, este proyecto utiliza una instalación interactiva para sensibilizar a las personas sobre las desigualdades y los privilegios. ¿Podrías explicarnos en detalle cómo esta herramienta combina datos y experiencias visuales para comunicar las disparidades en el acceso a las oportunidades y cómo ha impactado en la concienciación y comprensión de las desigualdades y privilegios en diferentes entornos?**
 
