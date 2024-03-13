@@ -22,7 +22,7 @@ cover:
   caption: Ésèpe, Hamaca, 2023
 related_article_uids:
   - web-dubois-data
-  - decide-madrid
+  - crowdfunding-historical-memory-common-good
   - marea-deliberativa-manifiesto-asambleas
 stickers:
   layout: layout-none
