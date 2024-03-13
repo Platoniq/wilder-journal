@@ -31,9 +31,7 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/esepe-hamaca.png
 ---
-Co-creating the collective memory of a country through its public libraries.
-
-"To carry out memory recovery processes with the community begins with a single task: listening to the people. You don't have to be a historian. **You only have to have one quality and that is to know how to listen and propose a topic. People are coming.** You don't have to put it in strange terms". Hernando Alberto Gómez, Librarian of the Public Library Operation P.A.P.A (Quimbaya, Quindío)
+Co-creating a country's collective memory through its public libraries
 
 ## Hypothesis: Looking in the rear-view mirror of our history without blind spots
 
@@ -84,6 +82,8 @@ The title "Comparte Tu Rollo" was chosen for this platform in order to summarize
 The dynamics had to be simple, close and captivating for a general public. The tasks of librarians, in Colombia and around the world, often go far beyond taking care of the archive, as they work on an aspect of the existing (or latent) intangible heritage in their communities, for a "healing" memory. They are active in their villages, often have a mature network of relationships with a wide range of users (of various ages and social strata) and are the key to a grassroots (social) work. For a librarian to be part of this project was a way of cohesive joint cultural actions starting from the grassroots, taking into account the co-responsible participation of the library network and its users.
 
 In Colombia there was a clear national articulation and effective public policies were sought, but the task of building this memory was not an easy task nor understood by the general public. Applying the co-creation processes that we had been exploring and experimenting with, following the example given in "Co-creation in public libraries", allowed us to reduce the implementation and validation times of the tools that would reinforce this national articulation; to specify the ideas and tools to be developed from scratch; to detect the needs of the participants (librarians and users); to generate a whole didactic content for the "cascade" training; and to integrate all the strata of professionals and users in the construction of these public policies.
+
+{% quote { "author": "Hernando Alberto Gómez, Bibliotecario de la Biblioteca Pública Operación P.A.P.A (Quimbaya, Quindío)" } %}To carry out memory recovery processes with the community begins with a single task: listening to the people. You don't have to be a historian. You only have to have one quality and that is to know how to listen and propose a topic. People are coming. You don't have to put it in strange terms{% endquote %}
 
 We got down to work. The gestation of the co-creation phase involved the Historypin platform, the National Library of Colombia, and several members of the National Network of Public Libraries of Colombia, who designed, together with Platoniq, the methodology to leave the library walls, connect and revive the stories of the places.
 

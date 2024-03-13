@@ -34,8 +34,6 @@ image:
 ---
 Co-creando la memoria colectiva de un país a través de sus bibliotecas públicas
 
-“A realizar procesos de recuperación de memoria con la comunidad se empieza con una sola tarea: escuchando a la gente. No hay que ser historiadores. **Sólo hay que tener una cualidad y es saber escuchar y proponer un tema. La gente va llegando.** No hay que ponerlo en términos raros”. Hernando Alberto Gómez, Bibliotecario de la Biblioteca Pública Operación P.A.P.A (Quimbaya, Quindío)
-
 ## Hypothesis: Mirando el retrovisor de nuestra historia sin ángulos muertos
 
 ¿Pueden los archivos públicos, y archivos ciudadanos construir un diálogo sobre los conflictos del pasado y co-crear un futuro legado mejor y común?
@@ -85,6 +83,8 @@ Se optó por el título “Comparte Tu Rollo” para esta plataforma buscando re
 Las dinámicas debían ser sencillas, cercanas y cautivadoras para un público general. Las tareas de los bibliotecarios, en Colombia y en todo el mundo, a menudo van mucho más allá de cuidar del archivo, ya que trabajan una vertiente del patrimonio inmaterial existente (o latente) en sus comunidades, por una memoria "sanadora". Son ejes activos en sus pueblos, suelen tener un tejido maduro de relaciones con un amplio espectro de usuarios (de edades variadas y estratos sociales diversos) y son la clave para un trabajo desde la base (social). Para un bibliotecario/a formar parte de este proyecto era una manera de cohesionar acciones culturales conjuntas partiendo de la base, teniendo en cuenta la participación co-responsable de la red de bibliotecas y sus usuarios.
 
 En Colombia había una articulación nacional clara y se buscaban políticas públicas efectivas, pero la tarea de construcción de esta memoria no era una tarea fácil ni entendida por el público general. Aplicar los procesos de co-creación que veníamos explorando y experimentando, siguiendo el ejemplo recogido en “Co-creación en las bibliotecas públicas”, nos permitía reducir los tiempos de implementación y validación de las herramientas que reforzarían esta articulación nacional; concretar las ideas y herramientas a desarrollar desde cero; detectar las necesidades de los participantes (bibliotecarios y usuarios); generar todo un contenido didáctico para la formación "en cascada"; e integrar todos los estratos de profesionales y usuarios en la construcción de estas políticas públicas.
+
+{% quote { "author": "Hernando Alberto Gómez, Bibliotecario de la Biblioteca Pública Operación P.A.P.A (Quimbaya, Quindío)" } %}A realizar procesos de recuperación de memoria con la comunidad se empieza con una sola tarea: escuchando a la gente. No hay que ser historiadores. Sólo hay que tener una cualidad y es saber escuchar y proponer un tema. La gente va llegando. No hay que ponerlo en términos raros{% endquote %}
 
 Nos pusimos manos a la obra. En la gestación de la fase de co-creación participó la plataforma de Historypin, la Biblioteca Nacional de Colombia, y varios miembros de la Red Nacional de Bibliotecas Públicas de Colombia, que diseñaron, junto con Platoniq, la metodología para salir de los muros de la biblioteca, conectar y revivir las historias de los lugares. 
 
