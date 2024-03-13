@@ -7,7 +7,7 @@ date: 2024-01-09T10:13:58.758Z
 date-updated: 2024-01-09T10:13:58.828Z
 article-order: 11
 uid: colombia-comparte-tu-rollo
-title: "Exploring Deliberative Memory Processes: Crafting a Vision of the Past"
+title: "Exploring Deliberative Memory Processes: crafting a Vision of the Past"
 description: Learning from the "comparte tu Rollo" case in Colombia
 author: Olivier Schulbaum
 author_uids:
