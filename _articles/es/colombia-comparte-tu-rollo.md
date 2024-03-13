@@ -7,7 +7,8 @@ date: 2024-01-09T10:13:58.758Z
 date-updated: 2024-01-09T10:13:58.828Z
 article-order: 11
 uid: colombia-comparte-tu-rollo
-title: Co-creando la memoria colectiva de un país a través de sus bibliotecas públicas
+title: "Explorando los procesos deliberativos de la memoria: La elaboración de
+  una visión del pasado"
 description: Aprendiendo del caso “comparte tu Rollo” en Colombia
 author: Olivier Schulbaum
 author_uids:
@@ -31,6 +32,8 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/esepe-hamaca.png
 ---
+Co-creando la memoria colectiva de un país a través de sus bibliotecas públicas
+
 “A realizar procesos de recuperación de memoria con la comunidad se empieza con una sola tarea: escuchando a la gente. No hay que ser historiadores. **Sólo hay que tener una cualidad y es saber escuchar y proponer un tema. La gente va llegando.** No hay que ponerlo en términos raros”. Hernando Alberto Gómez, Bibliotecario de la Biblioteca Pública Operación P.A.P.A (Quimbaya, Quindío)
 
 ## Hypothesis: Mirando el retrovisor de nuestra historia sin ángulos muertos
