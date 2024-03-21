@@ -94,6 +94,10 @@ Y como ejemplo de **autoorganización**, el centro social** *[La Villana de Vall
 
 ### ¿Un sindicato para las Asambleas Ciudadanas?
 
-**¿Podríamos llevar el Neo-Sindicalismo a la democracia deliberativa?** ¿Te imaginas crear un **sindicato de las personas sorteadas** para deliberar en las **Asambleas Ciudadanas**? Una plataforma ciudadana de este tipo podría **velar porque se cumplan los mandatos de la Asamblea** y **presionar a los gobiernos** para que no hagan oídos sordos y cumplan con su obligación de **aplicar las recomendaciones** propuestas por el grupo ciudadano sorteado. 
+A día de hoy parece una ilusión pero no falta demasiado para que los ciudadanos organizados empiecen a tener voz, y voto, en la esfera pública, **más allá de las elecciones a las que nos tiene acostumbrados la democracia parlamentaria.** Ejemplo de ello lo encontramos ya en Inglaterra, donde se han empezado a plantear cuál es el papel de los sindicatos y de la ciudadanía en general en aquello que han venido a llamar la [Cámara de Ciudadanos.](https://www.kcl.ac.uk/news/labours-citizens-assembly-plan-is-to-be-welcomed-but-more-is-needed-to-rebuild-trust)
+
+El horizonte que se nos abre es cuanto menos prometedor: **¿es posible llevar el neo-sindicalismo a la democracia deliberativa?** Y como paso siguiente, ¿tiene sentido crear un **sindicato de las personas sorteadas** que deliberan en las Asambleas Ciudadanas **que incluyan estas voces organizadas**? 
+
+Una plataforma ciudadana de este tipo podría **velar porque se cumplan los mandatos de la Asamblea** sumando todo tipo de voces y **presionar a los gobiernos** para que no hagan oídos sordos y cumplan con su obligación de **aplicar las recomendaciones** propuestas. 
 
 **Sigamos imaginando y pongámonos manos a la obra para hacerlo realidad. ¿Te apuntas?**

@@ -93,8 +93,10 @@ As an example of **self-organisation**, the social centre ***[La Villana de Vall
 
 ### A trade union for the Citizens' Assemblies?
 
-Neo-Syndicalism aligns with our vision of **promoting deliberative processes that combine cultural artefacts**, collective experience, historical heritage and art. We believe in the importance of listening to and developing other people's ideas, not only through arguments, but also through **creative and participatory tools**.
+It seems an illusion today, but it is not too far away that organised citizens will begin to have a voice and a vote in the public sphere, **beyond the elections to which we are accustomed in parliamentary democracy.** An example of this can already be found in England, where the role of trade unions and citizens in general has begun to be considered in what is called the [House of Citizens](https://www.kcl.ac.uk/news/labours-citizens-assembly-plan-is-to-be-welcomed-but-more-is-needed-to-rebuild-trust)
 
-**Could we bring neo-unionism to deliberative democracy?** Can you imagine creating a **union of the people selected to deliberate** in the Citizens' Assemblies? Such a citizens' platform could **vigilate for the Assembly's mandates** and **put pressure on governments** not to turn a deaf ear and fulfil their obligation to **implement the recommendations** proposed bythe citizens' group drawn by lot. 
+The horizon that opens up is promising, to say the least: **is it possible to bring neo-unionism into deliberative democracy?** And, as a next step, does it make sense to create **a union of the people who deliberate** in the Citizens' Assemblies **that includes these organised voices?** 
 
-**Let's keep imagining and let's get down to work to make it happen. Are you in?**
+Such a citizens' platform could **ensure that the Assembly's mandates are fulfilled** by bringing together all kinds of voices and putting pressure on governments not to turn a deaf ear and to fulfil their obligation **to implement the proposed recommendations.** 
+
+**Let's keep imagining and get to work to make it happen. Are you with us?**
