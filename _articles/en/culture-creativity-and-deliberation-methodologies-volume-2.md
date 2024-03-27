@@ -14,6 +14,7 @@ description: Creating methodologies to improve and scale deliberative methods
 author: Tayrine Dias
 author_uids:
   - tayrine-dias
+  - olivier-schulbaum
 cover:
   path: /media/articles/heroes/esepe-ikea2.jpg
   mobile: /media/articles/mobile/esepe-ikea2.jpg

@@ -14,6 +14,7 @@ description: Crear metodologías que mejoren los métodos deliberativos es clave
 author: Tayrine Dias
 author_uids:
   - tayrine-dias
+  - olivier-schulbaum
 cover:
   path: /media/articles/heroes/esepe-ikea2.jpg
   mobile: /media/articles/mobile/esepe-ikea2.jpg
