@@ -17,7 +17,7 @@ image:
 
 # Build settings
 theme: jekyll-theme-platoniq-journal
-timezone: ES
+timezone: Europe/Madrid
 
 collections:
   archives:
