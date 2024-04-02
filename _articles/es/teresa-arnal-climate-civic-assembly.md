@@ -16,10 +16,10 @@ interviewee: Teresa Arnal
 cover:
   path: /media/articles/heroes/1605204436469.jpg
   mobile: /media/articles/mobile/1605204436469.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
-  alt: Teresa Arnal
-  credits: Teresa Arnal
-  caption: Teresa Arnal
+  thumbnail: /media/articles/thumbnails/1605204436469.jpg
+  alt: Teresa Arnal, Asamblea Cívica por el Clima
+  credits: Teresa Arnal, Asamblea Cívica por el Clima
+  caption: Teresa Arnal, Asamblea Cívica por el Clima
 related_article_uids:
   - marea-deliberativa-manifiesto-asambleas
   - deliberative-assemblies

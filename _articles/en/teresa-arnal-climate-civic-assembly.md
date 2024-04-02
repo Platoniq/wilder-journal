@@ -11,7 +11,7 @@ interviewee: Teresa Arnal
 cover:
   path: /media/articles/heroes/1605204436469.jpg
   mobile: /media/articles/mobile/1605204436469.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/1605204436469.jpg
 related_article_uids:
   - marea-deliberativa-manifiesto-asambleas
   - deliberative-assemblies
