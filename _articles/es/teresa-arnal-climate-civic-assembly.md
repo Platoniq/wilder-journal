@@ -14,7 +14,7 @@ author_uids:
   - platoniq
 interviewee: Teresa Arnal
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2024-04-02-a-las-15.02.43.png
+  path: /media/articles/heroes/1605204436469.jpg
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Teresa Arnal
