@@ -12,6 +12,9 @@ cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-04-02-a-las-15.02.43.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - marea-deliberativa-manifiesto-asambleas
+  - deliberative-assemblies
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
