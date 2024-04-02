@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-04-02T15:46
 date-updated: 2024-04-02T15:46
-article-order: 8
+article-order: 12
 uid: teresa-arnal-climate-civic-assembly
 title: '"La ciudadanía está preparada para asumir más responsabilidad"'
 description: Entrevista a Teresa Arnal, Asamblea Cívica por el Clima

@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-04-02T15:46
 date-updated: 2024-04-02T15:46
-article-order: 8
+article-order: 12
 uid: teresa-arnal-climate-civic-assembly
 title: '"Citizens are ready to take on more responsibility"'
 description: Interview with Teresa Arnal, Civic Climate Assembly
