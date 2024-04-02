@@ -7,7 +7,8 @@ date: 2024-04-02T10:46
 date-updated: 2024-04-02T10:46
 article-order: 12
 uid: teresa-arnal-climate-civic-assembly
-title: '"La ciudadanía está preparada para asumir más responsabilidad"'
+title: '"La ciudadanía está preparada para asumir más responsabilidad". Retos
+  después de una Asamblea Ciudadana'
 description: Entrevista a Teresa Arnal, Asamblea Cívica por el Clima
 author: Cristian Palazzi
 author_uids:
@@ -31,7 +32,7 @@ call_to_action: cta-newsletter
 image:
   path: /media/articles/social/1605204436469.jpg
 ---
-Pasados unos meses desde que finalizara la Asamblea Ciudadana para el Clima, muchas de sus propuestas aún buscan al responsable político que debe implementarlas. Sin embargo, no puede decirse que tanto esfuerzo compartido no diera sus frutos. Para empezar sus 172 recomendaciones, que suponen una guía perfecta para cualquiera que quiera acercarse a la justicia climática desde los ojos de la ciudadanía y, en segundo lugar, la constitución de la [Asamblea Cívica por el Clima](https://asambleacivicaporelclima.org/), una asociación de ciudadanos surgidos del proceso asambleario inicial que, inspirados por todo el trabajo realizado, decidieron constituirse en grupo para seguir impulsando el mandato ciudadano. Hablamos con Teresa Arnal, miembro de dicha Asamblea, quien nos responde nuestras dudas sobre sus orígenes, su composición y sus principales objetivos.
+Pasados unos meses desde que finalizara la Asamblea Ciudadana para el Clima española, muchas de sus propuestas aún buscan al responsable político que debe implementarlas. Sin embargo, no puede decirse que tanto esfuerzo compartido no diera sus frutos. Para empezar sus 172 recomendaciones, que suponen una guía perfecta para cualquiera que quiera acercarse a la justicia climática desde los ojos de la ciudadanía y, en segundo lugar, la constitución de la [Asamblea Cívica por el Clima](https://asambleacivicaporelclima.org/), una asociación de ciudadanos surgidos del proceso asambleario inicial que, inspirados por todo el trabajo realizado, decidieron constituirse en grupo para seguir impulsando el mandato ciudadano. Hablamos con Teresa Arnal, miembro de dicha Asamblea, quien nos responde nuestras dudas sobre sus orígenes, su composición y sus principales objetivos.
 
 **Fundación Platoniq: Dice vuestra página web que, al concluir la Asamblea Ciudadana por el Clima, un sector de los participantes decidió no poner fin al trabajo que se había hecho. ¿De dónde salió esa voluntad? ¿Fue algo espontáneo o cosa de unas pocas personas? ¿Cómo se fraguó?** 
 
