@@ -43,6 +43,8 @@ Yo creo que el camino de la Asamblea en España estuvo marcado por cosas muy bie
 
 El requisito que nosotros tenemos de momento es que seamos asambleístas. Somos el grupo promotor de la Asamblea Ciudadana Estatal, sin embargo, ya hemos realizado conversaciones con los asambleístas de Mallorca, y queremos hacer lo mismo con los de Cataluña, porque la idea principal es la creación de una red europea. Aquellos que hemos pasado por una Asamblea Ciudadana tenemos una experiencia muy novedosa, que es difícil de explicar a las personas que no han pasado por ella. En mi caso, yo sí tenía conciencia ambiental, pero en el momento de empezar a participar, pensé que las motivaciones de un proyecto así, tratándose de una iniciativa impulsada por el gobierno, iban a ser algo cuestionables. No obstante, cuando pasas por el proceso, si está bien hecho, descubres la potencia tan brutal que tiene una Asamblea Ciudadana. 
 
+{% quote { "author": "Teresa Arnal" } %}Aquellos que hemos pasado por una Asamblea Ciudadana tenemos una experiencia muy novedosa, que es difícil de explicar a las personas que no han pasado por ella.{% endquote %}
+
 En castellano, tiende a confundirse *ciudadano* con *popular*, y yo creo que la diferencia está en que en una Asamblea Popular hablan muchas voces, pero en una Asamblea Ciudadana se termina con una voz, y eso es algo impresionante, que llega a través del acuerdo entre gente diversa. Para mí esto fue un aprendizaje tremendo, más que lo que pudiera aprender también en materia climática. Nosotros, aunque aboguemos por una solución climática, no somos especialistas en ello, pero en lo que sí somos expertos es en asambleas ciudadanas. Por eso queremos crear esta red, porque algo así no tiene límites, aunque no recibamos la atención que el tema merece. 
 
 **Una vez constituidos, ¿en qué consiste exactamente vuestro trabajo, además de buscar generar esa red de la que me comentas?**
@@ -54,6 +56,8 @@ Las asambleas ciudadanas son una herramienta nueva que todavía necesita rodaje.
 **O sea, compartís el diagnóstico que habitualmente se hace de los procesos deliberativos. En este sentido, ¿os encontráis reforzados o ayudados? ¿Cuál es la reacción de las organizaciones más allá de las instituciones públicas?** 
 
 En principio nos abren los brazos, pero yo veo que no todo el mundo entiende la iniciativa y hay bastante confusión con lo que es la participación ciudadana. La gente cree que las Asambleas Ciudadanas son solo otra forma de participación, pero no es así, van más allá. Son un proceso más estructurado que busca crear una voz que represente a la ciudadanía en su conjunto y diversidad.
+
+{% quote { "author": "Teresa Arnal" } %}La gente cree que las Asambleas Ciudadanas son solo otra forma de participación, pero no es así, van más allá. {% endquote %}
 
 Este tipo de asamblearismo está creciendo en Europa, y creo que se va a ir ampliando y tomando fuerza. Aunque de seguro más lentamente de lo que nos hace falta, porque en realidad nos urge muchísimo. 
 
@@ -72,6 +76,8 @@ Los facilitadores son esenciales para el buen funcionamiento de las asambleas. S
 **Una última. Decías que cómo asamblea hacéis la distinción entre la democracia deliberativa y la democracia representativa, llamando a que las instituciones asuman las metodologías, los objetivos y las maneras de trabajar de esa democracia más deliberativa. ¿Por qué crees que se debería incorporar en la institucionalidad normativa este tipo de metodologías y qué virtudes le ves a ello?** 
 
 En el siglo XXI, la comunicación y el entendimiento son más fáciles que antes. La ciudadanía está preparada para asumir más responsabilidad. A pesar de esto, la democracia actual está en crisis, y el ascenso del fascismo desde los atentados del 11M en Madrid ha tenido algo que ver. Es muy grave lo que está pasando, jamás pensé que podíamos involucionar de esta manera.
+
+{% quote { "author": "Teresa Arnal" } %}Las asambleas ciudadanas son una herramienta para empoderar a la gente y mejorar la democracia.{% endquote %}
 
 Las asambleas ciudadanas son una herramienta para empoderar a la gente y mejorar la democracia. Existen muchas razones para implementarlas en todos los ámbitos. Además, se adaptan a un ritmo de vida acelerado. Para mis abuelos, cuatro o seis años es un tiempo razonable de espera hasta volver a escoger a tus representantes, pero para nosotros eso es una eternidad. Además, los gobiernos también se pueden beneficiar de las asambleas ciudadanas: legitiman las decisiones, mejoran la gobernanza y responden a las demandas de la sociedad. 
 

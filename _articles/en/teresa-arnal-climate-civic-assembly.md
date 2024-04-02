@@ -40,6 +40,8 @@ I believe that the path of the Assembly in Spain was marked by things that were 
 
 The requirement we have at the moment is that we are members of the assembly. We are the promoter group of the State Citizens' Assembly, however, we have already held talks with the assembly members of Mallorca, and we want to do the same with those of Catalonia, because the main idea is the creation of a European network. Those of us who have been to a Citizens' Assembly have a very new experience, which is difficult to explain to people who have not been there. In my case, I was environmentally aware, but at the time I started participating, I thought that the motivations for such a project, being a government-driven initiative, would be somewhat questionable. However, when you go through the process, if it is done well, you discover the brutal power of a Citizens' Assembly. 
 
+{% quote { "author": "Teresa Arnal" } %}Those of us who have been through a Citizens' Assembly have a very new experience, which is difficult to explain to people who have not been through one.{% endquote %}
+
 In Spanish, *citizen* tends to be confused with *popular*, and I think the difference is that in a Popular Assembly many voices speak, but in a Citizens' Assembly you end up with one voice, and that is something impressive, which comes about through agreement among diverse people. For me this was a tremendous learning experience, more than what I could also learn on climate issues. Even though we advocate for a climate solution, we are not specialists in this, but what we are experts in is citizens' assemblies. That's why we want to create this network, because something like this has no limits, even if we don't get the attention it deserves. 
 
 **Once formed, what exactly does your work consist of, apart from seeking to generate the network you mentioned?**
@@ -51,6 +53,8 @@ Citizens' assemblies are a new tool that still needs to be developed. They need 
 **In other words, you share the diagnosis that is usually made of deliberative processes. In this sense, do you find yourselves strengthened or helped? What is the reaction of organisations beyond public institutions?** 
 
 In principle, they open their arms to us, but I see that not everyone understands the initiative and there is a lot of confusion about what citizen participation is. People think that the Citizens' Assemblies are just another form of participation, but this is not the case, they go beyond that. They are a more structured process that seeks to create a voice that represents the citizenry as a whole and diversity.
+
+{% quote { "author": "Teresa Arnal" } %}People think that the Citizens' Assemblies are just another form of participation, but this is not the case, they go beyond that. {% endquote %}
 
 This type of assembly is growing in Europe, and I believe it will continue to expand and gain momentum. Although certainly more slowly than we need, because in reality we need it very badly.
 
@@ -69,6 +73,8 @@ Facilitators are essential to the smooth running of the assemblies. Their work i
 **The last one. You said that as an assembly you make the distinction between deliberative democracy and representative democracy, calling for institutions to take on board the methodologies, objectives and ways of working of this more deliberative democracy. Why do you think this type of methodology should be incorporated into the normative institutional framework and what virtues do you see in it?** 
 
 In the 21st century, communication and understanding are easier than ever before. Citizens are prepared to take more responsibility. Despite this, democracy today is in crisis, and the rise of fascism since the 11M attacks in Madrid has had something to do with it. What is happening is very serious, I never thought we could devolve in this way.
+
+{% quote { "author": "Teresa Arnal" } %}Citizens' assemblies are a tool for empowering people and improving democracy. {% endquote %}
 
 Citizens' assemblies are a tool for empowering people and improving democracy. There are many reasons to implement them at all levels. Moreover, they adapt to a fast pace of life. For my grandparents, four to six years is a reasonable time to wait until you choose your representatives again, but for us that is an eternity. Moreover, governments can also benefit from citizens' assemblies: they legitimise decisions, improve governance and respond to society's demands. 
 
