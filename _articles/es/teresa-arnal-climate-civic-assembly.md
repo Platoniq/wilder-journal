@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: true
-date: 2024-04-02T15:46
-date-updated: 2024-04-02T15:46
+date: 2024-04-02T10:46
+date-updated: 2024-04-02T10:46
 article-order: 12
 uid: teresa-arnal-climate-civic-assembly
 title: '"La ciudadanía está preparada para asumir más responsabilidad"'
