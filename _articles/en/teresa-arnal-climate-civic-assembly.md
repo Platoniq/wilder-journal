@@ -9,9 +9,9 @@ article-order: 12
 uid: teresa-arnal-climate-civic-assembly
 title: Citizens are ready to take on more responsibility
 description: Interview with Teresa Arnal, Civic Climate Assembly
-author: Platoniq Foundation
+author: Cristian Palazzi
 author_uids:
-  - platoniq
+  - cristian-palazzi
 interviewee: Teresa Arnal
 cover:
   path: /media/articles/heroes/1605204436469.jpg

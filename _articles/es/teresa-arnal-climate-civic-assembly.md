@@ -9,9 +9,9 @@ article-order: 12
 uid: teresa-arnal-climate-civic-assembly
 title: La ciudadanía está preparada para asumir más responsabilidad
 description: Entrevista a Teresa Arnal, Asamblea Cívica por el Clima
-author: Fundación Platoniq
+author: Cristian Palazzi
 author_uids:
-  - platoniq
+  - cristian-palazzi
 interviewee: Teresa Arnal
 cover:
   path: /media/articles/heroes/1605204436469.jpg
