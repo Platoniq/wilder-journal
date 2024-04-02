@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/1605204436469.jpg
 ---
 Pasados unos meses desde que finalizara la Asamblea Ciudadana para el Clima, muchas de sus propuestas aún buscan al responsable político que debe implementarlas. Sin embargo, no puede decirse que tanto esfuerzo compartido no diera sus frutos. Para empezar sus 172 recomendaciones, que suponen una guía perfecta para cualquiera que quiera acercarse a la justicia climática desde los ojos de la ciudadanía y, en segundo lugar, la constitución de la Asamblea Cívica por el Clima, una asociación de ciudadanos surgidos del proceso asambleario inicial que, inspirados por todo el trabajo realizado, decidieron constituirse en grupo para seguir impulsando el mandato ciudadano. Hablamos con Teresa Arnal, miembro de dicha Asamblea, quien nos responde nuestras dudas sobre sus orígenes, su composición y sus principales objetivos.
 
