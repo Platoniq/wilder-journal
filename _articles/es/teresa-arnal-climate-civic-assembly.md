@@ -15,7 +15,7 @@ author_uids:
 interviewee: Teresa Arnal
 cover:
   path: /media/articles/heroes/1605204436469.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/1605204436469.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Teresa Arnal
   credits: Teresa Arnal

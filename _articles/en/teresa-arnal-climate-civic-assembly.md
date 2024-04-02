@@ -10,7 +10,7 @@ uid: teresa-arnal-climate-civic-assembly
 interviewee: Teresa Arnal
 cover:
   path: /media/articles/heroes/1605204436469.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/1605204436469.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - marea-deliberativa-manifiesto-asambleas
