@@ -7,7 +7,7 @@ date: 2024-04-02T15:46
 date-updated: 2024-04-02T15:46
 article-order: 12
 uid: teresa-arnal-climate-civic-assembly
-title: '"Citizens are ready to take on more responsibility"'
+title: Citizens are ready to take on more responsibility
 description: Interview with Teresa Arnal, Civic Climate Assembly
 author: Platoniq Foundation
 author_uids:
@@ -40,7 +40,7 @@ I believe that the path of the Assembly in Spain was marked by things that were 
 
 The requirement we have at the moment is that we are members of the assembly. We are the promoter group of the State Citizens' Assembly, however, we have already held talks with the assembly members of Mallorca, and we want to do the same with those of Catalonia, because the main idea is the creation of a European network. Those of us who have been to a Citizens' Assembly have a very new experience, which is difficult to explain to people who have not been there. In my case, I was environmentally aware, but at the time I started participating, I thought that the motivations for such a project, being a government-driven initiative, would be somewhat questionable. However, when you go through the process, if it is done well, you discover the brutal power of a Citizens' Assembly. 
 
-In Spanish, "citizen" tends to be confused with "popular", and I think the difference is that in a Popular Assembly many voices speak, but in a Citizens' Assembly you end up with one voice, and that is something impressive, which comes about through agreement among diverse people. For me this was a tremendous learning experience, more than what I could also learn on climate issues. Even though we advocate for a climate solution, we are not specialists in this, but what we are experts in is citizens' assemblies. That's why we want to create this network, because something like this has no limits, even if we don't get the attention it deserves. 
+In Spanish, 'citizen' tends to be confused with 'popular', and I think the difference is that in a Popular Assembly many voices speak, but in a Citizens' Assembly you end up with one voice, and that is something impressive, which comes about through agreement among diverse people. For me this was a tremendous learning experience, more than what I could also learn on climate issues. Even though we advocate for a climate solution, we are not specialists in this, but what we are experts in is citizens' assemblies. That's why we want to create this network, because something like this has no limits, even if we don't get the attention it deserves. 
 
 **Once formed, what exactly does your work consist of, apart from seeking to generate the network you mentioned?**
 
