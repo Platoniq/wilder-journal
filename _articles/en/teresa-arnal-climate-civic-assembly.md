@@ -3,11 +3,11 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: true
-date: 2024-04-02T15:02
-date-updated: 2024-04-02T15:02
+date: 2024-04-02T15:46
+date-updated: 2024-04-02T15:46
 article-order: 8
 uid: teresa-arnal-climate-civic-assembly
-title: Citizens are ready to take on more responsibility
+title: '"Citizens are ready to take on more responsibility"'
 description: Interview with Teresa Arnal, Civic Climate Assembly
 author: Platoniq Foundation
 author_uids:
