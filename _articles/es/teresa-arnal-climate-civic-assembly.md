@@ -7,8 +7,7 @@ date: 2024-04-02T10:46
 date-updated: 2024-04-02T10:46
 article-order: 12
 uid: teresa-arnal-climate-civic-assembly
-title: '"La ciudadanía está preparada para asumir más responsabilidad". Retos
-  después de una Asamblea Ciudadana'
+title: '"La ciudadanía está preparada para asumir más responsabilidad". '
 description: Entrevista a Teresa Arnal, Asamblea Cívica por el Clima
 author: Cristian Palazzi
 author_uids:
