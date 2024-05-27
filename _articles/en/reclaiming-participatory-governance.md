@@ -15,12 +15,14 @@ author_uids:
   - cristian-palazzi
 interviewee: Sonia Bussu
 cover:
-  path: /media/articles/heroes/sonia-bussu.jpg
+  path: /media/articles/heroes/p1074845-mejorado-nr-3.jpg
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Sonia Bussu, Inspire, 2024
   credits: Adrián Salcedo
   caption: Sonia Bussu, Inspire, 2024
+related_article_uids:
+  - revolutionmindset
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
