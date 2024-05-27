@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/p1074845-mejorado-nr-3.jpg
 ---
 Sonia Bussu es Profesora Asociada de Políticas Públicas en el Departamento de Administración y Políticas Públicas de la Universidad de Birmingham. Su investigación se centra en la gobernanza participativa, la coproducción y la investigación participativa. Le apasiona tender puentes entre la democracia participativa y la investigación participativa, reconociendo que estos campos han permanecido tradicionalmente separados. Sonia hace hincapié en la importancia de permitir a los participantes autoevaluar sus propias experiencias de participación y su impacto social percibido. En Platoniq, estamos encantados de colaborar con Sonia en proyectos como Mindset Revolution e INSPIRE, ya que trabajamos conjuntamente para salvar estas distancias y explorar enfoques innovadores de las prácticas participativas.
 
