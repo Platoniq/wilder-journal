@@ -19,7 +19,7 @@ interviewee: Sonia Bussu
 cover:
   path: /media/articles/heroes/p1074845-mejorado-nr-3.jpg
   mobile: /media/articles/mobile/p1074845-mejorado-nr-3.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/p1074845-mejorado-nr-3.jpg
   alt: Sonia Bussu, Inspire, 2024
   credits: Adrián Salcedo
   caption: Sonia Bussu, Inspire, 2024
