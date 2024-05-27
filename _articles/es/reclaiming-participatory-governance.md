@@ -18,7 +18,7 @@ author_uids:
 interviewee: Sonia Bussu
 cover:
   path: /media/articles/heroes/p1074845-mejorado-nr-3.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/p1074845-mejorado-nr-3.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Sonia Bussu, Inspire, 2024
   credits: Adrián Salcedo
