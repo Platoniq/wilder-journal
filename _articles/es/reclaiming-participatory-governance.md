@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: true
-date: 2024-05-27T18:27:00.000Z
-date-updated: 2024-05-27T18:27:00.000Z
+date: 2024-05-26T20:27:00.000Z
+date-updated: 2024-05-26T20:27:00.000Z
 article-order: 14
 uid: reclaiming-participatory-governance
 title: "Inspirar la innovación democrática: Una conversación con Sonia Bussu
