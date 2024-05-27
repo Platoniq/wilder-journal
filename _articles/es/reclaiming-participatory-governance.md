@@ -8,7 +8,7 @@ date-updated: 2024-05-27T17:05:00.000Z
 article-order: 14
 uid: Reclaiming-Participatory-Governance
 title: "Inspirar la innovación democrática: Una conversación con Sonia Bussu
-  sobre la recuperación de la gobernanza participativa"
+  sobre cómo reclamar más gobernanza participativa"
 description: Una conversación con Sonia Bussu sobre la recuperación de la
   gobernanza participativa
 author: Olivier Schulbaum & Cristian Palazzi
