@@ -9,8 +9,8 @@ article-order: 14
 uid: reclaiming-participatory-governance
 title: "Inspirar la innovación democrática: Una conversación con Sonia Bussu
   sobre cómo reclamar más gobernanza participativa"
-description: Una conversación con Sonia Bussu sobre la recuperación de la
-  gobernanza participativa
+description: Una conversación con Sonia Bussu sobre cómo reclamar más gobernanza
+  participativa
 author: Olivier Schulbaum & Cristian Palazzi
 author_uids:
   - olivier-schulbaum
@@ -35,7 +35,7 @@ image:
 ---
 Sonia Bussu es Profesora Asociada de Políticas Públicas en el Departamento de Administración y Políticas Públicas de la Universidad de Birmingham. Su investigación se centra en la gobernanza participativa, la coproducción y la investigación participativa. Le apasiona tender puentes entre la democracia participativa y la investigación participativa, reconociendo que estos campos han permanecido tradicionalmente separados. Sonia hace hincapié en la importancia de permitir a los participantes autoevaluar sus propias experiencias de participación y su impacto social percibido. En Platoniq, estamos encantados de colaborar con Sonia en proyectos como Mindset Revolution e INSPIRE, ya que trabajamos conjuntamente para salvar estas distancias y explorar enfoques innovadores de las prácticas participativas.
 
-### **Estamos deseando presentar tu nuevo libro aquí en Barcelona - Reclaiming Participatory Governance: Social Movements and the Reinvention of Democratic Innovation (Routledge Studies in Democratic Innovations). El libro aborda ampliamente la influencia de los movimientos sociales en la elaboración de políticas participativas. ¿Podría compartir su opinión sobre la relación entre los movimientos sociales y las instituciones públicas? ¿Qué cambios son necesarios para fomentar una relación más fructífera entre ambos?**
+### **Estamos deseando presentar tu nuevo libro aquí en Barcelona - [Reclaiming Participatory Governance: Social Movements and the Reinvention of Democratic Innovation](https://capitalofdemocracy.barcelona/conferences/reclaimingparticipatory) (Routledge Studies in Democratic Innovations). El libro aborda ampliamente la influencia de los movimientos sociales en la elaboración de políticas participativas. ¿Podría compartir su opinión sobre la relación entre los movimientos sociales y las instituciones públicas? ¿Qué cambios son necesarios para fomentar una relación más fructífera entre ambos?**
 
 La relación entre los movimientos sociales y las instituciones estatales suele ser compleja y polémica, pero también puede ser productivamente disruptiva. El libro explora varias experiencias de movimientos sociales que recuperan las herramientas de la democracia deliberativa participativa para fomentar proyectos de democratización más radicales. En el proceso, a veces establecen alianzas con las instituciones estatales, que pueden ser exitosas en algunos casos y desafiantes en otros.
 
