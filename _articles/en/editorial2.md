@@ -35,6 +35,8 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/esepe-blueplanet.png
 ---
+{% video { "title": "#CULTURAFUTURA: CREATIVIDAD🎨 Y DEMOCRACIA🗳️", "url": "https://youtu.be/dQzijuRLKZE" } %}
+
 You are in the year 2050. What do you see around you? How are the people? What is the political system? What is the state of the ecosystems?
 
 If everything that has come to your mind has much more to do with Black Mirror or the apocalypse than with a just, democratic and egalitarian world, you should know that it's no coincidence. Think about it, how many futuristic series, movies or books are set in a dystopian future? \*\*The apocalyptic catastrophism is carefully defined to demobilize us. 
