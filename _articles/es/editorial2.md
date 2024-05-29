@@ -36,9 +36,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/esepe-blueplanet.png
 ---
-{% video { "title": "#CULTURAFUTURA: CREATIVIDAD🎨 Y DEMOCRACIA🗳️", "url": "https://youtu.be/dQzijuRLKZE" } %}
-
 [](https://youtu.be/dQzijuRLKZE)Estás en el año 2050. ¿Qué ves a tu alrededor? ¿Cómo está la gente? ¿Cuál es el sistema político? ¿En qué estado se encuentran los ecosistemas?
+
+{% video { "title": "#CULTURAFUTURA: CREATIVIDAD🎨 Y DEMOCRACIA🗳️", "url": "https://youtu.be/dQzijuRLKZE" } %}
 
 Si todo lo que te ha venido a la cabeza tiene mucho más que ver con Black Mirror o el apocalipsis que con un mundo justo, democrático e igualitario, debes saber que no es casualidad. Piénsalo bien, ¿cuántas series, películas o libros futuristas se enmarcan en un futuro distópico? **El catastrofismo apocalíptico esta cuidadosamente definido para desmovilizarnos.** 
 
