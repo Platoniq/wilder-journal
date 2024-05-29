@@ -31,7 +31,7 @@ image:
 ---
 Involving citizens in public affairs, claiming the right to participation as a fundamental right or exploring new spaces and methodologies that allow us to practice affective empathy are some of the challenges we face from the trenches of what we call **inclusive democratic innovation.**
 
-{% video { "title": "#Repiénsate | Sembrando futuros deseables", "url": "https://youtube.com/embed/D1G5RdJx5po" } %}
+{% video { "title": "#Reconsider | Projecting desirable futures", "url": "https://youtube.com/embed/D1G5RdJx5po" } %}
 
 In these repeated and tireless attempts to defend and deepen democracy, it is essential that initiatives and organizations that act guided by values such as equity, solidarity, sustainability, participation, inclusion, commitment to the community and aim to be promoters of social change, are able to achieve deep, real and quality participation and internal democracy.
 
