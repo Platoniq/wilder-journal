@@ -31,6 +31,8 @@ image:
 ---
 Implicar a la ciudadanía en los asuntos públicos, reivindicar el derecho a la participación como derecho fundamental o explorar nuevos espacios y metodologías que permitan practicar la empatía afectiva, son algunos de los desafíos a los que nos enfrentamos desde las trincheras de lo que denominamos **innovación democrática inclusiva.**
 
+{% video { "title": "#Repiénsate | Sembrando futuros deseables", "url": "https://youtube.com/embed/D1G5RdJx5po" } %}
+
 En estos intentos reiterados e incansables de defensa y profundización de la democracia, se hace indispensable que las iniciativas y organizaciones que actúan orientadas por valores como la equidad, la solidaridad, la sostenibilidad, la participación, la inclusión, el compromiso con la comunidad y pretenden ser promotoras de cambio social, sean capaces de conseguir una participación y democracia interna profunda, real y de calidad.
 
 **Una fórmula para encontrarnos y proyectar futuros deseables para nuestras organizaciones y para el mundo, es la planificación estratégica.** No cabe duda que la planificación estratégica acostumbra a ser vista como un conjunto de procesos que orientan la actividad empresarial para obtener amplios márgenes de negocio, dejando a un lado los valores por los que se rigen las entidades de la Economía Social. No obstante, el diseño de futuros deseables permite, a la vez que opera y transforma a aquellas que participan del proceso, verlo desde otro punto de vista.
