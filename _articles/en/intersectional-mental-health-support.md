@@ -32,7 +32,7 @@ image:
 ---
 ## Hypothesis
 
-The fact that it is not visible does not mean that it does not need to be worked on. Given the progressive incorporation of migrants into the national health system, it is increasingly common to observe certain deficiencies linked to **an intersectional approach in mental health.** Learning from young people in Barcelona or Manchester about how their cities deal with these issues is more necessary than ever. **Listening to the people concerned, especially young people, and putting their recommendations at the centre, is one of the priorities to be addressed in a Europe that is torn between openness and rejection of plurality.**
+The fact that it is not visible does not mean that it does not need to be worked on. Given the progressive incorporation of new identities into the national health system, it is increasingly common to observe certain deficiencies linked to **an intersectional approach in mental health.** Learning from young people in Barcelona or Manchester about how their cities deal with these issues is more necessary than ever. **Listening to the people concerned, especially young people, and putting their recommendations at the centre, is one of the priorities to be addressed in a Europe that is torn between openness and rejection of plurality.**
 
 In this document we present some of the **recommendations about intersectional mental health** proposed by young people between 16 and 29 years old through three processes: Mindset Revolution held in Manchester, and Foro Joven and CoActuem per la Salut Mental held in Barcelona.
 

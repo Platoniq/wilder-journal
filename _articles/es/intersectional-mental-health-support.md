@@ -33,7 +33,7 @@ image:
 ---
 ## Hipótesis
 
-Que no sea visible no significa que no haga falta trabajarlo. Dada la progresiva incorporación de las personas migrantes a sistema nacional de salud, cada vez es más frecuente observar ciertas deficiencias vinculadas a **una aproximación interseccional en salud mental.** Aprender de los jóvenes de Barcelona o Manchester sobre como sus ciudades abordan estas cuestiones, se hace más necesario que nunca. **Escuchar a las personas afectadas, especialmente a los jóvenes, situando sus recomendaciones en el centro, es una de las prioridades que cabe hacer frente en** **una Europa que se debate entre la apertura o el rechazo a la pluralidad.**
+Que no sea visible no significa que no haga falta trabajarlo. Dada la progresiva incorporación de nuevas identidades al sistema nacional de salud, cada vez es más frecuente observar ciertas deficiencias vinculadas a **una aproximación interseccional en salud mental.** Aprender de los jóvenes de Barcelona o Manchester sobre como sus ciudades abordan estas cuestiones, se hace más necesario que nunca. **Escuchar a las personas afectadas, especialmente a los jóvenes, situando sus recomendaciones en el centro, es una de las prioridades que cabe hacer frente en** **una Europa que se debate entre la apertura o el rechazo a la pluralidad.**
 
 En este documento se recogen algunas de las **recomendaciones sobre salud mental interseccional** elaboradas por jóvenes de 16 a 25 años en tres procesos: Mindset Revolution con jóvenes de Manchester, y Foro Joven y CoActuem per la Salut Mental, con jóvenes de Barcelona.
 
