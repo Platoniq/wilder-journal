@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: deep-dives
 published: true
-date: 2024-06-07T09:54:00.000Z
-date-updated: 2024-06-07T09:54:00.000Z
+date: 2024-06-07T10:54:00.000Z
+date-updated: 2024-06-07T10:55:00.000Z
 article-order: 7
 uid: " intersectional-mental-health-support"
 author: Platoniq Foundation
@@ -17,6 +17,8 @@ cover:
   alt: Are you kidding me?, Esepe, 2024
   credits: Are you kidding me?, Esepe, 2024
   caption: Are you kidding me?, Esepe, 2024
+related_article_uids:
+  - revolutionmindset
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
