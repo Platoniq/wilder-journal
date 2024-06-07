@@ -70,3 +70,5 @@ As part of our work, we also enabled young people to self-evaluate their own exp
  By engaging in participatory processes and participatory research, young people co produced policy recommendations for intersectionality inclusive mental health support. 
 
 ### Check the policy recomendations here
+
+This project is being made possible thanks to organisations such as Fundación Platoniq, la University of Birmingham, 42 street, KR, Youth Focus, RSA and UK Research and Innovation. And is supported by Open Society Foundation and ALDA. European Association for Local Democracy.
