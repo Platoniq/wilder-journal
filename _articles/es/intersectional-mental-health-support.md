@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: deep-dives
 published: true
-date: 2024-06-07T10:54:00.000Z
-date-updated: 2024-06-07T10:55:00.000Z
+date: 2024-06-07T10:31:00.000Z
+date-updated: 2024-06-07T10:31:00.000Z
 article-order: 7
 uid: " intersectional-mental-health-support"
 title: Escuchar la voz de los jóvenes para mejorar el apoyo interseccional en
