@@ -73,6 +73,8 @@ Como parte de nuestro trabajo, desde la Fundación Platoniq permitimos a los jó
 
 Mediante tres procesos participativos e investigación participativa, los jóvenes co-produjeron recomendaciones políticas para un apoyo a la salud mental interseccionalmente inclusivo y estas son las convergencias que presentaron. 
 
-### Consulta las recomendaciones políticas, aquí.
+### Consulta las recomendaciones políticas, aquí:
+
+{% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/policy-brief-salud-mental-democratica-esp.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
 
 Este proyecto está siendo posible gracias a organizaciones cómo  Fundación Platoniq, University of Birmingham, 42 street, KR, Youth Focus, RSA y la UK Research and Innovation. La contribución de la Fundación Platoniq en este proyecto es posible gracias a la Open Society Foundation y ALDA. European Association for Local Democracy.
