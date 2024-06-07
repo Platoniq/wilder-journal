@@ -12,7 +12,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/20230425_kidding-me.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/20230425_kidding-me.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Are you kidding me?, Esepe, 2024
   credits: Are you kidding me?, Esepe, 2024
