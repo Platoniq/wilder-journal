@@ -13,7 +13,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/20230425_kidding-me.jpg
   mobile: /media/articles/mobile/20230425_kidding-me.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/20230425_kidding-me.jpg
   alt: Are you kidding me?, Esepe, 2024
   credits: Are you kidding me?, Esepe, 2024
   caption: Are you kidding me?, Esepe, 2024
