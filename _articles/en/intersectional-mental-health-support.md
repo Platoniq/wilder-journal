@@ -74,4 +74,6 @@ As part of our work, we also enabled young people to self-evaluate their own exp
 
 ### Check the policy recomendations here
 
+{% file { "title": "Policy Brief: Democratic Mental Health ", "info": "undefined", "file": "/media/policy-brief_mental-health.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": true } %}
+
 This project is being made possible thanks to organisations such as Fundación Platoniq, la University of Birmingham, 42 street, KR, Youth Focus, RSA and UK Research and Innovation. The Platoniq Foundation's contribution to this project is made possible by the Open Society Foundation and ALDA. European Association for Local Democracy.
