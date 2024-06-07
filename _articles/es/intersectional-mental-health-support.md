@@ -6,7 +6,7 @@ published: true
 date: 2024-06-07T10:30:00.000Z
 date-updated: 2024-06-07T10:32:00.000Z
 article-order: 7
-uid: " intersectional-mental-health-support"
+uid: intersectional-mental-health-support
 title: Escuchar la voz de los jóvenes para mejorar el apoyo interseccional en
   salud mental
 description: En este documento se recogen algunas de las recomendaciones sobre
