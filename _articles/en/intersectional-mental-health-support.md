@@ -74,6 +74,6 @@ As part of our work, we also enabled young people to self-evaluate their own exp
 
 ### Check the policy recomendations here:
 
-{% file { "title": "Democratic Mental Health", "info": "Policy Brief", "file": "/media/policy-brief-mindset-revolution-english-.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Dowload", "button_icon": "icon-download", "alt_color": true } %}
+{% file { "title": "Democratic Mental Health", "info": "Policy Brief", "file": "/media/policy-brief-democratic-mental-health-english.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Dowload", "button_icon": "icon-download", "alt_color": true } %}
 
 This project is being made possible thanks to organisations such as Fundación Platoniq, la University of Birmingham, 42 street, KR, Youth Focus, RSA and UK Research and Innovation. The Platoniq Foundation's contribution to this project is made possible by the Open Society Foundation and ALDA. European Association for Local Democracy.
