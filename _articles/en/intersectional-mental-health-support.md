@@ -74,4 +74,4 @@ As part of our work, we also enabled young people to self-evaluate their own exp
 
 ### Check the policy recomendations here
 
-This project is being made possible thanks to organisations such as Fundación Platoniq, la University of Birmingham, 42 street, KR, Youth Focus, RSA and UK Research and Innovation. And is supported by Open Society Foundation and ALDA. European Association for Local Democracy.
+This project is being made possible thanks to organisations such as Fundación Platoniq, la University of Birmingham, 42 street, KR, Youth Focus, RSA and UK Research and Innovation. The Platoniq Foundation's contribution to this project is made possible by the Open Society Foundation and ALDA. European Association for Local Democracy.
