@@ -75,4 +75,4 @@ Mediante tres procesos participativos e investigación participativa, los jóven
 
 ### Consulta las recomendaciones políticas, aquí.
 
-Este proyecto está siendo posible gracias a organizaciones cómo  Fundación Platoniq, Universisity of Birmingham, 42 street, KR, Youth Focus, RSA y la UK Research and Innovation. La contribución de la Fundación Platoniq en este proyecto es posible gracias a la Open Society Foundation y ALDA. European Association for Local Democracy.
+Este proyecto está siendo posible gracias a organizaciones cómo  Fundación Platoniq, University of Birmingham, 42 street, KR, Youth Focus, RSA y la UK Research and Innovation. La contribución de la Fundación Platoniq en este proyecto es posible gracias a la Open Society Foundation y ALDA. European Association for Local Democracy.
