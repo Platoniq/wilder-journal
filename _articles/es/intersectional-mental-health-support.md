@@ -14,6 +14,7 @@ description: En este documento se recogen algunas de las recomendaciones sobre
 author: Fundación Platoniq
 author_uids:
   - platoniq
+  - University-Birmingham
 cover:
   path: /media/articles/heroes/20230425_kidding-me.jpg
   mobile: /media/articles/mobile/20230425_kidding-me.jpg
