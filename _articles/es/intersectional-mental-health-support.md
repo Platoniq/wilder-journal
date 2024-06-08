@@ -11,7 +11,7 @@ title: Escuchar la voz de los jóvenes para mejorar el apoyo interseccional en
   salud mental
 description: En este documento se recogen algunas de las recomendaciones sobre
   salud mental interseccional elaboradas por jóvenes
-author: Fundación Platoniq
+author: Fundación Platoniq y la Universidad de Birmingham
 author_uids:
   - platoniq
   - University-Birmingham
