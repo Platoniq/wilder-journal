@@ -78,4 +78,6 @@ Mediante tres procesos participativos e investigación participativa, los jóven
 
 {% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/policy-brief-salud-mental-democratica-esp.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
 
-Este proyecto está siendo posible gracias a organizaciones cómo  Fundación Platoniq, University of Birmingham, 42 street, KR, Youth Focus, RSA y la UK Research and Innovation. La contribución de la Fundación Platoniq en este proyecto es posible gracias a la Open Society Foundation y ALDA. European Association for Local Democracy.
+Un proyecto liderado por la Universidad de Birmingham y la Fundación Platoniq, en colaboración con la Manchester Metropolitan University, Youth Focus North West, Katy Rubin—Legislative Theatre Practitioner, 42nd Street, Reform Radio, GM-i Thrive, con fondos de RSA/UKRI, Universidad de Birmingham. 
+
+La participación de la Fundación Platoniq en este proyecto ha sido posible gracias a la Open Society Foundations and European Association for Local Democracy.
