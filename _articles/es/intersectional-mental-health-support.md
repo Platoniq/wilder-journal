@@ -74,13 +74,13 @@ Como parte de nuestro trabajo, desde la Fundación Platoniq permitimos a los jó
 
 Mediante tres procesos participativos e investigación participativa, los jóvenes co-produjeron recomendaciones políticas para un apoyo a la salud mental interseccionalmente inclusivo y estas son las convergencias que presentaron. 
 
-{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 1", "url": "https://youtu.be/embed/KDXwxdf9G9c" } %}
+{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 1", "url": "https://youtube.com/embed/KDXwxdf9G9c" } %}
 
-{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 2", "url": "https://youtu.be/embed/z2BdNANwo1U" } %}
+{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 2", "url": "https://youtube.com/embed/z2BdNANwo1U" } %}
 
-{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 3", "url": "https://youtu.be/embed/yImrLl8soec" } %}
+{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 3", "url": "https://youtube.com/embed/yImrLl8soec" } %}
 
-{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 4", "url": "https://youtu.be/embed/seB-CIZhdFo" } %}
+{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 4", "url": "https://youtube.com/embed/seB-CIZhdFo" } %}
 
 ### Consulta las recomendaciones políticas, aquí:
 
