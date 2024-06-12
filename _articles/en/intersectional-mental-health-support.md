@@ -77,6 +77,10 @@ As part of our work, we also enabled young people to self-evaluate their own exp
 
 {% file { "title": "Listening to Youth Voice to better intersectional mental health support", "info": "Policy Brief", "file": "/media/policy-brief-democratic-mental-health-eng.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Dowload", "button_icon": "icon-download", "alt_color": true } %}
 
-A project led by University of Birmingham and Platoniq Fountadion with the collaboration of Manchester Metropolitan University, Youth Focus North West, Katy Rubin—Legislative Theatre Practitioner, 42nd Street, Reform Radio, GM-i Thrive, with funding from RSA/UKRI, University of Birmingham. 
+This project has been carried out in two phases, the first in Manchester and the second in Barcelona.
+
+Phase 1: Led in Manchester by Sonia Bussu at the University of Birmingham. In collaboration with: Platoniq, Katy Rubin, The Manchester Metropolitan University, Youth Focus North West, 42nd Street and Reform Radio.
+
+Phase 2: Co-led in Barcelona by Sonia Bussu and Platoniq. In collaboration with: Katy Rubin, 42nd Street and Zara Eve.
 
 Platoniq Foundation’s participation in this project was possible thank to Open Society Foundations and European Association for Local Democracy.
