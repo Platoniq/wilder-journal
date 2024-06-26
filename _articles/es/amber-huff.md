@@ -4,7 +4,7 @@ volume-uid: wilder-journal-2
 category: interviews
 published: true
 date: 2024-06-26T15:25:00.000Z
-date-updated: 2024-06-26T15:25:00.000Z
+date-updated: 2024-06-26T15:26:00.000Z
 article-order: 12
 uid: amber-huff
 title: "Los comunes al detalle: Amplificar las historias de la naturaleza a
