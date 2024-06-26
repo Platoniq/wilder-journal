@@ -86,8 +86,7 @@ Este respeto implica la defensa de prácticas y valores que respeten las diferen
 
 **Amber Huff:** Sí, la intensidad del activismo puede llevar a la fatiga y al agotamiento, por eso el cuidado y el apoyo mutuo son tan vitales. Normalizar los valores del cuidado significa cuidarse mutuamente para prevenir el agotamiento. Lo ideal sería que hubiera financiación pública para el cuidado de quienes hacen este trabajo crucial. La renta básica universal y las redes de seguridad social pueden ayudar a aliviar las presiones sobre los activistas, permitiéndoles centrarse más en sus causas sin la tensión constante de garantizar unas condiciones de vida básicas.
 
-
-{% quote { "author": "Amber Huff" } %}A medida que nos enfrentamos a crisis múltiples y superpuestas, debemos aprender del pasado y evitar repetir errores, aunque nos encontremos con nuevos retos. {% endquote %}
+{% quote { "author": "Amber Huff" } %}A medida que nos enfrentamos a crisis múltiples y superpuestas, debemos aprender del pasado y evitar repetir errores, aunque nos encontremos con nuevos retos{% endquote %}
 
 
 Sin embargo, también debemos ser cautos. Históricamente, los Estados del bienestar han servido a veces para sostener el crecimiento económico a expensas del medio ambiente. Tenemos que ser reflexivos sobre nuestras demandas, reconociendo nuestra interconexión con otras personas y con el medio ambiente. A medida que nos enfrentamos a crisis múltiples y superpuestas, debemos aprender del pasado y evitar repetir errores, aunque nos encontremos con nuevos retos. Nuestras luchas deben tener como objetivo construir un mundo que sustente diversas formas de vida y prosperidad, basado en el respeto y el cuidado mutuos.
@@ -128,11 +127,11 @@ Cuando la información se restringe a determinados canales, puede utilizarse pol
 
 
 En cuanto a las asambleas ciudadanas, no hay ninguna contradicción inherente entre utilizar artes narrativas y datos cuantitativos. Cada uno sirve a un propósito diferente y responde a distintos tipos de preguntas sobre un problema determinado. Los datos cuantitativos proporcionan información sobre magnitudes y cantidades, muestran los cambios a lo largo del tiempo y ofrecen una visión amplia de un problema. Por el contrario, los relatos y las historias cualitativas añaden profundidad, destacando las experiencias multidimensionales de los individuos.
+
+
 Por ejemplo, si alguien comparte su experiencia de injusticia, su relato puede incluir varios componentes que los datos cualitativos por sí solos no pueden captar plenamente. Esta historia personal puede desencadenar un debate, proporcionando una comprensión matizada de la cuestión. Para cuantificar la prevalencia de estas experiencias, podemos recurrir a los datos cuantitativos, que complementan la narración ilustrando el contexto más amplio.
 
-
-{% quote { "author": "Amber Huff" } %}Las narraciones nos proporcionan una comprensión profunda y empática de los problemas, mientras que los datos cuantitativos nos ayudan a comprender la escala y la frecuencia de estas experiencias. {% endquote %}
-
+{% quote { "author": "Amber Huff" } %}Las narraciones nos proporcionan una comprensión profunda y empática de los problemas, mientras que los datos cuantitativos nos ayudan a comprender la escala y la frecuencia de estas experiencias{% endquote %}
 
 La combinación de estos enfoques nos permite presentar una imagen más completa. Las narraciones nos proporcionan una comprensión profunda y empática de los problemas, mientras que los datos cuantitativos nos ayudan a comprender la escala y la frecuencia de estas experiencias. Por ejemplo, saber cuántas personas sufren violencia policial es crucial, pero comprender lo que implica la violencia policial requiere escuchar las historias de los afectados.
 

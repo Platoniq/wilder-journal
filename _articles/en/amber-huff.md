@@ -41,9 +41,7 @@ Amber shared some thought-provoking insights on how visual cultures, such as com
 We also discussed the intriguing prospect of integrating non-human voices and nature's perspective into these assemblies, drawing from Amber's experiences with *Sea Change* and impactful documentaries like *My Octopus Teacher.*
 It was a stimulating discussion that left me eager to explore new avenues for citizen engagement and policy making.
 
-
 ![Two Natures, 2024](/media/two-natures-bw-copy.jpeg "Two Natures, 2024")
-
 
 **Olivier Schulbaum: Let's start by talking a little bit about affect and how your work engages with it. How does your work at Future Natures intersect with the concept of affect?**
 
@@ -57,8 +55,7 @@ This social relational approach is important beyond academic thought. It extends
 Given this orientation around affect, it's challenging to talk about affect alone. It's often called an ineffable concept because it's difficult to describe these embodied, pre-cognitive ways of experiencing life and reacting to various encounters. To clarify for discussion, we can differentiate between affect, feelings, and emotions. Think of feelings as biographical and specific to a person—the way that person narrates their experiences, influenced by affect but filtered through their understanding and sense-making process. Emotions, on the other hand, are the social projections or expressions of those feelings. When we talk about affect, we're referring to something that can be pre-cognitive, sensorial, and embodied, felt before we can articulate it, but it can also be post-cognitive.
 
 
-{% quote { "author": "Amber Huff" } %}Some forms of writing, particularly embodied writing, can evoke affective experiences more effectively than others. {% endquote %}
-
+{% quote { "author": "Amber Huff" } %}Some forms of writing, particularly embodied writing, can evoke affective experiences more effectively than others{% endquote %}
 
 Despite its complexity, we can express and communicate our affective experiences, often profoundly, through storytelling and creative methods. Some forms of writing, particularly embodied writing, can evoke affective experiences more effectively than others. This is how I became interested in thinking with and through affect in my work with Future Natures. During the pandemic, I started using techniques of embodied writing to explore the experience of living through a period where societal rules seemed to change rapidly. This wasn't just about lockdown rules but also about broader changes in understanding social organization, government responses to threats, and the power of vaccines.
 
@@ -99,8 +96,7 @@ This respect involves upholding practices and ethos that honor individual differ
 **Amber Huff:** Yes, the intensity of activism can lead to fatigue and burnout, which is why care and mutual support are so vital. Normalizing care values means looking out for each other to prevent burnout. Ideally, there would be public funding for the care of those doing this crucial work. Universal basic income and social safety nets can help alleviate the pressures on activists, allowing them to focus more on their causes without the constant strain of ensuring basic living conditions.
 
 
-{% quote { "author": "Amber Huff" } %}As we face multiple, overlapping crises, we must learn from the past and avoid repeating mistakes, even as we encounter new challenges. {% endquote %}
-
+{% quote { "author": "Amber Huff" } %}As we face multiple, overlapping crises, we must learn from the past and avoid repeating mistakes, even as we encounter new challenges{% endquote %}
 
 However, we must also be cautious. Historically, welfare states have sometimes served to sustain economic growth at the expense of the environment. We need to be reflective about our demands, recognizing our interconnectedness with other people and the environment. As we face multiple, overlapping crises, we must learn from the past and avoid repeating mistakes, even as we encounter new challenges. Our struggles should aim at building a world that supports diverse forms of life and thriving, grounded in mutual respect and care.
 
@@ -143,8 +139,7 @@ Regarding citizen assemblies, there's no inherent contradiction between using na
 For instance, if someone shares their experience of injustice, their narrative might include various components that qualitative data alone cannot fully capture. This personal story can spark a discussion, providing a nuanced understanding of the issue. To quantify the prevalence of such experiences, we can then turn to quantitative data, which complements the narrative by illustrating the broader context.
 
 
-{% quote { "author": "Amber Huff" } %}Narratives give us a deep, empathetic understanding of issues, while quantitative data helps us grasp the scale and frequency of these experiences. {% endquote %}
-
+{% quote { "author": "Amber Huff" } %}Narratives give us a deep, empathetic understanding of issues, while quantitative data helps us grasp the scale and frequency of these experiences{% endquote %}
 
 Combining these approaches allows us to present a fuller picture. Narratives give us a deep, empathetic understanding of issues, while quantitative data helps us grasp the scale and frequency of these experiences. For example, knowing how many people experience police violence is crucial, but understanding what police violence entails requires listening to the stories of those affected.
 In summary, using both narrative and quantitative methods in citizen assemblies and other participatory platforms can foster a more comprehensive and empathetic understanding of complex issues, making the information more accessible and impactful.
