@@ -7,11 +7,20 @@ date: 2024-06-26T15:25:00.000Z
 date-updated: 2024-06-26T15:25:00.000Z
 article-order: 12
 uid: amber-huff
+title: "Commons in Focus: Amplifying Nature's Stories through Visual Cultures -
+  A conversation with Amber Huff"
+description: A conversation with Amber Huff
+author: Olivier Schulbaum
+author_uids:
+  - olivier-schulbaum
 interviewee: Amber Huff
 cover:
   path: /media/articles/heroes/amber-head-color.jpg
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+  alt: Amber Huff, 2024
+  credits: Amber Huff, 2024
+  caption: Amber Huff, 2024
 related_article_uids:
   - data-streamers
   - web-dubois-data

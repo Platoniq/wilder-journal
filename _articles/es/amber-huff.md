@@ -7,9 +7,10 @@ date: 2024-06-26T15:25:00.000Z
 date-updated: 2024-06-26T15:25:00.000Z
 article-order: 12
 uid: amber-huff
-title: amber
-description: amber
-author: Olivier
+title: "Los comunes al detalle: Amplificar las historias de la naturaleza a
+  través de culturas visuales - Una conversación con Amber Huff"
+description: Una conversación con Amber Huff
+author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
 interviewee: Amber Huff
