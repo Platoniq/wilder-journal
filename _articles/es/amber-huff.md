@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/amber-head-color.jpg
 ---
 Hace unas semanas mantuve una fascinante conversación con Amber Huff, investigadora del Instituto de Estudios sobre Desarrollo de la Universidad de Sussex y coordinadora del Centro para las Naturalezas Futuras.
 
