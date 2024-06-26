@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-01-09T17:28:04.239Z
 date-updated: 2024-01-09T17:28:04.305Z
-article-order: 12
+article-order: 13
 uid: data-streamers
 title: Diálogo sobre vértigo, relato y legado de los datos
 description: Axel Gasulla es investigador en las áreas de tecnología nueva de
