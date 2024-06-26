@@ -5,13 +5,16 @@ category: interviews
 published: true
 date: 2024-06-26T15:25:00.000Z
 date-updated: 2024-06-26T15:25:00.000Z
-article-order: 7
+article-order: 12
 uid: amber-huff
 interviewee: Amber Huff
 cover:
   path: /media/articles/heroes/amber-head-color.jpg
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - data-streamers
+  - web-dubois-data
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
