@@ -16,7 +16,7 @@ interviewee: Amber Huff
 cover:
   path: /media/articles/heroes/amber-head-color.jpg
   mobile: /media/articles/mobile/amber-head-color.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/amber-head-color.jpg
   alt: Amber Huff, 2024
   credits: Amber Huff, 2024
   caption: Amber Huff, 2024
