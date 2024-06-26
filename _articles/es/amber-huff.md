@@ -67,9 +67,7 @@ Estas fuerzas sociales históricas han alterado nuestra experiencia de los paisa
 
 Cuando profundizamos en estas dinámicas, el mito del control humano y el dominio de la naturaleza se desmorona. Esta crítica, vista a través de la lente de la experiencia, el significado y el valor, se alinea con nuestras ideas sobre los bienes comunes y la comunalidad. Destaca la necesidad de dar respuestas amplias y radicales a estos retos.
 
-
-![Rev of everyday life Zocco, 2024](/media/rev-of-everyday-life-zocco.jpg "Rev of everyday life Zocco, 2024")
-
+![Rev of everyday life Zocco, 2024](/media/rev-of-everyday-life-zocco.jpg "Rev of everyday Zocco, 2024")
 
 **Olivier Schulbaum: Volviendo a la idea del afecto, tengo una pregunta sencilla. Cuando se habla de amenazas colectivas o experiencias compartidas que nos afectan de forma diferente, casi podríamos calcular un afecto medio en una comunidad específica. En lo que respecta al activismo, ¿se está convirtiendo el afecto en una especie de bien común en sí mismo? ¿Existe un sentimiento o una respuesta compartida que represente la voz de un movimiento, o es importante mantener una diversidad de afectos para transmitir un mensaje más fuerte a los políticos y a los responsables de la toma de decisiones?**
 
@@ -105,7 +103,6 @@ No existe una solución milagrosa a la crisis climática. El discurso político 
 
 
 Muchas personas se sienten impotentes ante las noticias de genocidios, tormentas masivas y otros desastres climáticos. Reconocen que estos problemas se deben al cambio climático antropogénico, pero no se sienten personalmente responsables. Comprender las relaciones de poder e identificar dónde tenemos poder para marcar la diferencia es crucial. El encuadre planetario de los problemas y las soluciones puede hacernos olvidar que los cambios se producen en lugares concretos, donde podemos intervenir.
-
 
 ![Future Natures Zocco, 2024](/media/future-natures-zocco.jpg "Future Natures Zocco, 2024")
 
@@ -150,6 +147,8 @@ Diferentes métodos y formas de pruebas son adecuados para diferentes tipos de p
 
 
 Estoy de acuerdo con usted en que la combinación de diferentes formas de pruebas y narración puede ser poderosa. Aunque la combinación específica puede variar según el tema o la región, los métodos creativos pueden mejorar significativamente la comunicación y la comprensión. El reto suele residir en la receptividad de los políticos a estas formas visuales y narrativas. No obstante, la integración de métodos participativos puede activar una forma de diálogo más inclusiva y atractiva.
+
+![People hands Zocco, 2024](/media/people-hands-zocco.jpg "People hands Zocco, 2024")
 
 
 ![People Hands Zocco, 2024](/media/people-hands-zocco.jpg "People Hands Zocco, 2024")

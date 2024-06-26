@@ -76,8 +76,7 @@ These historical social forces have altered our experiences of landscapes and cr
 
 When we dig deeper into these dynamics, the myth of human control and mastery of nature falls apart. This critique, viewed through the lens of experience, meaning, and value, aligns with our ideas about the commons and commoning. It highlights the need for broad and radical responses to these challenges.
 
-
-![Rev of everyday life Zocco, 2024](/media/rev-of-everyday-life-zocco.jpg "Rev of everyday life Zocco, 2024")
+![Rev of everyday life Zocco, 2024](/media/rev-of-everyday-life-zocco.jpg "Rev of everyday Zocco, 2024")
 
 **Olivier Schulbaum: Maybe taking it back to this idea of affect, I have a simple question. When you talk about collective threats or shared experiences that affect us differently, we could almost calculate an average affect in a specific community. Regarding activism, is affect becoming some kind of commons in itself? Is there a shared feeling or response that represents the voice of a movement, or is it important to maintain a diversity of affects to convey a stronger message to politicians and decision-makers?**
 
@@ -112,9 +111,7 @@ These stories often deal with how people process trauma related to changing land
 There is no silver bullet solution to the climate crisis. High-level political discourse has shifted from mitigation to adaptation because repeated international agreements have failed to address the root causes of our accelerating crises. However, by amplifying voices often drowned out in high-level debates and normalizing the idea that it's okay to grieve changing landscapes and loss of life on Earth, we can initiate subjective shifts that ultimately have broader impacts on how our systems operate.
 Many people feel helpless when faced with news of genocide, massive storms, and other climate disasters. They recognize these issues are due to anthropogenic climate change but don't feel personally responsible. Understanding power relations and identifying where we have the power to make a difference is crucial. Planetary framing of problems and solutions can make us forget that changes happen in specific places, where we can intervene.
 
-
 ![Future Natures Zocco, 2024](/media/future-natures-zocco.jpg "Future Natures Zocco, 2024")
-
 
 For instance, emissions originate from certain locations, oil spills occur in specific regions, and the extraction of rare earth minerals for green technologies happens in particular places. These are the sites where intervention is possible. It's not just about personal actions like recycling; it's about more significant actions like shutting down mines if that's what will help your community and environment.
 Whether it's conducting research, expressing solidarity with those resisting socio-ecological violence, or taking direct action, finding where you can intervene can help address your grief and contribute to societal health. Intervening in specific places where change is needed can lay the foundation for building a different future and world.
@@ -154,9 +151,7 @@ We've used these methods in the UK, the United States, South Africa, and elsewhe
 Different methods and forms of evidence are suitable for different types of questions and often work best in combination. Creative methods are particularly valuable when communicating across significant social divides. Participatory filmmaking or photography, for example, can empower people to set the terms of the conversation, especially when discussing policies that affect their local area.
 So, I agree with you that the combination of different forms of evidence and storytelling can be powerful. While the specific mix might vary by topic or region, creative methods can significantly enhance communication and understanding. The challenge often lies in how receptive politicians are to these visual and narrative forms. Nonetheless, integrating participatory methods can activate a more inclusive and engaging form of dialogue.
 
-
-![People Hands Zocco, 2024](/media/people-hands-zocco.jpg "People Hands Zocco, 2024")
-
+![People hands Zocco, 2024](/media/people-hands-zocco.jpg "People hands Zocco, 2024")
 
 **Olivier Schulbaum: As part of citizen assemblies, there's still a lot of work to do. Despite the participatory nature, policymaking often becomes technical. Politicians and administrators want to reach clear consensus, so no matter which creative forms are used, the output must be standardized policy recommendations. We had an example with a project on youth mental health using Legislative theater to produce recommendations. However, the consensus and energy around creative methods often get distilled into technical formats for politicians. How can we ensure that the transition from creative methods to policy recommendations retains the impact of those methods? Is this possible, or is it a lost cause?**
 
