@@ -73,10 +73,6 @@ As part of our work, we also enabled young people to self-evaluate their own exp
 
  By engaging in participatory processes and participatory research, young people co produced policy recommendations for intersectionality inclusive mental health support. 
 
-### Check the policy recomendations here:
-
-{% file { "title": "Listening to Youth Voice to better intersectional mental health support", "info": "Policy Brief", "file": "/media/policy-brief-democratic-mental-health-eng.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Dowload", "button_icon": "icon-download", "alt_color": true } %}
-
 This project has been carried out in two phases, the first in Manchester and the second in Barcelona.
 
 Phase 1: Led in Manchester by Sonia Bussu at the University of Birmingham. In collaboration with: Platoniq, Katy Rubin, The Manchester Metropolitan University, Youth Focus North West, 42nd Street and Reform Radio.

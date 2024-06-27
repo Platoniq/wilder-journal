@@ -82,10 +82,6 @@ Mediante tres procesos participativos e investigación participativa, los jóven
 
 {% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 4", "url": "https://youtube.com/embed/seB-CIZhdFo" } %}
 
-### Consulta las recomendaciones políticas, aquí:
-
-{% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/policy-brief-salud-mental-democratica-esp.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
-
 Este proyecto se ha llevado a cabo en dos fases, la primera en Manchester y la segunda en Barcelona.
 
 Fase 1: Liderada en Mancheste por Sonia Bussu en la Universidad de Birmingham. En colaboración con: Platoniq, Katy Rubin, The Manchester Metropolitan University, Youth Focus North West, 42nd Street y Reform Radio.
