@@ -68,3 +68,7 @@ Si quieres adherirte **individual o colectivamente** a este manifiesto, puedes h
 Los firmantes actuales individuales y colectivos pueden consultarse [aquí.](https://docs.google.com/document/d/1bthN4p7DxwiUms6gUQ4V4AvGnWUqn17m/edit?rtpof=true&sd=true)
 
 **Organizaciones adheridas al Manifiesto:** Cámara Cívica, Cátedra José María Martín Patino de la Cultura del Encuentro, CECU, Coglobal, Consejo de la Juventud de España, Cooperativa Raons Públiques, Deliberativa, Demos Lab, Fundación Platoniq, DigitalFems, Equipo Europa, Fakali, Hay Derecho, Hexagonal, Ideas en Guerra, Komons, Marea Deliberativa, Más Democracia, NovaGob, Osoigo, Oxfam Intermón, Plataforma de Infancia, Political Watch, PorCausa, Red Académica de Gobierno Abierto, Secretariado Gitano, Talento para el Futuro, Transparencia Internacional España.
+
+
+
+{% file { "title": "MANIFIESTO PLAN DE ACCIÓN POR LA DEMOCRACIA", "info": "undefined", "file": "media/medidas_en_materia_de_regeneracion_democr_ática_urgentes_y_necesarias.pdf", "image": "/media/photo_2024-07-17_15-26-19.jpg", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
