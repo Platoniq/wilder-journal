@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2024-07-29-a-las-17.14.44.png
 ---
 Dayo Eseonu, a lecturer at Lancaster University, focuses on racial equity and justice through participatory and deliberative processes. She emphasizes the political nature of her work, highlighting the importance of amplifying marginalized voices using critical race theory's "voice of color." Utilizing Afrofuturism, she engages communities creatively to envision and design equitable futures. Through projects like working with Rekindle School, Eseonu seeks to address systemic racism in education by directly involving young people in shaping the solutions. She advocates for research ethics that centre collaboration with communities rather than exploiting them.
 
