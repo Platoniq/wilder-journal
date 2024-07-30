@@ -20,7 +20,7 @@ author_uids:
 interviewee: Dayo Esenou
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-07-29-a-las-17.14.44.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2024-07-29-a-las-17.14.44.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Dayo Esenou, INSIPIRE 2024
   credits: Adrià Salcedo
