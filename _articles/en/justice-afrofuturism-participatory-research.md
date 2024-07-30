@@ -77,7 +77,7 @@ I’m currently working with an amazing school called Rekindle School, based in 
 
 **You work with concepts, narratives, and qualitative data. How do you visualize these results?**
 
-I'm currently grappling with this. I've used many creative methods with young people, resulting in artifacts, audio, and video. Visualizing this data is a challenge. One approach I'm taking is turning it into a board game. I'm also hoping to have an exhibition with audio, artifacts, and stories created by participants in a future project. This way, policymakers can see and listen to the materials rather than just reading a report. Another idea I'm considering is using political theater, specifically the Theatre of the Oppressed.
+I'm currently grappling with this. I've used many creative methods with young people, resulting in artifacts, audio, and video. Visualizing this data is a challenge. One approach I'm taking is turning it into a board game. I'm also hoping to have an exhibition with audio, artifacts, and stories created by participants in a future project. This way, policymakers can see and listen to the materials rather than just reading a report. [Another idea I'm considering is using political theater, specifically the Theatre of the Oppressed.](https://journal.platoniq.net/en/wilder-journal-2/interviews/katy-rubin/)
 
 **What's your role in the INSPIRE project as a researcher in projects aimed at changing or enhancing democratic participation?**
 

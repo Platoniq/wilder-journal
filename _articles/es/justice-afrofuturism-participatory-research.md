@@ -80,7 +80,7 @@ Actualmente trabajo con una escuela increíble llamada Rekindle School, con sede
 
 **Tú trabajas con conceptos, narraciones y datos cualitativos. ¿Cómo visualizas estos resultados?**
 
-Actualmente estoy lidiando con esto. He utilizado muchos métodos creativos con los jóvenes, que han dado como resultado artefactos, audio y vídeo. Visualizar estos datos es todo un reto. Un enfoque que estoy adoptando es convertirlos en un juego de mesa. También espero hacer una exposición con audio, artefactos e historias creadas por los participantes en un futuro proyecto. De este modo, los responsables políticos podrán ver y escuchar los materiales en lugar de limitarse a leer un informe. Otra idea que estoy considerando es utilizar el teatro político, concretamente el Teatro del Oprimido.
+Actualmente estoy lidiando con esto. He utilizado muchos métodos creativos con los jóvenes, que han dado como resultado artefactos, audio y vídeo. Visualizar estos datos es todo un reto. Un enfoque que estoy adoptando es convertirlos en un juego de mesa. También espero hacer una exposición con audio, artefactos e historias creadas por los participantes en un futuro proyecto. De este modo, los responsables políticos podrán ver y escuchar los materiales en lugar de limitarse a leer un informe. [Otra idea que estoy considerando es utilizar el teatro político, concretamente el Teatro del Oprimido.](https://journal.platoniq.net/es/wilder-journal-2/interviews/katy-rubin/)
 
 **¿Cuál es tu papel en el proyecto INSPIRE como investigadora en proyectos destinados a cambiar o mejorar la participación democrática?**
 
