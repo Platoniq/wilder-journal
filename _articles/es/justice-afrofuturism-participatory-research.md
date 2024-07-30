@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: false
-date: 2024-07-30T11:46:00.000Z
-date-updated: 2024-07-30T11:46:00.000Z
+date: 2024-07-30T12:02:00.000Z
+date-updated: 2024-07-30T12:03:00.000Z
 article-order: 8
 uid: Justice-Afrofuturism-Participatory-Research
 title: "Salvando las distancias: Dayo Eseonu sobre justicia racial,
