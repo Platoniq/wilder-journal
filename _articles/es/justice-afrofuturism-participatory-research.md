@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-07-30T12:02:00.000Z
 date-updated: 2024-07-30T12:03:00.000Z
-article-order: 8
+article-order: 11
 uid: Justice-Afrofuturism-Participatory-Research
 title: "Salvando las distancias: Dayo Eseonu sobre justicia racial,
   afrofuturismo e investigación participativa"

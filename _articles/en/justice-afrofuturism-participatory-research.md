@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-07-30T12:02:00.000Z
 date-updated: 2024-07-30T12:03:00.000Z
-article-order: 8
+article-order: 11
 uid: Justice-Afrofuturism-Participatory-Research
 title: "Bridging Gaps: Dayo Eseonu on Racial Justice, Afrofuturism, and
   Participatory Research"
