@@ -55,11 +55,17 @@ That's an interesting question. How are you defining polarization? Can you work 
 
 My colleague, Florence Okoye, and I co-wrote a paper on this topic. She works in service design, and we explored how public services can sometimes replicate racial inequalities. The article discusses how racially minoritized communities are perceived in the service design process. They're often seen as objects or stereotypes rather than people with agency. Afrofuturism can change these narratives and challenge how service users are seen by introducing their own words, knowledge, and experiences. This disrupts racialized stereotypes and unhelpful narratives, which is crucial when designing new services.
 
+{% quote { "author": "Dayo Esegou" } %}If you start with a biased view, you limit the possibilities for effective service design.{% endquote %}
+
 For example, I was working with a group of employment support service providers creating a persona of a racially minoritized person. They relied on societal stereotypes, depicting an 18-year-old Pakistani young person with no aspirations. This limited their ability to design a service that dealt with one of the root causes of unemployment for racially minoritized people, racism. If you start with a biased view, you limit the possibilities for effective service design.
 
 **Positive discrimination is a key tool to promote equal opportunities and the positive freedom of historically disadvantaged groups, but is it fair to treat certain population groups differently? Doesn’t this conflict with our idea of representative democracy? How would positive discrimination be applied to deliberative processes?**
 
-In the UK, we have positive action rather than positive discrimination, but I don’t know other European contexts. For example in a recruitment context, we do everything we can to make people aware of job opportunities but appoint the best person for the job rather than appoint a racially minoritized person solely on their race. The problem with representative democracy is that minorities will only have a minority say when many of the issues negatively impact on them disproportionately. Equity demands that we provide differential treatment based on historical injustices rather than treating everyone the same if we really want to move to a more just society. There is a more philosophical answer to this that I don’t have.
+In the UK, we have positive action rather than positive discrimination, but I don’t know other European contexts. For example in a recruitment context, we do everything we can to make people aware of job opportunities but appoint the best person for the job rather than appoint a racially minoritized person solely on their race. 
+
+{% quote { "author": "Dayo Esegou" } %}Equity demands that we provide differential treatment based on historical injustices rather than treating everyone the same if we really want to move to a more just society. {% endquote %}
+
+The problem with representative democracy is that minorities will only have a minority say when many of the issues negatively impact on them disproportionately. Equity demands that we provide differential treatment based on historical injustices rather than treating everyone the same if we really want to move to a more just society. There is a more philosophical answer to this that I don’t have.
 
 **In a deliberative setting, if we select an "impartial" sample of society, marginalized voices may still remain minority. How do we ensure that the legitimate interests of an underrepresented group are effectively connected with and addressed alongside the interests of the majority?**
 
