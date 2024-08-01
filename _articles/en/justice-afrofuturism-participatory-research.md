@@ -14,14 +14,14 @@ description: Dayo Eseonu works as a lecturer in politics and policy at Lancaster
   on the processes through which these can be achieved. She is particularly
   interested in participatory and deliberative processes and spaces.
 author: Olivier Schulbaum & Cristian Palazzi
-interviewee: Dayo Esenou
+interviewee: Dayo Eseonu
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-07-29-a-las-17.14.44.png
   mobile: /media/articles/mobile/captura-de-pantalla-2024-07-29-a-las-17.14.44.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2024-07-29-a-las-17.14.44.png
-  caption: Dayo Esenou, INSIPIRE 2024
-  alt: Dayo Esenou, INSIPIRE 2024
-  credits: Adrià Salcedo
+  caption: Dayo Eseonu, INSIPIRE 2024
+  alt: Dayo Eseonu, INSIPIRE 2024
+  credits: Adrián Salcedo
 related_article_uids:
   - amber-huff
   - democracy-is-fun
@@ -55,7 +55,7 @@ That's an interesting question. How are you defining polarization? Can you work 
 
 My colleague, Florence Okoye, and I co-wrote a paper on this topic. She works in service design, and we explored how public services can sometimes replicate racial inequalities. The article discusses how racially minoritized communities are perceived in the service design process. They're often seen as objects or stereotypes rather than people with agency. Afrofuturism can change these narratives and challenge how service users are seen by introducing their own words, knowledge, and experiences. This disrupts racialized stereotypes and unhelpful narratives, which is crucial when designing new services.
 
-{% quote { "author": "Dayo Esegou" } %}If you start with a biased view, you limit the possibilities for effective service design.{% endquote %}
+{% quote { "author": "Dayo Eseonu" } %}If you start with a biased view, you limit the possibilities for effective service design.{% endquote %}
 
 For example, I was working with a group of employment support service providers creating a persona of a racially minoritized person. They relied on societal stereotypes, depicting an 18-year-old Pakistani young person with no aspirations. This limited their ability to design a service that dealt with one of the root causes of unemployment for racially minoritized people, racism. If you start with a biased view, you limit the possibilities for effective service design.
 
@@ -63,7 +63,7 @@ For example, I was working with a group of employment support service providers 
 
 In the UK, we have positive action rather than positive discrimination, but I don’t know other European contexts. For example in a recruitment context, we do everything we can to make people aware of job opportunities but appoint the best person for the job rather than appoint a racially minoritized person solely on their race. 
 
-{% quote { "author": "Dayo Esegou" } %}Equity demands that we provide differential treatment based on historical injustices rather than treating everyone the same if we really want to move to a more just society. {% endquote %}
+{% quote { "author": "Dayo Eseonu" } %}Equity demands that we provide differential treatment based on historical injustices rather than treating everyone the same if we really want to move to a more just society. {% endquote %}
 
 The problem with representative democracy is that minorities will only have a minority say when many of the issues negatively impact on them disproportionately. Equity demands that we provide differential treatment based on historical injustices rather than treating everyone the same if we really want to move to a more just society. There is a more philosophical answer to this that I don’t have.
 

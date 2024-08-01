@@ -9,22 +9,23 @@ article-order: 11
 uid: Justice-Afrofuturism-Participatory-Research
 title: "Salvando las distancias: Dayo Eseonu sobre justicia racial,
   afrofuturismo e investigación participativa"
-description: Dayo Eseonu trabaja como profesora de política y política en la
-  Universidad de Lancaster. Su trabajo se centra en la equidad y la justicia
-  raciales, concretamente en los procesos que permiten alcanzarlas. Le interesan
-  especialmente los procesos y espacios participativos y deliberativos.
+description: Dayo Eseonu trabaja como profesora de ciencias políticas y
+  políticas públicas en la Universidad de Lancaster. Su trabajo se centra en la
+  equidad y la justicia raciales, concretamente en los procesos que permiten
+  alcanzarlas. Le interesan especialmente los procesos y espacios participativos
+  y deliberativos.
 author: Olivier Schulbaum y Cristian Palazzi
 author_uids:
   - olivier-schulbaum
   - cristian-palazzi
-interviewee: Dayo Esenou
+interviewee: Dayo Eseonu
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-07-29-a-las-17.14.44.png
   mobile: /media/articles/mobile/captura-de-pantalla-2024-07-29-a-las-17.14.44.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2024-07-29-a-las-17.14.44.png
-  alt: Dayo Esenou, INSIPIRE 2024
-  credits: Adrià Salcedo
-  caption: Dayo Esenou, INSIPIRE 2024
+  alt: Dayo Eseonu, INSIPIRE 2024
+  credits: Adrián Salcedo
+  caption: Dayo Eseonu, INSIPIRE 2024
 related_article_uids:
   - amber-huff
   - democracy-is-fun
@@ -58,7 +59,7 @@ Es una pregunta interesante. ¿Cómo defines tú la polarización? ¿Se puede tr
 
 Mi colega Florence Okoye y yo coescribimos un artículo sobre este tema. Ella trabaja en el diseño de servicios y nosotras estudiamos cómo los servicios públicos pueden a veces reproducir las desigualdades raciales. El artículo analiza cómo se percibe a las comunidades racialmente minoritarias en el proceso de diseño de servicios. A menudo se las ve como objetos o estereotipos, no como personas con capacidad de acción. El afrofuturismo puede cambiar estas narrativas y cuestionar cómo se ve a los usuarios de los servicios introduciendo sus propias palabras, conocimientos y experiencias. Así se rompen los estereotipos raciales y los relatos inútiles, lo que es crucial a la hora de diseñar nuevos servicios.
 
-{% quote { "author": "Dayo Esegou" } %}Si se parte de una visión sesgada, se limitan las posibilidades de diseñar un servicio eficaz.{% endquote %}
+{% quote { "author": "Dayo Eseonu" } %}Si se parte de una visión sesgada, se limitan las posibilidades de diseñar un servicio eficaz.{% endquote %}
 
 Por ejemplo, trabajé con un grupo de proveedores de servicios de apoyo al empleo creando un personaje de una persona racialmente minoritaria. Se basaron en los estereotipos sociales, representando a un joven pakistaní de 18 años sin aspiraciones. Esto limitó su capacidad para diseñar un servicio que abordara una de las causas fundamentales del desempleo de las personas pertenecientes a minorías raciales: el racismo. Si se parte de una visión sesgada, se limitan las posibilidades de diseñar un servicio eficaz.
 
@@ -66,7 +67,7 @@ Por ejemplo, trabajé con un grupo de proveedores de servicios de apoyo al emple
 
 En el Reino Unido tenemos acción positiva en lugar de discriminación positiva, pero no conozco otros contextos europeos. Por ejemplo, en un contexto de contratación, hacemos todo lo posible para que la gente conozca las oportunidades de trabajo, pero nombramos a la mejor persona para el puesto en lugar de nombrar a una persona racialmente minoritaria únicamente por su raza. 
 
-{% quote { "author": "Dayo Esegou" } %}La equidad exige que demos un trato diferenciado basado en injusticias históricas en lugar de tratar a todos por igual si realmente queremos avanzar hacia una sociedad más justa.{% endquote %}
+{% quote { "author": "Dayo Eseonu" } %}La equidad exige que demos un trato diferenciado basado en injusticias históricas en lugar de tratar a todos por igual si realmente queremos avanzar hacia una sociedad más justa.{% endquote %}
 
 El problema de la democracia representativa es que las minorías sólo tendrán una voz minoritaria cuando muchas de las cuestiones les afecten de forma desproporcionada. La equidad exige que demos un trato diferenciado basado en injusticias históricas en lugar de tratar a todos por igual si realmente queremos avanzar hacia una sociedad más justa. Hay una respuesta más filosófica a esto que yo no tengo.
 
