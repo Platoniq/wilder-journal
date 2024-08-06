@@ -23,7 +23,7 @@ cover:
   caption: Ésèpe, Classic, 2023
 related_article_uids:
   - revolutionmindset
-  - null
+  - editorial2
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
