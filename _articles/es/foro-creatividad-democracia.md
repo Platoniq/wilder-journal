@@ -40,6 +40,8 @@ Presentamos el **[Foro sobre Deliberación, Creatividad y Democracia.](https://o
 
 La forma en que nos organizamos políticamente y tomamos decisiones viene determinada por siglos de tradición y de intercambio. El sistema que reconocemos ahora como válido, la democracia representativa, no es más que la última de las expresiones que ha tomado la organización social durante las últimas décadas. 
 
+![Festival de la participación, Bologna, 2021](/media/photo_2024-08-20_16-46-28.jpg "Festival de la participación, Bologna, 2021")
+
 Esta idea de representación se basa en una concepción de la ciudadanía como conjunto de electores que con su voto determina las formas que toma el poder político. **El ciudadano de a pie no es más que un número y no se le exige necesariamente su implicación en los asuntos comunes, más bien se le presupone cómo sujeto pasivo de derechos, la principal característica del cual es la libertad y pluralidad de intereses.** A partir de aquí, el sistema de partidos se conforma a base de conjuntos más o menos homogéneos de ciudadanos, que ven representados sus intereses en función de sus votos.
 
 En paralelo a la democracia liberal, existen otras maneras contemporáneas de entender la democracia: la democracia republicana, por ejemplo, que no pone el foco en el individuo como sujeto pasivo de derechos sino **como sujeto activo que sustenta una comunidad concreta que hay que reconocer.**
