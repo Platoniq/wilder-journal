@@ -9,8 +9,11 @@ article-order: 2
 uid: foro-creatividad-democracia
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-08-21-a-las-10.12.27.png
-  mobile: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2024-08-21-a-las-10.12.27.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2024-08-21-a-las-10.12.27.png
+related_article_uids:
+  - democracy-manifesto
+  - marea-deliberativa-manifiesto-asambleas
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
