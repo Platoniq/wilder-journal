@@ -7,7 +7,8 @@ date: 2024-08-21T10:12:00.000Z
 date-updated: 2024-08-21T10:12:00.000Z
 article-order: 2
 uid: foro-creatividad-democracia
-title: La deliberación ciudadana se abre paso
+title: "Foro sobre Deliberación, Creatividad y Democracia: la deliberación
+  ciudadana se abre paso"
 description: "Presentamos el Foro sobre Deliberación, Creatividad y Democracia.
   Un espacio de encuentro y de debate donde se tratará de dar respuesta a varias
   preguntas: ¿es posible mejorar la democracia. ¿Tiene sentido hablar
