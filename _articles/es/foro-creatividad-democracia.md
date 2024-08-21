@@ -38,7 +38,7 @@ image:
 ---
 Presentamos el **[Foro sobre Deliberación, Creatividad y Democracia.](https://openspaces.platoniq.net/conferences/FDCD)** Un espacio de encuentro y de debate donde se tratará de dar respuesta a preguntas cómo: ¿es posible mejorar la democracia? ¿Tiene sentido hablar políticamente de las nuevas generaciones? ¿Cuál es la capacidad de influencia de la sociedad civil organizada? ¿Somos marionetas en un sistema que no se sostiene?
 
-**La forma en que nos organizamos políticamente y tomamos decisiones viene determinada por siglos de tradición y de intercambio.** El sistema que reconocemos ahora como válido, la democracia representativa, no es más que la última de las expresiones que ha tomado la organización social durante las últimas décadas. 
+**La forma en que nos organizamos políticamente y tomamos decisiones viene determinada por siglos de tradición y de intercambio.** El sistema que reconocemos ahora como válido, la democracia representativa, no es más que la última de las expresiones que ha tomado la organización social durante las últimas décadas.  
 
 ![Festival de la participación, Bologna, 2021](/media/photo_2024-08-20_16-46-28.jpg "Festival de la participación, Bologna, 2021")
 
