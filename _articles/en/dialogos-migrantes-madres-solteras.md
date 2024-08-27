@@ -14,7 +14,7 @@ description: At a time of maximum polarisation and misinformation, it is
   their living conditions.
 cover:
   path: /media/articles/heroes/why-a-past.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/why-a-past.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Esepe, 2023
   credits: Esepe, 2023
