@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/why-a-past.png
 ---
 En un momento de máxima polarización y desinformación, se hace necesario desarrollar **nuevas formas para explicar el fenómeno migrante que ponga a sus protagonistas en el centro**, que genere debate social y que, en última instancia, permita mejorar sus condiciones de vida.
 

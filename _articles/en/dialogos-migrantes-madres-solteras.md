@@ -25,7 +25,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/why-a-past.png
 ---
 At a time of maximum polarisation and misinformation, it is necessary to develop **new ways of explaining the migrant phenomenon that put its protagonists at the centre,** generate social debate and ultimately improve their living conditions.
 
