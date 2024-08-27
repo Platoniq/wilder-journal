@@ -88,3 +88,19 @@ Some of the references that the participants shared to explain the violence they
 Once the scenes have been identified, the key elements of the scenes have been worked on and a first example of what would be a trigger piece for debate has been produced, it remains to recreate them with more resources and with the intention of making them more impactful when it comes to generating social debate.
 
 ![Relato escenificado](/media/p1076729.jpg "Relato escenificado")
+
+The documentary piece of the whole process has been hosted in La Guixeta, a techno-technological platform for sharing audiovisual content, within the category Migrant Dialogues.
+
+<iframe title="Diàlegs Migrants: Racisme Immobiliari (Cas d'estudi)" width="560" height="315" src="https://peertube.laguixeta.cat/videos/embed/621743fe-a352-40bd-8a7a-0d57e352dc29" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+##### Presentation of the conclusions
+
+The [Deliberation, Creativity and Democracy Forum](https://openspaces.platoniq.net/conferences/FDCD?locale=en) will take place in Barcelona from 15 to 18 October. During the annual meeting of the Delib network, the network of deliberation professionals in the Iberian Peninsula, Platoniq will present, together with Quim Brugué, the conclusions of the project, in connection with the ideas of positive discrimination and deliberation in enclaves through the example of other projects such as [‘Discrimination in access to housing. What we are talking about and how to combat it’,](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5) Olot, 2021.
+
+##### Next steps
+
+With all this information and documentation, the intention is to promote a public event in which the trigger pieces fulfil their true function: **to trigger social debate around such polarised issues as immigration.**
+
+At the event, all interest groups related to the chosen theme will be invited: participants, neighbours, professionals from the administration or from specific companies, in order to carry out a dialogue on the issue and raise awareness of the need for real changes that affect the lives of migrants.
+
+As a conclusion to the Dialogues, the contributions and comments collected will be processed and a document of conclusions will be drawn up, which will later serve to nourish the ‘Migrant Constitution’.
