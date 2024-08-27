@@ -7,7 +7,7 @@ date: 2024-08-27T10:15:00.000Z
 date-updated: 2024-08-27T10:15:00.000Z
 article-order: 7
 uid: dialogos-migrantes-madres-solteras
-title: "Beyond Trauma Porn: New Migrant Narratives for Social Cohesion"
+title: "Beyond Migrant Trauma Porn: New Migrant Narratives for Social Cohesion"
 description: At a time of maximum polarisation and misinformation, it is
   necessary to develop new ways of explaining the migrant phenomenon that put
   its protagonists at the centre, generate social debate and ultimately improve
