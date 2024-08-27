@@ -36,7 +36,7 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/captura-de-pantalla-2024-08-21-a-las-10.12.27.png
 ---
-Presentamos el **[Foro sobre Deliberación, Creatividad y Democracia.](https://openspaces.platoniq.net/conferences/FDCD)** Un espacio de encuentro y de debate donde se tratará de dar respuesta a preguntas cómo: ¿es posible mejorar la democracia? ¿Tiene sentido hablar políticamente de las nuevas generaciones? ¿Cuál es la capacidad de influencia de la sociedad civil organizada? ¿Somos marionetas en un sistema que no se sostiene?
+Presentamos el **[Foro sobre Deliberación, Creatividad y Democracia.](https://openspaces.platoniq.net/conferences/FDCD)** Un espacio de encuentro y de debate, que se celebrará en Barcelona entre [el 15 y el 18 de octubre, ](https://openspaces.platoniq.net/conferences/FDCD)donde se tratará de dar respuesta a preguntas cómo: ¿es posible mejorar la democracia? ¿Tiene sentido hablar políticamente de las nuevas generaciones? ¿Cuál es la capacidad de influencia de la sociedad civil organizada? ¿Somos marionetas en un sistema que no se sostiene?
 
 **La forma en que nos organizamos políticamente y tomamos decisiones viene determinada por siglos de tradición y de intercambio.** El sistema que reconocemos ahora como válido, la democracia representativa, no es más que la última de las expresiones que ha tomado la organización social durante las últimas décadas.  
 
