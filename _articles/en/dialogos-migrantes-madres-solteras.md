@@ -15,7 +15,7 @@ description: At a time of maximum polarisation and misinformation, it is
 cover:
   path: /media/articles/heroes/why-a-past.png
   mobile: /media/articles/mobile/why-a-past.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/why-a-past.png
   alt: Esepe, 2023
   credits: Esepe, 2023
   caption: Esepe, 2023
