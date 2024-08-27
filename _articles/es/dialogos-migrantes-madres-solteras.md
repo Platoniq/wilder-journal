@@ -40,13 +40,13 @@ A partir de estas convicciones nace **“Diálogos Migrantes”**, una experienc
 
 Son palabras de **Desirée Bela-Lobedde**, activista antiracista consultada para proyecto, [con quien mantuvimos en una conversación alrededor de la voz y las capacidades del colectivo migrante](https://www.instagram.com/p/C9eXb7AKaKO/). Según ella, los migrantes son demasiadas veces utilizados como excusa para hablar de problemas sociales estructurales y no tanto como sujetos últimos de deseos y oportunidades. 
 
-#### ¿En qué consisten exactamente los Diálogos Migrantes?
+### ¿En qué consisten exactamente los Diálogos Migrantes?
 
 Sobre esta premisa, los **Diálogos Migrantes** buscan ser un espacio de participación y escucha activa que utiliza la comunicación como excusa para generar impacto social. Utilizando como vehículo la creación de piezas audiovisuales, el proyecto se plantea como una experiencia de búsqueda y co-creación de nuevas formas de narrar sobre aquellas temáticas asociadas a las personas migrantes en España, con la Fundación Platoniq como facilitadora. 
 
 Otra investigadora, **Dayo Esenou,** profesora en la universidad de Lancaster, [de quien publicamos una entrevista](https://journal.platoniq.net/es/wilder-journal-2/interviews/justice-afrofuturism-participatory-research/) nos advierte de lo mismo: ***“Una cosa que evito es lo que se conoce como porno del trauma o porno de la pobreza, donde se estudia a las personas como objetos. Las comunidades racialmente minoritarias tienen capacidad de acción y ya están hablando; el problema es que la gente a menudo no escucha”.*** En su caso, es el afrofuturismo el que viene utilizado como prisma de investigación, algo que le permite salirse de los marcos de dolor establecidos y plantear, gracias al antirracismo especulativo, nuevas formas de narrar y de narrarse.
 
-#### ¿Cuál es el proceso que siguen los Diálogos?
+### ¿Cuál es el proceso que siguen los Diálogos?
 
 **Fase Previa:** Platoniq pone a disposición del proyecto su plataforma Goteo Participa, donde se hará seguimiento online de todo el proceso y sus conclusiones, para poder darle continuidad en el tiempo y recoger todos los aprendizajes.
 
@@ -82,11 +82,11 @@ La pieza documental de todo el proceso se ha alojado en La Guixeta, plataforma t
 
 <iframe title="Diàlegs Migrants: Racisme Immobiliari (Cas d'estudi)" width="560" height="315" src="https://peertube.laguixeta.cat/videos/embed/621743fe-a352-40bd-8a7a-0d57e352dc29" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
-##### Presentación de las conclusiones
+### Presentación de las conclusiones
 
 Entre los días 15 y 18 de octubre tendrá lugar en Barcelona [el Foro de Deliberación, Creatividad y Democracia.](https://openspaces.platoniq.net/conferences/FDCD) Durante el encuentro anual de la red Delib, la red de profesionales de la deliberación de la península ibérica, Platoniq presentará, junto a Quim Brugué, las conclusiones del proyecto, en conexión con las ideas de discriminación positivia y deliberación en enclaves a través del ejemplo de otros proyectos como [“Discriminación en el acceso a la vivienda. De qué hablamos y cómo combatirla”](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5), Olot, 2021.
 
-##### Próximos pasos
+### Próximos pasos
 
 Con toda esta información y documentación, la intención es promover un acto público en el que las piezas disparadoras cumplan su verdadera función: **detonar el debate social en torno a temas tan polarizados como la inmigración.**
 
