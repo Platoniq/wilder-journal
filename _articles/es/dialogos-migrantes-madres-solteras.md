@@ -6,7 +6,7 @@ published: true
 date: 2024-08-27T10:15:00.000Z
 date-updated: 2024-08-27T10:15:00.000Z
 article-order: 7
-uid: dialogos-migrantes-madres-solteras
+uid: dialogos-migrantes-segunda-edicion
 title: "A favor de las identidades complejas: nuevas narrativas migrantes para
   la cohesión social"
 description: En un momento de máxima polarización y desinformación, se hace
