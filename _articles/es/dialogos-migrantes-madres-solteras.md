@@ -86,7 +86,7 @@ La pieza documental de todo el proceso se ha alojado en La Guixeta, plataforma t
 
 # Presentación de las conclusiones y próximos pasos
 
-Entre los días 15 y 18 de octubre tendrá lugar en Barcelona [el Foro de Deliberación, Creatividad y Democracia.](https://openspaces.platoniq.net/conferences/FDCD) Durante el encuentro anual de la red Delib, la red de profesionales de la deliberación de la península ibérica, Platoniq presentará, junto a Quim Brugué, las conclusiones del proyecto, en conexión con las ideas de discriminación positivia y deliberación en enclaves a través del ejemplo de otros proyectos como [“Discriminación en el acceso a la vivienda. De qué hablamos y cómo combatirla”](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5), Olot, 2021.
+Entre los días 15 y 18 de octubre tendrá lugar en Barcelona [el Foro de Deliberación, Creatividad y Democracia.](https://openspaces.platoniq.net/conferences/FDCD) Durante el encuentro anual de la red Delib, la red de profesionales de la deliberación de la península ibérica, Platoniq presentará, junto a Quim Brugué, las conclusiones del proyecto, en conexión con las ideas de discriminación positiva y deliberación en enclaves a través del ejemplo de otros proyectos como [“Discriminación en el acceso a la vivienda. De qué hablamos y cómo combatirla”](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5), Olot, 2021.
 
 Con toda esta información y documentación, la intención es promover un acto público en el que las piezas disparadoras cumplan su verdadera función: **detonar el debate social en torno a temas tan polarizados como la inmigración.**
 
