@@ -16,7 +16,7 @@ description: En un momento de máxima polarización y desinformación, se hace
 author: Cristian Palazzi y Alejandra Gallardo
 author_uids:
   - cristian-palazzi
-  - dante-maschio
+  - alex
 cover:
   path: /media/articles/heroes/why-a-past.png
   mobile: /assets/media/no_image-hero.png
