@@ -48,23 +48,17 @@ Otra investigadora, **Dayo Esenou,** profesora en la universidad de Lancaster, [
 
 #### ¿Cuál es el proceso que siguen los Diálogos?
 
-##### Fase Previa
-
-Platoniq pone a disposición del proyecto su plataforma Goteo Participa, donde se hará seguimiento online de todo el proceso y sus conclusiones, para poder darle continuidad en el tiempo y recoger todos los aprendizajes.
+**Fase Previa:** Platoniq pone a disposición del proyecto su plataforma Goteo Participa, donde se hará seguimiento online de todo el proceso y sus conclusiones, para poder darle continuidad en el tiempo y recoger todos los aprendizajes.
 
 ##### Fase 1. Llamamiento interno a la participación.
 
-En esta primera fase se contactó con la ONG Bcnactua, quien hizo un llamamiento interno a sus usuarias, madres migrantes solteras. El número de participantes podía oscilar entre cinco y ocho personas y, finalmente, fueron cinco las mujeres quienes quisieron participar del proyecto.
+**Fase 1. Llamamiento a la participación:** en esta primera fase se contactó con la ONG Bcnactua, quien hizo un llamamiento interno a sus usuarias, madres migrantes solteras. El número de participantes podía oscilar entre cinco y ocho personas y, finalmente, fueron cinco las mujeres quienes quisieron participar del proyecto.
 
-##### Fase 2. Creación de sentimiento de grupo
-
-Una vez constituido el grupo de trabajo, se abrió un grupo de whatsapp para coordinar a las participantes y empezar a dinamizar algunas preguntas que posteriormente sirvieron para conocer mejor su realidad. Además, se compartió con ellas la grabación de un taller sobre nuevas narrativas a partir de los materiales cedidos para la primera edición de los Diálogos por la Fundación porCausa con el fin de comprender mejor cómo se pueden generar nuevas narrativas en torno al fenómeno migratorio.
+**Fase 2. Creación de sentimiento de grupo:** Constituido el grupo de trabajo, se abrió un grupo de whatsapp para coordinar a las participantes y empezar a dinamizar algunas preguntas que posteriormente sirvieron para conocer mejor su realidad. Además, se compartió con ellas la grabación de un taller sobre nuevas narrativas a partir de los materiales cedidos para la primera edición de los Diálogos por la Fundación porCausa con el fin de comprender mejor cómo se pueden generar nuevas narrativas en torno al fenómeno migratorio.
 
 ![Grupo de Whatsapp](/media/grupo-madres-migrantes.png "Grupo de Whatsapp")
 
-##### Fase 3. Mapeo de temáticas
-
-Durante la primera sesión presencial, se realizaron varias dinámicas basadas en las metodologías del teatro legislativo. El teatro legislativo, creado en 1992 por Augusto Boal, es un intento de utilizar el teatro en un contexto político, con el propósito de crear una democracia más fuerte; es un método para involucrar a las personas afectadas por una realidad y un experimento en torno al potencial del teatro para generar cambio social.
+**Fase 3. Mapeo de temáticas:** Durante la primera sesión presencial, se realizaron varias dinámicas basadas en las metodologías del teatro legislativo. El teatro legislativo, creado en 1992 por Augusto Boal, es un intento de utilizar el teatro en un contexto político, con el propósito de crear una democracia más fuerte; es un método para involucrar a las personas afectadas por una realidad y un experimento en torno al potencial del teatro para generar cambio social.
 
 La primera de las dinámicas que se utilizaron, la dinámica “Sígueme”, sirvió para identificar los automatismos que tenemos integrados en nuestro día a día mediante una serie de instrucciones contradictorias que nos muestran la arbitrariedad que muchas veces toma el poder institucional.
 
@@ -76,15 +70,11 @@ A continuación se llevó a cabo la dinámica, “Gafas para vernos”, que cons
 
 Como complemento, se trabajó con las participantes en la identificación de las emociones ante ciertas situaciones de opresión. La identificación de emociones sirvió como hilo conductor para la sesión de co-creación de contenidos, donde se utilizaron para trabajar la prenda teatral y las situaciones descritas.
 
-##### Fase 4. Co-creación de contenidos
-
-Una vez identificadas las violencias y opresiones que envuelven la vida de las madres migrantes en Barcelona, ​​y las emociones relacionadas, se llevó a cabo una segunda sesión de trabajo con la intención de identificar escenas concretas de la vida cotidiana para ilustrar problemáticas concretas y los cambios necesarios para mejorarlas.
+**Fase 4. Co-creación de contenidos:** Una vez identificadas las violencias y opresiones que envuelven la vida de las madres migrantes en Barcelona, ​​y las emociones relacionadas, se llevó a cabo una segunda sesión de trabajo con la intención de identificar escenas concretas de la vida cotidiana para ilustrar problemáticas concretas y los cambios necesarios para mejorarlas.
 
 ![Relato enriquecido](/media/p1076702.jpg "Relato enriquecido")
 
-##### Fase 5. Diálogos Migrantes
-
-Una vez identificadas las escenas, trabajados los elementos clave de las escenas y la producción de un primer ejemplo de lo que sería una pieza disparadora de debate, queda pendiente la recreación de las mismas con más medios y con la intención de que sean más impactantes a la hora de generar debate social.
+**Fase 5. Diálogos Migrantes:** Una vez identificadas las escenas, trabajados los elementos clave de las escenas y la producción de un primer ejemplo de lo que sería una pieza disparadora de debate, queda pendiente la recreación de las mismas con más medios y con la intención de que sean más impactantes a la hora de generar debate social.
 
 ![Relato escenificado](/media/p1076729.jpg "Relato escenificado")
 
