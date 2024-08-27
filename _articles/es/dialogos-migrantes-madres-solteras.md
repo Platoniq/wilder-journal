@@ -50,8 +50,6 @@ Otra investigadora, **Dayo Esenou,** profesora en la universidad de Lancaster, [
 
 **Fase Previa:** Platoniq pone a disposición del proyecto su plataforma Goteo Participa, donde se hará seguimiento online de todo el proceso y sus conclusiones, para poder darle continuidad en el tiempo y recoger todos los aprendizajes.
 
-##### Fase 1. Llamamiento interno a la participación.
-
 **Fase 1. Llamamiento a la participación:** en esta primera fase se contactó con la ONG Bcnactua, quien hizo un llamamiento interno a sus usuarias, madres migrantes solteras. El número de participantes podía oscilar entre cinco y ocho personas y, finalmente, fueron cinco las mujeres quienes quisieron participar del proyecto.
 
 **Fase 2. Creación de sentimiento de grupo:** Constituido el grupo de trabajo, se abrió un grupo de whatsapp para coordinar a las participantes y empezar a dinamizar algunas preguntas que posteriormente sirvieron para conocer mejor su realidad. Además, se compartió con ellas la grabación de un taller sobre nuevas narrativas a partir de los materiales cedidos para la primera edición de los Diálogos por la Fundación porCausa con el fin de comprender mejor cómo se pueden generar nuevas narrativas en torno al fenómeno migratorio.
