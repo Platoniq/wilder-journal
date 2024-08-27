@@ -82,12 +82,6 @@ Una vez identificadas las violencias y opresiones que envuelven la vida de las m
 
 ![Relato enriquecido](/media/p1076702.jpg "Relato enriquecido")
 
-Como tercer momento se pidió a las participantes compartir referentes audiovisuales que consumen en su día a día para explicar su realidad cotidiana.
-
-Algunas de las referencias que las participantes compartieron para explicar las violencias vividas fueron:
-
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2024-08-27-a-las-10.52.01.png","alt":"Buscar piso","caption":"Buscar piso","credits":"Buscar piso"},{"path":"/media/captura-de-pantalla-2024-08-27-a-las-10.52.20.png","alt":"Cuando llega la chica de la limpieza","caption":"Cuando llega la chica de la limpieza","credits":"Cuando llega la chica de la limpieza"}] } %}
-
 ##### Fase 5. Diálogos Migrantes
 
 Una vez identificadas las escenas, trabajados los elementos clave de las escenas y la producción de un primer ejemplo de lo que sería una pieza disparadora de debate, queda pendiente la recreación de las mismas con más medios y con la intención de que sean más impactantes a la hora de generar debate social.
