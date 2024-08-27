@@ -50,7 +50,7 @@ Sobre esta premisa, los **Diálogos Migrantes** buscan ser un espacio de partici
 
 Otra investigadora, **Dayo Esenou,** profesora en la universidad de Lancaster, [de quien publicamos una entrevista](https://journal.platoniq.net/es/wilder-journal-2/interviews/justice-afrofuturism-participatory-research/) nos advierte de lo mismo: ***“Una cosa que evito es lo que se conoce como porno del trauma o porno de la pobreza, donde se estudia a las personas como objetos. Las comunidades racialmente minoritarias tienen capacidad de acción y ya están hablando; el problema es que la gente a menudo no escucha”.*** En su caso, es el afrofuturismo el que viene utilizado como prisma de investigación, algo que le permite salirse de los marcos de dolor establecidos y plantear, gracias al antirracismo especulativo, nuevas formas de narrar y de narrarse.
 
-# Story of now: ¿Cómo dar respuesta a esta pregunta?
+# Story of now: ¿Cómo dar respuesta a esta cuestión?
 
 **Fase Previa:** Platoniq pone a disposición del proyecto su plataforma Goteo Participa, donde se hará seguimiento online de todo el proceso y sus conclusiones, para poder darle continuidad en el tiempo y recoger todos los aprendizajes.
 
