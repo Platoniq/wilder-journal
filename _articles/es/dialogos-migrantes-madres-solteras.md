@@ -24,6 +24,9 @@ cover:
   alt: Esepe, 2023
   credits: Esepe, 2023
   caption: Esepe, 2023
+related_article_uids:
+  - reclaiming-participatory-governance
+  - dialogos-migrantes
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
