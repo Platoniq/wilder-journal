@@ -37,8 +37,6 @@ The tool that supports the Decide Madrid portal is called 'consul', a name chose
 
 The idea: to seek the "progressive engagement" of citizens using gamification mechanics. These mechanics focus on providing incentives to participants in a staggered manner, on the one hand, inviting them to overcome goals and, on the other hand, when they reach them, rewarding them with new resources. 
 
-
-
 ![](/media/captura-de-pantalla-2024-02-15-a-las-15.40.22.png)
 
 ### **Citizen advocacy? What kind of deception is that?**
@@ -86,7 +84,7 @@ Studies on crowdfunding, based on the experience of Goteo.org, and after having 
 
 Monetary and other support for any initiative does not come alone. It is an effort that must be led by the person promoting the idea. Be prepared to invest time and energy in regular outreach throughout the campaign, preferably as a team, or the campaign will not succeed.
 
-{% questions { "items": [{"question":"¿Cómo mantenemos la atención y la motivación del usuario en difundir? "},{"question":"¿Cómo transformamos la plataforma Decide Madrid en una plataforma que hable, recomiende acciones, estimule en el gran reto de conseguir comunidad? "},{"question":"¿Cómo conseguir apoyos a propuestas de usuarios que normalmente no tienen experiencia o conocimientos sobre difusión y comunicación digital?"}] } %}
+{% questions { "items": [{"question":"How do we maintain user attention and motivation in spreading?"},{"question":"How do we transform the Decide Madrid platform into one that speaks, recommends actions, and stimulates the great challenge of building community?"},{"question":"How can we gain support for user proposals from those who usually lack experience or knowledge in dissemination and digital communication?"}] } %}
 
 Knowing that the Propuestas en Decide Madrid campaigns span 12 months, cultivating the user's attention and commitment to your campaign is not easy. For this reason, in one of the co-creation dynamics of the workshops, we proposed the exercise of staggering the challenge of 28,413 supporters in smaller and more achievable goals. On the other hand, we also wanted to check if it was possible to establish an equivalence of ideal times for these new goals.
 
