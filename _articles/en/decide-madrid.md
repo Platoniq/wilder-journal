@@ -84,7 +84,7 @@ Studies on crowdfunding, based on the experience of Goteo.org, and after having 
 
 Monetary and other support for any initiative does not come alone. It is an effort that must be led by the person promoting the idea. Be prepared to invest time and energy in regular outreach throughout the campaign, preferably as a team, or the campaign will not succeed.
 
-{% questions { "items": [{"question":"How do we maintain user attention and motivation in spreading?"},{"question":"How do we transform the Decide Madrid platform into one that speaks, recommends actions, and stimulates the great challenge of building community?"},{"question":"How can we gain support for user proposals from those who usually lack experience or knowledge in dissemination and digital communication?"}] } %}
+{% questions { "items": [{"question":"How do we keep user attention and motivation in spreading?"},{"question":"How do we transform the Decide Madrid platform into one that speaks, recommends actions, and stimulates the great challenge of building community?"},{"question":"How can we gain support for user proposals from those who usually lack experience or knowledge in dissemination and digital communication?"}] } %}
 
 Knowing that the Propuestas en Decide Madrid campaigns span 12 months, cultivating the user's attention and commitment to your campaign is not easy. For this reason, in one of the co-creation dynamics of the workshops, we proposed the exercise of staggering the challenge of 28,413 supporters in smaller and more achievable goals. On the other hand, we also wanted to check if it was possible to establish an equivalence of ideal times for these new goals.
 
