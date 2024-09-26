@@ -6,7 +6,7 @@ published: true
 date: 2024-09-26T10:56:00.000Z
 date-updated: 2024-09-26T10:56:00.000Z
 article-order: 3
-uid: Unnaming-Decisionmaking-Cluny-Convergenceofcommoners-Amberhuff
+uid: decisionmaking-unnaming-deliberative
 title: "Gathering in the Starry Fields: An Exercise in Unnaming to Imagine New
   Forms of Decision-Making"
 description: During the Cluny retreat of the Convergence of Commoners group, set

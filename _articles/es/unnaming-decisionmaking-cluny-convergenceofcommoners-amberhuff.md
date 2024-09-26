@@ -6,7 +6,7 @@ published: true
 date: 2024-09-26T10:56:00.000Z
 date-updated: 2024-09-26T10:56:00.000Z
 article-order: 3
-uid: Unnaming-Decisionmaking-Cluny-Convergenceofcommoners-Amberhuff
+uid: decisionmaking-unnaming-deliberative
 title: "La Reunión en los Campos Estrellados: Un Ejercicio de Desnombramiento
   para Imaginar Nuevas Formas de Toma de Decisiones"
 description: Durante el retiro de Cluny del grupo Convergence of Commoners, en
