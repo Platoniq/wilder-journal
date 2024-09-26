@@ -5,7 +5,7 @@ category: stories
 published: true
 date: 2024-09-26T09:00:00.000Z
 date-updated: 2024-09-26T09:00:00.000Z
-article-order: 3
+article-order: 1
 uid: decisionmaking-unnaming-deliberative
 title: "La Reunión en los Campos Estrellados: Un Ejercicio de Desnombramiento
   para Imaginar Nuevas Formas de Toma de Decisiones"
