@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: stories
 published: true
-date: 2024-09-26T12:44:00.000Z
-date-updated: 2024-09-26T12:44:00.000Z
+date: 2024-09-26T09:00:00.000Z
+date-updated: 2024-09-26T09:00:00.000Z
 article-order: 3
 uid: decisionmaking-unnaming-deliberative
 title: "La Reunión en los Campos Estrellados: Un Ejercicio de Desnombramiento
