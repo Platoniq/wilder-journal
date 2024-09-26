@@ -25,6 +25,8 @@ cover:
   credits: Royalty free.
   alt: Gathering in the Starry Fields.
   caption: Gathering in the Starry Fields.
+related_article_uids:
+  - amber-huff
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
