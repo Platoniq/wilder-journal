@@ -35,6 +35,8 @@ call_to_action: cta-newsletter
 image:
   path: /media/articles/social/photo_2024-09-25_18-50-16-copia.jpg
 ---
+**During the Cluny retreat of the Convergence of Commoners group**, set in the context of an ecological farm surrounded by fields, animals, and forests, and as part of a workshop led by **[Amber Huff](https://journal.platoniq.net/en/wilder-journal-2/interviews/amber-huff/)**, I took part in a narrative exercise called **Unnaming**, a method that involves removing the titles, categories, and identities normally assigned to things in order to reveal their underlying essence.
+
 This resonates deeply in a commons-based environment, where **collective care** and **relationality** take precedence over rigid and hierarchical structures. A notable example of this concept can be found in **Ursula K. Le Guin’s short story She Unnames Them**, in which the protagonist reverses the act of naming the animals in the Garden of Eden, questioning the power dynamics and social structures inherent in categorization.
 
 In a broader sense, **Unnaming** can serve as a metaphor for deconstructing dominant narratives that define individuals or communities. By **removing labels**—whether political, social, or ideological—participants in a deliberative space can approach topics such as **freedom**, **identity**, and **autonomy** with greater freedom. This opens the door to deeper, more essential forms of understanding that go beyond predetermined roles or categories, allowing for more fluid interpretations based on shared human experience.

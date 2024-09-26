@@ -35,6 +35,8 @@ call_to_action: cta-newsletter
 image:
   path: /media/articles/social/photo_2024-09-25_18-50-16-copia.jpg
 ---
+**Durante el retiro de Cluny del grupo Convergence of Commoners**, en el contexto de una granja ecológica rodeada de campos, animales y bosques, y como parte de un taller dirigido por **[Amber Huff](https://journal.platoniq.net/es/wilder-journal-2/interviews/amber-huff/)**, participé en un ejercicio narrativo denominado **desnombramiento** (Unnaming), un método que consiste en eliminar los títulos, categorías e identidades que normalmente se asignan a las cosas, con el fin de revelar su esencia subyacente.
+
 Esto resuena profundamente en un entorno basado en los comunes, donde el **cuidado colectivo** y la **relacionalidad** tienen prioridad sobre las estructuras rígidas y jerárquicas. Un ejemplo notable de este concepto se encuentra en el relato corto **She Unnames Them de Ursula K. Le Guin**, en el que la protagonista invierte el acto de nombrar a los animales en el Jardín del Edén, cuestionando las dinámicas de poder y las estructuras sociales inherentes a la categorización.
 
 En un sentido más amplio, el **desnombramiento** puede servir como una metáfora para deconstruir los relatos dominantes que definen a los individuos o las comunidades. Al **eliminar etiquetas**—ya sean políticas, sociales o ideológicas—los participantes en un espacio deliberativo pueden abordar con mayor libertad temas como la **libertad**, la **identidad** y la **autonomía**. Esto abre la puerta a formas más profundas y esenciales de comprensión que van más allá de los roles o categorías predeterminadas, permitiendo interpretaciones más fluidas y basadas en la experiencia humana compartida.
