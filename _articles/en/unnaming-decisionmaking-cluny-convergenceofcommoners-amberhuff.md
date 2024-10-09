@@ -7,14 +7,8 @@ date: 2024-09-26T09:00:00.000Z
 date-updated: 2024-09-26T09:00:00.000Z
 article-order: 1
 uid: decisionmaking-unnaming-deliberative
-title: "Gathering in the Starry Fields: An Exercise in Unnaming to Imagine New
-  Forms of Decision-Making"
-description: During the Cluny retreat of the Convergence of Commoners group, set
-  in the context of an ecological farm surrounded by fields, animals, and
-  forests, and as part of a workshop led by Amber Huff, I took part in a
-  narrative exercise called Unnaming, a method that involves removing the
-  titles, categories, and identities normally assigned to things in order to
-  reveal their underlying essence.
+title: Gathering in the Starry Fields
+description: An Exercise in Unnaming to Imagine New Forms of Decision-Making
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum

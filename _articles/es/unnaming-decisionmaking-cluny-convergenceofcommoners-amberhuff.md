@@ -7,14 +7,9 @@ date: 2024-09-26T09:00:00.000Z
 date-updated: 2024-09-26T09:00:00.000Z
 article-order: 1
 uid: decisionmaking-unnaming-deliberative
-title: "La Reunión en los Campos Estrellados: Un Ejercicio de Desnombramiento
-  para Imaginar Nuevas Formas de Toma de Decisiones"
-description: Durante el retiro de Cluny del grupo Convergence of Commoners, en
-  el contexto de una granja ecológica rodeada de campos, animales y bosques, y
-  como parte de un taller dirigido por Amber Huff, participé en un ejercicio
-  narrativo denominado desnombramiento (Unnaming), un método que consiste en
-  eliminar los títulos, categorías e identidades que normalmente se asignan a
-  las cosas, con el fin de revelar su esencia subyacente.
+title: La Reunión en los Campos Estrellados
+description: Un Ejercicio de Desnombramiento para Imaginar Nuevas Formas de Toma
+  de Decisiones
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
