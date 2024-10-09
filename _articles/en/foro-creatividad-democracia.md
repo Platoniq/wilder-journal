@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/captura-de-pantalla-2024-08-21-a-las-10.12.27.png
+  path: /media/articles/social/captura-de-pantalla-2024-10-09-a-las-9.55.30.png
 ---
 We present the [Forum on Deliberation, Creativity and Democracy (Barcelona, ](https://openspaces.platoniq.net/conferences/FDCD/program/420?locale=en)[October 1](https://openspaces.platoniq.net/conferences/FDCD/program/420?locale=en)[5-18th)](https://openspaces.platoniq.net/conferences/FDCD/program/420?locale=en) A space for meeting and debate at Barcelona  where we will try to answer several questions: Is it possible to improve democracy? Does it make sense to talk politically about the new generations? What is the capacity of organised civil society to influence? Are we puppets in a system that is not sustainable?
 
