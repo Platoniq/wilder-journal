@@ -38,6 +38,8 @@ image:
 ---
 Presentamos el **[Foro sobre Deliberación, Creatividad y Democracia.](https://openspaces.platoniq.net/conferences/FDCD)** Un espacio de encuentro y de debate, que se celebrará en Barcelona entre [el 15 y el 18 de octubre, ](https://openspaces.platoniq.net/conferences/FDCD)donde se tratará de dar respuesta a preguntas cómo: ¿es posible mejorar la democracia? ¿Tiene sentido hablar políticamente de las nuevas generaciones? ¿Cuál es la capacidad de influencia de la sociedad civil organizada? ¿Somos marionetas en un sistema que no se sostiene?
 
+![Programa del Foro](/media/captura-de-pantalla-2024-10-10-a-las-15.50.59.png "Programa del Foro")
+
 **La forma en que nos organizamos políticamente y tomamos decisiones viene determinada por siglos de tradición y de intercambio.** El sistema que reconocemos ahora como válido, la democracia representativa, no es más que la última de las expresiones que ha tomado la organización social durante las últimas décadas.  
 
 ![Festival de la participación, Bologna, 2021](/media/photo_2024-08-20_16-46-28.jpg "Festival de la participación, Bologna, 2021")
@@ -57,10 +59,6 @@ Si la democracia liberal se define desde la idea de representatividad, **la demo
 **En las últimas décadas, la «ola deliberativa» ha ido creciendo.** Como señala la OCDE en su [informe de 2020](https://www.oecd-ilibrary.org/governance/innovative-citizen-participation-and-new-democratic-institutions_339306da-en), las autoridades públicas de todos los niveles de gobierno recurren cada vez más a asambleas de ciudadanos, jurados, paneles y otros procesos deliberativos representativos. 
 
 En estos procesos, dice el mismo informe, “los ciudadanos elegidos al azar, que constituyen un microcosmos de una comunidad, dedican un tiempo considerable a aprender y colaborar a través de la deliberación facilitada para elaborar recomendaciones colectivas informadas para las autoridades públicas”.
-
-
-
-![Programa del Foro](/media/captura-de-pantalla-2024-10-10-a-las-15.50.59.png "Programa del Foro")
 
 **No es casual entonces que entre 2018 y 2021 aparecieran las principales redes internacionales del ámbito deliberativo,** [Democracy R&D](https://democracyrd.org/), [FIDE (Federation for Innovation in Democracy Europe)](https://www.fide.eu/), [KNOCA (Knowledge network on Climate Assemblies)](https://knoca.eu/) y [OECD Innovative Citizen Participation Network](https://www.oecd.org/governance/innovative-citizen-participation/). Y que desde 2023 exista [Delib](https://delibrede.net/), la red de organizaciones y personas que impulsan y promueven la democracia deliberativa dentro de la península ibérica.
 
