@@ -56,9 +56,11 @@ Si la democracia liberal se define desde la idea de representatividad, **la demo
 
 **En las últimas décadas, la «ola deliberativa» ha ido creciendo.** Como señala la OCDE en su [informe de 2020](https://www.oecd-ilibrary.org/governance/innovative-citizen-participation-and-new-democratic-institutions_339306da-en), las autoridades públicas de todos los niveles de gobierno recurren cada vez más a asambleas de ciudadanos, jurados, paneles y otros procesos deliberativos representativos. 
 
-En estos procesos, dice el mismo informe, “los ciudadanos elegidos al azar, que constituyen un microcosmos de una comunidad, dedican un tiempo considerable a aprender y colaborar a través de la deliberación facilitada para elaborar recomendaciones colectivas informadas para las autoridades públicas” 
+En estos procesos, dice el mismo informe, “los ciudadanos elegidos al azar, que constituyen un microcosmos de una comunidad, dedican un tiempo considerable a aprender y colaborar a través de la deliberación facilitada para elaborar recomendaciones colectivas informadas para las autoridades públicas”.
 
-![Sesión preparatoria para el Diálogo Global sobre los Océanos, facilitada por Platoniq y Raons Públiques, organizada por Missions Publiques.](/media/photo_2024-08-20_16-57-29.jpg "Sesión preparatoria para el Diálogo Global sobre los Océanos, facilitada por Platoniq y Raons Públiques, organizada por Missions Publiques.")
+
+
+![Programa del Foro](/media/captura-de-pantalla-2024-10-10-a-las-15.50.59.png "Programa del Foro")
 
 **No es casual entonces que entre 2018 y 2021 aparecieran las principales redes internacionales del ámbito deliberativo,** [Democracy R&D](https://democracyrd.org/), [FIDE (Federation for Innovation in Democracy Europe)](https://www.fide.eu/), [KNOCA (Knowledge network on Climate Assemblies)](https://knoca.eu/) y [OECD Innovative Citizen Participation Network](https://www.oecd.org/governance/innovative-citizen-participation/). Y que desde 2023 exista [Delib](https://delibrede.net/), la red de organizaciones y personas que impulsan y promueven la democracia deliberativa dentro de la península ibérica.
 
