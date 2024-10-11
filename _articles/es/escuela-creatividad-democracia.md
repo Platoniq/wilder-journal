@@ -64,7 +64,13 @@ Todo ello a través de metodologías disruptivas, como el teatro legislativo, la
 
 # Procesos abiertos y por abrir
 
-Toda la estrategia formativa está concebida para ser aplicada y, en este sentido, son varios los procesos que la Escuela pondrá a disposición de la comunidad. A nivel local, la facilitación de la Unidad Didáctica, “Democracia y creatividad”, en escuelas e institutos, después del primer piloto en el Instituto x de Madrid. A nivel regional, la participación en el proyecto Mindset Revolution para mejorar las políticas públicas sobre salud mental interseccional en jóvenes, con la Universidad de Birmingham y el Kasal de Joves de Roquetes. A nivel estatal, la Escuela colabora con la Asamblea Cívica española en su empeño por crear una asamblea de ciudadanos sorteados en Europa, potenciar su misión, comunicar sus conclusiones también formará parte de las líneas de trabajo de la Escuela. Y finalmente, un proyecto inalcanzable, pero no por ello menos necesario, la redacción de la Constitución Migrante, el documento que lleve al Congreso de los Diputados la mirada interseccional sobre la realidad española.
+Toda la estrategia formativa está concebida para ser aplicada y, en este sentido, son varios los procesos que la Escuela pondrá a disposición de la comunidad. A nivel local, la facilitación de la Unidad Didáctica, “Democracia y creatividad”, en escuelas e institutos, después del primer piloto en el Instituto x de Madrid. A nivel regional, la participación en el proyecto Mindset Revolution para mejorar las políticas públicas sobre salud mental interseccional en jóvenes, con la Universidad de Birmingham y el Kasal de Joves de Roquetes. A nivel estatal, la Escuela colabora con la Asamblea Cívica española en su empeño por crear una asamblea de ciudadanos sorteados en Europa, potenciar su misión, comunicar sus conclusiones también formará parte de las líneas de trabajo de la Escuela. 
+
+{% quote { "author": "Desirée Bela-Lobedde, activista antirracista" } %}A mí me interesaría un documento que abordara el racismo, el antirracismo, la derogación de la ley de extranjería, la eliminación de los CIEs, el legado colonial en las ciudades españolas, la descolonización del currículum, etc. Pero una vez recogido todo eso, me gustaría que pasara por un proceso político para que tuviera fuerza legal{% endquote %}
+
+Y finalmente, un proyecto inalcanzable, pero no por ello menos necesario, la redacción de la Constitución Migrante, el documento que lleve al Congreso de los Diputados la mirada interseccional sobre la realidad española.
+
+
 
 # La participación como dinámica interna
 
