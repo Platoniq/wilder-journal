@@ -26,7 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/escuela-de-creatividad-y-democracia.png
 ---
 El 87% de los jóvenes no se sienten escuchados por los políticos. Sin embargo, el 92% se muestra muy preocupado por los problemas sociales. ¿Qué hacemos? No podemos permitirnos que toda una generación desconecte de la cosa pública. ¿A qué futuro nos abocaría?
 
