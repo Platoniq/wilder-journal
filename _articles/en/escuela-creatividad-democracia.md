@@ -41,7 +41,7 @@ We present the School of Creativity and Democracy, a training itinerary to prepa
 
 At the School, we are committed to incorporating creative methodologies into citizens' right to political participation, in order to provide young people with new tools to decide on their future.
 
-![Mindset Revolution](/media/photo_2024-10-11_10-14-37.jpg "MR")
+![Mindset Revolution](/media/idea_camp_2017_iv_0002.jpg "MR")
 
 We believe that dialogues and deliberative assemblies are a way of accommodating and channelling this creativity, capacity and interest in tackling public and political problems, but we need to remove the corset they are in and make them more strategic, more effective and, why not, also more fun.
 
@@ -69,7 +69,7 @@ And finally, a project that is necessary but no less difficult to carry out, the
 
 The participants of the School will have their own podcast dedicated to deliberation, through which interviews will be conducted with participation professionals and citizens' initiatives will be invited.
 
-![Democracy Lab](/media/photo_5_2024-09-20_12-31-16.jpg "DM")
+![Democracy Lab](/media/p1075087.jpg "DM")
 
 In this way, an open network will be established with civil society in which to share and think together about the major current social issues.
 

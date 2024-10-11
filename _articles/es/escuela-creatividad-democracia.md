@@ -44,7 +44,7 @@ Presentamos la Escuela de Creatividad y Democracia, un itinerario formativo para
 
 En la Escuela, apostamos por incorporar metodologías creativas al derecho de los ciudadanos a la participación política, para dotar de nuevas herramientas a la juventud a la hora de decidir sobre su futuro.
 
-![Mindset Revolution](/media/photo_2024-10-11_10-14-37.jpg "MR")
+![Mindset Revolution](/media/idea_camp_2017_iv_0002.jpg "MR")
 
 Pensamos que los diálogos y asambleas deliberativas son una forma de dar cabida y canalizar esa creatividad, capacidad e interés para afrontar problemas públicos y políticos, pero hace falta remover un poco el corsé en el que se encuentran y hacerlas más estratégicas, más efectivas y, porqué no, también más divertidas.
 
