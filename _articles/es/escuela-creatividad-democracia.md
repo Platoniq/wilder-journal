@@ -7,14 +7,14 @@ date: 2024-10-11T16:50:00.000Z
 date-updated: 2024-10-11T16:50:00.000Z
 article-order: 1
 uid: Escuela-Creatividad-Democracia
-title: Escuela de Creatividad y Democraci
-description: "Escuela de Creatividad y Democracia: conectando afectos,
-  reimaginando la democracia"
+title: "Escuela de Creatividad y Democracia: conectando afectos, reimaginando la
+  democracia"
+description: Escuela de Creatividad y Democracia
 author: Platoniqc
 author_uids:
   - platoniq
 cover:
-  path: /media/articles/heroes/escuela-de-creatividad-y-democracia.png
+  path: /media/articles/heroes/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
   mobile: /media/articles/mobile/escuela-de-creatividad-y-democracia.png
   thumbnail: /media/articles/thumbnails/escuela-de-creatividad-y-democracia.png
   alt: ECD
