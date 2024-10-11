@@ -14,7 +14,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/escuela-de-creatividad-y-democracia.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/escuela-de-creatividad-y-democracia.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: ECD
   credits: ECD
