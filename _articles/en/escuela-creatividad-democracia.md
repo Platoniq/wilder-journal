@@ -41,6 +41,8 @@ We present the School of Creativity and Democracy, a training itinerary to prepa
 
 At the School, we are committed to incorporating creative methodologies into citizens' right to political participation, in order to provide young people with new tools to decide on their future.
 
+![Mindset Revolution](/media/photo_2024-10-11_10-14-37.jpg "MR")
+
 We believe that dialogues and deliberative assemblies are a way of accommodating and channelling this creativity, capacity and interest in tackling public and political problems, but we need to remove the corset they are in and make them more strategic, more effective and, why not, also more fun.
 
 # Four professional profiles, one same path
@@ -59,11 +61,15 @@ All of this through disruptive methodologies, such as legislative theatre, timid
 
 # Open processes and to be opened
 
-The entire training strategy is designed to be applied and, in this sense, there are several processes that the School will make available to the community. At the local level, the facilitation of the Didactic Unit, ‘Democracy and Creativity’, in schools and institutes, after the first pilot at the Instituto x in Madrid. At regional level, participation in the Mindset Revolution project to improve public policies on intersectional mental health in young people, with the University of Birmingham and the Kasal de Joves de Roquetes. At the national level, the School collaborates with the Spanish Civic Assembly in its efforts to create an assembly of sorted citizens in Europe, to promote its mission, to communicate its conclusions will also be part of the School's lines of work. And finally, an unattainable project, but no less necessary for that, the drafting of the Migrant Constitution, the document that will take the intersectional view of the Spanish reality to the Congress of Deputies.
+The entire training strategy is designed to be applied and, in this sense, there are several processes that the School will make available to the community. At the local level, the facilitation of the Didactic Unit, ‘Democracy and Creativity’, in schools and institutes, after the first pilot at the Instituto x in Madrid. At regional level, participation in the Mindset Revolution project to improve public policies on intersectional mental health in young people, with the University of Birmingham and the Kasal de Joves de Roquetes. At the national level, the School collaborates with the Spanish Civic Assembly in its efforts to create an assembly of sorted citizens in Europe, to promote its mission, to communicate its conclusions will also be part of the School's lines of work. 
+
+And finally, a project that is necessary but no less difficult to carry out, the drafting of the Migrant Constitution, the document that will take the intersectional view of the Spanish reality to the Congress of Deputies.
 
 # Participation as an internal dynamic
 
 The participants of the School will have their own podcast dedicated to deliberation, through which interviews will be conducted with participation professionals and citizens' initiatives will be invited.
+
+![Democracy Lab](/media/photo_5_2024-09-20_12-31-16.jpg "DM")
 
 In this way, an open network will be established with civil society in which to share and think together about the major current social issues.
 
@@ -74,6 +80,8 @@ The School will also provide a digital platform for citizen participation from w
 The School aspires to be a bridge to organisations and institutions linked to participation and, in doing so, to be an opportunity for the community to become part of them and, in doing so, to transform them. 
 
 From facilitation: to be part of a new generation of dialogue facilitators, capable of handling the intricacies of debate, aspiring to depolarisation and able to create safe spaces.
+
+![Dialegs migrants](/media/p1076729.jpg "DM")
 
 As developers of digital participation processes: to be able to design and carry out a strategy that harmonises the opinions of thousands of people in order to finally come up with common, complex and realistic recommendations.
 

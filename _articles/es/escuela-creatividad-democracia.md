@@ -68,7 +68,7 @@ Toda la estrategia formativa está concebida para ser aplicada y, en este sentid
 
 {% quote { "author": "Desirée Bela-Lobedde, activista antirracista" } %}A mí me interesaría un documento que abordara el racismo, el antirracismo, la derogación de la ley de extranjería, la eliminación de los CIEs, el legado colonial en las ciudades españolas, la descolonización del currículum, etc. Pero una vez recogido todo eso, me gustaría que pasara por un proceso político para que tuviera fuerza legal{% endquote %}
 
-Y finalmente, un proyecto inalcanzable, pero no por ello menos necesario, la redacción de la Constitución Migrante, el documento que lleve al Congreso de los Diputados la mirada interseccional sobre la realidad española.
+Y finalmente, un proyecto necesario, pero no por ello menos difícil de llevar a cabo, la redacción de la Constitución Migrante, el documento que lleve al Congreso de los Diputados la mirada interseccional sobre la realidad española.
 
 
 
@@ -76,7 +76,7 @@ Y finalmente, un proyecto inalcanzable, pero no por ello menos necesario, la red
 
 Los participantes de la Escuela  tendrán su propio podcast dedicado a la deliberación, a través del cual se realizarán entrevistas a profesionales de la participación y se invitará a iniciativas ciudadanas.
 
-![Democracy Lab](/media/photo_5_2024-09-20_12-31-16.jpg "DM")
+![Democracy Lab](/media/p1075087.jpg "DM")
 
 De esta forma, se establecerá una red abierta con la sociedad civil donde compartir y pensar en común los grandes temas de actualidad social.
 
