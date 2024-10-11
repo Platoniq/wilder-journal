@@ -8,7 +8,8 @@ date-updated: 2024-10-11T16:50:00.000Z
 article-order: 1
 uid: Escuela-Creatividad-Democracia
 title: Escuela de Creatividad y Democracia
-description: Escuela de Creatividad y Democracia
+description: "Escuela de Creatividad y Democracia: conectando afectos,
+  reimaginando la democracia"
 author: Platoniq
 author_uids:
   - platoniq
