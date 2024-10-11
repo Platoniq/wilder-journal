@@ -35,7 +35,7 @@ In a context of disaffection, polarisation and widespread disinformation, we nee
 
 We know that **young people continuously participate in political processes**, albeit in different and new ways: signing petitions, conscious consumption, graffiti, with their statements on networks, as well as through flash mobs and street performances, protests or demonstrations.
 
-# But how do we bridge the gap between the street and the institutions?
+## But how do we bridge the gap between the street and the institutions?
 
 We present the **School of Creativity and Democracy**, a training itinerary to prepare new professionals of deliberation in the **participatory elaboration of public policies**, taking into account **intersectional care** and relying on **methodologies inspired by the performing and visual arts.** 
 
@@ -45,7 +45,7 @@ At the School, we are committed to **incorporating creative methodologies into c
 
 We believe that dialogues and deliberative assemblies are a way of accommodating and channelling this creativity, capacity and interest in tackling public and political problems, but we need to remove the corset they are in and make them **more strategic, more effective and, why not, also more fun.**
 
-# Four professional profiles, one same path
+## Four professional profiles, one same path
 
 If we understand participation as the indicator that shows us the **democratic health** of a country, the **degree of activation** of its citizens and the **commitment** of public institutions in matters that affect society as a whole, we will realise that, although for a couple of decades we have been surfing what has come to be called the deliberative wave of democracy, **much more needs to be done to convince the new participants in public life** that it is possible to recover the power of citizenship and take the reins of their political commitment.
 
@@ -55,13 +55,13 @@ To this end, the School proposes a number of **common knowledge modules** and **
 
 From there, **four specialised itineraries** are opened up for those interested in facilitation, digital participation, creative research and citizen advocacy, four professional fields capable of activating the collective potential of a society in the form of participatory processes.
 
-# Disruptive methodologies
+## Disruptive methodologies
 
 The School aims to: teach how the participatory phenomenon can be translated into audiovisual format (and if it is possible to activate it through its language); how to create, manage and evaluate participation projects; how to design online participation processes that bring together thousands of people; and how to analyse and draw conclusions from the whole deliberative process while being aware of the implications of being part of the same experience.
 
 All of this through disruptive methodologies, such as **[legislative theatre](https://journal.platoniq.net/en/wilder-journal-1/interviews/katy-rubin/)**, timid resistance, **[de-naming](https://journal.platoniq.net/en/wilder-journal-2/stories/decisionmaking-unnaming-deliberative/)** techniques or the elaboration of **participatory ethnofanzines.**
 
-# Open processes and to be opened
+## Open processes and to be opened
 
 The entire training strategy is designed to be applied and, in this sense, there are several processes that the School will make available to the community. **At the local level,** the [facilitation of the Didactic Unit, ‘Democracy and Creativity’, in schools and institutes](https://journal.platoniq.net/en/wilder-journal-2/learnings/deliberative-assemblies/), after the first pilot at the Instituto x in Madrid. **At regional level,** participation in the Mindset Revolution project [to improve public policies on intersectional mental health in young people](https://journal.platoniq.net/en/wilder-journal-2/deep-dives/intersectional-mental-health-support/), with the University of Birmingham and the Kasal de Joves de Roquetes. **At the national level,** the School collaborates with the Spanish Civic Assembly in its efforts to create an assembly of sorted citizens in Europe, to promote its mission, to communicate its conclusions will also be part of the School's lines of work. 
 
@@ -69,7 +69,7 @@ The entire training strategy is designed to be applied and, in this sense, there
 
 And finally, a project that is necessary but no less difficult to carry out, **the drafting of the Migrant Constitution**, the document that will take the intersectional view of the Spanish reality to the Congress of Deputies.
 
-# Participation as an internal dynamic
+## Participation as an internal dynamic
 
 The participants of the School will have their own **podcast** dedicated to deliberation, through which interviews will be conducted with participation professionals and citizens' initiatives will be invited.
 
@@ -79,7 +79,7 @@ In this way, an **open network will be established with civil society** in which
 
 The School will also provide a **digital platform for citizen participation** from which to carry out simulations related to the issues dealt with during the training and to carry out real participation initiatives.
 
-# What do we aspire to?
+## What do we aspire to?
 
 The School aspires to be a bridge to organisations and institutions linked to participation and, in doing so, to be an opportunity for the community to become part of them and, in doing so, to transform them. 
 
@@ -93,6 +93,6 @@ From **creative research:** to be able to take part in European project consorti
 
 And from **citizen advocacy:** supporting or initiating political advocacy campaigns based on pieces that trigger social debate, either from the beginning of participatory processes, or to dynamise their conclusions more effectively.
 
-# A community in movement
+## A community in movement
 
 In short, **a community in movement,** which, through research and practice, contributes new political experiences of personal and collective emancipation, offering a new way of feeling democracy.
