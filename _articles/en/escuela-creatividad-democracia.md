@@ -23,7 +23,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/escuela-de-creatividad-y-democracia.png
+  path: /media/articles/social/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
 ---
 87% of young people do not feel listened to by politicians. However, 92% are very concerned about social problems. What should we do? We cannot allow a whole generation to be disconnected from public affairs. What future would that lead us to?
 
