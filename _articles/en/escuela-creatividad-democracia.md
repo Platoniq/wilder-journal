@@ -16,7 +16,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
   mobile: /media/articles/mobile/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
-  thumbnail: /media/articles/thumbnails/escuela-de-creatividad-y-democracia.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
