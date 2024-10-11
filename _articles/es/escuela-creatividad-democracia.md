@@ -20,7 +20,10 @@ cover:
   alt: ECD
   credits: ECD
   caption: ECD
-related_article_uids: []
+related_article_uids:
+  - democracy-manifesto
+  - editorial2
+  - foro-creatividad-democracia
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
