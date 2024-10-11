@@ -15,7 +15,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
-  mobile: /media/articles/mobile/escuela-de-creatividad-y-democracia.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
   thumbnail: /media/articles/thumbnails/escuela-de-creatividad-y-democracia.png
 stickers:
   layout: layout-none
