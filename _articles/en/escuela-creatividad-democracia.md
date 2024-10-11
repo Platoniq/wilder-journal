@@ -17,6 +17,10 @@ cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
   mobile: /media/articles/mobile/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
+related_article_uids:
+  - democracy-manifesto
+  - editorial2
+  - foro-creatividad-democracia
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

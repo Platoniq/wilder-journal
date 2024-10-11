@@ -44,6 +44,8 @@ Presentamos la Escuela de Creatividad y Democracia, un itinerario formativo para
 
 En la Escuela, apostamos por incorporar metodologías creativas al derecho de los ciudadanos a la participación política, para dotar de nuevas herramientas a la juventud a la hora de decidir sobre su futuro.
 
+![Mindset Revolution](/media/photo_2024-10-11_10-14-37.jpg "MR")
+
 Pensamos que los diálogos y asambleas deliberativas son una forma de dar cabida y canalizar esa creatividad, capacidad e interés para afrontar problemas públicos y políticos, pero hace falta remover un poco el corsé en el que se encuentran y hacerlas más estratégicas, más efectivas y, porqué no, también más divertidas.
 
 # Cuatro perfiles profesionales, un mismo recorrido
@@ -68,6 +70,8 @@ Toda la estrategia formativa está concebida para ser aplicada y, en este sentid
 
 Los participantes de la Escuela  tendrán su propio podcast dedicado a la deliberación, a través del cual se realizarán entrevistas a profesionales de la participación y se invitará a iniciativas ciudadanas.
 
+![Democracy Lab](/media/photo_5_2024-09-20_12-31-16.jpg "DM")
+
 De esta forma, se establecerá una red abierta con la sociedad civil donde compartir y pensar en común los grandes temas de actualidad social.
 
 Asimismo, la Escuela pondrá a disposición una plataforma digital de participación ciudadana desde la cual poder realizar simulaciones que tengan que ver con las cuestiones tratadas durante la formación y llevar a cabo iniciativas reales de participación.
@@ -79,6 +83,8 @@ La Escuela aspira a ser un puente con las organizaciones e instituciones vincula
 Desde la facilitación: formar parte de una nueva generación de personas facilitadoras de diálogo, capaces de manejar los vericuetos del debate, que aspiren a la despolarización y sean capaces de crear espacios seguros.
 
 Como desarrolladores de procesos de participación digitales: ser capaces de diseñar y llevar a cabo una estrategia que armonice la opinión de miles de personas para, finalmente, emerger recomendaciones comunes, complejas y realistas.
+
+![Dialegs migrants](/media/p1076729.jpg "DM")
 
 Desde la investigación creativa: poder formar parte en consorcios de proyectos europeos, colaborando desde la docencia en instituciones académicas y becas de investigación, desarrollando nuevas modalidades de periodismo de investigación.
 
