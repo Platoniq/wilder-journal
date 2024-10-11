@@ -15,7 +15,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/escuela-de-creatividad-y-democracia.png
   mobile: /media/articles/mobile/escuela-de-creatividad-y-democracia.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/escuela-de-creatividad-y-democracia.png
   alt: ECD
   credits: ECD
   caption: ECD
