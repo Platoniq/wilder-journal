@@ -54,9 +54,11 @@ Si entendemos la participación como el indicador que nos muestra **la salud dem
 
 {% quote { "author": "Sonia Bussu" } %}Partimos de la base de que, si comprendemos el contexto local, nos damos tiempo para establecer relaciones de confianza con los agentes locales y utilizamos el proceso participativo para apoyar la acción de las bases y las agendas políticas existentes, podremos contribuir a integrar la elaboración de políticas participativas.{% endquote %}
 
-En este sentido, la Escuela propone varios **módulos comunes** de conocimiento y otros de **especialización**, además de prácticas, ensayos y prototipados. Los módulos comunes versan sobre la capacidad y metodología necesaria para explorar las cuestiones que a todos nos afectan, las formas de participación existentes y las que están por llegar, y el modo en que somos capaces de **tomar decisiones colectivas.** 
+En este sentido, la Escuela propone varios **módulos comunes** de conocimiento y otros de **especialización**, además de prácticas, ensayos y prototipados. 
 
-A partir de ahí se abren **cuatro itinerarios especializados** para aquellas personas interesadas en la facilitación, la participación digital, la investigación creativa y la incidencia ciudadana, cuatro ámbitos profesionales capaces de activar el potencial colectivo de una sociedad en forma de procesos participativos.
+Los módulos comunes versan sobre la capacidad y metodología necesaria para explorar las cuestiones que a todos nos afectan, las formas de participación existentes y las que están por llegar, y el modo en que somos capaces de **tomar decisiones colectivas.** 
+
+A partir de ahí, **cuatro itinerarios especializados**: la facilitación, la participación digital, la investigación creativa y la incidencia ciudadana, cuatro ámbitos profesionales capaces de activar el potencial colectivo de una sociedad en forma de procesos participativos.
 
 ## Metodologías disruptivas
 
