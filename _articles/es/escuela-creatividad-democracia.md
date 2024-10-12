@@ -56,7 +56,7 @@ Si entendemos la participación como el indicador que nos muestra **la salud dem
 
 En este sentido, la Escuela propone varios **módulos comunes** de conocimiento y otros de **especialización**, además de prácticas, ensayos y prototipados. 
 
-Los módulos comunes versan sobre la capacidad y metodología necesaria para explorar las cuestiones que a todos nos afectan, las formas de participación existentes y las que están por llegar, y el modo en que somos capaces de **tomar decisiones colectivas.** 
+En los módulos comunes aprenderemos a explorar las cuestiones sociales que a todos nos afectan, conoceremos las formas de participación existentes y las que están por llegar, y sabremos manejar el modo en que somos capaces de **tomar decisiones colectivas.** 
 
 A partir de ahí, **cuatro itinerarios especializados**: la facilitación, la participación digital, la investigación creativa y la incidencia ciudadana, cuatro ámbitos profesionales capaces de activar el potencial colectivo de una sociedad en forma de procesos participativos.
 
