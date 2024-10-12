@@ -62,24 +62,26 @@ A partir de ahí, **cuatro itinerarios especializados**: la facilitación, la pa
 
 ## Metodologías disruptivas
 
-La Escuela, a través de nuevas formas creativas de pensar y desenvolvernos en la realidad:
+La Escuela, a través de nuevas formas creativas de pensar, propone:
 
-* enseñar **cómo es posible traducir al formato audiovisual el fenómeno participativo** (y si es posible activarlo a través de su lenguaje)
-* aprender a **crear, gestionar y evaluar proyectos de participación**
-* saber **diseñar procesos digitales de participación** que aglutinen a miles de personas
-* **analizar y sacar conclusiones de todo el proceso deliberativo** tomando conciencia de las implicaciones que supone formar parte de la misma experiencia.
+* aprender a **facilitar** procesos de forma segura, mediante técnicas del teatro legislativo, que respeten la ética interseccional.
+* entender cómo es posible **traducir** al formato audiovisualun proceso participativo (y como activarlo a través de su lenguaje)
+* poder **diseñar** procesos digitales de participación que aglutinen a miles de personas
+* **experimentar** a la hora de sacar conclusiones de todo el procesodeliberativo tomando conciencia de las implicaciones que supone formar parte de la misma experiencia.
 
 Todo ello a través de metodologías disruptivas, como el** [teatro legislativo](https://journal.platoniq.net/es/wilder-journal-2/interviews/katy-rubin/),** la resistencia tímida, las técnicas de **[desnombramiento](https://journal.platoniq.net/es/wilder-journal-2/stories/decisionmaking-unnaming-deliberative/)** o la elaboración de **etnofanzines participativos.**
 
 ## Procesos abiertos y por abrir
 
-Toda la estrategia formativa está concebida para ser aplicada y, en este sentido, son varios los procesos que la Escuela pondrá a disposición de la comunidad. Además de una serie de acuerdos con instituciones y entidades públicas que permita a las participantes **implicarse en procesos institucionales activos**, como la Convención Ciudadana de la Vivienda o la Estrategia por una Sociedad Longeva y una Vida Llena, de la Generalitat de Catalunya.
+Toda la estrategia formativa de la Escuela está concebida para ser aplicada y, en este sentido, son varios los procesos que la Escuela pone a disposición de la comunidad. 
 
-**A nivel local,** la Escuela ofrecerá la posibilidad de participar, desde la [facilitación, en la dinamización de una Unidad Didáctica “Democracia y creatividad” en escuelas e institutos](https://journal.platoniq.net/es/wilder-journal-2/learnings/deliberative-assemblies/), después del primer piloto en Madrid. **A nivel regional,** la participación en el proyecto Mindset Revolution [para mejorar las políticas públicas sobre salud mental interseccional en jóvenes](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/intersectional-mental-health-support/), con la Universidad de Birmingham y el Kasal de Joves de Roquetes. Y, **a nivel estatal,** la Escuela colabora con la Asamblea Cívica española en su empeño por crear una asamblea de ciudadanos sorteados en Europa, potenciar su misión, comunicar sus conclusiones también formará parte de las líneas de trabajo de la Escuela. 
+Además de una serie de acuerdos con instituciones y entidades públicas que permita a las participantes **implicarse en procesos institucionales activos**, como la Convención Ciudadana de la Vivienda o la Estrategia por una Sociedad Longeva y una Vida Llena, de la Generalitat de Catalunya.
+
+**A nivel local,** la Escuela ofrecerá la posibilidad de participar, desde la [facilitación, en la dinamización de una Unidad Didáctica “Democracia y creatividad” en escuelas e institutos](https://journal.platoniq.net/es/wilder-journal-2/learnings/deliberative-assemblies/). **A nivel regional,** la participación en el proyecto Mindset Revolution [para mejorar las políticas públicas sobre salud mental interseccional en jóvenes](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/intersectional-mental-health-support/), con la Universidad de Birmingham y el Kasal de Joves de Roquetes. Y, **a nivel estatal,** colaborar con la Asamblea Cívica española en su empeño por crear una asamblea de ciudadanos sorteados en Europa. 
 
 {% quote { "author": "Desirée Bela-Lobedde, activista antirracista" } %}A mí me interesaría un documento que abordara el racismo, el antirracismo, la derogación de la ley de extranjería, la eliminación de los CIEs, el legado colonial en las ciudades españolas, la descolonización del currículum, etc. Pero una vez recogido todo eso, me gustaría que pasara por un proceso político para que tuviera fuerza legal{% endquote %}
 
-Y finalmente, un proyecto necesario, pero no por ello menos difícil de llevar a cabo, **la redacción de la Constitución Migrante** a partir de un ejercicio de [nuevas narrativas](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/dialogos-migrantes-segunda-edicion/) con la intención de elaborar el documento que lleve al Congreso de los Diputados la mirada interseccional sobre la realidad española.
+Finalmente, un proyecto necesario, pero no por ello menos difícil de llevar a cabo, **la redacción de la Constitución Migrante** a partir de un ejercicio de [nuevas narrativas](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/dialogos-migrantes-segunda-edicion/) con la intención de elaborar el documento que lleve al Congreso de los Diputados la mirada interseccional sobre la realidad española.
 
 ## La participación como dinámica interna
 
@@ -93,18 +95,18 @@ Asimismo, la Escuela pondrá a disposición **una plataforma digital de particip
 
 ## ¿A qué aspiramos?
 
-La Escuela aspira a ser un puente con las organizaciones e instituciones vinculadas a la participación y, con ello, ser una oportunidad para la comunidad para integrarse en ellas y, con ello, transformarlas. 
+La Escuela aspira a ser un puente con las organizaciones e instituciones vinculadas a la participación y una oportunidad para integrarse en ellas y, con ello, transformarlas. 
 
-Desde **la facilitación:** formar parte de una nueva generación de personas facilitadoras de diálogo, capaces de manejar los vericuetos del debate, que aspiren a la despolarización y sean capaces de crear espacios seguros.
+Desde **la facilitación:** formar parte de una nueva generación de personas facilitadoras de diálogo, capaces de manejar las complejidades del debate público, que aspiren a la despolarización y sean capaces de crear espacios seguros.
 
 ![Dialegs migrants](/media/p1076729.jpg "DM")
 
-Como **desarrolladores de procesos de participación digitales:** ser capaces de diseñar y llevar a cabo una estrategia que armonice la opinión de miles de personas para, finalmente, emerger recomendaciones comunes, complejas y realistas.
+Como **desarrolladores de procesos de participación digitales:** personas capaces de diseñar y llevar a cabo una estrategia que armonice la opinión de miles de personas para, finalmente, hacer emerger recomendaciones comunes, complejas y realistas.
 
-Desde la **investigación creativa:** poder formar parte en consorcios de proyectos europeos, colaborando desde la docencia en instituciones académicas y becas de investigación, desarrollando nuevas modalidades de periodismo de investigación.
+Desde la **investigación creativa:** profesionales que puedan formar parte en consorcios de proyectos europeos, colaborando desde la docencia en instituciones académicas y becas de investigación, desarrollando nuevas modalidades de periodismo de investigación.
 
-Y desde la **incidencia ciudadana:** apoyar o iniciar campañas de incidencia política a partir de piezas detonadoras de debate social, sea desde el inicio de los procesos participativos, sea para dinamizar sus conclusiones de manera más efectiva.
+Y desde la **incidencia ciudadana:** ciudadanos dipuestos a apoyar o iniciar campañas de incidencia política a partir de piezas detonadoras de debate social, sea desde el inicio de los procesos participativos, sea para dinamizar sus conclusiones de manera más efectiva.
 
 ## Una comunidad en movimiento
 
-En definitiva, **una comunidad en movimiento,** que a través de la investigación y la práctica, aporte nuevas experiencias políticas de emancipación personal y colectiva, ofreciendo una nueva forma de sentir la democracia.
+En definitiva, **una comunidad en movimiento,** que a través de la investigación y la práctica, aporta nuevas experiencias políticas de emancipación personal y colectiva, ofreciendo una nueva forma de sentir la democracia.

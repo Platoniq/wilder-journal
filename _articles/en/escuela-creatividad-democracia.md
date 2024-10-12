@@ -63,9 +63,11 @@ All of this through disruptive methodologies, such as **[legislative theatre](ht
 
 ## Open processes and to be opened
 
-The entire training strategy is designed to be applied and, in this sense, there are several processes that the School will make available to the community. In addition to a series of agreements with public institutions and entities that allow participants **to get involved in active institutional processes**, such as the Citizen's Convention on Housing or the Strategy for a Longer Society and a Fuller Life, of the Generalitat de Catalunya.
+The entire training strategy is designed to be applied and, in this sense, there are several processes that the School will make available to the community. 
 
-**At the local level,** the [facilitation of the Didactic Unit, ‘Democracy and Creativity’, in schools and institutes](https://journal.platoniq.net/en/wilder-journal-2/learnings/deliberative-assemblies/), after the first pilot at the Instituto x in Madrid. **At regional level,** participation in the Mindset Revolution project [to improve public policies on intersectional mental health in young people](https://journal.platoniq.net/en/wilder-journal-2/deep-dives/intersectional-mental-health-support/), with the University of Birmingham and the Kasal de Joves de Roquetes. **At the national level,** the School collaborates with the Spanish Civic Assembly in its efforts to create an assembly of sorted citizens in Europe, to promote its mission, to communicate its conclusions will also be part of the School's lines of work. 
+In addition to a series of agreements with public institutions and entities that allow participants **to get involved in active institutional processes**, such as the Citizen's Convention on Housing or the Strategy for a Longer Society and a Fuller Life, of the Generalitat de Catalunya.
+
+**At the local level,** the [facilitation of the Didactic Unit, ‘Democracy and Creativity’, in schools and institutes](https://journal.platoniq.net/en/wilder-journal-2/learnings/deliberative-assemblies/), after the first pilot at the Instituto x in Madrid. **At regional level,** participation in the Mindset Revolution project [to improve public policies on intersectional mental health in young people](https://journal.platoniq.net/en/wilder-journal-2/deep-dives/intersectional-mental-health-support/), with the University of Birmingham and the Kasal de Joves de Roquetes. **At the national level,** the School collaborates with the Spanish Civic Assembly in its efforts to create an assembly of sorted citizens in Europe. 
 
 {% quote { "author": "Desirée Bela-Lobedde, activista antirracista" } %}I would be interested in a document that addresses racism, anti-racism, the repeal of the law on foreigners, the elimination of CIEs, the colonial legacy in Spanish cities, the decolonisation of the curriculum, and so on. But once all this has been collected, I would like it to go through a political process so that it has legal force.{% endquote %}
 
@@ -83,7 +85,7 @@ The School will also provide a **digital platform for citizen participation** fr
 
 ## What do we aspire to?
 
-The School aspires to be a bridge to organisations and institutions linked to participation and, in doing so, to be an opportunity for the community to become part of them and, in doing so, to transform them. 
+The School aspires to be a bridge to organisations and institutions linked to participation and an opportunity to become part of them and, in doing so, to transform them. 
 
 From **facilitation:** to be part of a new generation of dialogue facilitators, capable of handling the intricacies of debate, aspiring to depolarisation and able to create safe spaces.
 
