@@ -109,4 +109,4 @@ Y desde la **incidencia ciudadana:** ciudadanos dipuestos a apoyar o iniciar cam
 
 ## Una comunidad en movimiento
 
-En definitiva, **una comunidad en movimiento,** que a través de la investigación y la práctica, aporta nuevas experiencias políticas de emancipación personal y colectiva, ofreciendo una nueva forma de sentir la democracia.
+En definitiva, **una comunidad en movimiento** que, a través de la investigación y la práctica, aporta nuevas experiencias políticas de emancipación personal y colectiva, ofreciendo una nueva forma de sentir la democracia.
