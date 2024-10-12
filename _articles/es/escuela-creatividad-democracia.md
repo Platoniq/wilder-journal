@@ -10,7 +10,7 @@ uid: Escuela-Creatividad-Democracia
 title: "Escuela de Creatividad y Democracia: conectando afectos, reimaginando la
   democracia"
 description: Escuela de Creatividad y Democracia
-author: Platoniqc
+author: Platoniqck
 author_uids:
   - platoniq
 cover:
