@@ -88,7 +88,7 @@ Mediante tres procesos participativos e investigación participativa, los jóven
 
 Este proyecto se ha llevado a cabo en dos fases, la primera en Manchester y la segunda en Barcelona.
 
-Fase 1: Liderada en Mancheste por Sonia Bussu en la Universidad de Birmingham. En colaboración con: Platoniq, Katy Rubin, The Manchester Metropolitan University, Youth Focus North West, 42nd Street y Reform Radio.
+Fase 1: Liderada en Manchester por Sonia Bussu en la Universidad de Birmingham. En colaboración con: Platoniq, Katy Rubin, The Manchester Metropolitan University, Youth Focus North West, 42nd Street y Reform Radio.
 
 Fase 2: Co-liderada en Barcelona por Sonia Bussu y Platoniq. En colaboración con: Katy Rubin, 42nd Street y Zara Eve.
 

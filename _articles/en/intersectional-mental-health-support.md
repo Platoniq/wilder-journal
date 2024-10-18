@@ -79,4 +79,4 @@ Phase 1: Led in Manchester by Sonia Bussu at the University of Birmingham. In co
 
 Phase 2: Co-led in Barcelona by Sonia Bussu and Platoniq. In collaboration with: Katy Rubin, 42nd Street and Zara Eve.
 
-Platoniq Foundation’s participation in this project was possible thank to Open Society Foundations and European Association for Local Democracy.
+Platoniq Foundation’s participation in this project was possible thank to Open Society Foundations and ALDA. European Association for Local Democracy.
