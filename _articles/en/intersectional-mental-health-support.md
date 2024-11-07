@@ -71,7 +71,19 @@ In both Manchester and Barcelona, young people worked with an audience of commun
 
 As part of our work, we also enabled young people to self-evaluate their own experience of participation and perceived social impact. **This process recognises the importance of lived experience to shape policies and understand their impact.** It also helps shift the focus from people’s behaviours and weaknesses to processes and practices, challenging models of care that frame people as victims, rather than active participants. **Young people benefitted on multiple levels, as they built confidence and democratic skills in the process, which can also positively impact their mental wellbeing.**
 
- By engaging in participatory processes and participatory research, young people co produced policy recommendations for intersectionality inclusive mental health support. 
+By engaging in participatory processes and participatory research, young people co produced policy recommendations for intersectionality inclusive mental health support. 
+
+{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 1", "url": "https://youtube.com/embed/KDXwxdf9G9c" } %}
+
+{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 2", "url": "https://youtube.com/embed/z2BdNANwo1U" } %}
+
+{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 3", "url": "https://youtube.com/embed/yImrLl8soec" } %}
+
+{% video { "title": "▶️ #EleccionesEuropeas | Salud (mental) democrática | Recomendación 4", "url": "https://youtube.com/embed/seB-CIZhdFo" } %}
+
+### Check the policy recommendations here:
+
+{% file { "title": "Listening to Youth Voice to better intersectional mental health support", "info": "Policy Brief", "file": "media/policy-brief-salud-mental-interseccional-esp.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": true } %}
 
 This project has been carried out in two phases, the first in Manchester and the second in Barcelona.
 
