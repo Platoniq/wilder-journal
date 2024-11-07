@@ -92,6 +92,8 @@ Fase 1: Liderada en Manchester por Sonia Bussu en la Universidad de Birmingham. 
 
 Fase 2: Co-liderada en Barcelona por Sonia Bussu y Platoniq. En colaboración con: Katy Rubin, 42nd Street y Zara Eve.
 
-La participación de Platoniq en este proyecto es gracias a Open Society Foundations y ALDA Europe.
+El proyecto cuenta con el respaldo de la Open Society Foundations.
+
+La participación de Platoniq en este proyecto ha sido posible gracais es gracias a **ALDA. European Association for Local Democracy** y el **Citizens, Equality, Rights and Values Programme (CERV)** de la Comisión Europea.
 
 ![Programa del Foro](/media/captura-de-pantalla-2024-11-07-a-las-7.54.13.png "Programa del Foro")
