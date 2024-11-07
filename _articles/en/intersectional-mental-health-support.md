@@ -82,3 +82,5 @@ Phase 2: Co-led in Barcelona by Sonia Bussu and Platoniq. In collaboration with:
 The project is supported by the Open Society Foundations.
 
 Platoniq's participation in this project has been made possible thanks to **ALDA. European Association for Local Democracy** and the **Citizens, Equality, Rights and Values Programme (CESV)** of the European Commission.
+
+![Programa del Foro](/media/captura-de-pantalla-2024-11-07-a-las-7.54.13.png "Programa del Foro")
