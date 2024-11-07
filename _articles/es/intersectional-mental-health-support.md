@@ -94,4 +94,4 @@ Fase 2: Co-liderada en Barcelona por Sonia Bussu y Platoniq. En colaboración co
 
 La participación de Platoniq en este proyecto es gracias a Open Society Foundations y ALDA Europe.
 
-![Programa del Foro](/media/captura-de-pantalla-2024-11-07-a-las-7.45.31.png "Programa del Foro")
+![Programa del Foro](/media/captura-de-pantalla-2024-11-07-a-las-7.54.13.png "Programa del Foro")
