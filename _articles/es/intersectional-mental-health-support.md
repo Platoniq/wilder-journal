@@ -84,7 +84,7 @@ Mediante tres procesos participativos e investigación participativa, los jóven
 
 ## Consulta las recomendaciones políticas aquí:
 
-{% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "media/policy-brief-salud-mental-interseccional-esp.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
+{% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/policy-brief-mindset-revolution-espanol.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
 
 Este proyecto se ha llevado a cabo en dos fases, la primera en Manchester y la segunda en Barcelona.
 
