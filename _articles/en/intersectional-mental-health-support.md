@@ -83,7 +83,7 @@ By engaging in participatory processes and participatory research, young people 
 
 ### Check the policy recommendations here:
 
-{% file { "title": "Listening to Youth Voice to better intersectional mental health support", "info": "Policy Brief", "file": "media/policy-brief-salud-mental-interseccional-esp.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": true } %}
+{% file { "title": "Listening to Youth Voice to better intersectional mental health support", "info": "Policy Brief", "file": "/media/policy-brief-mindset-revolution-english.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": true } %}
 
 This project has been carried out in two phases, the first in Manchester and the second in Barcelona.
 
