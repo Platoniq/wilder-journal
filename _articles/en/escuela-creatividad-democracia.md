@@ -100,3 +100,19 @@ And from **citizen advocacy:** supporting or initiating political advocacy campa
 ## A community in movement
 
 In short, **a community in movement,** which, through research and practice, contributes new political experiences of personal and collective emancipation, offering a new way of feeling democracy.
+
+
+
+First steps 
+
+As the first activity of the School, we have designed, in collaboration with the University of Birmingham and a team of young people from Manchester, three webinars entitled: Empowering young people's voice in politics through the arts, digital participation and legislative theatre.
+
+This series of webinars is designed to equip young people, youth workers and youth, youth workers and educators with the tools and skills to meet these tools and skills to address these challenges, actively participate in policy-making and ensure that their voices are heard. their voices are heard. By combining creative methods creative methods such as theatre, art and digital activism, we aim to strengthen the democratic strengthen the democratic participation of all young people, especially the most vulnerable.
+
+**21 November:** Intersectional Activism: The use of digital tools to address housing, climate tools to address housing, climate, mental health and human rights. ([SIGN UP](https://openspaces.platoniq.net/processes/prelanzamiento/f/429/meetings/215))
+
+**27 November:** Creative Methods for Reclaiming Youth Voice in Research and Evaluation ([SIGN UP](https://openspaces.platoniq.net/processes/prelanzamiento/f/429/meetings/216?locale=en))
+
+**28 November:** The transformative power of legislative theatre ([SIGN UP](https://openspaces.platoniq.net/processes/prelanzamiento/f/429/meetings/214?locale=en))
+
+This set of webinars are funded by: ALDA (European Association for Local Democracy) and Open Society Foundations.

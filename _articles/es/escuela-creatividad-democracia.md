@@ -110,3 +110,21 @@ Y desde la **incidencia ciudadana:** ciudadanos dipuestos a apoyar o iniciar cam
 ## Una comunidad en movimiento
 
 En definitiva, **una comunidad en movimiento** que, a través de la investigación y la práctica, aporta nuevas experiencias políticas de emancipación personal y colectiva, ofreciendo una nueva forma de sentir la democracia.
+
+## Primeros pasos 
+
+Como primera actividad de la Escuela, hemos diseñado, en colaboración con la Universidad de Birmingham y junto a un equipo de jóvenes de Manchester tres seminarios web que llevan por título: **Potenciar la voz de los jóvenes en la política a través de las artes, la participación digital y el teatro legislativo**
+
+Esta serie de seminarios web está diseñada para dotar a los jóvenes, a los trabajadores juveniles y a los educadores de las herramientas y habilidades necesarias para afrontar estos retos, participar activamente en la formulación de políticas y asegurarse de que sus voces sean escuchadas. Mediante la combinación de métodos creativos como el teatro, el arte y el activismo digital, pretendemos reforzar la participación democrática de todos los jóvenes, especialmente de los más vulnerables.
+
+
+
+**21 de Noviembre:** Activismo interseccional: El uso de herramientas 
+digitales para abordar la vivienda, el clima, la salud mental y los 
+derechos humanos ([APÚNTATE](https://openspaces.platoniq.net/processes/prelanzamiento/f/429/meetings/215))
+
+**27 de Noviembre:** Métodos creativos para recuperar la voz de los jóvenes en la investigación y la evaluación ([APÚNTATE](<>))
+
+**28 de Noviembre:** El poder transformador del teatro legislativo ([APÚNTATE](https://openspaces.platoniq.net/processes/prelanzamiento/f/429/meetings/214))
+
+Este conjunto de webinars están financiados por: ALDA (European Association for Local Democracy) y Open Society Foundations.
