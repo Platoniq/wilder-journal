@@ -53,6 +53,8 @@ En el ámbito de las ciencias sociales, hay una producción académica interesan
 
 En los talleres con jóvenes, he visto que ellos rechazan la idea de que "son el futuro" porque los despolitiza. Queremos soluciones para ellos, pero ellos deben estar en el debate. No debemos pedirles demasiado, sino incorporar sus voces y experiencias en un contexto específico. En el ámbito político, creo que cabe trabajar sobre la confiabilidad de los datos. En el debate sobre inmigración, por ejemplo, necesitamos datos confiables para discutir y resolver. Los datos no son interpretables, quiero decir, 15% es 15% pero sí se puede saber con qué criterios y técnicas de recogida de información se llegó a ese 15% y luego, sí, las interpretaciones de sus consecuencias son diversas.
 
+![Two Natures, 2024](/media/fake_news-als-graffiti_-40506279723-.jpg "Two Natures, 2024")
+
 La narrativa y las estrategias comunicativas son esenciales para abordar la polarización. Necesitamos múltiples estrategias para llegar al público, utilizando emociones e interacciones para generar impacto. Es importante incorporar estos aspectos, ya que tienen mucho potencial.
 
 **¿Cómo puede la democracia deliberativa, a través de asambleas, abordar de manera efectiva temas polarizantes como la inmigración o el cambio climático sin desviarse hacia debates estériles?**
@@ -62,8 +64,6 @@ Yanina Welp: Muchas asambleas evitan abordar temas polarizados prefiriendo centr
 Mi enfoque no está tanto en datos cuantitativos como en el proceso mismo y las reglas del juego que todos acuerden. Porque si cada parte presenta sus propios datos, se puede perder de vista la verdad compartida. Es como el fútbol: puedes perder un partido pero si se respetan las reglas, el resultado es legítimo. El mismo principio se aplica a los procesos electorales y a cómo se manejan las disputas al respecto.
 
 Veo desafíos para abordar estos temas en abstracto por la importancia de adaptar el proceso a su contexto institucional. Por ejemplo, en Irlanda, el modelo ha funcionado bien en ciertos casos debido al compromiso de los actores y a la celebración de referendos para ratificar decisiones.
-
-![citizens assemble!](/media/captura-de-pantalla-2024-11-11-a-las-22.07.55.png "citizens assemble!")
 
 Sin embargo, existe una expectativa problemática de que las asambleas deliberativas resuelvan problemas sin considerar su entorno institucional más amplio. En España, por ejemplo, la limitación de potencial se debe a la falta de mecanismos claros para implementar las decisiones de las asambleas. Es un problema complejo que requiere cambios institucionales significativos más allá de las asambleas en sí mismas.
 
@@ -88,6 +88,8 @@ En definitiva, debería haber una reflexión sobre la democracia y la institucio
 Yanina Welp: En cuanto a la creación de la agenda, efectivamente, sería interesante distribuirla de manera que los más afectados tuvieran una voz significativa. Hay una larga tradición de estudios de políticas públicas que muestra la importancia de la co-creación con los afectados. Sin embargo, cada contexto necesita definir bien cómo integrar a la gente, sin idealizar la transformación radical. Es crucial incluir la visión de los afectados en el proceso de creación de la agenda, ya que la efectividad de las políticas públicas diseñadas sin la gente es muy baja. 
 
 Por ejemplo, en América Latina, los programas de vivienda que no consideran las necesidades locales suelen fallar. La co-creación es esencial, aunque debe definirse claramente en cada contexto. No se trata de mitificar los ideales revolucionarios, sino de reconocer tanto la ineficiencia de las respuestas tecnocráticas como de las limitaciones de los cambios radicales. Incluso en la revolución francesa, ciertas dinámicas de poder continuaron. Es crucial combinar diferentes enfoques en la participación, integrando a políticos, movimientos sociales y mecanismos como las asambleas sorteadas, todos siguiendo reglas claras. 
+
+![Two Natures, 2024](/media/captura-de-pantalla-2024-11-11-a-las-22.07.55.png "Two Natures, 2024")
 
 Esto podría motivar a los políticos a ver el sentido de la participación ciudadana y reducir el miedo a la cooptación. Conocer ejemplos concretos de variaciones en asambleas podría ser útil, aunque no tengo conocimiento directo de ellos. En cualquier caso, es importante que las asambleas sean inclusivas y flexibles, adaptándose a las necesidades y contextos específicos para ser realmente efectivas. 
 
