@@ -15,7 +15,7 @@ author_uids:
   - olivier-schulbaum
 interviewee: Yanina Welp
 cover:
-  path: /media/articles/heroes/photo_2024-11-13_16-50-37.jpg
+  path: /media/articles/heroes/yanina-welp_-archivo-personal.jpg
   mobile: /media/articles/mobile/photo_2024-11-13_16-50-37.jpg
   thumbnail: /media/articles/thumbnails/photo_2024-11-13_16-50-37.jpg
   alt: Yanina Welp
