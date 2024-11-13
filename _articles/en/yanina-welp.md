@@ -13,7 +13,7 @@ author: Olivier Schulbaum
 interviewee: Yanina Welp
 cover:
   path: /media/articles/heroes/photo_2024-11-13_16-50-37.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/photo_2024-11-13_16-50-37.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
 stickers:
   layout: layout-none
