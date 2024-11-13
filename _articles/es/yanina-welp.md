@@ -63,6 +63,8 @@ Mi enfoque no está tanto en datos cuantitativos como en el proceso mismo y las 
 
 Veo desafíos para abordar estos temas en abstracto por la importancia de adaptar el proceso a su contexto institucional. Por ejemplo, en Irlanda, el modelo ha funcionado bien en ciertos casos debido al compromiso de los actores y a la celebración de referendos para ratificar decisiones.
 
+![Two Natures, 2024](/media/two-natures-bw-copy.jpeg "Two Natures, 2024")
+
 Sin embargo, existe una expectativa problemática de que las asambleas deliberativas resuelvan problemas sin considerar su entorno institucional más amplio. En España, por ejemplo, la limitación de potencial se debe a la falta de mecanismos claros para implementar las decisiones de las asambleas. Es un problema complejo que requiere cambios institucionales significativos más allá de las asambleas en sí mismas.
 
 Es crucial politizar y abrir más el proceso, involucrando a movimientos sociales y partidos políticos en las asambleas. Creo que esto puede priorizarse más que simplemente enfocarse en la representación descriptiva de los participantes. Las asambleas deben ser un espacio para el debate vigoroso y bien informado que incluya perspectivas diversas y confrontaciones constructivas.
