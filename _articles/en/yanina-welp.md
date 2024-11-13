@@ -21,7 +21,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo_2024-11-13_16-50-37.jpg
 ---
 Yanina Welp is a leading political scientist and expert on participatory democracy. With a strong academic and professional background, she has worked on numerous research projects on citizen participation mechanisms and their impact on contemporary democracies. She is currently a research associate at the Albert Hirschman Centre for Democracy in Switzerland and has published extensively on issues of citizen participation, democratisation and autocratisation.
 

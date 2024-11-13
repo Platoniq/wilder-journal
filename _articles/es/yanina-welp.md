@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo_2024-11-13_16-50-37.jpg
 ---
 Yanina Welp es una destacada politóloga y experta en democracia participativa. Con una sólida trayectoria académica y profesional, ha trabajado en numerosas investigaciones sobre mecanismos de participación ciudadana y su impacto en las democracias contemporáneas. Actualmente, es investigadora asociada en el Centro Albert Hirschman sobre Democracia en Suiza y ha publicado extensamente sobre temas de participación ciudadana, democratización y autocratización.
 
