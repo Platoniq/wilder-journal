@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-13T16:38:00.000Z
 date-updated: 2024-11-13T16:38:00.000Z
-article-order: 14
+article-order: 10
 uid: yanina-welp
 title: Polarisation, Depolarisation and the Role of Citizenship in Modern Democracy
 description: A conversation with Yanina Welp
