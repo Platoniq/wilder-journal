@@ -63,7 +63,7 @@ Mi enfoque no está tanto en datos cuantitativos como en el proceso mismo y las 
 
 Veo desafíos para abordar estos temas en abstracto por la importancia de adaptar el proceso a su contexto institucional. Por ejemplo, en Irlanda, el modelo ha funcionado bien en ciertos casos debido al compromiso de los actores y a la celebración de referendos para ratificar decisiones.
 
-![Two Natures, 2024](/media/two-natures-bw-copy.jpeg "Two Natures, 2024")
+![citizens assemble!](/media/captura-de-pantalla-2024-11-11-a-las-22.07.55.png "citizens assemble!")
 
 Sin embargo, existe una expectativa problemática de que las asambleas deliberativas resuelvan problemas sin considerar su entorno institucional más amplio. En España, por ejemplo, la limitación de potencial se debe a la falta de mecanismos claros para implementar las decisiones de las asambleas. Es un problema complejo que requiere cambios institucionales significativos más allá de las asambleas en sí mismas.
 
