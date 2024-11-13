@@ -13,7 +13,7 @@ author: Olivier Schulbaum
 interviewee: Yanina Welp
 cover:
   path: /media/articles/heroes/yanina-welp_-archivo-personal.jpg
-  mobile: /media/articles/mobile/photo_2024-11-13_16-50-37.jpg
+  mobile: /media/articles/mobile/yanina-welp_-archivo-personal.jpg
   thumbnail: /media/articles/thumbnails/photo_2024-11-13_16-50-37.jpg
 stickers:
   layout: layout-none
