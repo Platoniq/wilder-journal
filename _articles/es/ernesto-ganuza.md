@@ -33,7 +33,7 @@ image:
 ---
 Ernesto Ganuza es investigador y le apasiona organizar espacios deliberativos. Dedica su tiempo a promover la deliberación, a estructurarla, y a organizarla para poder estudiar la forma en que estos procesos ofrecen a las personas la posibilidad de hablar, expresar sus opiniones y tomar decisiones en el contexto político actual, así como la forma en que contribuye a redistribuir el poder y fortalecer las organización ciudadana. 
 
-Cristian: ¿Hay algún proceso participativo en España que haya llamado particularmente tu atención?
+**Dada tu experiencia diseñando y llevando a cabo procesos de participación, ¿hay algún proceso participativo en España que haya llamado particularmente tu atención?**
 
 E: Todos los procesos que he creado me parecen fascinantes, cada uno es único porque depende de factores como los participantes, los financiadores y los recursos disponibles. Un proceso deliberativo siempre genera una energía especial porque se crea un grupo que debate un tema muy concreto durante un tiempo prolongado. Esto hace que surjan muchas barreras y, al final, las personas se empoderan. Mi primer gran proceso fue en 2008, en Andalucía, sobre el agua. Reunió a 150 personas de diversas partes de la región, quienes debatieron sobre las políticas públicas relacionadas con el agua.
 
