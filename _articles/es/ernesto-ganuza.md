@@ -16,7 +16,7 @@ interviewee: Ernesto Ganuza
 cover:
   path: /media/articles/heroes/photo_2024-11-14_12-06-49.jpg
   mobile: /media/articles/mobile/photo_2024-11-14_12-06-49.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/photo_2024-11-14_12-06-49.jpg
   alt: Ernesto Ganuza
   credits: Ernesto Ganuza
   caption: Ernesto Ganuza
