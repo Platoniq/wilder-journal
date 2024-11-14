@@ -15,7 +15,7 @@ author_uids:
 interviewee: Ernesto Ganuza
 cover:
   path: /media/articles/heroes/photo_2024-11-14_12-06-49.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/photo_2024-11-14_12-06-49.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - yanina-welp
