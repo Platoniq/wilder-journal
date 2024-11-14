@@ -26,7 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo_2024-11-14_12-06-49.jpg
 ---
 Ernesto Ganuza is a researcher and is passionate about organising deliberative spaces. He spends his time promoting deliberation, structuring it, and organising it in order to study how these processes offer people the possibility to speak, express their opinions and make decisions in the current political context, as well as how they contribute to redistributing power and strengthening citizen organisation. 
 

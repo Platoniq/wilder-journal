@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo_2024-11-14_12-06-49.jpg
 ---
 Ernesto Ganuza es investigador y le apasiona organizar espacios deliberativos. Dedica su tiempo a promover la deliberación, a estructurarla, y a organizarla para poder estudiar la forma en que estos procesos ofrecen a las personas la posibilidad de hablar, expresar sus opiniones y tomar decisiones en el contexto político actual, así como la forma en que contribuye a redistribuir el poder y fortalecer las organización ciudadana. 
 
