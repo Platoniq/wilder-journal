@@ -82,6 +82,8 @@ E: Deliberation allows stereotypes and biases to be tested. Through debate, peop
 
 E: Sure. A common exercise is to ask participants to first make their own proposals. These proposals are then critiqued by other groups, who are free to do so openly. Criticism helps people to dig deeper into their proposals and modify them for the better. Through this process, what starts as a simple proposal becomes something much more elaborate and valuable. It is not about some people being smarter than others, but about using what we know about how we process information and how we are influenced by biases to improve collective decisions.
 
+{% gallery { "simple": false, "images": [{"path":"/media/1491px-fachada_escher_-_escher_facade_-2014-_–_reptiles_-13807470983-.jpg","alt":"Ávaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","caption":"Álvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","credits":"Álvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher."}] } %}
+
 **C: Criticism doesn't seem like a negative thing in this context?**
 
 E: Exactly. Criticism becomes a valuable tool for improving proposals. Instead of seeing criticism as an obstacle, it is seen as a support that helps to refine ideas and make them more robust. It is a process of collective growth.
