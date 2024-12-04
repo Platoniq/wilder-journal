@@ -53,7 +53,7 @@ E: Sí, porque el sorteo permite reunir a personas con perspectivas vitales muy 
 
 E: Lo esencial es garantizar un espacio horizontal e igualitario. Cuando las personas no se conocen y están debatiendo sobre un tema concreto, la dinámica cambia. No importa si provienen de contextos económicos diferentes; lo crucial es que, en un espacio deliberativo, todos tienen el mismo derecho a participar y ser escuchados. Esto facilita el cruce de perspectivas y permite que se enriquezca el debate. La clave es que el proceso no se trate solo de intercambiar opiniones, sino de generar comprensión mutua.
 
-IMAGEN
+{% gallery { "simple": true, "images": [{"path":"/media/leeuwarden_-_tegeltableau_escher.jpg","credits":"Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden.","alt":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden. ","caption":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden."}] } %}
 
 **C: ¿Cómo defines el proceso de transmisión de la información dentro de estos espacios deliberativos?**
 

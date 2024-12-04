@@ -50,6 +50,8 @@ E: Yes, because the lottery brings together people with very different life pers
 
 E: The essential thing is to ensure a horizontal and egalitarian space. When people don't know each other and are discussing a specific topic, the dynamics change. It doesn't matter if they come from different economic backgrounds; the crucial thing is that, in a deliberative space, everyone has the same right to participate and be heard. This facilitates the crossing of perspectives and allows the debate to be enriched. The key is that the process is not just about exchanging opinions, but about generating mutual understanding.
 
+{% gallery { "simple": false, "images": [{"path":"/media/leeuwarden_-_tegeltableau_escher.jpg","credits":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden.","caption":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden.","alt":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden."}] } %}
+
 **C: How do you define the process of information transmission within these deliberative spaces?**
 
 E: The process is fairly standardised: a group of people is selected by lottery, then experts are invited to provide information on the topic in question. The participants, after receiving this information, debate to come up with recommendations on the public policies they are dealing with. This type of process, called a ‘mini-public’, seeks to ensure that participants are fully informed so that they can make informed decisions.
