@@ -53,7 +53,7 @@ E: Sí, porque el sorteo permite reunir a personas con perspectivas vitales muy 
 
 E: Lo esencial es garantizar un espacio horizontal e igualitario. Cuando las personas no se conocen y están debatiendo sobre un tema concreto, la dinámica cambia. No importa si provienen de contextos económicos diferentes; lo crucial es que, en un espacio deliberativo, todos tienen el mismo derecho a participar y ser escuchados. Esto facilita el cruce de perspectivas y permite que se enriquezca el debate. La clave es que el proceso no se trate solo de intercambiar opiniones, sino de generar comprensión mutua.
 
-{% gallery { "simple": true, "images": [{"path":"/media/leeuwarden_-_tegeltableau_escher.jpg","credits":"Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden.","alt":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden. ","caption":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden."}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/leeuwarden_-_tegeltableau_escher.jpg","credits":"Bouwe Brouwer, 2011","alt":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden. ","caption":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden."}] } %}
 
 **C: ¿Cómo defines el proceso de transmisión de la información dentro de estos espacios deliberativos?**
 
@@ -85,7 +85,7 @@ E: La deliberación permite que los estereotipos y prejuicios sean puestos a pru
 
 E: Claro. Un ejercicio común es pedir a los participantes que primero hagan sus propias propuestas. Luego, esas propuestas son criticadas por otros grupos, quienes tienen la libertad de hacerlo de manera abierta. La crítica ayuda a que las personas profundicen más en sus propuestas y las modifiquen para mejorar. A través de este proceso, lo que comienza como una propuesta simple se convierte en algo mucho más elaborado y valioso. No se trata de que algunos sean más inteligentes que otros, sino de utilizar lo que sabemos sobre cómo procesamos la información y cómo nos influencian los sesgos para mejorar las decisiones colectivas.
 
-{% gallery { "simple": false, "images": [{"path":"/media/1491px-fachada_escher_-_escher_facade_-2014-_–_reptiles_-13807470983-.jpg","alt":"Álvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","caption":"Calle Conde de Romanones 14, Madrid","credits":"Álvaro Ibáñez"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/1491px-fachada_escher_-_escher_facade_-2014-_–_reptiles_-13807470983-.jpg","alt":"Álvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","caption":"Calle Conde de Romanones 14, Madrid","credits":"Álvaro Ibáñez, 2014"}] } %}
 
 **C: ¿La crítica no parece algo negativo en este contexto?**
 

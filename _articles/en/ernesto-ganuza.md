@@ -50,7 +50,7 @@ E: Yes, because the lottery brings together people with very different life pers
 
 E: The essential thing is to ensure a horizontal and egalitarian space. When people don't know each other and are discussing a specific topic, the dynamics change. It doesn't matter if they come from different economic backgrounds; the crucial thing is that, in a deliberative space, everyone has the same right to participate and be heard. This facilitates the crossing of perspectives and allows the debate to be enriched. The key is that the process is not just about exchanging opinions, but about generating mutual understanding.
 
-{% gallery { "simple": false, "images": [{"path":"/media/leeuwarden_-_tegeltableau_escher.jpg","credits":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden.","caption":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden.","alt":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden."}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/leeuwarden_-_tegeltableau_escher.jpg","credits":"Bouwe Brouwer, 2011","caption":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden.","alt":" Wall tableau of a tessellation by local resident M. C. Escher on the Princessehof ceramic museum, Leeuwarden."}] } %}
 
 **C: How do you define the process of information transmission within these deliberative spaces?**
 
@@ -82,7 +82,7 @@ E: Deliberation allows stereotypes and biases to be tested. Through debate, peop
 
 E: Sure. A common exercise is to ask participants to first make their own proposals. These proposals are then critiqued by other groups, who are free to do so openly. Criticism helps people to dig deeper into their proposals and modify them for the better. Through this process, what starts as a simple proposal becomes something much more elaborate and valuable. It is not about some people being smarter than others, but about using what we know about how we process information and how we are influenced by biases to improve collective decisions.
 
-{% gallery { "simple": false, "images": [{"path":"/media/1491px-fachada_escher_-_escher_facade_-2014-_–_reptiles_-13807470983-.jpg","alt":"Ávaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","caption":"Álvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","credits":"Álvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher."}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/1491px-fachada_escher_-_escher_facade_-2014-_–_reptiles_-13807470983-.jpg","alt":"Ávaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","caption":"Calle Conde de Romanones 14, Madrid","credits":"Álvaro Ibáñez, 2014"}] } %}
 
 **C: Criticism doesn't seem like a negative thing in this context?**
 
