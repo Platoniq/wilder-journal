@@ -32,7 +32,11 @@ Ernesto Ganuza is a researcher and is passionate about organising deliberative s
 
 **C. Given your experience designing and carrying out participatory processes, is there any participatory process in Spain that has particularly caught your attention?**
 
-E: I find all the processes I have created fascinating, each one is unique because it depends on factors such as participants, funders and available resources. A deliberative process always generates a special energy because you create a group that discusses a very specific topic for a long time. This raises a lot of barriers and, in the end, people become empowered. My first big process was in 2008, in Andalusia, on water. It brought together 150 people from different parts of the region, who discussed public policies related to water.
+E: I find all the processes I have created fascinating, each one is unique because it depends on factors such as participants, funders and available resources. A deliberative process always generates a special energy because you create a group that discusses a very specific topic for a long time. This raises a lot of barriers and, in the end, people become empowered. 
+
+{% quote { "author": "Ernesto Ganuza" } %}A deliberative process always generates a special energy because you create a group that discusses a very specific topic for a long time. This raises a lot of barriers and, in the end, people become empowered. {% endquote %}
+
+My first big process was in 2008, in Andalusia, on water. It brought together 150 people from different parts of the region, who discussed public policies related to water.
 
 **C: Talking about the participants, in a deliberative process people are usually selected by lottery, do you think this is a good way to achieve representativeness?**
 
@@ -57,6 +61,8 @@ E: One of the most interesting discoveries is that, contrary to the traditional 
 **C: How does this fit into the deliberative process?**
 
 E: The transmission of information in deliberative processes is much more complex. People learn in a meaningful way, but they learn in an active way, interacting with information and with other people. Learning is not limited to processing data, but involves a social and collective construction of knowledge, where interaction and diverse perspectives are fundamental.
+
+{% quote { "author": "Ernesto Ganuza" } %}Learning is not limited to processing data, but involves a social and collective construction of knowledge, where interaction and diverse perspectives are fundamental.{% endquote %}
 
 With the information we gave about the topics to be discussed, it happened that, at the beginning, no one knew how to proceed; many people failed, but at the end of the deliberation, almost everyone got it right, because it was a simple process. However, six months later, we asked them again and, although some remembered, not all of them did. Why does this happen?
 
@@ -88,7 +94,11 @@ E: Citizen participation has a transformative power. People start to feel owners
 
 **C: What differences do you find between an activist citizen movement and a deliberative process?**
 
-E: A citizens' movement seeks to claim and mobilise within the political system, whereas deliberation does not have that aim. What deliberation seeks to do is to open up spaces for public debate, which are not necessarily made up of militant people. These people may have their own ideologies, but they are not there representing any organisation. The aim is to generate cross-agreements between different perspectives, rather than seeking unanimous consensus on specific public policy issues.
+E: A citizens' movement seeks to claim and mobilise within the political system, whereas deliberation does not have that aim. What deliberation seeks to do is to open up spaces for public debate, which are not necessarily made up of militant people. 
+
+{% quote { "author": "Ernesto Ganuza" } %}What deliberation seeks to do is to open up spaces for public debate, which are not necessarily made up of militant people. {% endquote %}
+
+These people may have their own ideologies, but they are not there representing any organisation. The aim is to generate cross-agreements between different perspectives, rather than seeking unanimous consensus on specific public policy issues.
 
 **C: Why do you think design and advice are important in participatory processes?**
 

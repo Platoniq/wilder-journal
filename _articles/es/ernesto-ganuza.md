@@ -35,7 +35,11 @@ Ernesto Ganuza es investigador y le apasiona organizar espacios deliberativos. D
 
 **Dada tu experiencia diseñando y llevando a cabo procesos de participación, ¿hay algún proceso participativo en España que haya llamado particularmente tu atención?**
 
-E: Todos los procesos que he creado me parecen fascinantes, cada uno es único porque depende de factores como los participantes, los financiadores y los recursos disponibles. Un proceso deliberativo siempre genera una energía especial porque se crea un grupo que debate un tema muy concreto durante un tiempo prolongado. Esto hace que surjan muchas barreras y, al final, las personas se empoderan. Mi primer gran proceso fue en 2008, en Andalucía, sobre el agua. Reunió a 150 personas de diversas partes de la región, quienes debatieron sobre las políticas públicas relacionadas con el agua.
+E: Todos los procesos que he creado me parecen fascinantes, cada uno es único porque depende de factores como los participantes, los financiadores y los recursos disponibles. Un proceso deliberativo siempre genera una energía especial porque se crea un grupo que debate un tema muy concreto durante un tiempo prolongado. Esto hace que surjan muchas barreras y, al final, las personas se empoderan. 
+
+{% quote { "author": "Ernesto Ganuza" } %}Un proceso deliberativo siempre genera una energía especial porque se crea un grupo que debate un tema muy concreto durante un tiempo prolongado. Esto hace que surjan muchas barreras y, al final, las personas se empoderan.{% endquote %}
+
+Mi primer gran proceso fue en 2008, en Andalucía, sobre el agua. Reunió a 150 personas de diversas partes de la región, quienes debatieron sobre las políticas públicas relacionadas con el agua.
 
 **C: Hablando de las personas participantes, en un proceso deliberativo se suelen seleccionar a las personas mediante sorteo, ¿te parece esa una buena forma de alcanzar la representatividad?**
 
@@ -60,6 +64,8 @@ E: Uno de los descubrimientos más interesantes es que, contrariamente a la visi
 **C: ¿Cómo se ajusta esto al proceso deliberativo?**
 
 E: La transmisión de información en los procesos deliberativos es mucho más compleja. Las personas aprenden de manera significativa, pero lo hacen de forma activa, interactuando con la información y con las demás personas. El aprendizaje no se limita a procesar datos, sino que involucra una construcción social y colectiva del conocimiento, donde la interacción y las perspectivas diversas son fundamentales.
+
+{% quote { "author": "Ernesto Ganuza" } %}El aprendizaje no se limita a procesar datos, sino que involucra una construcción social y colectiva del conocimiento, donde la interacción y las perspectivas diversas son fundamentales.{% endquote %}
 
 Con la información que dábamos sobre los temas a debatir pasaba que, al principio, nadie sabía bien cómo proceder; mucha gente fallaba, pero al final de la deliberación, casi todos acertaban, porque era un proceso sencillo. Sin embargo, seis meses después, volvimos a preguntarles y, aunque algunos recordaban, no todos lo hacían. ¿Por qué ocurre esto?
 
@@ -91,7 +97,11 @@ E: La participación ciudadana tiene un poder transformador. La gente comienza a
 
 **C: ¿Qué diferencias encuentras entre un movimiento ciudadano activista y un proceso deliberativo?**
 
-E: Un movimiento ciudadano busca reivindicar y movilizarse dentro del sistema político, mientras que la deliberación no tiene ese objetivo. Lo que busca la deliberación es abrir espacios de debate público, que no necesariamente están formados por personas militantes. Estas personas pueden tener sus propias ideologías, pero no están allí representando a ninguna organización. El objetivo es generar acuerdos cruzados entre perspectivas diversas, en lugar de buscar un consenso unánime sobre temas concretos de políticas públicas.
+E: Un movimiento ciudadano busca reivindicar y movilizarse dentro del sistema político, mientras que la deliberación no tiene ese objetivo. Lo que busca la deliberación es abrir espacios de debate público, que no necesariamente están formados por personas militantes. 
+
+{% quote { "author": "Ernesto Ganuza" } %}Lo que busca la deliberación es abrir espacios de debate público, que no necesariamente están formados por personas militantes. {% endquote %}
+
+Estas personas pueden tener sus propias ideologías, pero no están allí representando a ninguna organización. El objetivo es generar acuerdos cruzados entre perspectivas diversas, en lugar de buscar un consenso unánime sobre temas concretos de políticas públicas.
 
 **C: ¿Por qué crees que el diseño y el asesoramiento son importantes en los procesos participativos?**
 
