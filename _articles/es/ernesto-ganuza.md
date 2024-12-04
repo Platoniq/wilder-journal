@@ -85,7 +85,7 @@ E: La deliberación permite que los estereotipos y prejuicios sean puestos a pru
 
 E: Claro. Un ejercicio común es pedir a los participantes que primero hagan sus propias propuestas. Luego, esas propuestas son criticadas por otros grupos, quienes tienen la libertad de hacerlo de manera abierta. La crítica ayuda a que las personas profundicen más en sus propuestas y las modifiquen para mejorar. A través de este proceso, lo que comienza como una propuesta simple se convierte en algo mucho más elaborado y valioso. No se trata de que algunos sean más inteligentes que otros, sino de utilizar lo que sabemos sobre cómo procesamos la información y cómo nos influencian los sesgos para mejorar las decisiones colectivas.
 
-{% gallery { "simple": false, "images": [{"path":"/media/1491px-fachada_escher_-_escher_facade_-2014-_–_reptiles_-13807470983-.jpg","alt":"Álvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","caption":"Alvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","credits":"Álvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher."}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/1491px-fachada_escher_-_escher_facade_-2014-_–_reptiles_-13807470983-.jpg","alt":"Álvaro Ibáñez, calle Conde de Romanones 14, de Madrid, con sus Reptiles de M.C. Escher.","caption":"Calle Conde de Romanones 14, Madrid","credits":"Álvaro Ibáñez"}] } %}
 
 **C: ¿La crítica no parece algo negativo en este contexto?**
 
