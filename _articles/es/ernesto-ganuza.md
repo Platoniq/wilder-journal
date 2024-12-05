@@ -31,7 +31,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/photo_2024-11-14_12-06-49.jpg
 ---
-Ernesto Ganuza es investigador y le apasiona organizar espacios deliberativos. Dedica su tiempo a promover la deliberación, a estructurarla, y a organizarla para poder estudiar la forma en que estos procesos ofrecen a las personas la posibilidad de hablar, expresar sus opiniones y tomar decisiones en el contexto político actual, así como la forma en que contribuye a redistribuir el poder y fortalecer las organización ciudadana. 
+Ernesto Ganuza en un investigador y apasionado a la hora de organizar espacios deliberativos. Dedica su tiempo a promover la deliberación, a estructurarla, y a organizarla para poder estudiar la forma en que estos procesos ofrecen a las personas la posibilidad de hablar, expresar sus opiniones y tomar decisiones en el contexto político actual, así como la forma en que contribuye a redistribuir el poder y fortalecer las organización ciudadana. 
 
 **Dada tu experiencia diseñando y llevando a cabo procesos de participación, ¿hay algún proceso participativo en España que haya llamado particularmente tu atención?**
 
@@ -114,3 +114,5 @@ E: El diseño es crucial porque condiciona el espacio de intercambio entre las p
 **C: ¿En resumen, cuál es la clave para que los procesos participativos sean efectivos?**
 
 E: La clave está en generar un espacio de intercambio donde las personas puedan reflexionar, proponer, criticar y enriquecer ideas. A partir de ahí, la información fluye de manera más efectiva, y las decisiones que se toman son más completas y representativas. La participación no es solo un derecho, es un proceso colectivo de aprendizaje y empoderamiento que puede transformar nuestra sociedad.
+
+*Esta entrevista tuvo lugar en el marco del [Foro sobre Deliberación, Creatividad y Democracia](https://openspaces.platoniq.net/conferences/FDCD), organizado por Platoniq, junto a Deliberativa y FIDE, entre el 15 y el 18 de Octubre de 2024 en Barcelona. El Foro contó con el apoyo de la Diputación de Barcelona y la Open Society Foundations.*
