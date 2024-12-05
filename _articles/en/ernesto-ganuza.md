@@ -111,3 +111,5 @@ E: Design is crucial because it conditions the space for exchange between people
 **C: In short, what is the key to effective participatory processes?**
 
 E: The key is to create a space for exchange where people can reflect, propose, criticise and enrich ideas. From there, information flows more effectively, and the decisions that are taken are more complete and representative. Participation is not only a right, it is a collective process of learning and empowerment that can transform our society.
+
+*This interview took place at the [Forum on Deliberation, Creativity and Democracy](https://openspaces.platoniq.net/conferences/FDCD?locale=en), organised by Platoniq, together with Deliberativa and FIDE, on 15-18 October 2024 in Barcelona. The Forum was supported by the Diputació de Barcelona and the Open Society Foundations.*
