@@ -33,4 +33,20 @@ call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
 ---
-Vivimos en un mundo cada vez más polarizado: las fake news, el auge de la ultraderecha, el negacionismo climático y las teorías de conspiración son desafíos que no podemos ignorar. Frente a este panorama, **Goteo sigue siendo esa herramienta comunitaria que construye el futuro entre todas.**
+Vivimos en un mundo cada vez más polarizado: las fake news, el auge de la ultraderecha, el negacionismo climático, las teorías de conspiración, todos ellos desafíos que no podemos ignorar. Frente a este panorama, **Goteo sigue siendo esa herramienta comunitaria que construye el futuro entre todas.**
+
+Nuestros datos lo avalan: cerca de **22 millones de euros redistribuidos, 2.199 proyectos financiados** y más de **362.500 personas y entidades** unidas para hacerlo realidad. Y aquí viene lo mejor: lo hacemos con una tasa de éxito del **84%**. Sí, del **84%.**
+
+{% quote %}¿Sabías que Goteo ha sido reutilizada en Japón por el Ayuntamiento de Yokohama y por muchas otras iniciativas independientes? {% endquote %}
+
+
+
+
+
+
+
+# Herramienta de crowdvocacy 
+
+Lo comentamos en un artículo sobre el tema, Goteo es parte de nuevas formas de organización política y prueba de ello es el Bienvenidas al [**neo-sindicalismo de plataforma**.](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/neo-sindicalismo/) Sí, ha resurgido de sus cenizas la palabra sindicato. También **nuevas formas de sindicalismo**. Las más relevantes nacidas de procesos de formalización a través de **campañas de crowdfunding cívico:** sindicato de [vendedores ambulantes](https://www.goteo.org/project/top-manta-bcn), sindicato de [trabajadoras de la hostelería](https://www.goteo.org/project/las-kellys), sindicato de [inquilinos](https://www.goteo.org/project/sindicat-de-llogaters-i-llogateres), sindicato de [enfermeras](https://www.goteo.org/project/masenfermeria), sindicato de [cuidadoras](https://www.goteo.org/project/quien-cuida-a-las-que-cuidan). A estas **nuevas formas de organización social** se les ha llamado [sindicalismo de plataforma](https://meta.decidim.org/conferences/DecidimFest21/f/1657/meetings/1634), como respuesta a las plataformas corporativas de la economía digital.
+
+{% gallery { "simple": false, "images": [{"path":"/media/sdgs-3.jpg","alt":"Eje vertical: Influencia de la ciudadanía en la vida pública. / Eje horizontal: Participación de la ciudadanía","caption":"cc-by-sa Platoniq ","credits":"cc-by-sa Platoniq "}] } %}
