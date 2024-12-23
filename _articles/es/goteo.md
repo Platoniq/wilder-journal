@@ -33,7 +33,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/esepe-clouds-blue-sky.png
 ---
-Lanzamos campaña de crowdfunding para seguir transformando **necesidades sociales en soluciones tangibles.** **Haz tu aportación y súmate a esta transformación.** Deja que fluya la energía social y solidaria, porque en un mundo aparentemente devastado, aún podemos construir el cambio.
+Lanzamos campaña de crowdfunding para seguir transformando **necesidades sociales en soluciones tangibles.** **Haz tu aportación y súmate.** Deja que fluya la energía social y solidaria, porque en un mundo aparentemente devastado, aún podemos construir el cambio.
 
 Vivimos en una realidad cada vez más polarizada: fake news, auge de la ultraderecha, negacionismo climático, teorías de conspiración, todos ellos son desafíos que no podemos ignorar. Frente a este panorama, **Goteo sigue siendo esa herramienta comunitaria que construye el futuro entre todas.**
 
