@@ -41,12 +41,28 @@ Nuestros datos lo avalan: cerca de **22 millones de euros redistribuidos, 2.199 
 
 
 
+# Red social y solidaria
 
+La Fundación Platoniq, pionera en modelos y funcionalidades únicas de 
+financiación colectiva través de la plataforma Goteo.org, pone en 
+funcionamiento, a partir de 2013, la fórmula del matchfunding, para 
+fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito 
+estatal como europeo.
 
+Al matchfunding se une la comunidad y la ciudadanía implicada en los 
+proyectos de crowdfunding con compromiso social que buscan beneficiar al
+ mayor número de personas, generando un nuevo modelo mixto bajo el 
+principio de la corresponsabilidad. Un nuevo escenario de funciones y 
+responsabilidades entre todos los agentes implicados, que tengan como 
+resultado el reforzamiento de la función y la vida pública.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
 
 # Herramienta de crowdvocacy 
 
 Lo comentamos en un artículo sobre el tema, Goteo es parte de nuevas formas de organización política y prueba de ello es el Bienvenidas al [**neo-sindicalismo de plataforma**.](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/neo-sindicalismo/) Sí, ha resurgido de sus cenizas la palabra sindicato. También **nuevas formas de sindicalismo**. Las más relevantes nacidas de procesos de formalización a través de **campañas de crowdfunding cívico:** sindicato de [vendedores ambulantes](https://www.goteo.org/project/top-manta-bcn), sindicato de [trabajadoras de la hostelería](https://www.goteo.org/project/las-kellys), sindicato de [inquilinos](https://www.goteo.org/project/sindicat-de-llogaters-i-llogateres), sindicato de [enfermeras](https://www.goteo.org/project/masenfermeria), sindicato de [cuidadoras](https://www.goteo.org/project/quien-cuida-a-las-que-cuidan). A estas **nuevas formas de organización social** se les ha llamado [sindicalismo de plataforma](https://meta.decidim.org/conferences/DecidimFest21/f/1657/meetings/1634), como respuesta a las plataformas corporativas de la economía digital.
 
 {% gallery { "simple": false, "images": [{"path":"/media/sdgs-3.jpg","alt":"Eje vertical: Influencia de la ciudadanía en la vida pública. / Eje horizontal: Participación de la ciudadanía","caption":"cc-by-sa Platoniq ","credits":"cc-by-sa Platoniq "}] } %}
+
+# 
+Innovando en financiación público-privada
