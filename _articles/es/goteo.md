@@ -59,19 +59,13 @@ En definitiva, queremos dar **mayor visibilidad** a las iniciativas que cuentan 
 
 ## **Red social y solidaria**
 
-Goteo se ha dedicado desde sus inicios a **fortalecer y apoyar proyectos e iniciativas dentro del ámbito de la Economía Social y Solidaria (ESS).** A través de colaboraciones estratégicas y el uso de la plataforma, hemos trabajado para visibilizar, financiar y acompañar iniciativas con impacto social.
+Goteo cuenta con una amplia experiencia en **fortalecer y apoyar proyectos e iniciativas dentro del ámbito de la Economía Social y Solidaria (ESS).** A través de colaboraciones estratégicas y el uso de la plataforma, hemos trabajado para visibilizar, financiar y acompañar iniciativas con impacto social.
 
-En este sentido, destacan iniciativas como el [Fondo comunitario DANA: respuesta colectiva para el País Valencià](https://www.goteo.org/project/fons-comunitari-per-la-dana-resposta-collectiva-pe), la campaña para recuperar el local de [Mensakas](https://www.goteo.org/project/mensakas-en-perill), el impulso que se ha dado al [canal de medioambiente y la sostenibilidad](https://www.goteo.org/channel/sostenibilidad/available),  
-
-
-
-La Casa del Baile en el Canal Rural, Desviades. Normalidad gay y anticapitalismo en el Canal LGTBIQ+, Salvemos el litoral de las tres xemeneis en el Canal Sostenibilidad y Medioambiente, y diversos proyectos en el Canal Migraciones.
-
-En paralelo, el equipo de Goteo hemos organizado talleres de formación y asesorías especializadas para proyectos rurales, migrantes, LGTBIQ+ y de sostenibilidad. En ellos, hemos contado con la asistencia y colaboración de equipos impulsores que han podido resolver sus dudas antes de crear su campaña en Goteo.
+Solo este año, destacan iniciativas como el [Fondo comunitario DANA: respuesta colectiva para el País Valencià](https://www.goteo.org/project/fons-comunitari-per-la-dana-resposta-collectiva-pe), la campaña para recuperar el local de [Mensakas](https://www.goteo.org/project/mensakas-en-perill) o el impulso que se le ha dado al [canal de medioambiente y la sostenibilidad](https://www.goteo.org/channel/sostenibilidad/available), contando con la asistencia y colaboración de equipos impulsores que han podido resolver sus dudas antes de crear su campaña en Goteo.
 
 En definitiva, despedimos el año 2023 desde Goteo sabiendo que hemos contribuido al fortalecimiento de la ESS, promoviendo la inclusión, la sostenibilidad y la equidad. Seguiremos trabajando para impulsar proyectos que generen un impacto positivo en la sociedad, adaptándonos a las necesidades cambiantes y fomentando la colaboración entre diferentes actores del sector.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/photo_2024-12-23_09-26-32.jpg","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
 
 ## **Herramienta de crowdvocacy** 
 
