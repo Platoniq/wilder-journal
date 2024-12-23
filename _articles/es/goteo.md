@@ -47,12 +47,13 @@ Nuestros datos lo avalan. Desde su nacimiento, y gracias a su tecnología abiert
 
 Nos hemos propuesto **rediseñar y modernizar la plataforma,** creando una arquitectura capaz de integrar otras plataformas y aplicaciones de manera sencilla y eficiente; **optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta; **crear herramientas más potentes,** como un panel de administración que facilite la gestión de campañas y la comunicación con los usuarios.
 
-Y para ello vamos a rediseñar el código desde cero. Un análisis y desarrollo que nos tiene que llevar a implementar varios avances:
+Y para ello **vamos a rediseñar el código desde cero.** Un análisis y desarrollo que nos tiene que llevar mejorar la **conectividad** de la plataforma permitiendo integrar Goteo con más herramientas, plataformas y servicios, ampliando su capacidad de interacción con otras tecnologías o necesidades del ecosistema de la Economía Social y Solidaria.
 
-* **Mayor conectividad:** La posibilidad de que el nuevo código permita integrar Goteo con más herramientas, plataformas y servicios, ampliando su capacidad de interacción con otras tecnologías o necesidades del ecosistema de la Economía Social y Solidaria.
-* **Mayor impacto social y geográfico:** La capacidad de llegar a más personas, proyectos y territorios, superando barreras técnicas o geográficas, y facilitando que más usuarios puedan beneficiarse y participar en la plataforma.
-* **Diversidad de funciones:** Nuevas funcionalidades que amplíen lo que la plataforma puede ofrecer, adaptándose a las demandas de los usuarios y a las necesidades de los proyectos.
-* **Mayor visibilidad:** Que Goteo tenga mejores herramientas para posicionar los proyectos y captar más apoyo, incrementando la difusión y la colaboración.
+Así como un mayor **impacto social y geográfico** que nos permita llegar a más personas, proyectos y territorios, superando barreras técnicas o geográficas, y facilitando que más usuarios puedan beneficiarse y participar en la plataforma.
+
+También desarrollar **nuevas funcionalidades** que amplíen lo que la plataforma puede ofrecer, adaptándose a las demandas de los usuarios y a las necesidades de los proyectos.
+
+En definitiva, queremos dar **mayor visibilidad** a las iniciativas que cuentan con Goteo para posicionarlas mejor y captar más apoyo, incrementando la difusión y las posibles colaboraciones.
 
 <iframe frameborder="5" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>
 
