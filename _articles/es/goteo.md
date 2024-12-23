@@ -45,7 +45,7 @@ Nuestros datos lo avalan. Desde su nacimiento, y gracias a su tecnología abiert
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GyTWubZyegQ?si=2v1_6w0jpy8apBYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Por todo ello, vamos a rediseñar el código de Goteo para:
+Este año cumplimos 14 año desde la aparición de Goteo, y queremos r todo ello, vamos a rediseñar el código de Goteo para:
 
 * **Rediseñar y modernizar la plataforma,** creando una arquitectura capaz de integrar otras plataformas y aplicaciones de manera sencilla y eficiente.
 * **Optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta.
