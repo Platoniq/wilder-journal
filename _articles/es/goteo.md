@@ -59,13 +59,13 @@ En definitiva, queremos dar **mayor visibilidad** a las iniciativas que cuentan 
 
 ## **Red social y solidaria**
 
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2024-12-23_09-26-32.jpg","alt":"Goteo","caption":"Goteo","credits":"Goteo"}] } %}
+
 Goteo cuenta con una amplia experiencia en **fortalecer y apoyar proyectos e iniciativas dentro del ámbito de la Economía Social y Solidaria (ESS).** A través de colaboraciones estratégicas y el uso de la plataforma, hemos trabajado para visibilizar, financiar y acompañar iniciativas con impacto social.
 
-Solo este año, destacan iniciativas como el [Fondo comunitario DANA: respuesta colectiva para el País Valencià](https://www.goteo.org/project/fons-comunitari-per-la-dana-resposta-collectiva-pe), la campaña para recuperar el local de [Mensakas](https://www.goteo.org/project/mensakas-en-perill), el fondo para impulsa [la cooperativa de información Climática](https://www.goteo.org/project/impulsa-la-cooperativa-de-informacion-climatica) o el impulso que se le ha dado al [canal de medioambiente y la sostenibilidad](https://www.goteo.org/channel/sostenibilidad/available). Todas ellas han contado con la asistencia y colaboración de equipos impulsores que han podido resolver sus dudas antes de crear su campaña en Goteo, así como una asistencia activa durante la misma.
+Solo este año, destacan iniciativas como el [Fondo comunitario DANA: respuesta colectiva para el País Valencià](<>), la campaña para recuperar el local de [Mensakas](<>), el fondo para impulsa [la cooperativa de información Climática](<>) o el impulso que se le ha dado al [canal de medioambiente y la sostenibilidad](<>). Todas ellas han contado con la asistencia y colaboración de equipos impulsores que han podido resolver sus dudas antes de crear su campaña en Goteo, así como una asistencia activa durante la misma.
 
 En definitiva, despedimos el año 2023 desde Goteo sabiendo que hemos contribuido al fortalecimiento de la ESS, promoviendo la inclusión, la sostenibilidad y la equidad. Con tu ayuda seguiremos trabajando para impulsar proyectos que generen un impacto positivo en la sociedad, adaptándonos a las necesidades cambiantes y fomentando la colaboración entre diferentes actores del sector.
-
-{% gallery { "simple": false, "images": [{"path":"/media/photo_2024-12-23_09-26-32.jpg","alt":"Goteo","caption":"Goteo","credits":"Goteo"}] } %}
 
 ## **Herramienta de crowdvocacy** 
 
