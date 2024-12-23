@@ -17,7 +17,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/esepe-clouds-blue-sky.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe-clouds-blue-sky.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Cloud Blue Sky
   credits: Esepe, 2024

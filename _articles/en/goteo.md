@@ -9,7 +9,7 @@ article-order: 2
 uid: Goteo
 cover:
   path: /media/articles/heroes/esepe-clouds-blue-sky.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe-clouds-blue-sky.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - olivier-schulbaum-goteo
