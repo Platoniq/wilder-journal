@@ -51,7 +51,7 @@ Nuestros datos lo avalan. Desde su nacimiento, y gracias a su tecnología abiert
 * **Optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta.
 * **Crear herramientas más potentes,** como un panel de administración que facilite la gestión de campañas y la comunicación con los usuarios.
 
-Buscamos conseguir
+Buscamos conseguir mejorar la plataforma re-diseñando de cero su código. Un análisis y desarrollo que nos tiene que llevar a implementar varios avances:
 
 **Mayor conectividad:** La posibilidad de que el nuevo código permita integrar Goteo con más herramientas, plataformas y servicios, ampliando su capacidad de interacción con otras tecnologías o necesidades del ecosistema de la Economía Social y Solidaria.
 
@@ -61,13 +61,33 @@ Buscamos conseguir
 
 **Mayor visibilidad:** Que Goteo tenga mejores herramientas para posicionar los proyectos y captar más apoyo, incrementando la difusión y la colaboración.
 
-
-
-
-
 # Red social y solidaria
 
-La Fundación Platoniq, pionera en modelos y funcionalidades únicas de 
+Goteo se ha dedicado desde sus inicios a **fortalecer y apoyar proyectos e iniciativas dentro del ámbito de la Economía Social y Solidaria (ESS).** A través de colaboraciones estratégicas y el uso de la plataforma, hemos trabajado para visibilizar, financiar y acompañar iniciativas con impacto social.
+
+En este sentido, destacan iniciativas como el [Fondo comunitario DANA: respuesta colectiva para el País Valencià](https://www.goteo.org/project/fons-comunitari-per-la-dana-resposta-collectiva-pe), la campaña para recuperar el local de [Mensakas](https://www.goteo.org/project/mensakas-en-perill), el impulso que se ha dado al [canal de medioambiente y la sostenibilidad](https://www.goteo.org/channel/sostenibilidad/available),  
+
+
+
+La Casa del Baile en el Canal Rural, Desviades. Normalidad gay y anticapitalismo en el Canal LGTBIQ+, Salvemos el litoral de las tres xemeneis en el Canal Sostenibilidad y Medioambiente, y diversos proyectos en el Canal Migraciones.
+
+En paralelo, el equipo de Goteo hemos organizado talleres de formación y asesorías especializadas para proyectos rurales, migrantes, LGTBIQ+ y de sostenibilidad. En ellos, hemos contado con la asistencia y colaboración de equipos impulsores que han podido resolver sus dudas antes de crear su campaña en Goteo.
+
+En definitiva, despedimos el año 2023 desde Goteo sabiendo que hemos contribuido al fortalecimiento de la ESS, promoviendo la inclusión, la sostenibilidad y la equidad. Seguiremos trabajando para impulsar proyectos que generen un impacto positivo en la sociedad, adaptándonos a las necesidades cambiantes y fomentando la colaboración entre diferentes actores del sector.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
+
+# Herramienta de crowdvocacy 
+
+Entendemos que la comunidad, en tiempos de crisis, responde autoorganizándose para dar respuesta colectiva a través del crowdvocacy (o “gobierno de la multitud”) que es como llamamos al proceso distribuido y coordinado entre diferentes plataformas donde las iniciativas cívicas pueden amplificar su influencia, obtener recursos, y estimular el liderazgo de la difusión para los promotores de iniciativas cívicas.
+
+Lo comentamos en un artículo sobre el tema, Goteo es parte de nuevas formas de organización política y prueba de ello es el [**neo-sindicalismo de plataforma**.](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/neo-sindicalismo/) Las más relevantes nacidas de procesos de formalización a través de **campañas de crowdfunding cívico:** sindicato de [vendedores ambulantes](https://www.goteo.org/project/top-manta-bcn), sindicato de [trabajadoras de la hostelería](https://www.goteo.org/project/las-kellys), sindicato de [inquilinos](https://www.goteo.org/project/sindicat-de-llogaters-i-llogateres), sindicato de [enfermeras](https://www.goteo.org/project/masenfermeria), sindicato de [cuidadoras](https://www.goteo.org/project/quien-cuida-a-las-que-cuidan). A estas **nuevas formas de organización social** se les ha llamado [sindicalismo de plataforma](https://meta.decidim.org/conferences/DecidimFest21/f/1657/meetings/1634), como respuesta a las plataformas corporativas de la economía digital.
+
+{% gallery { "simple": false, "images": [{"path":"/media/sdgs-3.jpg","alt":"Eje vertical: Influencia de la ciudadanía en la vida pública. / Eje horizontal: Participación de la ciudadanía","caption":"cc-by-sa Platoniq ","credits":"cc-by-sa Platoniq "}] } %}
+
+# Innovando en financiación público-privada
+
+La Fundación Goteo, pionera en modelos y funcionalidades únicas de 
 financiación colectiva través de la plataforma Goteo.org, pone en 
 funcionamiento, a partir de 2013, la fórmula del matchfunding, para 
 fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito 
@@ -79,14 +99,3 @@ proyectos de crowdfunding con compromiso social que buscan beneficiar al
 principio de la corresponsabilidad. Un nuevo escenario de funciones y 
 responsabilidades entre todos los agentes implicados, que tengan como 
 resultado el reforzamiento de la función y la vida pública.
-
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
-
-# Herramienta de crowdvocacy 
-
-Lo comentamos en un artículo sobre el tema, Goteo es parte de nuevas formas de organización política y prueba de ello es el Bienvenidas al [**neo-sindicalismo de plataforma**.](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/neo-sindicalismo/) Sí, ha resurgido de sus cenizas la palabra sindicato. También **nuevas formas de sindicalismo**. Las más relevantes nacidas de procesos de formalización a través de **campañas de crowdfunding cívico:** sindicato de [vendedores ambulantes](https://www.goteo.org/project/top-manta-bcn), sindicato de [trabajadoras de la hostelería](https://www.goteo.org/project/las-kellys), sindicato de [inquilinos](https://www.goteo.org/project/sindicat-de-llogaters-i-llogateres), sindicato de [enfermeras](https://www.goteo.org/project/masenfermeria), sindicato de [cuidadoras](https://www.goteo.org/project/quien-cuida-a-las-que-cuidan). A estas **nuevas formas de organización social** se les ha llamado [sindicalismo de plataforma](https://meta.decidim.org/conferences/DecidimFest21/f/1657/meetings/1634), como respuesta a las plataformas corporativas de la economía digital.
-
-{% gallery { "simple": false, "images": [{"path":"/media/sdgs-3.jpg","alt":"Eje vertical: Influencia de la ciudadanía en la vida pública. / Eje horizontal: Participación de la ciudadanía","caption":"cc-by-sa Platoniq ","credits":"cc-by-sa Platoniq "}] } %}
-
-# 
-Innovando en financiación público-privada
