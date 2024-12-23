@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/esepe-clouds-blue-sky.png
 ---
 Vivimos en un mundo cada vez más polarizado: las fake news, el auge de la ultraderecha, el negacionismo climático, las teorías de conspiración, todos ellos desafíos que no podemos ignorar. Frente a este panorama, **Goteo sigue siendo esa herramienta comunitaria que construye el futuro entre todas.**
 
