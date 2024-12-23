@@ -18,7 +18,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/esepe-clouds-blue-sky.png
   mobile: /media/articles/mobile/esepe-clouds-blue-sky.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe-clouds-blue-sky.png
   alt: Cloud Blue Sky
   credits: Esepe, 2024
   caption: Esepe 2024

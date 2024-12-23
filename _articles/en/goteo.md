@@ -10,7 +10,7 @@ uid: Goteo
 cover:
   path: /media/articles/heroes/esepe-clouds-blue-sky.png
   mobile: /media/articles/mobile/esepe-clouds-blue-sky.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe-clouds-blue-sky.png
 related_article_uids:
   - olivier-schulbaum-goteo
   - neo-sindicalism-laskellys-manteros-riders-jornaleras
