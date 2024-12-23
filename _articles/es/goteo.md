@@ -37,21 +37,19 @@ Lanzamos campaña de crowdfunding para seguir transformando **necesidades social
 
 Vivimos en una realidad cada vez más polarizada: fake news, auge de la ultraderecha, negacionismo climático, teorías de conspiración, todos ellos son desafíos que no podemos ignorar. Frente a este panorama, **Goteo sigue siendo esa herramienta comunitaria que construye el futuro entre todas.**
 
-Nuestros datos lo avalan. Desde el año de su nacimiento gracias a su tecnología abierta cerca de **22 millones de euros se han redistribuido, 2.199 proyectos financiados** y más de **362.500 personas y entidades** forman parte de la comunidad que unidas lo han hecho realidad. Y aquí viene lo mejor: lo hacemos con una tasa de éxito del **84%**. Sí, del **84%.**
+Nuestros datos lo avalan. Desde su nacimiento, y gracias a su tecnología abierta, cerca de **22 millones de euros se han redistribuido, 2.199 proyectos financiados** y más de **362.500 personas y entidades** forman parte de la comunidad que unidas lo han hecho realidad. 
 
 {% quote %}¿Sabías que Goteo ha sido reutilizada en Japón por el Ayuntamiento de Yokohama y por muchas otras iniciativas independientes? {% endquote %}
 
-# Goteo, pero mejor
+# Goteo, pero mejor: lanzamos campaña
 
-Lanzamos campaña de crowdfunding para seguir transformando **necesidades sociales en soluciones tangibles.** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyTWubZyegQ?si=2v1_6w0jpy8apBYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Y, para seguir haciéndolo, necesitamos tu ayuda para:
+Por todo ello, vamos a rediseñar el código de Goteo para:
 
-**Rediseñar y modernizar la plataforma,** creando una arquitectura capaz de integrar otras plataformas y aplicaciones de manera sencilla y eficiente.
-
-**Optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta.
-
-**Crear herramientas más potentes,** como un panel de administración que facilite la gestión de campañas y la comunicación con los usuarios.
+* **Rediseñar y modernizar la plataforma,** creando una arquitectura capaz de integrar otras plataformas y aplicaciones de manera sencilla y eficiente.
+* **Optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta.
+* **Crear herramientas más potentes,** como un panel de administración que facilite la gestión de campañas y la comunicación con los usuarios.
 
 Buscamos conseguir:
 
@@ -63,7 +61,7 @@ Buscamos conseguir:
 
 **Mayor visibilidad:** Que Goteo tenga mejores herramientas para posicionar los proyectos y captar más apoyo, incrementando la difusión y la colaboración.
 
-
+Y te necesitamos:
 
 \    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>                
 
