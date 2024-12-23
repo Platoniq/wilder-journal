@@ -61,7 +61,7 @@ Buscamos conseguir mejorar la plataforma re-diseñando de cero su código. Un an
 
 **Mayor visibilidad:** Que Goteo tenga mejores herramientas para posicionar los proyectos y captar más apoyo, incrementando la difusión y la colaboración.
 
-\    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>                
+<iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>
 
 ## **Red social y solidaria**
 
