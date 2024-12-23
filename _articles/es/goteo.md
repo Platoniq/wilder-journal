@@ -80,3 +80,5 @@ Lo comentamos en un artículo sobre el tema, Goteo es parte de nuevas formas de 
 La Fundación Goteo, pionera en modelos y funcionalidades únicas de financiación colectiva través de la plataforma Goteo.org, pone en funcionamiento, a partir de 2013, la fórmula del matchfunding, para fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito estatal como europeo.
 
 Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos de crowdfunding con compromiso social que buscan beneficiar al mayor número de personas, generando un nuevo modelo mixto bajo el principio de la corresponsabilidad. Un nuevo escenario de funciones y responsabilidades entre todos los agentes implicados, que tengan como resultado el reforzamiento de la función y la vida pública.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
