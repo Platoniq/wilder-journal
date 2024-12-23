@@ -39,11 +39,13 @@ Vivimos en una realidad cada vez más polarizada: fake news, auge de la ultrader
 
 Nuestros datos lo avalan. Desde su nacimiento, y gracias a su tecnología abierta, cerca de **22 millones de euros se han redistribuido, 2.199 proyectos financiados** y más de **362.500 personas y entidades** forman parte de la comunidad que unidas lo han hecho realidad. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyTWubZyegQ?si=2v1_6w0jpy8apBYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 {% quote %}¿Sabías que Goteo ha sido reutilizada en Japón por el Ayuntamiento de Yokohama y por muchas otras iniciativas independientes? {% endquote %}
 
 ## **Goteo, pero mejor: lanzamos campaña**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyTWubZyegQ?si=2v1_6w0jpy8apBYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe frameborder="5" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>
 
 Nos hemos propuesto **rediseñar y modernizar la plataforma,** creando una arquitectura capaz de integrar otras plataformas y aplicaciones de manera sencilla y eficiente; **optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta; **crear herramientas más potentes,** como un panel de administración que facilite la gestión de campañas y la comunicación con los usuarios.
 
@@ -55,30 +57,28 @@ También desarrollar **nuevas funcionalidades** que amplíen lo que la plataform
 
 En definitiva, queremos dar **mayor visibilidad** a las iniciativas que cuentan con Goteo para posicionarlas mejor y captar más apoyo, incrementando la difusión y las posibles colaboraciones.
 
-<iframe frameborder="5" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>
-
 ## **Red social y solidaria**
 
 Goteo cuenta con una amplia experiencia en **fortalecer y apoyar proyectos e iniciativas dentro del ámbito de la Economía Social y Solidaria (ESS).** A través de colaboraciones estratégicas y el uso de la plataforma, hemos trabajado para visibilizar, financiar y acompañar iniciativas con impacto social.
 
-Solo este año, destacan iniciativas como el [Fondo comunitario DANA: respuesta colectiva para el País Valencià](https://www.goteo.org/project/fons-comunitari-per-la-dana-resposta-collectiva-pe), la campaña para recuperar el local de [Mensakas](https://www.goteo.org/project/mensakas-en-perill) o el impulso que se le ha dado al [canal de medioambiente y la sostenibilidad](https://www.goteo.org/channel/sostenibilidad/available), contando con la asistencia y colaboración de equipos impulsores que han podido resolver sus dudas antes de crear su campaña en Goteo.
+Solo este año, destacan iniciativas como el [Fondo comunitario DANA: respuesta colectiva para el País Valencià](https://www.goteo.org/project/fons-comunitari-per-la-dana-resposta-collectiva-pe), la campaña para recuperar el local de [Mensakas](https://www.goteo.org/project/mensakas-en-perill), el fondo para impulsa [la cooperativa de información Climática](https://www.goteo.org/project/impulsa-la-cooperativa-de-informacion-climatica) o el impulso que se le ha dado al [canal de medioambiente y la sostenibilidad](https://www.goteo.org/channel/sostenibilidad/available). Todas ellas han contado con la asistencia y colaboración de equipos impulsores que han podido resolver sus dudas antes de crear su campaña en Goteo, así como una asistencia activa durante la misma.
 
-En definitiva, despedimos el año 2023 desde Goteo sabiendo que hemos contribuido al fortalecimiento de la ESS, promoviendo la inclusión, la sostenibilidad y la equidad. Seguiremos trabajando para impulsar proyectos que generen un impacto positivo en la sociedad, adaptándonos a las necesidades cambiantes y fomentando la colaboración entre diferentes actores del sector.
+En definitiva, despedimos el año 2023 desde Goteo sabiendo que hemos contribuido al fortalecimiento de la ESS, promoviendo la inclusión, la sostenibilidad y la equidad. Con tu ayuda seguiremos trabajando para impulsar proyectos que generen un impacto positivo en la sociedad, adaptándonos a las necesidades cambiantes y fomentando la colaboración entre diferentes actores del sector.
 
-{% gallery { "simple": false, "images": [{"path":"/media/photo_2024-12-23_09-26-32.jpg","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/photo_2024-12-23_09-26-32.jpg","alt":"Goteo","caption":"Goteo","credits":"Goteo"}] } %}
 
 ## **Herramienta de crowdvocacy** 
 
 Entendemos que la comunidad, en tiempos de crisis, responde autoorganizándose para dar respuesta colectiva a través del crowdvocacy (o “gobierno de la multitud”) que es como llamamos al proceso distribuido y coordinado entre diferentes plataformas donde las iniciativas cívicas pueden amplificar su influencia, obtener recursos, y estimular el liderazgo de la difusión para los promotores de iniciativas cívicas.
 
-Lo comentamos en un artículo sobre el tema, Goteo es parte de nuevas formas de organización política y prueba de ello es el [neo-sindicalismo de plataforma.](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/neo-sindicalismo/) Las más relevantes nacidas de procesos de formalización a través de **campañas de crowdfunding cívico:** sindicato de [vendedores ambulantes](https://www.goteo.org/project/top-manta-bcn), sindicato de [trabajadoras de la hostelería](https://www.goteo.org/project/las-kellys), sindicato de [inquilinos](https://www.goteo.org/project/sindicat-de-llogaters-i-llogateres), sindicato de [enfermeras](https://www.goteo.org/project/masenfermeria), sindicato de [cuidadoras](https://www.goteo.org/project/quien-cuida-a-las-que-cuidan). A estas **nuevas formas de organización social** se les ha llamado [sindicalismo de plataforma](https://meta.decidim.org/conferences/DecidimFest21/f/1657/meetings/1634), como respuesta a las plataformas corporativas de la economía digital.
+Ya lo comentamos en un artículo sobre el tema, Goteo es parte de nuevas formas de organización política y prueba de ello es el [neo-sindicalismo de plataforma.](https://journal.platoniq.net/es/wilder-journal-2/deep-dives/neo-sindicalismo/) Las más relevantes nacidas de procesos de formalización a través de **campañas de crowdfunding cívico:** sindicato de [vendedores ambulantes](https://www.goteo.org/project/top-manta-bcn), sindicato de [trabajadoras de la hostelería](https://www.goteo.org/project/las-kellys), sindicato de [inquilinos](https://www.goteo.org/project/sindicat-de-llogaters-i-llogateres), sindicato de [enfermeras](https://www.goteo.org/project/masenfermeria), sindicato de [cuidadoras](https://www.goteo.org/project/quien-cuida-a-las-que-cuidan). A estas **nuevas formas de organización social** se les ha llamado [sindicalismo de plataforma](https://meta.decidim.org/conferences/DecidimFest21/f/1657/meetings/1634), como respuesta a las plataformas corporativas de la economía digital.
 
 {% gallery { "simple": false, "images": [{"path":"/media/sdgs-3.jpg","alt":"Eje vertical: Influencia de la ciudadanía en la vida pública. / Eje horizontal: Participación de la ciudadanía","caption":"cc-by-sa Platoniq ","credits":"cc-by-sa Platoniq "}] } %}
 
 ## **Innovando en financiación público-privada**
 
-La Fundación Goteo, pionera en modelos y funcionalidades únicas de financiación colectiva través de la plataforma Goteo.org, pone en funcionamiento, a partir de 2013, la fórmula del matchfunding, para fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito estatal como europeo.
+Pioneros en modelos y funcionalidades únicas de financiación colectiva través de la plataforma Goteo.org, hace más de diez años lanzamos la fórmula del matchfunding para fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito estatal como europeo.
 
-Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos de crowdfunding con compromiso social que buscan beneficiar al mayor número de personas, generando un nuevo modelo mixto bajo el principio de la corresponsabilidad. Un nuevo escenario de funciones y responsabilidades entre todos los agentes implicados, que tengan como resultado el reforzamiento de la función y la vida pública.
+Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos de crowdfunding con compromiso social que buscan beneficiar al mayor número de personas, generando un nuevo modelo mixto público-privado bajo el principio de la corresponsabilidad. Un nuevo escenario de funciones y responsabilidades entre todos los agentes implicados, que tengan como resultado el reforzamiento de la función y la vida pública.
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
