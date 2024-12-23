@@ -33,9 +33,11 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/esepe-clouds-blue-sky.png
 ---
-Vivimos en un mundo cada vez más polarizado: las fake news, el auge de la ultraderecha, el negacionismo climático, las teorías de conspiración, todos ellos desafíos que no podemos ignorar. Frente a este panorama, **Goteo sigue siendo esa herramienta comunitaria que construye el futuro entre todas.**
+Lanzamos campaña de crowdfunding para seguir transformando **necesidades sociales en soluciones tangibles.** **Haz tu aportación y súmate a esta transformación.** Deja que fluya la energía social y solidaria, porque en un mundo aparentemente devastado, aún podemos construir el cambio.
 
-Nuestros datos lo avalan: cerca de **22 millones de euros redistribuidos, 2.199 proyectos financiados** y más de **362.500 personas y entidades** unidas para hacerlo realidad. Y aquí viene lo mejor: lo hacemos con una tasa de éxito del **84%**. Sí, del **84%.**
+Vivimos en un mundo cada vez más polarizado: fake news, auge de la ultraderecha, negacionismo climático, teorías de conspiración, todos ellos son desafíos que no podemos ignorar. Frente a este panorama, **Goteo sigue siendo esa herramienta comunitaria que construye el futuro entre todas.**
+
+Nuestros datos lo avalan. Desde el año de su nacimiento gracias a su tecnología abierta cerca de **22 millones de euros se han redistribuido, 2.199 proyectos financiados** y más de **362.500 personas y entidades** forman parte de la comunidad que unidas lo han hecho realidad. Y aquí viene lo mejor: lo hacemos con una tasa de éxito del **84%**. Sí, del **84%.**
 
 {% quote %}¿Sabías que Goteo ha sido reutilizada en Japón por el Ayuntamiento de Yokohama y por muchas otras iniciativas independientes? {% endquote %}
 
