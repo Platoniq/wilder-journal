@@ -39,9 +39,29 @@ Nuestros datos lo avalan: cerca de **22 millones de euros redistribuidos, 2.199 
 
 {% quote %}¿Sabías que Goteo ha sido reutilizada en Japón por el Ayuntamiento de Yokohama y por muchas otras iniciativas independientes? {% endquote %}
 
-
-
 # Goteo, pero mejor
+
+Lanzamos campaña de crowdfunding para seguir transformando **necesidades sociales en soluciones tangibles.** 
+
+Y, para seguir haciéndolo, necesitamos tu ayuda para:
+
+**Rediseñar y modernizar la plataforma,** creando una arquitectura capaz de integrar otras plataformas y aplicaciones de manera sencilla y eficiente.
+
+**Optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta.
+
+**Crear herramientas más potentes,** como un panel de administración que facilite la gestión de campañas y la comunicación con los usuarios.
+
+Buscamos conseguir:
+
+**Mayor conectividad:** La posibilidad de que el nuevo código permita integrar Goteo con más herramientas, plataformas y servicios, ampliando su capacidad de interacción con otras tecnologías o necesidades del ecosistema de la Economía Social y Solidaria.
+
+**Mayor impacto social y geográfico:** La capacidad de llegar a más personas, proyectos y territorios, superando barreras técnicas o geográficas, y facilitando que más usuarios puedan beneficiarse y participar en la plataforma.
+
+**Diversidad de funciones:** Nuevas funcionalidades que amplíen lo que la plataforma puede ofrecer, adaptándose a las demandas de los usuarios y a las necesidades de los proyectos.
+
+**Mayor visibilidad:** Que Goteo tenga mejores herramientas para posicionar los proyectos y captar más apoyo, incrementando la difusión y la colaboración.
+
+
 
 \    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>                
 
