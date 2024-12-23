@@ -41,7 +41,7 @@ Nuestros datos lo avalan. Desde su nacimiento, y gracias a su tecnología abiert
 
 {% quote %}¿Sabías que Goteo ha sido reutilizada en Japón por el Ayuntamiento de Yokohama y por muchas otras iniciativas independientes? {% endquote %}
 
-## Goteo, pero mejor: lanzamos campaña
+## **Goteo, pero mejor: lanzamos campaña**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GyTWubZyegQ?si=2v1_6w0jpy8apBYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -63,7 +63,7 @@ Buscamos conseguir mejorar la plataforma re-diseñando de cero su código. Un an
 
 \    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>                
 
-## Red social y solidaria
+## **Red social y solidaria**
 
 Goteo se ha dedicado desde sus inicios a **fortalecer y apoyar proyectos e iniciativas dentro del ámbito de la Economía Social y Solidaria (ESS).** A través de colaboraciones estratégicas y el uso de la plataforma, hemos trabajado para visibilizar, financiar y acompañar iniciativas con impacto social.
 
@@ -79,7 +79,7 @@ En definitiva, despedimos el año 2023 desde Goteo sabiendo que hemos contribuid
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
 
-## Herramienta de crowdvocacy 
+## **Herramienta de crowdvocacy** 
 
 Entendemos que la comunidad, en tiempos de crisis, responde autoorganizándose para dar respuesta colectiva a través del crowdvocacy (o “gobierno de la multitud”) que es como llamamos al proceso distribuido y coordinado entre diferentes plataformas donde las iniciativas cívicas pueden amplificar su influencia, obtener recursos, y estimular el liderazgo de la difusión para los promotores de iniciativas cívicas.
 
@@ -87,7 +87,7 @@ Lo comentamos en un artículo sobre el tema, Goteo es parte de nuevas formas de 
 
 {% gallery { "simple": false, "images": [{"path":"/media/sdgs-3.jpg","alt":"Eje vertical: Influencia de la ciudadanía en la vida pública. / Eje horizontal: Participación de la ciudadanía","caption":"cc-by-sa Platoniq ","credits":"cc-by-sa Platoniq "}] } %}
 
-## Innovando en financiación público-privada
+## **Innovando en financiación público-privada**
 
 La Fundación Goteo, pionera en modelos y funcionalidades únicas de financiación colectiva través de la plataforma Goteo.org, pone en funcionamiento, a partir de 2013, la fórmula del matchfunding, para fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito estatal como europeo.
 
