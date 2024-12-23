@@ -53,13 +53,10 @@ Nuestros datos lo avalan. Desde su nacimiento, y gracias a su tecnología abiert
 
 Buscamos conseguir mejorar la plataforma re-diseñando de cero su código. Un análisis y desarrollo que nos tiene que llevar a implementar varios avances:
 
-**Mayor conectividad:** La posibilidad de que el nuevo código permita integrar Goteo con más herramientas, plataformas y servicios, ampliando su capacidad de interacción con otras tecnologías o necesidades del ecosistema de la Economía Social y Solidaria.
-
-**Mayor impacto social y geográfico:** La capacidad de llegar a más personas, proyectos y territorios, superando barreras técnicas o geográficas, y facilitando que más usuarios puedan beneficiarse y participar en la plataforma.
-
-**Diversidad de funciones:** Nuevas funcionalidades que amplíen lo que la plataforma puede ofrecer, adaptándose a las demandas de los usuarios y a las necesidades de los proyectos.
-
-**Mayor visibilidad:** Que Goteo tenga mejores herramientas para posicionar los proyectos y captar más apoyo, incrementando la difusión y la colaboración.
+* **Mayor conectividad:** La posibilidad de que el nuevo código permita integrar Goteo con más herramientas, plataformas y servicios, ampliando su capacidad de interacción con otras tecnologías o necesidades del ecosistema de la Economía Social y Solidaria.
+* **Mayor impacto social y geográfico:** La capacidad de llegar a más personas, proyectos y territorios, superando barreras técnicas o geográficas, y facilitando que más usuarios puedan beneficiarse y participar en la plataforma.
+* **Diversidad de funciones:** Nuevas funcionalidades que amplíen lo que la plataforma puede ofrecer, adaptándose a las demandas de los usuarios y a las necesidades de los proyectos.
+* **Mayor visibilidad:** Que Goteo tenga mejores herramientas para posicionar los proyectos y captar más apoyo, incrementando la difusión y la colaboración.
 
 <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>
 
