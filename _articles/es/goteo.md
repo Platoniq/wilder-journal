@@ -45,13 +45,9 @@ Nuestros datos lo avalan. Desde su nacimiento, y gracias a su tecnología abiert
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GyTWubZyegQ?si=2v1_6w0jpy8apBYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### ¿Qué nos proponemos?
+Nos hemos propuesto **rediseñar y modernizar la plataforma,** creando una arquitectura capaz de integrar otras plataformas y aplicaciones de manera sencilla y eficiente; **optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta; **crear herramientas más potentes,** como un panel de administración que facilite la gestión de campañas y la comunicación con los usuarios.
 
-* **Rediseñar y modernizar la plataforma,** creando una arquitectura capaz de integrar otras plataformas y aplicaciones de manera sencilla y eficiente.
-* **Optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta.
-* **Crear herramientas más potentes,** como un panel de administración que facilite la gestión de campañas y la comunicación con los usuarios.
-
-Buscamos conseguir mejorar la plataforma re-diseñando de cero su código. Un análisis y desarrollo que nos tiene que llevar a implementar varios avances:
+Y para ello vamos a rediseñar el código desde cero. Un análisis y desarrollo que nos tiene que llevar a implementar varios avances:
 
 * **Mayor conectividad:** La posibilidad de que el nuevo código permita integrar Goteo con más herramientas, plataformas y servicios, ampliando su capacidad de interacción con otras tecnologías o necesidades del ecosistema de la Economía Social y Solidaria.
 * **Mayor impacto social y geográfico:** La capacidad de llegar a más personas, proyectos y territorios, superando barreras técnicas o geográficas, y facilitando que más usuarios puedan beneficiarse y participar en la plataforma.
