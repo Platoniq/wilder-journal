@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-12-23T16:52:00.000Z
 date-updated: 2024-12-23T16:52:00.000Z
-article-order: 2
+article-order: 1
 uid: Goteo
 title: "Goteo: red de financiación colectiva y herramienta de crowdvocacy"
 description: Goteo.org es nuestra plataforma de crowdfunding cívico, a través de
