@@ -58,7 +58,7 @@ Buscamos conseguir mejorar la plataforma re-diseñando de cero su código. Un an
 * **Diversidad de funciones:** Nuevas funcionalidades que amplíen lo que la plataforma puede ofrecer, adaptándose a las demandas de los usuarios y a las necesidades de los proyectos.
 * **Mayor visibilidad:** Que Goteo tenga mejores herramientas para posicionar los proyectos y captar más apoyo, incrementando la difusión y la colaboración.
 
-<iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>
+<iframe frameborder="5" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>
 
 ## **Red social y solidaria**
 
