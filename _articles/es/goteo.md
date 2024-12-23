@@ -61,6 +61,8 @@ Buscamos conseguir mejorar la plataforma re-diseñando de cero su código. Un an
 
 **Mayor visibilidad:** Que Goteo tenga mejores herramientas para posicionar los proyectos y captar más apoyo, incrementando la difusión y la colaboración.
 
+\    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>                
+
 ## Red social y solidaria
 
 Goteo se ha dedicado desde sus inicios a **fortalecer y apoyar proyectos e iniciativas dentro del ámbito de la Economía Social y Solidaria (ESS).** A través de colaboraciones estratégicas y el uso de la plataforma, hemos trabajado para visibilizar, financiar y acompañar iniciativas con impacto social.
@@ -87,15 +89,6 @@ Lo comentamos en un artículo sobre el tema, Goteo es parte de nuevas formas de 
 
 ## Innovando en financiación público-privada
 
-La Fundación Goteo, pionera en modelos y funcionalidades únicas de 
-financiación colectiva través de la plataforma Goteo.org, pone en 
-funcionamiento, a partir de 2013, la fórmula del matchfunding, para 
-fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito 
-estatal como europeo.
+La Fundación Goteo, pionera en modelos y funcionalidades únicas de financiación colectiva través de la plataforma Goteo.org, pone en funcionamiento, a partir de 2013, la fórmula del matchfunding, para fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito estatal como europeo.
 
-Al matchfunding se une la comunidad y la ciudadanía implicada en los 
-proyectos de crowdfunding con compromiso social que buscan beneficiar al
- mayor número de personas, generando un nuevo modelo mixto bajo el 
-principio de la corresponsabilidad. Un nuevo escenario de funciones y 
-responsabilidades entre todos los agentes implicados, que tengan como 
-resultado el reforzamiento de la función y la vida pública.
+Al matchfunding se une la comunidad y la ciudadanía implicada en los proyectos de crowdfunding con compromiso social que buscan beneficiar al mayor número de personas, generando un nuevo modelo mixto bajo el principio de la corresponsabilidad. Un nuevo escenario de funciones y responsabilidades entre todos los agentes implicados, que tengan como resultado el reforzamiento de la función y la vida pública.
