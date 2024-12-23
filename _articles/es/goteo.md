@@ -41,6 +41,12 @@ Nuestros datos lo avalan: cerca de **22 millones de euros redistribuidos, 2.199 
 
 
 
+# Goteo, pero mejor
+
+\    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>                
+
+
+
 # Red social y solidaria
 
 La Fundación Platoniq, pionera en modelos y funcionalidades únicas de 
