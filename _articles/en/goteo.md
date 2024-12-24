@@ -30,15 +30,17 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/esepe-clouds-blue-sky.png
 ---
-We are launching a crowdfunding campaign to redesign Goteo's code and continue transforming social needs into tangible solutions. Make your contribution and join us. Let the social and solidarity energy flow, because in a seemingly devastated world, we can still build change.
+We are launching a crowdfunding campaign to redesign Goteo's code and continue **transforming social needs into tangible solutions. Make your contribution and join us.** Let the social and solidarity energy flow, because in a seemingly devastated world, we can still build change.
 
-We live in an increasingly polarised reality: fake news, the rise of the far-right, climate denialism, conspiracy theories, all of these are challenges we cannot ignore. Against this backdrop, Goteo continues to be the community tool that builds the future together.
+We live in an increasingly polarised reality: fake news, the rise of the far-right, climate denialism, conspiracy theories, all of these are challenges we cannot ignore. Against this backdrop, **Goteo continues to be the community tool that builds the future together.**
 
-This is backed up by data. Since its birth, and thanks to its open technology, nearly 22 million euros have been redistributed among impact projects, 2,199 initiatives have been funded and more than 362,500 people and entities are part of the community that, united, have made it happen. 
+This is backed up by data. Since its birth, and thanks to its open technology, **nearly 22 million euros have been redistributed among impact projects, 2,199 initiatives have been funded and more than 362,500 people and entities** are part of the community that, united, have made it happen. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GyTWubZyegQ?si=2v1_6w0jpy8apBYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% quote %}Did you know that it has even been reused in Japan by Yokohama City Council and many other independent initiatives? {% endquote %}
+
+<iframe frameborder="5" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>
 
 ## **Goteo, but better: we are launching a campaign**
 
