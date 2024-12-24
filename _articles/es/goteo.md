@@ -85,4 +85,4 @@ Al matchfunding consiste en unir a la comunidad y la ciudadanía implicada, junt
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
 
-Más de una década de impulso social y solidario nos inspiran a continuar muchos años más tratando de buscar la mejor manera de impulsar la transformación y contribuir a la mejora democrática. Desde la Fundación Platoniq, te invitamos a ser parte de esta revolución, [formando parte de esta campaña](https://www.goteo.org/project/goteo-pero-mejor). Lo sabemos, juntas somos más fuertes!
+Más de una década de impulso social y solidario nos inspiran a continuar muchos años más tratando de buscar **la mejor manera de impulsar la transformación y contribuir a la mejora democrática.** Desde la Fundación Platoniq, te invitamos a ser parte de esta revolución, [formando parte de esta campaña](https://www.goteo.org/project/goteo-pero-mejor). Agradecidas por lo que vendrá, **juntas somos más fuertes!**
