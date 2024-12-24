@@ -38,6 +38,8 @@ This is backed up by data. Since its birth, and thanks to its open technology, n
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GyTWubZyegQ?si=2v1_6w0jpy8apBYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+{% quote %}Did you know that it has even been reused in Japan by Yokohama City Council and many other independent initiatives? {% endquote %}
+
 ## **Goteo, but better: we are launching a campaign**
 
 We have set out to **redesign and modernise Goteo,** creating an architecture capable of integrating other platforms and applications in a simple and efficient way; **optimising resources,** reducing the number of services and servers, improving our efficiency, speed and response capacity; and **creating more powerful tools,** such as an administration panel, to facilitate campaign management and communication with users.
