@@ -65,3 +65,5 @@ Alongside social networks, signature sites and digital innovation labs, Goteo is
 Pioneers in unique crowdfunding models and functionalities through the platform, Goteo has been launching the matchfunding formula for more than ten years to promote and increase the impact of crowdfunding in Spain and Europe. Matchfunding consists of uniting the community and citizens involved, together with public institutions, in crowdfunding projects with a social commitment, generating a new mixed public-private model under the principle of co-responsibility. 
 
 Today, many administrations have placed their trust in Goteo to promote strategic projects in their territories, generating a new scenario for all the agents involved, which results in the strengthening of the public function and public life.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
