@@ -7,7 +7,7 @@ date: 2024-12-23T16:52:00.000Z
 date-updated: 2024-12-23T16:52:00.000Z
 article-order: 1
 uid: Goteo
-title: "Goteo: red de financiación colectiva y herramienta de crowdvocacy"
+title: "Goteo 4.0: red de financiación colectiva y herramienta de crowdvocacy"
 description: Goteo.org es nuestra plataforma de crowdfunding cívico, a través de
   la cual se financian iniciativas con impacto social -a nivel regional,
   nacional e internacional-, y con la que fomentamos el cooperativismo y
@@ -33,7 +33,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/esepe-clouds-blue-sky.png
 ---
-Lanzamos campaña de crowdfunding para seguir transformando **necesidades sociales en soluciones tangibles.** **Haz tu aportación y súmate.** Deja que fluya la energía social y solidaria, porque en un mundo aparentemente devastado, aún podemos construir el cambio.
+Lanzamos campaña de crowdfunding para rediseñar el código de Goteo y seguir transformando **necesidades sociales en soluciones tangibles.** **Haz tu aportación y súmate.** Deja que fluya la energía social y solidaria, porque en un mundo aparentemente devastado, aún podemos construir el cambio.
 
 Vivimos en una realidad cada vez más polarizada: fake news, auge de la ultraderecha, negacionismo climático, teorías de conspiración, todos ellos son desafíos que no podemos ignorar. Frente a este panorama, **Goteo sigue siendo esa herramienta comunitaria que construye el futuro entre todas.**
 
@@ -67,7 +67,7 @@ Solo este año, destacan iniciativas como el [Fondo comunitario DANA: respuesta 
 
 En definitiva, despedimos el año 2023 desde Goteo sabiendo que hemos contribuido al fortalecimiento de la ESS, promoviendo la inclusión, la sostenibilidad y la equidad. Con tu ayuda seguiremos trabajando para impulsar proyectos que generen un impacto positivo en la sociedad, adaptándonos a las necesidades cambiantes y fomentando la colaboración entre diferentes actores del sector.
 
-## **Herramienta de crowdvocacy** 
+## **Herramienta de crowdvocacy**
 
 Entendemos que la comunidad, en tiempos de crisis, responde autoorganizándose para dar respuesta colectiva a través del crowdvocacy (o “gobierno de la multitud”) que es como llamamos al proceso distribuido y coordinado entre diferentes plataformas donde las iniciativas cívicas pueden amplificar su influencia, obtener recursos, y estimular el liderazgo de la difusión para los promotores de iniciativas cívicas.
 
