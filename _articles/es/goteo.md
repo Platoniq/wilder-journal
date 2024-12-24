@@ -79,9 +79,9 @@ Al lado de las redes sociales, de los sitios de firmas, de los laboratorios de i
 
 ## **Innovando en financiación público-privada**
 
-Pioneros en modelos y funcionalidades únicas de financiación colectiva través de la plataforma, en Goteo hace más de diez años que lanzamos la fórmula del matchfunding para fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito estatal como europeo. Un matchfunding que consiste en unir a la comunidad y la ciudadanía implicada, junto con las instituciones públicas, en proyectos de crowdfunding con compromiso social, generando un nuevo modelo mixto público-privado bajo el principio de la corresponsabilidad. 
+Pioneros en modelos y funcionalidades únicas de financiación colectiva través de la plataforma, en Goteo hace más de diez años que lanzamos la fórmula del matchfunding para fomentar y aumentar el impacto del micromecenazgo tanto en el ámbito estatal como europeo. Un matchfunding que consiste en **unir a la comunidad y la ciudadanía implicada, junto con las instituciones públicas, en proyectos de crowdfunding con compromiso social, generando un nuevo modelo mixto público-privado bajo el principio de la corresponsabilidad.** 
 
-Hoy son muchas las administraciones que han confiado en Goteo para impulsar proyectos estratégicos en sus territorio, generando un nuevo escenario para todos los agentes implicados, que tiene como resultado el reforzamiento de la función y la vida pública.
+Hoy son muchas las administraciones que han confiado en Goteo para impulsar proyectos estratégicos en sus territorio, **generando un nuevo escenario para todos los agentes implicados,** que tiene como resultado el reforzamiento de la función y la vida pública.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
 

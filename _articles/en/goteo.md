@@ -40,15 +40,25 @@ This is backed up by data. Since its birth, and thanks to its open technology, n
 
 ## **Goteo, but better: we are launching a campaign**
 
-We have set out to redesign and modernise Goteo, creating an architecture capable of integrating other platforms and applications in a simple and efficient way; optimising resources, reducing the number of services and servers, improving our efficiency, speed and response capacity; and creating more powerful tools, such as an administration panel, to facilitate campaign management and communication with users.
+We have set out to **redesign and modernise Goteo,** creating an architecture capable of integrating other platforms and applications in a simple and efficient way; **optimising resources,** reducing the number of services and servers, improving our efficiency, speed and response capacity; and **creating more powerful tools,** such as an administration panel, to facilitate campaign management and communication with users.
 
-And for this we are going to redesign the code from scratch. A development that will lead us to improve the connectivity of the platform, allowing us to integrate Goteo with more tools and services, expanding its capacity for interaction with other technologies or the needs of the Social and Solidarity Economy ecosystem.
+And for this **we are going to redesign the code from scratch.** A development that will lead us to improve the **connectivity** of the platform, allowing us to integrate Goteo with more tools and services, **expanding its capacity for interaction with other technologies or the needs of the Social and Solidarity Economy ecosystem.**
 
-As well as a greater social and geographical impact that will allow us to reach more people, projects and territories, overcoming technical or geographical barriers, and enabling more users to benefit and participate.
+As well as a **greater social and geographical impact** that will allow us to reach more people, projects and territories, overcoming technical or geographical barriers, and enabling more users to benefit and participate.
 
-We hope to be able to offer new functionalities that expand the platform's functions, adapting to the demands of users and the needs of the projects.
+We hope to be able to offer **new functionalities** that expand the platform's functions, adapting to the demands of users and the needs of the projects.
 
-In short, we want to give greater visibility to the initiatives that are supported by Goteo in order to position them better and attract more support, increasing dissemination and possible collaborations.
+In short, we want to give **greater visibility** to the initiatives that are supported by Goteo in order to position them better and attract more support, increasing dissemination and possible collaborations.
+
+## **Social and solidarity network**
+
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2024-12-24_13-38-50.jpg","alt":"Goteo","caption":"Goteo","credits":"Goteo"}] } %}
+
+Goteo has extensive experience in strengthening and supporting projects and initiatives in the field of the Social and Solidarity Economy (SSE). Through strategic collaborations and the use of the platform, we have worked to make visible, finance and support initiatives with social impact.
+
+This year alone, initiatives such as the DANA Community Fund: collective response for the País Valencià, the campaign to recover the Mensakas premises, the fund for the Climate information cooperative and the boost given to the environment and sustainability channel stand out. 
+
+A year in which we close knowing that we have contributed to the strengthening of the SSE, promoting inclusion, sustainability and equity and that with your help we will continue working to promote projects that generate a positive impact on society, adapting to changing needs and encouraging collaboration between different actors in the sector.
 
 ## **A crowdvocacy tool**
 
@@ -62,8 +72,10 @@ Alongside social networks, signature sites and digital innovation labs, Goteo is
 
 ## **Innovating in public-private funding**
 
-Pioneers in unique crowdfunding models and functionalities through the platform, Goteo has been launching the matchfunding formula for more than ten years to promote and increase the impact of crowdfunding in Spain and Europe. Matchfunding consists of uniting the community and citizens involved, together with public institutions, in crowdfunding projects with a social commitment, generating a new mixed public-private model under the principle of co-responsibility. 
+Pioneers in unique crowdfunding models and functionalities through the platform, Goteo has been launching the matchfunding formula for more than ten years to promote and increase the impact of crowdfunding in Spain and Europe. Matchfunding consists of **uniting the community and citizens involved, together with public institutions, in crowdfunding projects with a social commitment, generating a new mixed public-private model under the principle of co-responsibility.** 
 
-Today, many administrations have placed their trust in Goteo to promote strategic projects in their territories, generating a new scenario for all the agents involved, which results in the strengthening of the public function and public life.
+Today, many administrations have placed their trust in Goteo to promote strategic projects in their territories, **generating a new scenario for all the agents involved,** which results in the strengthening of the public function and public life.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2024-12-23-a-las-17.33.27.png","alt":"Matchfunding","caption":"Matchfunding","credits":"Matchfunding"}] } %}
+
+More than a decade of social and solidarity drive inspires us to continue, trying to find **the best way to promote transformation and contribute to democratic improvement.** That is why, from the Platoniq Foundation, [we invite you to be part of this citizen revolution ](https://www.goteo.org/project/goteo-pero-mejor)by taking part in this campaign. Grateful for what is to come, we are sure of one thing: **together we are stronger!**
