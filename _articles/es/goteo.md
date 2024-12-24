@@ -43,9 +43,9 @@ Los datos lo avalan. Desde su nacimiento, y gracias a su tecnología abierta, ce
 
 {% quote %}¿Sabías que Goteo ha sido reutilizada en Japón por el Ayuntamiento de Yokohama y por muchas otras iniciativas independientes? {% endquote %}
 
-## **Goteo, pero mejor: lanzamos campaña**
-
 <iframe frameborder="5" height="492px" src="//www.goteo.org/widget/project/goteo-pero-mejor" width="300px" scrolling="no"></iframe>
+
+## **Goteo, pero mejor: lanzamos campaña**
 
 Nos hemos propuesto **rediseñar y modernizar Goteo,** creando una arquitectura capaz de integrar otras plataformas y aplicaciones de manera sencilla y eficiente; **optimizar recursos,** reduciendo el número de servicios y servidores, mejorando nuestra eficiencia, velocidad y capacidad de respuesta; **y crear herramientas más potentes,** como un panel de administración, para facilitar la gestión de campañas y la comunicación con los usuarios.
 
