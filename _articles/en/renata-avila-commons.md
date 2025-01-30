@@ -5,13 +5,17 @@ category: interviews
 published: true
 date: 2025-01-30T11:41:00.000Z
 date-updated: 2025-01-30T11:41:00.000Z
-article-order: 12
+article-order: 8
 uid: renata-avila-commons
 interviewee: Renata Avila
 cover:
   path: /media/articles/heroes/photo_2025-01-30_11-33-53.jpg
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - amber-huff
+  - culture-creativity-and-deliberation-methodologies
+  - democratic-digital-infraestructure
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
