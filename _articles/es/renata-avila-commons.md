@@ -71,7 +71,7 @@ Hoy, el movimiento está dominado por una visión institucionalizada. Los gobier
 
 {% gallery { "simple": false, "images": [{"path":"/media/tahrir_square_-_february_9-_2011.png","alt":"Tahrir Square - February 9, 2011","caption":"Tahrir Square - February 9, 2011","credits":"Tahrir Square - February 9, 2011"}] } %}
 
-**Olivier**:¿Cómo pueden las iniciativas basadas en los comunes, particularmente en el ámbito digital, resistir la privatización de las infraestructuras y transformar los espacios de resistencia en espacios de creación y convivencia? ¿Qué papel juega la gobernanza en este proceso y cómo podríamos integrar elementos culturales como la fiesta para revitalizar el movimiento?
+**Olivier**: ¿Cómo pueden las iniciativas basadas en los comunes, particularmente en el ámbito digital, resistir la privatización de las infraestructuras y transformar los espacios de resistencia en espacios de creación y convivencia? ¿Qué papel juega la gobernanza en este proceso y cómo podríamos integrar elementos culturales como la fiesta para revitalizar el movimiento?
 
 **Renata**: Estamos en una posición mucho mejor ahora para resistir la privatización de las infraestructuras digitales, pero solo si abrazamos una visión común de la tecnología que queremos. No se trata de replicar Silicon Valley, sino de crear tecnologías "suficientemente buenas" que medien nuestros espacios. Lo más importante no es el código, sino las personas y las reglas de gobernanza.
 
