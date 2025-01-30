@@ -11,7 +11,7 @@ interviewee: Renata Avila
 cover:
   path: /media/articles/heroes/photo_2025-01-30_11-33-53.jpg
   mobile: /media/articles/mobile/photo_2025-01-30_11-33-53.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/photo_2025-01-30_11-33-53.jpg
 related_article_uids:
   - amber-huff
   - culture-creativity-and-deliberation-methodologies
