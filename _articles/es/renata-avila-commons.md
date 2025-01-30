@@ -69,7 +69,7 @@ Hoy, el movimiento está dominado por una visión institucionalizada. Los gobier
 
 **La clave está en reconectar con las nuevas generaciones.** Estas tienen una visión disruptiva del sistema, pero necesitan herramientas y apoyo para apropiarse de la lógica de los comunes. Ya no vale la pena intentar recuperar a generaciones intermedias que priorizan la conformidad. Necesitamos enfocarnos en los jóvenes, quienes tienen el potencial de revitalizar este movimiento con una visión más audaz y transformadora.
 
-{% gallery { "simple": true, "images": [{"path":"/media/data-tools-400-home.png","alt":"open knowledge foundation","caption":"open knowledge foundation","credits":"open knowledge foundation"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/tahrir_square_-_february_9-_2011.png","alt":"Tahrir Square - February 9, 2011","caption":"Tahrir Square - February 9, 2011","credits":"Tahrir Square - February 9, 2011"}] } %}
 
 **Olivier**:¿Cómo pueden las iniciativas basadas en los comunes, particularmente en el ámbito digital, resistir la privatización de las infraestructuras y transformar los espacios de resistencia en espacios de creación y convivencia? ¿Qué papel juega la gobernanza en este proceso y cómo podríamos integrar elementos culturales como la fiesta para revitalizar el movimiento?
 
@@ -91,7 +91,7 @@ Para lograrlo, es esencial que las comunidades definan sus prioridades desde el 
 
 Un ejemplo: el año pasado lanzamos una iniciativa llamada *Web We Want*, enfocada en tecnologías de bajo costo, fáciles de mantener y diseñadas para durar al menos diez años. Estas herramientas deben servir a propósitos específicos sin recopilar datos innecesarios.
 
-{% gallery { "simple": true, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","alt":"open knowledge foundation","caption":"open knowledge foundation","credits":"open knowledge foundation"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","alt":"Creative Commons guiando a los contribuyentes","caption":"Creative Commons guiando a los contribuyentes","credits":"Creative Commons guiando a los contribuyentes"}] } %}
 
 **Olivier**: ¿Cómo podemos construir una nueva narrativa para los comunes digitales que no solo conecte con las luchas actuales, como la justicia climática o los procesos de reconstrucción social en contextos de crisis? ¿Qué elementos clave deberían guiar esta narrativa para que sea transformadora y efectiva?
 
