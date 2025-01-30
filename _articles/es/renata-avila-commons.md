@@ -69,7 +69,7 @@ Hoy, el movimiento está dominado por una visión institucionalizada. Los gobier
 
 **La clave está en reconectar con las nuevas generaciones.** Estas tienen una visión disruptiva del sistema, pero necesitan herramientas y apoyo para apropiarse de la lógica de los comunes. Ya no vale la pena intentar recuperar a generaciones intermedias que priorizan la conformidad. Necesitamos enfocarnos en los jóvenes, quienes tienen el potencial de revitalizar este movimiento con una visión más audaz y transformadora.
 
-{% gallery { "simple": false, "images": [{"path":"/media/wikileaks_-11015406653-.jpg","alt":"Tahrir Square - February 9, 2011","caption":"Tahrir Square - February 9, 2011","credits":"Hubert Figuière from Montréal, Canada"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/wikileaks_-11015406653-.jpg","alt":"","caption":"Wikileaks grafitti on Le Plateau","credits":"Hubert Figuière from Montréal, Canada"}] } %}
 
 **Olivier**: ¿Cómo pueden las iniciativas basadas en los comunes, particularmente en el ámbito digital, resistir la privatización de las infraestructuras y transformar los espacios de resistencia en espacios de creación y convivencia? ¿Qué papel juega la gobernanza en este proceso y cómo podríamos integrar elementos culturales como la fiesta para revitalizar el movimiento?
 
