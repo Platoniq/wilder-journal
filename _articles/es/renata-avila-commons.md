@@ -43,7 +43,7 @@ image:
 ---
 En esta conversación provocadora, **Renata Ávila**, abogada y activista guatemalteca especializada en tecnología y propiedad intelectual, que trabaja en la intersección de los derechos humanos con la tecnología, reflexiona sobre las transformaciones, retos y potenciales del movimiento de los comunes digitales. 
 
-En diálogo con Olivier y Cristian, destaca cómo la privatización de las infraestructuras digitales y la institucionalización del movimiento han alejado a los comunes de sus raíces en los movimientos de base. La entrevista aborda temas cruciales como la necesidad de modelos de gobernanza sostenibles, la interacción entre lo digital y lo físico en plataformas como Decidim, y el papel del arte y la cultura en la construcción de narrativas capaces de contrarrestar la manipulación populista. 
+En diálogo con **Olivier Schulbaum** y **Cristian Palazzi**, destaca cómo la privatización de las infraestructuras digitales y la institucionalización del movimiento han alejado a los comunes de sus raíces en los movimientos de base. La entrevista aborda temas cruciales como la necesidad de modelos de gobernanza sostenibles, la interacción entre lo digital y lo físico en plataformas como Decidim, y el papel del arte y la cultura en la construcción de narrativas capaces de contrarrestar la manipulación populista. 
 
 Señalando cómo **Wikileaks marcó un punto de inflexión crítico**, separando las aguas entre un movimiento más institucionalizado y un activismo comunitario y radical, nos invita a imaginar cómo los comunes digitales pueden conectar con otras luchas como la justicia climática y territorial, promoviendo alianzas entre lo local y lo global.
 
