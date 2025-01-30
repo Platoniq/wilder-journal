@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-01-30T11:41:00.000Z
 date-updated: 2025-01-30T11:41:00.000Z
-article-order: 8
+article-order: 10
 uid: renata-avila-commons
 interviewee: Renata Avila
 cover:
