@@ -91,7 +91,7 @@ Para lograrlo, es esencial que las comunidades definan sus prioridades desde el 
 
 Un ejemplo: el año pasado lanzamos una iniciativa llamada *Web We Want*, enfocada en tecnologías de bajo costo, fáciles de mantener y diseñadas para durar al menos diez años. Estas herramientas deben servir a propósitos específicos sin recopilar datos innecesarios.
 
-{% gallery { "simple": false, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","alt":"Creative Commons guiando a los contribuyentes","caption":"Creative Commons guiando a los contribuyentes","credits":"CC BY-SA 3.0"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","alt":"","caption":"Creative Commons guiando a los contribuyentes","credits":"CC BY-SA 3.0"}] } %}
 
 **Olivier**: ¿Cómo podemos construir una nueva narrativa para los comunes digitales que no solo conecte con las luchas actuales, como la justicia climática o los procesos de reconstrucción social en contextos de crisis? ¿Qué elementos clave deberían guiar esta narrativa para que sea transformadora y efectiva?
 
@@ -113,7 +113,7 @@ Sin embargo, un problema común es que cuando un líder progresista llega al pod
 
 Además, la **intergeneracionalidad** es clave en las comunidades locales. En Europa, se habla mucho de la desconexión de las políticas, pero también se ha descuidado la cohesión comunitaria. Si los campesinos más pobres en Brasil han logrado esto sin recursos, no hay razón para que aquí no sea posible también.
 
-{% gallery { "simple": false, "images": [{"path":"/media/xr_declaration_of_rebellion_den_haag_-_15_april_2019_-46701939325-.jpg","alt":"XR Declaration of Rebellion Den Haag - 15 April 2019 ","caption":"XR Declaration of Rebellion Den Haag - 15 April 2019 ","credits":"Extinction Rebellion NL"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/xr_declaration_of_rebellion_den_haag_-_15_april_2019_-46701939325-.jpg","alt":"","caption":"XR Declaration of Rebellion Den Haag - 15 April 2019 ","credits":"Extinction Rebellion NL"}] } %}
 
 **Olivier**: Movimientos como Extinction Rebellion son un ejemplo de activismo que conecta la resistencia con la democracia deliberativa. Aunque tienen un enfoque performativo y occidental, ¿qué opinas de sus métodos y herramientas digitales?
 
