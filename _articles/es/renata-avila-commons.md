@@ -113,7 +113,7 @@ Sin embargo, un problema común es que cuando un líder progresista llega al pod
 
 Además, la **intergeneracionalidad** es clave en las comunidades locales. En Europa, se habla mucho de la desconexión de las políticas, pero también se ha descuidado la cohesión comunitaria. Si los campesinos más pobres en Brasil han logrado esto sin recursos, no hay razón para que aquí no sea posible también.
 
-{% gallery { "simple": true, "images": [{"path":"/media/collaboration-200.png","alt":"open knowledge foundation","caption":"open knowledge foundation","credits":"open knowledge foundation"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/xr_declaration_of_rebellion_den_haag_-_15_april_2019_-46701939325-.jpg","alt":"XR Declaration of Rebellion Den Haag - 15 April 2019 ","caption":"XR Declaration of Rebellion Den Haag - 15 April 2019 ","credits":"XR Declaration of Rebellion Den Haag - 15 April 2019 "}] } %}
 
 **Olivier**: Movimientos como Extinction Rebellion son un ejemplo de activismo que conecta la resistencia con la democracia deliberativa. Aunque tienen un enfoque performativo y occidental, ¿qué opinas de sus métodos y herramientas digitales?
 
