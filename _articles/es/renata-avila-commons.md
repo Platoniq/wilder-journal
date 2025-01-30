@@ -91,7 +91,7 @@ Para lograrlo, es esencial que las comunidades definan sus prioridades desde el 
 
 Un ejemplo: el año pasado lanzamos una iniciativa llamada *Web We Want*, enfocada en tecnologías de bajo costo, fáciles de mantener y diseñadas para durar al menos diez años. Estas herramientas deben servir a propósitos específicos sin recopilar datos innecesarios.
 
-{% gallery { "simple": false, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","alt":"Creative Commons guiando a los contribuyentes","caption":"Creative Commons guiando a los contribuyentes","credits":"Creative Commons guiando a los contribuyentes"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","alt":"Creative Commons guiando a los contribuyentes","caption":"Creative Commons guiando a los contribuyentes","credits":"CC BY-SA 3.0"}] } %}
 
 **Olivier**: ¿Cómo podemos construir una nueva narrativa para los comunes digitales que no solo conecte con las luchas actuales, como la justicia climática o los procesos de reconstrucción social en contextos de crisis? ¿Qué elementos clave deberían guiar esta narrativa para que sea transformadora y efectiva?
 
