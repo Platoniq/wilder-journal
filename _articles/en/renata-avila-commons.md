@@ -10,7 +10,7 @@ uid: renata-avila-commons
 interviewee: Renata Avila
 cover:
   path: /media/articles/heroes/photo_2025-01-30_11-33-53.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/photo_2025-01-30_11-33-53.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - amber-huff

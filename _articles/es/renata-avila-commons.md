@@ -21,7 +21,7 @@ author_uids:
 interviewee: Renata Avila
 cover:
   path: /media/articles/heroes/photo_2025-01-30_11-33-53.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/photo_2025-01-30_11-33-53.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   credits: abogada internacional de derechos humanos, en el Internet Freedom
     Festival. 2016. Foto de DANIEL DUART/Plaza.
