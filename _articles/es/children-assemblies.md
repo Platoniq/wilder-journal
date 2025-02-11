@@ -16,7 +16,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-02-11-a-las-18.04.54.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-02-11-a-las-18.04.54.png
-  thumbnail: /media/articles/thumbnails/esepe-reflejo.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-02-11-a-las-18.04.54.png
   alt: Esepe, Reflejo, 2023
   credits: Esepe, Reflejo, 2023
   caption: Esepe, Reflejo, 2023
