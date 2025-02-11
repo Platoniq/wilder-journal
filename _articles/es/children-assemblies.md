@@ -30,7 +30,15 @@ image:
 ---
 ## Hipótesis
 
-Solo en 15 países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores. ¿Tiene sentido? ¿Por dónde empezar si quisiéramos incluirlos? 
+Únicamente en quince países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores, sin embargo son varias las iniciativas que empiezan a proliferar alrededor del globo que intentan sumar la voz de infantes y adolescentes a la arena pública.
+
+{% questions { "items": [{"question":"¿Cómo asegurar que la voz de los infantes y jóvenes es una voz informada?"},{"question":"¿¿Cuáles son los peligros de influir en su toma de decisiones?"},{"question":"¿Que nos estamos perdiendo al no incluirlos en la dinámica política?"}] } %}
+
+
+
+
+
+
 
 Existen algunos casos de estudio: el Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza, casos dispersos que muestran cómo los infantes son expertos cuando hablan de su propia vida, que les gusta participar en decisiones conjuntas y que hacerlo refuerza el sentimiento de grupo y que es una buena herramienta contra el aislamiento social de algunos colectivos.
 
