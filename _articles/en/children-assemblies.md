@@ -9,7 +9,7 @@ article-order: 7
 uid: children-assemblies
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-02-11-a-las-18.04.54.png
-  mobile: /media/articles/mobile/20230522-tintin.heic
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-02-11-a-las-18.04.54.png
   thumbnail: /media/articles/thumbnails/esepe-reflejo.png
 stickers:
   layout: layout-none
