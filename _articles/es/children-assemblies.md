@@ -34,8 +34,6 @@ Solo en 15 países del mundo los jóvenes de 16 años tienen la posibilidad de e
 
 Existen algunos casos de estudio: el Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza, casos dispersos que muestran cómo los infantes son expertos cuando hablan de su propia vida, que les gusta participar en decisiones conjuntas y que hacerlo refuerza el sentimiento de grupo y que es una buena herramienta contra el aislamiento social de algunos colectivos.
 
-{% quote { "author": "Malcolm Noonant T. D., Ministro de Biodiversidad, Irlanda" } %}El proceso participativo que diseñaron es, en mi opinión, reproducible en todos los ámbitos de la política pública en los que se busque la opinión de niños y jóvenes. Deberíamos hacer mucho más. Decir que han influido en la elaboración de las políticas públicas sería quedarse corto{% endquote %}
-
 ## Story of me: ¿Por qué creemos que esta cuestión es relevante?
 
 
@@ -51,6 +49,12 @@ Toolkit del Parlamento de infantes de Escocia: https://www.childrensparliament.o
 
 We need action now: https://youtu.be/vQ8uhnyJP3Q?si=b5QnNLzrayyyeMMr
 
+Asamblea Irlanda: El proceso participativo que diseñaron es, en mi opinión, reproducible en todos los ámbitos de la política pública en los que se busque la opinión de niños y jóvenes. Deberíamos hacer mucho más. Decir que han influido en la elaboración de las políticas públicas sería quedarse corto, Malcolm Noonan T. D., Ministro de Biodiversidad, Irlanda
+
+
+
+
+
 20 asambleas para escuelas de primaria: https://www.unicef.org.uk/rights-respecting-schools/resources/teaching-resources/guidance-assemblies-lessons/primary-school-assemblies/
 
 Como hacer asambleas deliberativas en escuelas e institutos: https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf
@@ -58,6 +62,8 @@ Como hacer asambleas deliberativas en escuelas e institutos: https://laaventurad
 Lundy model of child participation: https://commission.europa.eu/system/files/2022-12/lundy_model_of_participation_0.pdf
 
 Methodological guide - School Climate Assemblies de Educlima: https://educlimad.com/en/school-climate-assemblies/
+
+
 
 
 
