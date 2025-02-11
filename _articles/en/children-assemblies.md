@@ -2,7 +2,7 @@
 layout: article
 volume-uid: wilder-journal-2
 category: deep-dives
-published: false
+published: true
 date: 2025-02-11T17:46:00.000Z
 date-updated: 2025-02-11T17:46:00.000Z
 article-order: 7
