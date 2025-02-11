@@ -36,11 +36,7 @@ image:
 
 {% questions { "items": [{"question":"¿Cómo asegurar que la voz de los infantes y jóvenes es una voz informada?"},{"question":"¿¿Cuáles son los peligros de influir en su toma de decisiones?"},{"question":"¿Que nos estamos perdiendo al no incluirlos en la dinámica política?"}] } %}
 
-Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas. 
-
-
-
-El Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza, casos dispersos que muestran cómo los infantes son expertos cuando hablan de su propia vida, que les gusta participar en decisiones conjuntas y que hacerlo refuerza el sentimiento de grupo y que es una buena herramienta contra el aislamiento social de algunos colectivos.
+Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas: el Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza, pero son muchas otras iniciativas las que se están llevando a cabo en colegios e institutos que, sin llegar al nivel institucional están ensayando metodologías y llegando a resultados que nos muestran la importancia de trasladar la cultura democrática a los más jóvenes.
 
 ## Story of me: ¿Por qué creemos que esta cuestión es relevante?
 
