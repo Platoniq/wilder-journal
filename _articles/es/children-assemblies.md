@@ -16,7 +16,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/esepe-reflejo.png
   mobile: /media/articles/mobile/esepe-reflejo.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe-reflejo.png
   alt: Esepe, Espejo reflejo, 2023
   credits: Esepe, Espejo reflejo, 2023
   caption: Esepe, Espejo reflejo, 2023
