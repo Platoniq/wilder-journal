@@ -62,6 +62,12 @@ Estuvimos en un workshop organizado por CoGlobal, bajo mentoría de Katie Reid, 
 
 
 
+
+
+{% gallery { "simple": false, "images": [{"path":"/media/modelo-de-la-urv-.png","caption":"Modelo de la URV para trabajar la sostenibilidad en las escuelas","credits":"Educlimad"}] } %}
+
+
+
 ## Story of now: ¿Cómo damos respuesta a esta pregunta?
 
 **Modelo de Lundy**
