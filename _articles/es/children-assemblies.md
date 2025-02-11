@@ -36,56 +36,27 @@ image:
 
 {% questions { "items": [{"question":"¿Cómo asegurar que la voz de los infantes y jóvenes es una voz informada?"},{"question":"¿¿Cuáles son los peligros de influir en su toma de decisiones?"},{"question":"¿Que nos estamos perdiendo al no incluirlos en la dinámica política?"}] } %}
 
-Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas: el Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza. Además, son muchas otras iniciativas las que se están llevando a cabo en colegios e institutos que, sin llegar al nivel institucional, están ensayando metodologías y llegando a resultados que nos muestran la importancia de trasladar la cultura democrática a los más jóvenes.
+Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas: el **Parlamento Infantil** de Escocia, que acabó informando a la Asamblea Estatal del Clima, la **Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad** de Irlanda o la **Asamblea Joven** de Suiza. Además, son muchas otras iniciativas las que se están llevando a cabo en colegios e institutos que, sin llegar al nivel institucional, están ensayando metodologías y llegando a resultados que nos muestran la importancia de trasladar la cultura democrática a los más jóvenes.
 
 ## Story of me: ¿Por qué creemos que esta cuestión es relevante?
 
-Un estudio realizado en institutos por **CoGlobal** muestra algunos datos muy interesantes cuando hablamos de la participación de los infantes en asambleas ciudadana. En concreto: un aumento de la inclusión de entre el 30% y el 60% de aquellos socialmente aislados y menos conectados en el aula, la reducción de interacciones negativas entre el grupo y un refuerzo del sentimiento grupal.
+**Ágora Infantil**, un proyecto desarrollado por **CoGlobal** en escuelas de más de 60 municipios españoles y en el que han participado más de 4.000 chicas y chicos, arroja unos datos muy interesantes cuando hablamos de participación democrática en la infancia y adolescencia. En concreto: un aumento de la inclusión de entre el 30% y el 60% de aquellos socialmente aislados y menos conectados en el aula, la reducción de interacciones negativas entre el grupo y un refuerzo del sentimiento grupal.
 
 Ya en 2001 el Comité de los Derechos del Niño opinó que  "Los niños no pierden sus derechos humanos por el hecho de cruzar las puertas de la escuela. Así, la educación debe impartirse de forma que respete la dignidad inherente al niño y le permita expresar su opinión libremente (..) y participar en la vida escolar". Todo ello en conformidad del artículo 12 de la **Convención de las Naciones Unidas sobre los Derechos del Niño** (UNCRC), que dice:
 
 1. Los Estados Partes garantizarán al niño que esté en condiciones de formarse un juicio propio el derecho de expresar su opinión libremente en todos los asuntos que afectan al niño, teniéndose debidamente en cuenta las opiniones del niño, en función de la edad y madurez del niño.
 2. Con este fin, se dará en particular al niño la oportunidad de ser escuchado en todo procedimiento judicial o administrativo que afecte al niño, teniéndose debidamente en cuenta las opiniones del niño, en función de la edad y madurez del niño.
 
-Todo ello lleva a reforzarnos en aquello que ya decíamos en nuestra guía ["Cómo hacer asambleas deliberativas"](https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf) en escuelas e institutos citando uno de los referentes mundiales de la democracia por sorteo en escuelas, como es [Democracia en práctica](https://democraciaenpractica.org/) de Bolivia, "**La juventud que experimenta una política estudiantil innovadora y atractiva es más propensa a participar en la política como ciudadanía adulta, e incluso puede inventar algún día formas creativas para mejorar la democracia".** Aquí su [guía](https://democracyinpractice.org/wp-content/uploads/sites/2/Guide-Student-Government-Lotteries.pdf) para la Elección por Sorteo del Gobierno Estudiantil.
-
-
-
-
-
-
-				
-			
-		
-	
-
-
-
-
-
+Todo ello lleva a reforzarnos en aquello que ya decíamos en nuestra guía ["Cómo hacer asambleas deliberativas"](https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf) en escuelas e institutos citando uno de los referentes mundiales de la democracia por sorteo en escuelas, como es [Democracia en práctica](https://democraciaenpractica.org/) de Bolivia, "**la juventud que experimenta una política estudiantil innovadora y atractiva es más propensa a participar en la política como ciudadanía adulta, e incluso puede inventar algún día formas creativas para mejorar la democracia".** 
 
 ## Story of us: Datos objetivos que respaldan la idea
 
 
 Estuvimos en un workshop organizado por CoGlobal, bajo mentoría de Katie Reid, y estas son algunas de las cosas que aprendimos:
 
-Toolkit del Parlamento de infantes de Escocia: https://www.childrensparliament.org.uk/our-work/climate-change/
-
-We need action now: https://youtu.be/vQ8uhnyJP3Q?si=b5QnNLzrayyyeMMr
-
-Asamblea Irlanda: El proceso participativo que diseñaron es, en mi opinión, reproducible en todos los ámbitos de la política pública en los que se busque la opinión de niños y jóvenes. Deberíamos hacer mucho más. Decir que han influido en la elaboración de las políticas públicas sería quedarse corto, Malcolm Noonan T. D., Ministro de Biodiversidad, Irlanda
 
 
 
-
-
-20 asambleas para escuelas de primaria: https://www.unicef.org.uk/rights-respecting-schools/resources/teaching-resources/guidance-assemblies-lessons/primary-school-assemblies/
-
-Como hacer asambleas deliberativas en escuelas e institutos: https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf
-
-Lundy model of child participation: https://commission.europa.eu/system/files/2022-12/lundy_model_of_participation_0.pdf
-
-Methodological guide - School Climate Assemblies de Educlima: https://educlimad.com/en/school-climate-assemblies/
 
 
 
@@ -103,3 +74,21 @@ Este modelo ofrece una nueva forma de conceptualizar el artículo 12 de la CNUDN
 * Voz: **Se debe facilitar** que los niños expresen sus opiniones.
 * Audiencia: La opinión **debe ser escuchada.**
 * Influencia: **Se debe actuar en consecuencia,** según proceda.
+
+
+
+## Recursos
+
+Democracia en práctica, Elección por sorteo del Gobierno Estudiantil: https://democracyinpractice.org/wp-content/uploads/sites/2/Guide-Student-Government-Lotteries.pdf
+
+Toolkit del Parlamento de infantes de Escocia: https://www.childrensparliament.org.uk/our-work/climate-change/
+
+We need action now: https://youtu.be/vQ8uhnyJP3Q?si=b5QnNLzrayyyeMMr
+
+20 asambleas para escuelas de primaria: https://www.unicef.org.uk/rights-respecting-schools/resources/teaching-resources/guidance-assemblies-lessons/primary-school-assemblies/
+
+Como hacer asambleas deliberativas en escuelas e institutos: https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf
+
+Lundy model of child participation: https://commission.europa.eu/system/files/2022-12/lundy_model_of_participation_0.pdf
+
+Methodological guide - School Climate Assemblies de Educlima: https://educlimad.com/en/school-climate-assemblies/
