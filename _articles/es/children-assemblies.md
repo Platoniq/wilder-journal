@@ -32,6 +32,8 @@ image:
 
 Únicamente en quince países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores, sin embargo son varias las iniciativas que empiezan a proliferar alrededor del globo que intentan sumar la voz de infantes y adolescentes a la arena pública.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQ8uhnyJP3Q?si=rK8wu9H_rjySUgyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 {% questions { "items": [{"question":"¿Cómo asegurar que la voz de los infantes y jóvenes es una voz informada?"},{"question":"¿¿Cuáles son los peligros de influir en su toma de decisiones?"},{"question":"¿Que nos estamos perdiendo al no incluirlos en la dinámica política?"}] } %}
 
 
