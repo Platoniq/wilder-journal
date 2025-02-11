@@ -30,7 +30,7 @@ image:
 ---
 ## Hipótesis
 
-Únicamente en quince países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores, sin embargo son varias las iniciativas que empiezan a proliferar alrededor del globo que intentan sumar la voz de infantes y adolescentes a la arena pública. Su ejemplo muestra como los infantes son expertos cuando hablan de su propia vida, que les gusta participar en decisiones conjuntas y que al hacerlo refuerzan el sentimiento de grupo. ¿Y si nos estamos perdiendo una herramienta clave para los tiempos que corren contra el aislamiento social de algunos colectivos?
+Únicamente en quince países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores, sin embargo son varias las iniciativas que empiezan a proliferar alrededor del globo que intentan sumar la voz de infantes y adolescentes a la arena pública. Su ejemplo muestra como los infantes son expertos cuando hablan de su propia vida, que les gusta participar en decisiones conjuntas y que al hacerlo refuerzan el sentimiento de grupo. ¿Y si nos estamos perdiendo una herramienta clave para los tiempos que corren contra el aislamiento social de algunos colectivos? Viajamos a Málaga para asistir a un workshop organizado por CoGlobal y facilitado por Katie Reid y estas son algunas de nuestras conclusiones.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ8uhnyJP3Q?si=rK8wu9H_rjySUgyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,7 +40,7 @@ Como veremos en adelante existen algunos casos de estudio que nos pueden servir 
 
 ## Story of me: ¿Por qué creemos que esta cuestión es relevante?
 
-Un estudio realizado en institutos por CoGlobal muestra algunos datos muy interesantes cuando hablamos de la participación de los infantes en asambleas ciudadana. En concreto: un aumento de la inclusión de entre el 30% y el 60% de aquellos socialmente aislados y menos conectados en el aula, la reducción de interacciones negativas entre el grupo y un refuerzo del sentimiento grupal.
+Un estudio realizado en institutos por **CoGlobal** muestra algunos datos muy interesantes cuando hablamos de la participación de los infantes en asambleas ciudadana. En concreto: un aumento de la inclusión de entre el 30% y el 60% de aquellos socialmente aislados y menos conectados en el aula, la reducción de interacciones negativas entre el grupo y un refuerzo del sentimiento grupal.
 
 
 
