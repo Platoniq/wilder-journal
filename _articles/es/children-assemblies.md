@@ -28,11 +28,29 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-02-11-a-las-18.04.54.png
 ---
-# Hipótesis
+## Hipótesis
 
 Solo en 15 países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores. ¿Tiene sentido? ¿Por dónde empezar si quisiéramos incluirlos? 
 
 Existen algunos casos de estudio: el Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza, casos dispersos que muestran cómo los infantes son expertos cuando hablan de su propia vida, que les gusta participar en decisiones conjuntas y que hacerlo refuerza el sentimiento de grupo y que es una buena herramienta contra el aislamiento social de algunos colectivos.
+
+## Story of me: ¿Por qué creemos que esta cuestión es relevante?
+
+
+
+
+
+## Story of us: Datos objetivos que respaldan la idea
+
+
+
+
+
+## Story of now: ¿Cómo damos respuesta a esta pregunta?
+
+
+
+
 
 Estuvimos en un workshop organizado por CoGlobal, bajo mentoría de Katie Reid, y estas son algunas de las cosas que aprendimos:
 
