@@ -46,7 +46,7 @@ In dialogue with **Olivier Schulbaum** and **Cristian Palazzi**, she highlights 
 
 Pointing out how **Wikileaks marked a critical turning point**, separating the waters between a more institutionalised movement and radical, community-based activism, he invites us to imagine how the digital commons can connect with other struggles such as climate and territorial justice, promoting alliances between the local and the global.
 
-**Olivier**: Where is the movement of the commons heading, and how has your experience as a human rights lawyer and digital activist influenced it? From your perspective of commons-based governance, do you think there is something we need to redefine?
+**Olivier:** **Where is the movement of the commons heading, and how has your experience as a human rights lawyer and digital activist influenced it? From your perspective of commons-based governance, do you think there is something we need to redefine?**
 
 **Renata**: More than my human rights experience, the interesting thing has been to realise that we don't need super-specialised legislation to address digital issues. Fundamental rights already cover much more than what a fragmented regulation with digital charters or specific principles can offer. I think we missed the opportunity to expand rights.
 
@@ -56,7 +56,7 @@ However, a mercantilist view prevailed in the regulation of digital rights. Anot
 
 {% quote %}undefined{% endquote %}
 
-**Olivier**: From your position as Executive Director of the Open Knowledge Foundation, what are the biggest tensions we see within the commons movement, especially in the balance between openness, inclusiveness and privacy?
+**Olivier: From your position as Executive Director of the Open Knowledge Foundation, what are the biggest tensions we see within the commons movement, especially in the balance between openness, inclusiveness and privacy?**
 
 **Renata**: More than conceptual tensions, I think we face a generational tension.  The Commons movement went from being a collective citizen effort to becoming institutionalised in organisations like the Wikimedia Foundation or the Open Knowledge Foundation, which started to receive large sums of money. This professionalised activism, turning it into a 9-to-5 job, and completely displaced community building, especially intergenerational community building.
 
@@ -72,7 +72,7 @@ Today, the movement is dominated by an institutionalised vision. Governments too
 
 {% gallery { "simple": false, "images": [{"path":"/media/wikileaks_-11015406653-.jpg","credits":"Hubert Figuière from Montreal, Canada","caption":"Wikileaks graffiti on Le Plateau"}] } %}
 
-**Olivier**: How can we build a new narrative for the digital commons that not only connects to current struggles, such as climate justice or social reconstruction processes in crisis contexts? What key elements should guide this narrative to be transformative and effective?
+**Olivier: How can we build a new narrative for the digital commons that not only connects to current struggles, such as climate justice or social reconstruction processes in crisis contexts? What key elements should guide this narrative to be transformative and effective?**
 
 **Renata:** We are in a much better position now to resist the privatisation of digital infrastructures, but only if we embrace a common vision of the technology we want. It is not about replicating Silicon Valley, but about creating ‘good enough’ technologies that mediate our spaces. The most important thing is not the code, but the people and the rules of governance.
 
@@ -84,9 +84,9 @@ Moreover, **governance cannot be just about rules: it needs fiesta**.We need mus
 
 {% quote { "author": "Renata Avila" } %}Governance and celebration must go hand in hand to build truly collective and humane collective spaces{% endquote %}
 
-**Olivier**: Decidim, as an open source platform, allows to adapt to different needs thanks to its flexibility. However, the use of Ruby as a programming language represents a challenge, as its high costs make it difficult to access for many communities looking to manage their own Decidim. Do you think this choice limits its potential as an inclusive and sustainable tool?
+**Olivier: Decidim, as an open source platform, allows to adapt to different needs thanks to its flexibility. However, the use of Ruby as a programming language represents a challenge, as its high costs make it difficult to access for many communities looking to manage their own Decidim. Do you think this choice limits its potential as an inclusive and sustainable tool?**
 
-**Renata**: This is a common problem in the development of open technologies. In the case of Open Data Editor, we had to rewrite the whole code because it included unnecessary functionalities that nobody was going to maintain. Sustainability is key: tools need to be low-cost and easy to maintain. We don't need perfect performance, just good is good enough.
+**Renata**: This is a common problem in the development of open technologies. In the case of Open Data Editor ([newly updated](https://blog.okfn.org/2024/12/05/announcement-open-data-editor-1-2-0-stable-version-release/)), we had to rewrite the whole code because it included unnecessary functionalities that nobody was going to maintain. Sustainability is key: tools need to be low-cost and easy to maintain. We don't need perfect performance, just good is good enough.
 
 To achieve this, it is essential that communities define their priorities from the outset. This ensures that tools are useful and sustainable, without relying exclusively on developers or technical interests.
 
@@ -94,7 +94,7 @@ One example: last year we launched an initiative called Web We Want, focused on 
 
 {% gallery { "simple": false, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","credits":"CC BY-SA 3.0","caption":"Creative Commons guiding contributors"}] } %}
 
-**Olivier**: How can we build a new narrative for the digital commons that not only connects to current struggles, such as climate justice or social reconstruction processes in crisis contexts? What key elements should guide this narrative to be transformative and effective?
+**Olivier: How can we build a new narrative for the digital commons that not only connects to current struggles, such as climate justice or social reconstruction processes in crisis contexts? What key elements should guide this narrative to be transformative and effective?**
 
 **Renata**: The genocide in Gaza offers a crucial starting point for this reflection. It was an example of how technologies and narratives can combine to completely ignore basic principles. This kind of crisis, like the transition processes in the Middle East, shows us that a commons-based approach could play a transformative role in rebuilding societies.
 
@@ -104,7 +104,7 @@ The most important mission now is **to integrate the digital commons into a broa
 
 {% quote { "author": "Renata Avila" } %} It is essential to maintain cohesion and congruence in common missions in order to transcend small spaces and have a strategic impact on public policies.{% endquote %}
 
-**Cristian**: Most politicians, especially populists, don't appeal directly to the truth, but manipulate emotions to win support, even if they say things that make no sense. We have lost recourse to reliable data and consensus, how do you think these narratives can be combated, and could art and culture play a role in this?
+**Cristian: Most politicians, especially populists, don't appeal directly to the truth, but manipulate emotions to win support, even if they say things that make no sense. We have lost recourse to reliable data and consensus, how do you think these narratives can be combated, and could art and culture play a role in this?**
 
 **Renata**: There are two complementary ways to connect grassroots activism with institutional policies. **On the one hand, some community initiatives can work without being linked to institutions**. For example, locally organised food banks have a horizontal and sustainable impact if the community is supportive, coherent and politically congruent. But something is also lost if these initiatives do not take on an autonomous and collective dimension, regardless of who is in power.
 
@@ -116,7 +116,7 @@ In addition, **intergenerationality** is key in local communities. In Europe, th
 
 {% gallery { "simple": false, "images": [{"path":"/media/xr_declaration_of_rebellion_den_haag_-_15_april_2019_-46701939325-.jpg","credits":"Extintion Rebellion NL","caption":"XR Declaration of Rebellion Den Haag - 15 April"}] } %}
 
-**Olivier**: Movements like Extinction Rebellion are an example of activism that connects resistance with deliberative democracy. Although they have a performative and Western approach, what do you think of their methods and digital tools?
+**Olivier: Movements like Extinction Rebellion are an example of activism that connects resistance with deliberative democracy. Although they have a performative and Western approach, what do you think of their methods and digital tools?**
 
 **Renata**: Movements like the Landless Movement in Brazil offer a more holistic model. They not only resist, but also propose clear solutions, with educational and solidarity spaces. This contrasts with more performative approaches such as Extinction Rebellion. However, both have something valuable to contribute.
 

@@ -47,7 +47,7 @@ En diálogo con **Olivier Schulbaum** y **Cristian Palazzi**, destaca cómo la p
 
 Señalando cómo **Wikileaks marcó un punto de inflexión crítico**, separando las aguas entre un movimiento más institucionalizado y un activismo comunitario y radical, nos invita a imaginar cómo los comunes digitales pueden conectar con otras luchas como la justicia climática y territorial, promoviendo alianzas entre lo local y lo global.
 
-**Olivier**: ¿Hacia dónde se dirige el movimiento de los comunes? ¿Cómo ha influido tu experiencia como abogada de derechos humanos y activista digital? Desde tu perspectiva de gobernanza basada en los comunes, ¿crees que hay algo que debamos redefinir?
+**Olivier**: **¿Hacia dónde se dirige el movimiento de los comunes? ¿Cómo ha influido tu experiencia como abogada de derechos humanos y activista digital? Desde tu perspectiva de gobernanza basada en los comunes, ¿crees que hay algo que debamos redefinir?**
 
 **Renata**: Más que mi experiencia en derechos humanos, lo interesante ha sido comprender que no necesitamos una legislación súper especializada para abordar los temas digitales. Los derechos fundamentales ya cubren mucho más que lo que una regulación fragmentada con cartas digitales o principios específicos puede ofrecer. Creo que perdimos la oportunidad de expandir derechos.
 
@@ -57,7 +57,7 @@ Sin embargo, prevaleció una visión mercantilista en la regulación de los dere
 
 {% quote { "author": "Renata Avila" } %}Todo comienza desde cómo nos referimos a las personas. Hablamos de usuarios, no de comunidades, y eso marca una gran diferencia{% endquote %}
 
-**Olivier**: Desde tu posición como Directora Ejecutiva de la Open Knowledge Foundation, ¿cuáles son las mayores tensiones que observamos dentro del movimiento de los comunes, especialmente en el equilibrio entre apertura, inclusión y privacidad?
+**Olivier**: **Desde tu posición como Directora Ejecutiva de la Open Knowledge Foundation, ¿cuáles son las mayores tensiones que observamos dentro del movimiento de los comunes, especialmente en el equilibrio entre apertura, inclusión y privacidad?**
 
 **Renata**: Más que tensiones conceptuales, creo que enfrentamos una tensión generacional.  El movimiento de los comunes pasó de ser un esfuerzo ciudadano colectivo a institucionalizarse en organizaciones como la Wikimedia Foundation o la Open Knowledge Foundation, que empezaron a recibir grandes sumas de dinero. Esto profesionalizó el activismo, convirtiéndolo en un trabajo de 9 a 5, y desplazó completamente la construcción de comunidad, especialmente la intergeneracional.
 
@@ -73,7 +73,7 @@ Hoy, el movimiento está dominado por una visión institucionalizada. Los gobier
 
 {% gallery { "simple": false, "images": [{"path":"/media/wikileaks_-11015406653-.jpg","alt":"","caption":"Wikileaks grafitti on Le Plateau","credits":"Hubert Figuière from Montréal, Canada"}] } %}
 
-**Olivier**: ¿Cómo pueden las iniciativas basadas en los comunes, particularmente en el ámbito digital, resistir la privatización de las infraestructuras y transformar los espacios de resistencia en espacios de creación y convivencia? ¿Qué papel juega la gobernanza en este proceso y cómo podríamos integrar elementos culturales como la fiesta para revitalizar el movimiento?
+**Olivier: ¿Cómo pueden las iniciativas basadas en los comunes, particularmente en el ámbito digital, resistir la privatización de las infraestructuras y transformar los espacios de resistencia en espacios de creación y convivencia? ¿Qué papel juega la gobernanza en este proceso y cómo podríamos integrar elementos culturales como la fiesta para revitalizar el movimiento?**
 
 **Renata**: Estamos en una posición mucho mejor ahora para resistir la privatización de las infraestructuras digitales, pero solo si abrazamos una visión común de la tecnología que queremos. No se trata de replicar Silicon Valley, sino de crear tecnologías "suficientemente buenas" que medien nuestros espacios. Lo más importante no es el código, sino las personas y las reglas de gobernanza.
 
@@ -85,9 +85,9 @@ Además, **la gobernanza no puede ser solo reglas: necesita fiesta.** Necesitamo
 
 {% quote { "author": "Renata Avila" } %}La gobernanza y la fiesta deben ir de la mano para construir espacios digitales verdaderamente colectivos y humanos{% endquote %}
 
-**Olivier**: Decidim, como plataforma de código abierto, permite adaptarse a diferentes necesidades gracias a su flexibilidad. Sin embargo, el uso de Ruby como lenguaje de programación representa un desafío, ya que sus altos costos dificultan el acceso para muchas comunidades que buscan gestionar su propio Decidim. ¿Crees que esta elección limita su potencial como herramienta inclusiva y sostenible?
+**Olivier: Decidim, como plataforma de código abierto, permite adaptarse a diferentes necesidades gracias a su flexibilidad. Sin embargo, el uso de Ruby como lenguaje de programación representa un desafío, ya que sus altos costos dificultan el acceso para muchas comunidades que buscan gestionar su propio Decidim. ¿Crees que esta elección limita su potencial como herramienta inclusiva y sostenible?**
 
-**Renata**: Eso es un problema común en el desarrollo de tecnologías abiertas. En el caso de Open Data Editor, tuvimos que reescribir todo el código porque incluía funcionalidades innecesarias que nadie iba a mantener. La sostenibilidad es clave: las herramientas deben ser de bajo costo y fáciles de mantener. No necesitamos un rendimiento perfecto, solo algo suficientemente bueno (*good is good enough*).
+**Renata**: Eso es un problema común en el desarrollo de tecnologías abiertas. En el caso de Open Data Editor ([recién actualizado](https://blog.okfn.org/2024/12/05/announcement-open-data-editor-1-2-0-stable-version-release/)), tuvimos que reescribir todo el código porque incluía funcionalidades innecesarias que nadie iba a mantener. La sostenibilidad es clave: las herramientas deben ser de bajo costo y fáciles de mantener. No necesitamos un rendimiento perfecto, solo algo suficientemente bueno (*good is good enough*).
 
 Para lograrlo, es esencial que las comunidades definan sus prioridades desde el principio. Esto garantiza que las herramientas sean útiles y sostenibles, sin depender exclusivamente de desarrolladores o intereses técnicos.
 
@@ -95,7 +95,7 @@ Un ejemplo: el año pasado lanzamos una iniciativa llamada *Web We Want*, enfoca
 
 {% gallery { "simple": false, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","alt":"","caption":"Creative Commons guiando a los contribuyentes","credits":"CC BY-SA 3.0"}] } %}
 
-**Olivier**: ¿Cómo podemos construir una nueva narrativa para los comunes digitales que no solo conecte con las luchas actuales, como la justicia climática o los procesos de reconstrucción social en contextos de crisis? ¿Qué elementos clave deberían guiar esta narrativa para que sea transformadora y efectiva?
+**Olivier: ¿Cómo podemos construir una nueva narrativa para los comunes digitales que no solo conecte con las luchas actuales, como la justicia climática o los procesos de reconstrucción social en contextos de crisis? ¿Qué elementos clave deberían guiar esta narrativa para que sea transformadora y efectiva?**
 
 **Renata**: El genocidio en Gaza nos ofrece un punto de partida crucial para esta reflexión. Fue un ejemplo de cómo las tecnologías y las narrativas pueden combinarse para ignorar por completo principios básicos. Este tipo de crisis, al igual que los procesos de transición en el Medio Oriente, nos muestra que un enfoque basado en los comunes podría jugar un papel transformador en la reconstrucción de sociedades.
 
@@ -105,7 +105,7 @@ La misión más importante ahora es **integrar los comunes digitales en un marco
 
 {% quote { "author": "Renata Avila" } %} Es esencial mantener la cohesión y congruencia en las misiones comunes para trascender los espacios pequeños y tener impacto estratégico en las políticas públicas{% endquote %}
 
-**Cristian**: La mayoría de los políticos, especialmente los populistas, no apelan directamente a la verdad, sino que manipulan emociones para ganar apoyo, aunque digan cosas sin sentido. Hemos perdido el recurso a datos fiables y consensos. ¿Cómo crees que se pueden combatir estas narrativas? ¿El arte y la cultura podrían jugar un papel en esto?
+**Cristian: La mayoría de los políticos, especialmente los populistas, no apelan directamente a la verdad, sino que manipulan emociones para ganar apoyo, aunque digan cosas sin sentido. Hemos perdido el recurso a datos fiables y consensos. ¿Cómo crees que se pueden combatir estas narrativas? ¿El arte y la cultura podrían jugar un papel en esto?**
 
 **Renata**: Hay dos caminos complementarios para conectar el activismo de base con las políticas institucionales. **Por un lado, algunas iniciativas comunitarias pueden funcionar sin necesidad de vincularse a las instituciones.** Por ejemplo, los bancos de comida organizados a nivel local tienen un impacto horizontal y sostenible si la comunidad es solidaria, coherente y políticamente congruente. Pero también se pierde algo si estas iniciativas no adquieren una dimensión autónoma y colectiva, independientemente de quién esté en el poder.
 
@@ -117,7 +117,7 @@ Además, la **intergeneracionalidad** es clave en las comunidades locales. En Eu
 
 {% gallery { "simple": false, "images": [{"path":"/media/xr_declaration_of_rebellion_den_haag_-_15_april_2019_-46701939325-.jpg","alt":"","caption":"XR Declaration of Rebellion Den Haag - 15 April 2019 ","credits":"Extinction Rebellion NL"}] } %}
 
-**Olivier**: Movimientos como Extinction Rebellion son un ejemplo de activismo que conecta la resistencia con la democracia deliberativa. Aunque tienen un enfoque performativo y occidental, ¿qué opinas de sus métodos y herramientas digitales?
+**Olivier: Movimientos como Extinction Rebellion son un ejemplo de activismo que conecta la resistencia con la democracia deliberativa. Aunque tienen un enfoque performativo y occidental, ¿qué opinas de sus métodos y herramientas digitales?**
 
 **Renata**: Movimientos como el Movimiento Sin Tierra en Brasil ofrecen un modelo más integral. No sólo resisten, sino que también plantean soluciones claras, con espacios educativos y de solidaridad. Esto contrasta con enfoques más performativos como los de Extinction Rebellion. Sin embargo, ambos tienen algo valioso que aportar.
 
