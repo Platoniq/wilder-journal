@@ -30,23 +30,25 @@ image:
 ---
 ## Hipótesis
 
-Únicamente en quince países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores, sin embargo son varias las iniciativas que empiezan a proliferar alrededor del globo que intentan sumar la voz de infantes y adolescentes a la arena pública.
+Únicamente en quince países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores, sin embargo son varias las iniciativas que empiezan a proliferar alrededor del globo que intentan sumar la voz de infantes y adolescentes a la arena pública. Los infantes son expertos cuando hablan de su propia vida, les gusta participar en decisiones conjuntas y al hacerlo refuerzan el sentimiento de grupo. CAbe pensar si nos estamos perdiendo una herramienta necesaria en los tiempos que corren contra el aislamiento social de algunos colectivos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ8uhnyJP3Q?si=rK8wu9H_rjySUgyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% questions { "items": [{"question":"¿Cómo asegurar que la voz de los infantes y jóvenes es una voz informada?"},{"question":"¿¿Cuáles son los peligros de influir en su toma de decisiones?"},{"question":"¿Que nos estamos perdiendo al no incluirlos en la dinámica política?"}] } %}
 
+Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas. 
 
 
 
-
-
-
-Existen algunos casos de estudio: el Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza, casos dispersos que muestran cómo los infantes son expertos cuando hablan de su propia vida, que les gusta participar en decisiones conjuntas y que hacerlo refuerza el sentimiento de grupo y que es una buena herramienta contra el aislamiento social de algunos colectivos.
+El Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza, casos dispersos que muestran cómo los infantes son expertos cuando hablan de su propia vida, que les gusta participar en decisiones conjuntas y que hacerlo refuerza el sentimiento de grupo y que es una buena herramienta contra el aislamiento social de algunos colectivos.
 
 ## Story of me: ¿Por qué creemos que esta cuestión es relevante?
 
+Un estudio realizado en institutos por CoGlobal muestra algunos datos muy interesantes cuando hablamos de la participación de los infantes en asambleas ciudadana. En concreto: una reducción de entre el 30% y el 60% de aquellos socialmente aislados y los menores menos conectados en el aula; la reducción de interacciones negativas entre el grupo y un refuerzo del sentimiento grupal
 
+
+
+aislamiento social 
 
 
 
