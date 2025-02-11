@@ -9,7 +9,7 @@ article-order: 7
 uid: children-assemblies
 cover:
   path: /media/articles/heroes/esepe-reflejo.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe-reflejo.png
   thumbnail: /assets/media/no_image-thumbnail.png
 stickers:
   layout: layout-none
