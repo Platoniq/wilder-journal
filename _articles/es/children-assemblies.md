@@ -40,11 +40,13 @@ Como veremos en adelante existen algunos casos de estudio que nos pueden servir 
 
 ## Story of me: ¿Por qué creemos que esta cuestión es relevante?
 
-Un estudio realizado en institutos por CoGlobal muestra algunos datos muy interesantes cuando hablamos de la participación de los infantes en asambleas ciudadana. En concreto: una reducción de entre el 30% y el 60% de aquellos socialmente aislados y los menores menos conectados en el aula; la reducción de interacciones negativas entre el grupo y un refuerzo del sentimiento grupal
+Un estudio realizado en institutos por CoGlobal muestra algunos datos muy interesantes cuando hablamos de la participación de los infantes en asambleas ciudadana. En concreto: un aumento de la inclusión de entre el 30% y el 60% de aquellos socialmente aislados y menos conectados en el aula, la reducción de interacciones negativas entre el grupo y un refuerzo del sentimiento grupal.
 
 
 
-aislamiento social 
+
+
+
 
 
 
@@ -76,3 +78,12 @@ Methodological guide - School Climate Assemblies de Educlima: https://educlimad.
 
 
 ## Story of now: ¿Cómo damos respuesta a esta pregunta?
+
+**Modelo de Lundy**
+
+Este modelo ofrece una nueva forma de conceptualizar el artículo 12 de la CNUDN que pretende centrar la atención de los responsables de la toma de decisiones en cuatro elementos de la disposición:
+
+* Espacio: Los niños deben **tener la oportunidad** de expresar su opinión: 
+* Voz: **Se debe facilitar** que los niños expresen sus opiniones.
+* Audiencia: La opinión **debe ser escuchada.**
+* Influencia: **Se debe actuar en consecuencia,** según proceda.
