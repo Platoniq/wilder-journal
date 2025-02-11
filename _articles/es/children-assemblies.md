@@ -30,7 +30,7 @@ image:
 ---
 ## Hipótesis
 
-Únicamente en quince países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores, sin embargo son varias las iniciativas que empiezan a proliferar alrededor del globo que intentan sumar la voz de infantes y adolescentes a la arena pública. Los infantes son expertos cuando hablan de su propia vida, les gusta participar en decisiones conjuntas y al hacerlo refuerzan el sentimiento de grupo. CAbe pensar si nos estamos perdiendo una herramienta necesaria en los tiempos que corren contra el aislamiento social de algunos colectivos.
+Únicamente en quince países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores, sin embargo son varias las iniciativas que empiezan a proliferar alrededor del globo que intentan sumar la voz de infantes y adolescentes a la arena pública. Su ejemplo muestra como los infantes son expertos cuando hablan de su propia vida, que les gusta participar en decisiones conjuntas y que al hacerlo refuerzan el sentimiento de grupo. ¿Y si nos estamos perdiendo una herramienta clave para los tiempos que corren contra el aislamiento social de algunos colectivos?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ8uhnyJP3Q?si=rK8wu9H_rjySUgyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
