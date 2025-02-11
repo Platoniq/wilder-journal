@@ -14,8 +14,8 @@ author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
 cover:
-  path: /media/articles/heroes/8.jpeg
-  mobile: /media/articles/mobile/esepe-reflejo.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-02-11-a-las-18.04.54.png
+  mobile: /media/articles/mobile/20230522-tintin.heic
   thumbnail: /media/articles/thumbnails/esepe-reflejo.png
   alt: Esepe, Reflejo, 2023
   credits: Esepe, Reflejo, 2023

@@ -8,8 +8,8 @@ date-updated: 2025-02-11T17:46:00.000Z
 article-order: 7
 uid: children-assemblies
 cover:
-  path: /media/articles/heroes/8.jpeg
-  mobile: /media/articles/mobile/esepe-reflejo.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-02-11-a-las-18.04.54.png
+  mobile: /media/articles/mobile/20230522-tintin.heic
   thumbnail: /media/articles/thumbnails/esepe-reflejo.png
 stickers:
   layout: layout-none
