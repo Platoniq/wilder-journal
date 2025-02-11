@@ -8,7 +8,7 @@ date-updated: 2025-02-11T17:46:00.000Z
 article-order: 7
 uid: children-assemblies
 cover:
-  path: /media/articles/heroes/esepe-reflejo.png
+  path: /media/articles/heroes/8.jpeg
   mobile: /media/articles/mobile/esepe-reflejo.png
   thumbnail: /media/articles/thumbnails/esepe-reflejo.png
 stickers:

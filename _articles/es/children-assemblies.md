@@ -14,12 +14,12 @@ author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
 cover:
-  path: /media/articles/heroes/esepe-reflejo.png
+  path: /media/articles/heroes/8.jpeg
   mobile: /media/articles/mobile/esepe-reflejo.png
   thumbnail: /media/articles/thumbnails/esepe-reflejo.png
-  alt: Esepe, Espejo reflejo, 2023
-  credits: Esepe, Espejo reflejo, 2023
-  caption: Esepe, Espejo reflejo, 2023
+  alt: Esepe, Reflejo, 2023
+  credits: Esepe, Reflejo, 2023
+  caption: Esepe, Reflejo, 2023
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
