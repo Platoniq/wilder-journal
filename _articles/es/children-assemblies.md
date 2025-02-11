@@ -7,7 +7,7 @@ date: 2025-02-11T17:46:00.000Z
 date-updated: 2025-02-11T17:46:00.000Z
 article-order: 7
 uid: children-assemblies
-title: "Asambleas ciudadanas con infantes y jóvenes: una herramienta pedagógico
+title: "Asambleas ciudadanas con infantes y jóvenes: una herramienta pedagógica
   única a favor de la democracia"
 description: Asambleas ciudadanas con infantes y adolescentes
 author: Cristian Palazzi
@@ -28,7 +28,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-02-11-a-las-18.04.54.png
 ---
-Hipótesis
+# Hipótesis
 
 Solo en 15 países del mundo los jóvenes de 16 años tienen la posibilidad de ejercer el voto y en ninguno se cuenta con su voz cómo menores. ¿Tiene sentido? ¿Por dónde empezar si quisiéramos incluirlos? 
 
