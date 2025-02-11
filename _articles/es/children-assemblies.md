@@ -36,17 +36,23 @@ image:
 
 {% questions { "items": [{"question":"¿Cómo asegurar que la voz de los infantes y jóvenes es una voz informada?"},{"question":"¿¿Cuáles son los peligros de influir en su toma de decisiones?"},{"question":"¿Que nos estamos perdiendo al no incluirlos en la dinámica política?"}] } %}
 
-Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas: el Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza, pero son muchas otras iniciativas las que se están llevando a cabo en colegios e institutos que, sin llegar al nivel institucional están ensayando metodologías y llegando a resultados que nos muestran la importancia de trasladar la cultura democrática a los más jóvenes.
+Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas: el Parlamento Infantil de Escocia, que acabó informando a la Asamblea Estatal del Clima, la Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad de Irlanda o la Asamblea Joven de Suiza. Además, son muchas otras iniciativas las que se están llevando a cabo en colegios e institutos que, sin llegar al nivel institucional, están ensayando metodologías y llegando a resultados que nos muestran la importancia de trasladar la cultura democrática a los más jóvenes.
 
 ## Story of me: ¿Por qué creemos que esta cuestión es relevante?
 
 Un estudio realizado en institutos por **CoGlobal** muestra algunos datos muy interesantes cuando hablamos de la participación de los infantes en asambleas ciudadana. En concreto: un aumento de la inclusión de entre el 30% y el 60% de aquellos socialmente aislados y menos conectados en el aula, la reducción de interacciones negativas entre el grupo y un refuerzo del sentimiento grupal.
 
+Como apunta Laura Lundy, profesora de la Queen's University de Belfast y creadora del modelo Lundy para referente para Naciones Unidas en el trato que deben disfrutar los infantes que participan en una asamblea "Modelo de participación de Lundy"
 
 
 
+Como indica la Convención de las Naciones Unidas sobre los Derechos del Niño (UNCRC) en su artículo 12 es el siguiente
 
+1. Los Estados Partes garantizarán al niño que esté en condiciones de formarse un juicio propio el derecho de expresar su opinión libremente en todos los asuntos que afectan al niño, teniéndose debidamente en cuenta las opiniones del niño, en función de la edad y madurez del niño.
 
+2. Con este fin, se dará en particular al niño la oportunidad de ser escuchado en todo procedimiento judicial o administrativo que afecte al niño, teniéndose debidamente en cuenta las opiniones del niño, en función de la edad y madurez del niño.
+
+Comité de los Derechos del Niño en 2001 "Los niños no pierden sus derechos humanos por el hecho de cruzar las puertas de la escuela. Así, por ejemplo, la educación debe impartirse de forma que respete la dignidad inherente al niño y le permita expresar su opinión libremente, de conformidad con el apartado 1 del artículo 12, y participar en la vida escolar.
 
 
 
