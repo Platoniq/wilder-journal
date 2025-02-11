@@ -42,17 +42,25 @@ Como veremos en adelante existen algunos casos de estudio que nos pueden servir 
 
 Un estudio realizado en institutos por **CoGlobal** muestra algunos datos muy interesantes cuando hablamos de la participación de los infantes en asambleas ciudadana. En concreto: un aumento de la inclusión de entre el 30% y el 60% de aquellos socialmente aislados y menos conectados en el aula, la reducción de interacciones negativas entre el grupo y un refuerzo del sentimiento grupal.
 
-Como apunta Laura Lundy, profesora de la Queen's University de Belfast y creadora del modelo Lundy para referente para Naciones Unidas en el trato que deben disfrutar los infantes que participan en una asamblea "Modelo de participación de Lundy"
-
-
-
-Como indica la Convención de las Naciones Unidas sobre los Derechos del Niño (UNCRC) en su artículo 12 es el siguiente
+Ya en 2001 el Comité de los Derechos del Niño opinó que  "Los niños no pierden sus derechos humanos por el hecho de cruzar las puertas de la escuela. Así, la educación debe impartirse de forma que respete la dignidad inherente al niño y le permita expresar su opinión libremente (..) y participar en la vida escolar". Todo ello en conformidad del artículo 12 de la **Convención de las Naciones Unidas sobre los Derechos del Niño** (UNCRC), que dice:
 
 1. Los Estados Partes garantizarán al niño que esté en condiciones de formarse un juicio propio el derecho de expresar su opinión libremente en todos los asuntos que afectan al niño, teniéndose debidamente en cuenta las opiniones del niño, en función de la edad y madurez del niño.
-
 2. Con este fin, se dará en particular al niño la oportunidad de ser escuchado en todo procedimiento judicial o administrativo que afecte al niño, teniéndose debidamente en cuenta las opiniones del niño, en función de la edad y madurez del niño.
 
-Comité de los Derechos del Niño en 2001 "Los niños no pierden sus derechos humanos por el hecho de cruzar las puertas de la escuela. Así, por ejemplo, la educación debe impartirse de forma que respete la dignidad inherente al niño y le permita expresar su opinión libremente, de conformidad con el apartado 1 del artículo 12, y participar en la vida escolar.
+Todo ello lleva a reforzarnos en aquello que ya decíamos en nuestra guía ["Cómo hacer asambleas deliberativas"](https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf) en escuelas e institutos citando uno de los referentes mundiales de la democracia por sorteo en escuelas, como es [Democracia en práctica](https://democraciaenpractica.org/) de Bolivia, "**La juventud que experimenta una política estudiantil innovadora y atractiva es más propensa a participar en la política como ciudadanía adulta, e incluso puede inventar algún día formas creativas para mejorar la democracia".** Aquí su [guía](https://democracyinpractice.org/wp-content/uploads/sites/2/Guide-Student-Government-Lotteries.pdf) para la Elección por Sorteo del Gobierno Estudiantil.
+
+
+
+
+
+
+				
+			
+		
+	
+
+
+
 
 
 
@@ -86,6 +94,8 @@ Methodological guide - School Climate Assemblies de Educlima: https://educlimad.
 ## Story of now: ¿Cómo damos respuesta a esta pregunta?
 
 **Modelo de Lundy**
+
+Como apunta Laura Lundy, profesora de la Queen's University de Belfast y creadora del modelo Lundy para referente para Naciones Unidas en el trato que deben disfrutar los infantes que participan en una asamblea "Modelo de participación de Lundy"
 
 Este modelo ofrece una nueva forma de conceptualizar el artículo 12 de la CNUDN que pretende centrar la atención de los responsables de la toma de decisiones en cuatro elementos de la disposición:
 
