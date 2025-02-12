@@ -65,7 +65,7 @@ En 1996, se creó el **Parlamento de los Niños** en respuesta a una idea de los
 
 Tras varias sesiones de trabajo con algo más de 100 niños de 7 a 14 años de toda Escocia procedentes de 10 localidades, que representaban a comunidades urbanas y rurales, una mezcla de grupos de renta y etnia, y con un equilibrio de género, se llegó a varias recomendaciones en materia de comida saludable, usos de la tierra y del mar, estilo de vida, viaje, trabajo y enseñanza. Pueden consultarse las conclusiones [aquí.](https://www.childrensparliament.org.uk/wp-content/uploads/Childrens-Parliament_Climate_Assembly_2021.pdf)
 
-
+Un segundo proyecto en el que participó Katie Reid, probablemente la persona con más experiencia en asambleas ciudadanas con infantes y preadolescentes, mentora en People Powered y autora del material *[Participación de niños y jóvenes en las asambleas sobre el clima](https://knoca-staging.webflow.io/guidances-documents/children-and-young-peoples-participation-in-climate-assemblies)* para KNOCA, la red europea para compartir buenas prácticas sobre el diseño y la aplicación en asambleas climáticas, es la  
 
 Tanta fue la repercusión del proyecto que El proceso participativo que diseñaron es, en mi opinión, reproducible en todos los ámbitos de la política pública en los que se solicita la opinión de los niños y los jóvenes. Deberíamos hacer mucho más. Decir que han tenido un impacto en la elaboración de políticas públicas sería quedarse corto, Malcolm Noonan T. D., Ministro de Biodiversidad, Irlanda.
 
