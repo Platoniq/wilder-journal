@@ -36,7 +36,7 @@ image:
 
 {% questions { "items": [{"question":"¿Cómo asegurar que la voz de los infantes y jóvenes es una voz informada?"},{"question":"¿¿Cuáles son los peligros de influir en su toma de decisiones?"},{"question":"¿Que nos estamos perdiendo al no incluirlos en la dinámica política?"}] } %}
 
-Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas: el **Parlamento Infantil** de Escocia, que acabó informando a la Asamblea Estatal del Clima, la **Asamblea de jóvenes e infantes sobre la pérdida de biodiversidad** de Irlanda o la **Asamblea Joven** de Suiza. Además, son muchas otras iniciativas las que se están llevando a cabo en colegios e institutos que, sin llegar al nivel institucional, están ensayando metodologías y llegando a resultados que nos muestran la importancia de trasladar la cultura democrática a los más jóvenes.
+Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas. Algunos de carácter institucional y muchas otras iniciativas que se están llevando a cabo en colegios e institutos que, sin llegar a este nivel, están ensayando metodologías y llegando a resultados que nos muestran la importancia de trasladar la cultura democrática a los más jóvenes.
 
 ## Story of me: ¿Por qué creemos que esta cuestión es relevante?
 
@@ -65,17 +65,19 @@ En 1996, se creó el **Parlamento de los Niños** en respuesta a una idea de los
 
 Tras varias sesiones de trabajo con algo más de 100 niños de 7 a 14 años de toda Escocia procedentes de 10 localidades, que representaban a comunidades urbanas y rurales, una mezcla de grupos de renta y etnia, y con un equilibrio de género, se llegó a varias recomendaciones en materia de comida saludable, usos de la tierra y del mar, estilo de vida, viaje, trabajo y enseñanza. Pueden consultarse las conclusiones [aquí.](https://www.childrensparliament.org.uk/wp-content/uploads/Childrens-Parliament_Climate_Assembly_2021.pdf)
 
-Un segundo proyecto en el que participó Katie Reid, probablemente la persona con más experiencia en asambleas ciudadanas con infantes y preadolescentes, mentora en People Powered y autora del material *[Participación de niños y jóvenes en las asambleas sobre el clima](https://knoca-staging.webflow.io/guidances-documents/children-and-young-peoples-participation-in-climate-assemblies)* para KNOCA, la red europea para compartir buenas prácticas sobre el diseño y la aplicación en asambleas climáticas, es la  
+Un segundo proyecto en el que participó Katie Reid, probablemente la persona con más experiencia en asambleas ciudadanas con infantes y preadolescentes, mentora en People Powered y autora del material *[Participación de niños y jóvenes en las asambleas sobre el clima](https://knoca-staging.webflow.io/guidances-documents/children-and-young-peoples-participation-in-climate-assemblies)* para KNOCA, la red europea para compartir buenas prácticas sobre el diseño y la aplicación en asambleas climáticas, es la **[Asamblea de niños y jóvenes sobre la pérdida de biodiversidad](https://cyp-biodiversity.ie/)**. 
 
-Tanta fue la repercusión del proyecto que El proceso participativo que diseñaron es, en mi opinión, reproducible en todos los ámbitos de la política pública en los que se solicita la opinión de los niños y los jóvenes. Deberíamos hacer mucho más. Decir que han tenido un impacto en la elaboración de políticas públicas sería quedarse corto, Malcolm Noonan T. D., Ministro de Biodiversidad, Irlanda.
+Tal fue la repercusión del proyecto que el Ministro de Biodiversidad de Irlanda opinó: 
 
+{% quote { "author": "Malcolm Noonan T. D., Ministro para la Biodiversidad de Irlanda" } %}El proceso participativo que diseñaron es, en mi opinión, reproducible en todos los ámbitos de la política pública en los que se solicita la opinión de los niños y los jóvenes. Deberíamos hacer mucho más. Decir que han tenido un impacto en la elaboración de políticas públicas sería quedarse corto.{% endquote %}
 
+Son muchas otras las iniciativas dignas de ser analizadas, como la experiencia en colegios *[Arte mural en ruta democrática](https://www.areademos.eu/arte-mural-en-ruta-democratica)* de Área Demos, el City Youth Forum de la ciudad de Jihlava en la República Checa o Czech Republic compuesto de alumnos de 10 escuelas elementales o el proyecto [Young DiverCities](https://serenoregis.org/progetto/young-divercity-2/) que llega este año a su tercera edición y que cuenta entre sus logros el haber puesto nombre a una plaza de la ciudad de Settimo en Italia. 
 
+Pero para acabar es importante referenciar el [Future Council U24](https://profuturis.ch/en/zukunftsrat-u24/), un proceso que tuvo lugar durante el 2023 para dar voz a los jóvenes adultos de Suiza en cuestiones políticas, en concreto a 80 residentes suizos de entre 16 y 24 años elegidos por sorteo.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-02-12-a-las-12.06.20.png","caption":"Resultados del Future Council U24","credits":"Pro Futuris Think + Do Tank"}] } %}
 
-
-
-
+La primera asamblea ciudadana de jóvenes de Suiza trató de responder a la pregunta: ¿qué debe hacer Suiza para mejorar la salud mental de los jóvenes, especialmente en los ámbitos de la educación, el trabajo, el ocio, la familia y los servicios sanitarios? llegando a [18 recomendaciones](<>), siendo las más votadas la creación de un banco de datos nacional sobre salud mental y jóvenes, la expansión del seguro de salud suizo en materia de salud mental y reforzar la cooperación entre cantones para abordar esta problemática.
 
 ## Story of now: ¿Cómo damos respuesta a esta pregunta?
 
