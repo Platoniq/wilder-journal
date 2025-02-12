@@ -81,16 +81,30 @@ La primera asamblea ciudadana de jóvenes de Suiza trató de responder a la preg
 
 ## Story of now: ¿Cómo damos respuesta a esta pregunta?
 
-**Modelo de Lundy**
+Como apunta Laura Lundy, profesora de la Queen's University de Belfast y creadora del modelo Lundy, referente para Naciones Unidas en el trato que deben disfrutar los infantes que participan en una asamblea, "no se puede subestimar la importancia del artículo 12 para la educación".
 
-Como apunta Laura Lundy, profesora de la Queen's University de Belfast y creadora del modelo Lundy para referente para Naciones Unidas en el trato que deben disfrutar los infantes que participan en una asamblea "Modelo de participación de Lundy"
+{% gallery { "simple": false, "images": [{"path":"/media/lundy-method.png","caption":"Modelo de participación de Lundy ","credits":"Laura Lundy, 2007"}] } %}
 
-Este modelo ofrece una nueva forma de conceptualizar el artículo 12 de la CNUDN que pretende centrar la atención de los responsables de la toma de decisiones en cuatro elementos de la disposición:
+Este modelo ofrece una nueva forma de conceptualizar este artículo de la **Convención de las Naciones Unidas sobre los Derechos del Niño** (UNCRC) centrando la atención de los responsables de la toma de decisiones en cuatro elementos:
 
 * Espacio: Los niños deben **tener la oportunidad** de expresar su opinión: 
 * Voz: **Se debe facilitar** que los niños expresen sus opiniones.
 * Audiencia: La opinión **debe ser escuchada.**
 * Influencia: **Se debe actuar en consecuencia,** según proceda.
+
+La participación estudiantil sirve para innovar en las formas de democracia y ofrecer iguales oportunidades al estudiantado que quiera participar, independientemente de su etnia, origen socioeconómico, nivel educativo o cultural, nivel de popularidad, carisma, o ambición. 
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-02-12-a-las-12.29.10.png","caption":"Cómo hacer asambleas deliberativas en escuelas e institutos","credits":"Platoniq"}] } %}
+
+
+
+
+
+				
+			
+		
+	
+
 
 ## Recursos
 
