@@ -20,6 +20,10 @@ cover:
   alt: Esepe, Reflejo, 2023
   credits: Esepe, Reflejo, 2023
   caption: Esepe, Reflejo, 2023
+related_article_uids:
+  - arantxa-mendiharat
+  - chimwemwe_chirwa
+  - deliberative-assemblies
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -92,36 +96,26 @@ Este modelo ofrece una nueva forma de conceptualizar este artículo de la **Conv
 * Audiencia: La opinión **debe ser escuchada.**
 * Influencia: **Se debe actuar en consecuencia,** según proceda.
 
-La participación estudiantil sirve para innovar en las formas de democracia y ofrecer iguales oportunidades al estudiantado que quiera participar, independientemente de su etnia, origen socioeconómico, nivel educativo o cultural, nivel de popularidad, carisma, o ambición. 
+Cuando en 2023 publicamos la guía sobre [Cómo hacer asambleas deliberativas en escuelas e institutos](https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf) en Platoniq ya consideramos que la participación estudiantil sirve para innovar en las formas de democracia y ofrecer iguales oportunidades al estudiantado que quiera participar, independientemente de su etnia, origen socioeconómico, nivel educativo o cultural, nivel de popularidad, carisma, o ambición.
+
+Aplicar metodologías deliberativas entre los más jóvenes permite mostrar los valores de la democracia, acostumbrarlos a participar de decisiones en grupo y comprender el sentido y valor de nuestras instituciones. ¿Te sumas a la ola deliberativa?
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-02-12-a-las-12.29.10.png","caption":"Cómo hacer asambleas deliberativas en escuelas e institutos","credits":"Platoniq"}] } %}
 
-
-
-
-
-				
-			
-		
-	
-
-
 ## Recursos
 
-Democracia en práctica, Elección por sorteo del Gobierno Estudiantil: https://democracyinpractice.org/wp-content/uploads/sites/2/Guide-Student-Government-Lotteries.pdf
+Democracia en práctica, [Elección por sorteo del Gobierno Estudiantil](https://democracyinpractice.org/wp-content/uploads/sites/2/Guide-Student-Government-Lotteries.pdf)
 
-KNOCA. Children and Young People’s Participation in Climate Assemblies: https://www.knoca.eu/guidances-documents/children-and-young-peoples-participation-in-climate-assemblies
+Katie Reid, [Children and Young People’s Participation in Climate Assemblies](https://www.knoca.eu/guidances-documents/children-and-young-peoples-participation-in-climate-assemblies), KNOCA.
 
-Toolkit del Parlamento de infantes de Escocia: https://www.childrensparliament.org.uk/our-work/climate-change/
+[Toolkit](https://www.childrensparliament.org.uk/our-work/climate-change/) del Parlamento de infantes de Escocia
 
-We need action now: https://youtu.be/vQ8uhnyJP3Q?si=b5QnNLzrayyyeMMr
+UNICEF, [20 asambleas para escuelas de primaria](https://www.unicef.org.uk/rights-respecting-schools/resources/teaching-resources/guidance-assemblies-lessons/primary-school-assemblies/)
 
-20 asambleas para escuelas de primaria: https://www.unicef.org.uk/rights-respecting-schools/resources/teaching-resources/guidance-assemblies-lessons/primary-school-assemblies/
+Platoniq, [Como hacer asambleas deliberativas en escuelas e institutos](https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf)
 
-Como hacer asambleas deliberativas en escuelas e institutos: https://laaventuradeaprender.intef.es/wp-content/uploads/2023/07/60_22_RED_LADA_Como-hacer-asambleas-deliberativas-R3.pdf
+Laura Lundy, [Model of child participation](https://commission.europa.eu/system/files/2022-12/lundy_model_of_participation_0.pdf)
 
-Lundy model of child participation: https://commission.europa.eu/system/files/2022-12/lundy_model_of_participation_0.pdf
+URV, [Methodological guide - School Climate Assemblies de Educlima](https://educlimad.com/en/school-climate-assemblies/)
 
-Methodological guide - School Climate Assemblies de Educlima: https://educlimad.com/en/school-climate-assemblies/
-
-UNICEF. Our Future Pledge: An agenda for futures by youth. A toolkit and global campaign for youth foresight: https://www.unicef.org/innocenti/reports/our-future-pledge-agenda-futures-youth
+UNICEF. [Our Future Pledge: An agenda for futures by youth. A toolkit and global campaign for youth foresight](https://www.unicef.org/innocenti/reports/our-future-pledge-agenda-futures-youth)
