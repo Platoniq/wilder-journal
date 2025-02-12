@@ -53,23 +53,7 @@ Todo ello lleva a reforzarnos en aquello que ya decíamos en nuestra guía *[Có
 
 Como indican **Andrea Corres, Gisela Cebrián y Mercè Junyent** en su artículo *[Early adolescents’ visions of the future: towards hopeful and sustainable futures?](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1501126/full#h4)* "comprender las visiones de futuro entre los adolescentes tempranos puede representar un primer paso para encontrar formas creativas y más adecuadas de promover las visiones probables y preferibles del futuro hacia otras esperanzadoras; tener esto en cuenta es el paso más fundamental para construir futuros alternativos y sostenibles. Además, imaginar futuros posibles y esperanzadores se convierte en una acción política y orientada a la justicia, especialmente necesaria en los espacios educativos". Estas son algunas de las conclusiones del **[EDUCLIMAD](https://educlimad.com/)**, un proyecto de investigación aplicada que tiene como objetivo concienciar e implicar a los más jóvenes en materia de sostenibilidad, mediante asambleas escolares por el clima en 25 escuelas de Educación Primaria del Camp de Tarragona, donde han participado de forma directa 1.465 alumnas y 61 docentes. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {% gallery { "simple": false, "images": [{"path":"/media/modelo-de-la-urv-.png","caption":"Modelo de la URV para trabajar la sostenibilidad en las escuelas","credits":"Educlimad"}] } %}
-
-
 
 ## Story of now: ¿Cómo damos respuesta a esta pregunta?
 
@@ -84,11 +68,11 @@ Este modelo ofrece una nueva forma de conceptualizar el artículo 12 de la CNUDN
 * Audiencia: La opinión **debe ser escuchada.**
 * Influencia: **Se debe actuar en consecuencia,** según proceda.
 
-
-
 ## Recursos
 
 Democracia en práctica, Elección por sorteo del Gobierno Estudiantil: https://democracyinpractice.org/wp-content/uploads/sites/2/Guide-Student-Government-Lotteries.pdf
+
+KNOCA. Children and Young People’s Participation in Climate Assemblies: https://www.knoca.eu/guidances-documents/children-and-young-peoples-participation-in-climate-assemblies
 
 Toolkit del Parlamento de infantes de Escocia: https://www.childrensparliament.org.uk/our-work/climate-change/
 
@@ -101,3 +85,5 @@ Como hacer asambleas deliberativas en escuelas e institutos: https://laaventurad
 Lundy model of child participation: https://commission.europa.eu/system/files/2022-12/lundy_model_of_participation_0.pdf
 
 Methodological guide - School Climate Assemblies de Educlima: https://educlimad.com/en/school-climate-assemblies/
+
+UNICEF. Our Future Pledge: An agenda for futures by youth. A toolkit and global campaign for youth foresight: https://www.unicef.org/innocenti/reports/our-future-pledge-agenda-futures-youth
