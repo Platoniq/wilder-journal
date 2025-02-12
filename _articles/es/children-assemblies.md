@@ -57,7 +57,21 @@ Como señalan **Andrea Corres, Gisela Cebrián y Mercè Junyent** en su artícul
 
 Otro de los proyectos del cual podemos extraer conclusiones es el que lleva a cabo **Eurochild** con su **Consejo Infantil (CCE)**, un grupo selecto de niños de entre 10 y 18 años, apoyados por miembros de Eurochild de diferentes países de toda Europa, que desempeñan un papel consultivo en relación con las prioridades clave de Eurochild en cuestión de advocacy, gobernanza. Algunas de sus conclusiones principales, después de mantenerlo activo desde 2017, tiene que ver con la agencia que demuestran los jóvenes y menores en materias que les involucran. "No estamos preparados, nos dicen, para escuchar y mucho menos trabajar con niños" y eso que "los niños son expertos de sus propias vidas". A lo que proponen repensar la participación de jóvenes y menores en términos de triangulación entre menor-facilitador-decision maker superando el modelo menor-adultos.
 
-Uno de los casos de estudio más relevantes que tenemos a mano es el del **Parlamento de infantes de Escocia**, que acabó informando a la Asamblea ciudadana sobre el Clima sobre sus puntos de vista. Este ejemplo es particularmente interesante porque rompe la frontera entre menores y adultos otrogando a estos primeros la capacidad de opinar e influir sobre las discusiones que posteriormente se llevaron a cabo en la Asamblea. A esto se le denomina "deliberación en enclaves" y consiste en explorar junto a un determinado grupo de afectados por un determinado problema cual debería ser el planteamiento general de una asamblea, salvando así las dificultades que supone trabajar de forma representativa a la hora de incluir todas las voces diversas implicadas en una misma cuestión.
+Uno de los casos de estudio más relevantes que tenemos a mano es el del **Parlamento de los Niños de Escocia**, que acabó informando a la Asamblea ciudadana sobre el Clima sobre sus puntos de vista. Este ejemplo es particularmente interesante porque rompe la frontera entre menores y adultos otrogando a estos primeros la capacidad de opinar e influir sobre las discusiones que posteriormente se llevaron a cabo en la Asamblea. A esto se le denomina "deliberación en enclaves" y consiste en explorar junto a un determinado grupo de afectados por un determinado problema cual debería ser el planteamiento general de una asamblea, salvando así las dificultades que supone trabajar de forma representativa a la hora de incluir todas las voces diversas implicadas en una misma cuestión.
+
+En 1996, se creó el **Parlamento de los Niños** en respuesta a una idea de los niños de Edimburgo que participaban en un proyecto internacional «Eco-City». Pensaban que era necesario un espacio donde los niños pudieran compartir sus opiniones e ideas, y que los adultos por los adultos en las decisiones que se toman en Escocia. En todo nuestro trabajo desde entonces, el cambio climático ha seguido siendo una preocupación clave para los niños. 25 años después la emergencia climática ha sido declarada en Escocia.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bd0IlvEzuVM?si=-P8K-6jeeV4npkyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Tras varias sesiones de trabajo con algo más de 100 niños de 7 a 14 años de toda Escocia procedentes de 10 localidades, que representaban a comunidades urbanas y rurales, una mezcla de grupos de renta y etnia, y con un equilibrio de género, se llegó a varias recomendaciones en materia de comida saludable, usos de la tierra y del mar, estilo de vida, viaje, trabajo y enseñanza. Pueden consultarse las conclusiones [aquí.](https://www.childrensparliament.org.uk/wp-content/uploads/Childrens-Parliament_Climate_Assembly_2021.pdf)
+
+
+
+Tanta fue la repercusión del proyecto que El proceso participativo que diseñaron es, en mi opinión, reproducible en todos los ámbitos de la política pública en los que se solicita la opinión de los niños y los jóvenes. Deberíamos hacer mucho más. Decir que han tenido un impacto en la elaboración de políticas públicas sería quedarse corto, Malcolm Noonan T. D., Ministro de Biodiversidad, Irlanda.
+
+
+
+
 
 
 
