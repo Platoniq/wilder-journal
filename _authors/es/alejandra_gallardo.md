@@ -1,6 +1,5 @@
 ---
 uid: alex
-layout: author
 name: Alejandra Gallardo
 position: Asesora y facilitadora
 image:

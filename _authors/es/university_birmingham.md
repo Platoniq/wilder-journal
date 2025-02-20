@@ -1,6 +1,5 @@
 ---
 uid: University-Birmingham
-layout: author
 name: University of Birmingham
 position: University
 image:
