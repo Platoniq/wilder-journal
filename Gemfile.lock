@@ -8,9 +8,9 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: a6951a1e2c4c85ced5a33e2e8461eb719cc3622b
+  revision: 965207caeb75bb00fb63f6134ef1c7cf66171750
   specs:
-    jekyll-theme-platoniq-journal (0.0.115)
+    jekyll-theme-platoniq-journal (0.0.116)
       jekyll (~> 4.2)
       jekyll-data (~> 1.1.1)
       jekyll-plugin-platoniq-journal (~> 0.0.1)
@@ -94,7 +94,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
-    rexml (3.4.0)
+    rexml (3.4.1)
     rouge (3.30.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
