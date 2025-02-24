@@ -39,7 +39,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo_2025-02-24_18-51-20.jpg
 ---
 En esta conversación provocadora, **Renata Ávila**, abogada y activista guatemalteca especializada en tecnología y propiedad intelectual, que trabaja en la intersección de los derechos humanos con la tecnología, reflexiona sobre las transformaciones, retos y potenciales del movimiento de los comunes digitales. 
 

@@ -38,7 +38,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo_2025-02-24_18-51-20.jpg
 ---
 In this provocative conversation, **Renata Avila**, a Guatemalan lawyer and activist specialising in technology and intellectual property, who works at the intersection of human rights and technology, reflects on the transformations, challenges and potentials of the digital commons movement. 
 
