@@ -40,6 +40,8 @@ Buceamos entre los muchos proyectos de Goteo para dar con las claves de las camp
 
 Preparando la tierra busca reunir en Bilbao (País Vasco, Estado español) a personas agentes de cambio que viven o han vivido lejos de casa. Se refieren a esas personas que son agentes culturales, artísticos, sociales, económicos y/o educativos que estén tomando acciones creativas en el País Vasco lejos de sus redes, tradiciones y lugar de origen. Hablamos con Joaquín, su principal impulsor sobre la importancia del proyecto, sus motivaciones y los aprendizajes adquiridos durante el proceso.
 
+{% gallery { "simple": true, "images": [{"path":"/media/preparando-la-tierra.jpg"}] } %}
+
 **Alex: ¿Por qué crees que es importante este encuentro entre agentes de cambio en el País Vasco específicamente?**
 
 **Preparando la tierra:** En todos los países estamos recibiendo flujos migratorios. Así que sólo vemos la punta del iceberg. Pero bajo el iceberg, por supuesto, hay muchas cosas que podríamos resumir como estabilidad internacional. Quiero decir, dentro de cada nación, por supuesto, pero entre las naciones también. Así que esto fue como una llamada, como una película. Y nosotros y nosotros no llamamos a ninguna persona. Es decir, llamamos a un perfil específico de personas. Y hay dos definiciones. La primera es changemaker, gente que emprende acciones creativas para resolver problemas sociales. Nos referimos a aquellas personas que son agentes culturales, artísticos, sociales, económicos o educativos, no importa en qué campos específicos. Queríamos que ese perfil entendiera la importancia de las redes, que entendiera la importancia de ser y de crear espacios de colaboración y que viera el valor de estos espacios. 
@@ -59,6 +61,8 @@ Pero convocamos no sólo a creadores de cambio. Convocamos a creadores de cambio
 Se lee en su página web: “Somos un colectivo de personas que nos hemos juntado para impedir la construcción del Agroparc. Mayoritariamente somos de Gelida y de Sant Llorenç de Hortons, pero también de otros pueblos y ciudades. Somos gente de todo tipo, con un objetivo común: detener el agroparc".
 
 El objetivo de la plataforma, tal y como nos dicen, es parar un proyecto de unas 250 hectáreas en el Penedés, que está diseñado para servir a la macroindustria elementaria en un espacio natural que debería estar protegido y no lo está. Nosotros, con el GOTEO, lo que hemos hecho es hacer una recolecta de dinero para precisamente poner un contencioso administrativo para impedir esta modificación del planeamiento urbano y municipal.
+
+{% gallery { "simple": true, "images": [{"path":"/media/stopagroparc.jpg"}] } %}
 
 **Alex: ¿qué importancia ha tenido para vosotras toda esta visibilidad y el impacto social y medioambiental generado por este proyecto?**
 
@@ -85,6 +89,8 @@ Por ahora hemos conseguido parar con alegaciones, pero sabemos que esto es tempo
 ## **Foodcoop**
 
 Foodcoop BCN, el primer supermercado cooperativo y participativo de Barcelona, abrió sus puertas en febrero de 2022. Una apuesta por el consumo alimentario basado en la sostenibilidad, el valor nutritivo de los productos, la reducción de residuos y del desperdicio de alimentos, el respeto por la tierra y quien la trabaja, y por la biodiversidad y los recursos naturales. Uno de sus socios, Edgar, contesta de qué les ha servido la campaña y qué valor tienen los supermercados cooperativos dentro de las grandes ciudades.
+
+{% gallery { "simple": true, "images": [{"path":"/media/foodcoop.jpg"}] } %}
 
 **Alex: ¿Qué tipo de impacto piensas que ha tenido la financiación colectiva en vuestro proyecto y también en el impacto local en el territorio?**
 
