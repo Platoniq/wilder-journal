@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-02-24-a-las-15.26.07.png
 ---
 Buceamos entre los muchos proyectos de Goteo para dar con las claves de las campañas medioambientales y rurales. De todos ellos, hablamos con tres de ellos: [Preparando la tierra](https://ca.goteo.org/project/preparando-la-tierra), [Stop Agroparc](https://www.goteo.org/project/aturem-l-agroparc-ametller-origen) y [Foodcoop](https://www.goteo.org/project/consolidem-la-foodcoop), para que nos contaran su experiencia a la hora de echar adelante una campaña exitosa de crowdfunding que consiguiera unir el mundo rural con el mundo urbano. Estas son algunas de las ideas que nos comentaron. 
 
