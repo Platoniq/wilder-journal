@@ -91,7 +91,7 @@ Además, **la gobernanza no puede ser solo reglas: necesita fiesta.** Necesitamo
 
 Para lograrlo, es esencial que las comunidades definan sus prioridades desde el principio. Esto garantiza que las herramientas sean útiles y sostenibles, sin depender exclusivamente de desarrolladores o intereses técnicos.
 
-Un ejemplo: el año pasado lanzamos una iniciativa llamada *Web We Want*, enfocada en tecnologías de bajo costo, fáciles de mantener y diseñadas para durar al menos diez años. Estas herramientas deben servir a propósitos específicos sin recopilar datos innecesarios.
+Un ejemplo: el año pasado lanzamos una iniciativa llamada *Tech We Want*, enfocada en tecnologías de bajo costo, fáciles de mantener y diseñadas para durar al menos diez años. Estas herramientas deben servir a propósitos específicos sin recopilar datos innecesarios.
 
 {% gallery { "simple": false, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","alt":"","caption":"Creative Commons guiando a los contribuyentes","credits":"CC BY-SA 3.0"}] } %}
 

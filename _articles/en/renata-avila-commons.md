@@ -90,7 +90,7 @@ Moreover, **governance cannot be just about rules: it needs fiesta**.We need mus
 
 To achieve this, it is essential that communities define their priorities from the outset. This ensures that tools are useful and sustainable, without relying exclusively on developers or technical interests.
 
-One example: last year we launched an initiative called Web We Want, focused on low-cost technologies that are easy to maintain and designed to last at least ten years. These tools should serve specific purposes without collecting unnecessary data.
+One example: last year we launched an initiative called *Tech We Want,* focused on low-cost technologies that are easy to maintain and designed to last at least ten years. These tools should serve specific purposes without collecting unnecessary data.
 
 {% gallery { "simple": false, "images": [{"path":"/media/cc_guidant_les_contributeurs.jpg","credits":"CC BY-SA 3.0","caption":"Creative Commons guiding contributors"}] } %}
 
