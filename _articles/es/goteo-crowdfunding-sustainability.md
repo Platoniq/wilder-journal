@@ -7,7 +7,8 @@ date: 2024-10-24T12:10:00.000Z
 date-updated: 2024-10-24T12:10:00.000Z
 article-order: 16
 uid: goteo-crowdfunding-sustainability
-title: Impacto social y medioambiental a través de Goteo
+title: Goteo, plataforma dinamizadora del mundo rural a través del impacto
+  social y ambiental
 description: Impacto social y medioambiental a través de Goteo
 author: Alejandra Gallardo & Crisitian Palazzi
 author_uids:
