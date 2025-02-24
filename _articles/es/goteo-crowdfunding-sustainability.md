@@ -13,6 +13,7 @@ author: Alejandra Gallardo & Crisitian Palazzi
 author_uids:
   - alex
   - cristian-palazzi
+interviewee: ESBEC, Foodcoop y Stop Agroparc
 cover:
   path: /media/articles/heroes/1-475v3ltpovffmasardleqa.png
   mobile: /assets/media/no_image-hero.png
