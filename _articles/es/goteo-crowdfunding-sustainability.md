@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: false
-date: 2025-02-24T11:10:00.000Z
-date-updated: 2025-02-24T11:10:00.000Z
+date: 2024-10-24T12:10:00.000Z
+date-updated: 2024-10-24T12:10:00.000Z
 article-order: 16
 uid: goteo-crowdfunding-sustainability
 title: Impacto social y medioambiental a través de Goteo
