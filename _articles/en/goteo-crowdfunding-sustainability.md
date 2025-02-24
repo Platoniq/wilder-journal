@@ -9,7 +9,7 @@ article-order: 16
 uid: goteo-crowdfunding-sustainability
 interviewee: Preparando la tierra, Foodcoop y Stop Agroparc
 cover:
-  path: /media/articles/heroes/1-475v3ltpovffmasardleqa.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-02-24-a-las-15.26.07.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
