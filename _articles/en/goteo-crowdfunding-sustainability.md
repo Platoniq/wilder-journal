@@ -7,7 +7,7 @@ date: 2024-10-24T12:10:00.000Z
 date-updated: 2024-10-24T12:10:00.000Z
 article-order: 16
 uid: goteo-crowdfunding-sustainability
-interviewee: ESBEC, Foodcoop y Stop Agroparc
+interviewee: ESBEC 37, Foodcoop y Stop Agroparc
 cover:
   path: /media/articles/heroes/1-475v3ltpovffmasardleqa.png
   mobile: /assets/media/no_image-hero.png
