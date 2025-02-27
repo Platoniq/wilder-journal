@@ -10,7 +10,7 @@ uid: Democracy-Time
 cover:
   path: /media/articles/heroes/20230610_deep_time.jpg
   mobile: /media/articles/mobile/20230610_deep_time.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/20230610_deep_time.jpg
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

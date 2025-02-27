@@ -18,7 +18,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/20230610_deep_time.jpg
   mobile: /media/articles/mobile/20230610_deep_time.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/20230610_deep_time.jpg
   alt: Esepe, Deep Time, 2023
   credits: Esepe, Deep Time, 2023
   caption: Esepe, Deep Time, 2023
