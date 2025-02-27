@@ -84,9 +84,21 @@ Estos hallazgos han inspirado una investigación más profunda que propone repen
 
 Esta línea de investigación ha sido aceptada para su presentación en la próxima conferencia de la ECPR bajo el título "Temporal Equity in Participatory Democracy: Rethinking Deliberative Processes for Inclusive Engagement".
 
-## Participa de la Encuesta sobre Tiempo Profundo y Participación Ciudadana
 
-Aún estás a tiempo de dar tu opinión, tanto si trabajas en una institución pública como si perteneces a la sociedad civil, aquí puedes participar de esta investigación:
+
+Informe de recomendaciones
+
+{% file { "title": "prueba 1", "info": "prueba 2", "file": "/media/asamblea-irlanda_report.pdf", "image": "/assets/media/no_image-file.png", "button_text": "prueba 3", "button_icon": "icon-download", "alt_color": true } %}
+
+
+
+
+
+
+
+## ¡Aún estás a tiempo de dar tu opinión! Participa de la Encuesta sobre Tiempo Profundo y Participación Ciudadana
+
+, tanto si trabajas en una institución pública como si perteneces a la sociedad civil, aquí puedes participar de esta investigación:
 
 Encuesta Ciudadana sobre Tiempo y Participación Ciudadana ([link](https://openspaces.platoniq.net/conferences/FDCD/f/443/)) 
 
