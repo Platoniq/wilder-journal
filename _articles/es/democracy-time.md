@@ -86,7 +86,7 @@ Esta línea de investigación ha sido aceptada para su presentación en la próx
 
 
 
-Informe de recomendaciones
+# Informe de recomendaciones
 
 {% file { "title": "prueba 1", "info": "prueba 2", "file": "/media/asamblea-irlanda_report.pdf", "image": "/assets/media/no_image-file.png", "button_text": "prueba 3", "button_icon": "icon-download", "alt_color": true } %}
 
