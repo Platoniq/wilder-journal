@@ -9,7 +9,7 @@ article-order: 18
 uid: Democracy-Time
 cover:
   path: /media/articles/heroes/20230610_deep_time.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/20230610_deep_time.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
 stickers:
   layout: layout-none
