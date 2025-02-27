@@ -32,7 +32,7 @@ image:
 ---
 Hace falta empezar a medir el tiempo que usamos para hacer las cosas. Distinguir entre tiempo de calidad y tiempo funcional y tiempo de ocio es esencial para conseguir establecer medidas que permitan ampliar el tiempo de la democracia, que no es otro que el de la deliberación y participación. En adelante, presentamos los resultados de la investigación sobre **Tiempo Profundo y Participación Ciudadana,** basándonos en el trabajo realizado por Eurostat en HETUS (Harmonised European time use surveys), donde se busca comprender como usan el tiempo en relación con la práctica democrática, tanto la ciudadanía como los trabajadores públicos.
 
-## **Estado del arte en materia de Tiempo Profundo y Participación Ciudadana**
+# **Estado del arte en materia de Tiempo Profundo y Participación Ciudadana**
 
 **Percepción del Tiempo: Un Desafío Contemporáneo**
 
