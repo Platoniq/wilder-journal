@@ -96,4 +96,4 @@ Encuesta Ciudadana sobre Tiempo y Participación Ciudadana ([link](https://opens
 
 *\----*
 
-*Esta investigación cuenta con la ayuda del Ayuntamiento de Barcelona*
+*Esta investigación cuenta con el apoyo del Ayuntamiento de Barcelona y la Open Society Foundations*
