@@ -32,7 +32,7 @@ image:
 ---
 Hace falta empezar a medir el tiempo que usamos para hacer las cosas. Distinguir entre tiempo de calidad y tiempo funcional y tiempo de ocio es esencial para conseguir establecer medidas que permitan ampliar el tiempo de la democracia, que no es otro que el de la deliberación y participación. En adelante, presentamos los resultados de la investigación sobre **Tiempo Profundo y Participación Ciudadana,** basándonos en el trabajo realizado por Eurostat en HETUS (Harmonised European time use surveys), donde se busca comprender como usan el tiempo en relación con la práctica democrática, tanto la ciudadanía como los trabajadores públicos.
 
-# **Estado del arte en materia de Tiempo Profundo y Participación Ciudadana**
+## **Estado del arte en materia de Tiempo Profundo y Participación Ciudadana**
 
 **Percepción del Tiempo: Un Desafío Contemporáneo**
 
@@ -74,7 +74,7 @@ La encuesta sugiere una revisión profunda de cómo medimos y conceptualizamos e
 
 Emerge una visión del tiempo como ritmo, ilustrada por prácticas comunitarias que buscan restaurar el equilibrio personal a través de actividades colectivas, como el ejemplo senegalés mencionado en la encuesta.
 
-## Conclusiones
+## **Conclusiones**
 
 Los resultados de nuestra encuesta sobre Tiempo y Participación Ciudadana han revelado la necesidad crítica de examinar cómo el concepto de tiempo influye en la democracia participativa y deliberativa desde una perspectiva interseccional.
 
@@ -84,19 +84,11 @@ Estos hallazgos han inspirado una investigación más profunda que propone repen
 
 Esta línea de investigación ha sido aceptada para su presentación en la próxima conferencia de la ECPR bajo el título "Temporal Equity in Participatory Democracy: Rethinking Deliberative Processes for Inclusive Engagement".
 
-
-
-# Informe de recomendaciones
+## **Informe de recomendaciones**
 
 {% file { "title": "prueba 1", "info": "prueba 2", "file": "https://drive.google.com/file/d/1XLOlD0GqA28G_1fpY-QoJ-JmeAniK_DF/view?usp=drive_link", "image": "/assets/media/no_image-file.png", "button_text": "prueba 3", "button_icon": "icon-download", "alt_color": true } %}
 
-
-
-
-
-
-
-## ¡Aún estás a tiempo de dar tu opinión! Participa de la Encuesta sobre Tiempo Profundo y Participación Ciudadana
+## **¡Aún estás a tiempo de dar tu opinión! Participa de la Encuesta sobre Tiempo Profundo y Participación Ciudadana**
 
 , tanto si trabajas en una institución pública como si perteneces a la sociedad civil, aquí puedes participar de esta investigación:
 
