@@ -91,9 +91,9 @@ Como complemento, se trabajó con las participantes en la identificación de las
 
 La pieza documental de todo el proceso se ha alojado en La Guixeta, plataforma tecnoètica de compartición de contenidos audiovisuales, dentro de la categoría [Diálogos Migrantes](https://peertube.laguixeta.cat/w/d7x4g4CNhaUEyDWV6zZCrp)
 
-<iframe title="Diàlegs Migrants: Racisme Immobiliari (Cas d'estudi)" width="560" height="315" src="https://peertube.laguixeta.cat/videos/embed/621743fe-a352-40bd-8a7a-0d57e352dc29" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+<iframe title="Diàlegs Migrants: Racisme Immobiliari (Cas d'estudi)" width="560" height="315" src="https://videos.laguixeta.cat/videos/embed/045e3d18-abb1-4850-b643-ced95ff3836d" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
-## Presentación de las conclusiones y próximos pasos 
+## Presentación de las conclusiones y próximos pasos
 
 Entre los días 15 y 18 de octubre tendrá lugar en Barcelona [el Foro de Deliberación, Creatividad y Democracia.](https://openspaces.platoniq.net/conferences/FDCD) Durante el encuentro anual de la red Delib, la red de profesionales de la deliberación de la península ibérica, Platoniq presentará, junto a Quim Brugué, las conclusiones del proyecto, en conexión con las ideas de discriminación positiva y deliberación en enclaves a través del ejemplo de otros proyectos como el ya citado, [“Discriminación en el acceso a la vivienda. De qué hablamos y cómo combatirla”](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5), Olot, 2021.
 

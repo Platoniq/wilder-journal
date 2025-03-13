@@ -19,6 +19,9 @@ cover:
   alt: Esepe, 2023
   credits: Esepe, 2023
   caption: Esepe, 2023
+related_article_uids:
+  - reclaiming-participatory-governance
+  - dialogos-migrantes
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -83,7 +86,7 @@ Some of the references that the participants shared to explain the violence they
 
 The documentary piece of the whole process has been hosted in La Guixeta, a techno-technological platform for sharing audiovisual content, within the category Migrant Dialogues.
 
-<iframe title="Diàlegs Migrants: Racisme Immobiliari (Cas d'estudi)" width="560" height="315" src="https://peertube.laguixeta.cat/videos/embed/621743fe-a352-40bd-8a7a-0d57e352dc29" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+<iframe title="Diàlegs Migrants: Racisme Immobiliari (Cas d'estudi)" width="560" height="315" src="https://videos.laguixeta.cat/videos/embed/045e3d18-abb1-4850-b643-ced95ff3836d" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 # Presentation of the conclusions and next steps
 
