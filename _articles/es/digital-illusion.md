@@ -42,9 +42,9 @@ En este contexto, hubo un momento de claridad absoluta, un instante donde las di
 
 La imagen más impactante del retiro fue captada por la fotoperiodista **Victoria Rovira**, que documentó las devastadoras inundaciones de Valencia con una profundidad y sensibilidad sin parangón.
 
-{% gallery { "simple": true, "images": [{"path":"/media/victoria-rovira_aldaia_2024.jpeg","caption":"Inundaciones en Valencia (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/victoria-rovira_aldaia_2024.jpeg","caption":"Inundaciones en Valencia (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
 
-Hay momentos en los que una imagen se convierte en algo más que un simple registro de un evento: se convierte en una marca en el cuerpo, en un peso afectivo que persiste mucho después de verla por primera vez.
+Hay momentos en los que una imagen se convierte en algo más que un simple registro de un evento: se convierte en una marca en el cuerpo, en un peso afectivo que persiste mucho después de verla por primera vez. 
 
 En la charla de Marta Poblet *"Nuevos Modelos de Participación Digital y Gobernanza de Datos"*, apareció esta imagen. Tomada tras las inundaciones de la DANA en Valencia en 2024, muestra el interior de una residencia de ancianos, un espacio de cuidado para personas mayores. La línea de lodo—gruesa, oscura e implacable—supera la altura de una persona en silla de ruedas.
 
