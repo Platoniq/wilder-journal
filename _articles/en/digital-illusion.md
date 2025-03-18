@@ -11,6 +11,8 @@ cover:
   path: /media/articles/heroes/victoria-rovira_aldaia_2024.jpeg
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - decisionmaking-unnaming-deliberative
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
