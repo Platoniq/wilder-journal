@@ -8,8 +8,8 @@ date-updated: 2024-09-26T09:00:00.000Z
 article-order: 1
 uid: decisionmaking-unnaming-deliberative
 title: La Reunión en los Campos Estrellados
-description: Un Ejercicio de Desnombramiento para Imaginar Nuevas Formas de Toma
-  de Decisiones
+description: Un ejercicio de desnombramiento para imaginar nuevas formas de toma
+  de decisiones
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
