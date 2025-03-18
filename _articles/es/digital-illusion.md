@@ -14,7 +14,7 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/victoria-rovira_aldaia_2024.jpeg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/victoria-rovira_aldaia_2024.jpeg
   thumbnail: /media/articles/thumbnails/victoria-rovira_aldaia_2024.jpeg
   alt: Valencia’s Floods (Aldaia, 4 Nov 2024), Photo by Victoria Rovira Casanovas
     (permission granted by author)
