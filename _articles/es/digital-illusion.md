@@ -38,9 +38,11 @@ Más allá de los conceptos y herramientas, el retiro nos llevó a interrogar la
 
 En este contexto, hubo un momento de claridad absoluta, un instante donde las discusiones sobre democracia participativa, gobernanza de datos e inclusión se condensaron en una sola imagen.
 
-**La imagen más poderosa del retiro es de la fotoperiodista Victoria Rovira, que cubrió las riadas de Valencia captando como nadie el desastre que se produjo:**
+### **Un momento de reconocimiento**
 
-{% gallery { "simple": false, "images": [{"path":"/media/victoria-rovira_aldaia_2024.jpeg","caption":"Valencia’s Floods (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
+La imagen más impactante del retiro fue captada por la fotoperiodista **Victoria Rovira**, que documentó las devastadoras inundaciones de Valencia con una profundidad y sensibilidad sin parangón.
+
+{% gallery { "simple": false, "images": [{"path":"/media/victoria-rovira_aldaia_2024.jpeg","caption":"Inundaciones en Valencia (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
 
 Hay momentos en los que una imagen se convierte en algo más que un simple registro de un evento: se convierte en una marca en el cuerpo, en un peso afectivo que persiste mucho después de verla por primera vez.
 
@@ -91,6 +93,6 @@ Una exigencia por una democracia que no abandona.
 Por unos comunes que realmente sostienen.
 Por un compromiso con el conocimiento afectivo como un eje central—y no periférico—de nuestro trabajo.
 
-Nota:
+**Nota:**
 
 *Marta Poblet, Stefaan Verhulst y Anna Colom, han profundizado en esta imagen en un reciente artículo en The Data Tank, donde analizan cómo los datos pueden convertirse en señales de emergencia, impulsar respuestas solidarias y reforzar mecanismos de gobernanza en situaciones de desastre. Su reflexión destaca la importancia de la gestión de datos como un acto de cuidado colectivo y señala la urgencia de estructuras participativas que no solo recopilen información, sino que activen respuestas eficaces y equitativas. Puedes leer el artículo completo aquí*:[ Access, Signal, Action: Data Stewardship Lessons from Valencia’s Floods](https://medium.com/@TheDataTank/access-signal-action-data-stewardship-lessons-from-valencias-floods-533d89162b39).
