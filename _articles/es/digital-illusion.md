@@ -15,7 +15,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/victoria-rovira_aldaia_2024.jpeg
   mobile: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/victoria-rovira_aldaia_2024.jpeg
   alt: Valencia’s Floods (Aldaia, 4 Nov 2024), Photo by Victoria Rovira Casanovas
     (permission granted by author)
   credits: Valencia’s Floods (Aldaia, 4 Nov 2024), Photo by Victoria Rovira
