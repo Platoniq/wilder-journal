@@ -39,7 +39,7 @@ In this context, there was a moment of absolute clarity, where discussions on pa
 
 The most powerful image of the retreat was captured by photojournalist **Victoria Rovira**, who documented the devastating floods in Valencia with unparalleled depth and sensitivity.
 
-{% gallery { "simple": false, "images": [{"path":"/media/victoria-rovira_aldaia_2024.jpeg","caption":"Valencia's Floods (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/victoria-rovira_aldaia_2024.png","caption":"Valencia's Floods (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
 
 There are moments when an image transcends mere documentation, imprinting itself on the body, carrying an affective weight that lingers long after the first viewing.
 
@@ -90,4 +90,4 @@ A demand for a democracy that does not abandon. For a commons that truly sustain
 
 **Note:**
 
-*Marta Poblet, Stefaan Verhulst, and Anna Colom have explored this image in greater depth in a recent article for The Data Tank, analysing how data can serve as emergency signals, mobilise solidarity responses, and reinforce governance mechanisms in disaster contexts. Their reflection underscores the importance of data management as an act of collective care and highlights the urgency of participatory structures that not only gather information but also activate effective and equitable responses. You can read the full article here: **[Access, Signal, Action: Data Stewardship Lessons from Valencia’s Floods.](https://medium.com/@TheDataTank/access-signal-action-data-stewardship-lessons-from-valencias-floods-533d89162b39)***
+\*Marta Poblet, Stefaan Verhulst, and Anna Colom have explored this image in greater depth in a recent article for The Data Tank, analysing how data can serve as emergency signals, mobilise solidarity responses, and reinforce governance mechanisms in disaster contexts. Their reflection underscores the importance of data management as an act of collective care and highlights the urgency of participatory structures that not only gather information but also activate effective and equitable responses. You can read the full article here: **[Access, Signal, Action: Data Stewardship Lessons from Valencia’s Floods.](https://medium.com/@TheDataTank/access-signal-action-data-stewardship-lessons-from-valencias-floods-533d89162b39)***
