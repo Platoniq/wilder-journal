@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/victoria-rovira_aldaia_2024.jpeg
 ---
 During the **Commons Convergence Retreat**, co-organised by the **Convergence of Commoners** group—led by **David Bollier**, Director of the *Reinventing the Commons Programme* at the **Schumacher Centre for a New Economics**—and the **Platoniq Foundation**, in collaboration with the **INSPIRE project**, we came together to explore the possibilities and challenges of the digital commons, data democracy, and creative activism. Through debates, experimental methodologies, and collective reflections, we sought to rethink digital participation and its impacts on our communities.
 
