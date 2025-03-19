@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-03-19T09:49:00.000Z
 date-updated: 2025-03-19T09:49:00.000Z
-article-order: 2
+article-order: 5
 uid: Participatory-procurement-design-AI
 title: Asociaciones participativas y diseño de inteligencia artificial
 description: "En la última década, hemos asistido a un aumento de las
