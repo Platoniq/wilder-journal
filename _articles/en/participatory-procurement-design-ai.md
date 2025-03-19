@@ -21,6 +21,8 @@ cover:
   alt: Esepe, New Friends, 2023
   credits: Esepe, New Friends, 2023
   caption: Esepe, New Friends, 2023
+related_article_uids:
+  - david-cabo
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -34,6 +36,8 @@ We currently live in a reality where computers and algorithms decide which patie
 Building off of the work of the AI procurement primer by NYU, Platoniq and Civio facilitated a workshop to try to start asking how we might create more transparent processes for AI procurement and design, using frameworks for participation and governance such as Decidim.
 
 Approaching procurement and design often takes place through a closed technical or legal process. The workshop aimed to start a conversation and begin developing ideas on how to open up public AI governance and support safety, transparency, and public participation for the services and tools that affect regular peoples’ everyday lives.
+
+{% gallery { "simple": false, "images": [{"path":"/media/photo_2025-03-19_11-38-13.jpg","caption":"Nadia Nadesan during the workshop","credits":"Decidim Fest, 2023","alt":"Nadia Nadesan during the workshop at Decidim Fest, 2023"}] } %}
 
 In the past decade, we have seen an increase in the initiatives related to the growth and development of AI, and so has government design and acquisition of AI systems. In Barcelona, some examples of AI in the city are:
 
@@ -95,7 +99,6 @@ It should also be noted that in the case of the support scheme, the application 
 
 RisCanvi is an AI system developed to calculate the risk of future violent behaviour of incarcerated individuals. It was originally developed for violent offenders charged with death or serious bodily injury. However, it has since been expanded and RisCanvi is used to identify if a person is low or high risk for reoffending which then informs how their case is treated by the state. 
 
-
 Within Catalan prisons and throughout Spain, inmates are monitored and evaluated by the Treatment board which includes social workers, lawyers, psychologists, etc. that review an incarcerated person’s progress. Before RisCanvi the assessment of whether a person would reoffend was made with clinicians. Now, the Treatment Board’s observations are aggregated into a checklist of 43 risk factors taking into account gender, age, presentation of antisocial behaviour, length of their sentence, mental health, family visits, history of family relationships, engagement in leisure activities etc. These risk factors are then analyzed with RisCanvi which then predicts if an incarcerated person will reoffend. A study by Bikolabs shows that 9 out of 10 officials affirm the decision made by RisCanvi. However, is this a sign of the system’s success or a cause of concern? A recent[ study concludes](https://riscanvi.bikolabs.io/no-interactive) that RisCanvi can detect 8 out of 10 prisoners who re-offend, however, 2 are false negatives. Moreover, when looking at the capacity of Riscanvi to identify those who will not re-offend, it showed that 4 out of 10 times non-repeat offenders are incorrectly identified as high risk.
 
 So, what defines whether this system is successful? Is it the trust of the officials who use it? Is it its widespread implementation? Or how does it measure up in terms of accuracy and specificity? Part of creating more participatory governance in AI is to collectively define what makes a public service or good successful. Is it possible to incorporate the voices of those most affected by AI in its design and implementation?
@@ -122,3 +125,7 @@ As AI systems become increasingly integrated into public services, there is a cr
 The workshop, facilitated by Platoniq and Civio, focused on exploring ways to create more transparent AI procurement and design processes by leveraging frameworks like Decidim, a platform designed for participatory governance.
 
 The goal of the workshop was to plant the seeds for what raising awareness and participatory AI governance could look like in practice. It encouraged open discussion among experts, residents, civil society, and interested individuals to advocate for a more democratic governance model where citizens, researchers, and civil society collaborate to shape how AI tools are designed and used in public services. Ultimately, working within the Decidim community allowed us to exercise the notion of creating open and accessible avenues for public engagement in AI governance, moving away from the closed, technical processes that currently dominate AI implementation in governments.
+
+**Note:**
+
+*The workshop, facilitated by Platoniq and Civio, took place at Decidim Fest 2023. Participation in Decidim Fest played a crucial role in initiating conversations about transparency and accountability in AI governance.*
