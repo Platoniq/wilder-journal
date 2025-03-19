@@ -18,7 +18,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/20230501a_new_friends.jpg
   mobile: /media/articles/mobile/20230501a_new_friends.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/20230501a_new_friends.jpg
   alt: Esepe, New Friends, 2023
   credits: Esepe, New Friends, 2023
   caption: Esepe, New Friends, 2023
