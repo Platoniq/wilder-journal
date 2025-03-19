@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-01-09T11:46:41.638Z
 date-updated: 2024-01-09T11:46:41.669Z
-article-order: 2
+article-order: 4
 uid: revolutionmindset
 title: "Mindset Revolution: Entornos Digitales para el Cuidado y la Democracia"
 description: Redefiniendo las Políticas de Salud Mental a través de la Voz de los Jóvenes

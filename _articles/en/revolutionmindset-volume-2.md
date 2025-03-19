@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-01-09T11:46:41.638Z
 date-updated: 2024-01-09T11:46:41.669Z
-article-order: 2
+article-order: 4
 uid: revolutionmindset
 title: "Mindset Revolution: Digital Environments for Care and Democracy"
 description: Redefining Mental Health Policies through the Voice of Youth
@@ -22,6 +22,7 @@ cover:
 related_article_uids:
   - katy-rubin
   - were_open
+  - late_legislation
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
