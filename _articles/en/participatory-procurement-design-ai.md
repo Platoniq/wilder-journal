@@ -16,7 +16,7 @@ author_uids:
   - nadia-nadesan
 cover:
   path: /media/articles/heroes/20230501a_new_friends.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/20230501a_new_friends.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Esepe, New Friends, 2023
   credits: Esepe, New Friends, 2023

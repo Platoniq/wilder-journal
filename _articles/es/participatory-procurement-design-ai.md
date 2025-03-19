@@ -7,7 +7,7 @@ date: 2025-03-19T09:49:00.000Z
 date-updated: 2025-03-19T09:49:00.000Z
 article-order: 2
 uid: Participatory-procurement-design-AI
-title: Asociaciones participativas y diseño de inteligencia artificial
+title: Contratación pública participativa y diseño de la inteligencia artificial
 description: "En la última década, hemos asistido a un aumento de las
   iniciativas relacionadas con el crecimiento y el desarrollo de la IA, y lo
   mismo ha ocurrido con el diseño y la adquisición de sistemas de IA por parte
@@ -17,7 +17,7 @@ author_uids:
   - nadia-nadesan
 cover:
   path: /media/articles/heroes/20230501a_new_friends.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/20230501a_new_friends.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Esepe, New Friends, 2023
   credits: Esepe, New Friends, 2023
