@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/20230501a_new_friends.jpg
 ---
 Actualmente vivimos en una realidad en la que ordenadores y algoritmos deciden qué pacientes están en una lista de cirugía prioritaria en un hospital público, detectan el fraude entre las personas que cobran prestaciones o ayudas públicas y determinan la gravedad de un incidente de violencia doméstica. Estos servicios se desarrollan e implementan a través de nuestros gobiernos con poca o ninguna transparencia sobre cómo, cuándo o por qué los ordenadores y algoritmos están tomando estas decisiones.
 

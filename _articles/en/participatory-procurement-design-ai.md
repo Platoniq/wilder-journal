@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/20230501a_new_friends.jpg
 ---
 We currently live in a reality where computers and algorithms decide which patients are on a list for priority surgery in a public hospital, flag fraud amongst people collecting public benefits or welfare and determine the severity of a domestic violence incident. These services are developed and implemented through our governments with little or no transparency about how, when, or why computers and algorithms are making these decisions.
 
