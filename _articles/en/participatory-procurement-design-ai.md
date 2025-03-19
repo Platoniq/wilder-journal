@@ -47,7 +47,7 @@ In the past decade, we have seen an increase in the initiatives related to the g
 
 While these examples are cited publicly, research by civil society organizations highlighted even more cases that use social scoring such as Viogen, Bosco, or RiisCanvi.
 
-### **A Need for Criticality in Public AI Design and Procurement**
+## **A Need for Criticality in Public AI Design and Procurement**
 
 {% quote { "author": "Mark Headd" } %}The great truism that underlies the civic technology movement of the last several years is that governments face difficulty implementing technology, and they generally manage IT assets and projects very poorly.{% endquote %}
 
@@ -61,7 +61,7 @@ Often the case was that applicants (i.e. caregivers, guardians, and parents) mad
 
 Tens of thousands of families were affected by false accusations. The Dutch childcare benefits controversy emerged in 2018 and remains a significant political issue in the Netherlands today. This scandal ultimately resulted in the resignation of the Dutch Cabinet in 2021.
 
-## **Scoring the Unemployed in Austria**
+### **Scoring the Unemployed in Austria**
 
 The Austrian employment agency, known as AMS (Arbeitsmarktservice), is a government body responsible for assisting job seekers. In 2016, AMS initiated a program to assess a person’s employment prospects within the labour market.
 
@@ -93,7 +93,7 @@ The recent surge in electricity prices has exacerbated energy poverty, affecting
 
 It should also be noted that in the case of the support scheme, the application was entirely developed by the Ministry of Ecological Transition and not by a third party.
 
-## **RisCanvi**
+### **RisCanvi**
 
 {% gallery { "simple": true, "images": [{"path":"/media/riscanvi.png_1631363649.png"}] } %}
 
@@ -118,7 +118,7 @@ Additionally, municipal strategies, like the one implemented in Barcelona, under
 In Europe, specific initiatives such as AI registers exist to make the types of AI services and tools being implemented in the city more visible. For example, Barcelona is part of the Cities for Digital Rights initiative and has planned to create an AI register, a commission for promoting ethical AI in Barcelona City Council, an advisory council of experts in AI, and launch a citizen-participation body. 
 However, there is often a lack of oversight in which automated decision-making systems are used to cite the city's use of AI and which are left to civil society to investigate.
 
-## Conclusion
+## **Conclusion**
 
 As AI systems become increasingly integrated into public services, there is a critical need for transparent and accountable governance. Recent cases, such as the Dutch childcare benefits scandal and Austria's employment scoring system, highlight the potential harm when AI systems lack oversight and transparency. These systems often operate as "black boxes," leaving affected individuals without recourse to challenge errors or biases. As public services rely more on AI, it is essential to implement robust governance frameworks that include civil society participation, independent audits, and clear pathways for accountability to prevent the perpetuation of inequalities and restore public trust in government institutions.
 

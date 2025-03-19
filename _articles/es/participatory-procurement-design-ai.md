@@ -48,7 +48,7 @@ En la última década, hemos asistido a un aumento de las iniciativas relacionad
 
 Aunque estos ejemplos se citan públicamente, la investigación realizada por organizaciones de la sociedad civil puso de relieve aún más casos que utilizan la puntuación social, como Viogen, Bosco o RiisCanvi.
 
-### **Necesidad de critica en el diseño y la contratación pública de la Inteligencia Artificial**
+## **Necesidad de critica en el diseño y la contratación pública de la Inteligencia Artificial**
 
 {% quote { "author": "Mark Headd" } %}La gran verdad que subyace en el movimiento de tecnología cívica de los últimos años es que los gobiernos tienen dificultades para implantar la tecnología y, por lo general, gestionan muy mal los activos y proyectos informáticos.{% endquote %}
 
