@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-03-19T09:49:00.000Z
 date-updated: 2025-03-19T09:49:00.000Z
-article-order: 3
+article-order: 2
 uid: Participatory-procurement-design-AI
 title: Participatory Procurement and Design of AI
 description: "In the past decade, we have seen an increase in the initiatives
