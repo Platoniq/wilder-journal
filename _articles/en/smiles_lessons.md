@@ -42,7 +42,7 @@ Moreover, how to do so with people who are developing their skills to critically
 
 As a result of the residency at the Canodrome, an athenaeum for digital and democratic innovation, and with the support of the Barcelona City Council, the Platoniq Foundation has developed in exhibition format the results of the media literacy project [SMILES](https://smiles.platoniq.net/) (Youth against disinformation), which brings together entities from the Netherlands, Spain and Belgium including libraries, media literacy organizations and research institutes, with the aim of developing, testing and monitoring the effectiveness of an innovative educational approach to combat the spread of disinformation.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2024-02-15-a-las-16.21.02.png","alt":"\"Ciutat de la Desinform","caption":"\"Ciutat de la Desinformació\", 2023","credits":"\"Ciutat de la Desinformació\", 2023"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2024-02-15-a-las-16.21.02.png","alt":"","caption":"","credits":""}] } %}
 
 Designed to be visited by schools and high schools, the exhibition is designed to help everyone understand the mechanism that operates behind the false news and help to identify them based on the emotion they generate. An element, this one of the emotions, which allows students to connect with the subject immediately. 
 
