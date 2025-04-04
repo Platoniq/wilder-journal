@@ -40,7 +40,9 @@ Sabemos que **la juventud participa continuamente en procesos políticos**, aunq
 
 ## Por eso lanzamos la Escuela de Creatividad y Democracia
 
-Presentamos la **[Escuela de Creatividad y Democracia](https://www.democraciacreativa.org/)**, un itinerario formativo para preparar a los nuevos profesionales de la deliberación en la **elaboración participativa de políticas públicas**, teniendo en cuenta el **cuidado interseccional** y apoyándose en **metodologías inspiradas en las artes escénicas y visuales.** 
+¿De qué se trata? 
+
+La **[Escuela de Creatividad y Democracia](https://www.democraciacreativa.org/)** propone un itinerario formativo para preparar a los nuevos profesionales de la deliberación en la **elaboración participativa de políticas públicas**, teniendo en cuenta el **cuidado interseccional** y apoyándose en **metodologías inspiradas en las artes escénicas y visuales.** 
 
 En la [Escuela](https://www.democraciacreativa.org/), apostamos por **incorporar metodologías creativas al derecho de los ciudadanos a la participación política**, para dotar de nuevas herramientas a la juventud a la hora de decidir sobre su futuro.
 
