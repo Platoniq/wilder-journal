@@ -38,11 +38,13 @@ En un contexto de desafección, polarización y desinformación generalizada, ha
 
 Sabemos que **la juventud participa continuamente en procesos políticos**, aunque de formas diferentes y nuevas: firma de peticiones, consumo consciente, graffiti, con sus declaraciones en redes, así como mediante flash mobs y actuaciones callejeras, protestas o manifestaciones.
 
-## Pero, ¿cómo cubrimos la distancia entre la calle y las instituciones?
+## Por eso lanzamos la Escuela de Creatividad y Democracia
 
-Presentamos la **Escuela de Creatividad y Democracia**, un itinerario formativo para preparar a los nuevos profesionales de la deliberación en la **elaboración participativa de políticas públicas**, teniendo en cuenta el **cuidado interseccional** y apoyándose en **metodologías inspiradas en las artes escénicas y visuales.** 
+Presentamos la **[Escuela de Creatividad y Democracia](https://www.democraciacreativa.org/)**, un itinerario formativo para preparar a los nuevos profesionales de la deliberación en la **elaboración participativa de políticas públicas**, teniendo en cuenta el **cuidado interseccional** y apoyándose en **metodologías inspiradas en las artes escénicas y visuales.** 
 
-En la Escuela, apostamos por **incorporar metodologías creativas al derecho de los ciudadanos a la participación política**, para dotar de nuevas herramientas a la juventud a la hora de decidir sobre su futuro.
+En la [Escuela](https://www.democraciacreativa.org/), apostamos por **incorporar metodologías creativas al derecho de los ciudadanos a la participación política**, para dotar de nuevas herramientas a la juventud a la hora de decidir sobre su futuro.
+
+[¡Inscríbete!](https://openspaces.platoniq.net/assemblies/alumni/f/471/)
 
 ![Mindset Revolution](/media/idea_camp_2017_iv_0002.jpg "MR")
 
@@ -54,15 +56,22 @@ Si entendemos la participación como el indicador que nos muestra **la salud dem
 
 {% quote { "author": "Sonia Bussu" } %}Partimos de la base de que, si comprendemos el contexto local, nos damos tiempo para establecer relaciones de confianza con los agentes locales y utilizamos el proceso participativo para apoyar la acción de las bases y las agendas políticas existentes, podremos contribuir a integrar la elaboración de políticas participativas.{% endquote %}
 
-En este sentido, la Escuela propone varios **módulos comunes** de conocimiento y otros de **especialización**, además de prácticas, ensayos y prototipados. 
+En este sentido, la [Escuela ](https://www.democraciacreativa.org/)propone varios **módulos comunes** de conocimiento y otros de **especialización**, además de prácticas, ensayos y prototipados. 
 
 En los módulos comunes aprenderemos a explorar las cuestiones sociales que a todos nos afectan, conoceremos las formas de participación existentes y las que están por llegar, y sabremos manejar el modo en que somos capaces de **tomar decisiones colectivas.** 
 
-A partir de ahí, **cuatro itinerarios especializados**: la facilitación, la participación digital, la investigación creativa y la incidencia ciudadana, cuatro ámbitos profesionales capaces de activar el potencial colectivo de una sociedad en forma de procesos participativos.
+A partir de ahí, **cuatro itinerarios especializados**: 
+
+* la facilitación, 
+* la participación digital, 
+* la investigación creativa y 
+* la incidencia ciudadana, 
+
+cuatro ámbitos profesionales capaces de activar el potencial colectivo de una sociedad en forma de procesos participativos.
 
 ## Metodologías disruptivas
 
-La Escuela, a través de nuevas formas creativas de pensar, propone:
+La [Escuela](https://www.democraciacreativa.org/), a través de nuevas formas creativas de pensar, propone:
 
 * aprender a **facilitar** procesos de forma segura, mediante técnicas del teatro legislativo, que respeten la ética interseccional.
 * entender cómo es posible **traducir** al formato audiovisualun proceso participativo (y como activarlo a través de su lenguaje)
@@ -73,7 +82,7 @@ Todo ello a través de metodologías disruptivas, como el** [teatro legislativo]
 
 ## Procesos abiertos y por abrir
 
-Toda la estrategia formativa de la Escuela está concebida para ser aplicada y, en este sentido, son varios los procesos que la Escuela pone a disposición de la comunidad. 
+Toda la estrategia formativa de la [Escuela](https://www.democraciacreativa.org/) está concebida para ser aplicada y, en este sentido, son varios los procesos que la Escuela pone a disposición de la comunidad. 
 
 Además de una serie de acuerdos con instituciones y entidades públicas que permita a las participantes **implicarse en procesos institucionales activos**, como la Convención Ciudadana de la Vivienda o la Estrategia por una Sociedad Longeva y una Vida Llena, de la Generalitat de Catalunya.
 
@@ -95,7 +104,7 @@ Asimismo, la Escuela pondrá a disposición **una plataforma digital de particip
 
 ## ¿A qué aspiramos?
 
-La Escuela aspira a ser un puente con las organizaciones e instituciones vinculadas a la participación y una oportunidad para integrarse en ellas y, con ello, transformarlas. 
+La [Escuela](https://www.democraciacreativa.org/) aspira a ser un puente con las organizaciones e instituciones vinculadas a la participación y una oportunidad para integrarse en ellas y, con ello, transformarlas. 
 
 Desde **la facilitación:** formar parte de una nueva generación de personas facilitadoras de diálogo, capaces de manejar las complejidades del debate público, que aspiren a la despolarización y sean capaces de crear espacios seguros.
 
@@ -109,22 +118,10 @@ Y desde la **incidencia ciudadana:** ciudadanos dipuestos a apoyar o iniciar cam
 
 ## Una comunidad en movimiento
 
-En definitiva, **una comunidad en movimiento** que, a través de la investigación y la práctica, aporta nuevas experiencias políticas de emancipación personal y colectiva, ofreciendo una nueva forma de sentir la democracia.
+En definitiva, **[una comunidad en movimiento](https://www.democraciacreativa.org/)** que, a través de la investigación y la práctica, aporta nuevas experiencias políticas de emancipación personal y colectiva, ofreciendo una nueva forma de sentir la democracia.
 
-## Primeros pasos 
-
-Como primera actividad de la Escuela, hemos diseñado, en colaboración con la Universidad de Birmingham y junto a un equipo de jóvenes de Manchester tres seminarios web que llevan por título: **Potenciar la voz de los jóvenes en la política a través de las artes, la participación digital y el teatro legislativo**
-
-Esta serie de seminarios web está diseñada para dotar a los jóvenes, a los trabajadores juveniles y a los educadores de las herramientas y habilidades necesarias para afrontar estos retos, participar activamente en la formulación de políticas y asegurarse de que sus voces sean escuchadas. Mediante la combinación de métodos creativos como el teatro, el arte y el activismo digital, pretendemos reforzar la participación democrática de todos los jóvenes, especialmente de los más vulnerables.
+Si quieres aprender las técnicas más innovadoras de expresión política y formarás parte de una comunidad dispuesta a transformar el mundo, [inscríbete.](https://openspaces.platoniq.net/assemblies/alumni/f/471/)
 
 
 
-**21 de Noviembre:** Activismo interseccional: El uso de herramientas 
-digitales para abordar la vivienda, el clima, la salud mental y los 
-derechos humanos ([APÚNTATE](https://openspaces.platoniq.net/processes/prelanzamiento/f/429/meetings/215))
-
-**27 de Noviembre:** Métodos creativos para recuperar la voz de los jóvenes en la investigación y la evaluación ([APÚNTATE](<>))
-
-**28 de Noviembre:** El poder transformador del teatro legislativo ([APÚNTATE](https://openspaces.platoniq.net/processes/prelanzamiento/f/429/meetings/214))
-
-Este conjunto de webinars están financiados por: ALDA (European Association for Local Democracy) y Open Society Foundations.
+*Un proyecto realizado gracias a la ayuda de la Open Society Foundations.*
