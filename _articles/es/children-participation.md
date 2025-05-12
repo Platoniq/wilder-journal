@@ -54,7 +54,7 @@ Por último, hay una falta de creatividad y confianza para hacer que estos proce
 
 Cada vez es mayor la apatía de los niños y jóvenes hacia el sistema político. Podría deberse en parte a que no ven el impacto real de sus contribuciones. Por eso es tan importante recordar a los niños que sus contribuciones importan y explicarles los resultados. Es responsabilidad de los titulares de deberes y de los responsables de la toma de decisiones asegurarse de que les proporcionan esa información.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.28.35.png","alt":"Calendario de Actividades sobre Biodiversidad","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.28.35.png","alt":"Calendario de Actividades sobre Biodiversidad (Materiales)","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
 **Has mencionado que la falta de creatividad es un obstáculo a la hora de trabajar con niños. Según su experiencia, ¿qué recursos o métodos creativos ha utilizado para animar a los niños a participar? ¿Puede compartir algunos formatos que le hayan funcionado?**
 
@@ -81,6 +81,8 @@ Creo que este modelo se presta bien a ayudar a los niños a comprender las opini
 Además, las asambleas de ciudadanos ayudan a los niños a desarrollar habilidades tangibles como la capacidad de deliberar, pensar de forma crítica, desarrollar soluciones basadas en diversas fuentes, evitar la desinformación y evaluar los pros y los contras de diferentes cuestiones. Por último, aprender a desarrollar el consenso también es muy importante. Se trata de habilidades de las que los niños y los jóvenes pueden beneficiarse en muchos ámbitos de su vida, incluso más allá del aspecto de la participación cívica.
 
 Por lo que hemos visto en Irlanda, los niños que participaron en la asamblea con edades comprendidas entre los 7 y los 17 años durante dos fines de semana en octubre de 2022 siguen muy entusiasmados con su experiencia. Estamos en marzo de 2025 y todavía les encanta hablar de ello y están deseando volver a reunirse, ya que proceden de todo el país. La fuerza de la dinámica de grupo se cultivó verdaderamente durante la experiencia.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.32.55.png","alt":"Libro de Actividades (Materiales)","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
 **En este sentido, y volviendo a algo que ha mencionado antes, ¿qué potencial ve para que los niños desempeñen un papel activo facilitando o contribuyendo a las asambleas deliberativas o a los procesos participativos en general?**
 
