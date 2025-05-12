@@ -36,7 +36,7 @@ image:
 ---
 A raíz de un workshop al que asistimos en Málaga, entrevistamos a Katie Reid, especialista en derechos del niño con nueve años de experiencia en participación infantil y juvenil en gobernanza (inter)nacional, defensa, democracia deliberativa, planificación y justicia medioambiental/climática.
 
-**Empecemos por el principio. ¿Por qué debemos escuchar a los niños y por qué no solemos hacerlo?**
+**Empecemos por el principio, ¿por qué debemos escuchar a los niños y por qué no solemos hacerlo?**
 
 **Katie:** Los niños, todos los menores de 18 años, tienen derecho a opinar sobre los asuntos que les afectan, y esas opiniones deben tenerse debidamente en cuenta. Este es uno de los derechos fundamentales recogidos en la Convención de las Naciones Unidas sobre los Derechos del Niño (CDN), que es en realidad el tratado internacional más ampliamente ratificado, con todos los países del mundo excepto uno -Estados Unidos de América- que lo han firmado. Esto es significativo porque establece las promesas que los gobiernos han hecho para garantizar que los niños puedan crecer felices, sanos y seguros y que tengan voz. Involucrar a los niños y garantizar que puedan compartir sus puntos de vista no es sólo algo agradable de hacer, es un derecho humano fundamental. Para mí, ahí es donde empieza todo: respetando las competencias de los niños, su autonomía y su capacidad de contribuir como expertos en sus propias vidas.
 
@@ -48,7 +48,7 @@ Otra razón son las actitudes sistémicas y culturales arraigadas sobre cómo ve
 
 Por último, hay una falta de creatividad y confianza para hacer que estos procesos funcionen para los miembros más jóvenes de la sociedad. A menudo pensamos en las escuelas como el principal lugar de participación de los niños, lo que puede impedirles participar en una vida cívica más amplia. Sin embargo, las escuelas deberían considerarse una oportunidad para que los niños participen en la educación cívica y democrática. Se necesita creatividad para que la democracia sea relevante en la vida de los niños, algo que a menudo se pasa por alto.
 
-**Entrevistador: Gracias. Hablaremos más tarde de la experiencia escocesa, pero permítame abordar el trabajo con los niños. Uno de los modelos de referencia para trabajar con niños es el de la profesora Laura Lundy, que se centra en crear espacios para dinámicas participativas con los niños. ¿Qué debemos tener especialmente en cuenta a la hora de crear espacios seguros e inclusivos para trabajar con niños?**
+**Gracias. Hablaremos más tarde de la experiencia escocesa, pero permítame abordar el trabajo con los niños. Uno de los modelos de referencia para trabajar con niños es el de la profesora Laura Lundy, que se centra en crear espacios para dinámicas participativas con los niños. ¿Qué debemos tener especialmente en cuenta a la hora de crear espacios seguros e inclusivos para trabajar con niños?**
 
 **Katie:** Por supuesto. El modelo del profesor Lundy es un magnífico ejemplo de cómo podemos entender el derecho de los niños a ser escuchados (artículo 12 de la CDN) y cómo se manifiesta en la práctica la defensa de este derecho. El modelo de Lundy es útil porque nos recuerda que la participación de los niños no termina cuando ellos comparten sus opiniones. La participación de los niños es un proceso continuo. Comienza con la creación de un espacio inclusivo, de apoyo y que permita que las voces de los niños se escuchen de muchas maneras diferentes. Pero va más allá, asegurándose de que sus opiniones son escuchadas y, lo que es más importante, de que tienen influencia. Estas opiniones deben tomarse en serio y, cuando no se puedan poner en práctica, los niños deben recibir una respuesta que explique por qué. Esta retroalimentación es vital para que los niños comprendan el impacto de su participación.
 
@@ -68,7 +68,7 @@ También aprovechamos el aire libre. En Escocia -y también en Irlanda, donde pa
 
 El reto surge cuando los adultos interpretan los puntos de vista de los niños a través de su propia lente. Por ejemplo, cuando los adultos observan las obras de arte de los niños, es importante que éstos tengan la oportunidad de explicar lo que han creado. Su interpretación debe ser la que se entienda, no la de un adulto. El riesgo de manipulación es mayor cuando los adultos tergiversan las palabras de los niños para ponerlas al servicio de sus propios intereses. Así que debemos tener cuidado de no proyectar nuestras propias ideas en lo que nos dicen los niños.
 
-**Bien, una de las conclusiones de su taller de Málaga fue que los procesos participativos reducen las interacciones negativas del grupo y refuerzan el sentimiento de unidad del grupo. ¿Cree que este tipo de procesos con niños les ayuda a comprender mejor los valores democráticos?**
+**Una de las conclusiones de su taller de Málaga fue que los procesos participativos reducen las interacciones negativas del grupo y refuerzan el sentimiento de unidad del grupo. ¿Cree que este tipo de procesos con niños les ayuda a comprender mejor los valores democráticos?**
 
 **Katie:** Creo que sí. Y creo que sería una buena pregunta para hacer a los niños con los que te reúnas para conocer su punto de vista al respecto. He trabajado directamente en dos asambleas de ciudadanos, y también he asesorado en varias otras en las que han participado niños. Además, estoy investigando cómo participan los niños en las asambleas, analizando los procesos y los resultados. Es fascinante ver los efectos que surgen, sobre todo a nivel interpersonal, como el fortalecimiento de la dinámica de grupo y el fomento de las conexiones entre niños de distintos orígenes.
 
@@ -110,7 +110,7 @@ Es esencial que las asambleas estudien cómo afectarán sus recomendaciones a gr
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
-{% questions { "items": [{"question":"¿Espacio seguro?"},{"question":"¿Cómo imaginas el futuro?"},{"question":"¿Qué le falta a una asamblea?"}] } %}
+{% questions { "items": [{"question":"Qué es un espacio seguro?"},{"question":"Cómo imaginas el futuro?"},{"question":"Qué le falta a una asambleapara se inclusiva con todos los niños?"}] } %}
 
 **Tuvimos el placer de entrevistar a dos jóvenes miembros de la Asamblea irlandesa, Oisin y Esther, que amablemente respondieron a algunas preguntas sobre su experiencia.**
 

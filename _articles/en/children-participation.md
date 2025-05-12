@@ -33,7 +33,7 @@ image:
 ---
 Following a workshop we attended in Malaga, we interviewed Katie Reid, a children's rights specialist with nine years of experience in child and youth participation in (inter)national governance, advocacy, deliberative democracy, planning and environmental/climate justice.
 
-**So, let’s start at the beginning. Why do we need to listen to children, and why don’t we usually do it?**
+**So, let’s start at the beginning, why do we need to listen to children, and why don’t we usually do it?**
 
 **Katie:** Children, all those under the age of 18, have the right to have a say in matters that affect them, and those views should be given due weight. This is one of the fundamental rights outlined in the United Nations Convention on the Rights of the Child (CRC), which is actually the most widely ratified international treaty, with all countries in the world except one—the United States of America—having signed it. This is significant because it sets out the promises governments have made to ensure that children can grow up happy, healthy, and safe and have a voice. Involving children and ensuring they can share their views is not just a nice thing to do—it’s a fundamental human right. For me, that’s where it all starts: respecting children’s competencies, their agency, and their ability to contribute as experts in their own lives.
 
@@ -45,13 +45,13 @@ Another reason is the long-held systemic and cultural attitudes about how we vie
 
 Finally, there’s a lack of creativity and confidence in making these processes work for younger members of society. We often think of schools as the main place where children are involved, which can prevent them from engaging in broader civic life. But schools should actually be seen as an opportunity for children to engage in civic and democratic education. Creativity is needed to make democracy relevant to children’s lives, something often overlooked.
 
-**Interviewer:** Thank you. We'll talk more about the Scotland experience later, but let me address the work with children. One of the reference models for working with children is Professor Laura Lundy’s model, which focuses on creating spaces for participatory dynamics with children. What should we particularly consider when creating safe and inclusive spaces for working with children?
+**Thank you. We'll talk more about the Scotland experience later, but let me address the work with children. One of the reference models for working with children is Professor Laura Lundy’s model, which focuses on creating spaces for participatory dynamics with children. What should we particularly consider when creating safe and inclusive spaces for working with children?**
 
 **Katie:** Absolutely. Professor Lundy’s model is a great example of how we can understand children’s right to be heard(Article 12 of the CRC)- what upholding this right looks like in practice. Lundy’s model is useful because it reminds us that involving children doesn’t just end with them sharing their views. Children’s participation is an ongoing process. It starts with creating a space that’s inclusive, supportive, and allows children’s voices to be heard in many different ways. But it goes beyond that, ensuring there’s an audience for their views, and most importantly, that their views have influence. These views should be taken seriously, and where they can’t be acted upon, children should receive feedback on why. This feedback loop is vital so that children understand the impact of their participation.
 
 We’re seeing increasing levels of apathy among children and young people toward the political system. It could be partly because they don’t see the real impact of their contributions. That’s why it's so important to remind children that their contributions matter and explain the outcomes. It’s a responsibility for duty bearers and decision-makers to make sure they provide that feedback.
 
-**Interviewer:** You mentioned that a lack of creativity is a barrier when working with children. Based on your experience, what resources or creative methods have you used to encourage children to participate? Can you share some formats that have worked for you?
+**You mentioned that a lack of creativity is a barrier when working with children. Based on your experience, what resources or creative methods have you used to encourage children to participate? Can you share some formats that have worked for you?**
 
 **Katie:** I previously worked in Scotland with the Children’s Parliament, a fantastic children’s rights organization that's been running for over 30 years. The Children’s Parliament is amazing at bringing creativity into how it involves children. One example is Scotland’s Climate Assembly, where we worked with children to incorporate their perspectives into the adult assemblies’ climate deliberations. We designed a parallel process where children could learn about the climate emergency, just like the adults, and then come up with ideas and calls to action through creative activities. These children learned about the crisis, connected with their communities, and engaged in community mapping and interviews.
 
@@ -65,7 +65,7 @@ We also took advantage of the great outdoors. In Scotland - and also in Ireland 
 
 The challenge comes when adults interpret children’s views through their own lens. For instance, when adults look at children's artwork, it’s important that children have the opportunity to explain what they’ve created. Their interpretation should be the one that’s understood, not an adult’s interpretation of their artwork. The risk of manipulation is higher when adults twist children’s words to serve their own agenda. So we need to be careful not to project our own ideas onto what children are telling us.
 
-**OK, one of the conclusions from your workshop in Malaga was that participatory processes reduce negative group interactions and strengthen the sense of group unity. Do you think this type of process with children helps them better understand democratic values?**
+**One of the conclusions from your workshop in Malaga was that participatory processes reduce negative group interactions and strengthen the sense of group unity. Do you think this type of process with children helps them better understand democratic values?**
 
 **Katie:** I think so, yes. And I think this would be a great question to ask the children you'll be meeting to get their perspective on it. I've worked on two citizens' assemblies directly, and I've also been advising on several others involving children. Additionally, I'm researching how children participate in assemblies, mapping the processes and the outcomes. It's fascinating to see the impacts emerging, particularly at the interpersonal level—such as strengthening group dynamics and fostering connections between children from different backgrounds.
 
@@ -106,6 +106,8 @@ I would struggle to find an issue that doesn’t somehow relate to children. Whi
 It’s essential that assemblies consider how their recommendations will impact vulnerable groups like children. Whether or not children are assembly members, we should find other ways to bring their voices into these processes. I’m excited to see how democracy can evolve to mainstream children’s participation across a wider range of issues.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+
+{% questions { "items": [{"question":"What is a safe space?"},{"question":"﻿How do you envision the future?"},{"question":"What does an assembly need to be inclusive of all children?"}] } %}
 
 **We had the pleasure to interview two young members of the Irish Assembly, Oisin and Esther, who kindly answered some questions about their experience.**
 
