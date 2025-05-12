@@ -51,7 +51,7 @@ Finally, there’s a lack of creativity and confidence in making these processes
 
 We’re seeing increasing levels of apathy among children and young people toward the political system. It could be partly because they don’t see the real impact of their contributions. That’s why it's so important to remind children that their contributions matter and explain the outcomes. It’s a responsibility for duty bearers and decision-makers to make sure they provide that feedback.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.28.35.png","alt":"Biodiversity Activity Calendar (Resources)","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.28.35.png","alt":"Biodiversity Activity Calendar (Resources)","caption":"Biodiversity Activity Calendar (Resources)","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
 **You mentioned that a lack of creativity is a barrier when working with children. Based on your experience, what resources or creative methods have you used to encourage children to participate? Can you share some formats that have worked for you?**
 
@@ -79,7 +79,7 @@ Additionally, citizens' assemblies help children develop tangible skills like ho
 
 From what we've seen in Ireland, children who participated in the assembly at ages 7 to 17 over two weekends in October 2022 are still very enthusiastic about their experience. It's now March 2025, and they still love talking about it and look forward to coming together again, as they come from all across the country. The strength of the group dynamics was truly cultivated during the experience.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.32.55.png","alt":"Activity Book (Resources)","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.32.55.png","alt":"Activity Book (Resources)","caption":"Activity Book (Resources)","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
 **In this sense, and tying back to something you mentioned earlier, what potential do you see for children to play an active role in facilitating or contributing to deliberative assemblies or participatory processes in general?**
 
