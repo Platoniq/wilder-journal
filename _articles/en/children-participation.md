@@ -171,6 +171,8 @@ Esther: There were two Assemblies—one for kids and one for adults. I met some 
 
 Oisin: A year later, I spoke at the Oireachtas (Irish Parliament) with other Assembly members and Young Advisors. We shared our insights with politicians and have since participated in webinars and other events to keep spreading the message.
 
+https://youtu.be/J7kTwEWQ-VU?si=3OeWy_BNB1JUhP92
+
 **Q: Is there anything else you’d like to share?**
 
 Esther: I’m on my school’s Green Committee. We’ve organized fun activities around recycling and green practices. I also spoke to a newspaper about pesticide use in my village—and now people have stopped using them! If you feel strongly about something, speak up. Someone will listen.

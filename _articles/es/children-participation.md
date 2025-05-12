@@ -174,6 +174,8 @@ Esther: Hubo dos Asambleas: una para niños y otra para adultos. Conocí a algun
 
 Oisin: Un año después, hablé en el Oireachtas (Parlamento irlandés) con otros miembros de la Asamblea y jóvenes asesores. Compartimos nuestros puntos de vista con los políticos y desde entonces hemos participado en seminarios web y otros actos para seguir difundiendo el mensaje.
 
+https://youtu.be/J7kTwEWQ-VU?si=3OeWy_BNB1JUhP92
+
 **P: ¿Hay algo más que le gustaría compartir?**
 
 Esther: Formo parte del Comité Verde de mi colegio. Hemos organizado actividades divertidas en torno al reciclaje y las prácticas ecológicas. También hablé con un periódico sobre el uso de pesticidas en mi pueblo, ¡y ahora la gente ha dejado de usarlos! Si algo te preocupa, habla. Alguien te escuchará.
