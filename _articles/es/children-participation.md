@@ -48,7 +48,7 @@ Otra razón son las actitudes sistémicas y culturales arraigadas sobre cómo ve
 
 Por último, hay una falta de creatividad y confianza para hacer que estos procesos funcionen para los miembros más jóvenes de la sociedad. A menudo pensamos en las escuelas como el principal lugar de participación de los niños, lo que puede impedirles participar en una vida cívica más amplia. Sin embargo, las escuelas deberían considerarse una oportunidad para que los niños participen en la educación cívica y democrática. Se necesita creatividad para que la democracia sea relevante en la vida de los niños, algo que a menudo se pasa por alto.
 
-**Gracias. Hablaremos más tarde de la experiencia escocesa, pero permítame abordar el trabajo con los niños. Uno de los modelos de referencia para trabajar con niños es el de la profesora Laura Lundy, que se centra en crear espacios para dinámicas participativas con los niños. ¿Qué debemos tener especialmente en cuenta a la hora de crear espacios seguros e inclusivos para trabajar con niños?**
+**Gracias. Hablaremos más tarde de la experiencia escocesa, pero permíteme abordar el trabajo con los niños. Uno de los modelos de referencia para trabajar con niños es el de la profesora Laura Lundy, que se centra en crear espacios para dinámicas participativas con los niños. ¿Qué debemos tener especialmente en cuenta a la hora de crear espacios seguros e inclusivos para trabajar con niños?**
 
 **Katie:** Por supuesto. El modelo del profesor Lundy es un magnífico ejemplo de cómo podemos entender el derecho de los niños a ser escuchados (artículo 12 de la CDN) y cómo se manifiesta en la práctica la defensa de este derecho. El modelo de Lundy es útil porque nos recuerda que la participación de los niños no termina cuando ellos comparten sus opiniones. La participación de los niños es un proceso continuo. Comienza con la creación de un espacio inclusivo, de apoyo y que permita que las voces de los niños se escuchen de muchas maneras diferentes. Pero va más allá, asegurándose de que sus opiniones son escuchadas y, lo que es más importante, de que tienen influencia. Estas opiniones deben tomarse en serio y, cuando no se puedan poner en práctica, los niños deben recibir una respuesta que explique por qué. Esta retroalimentación es vital para que los niños comprendan el impacto de su participación.
 
@@ -56,7 +56,7 @@ Cada vez es mayor la apatía de los niños y jóvenes hacia el sistema político
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.28.35.png","alt":"Calendario de Actividades sobre Biodiversidad (Materiales)","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
-**Has mencionado que la falta de creatividad es un obstáculo a la hora de trabajar con niños. Según su experiencia, ¿qué recursos o métodos creativos ha utilizado para animar a los niños a participar? ¿Puede compartir algunos formatos que le hayan funcionado?**
+**Has mencionado que la falta de creatividad es un obstáculo a la hora de trabajar con niños. Según tu experiencia, ¿qué recursos o métodos creativos ha utilizado para animar a los niños a participar? ¿Podrías compartir algunos formatos que te hayan funcionado?**
 
 **Katie:** Antes trabajé en Escocia con el Parlamento de los Niños, una fantástica organización de defensa de los derechos de la infancia que lleva funcionando más de 30 años. El Parlamento de los Niños es increíble por su creatividad a la hora de implicar a los niños. Un ejemplo es la Asamblea del Clima de Escocia, en la que trabajamos con niños para incorporar sus puntos de vista a las deliberaciones sobre el clima de las asambleas de adultos. Diseñamos un proceso paralelo en el que los niños podían informarse sobre la emergencia climática, al igual que los adultos, y luego aportar ideas y llamamientos a la acción mediante actividades creativas. Estos niños aprendieron sobre la crisis, se conectaron con sus comunidades y participaron en mapeos y entrevistas comunitarias.
 
@@ -70,7 +70,7 @@ También aprovechamos el aire libre. En Escocia -y también en Irlanda, donde pa
 
 El reto surge cuando los adultos interpretan los puntos de vista de los niños a través de su propia lente. Por ejemplo, cuando los adultos observan las obras de arte de los niños, es importante que éstos tengan la oportunidad de explicar lo que han creado. Su interpretación debe ser la que se entienda, no la de un adulto. El riesgo de manipulación es mayor cuando los adultos tergiversan las palabras de los niños para ponerlas al servicio de sus propios intereses. Así que debemos tener cuidado de no proyectar nuestras propias ideas en lo que nos dicen los niños.
 
-**Una de las conclusiones de su taller de Málaga fue que los procesos participativos reducen las interacciones negativas del grupo y refuerzan el sentimiento de unidad del grupo. ¿Cree que este tipo de procesos con niños les ayuda a comprender mejor los valores democráticos?**
+**Una de las conclusiones de tu taller de Málaga fue que los procesos participativos reducen las interacciones negativas del grupo y refuerzan el sentimiento de unidad del grupo. ¿Crees que este tipo de procesos con niños les ayuda a comprender mejor los valores democráticos?**
 
 **Katie:** Creo que sí. Y creo que sería una buena pregunta para hacer a los niños con los que te reúnas para conocer su punto de vista al respecto. He trabajado directamente en dos asambleas de ciudadanos, y también he asesorado en varias otras en las que han participado niños. Además, estoy investigando cómo participan los niños en las asambleas, analizando los procesos y los resultados. Es fascinante ver los efectos que surgen, sobre todo a nivel interpersonal, como el fortalecimiento de la dinámica de grupo y el fomento de las conexiones entre niños de distintos orígenes.
 
@@ -84,7 +84,7 @@ Por lo que hemos visto en Irlanda, los niños que participaron en la asamblea co
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.32.55.png","alt":"Libro de Actividades (Materiales)","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
-**En este sentido, y volviendo a algo que ha mencionado antes, ¿qué potencial ve para que los niños desempeñen un papel activo facilitando o contribuyendo a las asambleas deliberativas o a los procesos participativos en general?**
+**En este sentido, y volviendo a algo que ha mencionado antes, ¿qué potencial ves para que los niños desempeñen un papel activo facilitando o contribuyendo a las asambleas deliberativas o a los procesos participativos en general?**
 
 **Katie:** ¿Los niños como facilitadores? Sí, absolutamente. Ante todo, los niños deben participar en todos los aspectos del proceso de asamblea, especialmente en el diseño y la facilitación del proceso para garantizar que se ajuste a lo que los propios niños y jóvenes desearían participar. Esto hace que el proceso sea más auténtico y atractivo para ellos.
 
@@ -94,7 +94,7 @@ En Irlanda, por ejemplo, contamos con un Equipo Asesor Joven formado por nueve j
 
 La Asamblea habría sido muy diferente sin nuestros jóvenes asesores. Añadieron un valor inmenso, y la experiencia positiva del grupo fue en gran medida un testimonio de sus contribuciones.
 
-**¿Cómo responden las instituciones a estos procesos con los niños? ¿Cree que se toman en serio las conclusiones de estos procesos?**
+**¿Cómo responden las instituciones a estos procesos con los niños? ¿Crees que se toman en serio las conclusiones de estos procesos?**
 
 **Katie:** Puedo hablar por experiencia tanto en Escocia como en Irlanda. La clave del éxito es implicar a los responsables de la toma de decisiones o a las autoridades pertinentes desde el principio, para que participen en el proceso antes de que empiece. Si se les implica al final, cuando se acaban de presentar las recomendaciones, es más fácil que se sientan ajenos al proceso.
 
@@ -124,7 +124,7 @@ Oisin: Soy Oisin. Tengo 15 años y vivo en Galway, Irlanda. Fui miembro de la As
 
 Esther: Soy Esther. Vivo en Cork y también fui miembro de la Asamblea. Como ha dicho Oisin, trabajamos para hacer llegar nuestras ideas al gobierno, compartir nuestras experiencias con la biodiversidad y explorar cómo podemos detener la pérdida de biodiversidad desde la perspectiva de un niño.
 
-**P: ¿Por qué cree que es necesario escuchar a los niños? ¿Y por qué los adultos a menudo no lo hacen?**
+**P: ¿Por qué crees que es necesario escuchar a los niños? ¿Y por qué los adultos a menudo no lo hacen?**
 
 Esther: Creo que es necesario escuchar a los niños en cuestiones como la pérdida de biodiversidad, porque es nuestro futuro. Los adultos que vivimos ahora no estaremos aquí para siempre, así que debemos tener voz y voto en lo que ocurra a nuestra generación y a las siguientes. Creo que a veces los adultos subestiman a los niños y suponen que no sabemos tanto como ellos. Pero en algunos casos, los niños pueden saber más sobre biodiversidad que algunos adultos.
 
@@ -142,7 +142,7 @@ Esther: Para mí, un espacio seguro es un lugar donde puedo compartir mis ideas 
 
 Oisin: Estoy totalmente de acuerdo. Es un lugar donde los niños se sienten cómodos hablando. Esa fue una de las mejores partes de la Asamblea: si no se hubieran sentido seguros, algunos niños habrían sido demasiado tímidos para hablar y sus valiosas ideas se habrían perdido.
 
-**P: ¿Cree que todos los niños pueden participar en procesos como éste, o necesitan tener ciertas ideas ya formadas?**
+**P: ¿Crees que todos los niños pueden participar en procesos como éste, o necesitan tener ciertas ideas ya formadas?**
 
 Oisin: Todos los niños deberían tener la oportunidad de participar. Necesitamos una mezcla de opiniones; si sólo escuchamos un tipo de voz, podríamos perdernos soluciones clave. Es esencial incluir a niños de distintas procedencias y partes del país para comprender realmente lo que quieren los jóvenes.
 
@@ -152,7 +152,7 @@ Esther: Me gustaron mucho los paseos. Estar en la naturaleza me ayudó a ver de 
 
 Oisin: Lo mismo digo. Experimentar la naturaleza de cerca nos recordó la belleza que intentamos proteger. También hicimos dibujos y utilizamos otros métodos el último día para ayudar a todos -tanto si preferían hablar como escribir- a compartir sus ideas.
 
-**P: ¿Participaste en el diseño de la Asamblea? ¿Consideró que faltaba algo?**
+**P: ¿Participaste en el diseño de la Asamblea? ¿Consideras que faltó alguna cosa?**
 
 Esther: Sí, estuvimos muy implicados a través de los Jóvenes Consejeros. Nos ayudaron a dar forma a la Asamblea para hacerla accesible a los niños. Incluso ayudamos a desarrollar las 58 llamadas a la acción y los seis mensajes clave. Uno de los mensajes clave fue el mío: «Debemos tratar a la Tierra como a un miembro de nuestra familia o a un amigo íntimo». El Taoiseach lo mencionó, ¡fue increíble!
 
@@ -162,7 +162,7 @@ Oisin: Los Jóvenes Consejeros fueron cruciales a la hora de diseñar la Asamble
 
 Oisin: Había unos 30 miembros, así que no era demasiado grande. Los Jóvenes Consejeros y los animadores adultos ayudaron a que todo fuera sobre ruedas. Todo el mundo se respetaba, lo que facilitó las cosas.
 
-**P: ¿Cuál fue la conclusión más importante a la que llegaron en la Asamblea?**
+**P: ¿Cuál fue la conclusión más importante a la que llegasteis en la Asamblea?**
 
 Esther: Hubo 58 Llamamientos a la Acción, agrupados en diferentes temas. Aún conservo el póster con ellas. Para mí, el mensaje más importante fue conservar lo que aún tenemos y construir sobre ello. Aunque no podamos restaurarlo todo, podemos proteger lo que queda e intentar reconstruir todo lo que podamos.
 
@@ -176,25 +176,25 @@ Oisin: Un año después, hablé en el Oireachtas (Parlamento irlandés) con otro
 
 https://youtu.be/J7kTwEWQ-VU?si=3OeWy_BNB1JUhP92
 
-**P: ¿Hay algo más que le gustaría compartir?**
+**P: ¿Hay algo más que os gustaría compartir?**
 
 Esther: Formo parte del Comité Verde de mi colegio. Hemos organizado actividades divertidas en torno al reciclaje y las prácticas ecológicas. También hablé con un periódico sobre el uso de pesticidas en mi pueblo, ¡y ahora la gente ha dejado de usarlos! Si algo te preocupa, habla. Alguien te escuchará.
 
 Oisin: Ahora estoy en la enseñanza superior, así que ya no participo en las Escuelas Verdes, pero he hecho otras cosas. Me presenté a concursos científicos con proyectos ecológicos y trabajé en un proyecto llamado TRYBE con otros miembros de la Asamblea para crear recursos gratuitos sobre biodiversidad para las escuelas de toda Irlanda.
 
-**P: ¿Cree que participar en la Asamblea le ayudó a entender mejor la democracia?**
+**P: ¿Crees que participar en la Asamblea te ayudó a entender mejor la democracia?**
 
 Oisin: Sí. Me enseñó la importancia de escuchar a todo el mundo, especialmente a los niños. Nosotros también somos ciudadanos y nuestras voces merecen ser escuchadas.
 
 Esther: Exacto. Aunque no podemos votar, ayudamos a crear algo poderoso que el gobierno realmente escuchó. La voz de todos importa.
 
-**P: ¿Qué opina del negacionismo climático o la desinformación en Internet? ¿Cómo lo afronta?**
+**P: ¿Qué opinas del negacionismo climático o la desinformación en Internet? ¿Cómo lo afrontais?**
 
 Oisin: Sin duda es un problema. La gente puede creer lo que quiera, pero debemos educarla con hechos. Las pruebas científicas demuestran que la pérdida de biodiversidad es real y está ocurriendo todos los días. Si la gente lo ignora, nos arriesgamos al colapso de los ecosistemas, algo que nos afecta a todos.
 
 Esther: Intento mantener la calma cuando oigo negacionismos en Internet. Un ejemplo claro de la pérdida de biodiversidad en Irlanda es cómo, hace años, la gente solía raspar los insectos del parabrisas de sus coches por la mañana, pero ya no. Eso demuestra hasta qué punto ha disminuido la vida de los insectos. Si investigas y miras a tu alrededor, las pruebas son claras.
 
-**P: ¿Qué futuro imagina para el planeta?**
+**P: ¿Qué futuro imaginais para el planeta?**
 
 Esther: Si no actuamos, las cosas empeorarán: más huracanes, incendios y catástrofes. Pero si responsabilizamos a las empresas y fomentamos pequeñas acciones como plantar microbosques o dientes de león para las abejas, podríamos ver una mejora real. No tenemos mucho tiempo antes de que los efectos sean permanentes.
 
