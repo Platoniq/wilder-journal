@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/katie_reid.jpg
 ---
 Following a workshop we attended in Malaga, we interviewed Katie Reid, a children's rights specialist with nine years of experience in child and youth participation in (inter)national governance, advocacy, deliberative democracy, planning and environmental/climate justice.
 

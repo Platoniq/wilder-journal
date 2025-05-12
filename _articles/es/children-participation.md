@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/katie_reid.jpg
 ---
 A raíz de un workshop al que asistimos en Málaga, entrevistamos a Katie Reid, especialista en derechos del niño con nueve años de experiencia en participación infantil y juvenil en gobernanza (inter)nacional, defensa, democracia deliberativa, planificación y justicia medioambiental/climática.
 
