@@ -43,7 +43,9 @@ En este contexto, hubo un momento de claridad absoluta, un instante donde las di
 
 La imagen más impactante del retiro fue captada por la fotoperiodista **Victoria Rovira**, que documentó las devastadoras inundaciones de Valencia con una profundidad y sensibilidad sin parangón.
 
-{% gallery { "simple": false, "images": [{"path":"/media/victoria-rovira_aldaia_2024.jpeg","caption":"Inundaciones en Valencia (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/victoria-rovira_aldaia_2024.jpeg","caption":"Inundaciones en Valencia (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
+
+**Créditos: Victoria Rovira Casanovas, Inundaciones en Valencia (Aldaia, 4 Nov 2024)**
 
 Hay momentos en los que una imagen se convierte en algo más que un simple registro de un evento: se convierte en una marca en el cuerpo, en un peso afectivo que persiste mucho después de verla por primera vez. 
 
