@@ -113,8 +113,6 @@ It’s essential that assemblies consider how their recommendations will impact 
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
-{% questions { "items": [{"question":"What is a safe space?"},{"question":"﻿How do you envision the future?"},{"question":"What does an assembly need to be inclusive of all children?"}] } %}
-
 **We had the pleasure to interview two young members of the Irish Assembly, Oisin and Esther, who kindly answered some questions about their experience.**
 
 Oisin: So, I'm Oisin. I'm 15 years old and I live in Galway, Ireland. I was an Assembly member for Ireland’s Children and Young People’s Assembly on Biodiversity Loss. I was one of many children selected to represent the voices of young people in Ireland. We discussed biodiversity loss with other children from across the country and developed ideas to present to the government.
@@ -133,7 +131,7 @@ Oisin: Yes, it felt like a safe space. Everyone was respectful, and since we wer
 
 Esther: I thought it was a really nice experience. The adults and Young Advisors were all very kind and supportive. That made a big difference.
 
-**Q: How do you define a "safe space"?**
+{% questions { "items": [{"question":"How do you define a \"safe space\"?"}] } %}
 
 Esther: A safe space, for me, is somewhere I can share my ideas without judgment, and where everyone is kind and welcoming.
 
@@ -159,7 +157,7 @@ Oisin: The Young Advisors were crucial in designing the Assembly. They knew what
 
 Oisin: There were around 30 members, so not too large. The Young Advisors and adult facilitators helped manage everything smoothly. Everyone respected each other, which made it easier.
 
-**Q: What was the most important conclusion you reached at the Assembly?**
+{% questions { "items": [{"question":"What was the most important conclusion you reached at the Assembly?"}] } %}
 
 Esther: There were 58 Calls to Action, grouped into different themes. I still have the poster with them! For me, the most important message was to conserve what we still have and build on it. Even if we can’t restore everything, we can protect what’s left and try to rebuild as much as we can.
 
@@ -191,7 +189,7 @@ Oisin: It’s definitely an issue. People can believe whatever they want, but we
 
 Esther: I try to stay calm when I hear denial online. One clear example of biodiversity loss in Ireland is how, years ago, people used to scrape bugs off their car windshields in the morning—but not anymore. That shows how much insect life has declined. If you do your research and look around, the evidence is clear.
 
-**Q: What future do you imagine for the planet?**
+{% questions { "items": [{"question":"What future do you imagine for the planet?"}] } %}
 
 Esther: If we don’t act, things will get worse—more hurricanes, fires, and disasters. But if we hold companies accountable and encourage small actions like planting micro-forests or dandelions for bees, we could see real improvement. We don’t have much time before the effects become permanent.
 

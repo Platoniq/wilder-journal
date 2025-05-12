@@ -116,8 +116,6 @@ Es esencial que las asambleas estudien cómo afectarán sus recomendaciones a gr
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
-{% questions { "items": [{"question":"Qué es un espacio seguro?"},{"question":"Cómo imaginas el futuro?"},{"question":"Qué le falta a una asambleapara se inclusiva con todos los niños?"}] } %}
-
 **Tuvimos el placer de entrevistar a dos jóvenes miembros de la Asamblea irlandesa, Oisin y Esther, que amablemente respondieron a algunas preguntas sobre su experiencia.**
 
 Oisin: Soy Oisin. Tengo 15 años y vivo en Galway, Irlanda. Fui miembro de la Asamblea de Niños y Jóvenes de Irlanda sobre la Pérdida de Biodiversidad. Fui uno de los muchos niños seleccionados para representar las voces de los jóvenes de Irlanda. Debatimos sobre la pérdida de biodiversidad con otros niños de todo el país y desarrollamos ideas para presentar al gobierno.
@@ -136,7 +134,7 @@ Oisin: Sí, parecía un espacio seguro. Todo el mundo era respetuoso y, como est
 
 Esther: Me pareció una experiencia muy agradable. Los adultos y los Jóvenes Consejeros fueron muy amables y nos apoyaron mucho. Eso marcó una gran diferencia.
 
-**P: ¿Cómo defines un «espacio seguro»?**
+{% questions { "items": [{"question":"Qué es un espacio seguro para vosotros?"}] } %}
 
 Esther: Para mí, un espacio seguro es un lugar donde puedo compartir mis ideas sin ser juzgada y donde todo el mundo es amable y acogedor.
 
@@ -162,7 +160,7 @@ Oisin: Los Jóvenes Consejeros fueron cruciales a la hora de diseñar la Asamble
 
 Oisin: Había unos 30 miembros, así que no era demasiado grande. Los Jóvenes Consejeros y los animadores adultos ayudaron a que todo fuera sobre ruedas. Todo el mundo se respetaba, lo que facilitó las cosas.
 
-**P: ¿Cuál fue la conclusión más importante a la que llegasteis en la Asamblea?**
+{% questions { "items": [{"question":"¿Cuál fue la conclusión más importante a la que llegasteis en la Asamblea?"}] } %}
 
 Esther: Hubo 58 Llamamientos a la Acción, agrupados en diferentes temas. Aún conservo el póster con ellas. Para mí, el mensaje más importante fue conservar lo que aún tenemos y construir sobre ello. Aunque no podamos restaurarlo todo, podemos proteger lo que queda e intentar reconstruir todo lo que podamos.
 
@@ -194,7 +192,7 @@ Oisin: Sin duda es un problema. La gente puede creer lo que quiera, pero debemos
 
 Esther: Intento mantener la calma cuando oigo negacionismos en Internet. Un ejemplo claro de la pérdida de biodiversidad en Irlanda es cómo, hace años, la gente solía raspar los insectos del parabrisas de sus coches por la mañana, pero ya no. Eso demuestra hasta qué punto ha disminuido la vida de los insectos. Si investigas y miras a tu alrededor, las pruebas son claras.
 
-**P: ¿Qué futuro imaginais para el planeta?**
+{% questions { "items": [{"question":"Qué futuro imaginais para el planeta?"}] } %}
 
 Esther: Si no actuamos, las cosas empeorarán: más huracanes, incendios y catástrofes. Pero si responsabilizamos a las empresas y fomentamos pequeñas acciones como plantar microbosques o dientes de león para las abejas, podríamos ver una mejora real. No tenemos mucho tiempo antes de que los efectos sean permanentes.
 
