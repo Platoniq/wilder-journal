@@ -51,6 +51,8 @@ Finally, there’s a lack of creativity and confidence in making these processes
 
 We’re seeing increasing levels of apathy among children and young people toward the political system. It could be partly because they don’t see the real impact of their contributions. That’s why it's so important to remind children that their contributions matter and explain the outcomes. It’s a responsibility for duty bearers and decision-makers to make sure they provide that feedback.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-15.28.35.png","alt":"Biodiversity Activity Calendar","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+
 **You mentioned that a lack of creativity is a barrier when working with children. Based on your experience, what resources or creative methods have you used to encourage children to participate? Can you share some formats that have worked for you?**
 
 **Katie:** I previously worked in Scotland with the Children’s Parliament, a fantastic children’s rights organization that's been running for over 30 years. The Children’s Parliament is amazing at bringing creativity into how it involves children. One example is Scotland’s Climate Assembly, where we worked with children to incorporate their perspectives into the adult assemblies’ climate deliberations. We designed a parallel process where children could learn about the climate emergency, just like the adults, and then come up with ideas and calls to action through creative activities. These children learned about the crisis, connected with their communities, and engaged in community mapping and interviews.
