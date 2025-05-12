@@ -41,6 +41,8 @@ As for why it doesn’t happen enough, I think there are several reasons. One is
 
 Another reason is the long-held systemic and cultural attitudes about how we view children and childhood. Many cultures see children as "becoming," not as full humans or full citizens, because they’re still growing and developing the competencies needed to participate. But if we look at how we view adults, particularly in the context of deliberative democracy, one of the core arguments is that any adult can be involved, regardless of their knowledge or capabilities. So, it’s hard to justify why children can’t be involved in deliberative processes too, especially since they are also developing their thinking and are open to learning and exchanging new ideas.
 
+{% quote %}Schools should actually be seen as an opportunity for children to engage in civic and democratic education{% endquote %}
+
 Finally, there’s a lack of creativity and confidence in making these processes work for younger members of society. We often think of schools as the main place where children are involved, which can prevent them from engaging in broader civic life. But schools should actually be seen as an opportunity for children to engage in civic and democratic education. Creativity is needed to make democracy relevant to children’s lives, something often overlooked.
 
 **Interviewer:** Thank you. We'll talk more about the Scotland experience later, but let me address the work with children. One of the reference models for working with children is Professor Laura Lundy’s model, which focuses on creating spaces for participatory dynamics with children. What should we particularly consider when creating safe and inclusive spaces for working with children?
@@ -59,7 +61,9 @@ We also took advantage of the great outdoors. In Scotland - and also in Ireland 
 
 **Katie:** I often get asked this question, and I think it comes from a place where we assume children are easily manipulated. That stems from cultural views of children as evolving beings. But, of course, children can be manipulated, just like adults. In deliberative processes, we have to be critical of how children, like adults, are receiving information and ensure they are supported to develop skills like critical thinking, mutual respect, empathy, and dialogue. These skills can help prevent manipulation.
 
-**Katie:** The challenge comes when adults interpret children’s views through their own lens. For instance, when adults look at children's artwork, it’s important that children have the opportunity to explain what they’ve created. Their interpretation should be the one that’s understood, not an adult’s interpretation of their artwork. The risk of manipulation is higher when adults twist children’s words to serve their own agenda. So we need to be careful not to project our own ideas onto what children are telling us.
+{% quote %}We need to be careful not to project our own ideas onto what children are telling us{% endquote %}
+
+The challenge comes when adults interpret children’s views through their own lens. For instance, when adults look at children's artwork, it’s important that children have the opportunity to explain what they’ve created. Their interpretation should be the one that’s understood, not an adult’s interpretation of their artwork. The risk of manipulation is higher when adults twist children’s words to serve their own agenda. So we need to be careful not to project our own ideas onto what children are telling us.
 
 **OK, one of the conclusions from your workshop in Malaga was that participatory processes reduce negative group interactions and strengthen the sense of group unity. Do you think this type of process with children helps them better understand democratic values?**
 
