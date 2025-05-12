@@ -174,7 +174,7 @@ Esther: Hubo dos Asambleas: una para niños y otra para adultos. Conocí a algun
 
 Oisin: Un año después, hablé en el Oireachtas (Parlamento irlandés) con otros miembros de la Asamblea y jóvenes asesores. Compartimos nuestros puntos de vista con los políticos y desde entonces hemos participado en seminarios web y otros actos para seguir difundiendo el mensaje.
 
-https://youtu.be/J7kTwEWQ-VU?si=3OeWy_BNB1JUhP92
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZAZnJ10vVY?si=2XYNh8jBJpwkwRnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **P: ¿Hay algo más que os gustaría compartir?**
 
