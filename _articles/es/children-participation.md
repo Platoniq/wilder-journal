@@ -86,6 +86,8 @@ Por lo que hemos visto en Irlanda, los niños que participaron en la asamblea co
 
 En Irlanda, por ejemplo, contamos con un Equipo Asesor Joven formado por nueve jóvenes de entre 8 y 16 años seleccionados mediante un proceso de solicitud abierto. Nos pusimos en contacto con niños de toda Irlanda que ya participaban en iniciativas relacionadas con la biodiversidad o los derechos del niño. Para nosotros, los facilitadores -investigadores y profesionales del University College Cork, la Dublin City University y terre des hommes (para la que trabajaba en aquel momento)-, fue crucial contar con un equipo intergeneracional para diseñar y facilitar la Asamblea.
 
+{% quote %}La Asamblea habría sido muy diferente sin nuestros jóvenes asesores{% endquote %}
+
 La Asamblea habría sido muy diferente sin nuestros jóvenes asesores. Añadieron un valor inmenso, y la experiencia positiva del grupo fue en gran medida un testimonio de sus contribuciones.
 
 **¿Cómo responden las instituciones a estos procesos con los niños? ¿Cree que se toman en serio las conclusiones de estos procesos?**

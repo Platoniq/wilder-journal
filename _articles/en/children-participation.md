@@ -83,6 +83,8 @@ From what we've seen in Ireland, children who participated in the assembly at ag
 
 For example, in Ireland, we had a Young Advisory Team consisting of nine 8-16-year-olds selected through an open application process. We reached out across Ireland to engage children who were already active in biodiversity-related or children's rights initiatives. It was crucial for us as facilitators—both researchers and practitioners from University College Cork,Dublin City University and terre des hommes (whom I worked for at the time)—to have an intergenerational team for designing and facilitating the Assembly. 
 
+{% quote %}The Assembly would have been very different without our Young Advisors{% endquote %}
+
 The Assembly would have been very different without our Young Advisors. They added immense value, and the positive group experience was largely a testament to their contributions.
 
 **How do institutions respond to these processes with children? Do you think they take the conclusions of these processes seriously?**
