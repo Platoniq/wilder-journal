@@ -8,7 +8,7 @@ date-updated: 2025-03-18T09:30:00.000Z
 article-order: 1
 uid: digital-illusion
 title: Beyond the Digital Illusion
-description: A Reflection on Affect, Commons, and the Limits of Data
+description: Can we build spaces - digital and physical - that truly sustain communities?
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum

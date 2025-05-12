@@ -7,8 +7,7 @@ date: 2025-03-18T09:30:00.000Z
 date-updated: 2025-03-18T09:30:00.000Z
 article-order: 1
 uid: digital-illusion
-title: Una reflexión sobre afecto, comunes y los límites de los datos. Más allá
-  de la ilusión digital
+title: Afecto, comunes y los límites de los datos. Más allá de la ilusión digital
 description: ¿Podemos construir espacios—digitales y físicos—que realmente
   sostengan a las comunidades?
 author: Olivier Schulbaum
