@@ -16,11 +16,13 @@ author: Cristian Palazzi
 interviewee: Katie Reid
 cover:
   path: /media/articles/heroes/katie_reid.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/katie_reid.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Katie Reid
   credits: Children and Young People’s Assembly on Biodiversity Loss
   caption: Children and Young People’s Assembly on Biodiversity Loss
+related_article_uids:
+  - children-assemblies
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
