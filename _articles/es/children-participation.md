@@ -104,7 +104,7 @@ Me costaría encontrar un tema que no esté relacionado de alguna manera con los
 
 Es esencial que las asambleas estudien cómo afectarán sus recomendaciones a grupos vulnerables como los niños. Independientemente de que los niños sean o no miembros de las asambleas, debemos encontrar otras formas de hacer oír su voz en estos procesos. Me entusiasma ver cómo puede evolucionar la democracia para incorporar la participación de los niños en una gama más amplia de cuestiones.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
 **Tuvimos el placer de entrevistar a dos jóvenes miembros de la Asamblea irlandesa, Oisin y Esther, que amablemente respondieron a algunas preguntas sobre su experiencia.**
 
@@ -186,7 +186,7 @@ Esther: Si no actuamos, las cosas empeorarán: más huracanes, incendios y catá
 
 Oisin: Exacto. Si no actuamos pronto, será demasiado tarde. Perder especies como las abejas sería catastrófico. Pero si la gente se educa y hace pequeños cambios, y las empresas reducen sus emisiones y adoptan prácticas ecológicas, podemos restablecer el equilibrio. El planeta podría recuperar su belleza natural y la gente podría vivir más feliz y segura.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.45.17.png","alt":"CRIN","caption":"CRIN","credits":"CRIN"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.45.17.png","alt":"CRIN","caption":"CRIN","credits":"CRIN"}] } %}
 
 *Child Rights International Network (CRIN) es una organización creativa de derechos humanos que utiliza la investigación, la política, el arte y la defensa para presionar a favor de los derechos, no de la caridad. Hacemos campaña por un verdadero cambio en la forma en que los gobiernos y las sociedades ven y tratan a los niños. Nuestro objetivo es un mundo en el que se reconozcan, respeten y apliquen los derechos de la infancia, y en el que toda violación de estos derechos tenga remedio.*
 

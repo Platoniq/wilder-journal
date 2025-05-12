@@ -63,7 +63,6 @@ We also took advantage of the great outdoors. In Scotland - and also in Ireland 
 
 **OK, one of the conclusions from your workshop in Malaga was that participatory processes reduce negative group interactions and strengthen the sense of group unity. Do you think this type of process with children helps them better understand democratic values?**
 
-
 **Katie:** I think so, yes. And I think this would be a great question to ask the children you'll be meeting to get their perspective on it. I've worked on two citizens' assemblies directly, and I've also been advising on several others involving children. Additionally, I'm researching how children participate in assemblies, mapping the processes and the outcomes. It's fascinating to see the impacts emerging, particularly at the interpersonal level—such as strengthening group dynamics and fostering connections between children from different backgrounds.
 
 I think the model of citizens' assemblies is quite unique when applied to children, especially because children areplaced in environments where they meet children they may not know at all. These children could be from entirely different parts of the country or region, and that can be daunting if the process isn't facilitated in a way that helps them build friendships and connections, which will support their journey as assembly members. Other participatory processes might involve children who already know one another, particularly if the assembly is held within a school. But citizens' assemblies, due to the nature of random selection, bring children together who wouldn't typically meet.
@@ -102,7 +101,7 @@ I would struggle to find an issue that doesn’t somehow relate to children. Whi
 
 It’s essential that assemblies consider how their recommendations will impact vulnerable groups like children. Whether or not children are assembly members, we should find other ways to bring their voices into these processes. I’m excited to see how democracy can evolve to mainstream children’s participation across a wider range of issues.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
 **We had the pleasure to interview two young members of the Irish Assembly, Oisin and Esther, who kindly answered some questions about their experience.**
 
@@ -184,7 +183,7 @@ Esther: If we don’t act, things will get worse—more hurricanes, fires, and d
 
 Oisin: Exactly. If we don't act soon, it’ll be too late. Losing species like bees would be catastrophic. But if people are educated and make small changes, and companies reduce emissions and adopt eco-friendly practices, we can restore balance. The planet could return to its natural beauty, and people could live happier, safer lives.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.45.17.png","alt":"CRIN","caption":"CRIN","credits":"CRIN"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.45.17.png","alt":"CRIN","caption":"CRIN","credits":"CRIN"}] } %}
 
 *Child Rights International Network (CRIN) is a creative human rights organisation that uses research, policy, art and advocacy to press for rights - not charity. We campaign for a genuine shift in how governments and societies view and treat children. Our goal is a world where children's rights are recognised, respected and enforced, and where every rights violation has a remedy.*
 
