@@ -2,7 +2,7 @@
 layout: article
 volume-uid: wilder-journal-2
 category: stories
-published: false
+published: true
 date: 2025-03-18T09:30:00.000Z
 date-updated: 2025-03-18T09:30:00.000Z
 article-order: 1
