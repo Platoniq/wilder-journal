@@ -36,7 +36,7 @@ image:
 ---
 A raíz de un workshop al que asistimos en Málaga, entrevistamos a Katie Reid, especialista en derechos del niño con nueve años de experiencia en participación infantil y juvenil en gobernanza (inter)nacional, defensa, democracia deliberativa, planificación y justicia medioambiental/climática.
 
-**Empecemos por el principio, ¿por qué debemos escuchar a los niños y por qué no solemos hacerlo?**
+#### **Empecemos por el principio, ¿por qué debemos escuchar a los niños y por qué no solemos hacerlo?**
 
 **Katie:** Los niños, todos los menores de 18 años, tienen derecho a opinar sobre los asuntos que les afectan, y esas opiniones deben tenerse debidamente en cuenta. Este es uno de los derechos fundamentales recogidos en la Convención de las Naciones Unidas sobre los Derechos del Niño (CDN), que es en realidad el tratado internacional más ampliamente ratificado, con todos los países del mundo excepto uno -Estados Unidos de América- que lo han firmado. Esto es significativo porque establece las promesas que los gobiernos han hecho para garantizar que los niños puedan crecer felices, sanos y seguros y que tengan voz. Involucrar a los niños y garantizar que puedan compartir sus puntos de vista no es sólo algo agradable de hacer, es un derecho humano fundamental. Para mí, ahí es donde empieza todo: respetando las competencias de los niños, su autonomía y su capacidad de contribuir como expertos en sus propias vidas.
 
