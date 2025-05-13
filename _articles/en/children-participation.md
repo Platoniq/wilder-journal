@@ -31,7 +31,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-05-13-a-las-11.58.10.png
 ---
-Following a workshop organized by Coglobal we attended in Malaga, we interviewed Katie Reid, a children's rights specialist with nine years of experience in child and youth participation in (inter)national governance, advocacy, deliberative democracy, planning and environmental/climate justice.
+Following a workshop organized by Coglobal we attended in Malaga, we interviewed Katie Reid, a children's rights specialist with nine years of experience in child and youth participation in (inter)national governance, advocacy, deliberative democracy, planning and environmental/climate justice. Thanks to your mediation, we also have statements from some of the young members of the Assembly.
 
 #### **So, let’s start at the beginning, why do we need to listen to children, and why don’t we usually do it?**
 
