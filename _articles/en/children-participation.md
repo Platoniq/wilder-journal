@@ -111,7 +111,7 @@ I would struggle to find an issue that doesn’t somehow relate to children. Whi
 
 It’s essential that assemblies consider how their recommendations will impact vulnerable groups like children. Whether or not children are assembly members, we should find other ways to bring their voices into these processes. I’m excited to see how democracy can evolve to mainstream children’s participation across a wider range of issues.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-13-a-las-11.29.01.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-13-a-las-11.29.01.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Assembly members","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
 ## **We had the pleasure to interview two young members of the Irish Assembly, Oisin and Esther, who kindly answered some questions about their experience.**
 

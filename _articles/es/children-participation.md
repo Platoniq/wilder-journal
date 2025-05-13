@@ -114,7 +114,7 @@ Me costaría encontrar un tema que no esté relacionado de alguna manera con los
 
 Es esencial que las asambleas estudien cómo afectarán sus recomendaciones a grupos vulnerables como los niños. Independientemente de que los niños sean o no miembros de las asambleas, debemos encontrar otras formas de hacer oír su voz en estos procesos. Me entusiasma ver cómo puede evolucionar la democracia para incorporar la participación de los niños en una gama más amplia de cuestiones.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-13-a-las-11.29.01.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-13-a-las-11.29.01.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Miembros de la Asamblea","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
 ## **Tuvimos el placer de entrevistar a dos jóvenes miembros de la Asamblea irlandesa, Oisin y Esther, que amablemente respondieron a algunas preguntas sobre su experiencia.**
 
