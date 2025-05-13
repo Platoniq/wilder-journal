@@ -34,7 +34,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-05-13-a-las-11.58.10.png
 ---
-A raíz de un workshop al que asistimos en Málaga, entrevistamos a Katie Reid, especialista en derechos del niño con nueve años de experiencia en participación infantil y juvenil en gobernanza (inter)nacional, defensa, democracia deliberativa, planificación y justicia medioambiental/climática.
+A raíz de un workshop organizado por Coglobal al que asistimos en Málaga, entrevistamos a Katie Reid, especialista en derechos del niño con nueve años de experiencia en participación infantil y juvenil en gobernanza (inter)nacional, defensa, democracia deliberativa, planificación y justicia medioambiental/climática.
 
 #### **Empecemos por el principio, ¿por qué debemos escuchar a los niños y por qué no solemos hacerlo?**
 
