@@ -134,7 +134,7 @@ Oisin: Sí, parecía un espacio seguro. Todo el mundo era respetuoso y, como est
 
 Esther: Me pareció una experiencia muy agradable. Los adultos y los Jóvenes Consejeros fueron muy amables y nos apoyaron mucho. Eso marcó una gran diferencia.
 
-{% questions { "items": [{"question":"Qué es un espacio seguro para vosotros?"}] } %}
+{% questions { "items": [{"question":"¿Qué es un espacio seguro para vosotros?"}] } %}
 
 Esther: Para mí, un espacio seguro es un lugar donde puedo compartir mis ideas sin ser juzgada y donde todo el mundo es amable y acogedor.
 
@@ -192,7 +192,7 @@ Oisin: Sin duda es un problema. La gente puede creer lo que quiera, pero debemos
 
 Esther: Intento mantener la calma cuando oigo negacionismos en Internet. Un ejemplo claro de la pérdida de biodiversidad en Irlanda es cómo, hace años, la gente solía raspar los insectos del parabrisas de sus coches por la mañana, pero ya no. Eso demuestra hasta qué punto ha disminuido la vida de los insectos. Si investigas y miras a tu alrededor, las pruebas son claras.
 
-{% questions { "items": [{"question":"Qué futuro imaginais para el planeta?"}] } %}
+{% questions { "items": [{"question":"¿Qué futuro imaginais para el planeta?"}] } %}
 
 Esther: Si no actuamos, las cosas empeorarán: más huracanes, incendios y catástrofes. Pero si responsabilizamos a las empresas y fomentamos pequeñas acciones como plantar microbosques o dientes de león para las abejas, podríamos ver una mejora real. No tenemos mucho tiempo antes de que los efectos sean permanentes.
 
