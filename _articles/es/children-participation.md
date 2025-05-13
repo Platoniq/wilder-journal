@@ -19,7 +19,7 @@ author_uids:
 interviewee: Katie Reid
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-05-13-a-las-11.44.25.png
-  mobile: /media/articles/mobile/katie_reid.jpg
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-05-13-a-las-11.44.25.png
   thumbnail: /media/articles/thumbnails/katie_reid.jpg
   alt: Katie Reid
   credits: Children and Young People’s Assembly on Biodiversity Loss
