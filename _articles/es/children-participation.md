@@ -20,7 +20,7 @@ interviewee: Katie Reid + (Esther & Oisin)
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-05-13-a-las-11.50.30.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-05-13-a-las-11.50.30.png
-  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-05-13-a-las-11.44.25.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-05-13-a-las-11.50.30.png
   alt: Katie Reid
   credits: Children and Young People’s Assembly on Biodiversity Loss
   caption: Children and Young People’s Assembly on Biodiversity Loss
