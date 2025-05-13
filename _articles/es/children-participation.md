@@ -8,7 +8,8 @@ date-updated: 2025-05-12T12:08:00.000Z
 article-order: 11
 uid: children-participation
 title: Cuando todo gira en torno a la opinión de los niños. Sobre la
-  participación infantil en la elaboración de políticas públicas
+  participación infantil en la elaboración de políticas públicas (con Esther y
+  Oisin)
 description: Entrevista con Katie Reid, especialista en derechos del niño con
   nueve años de experiencia en participación infantil y juvenil en gobernanza
   (inter)nacional, defensa, democracia deliberativa, planificación y justicia
