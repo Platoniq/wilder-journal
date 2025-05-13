@@ -116,19 +116,19 @@ Es esencial que las asambleas estudien cómo afectarán sus recomendaciones a gr
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
-#### **Tuvimos el placer de entrevistar a dos jóvenes miembros de la Asamblea irlandesa, Oisin y Esther, que amablemente respondieron a algunas preguntas sobre su experiencia.**
+### **Tuvimos el placer de entrevistar a dos jóvenes miembros de la Asamblea irlandesa, Oisin y Esther, que amablemente respondieron a algunas preguntas sobre su experiencia.**
 
 Oisin: Soy Oisin. Tengo 15 años y vivo en Galway, Irlanda. Fui miembro de la Asamblea de Niños y Jóvenes de Irlanda sobre la Pérdida de Biodiversidad. Fui uno de los muchos niños seleccionados para representar las voces de los jóvenes de Irlanda. Debatimos sobre la pérdida de biodiversidad con otros niños de todo el país y desarrollamos ideas para presentar al gobierno.
 
 Esther: Soy Esther. Vivo en Cork y también fui miembro de la Asamblea. Como ha dicho Oisin, trabajamos para hacer llegar nuestras ideas al gobierno, compartir nuestras experiencias con la biodiversidad y explorar cómo podemos detener la pérdida de biodiversidad desde la perspectiva de un niño.
 
-#### **¿Por qué crees que es necesario escuchar a los niños? ¿Y por qué los adultos a menudo no lo hacen?**
+{% questions { "items": [{"question":"¿Por qué creeis que es necesario escuchar a los niños? ¿Y por qué los adultos a menudo no lo hacen?"}] } %}
 
 Esther: Creo que es necesario escuchar a los niños en cuestiones como la pérdida de biodiversidad, porque es nuestro futuro. Los adultos que vivimos ahora no estaremos aquí para siempre, así que debemos tener voz y voto en lo que ocurra a nuestra generación y a las siguientes. Creo que a veces los adultos subestiman a los niños y suponen que no sabemos tanto como ellos. Pero en algunos casos, los niños pueden saber más sobre biodiversidad que algunos adultos.
 
 Oisin: Estoy totalmente de acuerdo. Los niños aportan una perspectiva única porque no hemos estado expuestos a tantos esfuerzos por restar importancia a los riesgos de la pérdida de biodiversidad. Hemos crecido en una época en la que se reconoce y se discute ampliamente. Hemos visto las consecuencias a lo largo de nuestra vida, tanto en Irlanda como en el resto del mundo a causa del cambio climático. Los adultos a menudo no nos toman en serio porque somos más jóvenes y creen que su experiencia les da más conocimientos. Pero, como dijo Esther, nuestra visión añade un elemento diferente y valioso a la conversación.
 
-#### **¿Te sentiste en la Asamblea como en un espacio seguro para expresar tus ideas? ¿Cómo fue tu experiencia durante los diálogos y debates?**
+{% questions { "items": [{"question":"¿Te sentiste en la Asamblea como en un espacio seguro para expresar tus ideas? ¿Cómo fue tu experiencia durante los diálogos y debates?"}] } %}
 
 Oisin: Sí, parecía un espacio seguro. Todo el mundo era respetuoso y, como estábamos rodeados de personas con ideas afines que compartían nuestra pasión, no se criticaban nuestras ideas. Los Jóvenes Consejeros ayudaron especialmente a los más pequeños a sentirse más cómodos compartiendo sus ideas porque eran más cercanos en edad.
 
@@ -140,23 +140,23 @@ Esther: Para mí, un espacio seguro es un lugar donde puedo compartir mis ideas 
 
 Oisin: Estoy totalmente de acuerdo. Es un lugar donde los niños se sienten cómodos hablando. Esa fue una de las mejores partes de la Asamblea: si no se hubieran sentido seguros, algunos niños habrían sido demasiado tímidos para hablar y sus valiosas ideas se habrían perdido.
 
-#### **¿Crees que todos los niños pueden participar en procesos como éste, o necesitan tener ciertas ideas ya formadas?**
+{% questions { "items": [{"question":"¿Crees que todos los niños pueden participar en procesos como éste, o necesitan tener ciertas ideas ya formadas?"}] } %}
 
 Oisin: Todos los niños deberían tener la oportunidad de participar. Necesitamos una mezcla de opiniones; si sólo escuchamos un tipo de voz, podríamos perdernos soluciones clave. Es esencial incluir a niños de distintas procedencias y partes del país para comprender realmente lo que quieren los jóvenes.
 
-#### **Utilizasteis distintos métodos, como cuentos, dibujos y paseos, para expresaros. ¿Cuáles fueron sus actividades favoritas?**
+{% questions { "items": [{"question":"¿Utilizasteis distintos métodos, como cuentos, dibujos y paseos, para expresaros. ¿Cuáles fueron sus actividades favoritas?"}] } %}
 
 Esther: Me gustaron mucho los paseos. Estar en la naturaleza me ayudó a ver de primera mano lo que corremos el riesgo de perder. Fue tranquilo e inspirador.
 
 Oisin: Lo mismo digo. Experimentar la naturaleza de cerca nos recordó la belleza que intentamos proteger. También hicimos dibujos y utilizamos otros métodos el último día para ayudar a todos -tanto si preferían hablar como escribir- a compartir sus ideas.
 
-#### **¿Participaste en el diseño de la Asamblea? ¿Consideras que faltó alguna cosa?**
+{% questions { "items": [{"question":"¿Participaste en el diseño de la Asamblea? ¿Consideras que faltó alguna cosa?"}] } %}
 
 Esther: Sí, estuvimos muy implicados a través de los Jóvenes Consejeros. Nos ayudaron a dar forma a la Asamblea para hacerla accesible a los niños. Incluso ayudamos a desarrollar las 58 llamadas a la acción y los seis mensajes clave. Uno de los mensajes clave fue el mío: «Debemos tratar a la Tierra como a un miembro de nuestra familia o a un amigo íntimo». El Taoiseach lo mencionó, ¡fue increíble!
 
 Oisin: Los Jóvenes Consejeros fueron cruciales a la hora de diseñar la Asamblea. Sabían lo que necesitaban los niños para sentirse cómodos y comprometidos. Incluyeron juegos y actividades divertidas para que no pareciera un trabajo escolar, lo que ayudó a mantener el interés de todos, especialmente de los más pequeños.
 
-#### **¿Fue difícil gestionar un grupo tan grande?**
+{% questions { "items": [{"question":"¿Fue difícil gestionar un grupo tan grande?"}] } %}
 
 Oisin: Había unos 30 miembros, así que no era demasiado grande. Los Jóvenes Consejeros y los animadores adultos ayudaron a que todo fuera sobre ruedas. Todo el mundo se respetaba, lo que facilitó las cosas.
 
@@ -166,7 +166,7 @@ Esther: Hubo 58 Llamamientos a la Acción, agrupados en diferentes temas. Aún c
 
 Oisin: Estoy de acuerdo. Para mí, el punto clave fue la importancia de la educación. Al principio, algunos miembros de la Asamblea no entendían del todo la pérdida de biodiversidad, pero al final todos lo hicimos. Si la gente no sabe cuál es el problema, no actuará. La educación es el primer paso para un cambio real.
 
-#### **¿Cómo fue la experiencia de hablar con funcionarios o políticos?**
+{% questions { "items": [{"question":"¿Cómo fue la experiencia de hablar con funcionarios o políticos?"}] } %}
 
 Esther: Hubo dos Asambleas: una para niños y otra para adultos. Conocí a algunos de los adultos, incluida la Ministra de Biodiversidad, que fue muy amable y alentadora. Fue una buena experiencia.
 
@@ -174,19 +174,19 @@ Oisin: Un año después, hablé en el Oireachtas (Parlamento irlandés) con otro
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZAZnJ10vVY?si=2XYNh8jBJpwkwRnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### **¿Hay algo más que os gustaría compartir?**
+{% questions { "items": [{"question":"¿Hay algo más que os gustaría compartir?"}] } %}
 
 Esther: Formo parte del Comité Verde de mi colegio. Hemos organizado actividades divertidas en torno al reciclaje y las prácticas ecológicas. También hablé con un periódico sobre el uso de pesticidas en mi pueblo, ¡y ahora la gente ha dejado de usarlos! Si algo te preocupa, habla. Alguien te escuchará.
 
 Oisin: Ahora estoy en la enseñanza superior, así que ya no participo en las Escuelas Verdes, pero he hecho otras cosas. Me presenté a concursos científicos con proyectos ecológicos y trabajé en un proyecto llamado TRYBE con otros miembros de la Asamblea para crear recursos gratuitos sobre biodiversidad para las escuelas de toda Irlanda.
 
-#### **¿Crees que participar en la Asamblea te ayudó a entender mejor la democracia?**
+{% questions { "items": [{"question":"¿Crees que participar en la Asamblea te ayudó a entender mejor la democracia?"}] } %}
 
 Oisin: Sí. Me enseñó la importancia de escuchar a todo el mundo, especialmente a los niños. Nosotros también somos ciudadanos y nuestras voces merecen ser escuchadas.
 
 Esther: Exacto. Aunque no podemos votar, ayudamos a crear algo poderoso que el gobierno realmente escuchó. La voz de todos importa.
 
-#### **¿Qué opinas del negacionismo climático o la desinformación en Internet? ¿Cómo lo afrontais?**
+{% questions { "items": [{"question":"¿Qué opinas del negacionismo climático o la desinformación en Internet? ¿Cómo lo afrontais?"}] } %}
 
 Oisin: Sin duda es un problema. La gente puede creer lo que quiera, pero debemos educarla con hechos. Las pruebas científicas demuestran que la pérdida de biodiversidad es real y está ocurriendo todos los días. Si la gente lo ignora, nos arriesgamos al colapso de los ecosistemas, algo que nos afecta a todos.
 
