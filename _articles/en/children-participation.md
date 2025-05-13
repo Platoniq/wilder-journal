@@ -113,7 +113,7 @@ It’s essential that assemblies consider how their recommendations will impact 
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
-### **We had the pleasure to interview two young members of the Irish Assembly, Oisin and Esther, who kindly answered some questions about their experience.**
+## **We had the pleasure to interview two young members of the Irish Assembly, Oisin and Esther, who kindly answered some questions about their experience.**
 
 Oisin: So, I'm Oisin. I'm 15 years old and I live in Galway, Ireland. I was an Assembly member for Ireland’s Children and Young People’s Assembly on Biodiversity Loss. I was one of many children selected to represent the voices of young people in Ireland. We discussed biodiversity loss with other children from across the country and developed ideas to present to the government.
 
