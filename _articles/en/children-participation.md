@@ -111,11 +111,9 @@ I would struggle to find an issue that doesn’t somehow relate to children. Whi
 
 It’s essential that assemblies consider how their recommendations will impact vulnerable groups like children. Whether or not children are assembly members, we should find other ways to bring their voices into these processes. I’m excited to see how democracy can evolve to mainstream children’s participation across a wider range of issues.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-05-12-a-las-12.41.23.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-13-a-las-11.29.01.png","alt":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Children and Young People’s Assembly on Biodiversity Loss","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
 
 ## **We had the pleasure to interview two young members of the Irish Assembly, Oisin and Esther, who kindly answered some questions about their experience.**
-
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-13-a-las-11.19.58.png","credits":"Children and Young People’s Assembly on Biodiversity Loss","caption":"Assembly Members","alt":"Assembly Members"}] } %}
 
 Oisin: So, I'm Oisin. I'm 15 years old and I live in Galway, Ireland. I was an Assembly member for Ireland’s Children and Young People’s Assembly on Biodiversity Loss. I was one of many children selected to represent the voices of young people in Ireland. We discussed biodiversity loss with other children from across the country and developed ideas to present to the government.
 
