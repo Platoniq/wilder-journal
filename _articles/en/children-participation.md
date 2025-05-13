@@ -8,7 +8,7 @@ date-updated: 2025-05-12T12:08:00.000Z
 article-order: 11
 uid: children-participation
 title: When it's all about children's voices. On children's participation in
-  public policy-making
+  public policy-making (with Esther and Oisin)
 description: Interview with Katie Reid, child rights specialist with nine years
   of experience of child and youth participation in (inter)national governance,
   advocacy, deliberative democracy, planning and environmental/climate justice
