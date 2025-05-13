@@ -16,7 +16,7 @@ description: Entrevista con Katie Reid, especialista en derechos del niño con
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
-interviewee: Katie Reid
+interviewee: Katie Reid + (Esther & Oisin)
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-05-13-a-las-11.44.25.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-05-13-a-las-11.44.25.png
