@@ -13,7 +13,7 @@ description: Interview with Katie Reid, child rights specialist with nine years
   of experience of child and youth participation in (inter)national governance,
   advocacy, deliberative democracy, planning and environmental/climate justice
 author: Cristian Palazzi
-interviewee: Katie Reid + (Esther & Oisin)
+interviewee: Katie Reid
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-05-13-a-las-11.50.30.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-05-13-a-las-11.50.30.png
