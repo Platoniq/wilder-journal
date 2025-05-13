@@ -118,6 +118,8 @@ Es esencial que las asambleas estudien cómo afectarán sus recomendaciones a gr
 
 ## **Tuvimos el placer de entrevistar a dos jóvenes miembros de la Asamblea irlandesa, Oisin y Esther, que amablemente respondieron a algunas preguntas sobre su experiencia.**
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-05-13-a-las-11.19.58.png","alt":"Miembros de la Asamblea","caption":"Miembros de la Asamblea","credits":"Children and Young People’s Assembly on Biodiversity Loss"}] } %}
+
 Oisin: Soy Oisin. Tengo 15 años y vivo en Galway, Irlanda. Fui miembro de la Asamblea de Niños y Jóvenes de Irlanda sobre la Pérdida de Biodiversidad. Fui uno de los muchos niños seleccionados para representar las voces de los jóvenes de Irlanda. Debatimos sobre la pérdida de biodiversidad con otros niños de todo el país y desarrollamos ideas para presentar al gobierno.
 
 Esther: Soy Esther. Vivo en Cork y también fui miembro de la Asamblea. Como ha dicho Oisin, trabajamos para hacer llegar nuestras ideas al gobierno, compartir nuestras experiencias con la biodiversidad y explorar cómo podemos detener la pérdida de biodiversidad desde la perspectiva de un niño.
