@@ -18,7 +18,7 @@ author_uids:
   - cristian-palazzi
 interviewee: Katie Reid
 cover:
-  path: /media/articles/heroes/katie_reid.jpg
+  path: /media/articles/heroes/captura-de-pantalla-2025-05-13-a-las-11.44.25.png
   mobile: /media/articles/mobile/katie_reid.jpg
   thumbnail: /media/articles/thumbnails/katie_reid.jpg
   alt: Katie Reid
