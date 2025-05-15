@@ -7,7 +7,7 @@ date: 2025-01-30T11:41:00.000Z
 date-updated: 2025-01-30T11:41:00.000Z
 article-order: 11
 uid: renata-avila-commons
-title: "overnance needs fiesta: Joyfully reconnecting the open movement with
+title: "Governance needs fiesta: Joyfully reconnecting the open movement with
   grassroots movements"
 description: "In this provocative conversation, Guatemalan technology and
   intellectual property lawyer and activist Renata Avila, who works at the
