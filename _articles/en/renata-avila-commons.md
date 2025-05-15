@@ -54,7 +54,7 @@ From the point of view of the commons, it is more effective to start from genera
 
 However, a mercantilist view prevailed in the regulation of digital rights. Another approach that could have been useful is to assess technological impacts from a community perspective, beyond the individual. Although there are figures such as Max Schrems who have made great strides in digital rights, their vision is very much focused on ‘my data, my rights’. There has been a lack of a perspective that looks at the collective and the community.
 
-{% quote %}undefined{% endquote %}
+{% quote { "author": "Renata Avila" } %}It all starts with how we refer to people. We talk about users, not communities, and that makes a big difference.{% endquote %}
 
 **Olivier: From your position as Executive Director of the Open Knowledge Foundation, what are the biggest tensions we see within the commons movement, especially in the balance between openness, inclusiveness and privacy?**
 
