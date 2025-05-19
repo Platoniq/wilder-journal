@@ -39,7 +39,7 @@ In this context, there was a moment of absolute clarity, where discussions on pa
 
 The most powerful image of the retreat was captured by photojournalist **Victoria Rovira**, who documented the devastating floods in Valencia with unparalleled depth and sensitivity.
 
-{% gallery { "simple": false, "images": [{"path":"/media/victoria-rovira_aldaia_2024.png","caption":"Valencia's Floods (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/victoria-rovira_aldaia_2024.jpeg","caption":"Valencia's Floods (Aldaia, 4 Nov 2024)","credits":"Photo by Victoria Rovira Casanovas (permission granted by author)"}] } %}
 
 There are moments when an image transcends mere documentation, imprinting itself on the body, carrying an affective weight that lingers long after the first viewing.
 
