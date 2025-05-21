@@ -125,7 +125,7 @@ Esther: Yo soy Esther. Vivo en Cork y también fui miembro de la Asamblea. Como 
 
 {% questions { "items": [{"question":"¿Por qué creeis que es necesario escuchar a los niños? ¿Y por qué los adultos a menudo no lo hacen?"}] } %}
 
-Esther: Creo que es necesario escuchar a los niños en cuestiones como la pérdida de biodiversidad, porque es nuestro futuro. Los adultos que vivimos ahora no estaremos aquí para siempre, así que debemos tener voz y voto en lo que ocurra a nuestra generación y a las siguientes. Creo que a veces los adultos subestiman a los niños y suponen que no sabemos tanto como ellos. Pero en algunos casos, los niños pueden saber más sobre biodiversidad que algunos adultos.
+Esther: Creo que es necesario escuchar a los niños en cuestiones como la pérdida de biodiversidad, porque es nuestro futuro. Los adultos que viven ahora no estarán aquí para siempre, así que debemos tener voz y voto en lo que ocurra a nuestra generación y a las siguientes. Creo que a veces los adultos subestiman a los niños y suponen que no sabemos tanto como ellos. Pero en algunos casos, los niños pueden saber más sobre biodiversidad que algunos adultos.
 
 Oisin: Estoy totalmente de acuerdo. Los niños aportan una perspectiva única porque no hemos estado expuestos a tantos esfuerzos por restar importancia a los riesgos de la pérdida de biodiversidad. Hemos crecido en una época en la que se reconoce y se discute ampliamente. Hemos visto las consecuencias a lo largo de nuestra vida, tanto en Irlanda como en el resto del mundo a causa del cambio climático. Los adultos a menudo no nos toman en serio porque somos más jóvenes y creen que su experiencia les da más conocimientos. Pero, como dijo Esther, nuestra visión añade un elemento diferente y valioso a la conversación.
 
@@ -163,7 +163,7 @@ Oisin: Había unos 30 miembros, así que no era demasiado grande. Los Jóvenes C
 
 {% questions { "items": [{"question":"¿Cuál fue la conclusión más importante a la que llegasteis en la Asamblea?"}] } %}
 
-Esther: Hubo 58 Llamamientos a la Acción, agrupados en diferentes temas. Aún conservo el póster con ellas. Para mí, el mensaje más importante fue conservar lo que aún tenemos y construir sobre ello. Aunque no podamos restaurarlo todo, podemos proteger lo que queda e intentar reconstruir todo lo que podamos.
+Esther: Hubo 58 llamamientos a la Acción, agrupados en diferentes temas. Aún conservo el póster con ellas. Para mí, el mensaje más importante fue conservar lo que aún tenemos y construir sobre ello. Aunque no podamos restaurarlo todo, podemos proteger lo que queda e intentar reconstruir todo lo que podamos.
 
 Oisin: Estoy de acuerdo. Para mí, el punto clave fue la importancia de la educación. Al principio, algunos miembros de la Asamblea no entendían del todo la pérdida de biodiversidad, pero al final todos lo hicimos. Si la gente no sabe cuál es el problema, no actuará. La educación es el primer paso para un cambio real.
 
