@@ -28,7 +28,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/dscf5135.jpg
 ---
 In times when deliberative participation is increasingly promoted as a solution to democratic crises, it is urgent to stop and think about from where, for whom and under what frameworks these processes are designed. What does it mean to participate if the rules of the game are imposed? What does it mean to talk about inclusion without talking about deliberative autonomy, material conditions and community times?
 

@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/dscf5135.jpg
 ---
 En tiempos donde la participación deliberativa es cada vez más promovida como una solución a las crisis democráticas, es urgente detenernos a pensar desde dónde, para quién y bajo qué marcos se diseñan estos procesos. ¿Qué significa participar si las reglas del juego están impuestas? ¿Qué implica hablar de inclusión sin hablar de la autonomía deliberativa, las condiciones materiales y los tiempos de las comunidades?
 
