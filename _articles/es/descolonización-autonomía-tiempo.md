@@ -16,7 +16,7 @@ author_uids:
 interviewee: Azucena Morán
 cover:
   path: /media/articles/heroes/dscf5135.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/dscf5135.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Azucena Morán
   credits: Azucena Morán
@@ -137,7 +137,7 @@ Ahí, la participación es solo un adorno. Las consultas son simplemente mecanis
 
 {% quote %}El proceso de participación acaba siendo una fachada. Una consulta que es puro decorado, sin reconocimiento real de los sistemas autónomos de decisión.{% endquote %}
 
-Desde la Escuela de Creatividad Y Democracía, esta crítica nos interpela directamente: ¿cómo construir procesos que no refuercen la ficción de participación mientras perpetúan el monopolio del diseño y del control? ¿Qué implicaría renunciar, desde el inicio, a decidir el marco en nombre de la neutralidad?
+Desde la Escuela de Creatividad y Democracia, esta crítica nos interpela directamente: ¿cómo construir procesos que no refuercen la ficción de participación mientras perpetúan el monopolio del diseño y del control? ¿Qué implicaría renunciar, desde el inicio, a decidir el marco en nombre de la neutralidad?
 
 ## Repensar el diseño deliberativo: recomendaciones desde la autonomía y la historia
 
