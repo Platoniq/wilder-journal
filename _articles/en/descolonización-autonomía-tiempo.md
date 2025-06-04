@@ -17,7 +17,7 @@ interviewee: Azucena Morán
 cover:
   path: /media/articles/heroes/dscf5135.jpg
   mobile: /media/articles/mobile/dscf5135.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/dscf5135.jpg
 related_article_uids:
   - amber-huff
   - data-streamers
