@@ -51,7 +51,7 @@ Así que creo que ese es mi background: ese choque entre la mirada latinoamerica
 
 ## Deliberación frente a la descolonización entendida como defensa de la vida, la tierra y la autonomía deliberativa
 
-Olivier: En Europa, y en muchos debates internacionales, el concepto de descolonización ha entrado en el vocabulario, pero muchas veces de manera bastante superficial o simbólica. Desde tu experiencia, ¿qué significa realmente descolonizar la participación, especialmente en el campo de la deliberación?
+### Olivier: En Europa, y en muchos debates internacionales, el concepto de descolonización ha entrado en el vocabulario, pero muchas veces de manera bastante superficial o simbólica. Desde tu experiencia, ¿qué significa realmente descolonizar la participación, especialmente en el campo de la deliberación?
 
 Azucena: Yo creo que el término "descolonización" se ha usado muchísimo en los últimos años, pero se ha desconectado de las luchas concretas de descolonización que llevan a cabo muchísimas comunidades indígenas y afrodescendientes. A nivel académico, se ha reducido a decir: “Vamos a leer más allá del canon” o “Vamos a adaptar las prácticas occidentales para incluir a otros”. María Jacinta Xon tiene un artículo brillante donde lo llama “prácticas coloridas”: esos elementos que se agregan para esconder la exclusión que siguen reproduciendo estos procesos.
 
@@ -69,7 +69,7 @@ Perfecto, continúo entonces con el siguiente bloque, manteniendo el mismo nivel
 
 ## Tiempo, autonomía y las trampas del reloj institucional: hacia una justicia temporal
 
-Olivier: En el marco de un paper que estamos preparando en el contexto del proyecto INSPIRE, titulado Democracy Takes Time: Intersectional Temporalities in Participation and Deliberation, proponemos la idea de mapear los desajustes entre los ritmos institucionales y los tiempos vividos por las personas y comunidades. En varias partes de nuestra conversación has señalado cómo el tiempo es también una dimensión de poder. ¿Cómo ves esta tensión entre los tiempos de las instituciones y los tiempos de las comunidades?
+### Olivier: En el marco de un paper que estamos preparando en el contexto del proyecto INSPIRE, titulado Democracy Takes Time: Intersectional Temporalities in Participation and Deliberation, proponemos la idea de mapear los desajustes entre los ritmos institucionales y los tiempos vividos por las personas y comunidades. En varias partes de nuestra conversación has señalado cómo el tiempo es también una dimensión de poder. ¿Cómo ves esta tensión entre los tiempos de las instituciones y los tiempos de las comunidades?
 
 Azucena: El tiempo es absolutamente central, especialmente en los procesos de consulta estatal. El Estado llega y dice: “Tienen hasta tal fecha para deliberar y darnos una respuesta”. Pero esos plazos no respetan los ritmos de decisión colectiva de las comunidades. Si las comunidades dicen que no pueden responder en ese tiempo, entonces el Estado las acusa de no querer participar. Pero esa es una trampa. El tiempo impuesto es una forma de violencia.
 
@@ -91,7 +91,7 @@ Esto es muy evidente en las asambleas climáticas. Se habla mucho de justicia cl
 
 ## Tecnología, participación y las falsas promesas de la neutralidad
 
-Olivier: En Europa y otros contextos del Norte global, las innovaciones democráticas digitales —plataformas de participación online, deliberaciones híbridas, herramientas de votación— son presentadas como la gran promesa para ampliar la participación. Desde tu experiencia, ¿cómo ves estos discursos tecnológicos? ¿Qué potenciales y qué riesgos identificas?
+### Olivier: En Europa y otros contextos del Norte global, las innovaciones democráticas digitales —plataformas de participación online, deliberaciones híbridas, herramientas de votación— son presentadas como la gran promesa para ampliar la participación. Desde tu experiencia, ¿cómo ves estos discursos tecnológicos? ¿Qué potenciales y qué riesgos identificas?
 
 Azucena: Creo que el principal problema es asumir que la tecnología es neutral. Y no lo es. Una plataforma puede ser útil, sí, pero siempre y cuando esté pensada desde las prácticas y las condiciones materiales de las comunidades que la van a usar. Lo hemos visto muchas veces: se diseña una plataforma digital que parece moderna y participativa, pero termina dejando fuera a quienes no tienen conexión estable, o a quienes no manejan esos lenguajes tecnológicos. En cambio, cuando los procesos parten de lo que ya existe —por ejemplo, la radio comunitaria, las asambleas barriales, las formas híbridas adaptadas a cada contexto—, entonces sí puede haber participación real.
 
@@ -103,7 +103,7 @@ En la Escuela de Creatividad y Democracia, compartimos esta crítica a la ilusi�
 
 ## Entre algoritmos, representación y autonomía: los límites de la ingeniería deliberativa
 
-Olivier: En nuestras investigaciones sobre sorteo cívico y diseño de procesos deliberativos, surge a menudo la cuestión de si los algoritmos de selección deberían ajustarse según el tema a tratar o según quiénes se ven más directamente afectados. Pienso, por ejemplo, en una experiencia en Canadá que me comentaba John Gastill, donde al discutir sobre explotación del territorio se estableció una mesa específica para representantes de comunidades nativas. Sin embargo, no encuentro muchos ejemplos documentados de procesos que hayan roto realmente con el principio clásico de representatividad. ¿Qué opinas sobre esta idea de ajustar los procesos deliberativos bajo la lógica de la “discriminación positiva”? ¿Conoces alguna experiencia que haya ido más allá?
+### Olivier: En nuestras investigaciones sobre sorteo cívico y diseño de procesos deliberativos, surge a menudo la cuestión de si los algoritmos de selección deberían ajustarse según el tema a tratar o según quiénes se ven más directamente afectados. Pienso, por ejemplo, en una experiencia en Canadá que me comentaba John Gastill, donde al discutir sobre explotación del territorio se estableció una mesa específica para representantes de comunidades nativas. Sin embargo, no encuentro muchos ejemplos documentados de procesos que hayan roto realmente con el principio clásico de representatividad. ¿Qué opinas sobre esta idea de ajustar los procesos deliberativos bajo la lógica de la “discriminación positiva”? ¿Conoces alguna experiencia que haya ido más allá?
 
 Azucena: No sé si lo llamaría “discriminación positiva”, conceptualmente. Ahí aparece mi pajarito académico… Creo que es mucho más importante, dependiendo del contexto, hablar de autonomía y no de discriminación positiva. Porque si seguimos usando ese lenguaje, seguimos pensando que se trata de hacerle un favor a la gente cuando la incluimos. Y eso es profundamente problemático si no cuestionamos las raíces del sistema de gobernanza que estamos operando.
 
@@ -121,7 +121,7 @@ Si mantienes intactas esas estructuras, aunque el algoritmo sea “perfecto”, 
 
 Desde la Escuela de Creatividad y Democracia, esta reflexión nos confronta con una pregunta fundamental: ¿hasta qué punto nuestros propios marcos deliberativos son dispositivos de control, aunque bien intencionados? ¿Qué significa realmente abrir la posibilidad de que las reglas, los tiempos y los lenguajes no vengan dados de antemano?
 
-Olivier: Eso resuena con debates que tenemos sobre los formatos de las asambleas: las mesas temáticas, los tiempos rígidos, los turnos de palabra… A veces discutimos cómo mejorar los algoritmos de sorteo, pero no cuestionamos la arquitectura misma del proceso.
+### Olivier: Eso resuena con debates que tenemos sobre los formatos de las asambleas: las mesas temáticas, los tiempos rígidos, los turnos de palabra… A veces discutimos cómo mejorar los algoritmos de sorteo, pero no cuestionamos la arquitectura misma del proceso.
 
 Azucena: Exacto. Puedes tener el algoritmo más balanceado, pero si sigues con mesas temáticas que no permiten que las conversaciones fluyan, o si el tiempo sigue siendo impuesto desde fuera, el resultado no cambia. No hemos transformado cómo se despliegan las conversaciones ni cómo se escuchan realmente las voces.
 
@@ -141,7 +141,7 @@ Desde la Escuela de Creatividad Y Democracía, esta crítica nos interpela direc
 
 ## Repensar el diseño deliberativo: recomendaciones desde la autonomía y la historia
 
-Olivier: Para cerrar, me gustaría preguntarte: ¿qué le dirías a quienes diseñan procesos deliberativos desde Europa, especialmente en contextos urbanos, sobre cómo podrían aprender de las luchas anticoloniales y de las prácticas autónomas? ¿Qué recomendaciones darías para no caer en las trampas que hemos venido conversando?
+### Olivier: Para cerrar, me gustaría preguntarte: ¿qué le dirías a quienes diseñan procesos deliberativos desde Europa, especialmente en contextos urbanos, sobre cómo podrían aprender de las luchas anticoloniales y de las prácticas autónomas? ¿Qué recomendaciones darías para no caer en las trampas que hemos venido conversando?
 
 Azucena: Creo que lo primero es dejar de pensar que la deliberación es un invento reciente. Hay mucho que aprender de las prácticas deliberativas que llevan siglos existiendo en otros lugares del mundo. Eso requiere humildad, y también voluntad de escuchar.
 
