@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: true
-date: 2025-06-05T14:00:00.000Z
-date-updated: 2025-06-05T14:00:00.000Z
+date: 2025-06-05T13:00:00.000Z
+date-updated: 2025-06-05T13:00:00.000Z
 article-order: 12
 uid: Descolonización-autonomía-tiempo
 title: Decolonisation, autonomy and time in deliberative democracy
