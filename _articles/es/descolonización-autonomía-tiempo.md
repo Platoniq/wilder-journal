@@ -127,7 +127,7 @@ Desde la Escuela de Creatividad y Democracia, esta reflexión nos confronta con 
 
 Azucena: Exacto. Puedes tener el algoritmo más balanceado, pero si sigues con mesas temáticas que no permiten que las conversaciones fluyan, o si el tiempo sigue siendo impuesto desde fuera, el resultado no cambia. No hemos transformado cómo se despliegan las conversaciones ni cómo se escuchan realmente las voces.
 
-{% gallery { "simple": false, "images": [{"path":"/media/nuestra_mayor_venganza_será_estar_vivas_1._regina_josé_galindo.jpg","caption":"Regina José Galindo, Nuestra mayor venganza será estar vivas (2022)","credits":"Fotografía de Milenaenapuros","alt":"Regina Jose Galindo"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/nuestra_mayor_venganza_será_estar_vivas_1._regina_josé_galindo.jpg","caption":"Regina José Galindo, Nuestra mayor venganza será estar vivas (2022)","credits":"Fotografía de Milenaenapuros","alt":"Regina José Galindo"}] } %}
 
 Y hay otra capa muy importante: cómo las dinámicas de poder que existen fuera de los espacios deliberativos se replican dentro de ellos. Hay muchísima investigación que muestra cómo los hombres hablan más, cómo las mujeres adaptan sus opiniones, cómo las jerarquías raciales se reproducen incluso en estos espacios “participativos”. Muchas veces, las personas más vulnerabilizadas son obligadas a asumir el rol de representar a su comunidad, sin sentirse realmente elegidas o legítimas para hacerlo.
 

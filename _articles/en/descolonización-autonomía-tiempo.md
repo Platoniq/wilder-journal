@@ -56,6 +56,8 @@ Azucena: I think the term ‘decolonisation’ has been used a lot in recent yea
 
 If we really talk about decolonisation, then we have to talk today, for example, about the great political and academic contradictions and complicities: about Palestine, about Sudan, about the land struggles of Mayan communities, about deliberative autonomy, about the contradictions that systems of participation have brought about by displacing autonomous forms of indigenous governance. As Gladys Tzul Tzul and many other indigenous scholars have repeated over and over again: this is not about a romantic past, it is about living processes, about struggles that continue every day to defend life, autonomy and land.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-06-05-a-las-16.44.00.png","alt":"Regina José Galindo","caption":"Regina José Galindo, Nadie atraviesa la región sin ensuciarse (2015)","credits":"Fotografía de Jorge Chirinos y Alan Gutierrez"}] } %}
+
 If we disconnect decolonisation from these struggles, we erase the anti-colonial project. We erase the possibility of imagining a world outside the framework of Europe as a project.
 
 {% quote %}There is so much history, so many movements, so many systems of collective, deliberative, autonomous organisation present, that I don't think the approach should be: ‘this practice is decolonised’. It is not a question of correcting three mistakes in a state institution to say that it is now decolonised. The point is: what processes continue to defend the anti-colonial struggle today?{% endquote %}
@@ -121,6 +123,8 @@ From the School of Creativity and Democracy, this reflection confronts us with a
 #### Olivier: That resonates with debates we have about the formats of the assemblies: the thematic tables, the rigid timings, the speaking turns... Sometimes we discuss how to improve the algorithms of the drawing of lots, but we don't question the very architecture of the process.
 
 Azucena: Exactly. You can have the most balanced algorithm, but if you continue with thematic tables that don't allow the conversations to flow, or if the time is still imposed from outside, the result doesn't change. We have not transformed how conversations unfold and how voices are actually heard.
+
+{% gallery { "simple": false, "images": [{"path":"/media/nuestra_mayor_venganza_será_estar_vivas_1._regina_josé_galindo.jpg","credits":"Fotografía de Milenaenapuros","caption":"Regina José Galindo, Nuestra mayor venganza será estar vivas (2022)","alt":"Regina José Galindo"}] } %}
 
 And there is another very important layer: how power dynamics that exist outside deliberative spaces are replicated within them. There is a lot of research that shows how men speak more, how women adapt their opinions, how racial hierarchies are reproduced even in these ‘participatory’ spaces. Often, the most vulnerable people are forced to take on the role of representing their community, without really feeling chosen or legitimate to do so.
 
