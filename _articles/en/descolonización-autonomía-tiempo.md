@@ -124,7 +124,7 @@ From the School of Creativity and Democracy, this reflection confronts us with a
 
 Azucena: Exactly. You can have the most balanced algorithm, but if you continue with thematic tables that don't allow the conversations to flow, or if the time is still imposed from outside, the result doesn't change. We have not transformed how conversations unfold and how voices are actually heard.
 
-{% gallery { "simple": false, "images": [{"path":"/media/nuestra_mayor_venganza_será_estar_vivas_1._regina_josé_galindo.jpg","credits":"Fotografía de Milenaenapuros","caption":"Regina José Galindo, Nuestra mayor venganza será estar vivas (2022)","alt":"Regina José Galindo"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-06-05-a-las-16.54.19.png","credits":"Fotografía de Milenaenapuros","caption":"Regina José Galindo, Nuestra mayor venganza será estar vivas (2022)","alt":"Regina José Galindo"}] } %}
 
 And there is another very important layer: how power dynamics that exist outside deliberative spaces are replicated within them. There is a lot of research that shows how men speak more, how women adapt their opinions, how racial hierarchies are reproduced even in these ‘participatory’ spaces. Often, the most vulnerable people are forced to take on the role of representing their community, without really feeling chosen or legitimate to do so.
 
