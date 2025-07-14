@@ -7,7 +7,7 @@ date: 2025-07-08T15:53:00.000Z
 date-updated: 2025-07-08T15:53:00.000Z
 article-order: 8
 uid: soiltribes
-title: "Volver a la Tierra: Una Misión Glocal para Regenerar el Suelo"
+title: "Volver a la Tierra: Una Misión Glocal para Regenerar el Suelo "
 description: "SoilTribes aspira a establecer, activar y potenciar ecosistemas
   glocales para los valores, funciones y conectividad del suelo a través de
   narrativas de «vuelta a la Tierra», tendiendo puentes entre la ciencia, la
