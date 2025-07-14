@@ -17,11 +17,13 @@ author_uids:
   - nadia-nadesan
 cover:
   path: /media/articles/heroes/photo_2025-07-02_10-43-14.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/photo_2025-07-02_10-43-14.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: tarot
   credits: tarot
   caption: tarot
+related_article_uids:
+  - esepe-danse-macabre
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
