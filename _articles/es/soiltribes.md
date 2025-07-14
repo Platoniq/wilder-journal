@@ -17,7 +17,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Soiltribes
   credits: Soiltribes
