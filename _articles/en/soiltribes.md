@@ -26,6 +26,8 @@ image:
 
 **In response to this crisis, SoilTribes seeks to establish, activate, and strengthen glocal ecosystems for soil values, functions, and connectivity through “Back to the Earth” narratives, building bridges between science, technology, the arts, and community-driven action.** Through knowledge exchange, interdisciplinary collaboration, and community-led initiatives, the project’s mission is to promote a systemic and glocal approach to soil restoration, ensuring its long-term sustainability as a vital resource for future generations.
 
+{% gallery { "simple": false, "images": [{"path":"/media/soiltribes-cop-general.png"}] } %}
+
 ## **Creating Tribes to Defend the Soil**
 
 At its core, SoilTribes is built as a dynamic network comprising several interconnected groups, each playing a distinct role in promoting soil health.
