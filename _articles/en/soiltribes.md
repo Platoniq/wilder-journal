@@ -38,6 +38,8 @@ At regional and local levels, SoilTribes deploys seven** [Soil Lab Activators](h
 
 Additionally, seven **[Stewardship Assemblies](https://commons.soiltribes.eu/assemblies/stewardshipAssembly)**, led by municipalities, serve as participatory forums to collaboratively identify and address local soil challenges. They facilitate peer learning, twinning visits, training, and the co-creation of local soil action plans, fostering community ownership of soil stewardship.
 
+{% gallery { "simple": true, "images": [{"path":"/media/soiltribes_help_desk_general_3840x1640.jpg"}] } %}
+
 ## **Soil as a Pillar for Future Generations**
 
 Healthy soils are the foundation of food systems, water regulation, carbon capture, and life on Earth. Yet the FAO warns that one-third of soils are already degraded and that, without action, we may lose most of the fertile layer in less than 60 years.
