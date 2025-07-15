@@ -40,11 +40,11 @@ Ante esta crisis, **SoilTribes** aspira a establecer, activar y potenciar ecosis
 
 En esencia, SoilTribes se constituye a través de una red dinámica que incluye varios grupos interconectados, cada uno de los cuales desempeña un papel distinto en la promoción de la salud del suelo.
 
-La Comunidad de Práctica es un centro transnacional donde convergen expertos, científicos, artistas, educadores, responsables políticos y ciudadanos. Organizada en torno a cuatro pilares -Academia, Empresa, Gobierno y Sociedad-, esta comunidad diseña conjuntamente herramientas innovadoras, estrategias de comunicación y recomendaciones políticas para mejorar los conocimientos sobre el suelo en toda Europa y fuera de ella.
+La **[Comunidad de Práctica](https://soiltribes.eu/about-the-cop/)** es un centro transnacional donde convergen expertos, científicos, artistas, educadores, responsables políticos y ciudadanos. Organizada en torno a cuatro pilares -Academia, Empresa, Gobierno y Sociedad-, esta comunidad diseña conjuntamente herramientas innovadoras, estrategias de comunicación y recomendaciones políticas para mejorar los conocimientos sobre el suelo en toda Europa y fuera de ella.
 
-A escala regional y local, SoilTribes cuenta con siete Activadores del Laboratorio del Suelo que catalizan la innovación diseñando y llevando a cabo diversas actividades y campañas. Desde talleres y maratones del suelo hasta exposiciones creativas y campañas de bombardeo del suelo, llevan los temas del suelo directamente a las comunidades, las escuelas y las instituciones culturales.
+A escala regional y local, SoilTribes cuenta con siete **[Activadores del Laboratorio del Suelo](https://commons.soiltribes.eu/assemblies/soillabactivators)** que catalizan la innovación diseñando y llevando a cabo diversas actividades y campañas. Desde talleres y maratones del suelo hasta exposiciones creativas y campañas de bombardeo del suelo, llevan los temas del suelo directamente a las comunidades, las escuelas y las instituciones culturales.
 
-Además, siete Asambleas de Custodia, dirigidas por los municipios, sirven de foros participativos para identificar y abordar en colaboración los retos locales del suelo. Facilitan el aprendizaje entre iguales, las visitas de hermanamiento, la formación y la creación conjunta de planes de acción locales sobre el suelo, fomentando la apropiación comunitaria de la custodia del suelo.
+Además, siete **[Asambleas de Custodia](https://commons.soiltribes.eu/assemblies/stewardshipAssembly),** dirigidas por los municipios, sirven de foros participativos para identificar y abordar en colaboración los retos locales del suelo. Facilitan el aprendizaje entre iguales, las visitas de hermanamiento, la formación y la creación conjunta de planes de acción locales sobre el suelo, fomentando la apropiación comunitaria de la custodia del suelo.
 
 ## **El suelo como pilar para las generaciones futuras**
 
@@ -102,12 +102,12 @@ Además, desarrollará las Asambleas de Custodia (AS), espacios que pongan en pr
 
 Europa, a través de su **Misión "Un Solo Planeta Sano para Todos"**, se ha propuesto que al menos el 75% de los suelos estén sanos en 2030. SoilTribes se alinea con esta meta, contribuyendo desde lo local a un movimiento europeo de restauración, aprendizaje y colaboración, vital para afrontar los desafíos globales y garantizar suelos fértiles para las generaciones venideras.
 
-***¿Te interesaría participar en alguna de las actividades de Soiltribes?***
+## **¿Te interesaría participar en alguna de las actividades de Soiltribes?**
 
-Community of Practice (CoP): Colabora, innova y comparte experiencias con expertos en sostenibilidad del suelo. Ideal para quienes buscan una participación estructurada y una resolución activa de problemas.
+**Community of Practice (CoP):** Colabora, innova y comparte experiencias con expertos en sostenibilidad del suelo. Ideal para quienes buscan una participación estructurada y una resolución activa de problemas.
 
-Stewardship Assemblies (SAs): Participe en acciones locales de sostenibilidad del suelo y desarrollo de políticas en Scafati (Italia), Fundão (Portugal), Altea (España), Nantes (Francia), Michalowice (Polonia), Cluj-Napoca (Rumanía) y Viborg (Dinamarca). Estas actividades ofrecen una oportunidad única de participar en soluciones regionales prácticas y son exclusivas para los residentes de estos países y localidades.
+**Stewardship Assemblies (SAs):** Participe en acciones locales de sostenibilidad del suelo y desarrollo de políticas en Scafati (Italia), Fundão (Portugal), Altea (España), Nantes (Francia), Michalowice (Polonia), Cluj-Napoca (Rumanía) y Viborg (Dinamarca). Estas actividades ofrecen una oportunidad única de participar en soluciones regionales prácticas y son exclusivas para los residentes de estos países y localidades.
 
-Network: Colabore, intercambie ideas y manténgase informado sobre las iniciativas relacionadas con el suelo en un entorno relajado y flexible. Una forma estupenda de ampliar su influencia y aumentar su visibilidad.
+**Network:** Colabore, intercambie ideas y manténgase informado sobre las iniciativas relacionadas con el suelo en un entorno relajado y flexible. Una forma estupenda de ampliar su influencia y aumentar su visibilidad.
 
-**Inscríbete aquí**
+**[Inscríbete aquí](https://ec.europa.eu/eusurvey/runner/SoilTribes_eoi)**
