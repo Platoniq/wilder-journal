@@ -70,6 +70,8 @@ Para SoilTribes, fomentar estas narrativas es tan importante como restaurar fís
 
 Al promover estos relatos, el proyecto contribuye a que la ciudadanía se reencuentren con la Tierra, no desde la nostalgia, sino desde la corresponsabilidad, el conocimiento compartido y la acción glocal. Volver a la Tierra no es mirar al pasado, sino construir futuros más sostenibles, justos y resilientes, donde los suelos sean cuidados, regenerados y valorados como el bien esencial que son.
 
+{% gallery { "simple": true, "images": [{"path":"/media/soiltribes_stewardship_assemblies_general_1_optimized_1_optimized.jpg"}] } %}
+
 ## **Pensadoras que inspiran: Margulis, Haraway y Tsing**
 
 Las bases filosóficas y científicas de SoilTribes beben de autoras visionarias que han desafiado las fronteras entre naturaleza y cultura. La bióloga **Lynn Margulis** transformó la comprensión de la vida al demostrar que la cooperación y la simbiosis son fuerzas evolutivas tan decisivas como la competencia, una lección clave para pensar los suelos como espacios de interacción y co-creación entre especies.
@@ -91,6 +93,8 @@ El suelo no puede ser restaurado sin justicia social. Por eso, SoilTribes defien
 Frente a ello, SoilTribes promueve una visión basada en la corresponsabilidad, el acceso equitativo y el reconocimiento de los saberes locales, priorizando a quienes viven, trabajan y cuidan la tierra. Restaurar los suelos implica también devolver el poder de decisión a las comunidades, respetar los derechos de los pueblos indígenas, proteger los bienes comunes y fomentar modelos de gobernanza inclusivos que garanticen que la tierra se mantenga como un recurso vivo y accesible para las generaciones presentes y futuras.
 
 Solo desde esta perspectiva sistémica, glocal y basada en la justicia territorial, es posible regenerar los suelos y construir un futuro sostenible para todas las formas de vida.
+
+{% gallery { "simple": true, "images": [{"path":"/media/asset-1.png"}] } %}
 
 ## **Recursos y alianzas para un impacto duradero**
 

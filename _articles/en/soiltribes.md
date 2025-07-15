@@ -60,6 +60,8 @@ For SoilTribes, fostering these narratives is just as important as physically re
 
 By promoting these stories, the project helps reconnect citizens with the Earth, not through nostalgia, but through shared responsibility, collective knowledge, and glocal action. Going back to the Earth does not mean looking backward—it means building more sustainable, just, and resilient futures where soils are protected, regenerated, and cherished as the essential asset they are.
 
+{% gallery { "simple": true, "images": [{"path":"/media/soiltribes_stewardship_assemblies_general_1_optimized_1_optimized.jpg"}] } %}
+
 ## **Thinkers Who Inspire: Margulis, Haraway, and Tsing**
 
 SoilTribes draws philosophical and scientific inspiration from visionary thinkers who have challenged the boundaries between nature and culture.
@@ -83,6 +85,8 @@ It also fosters cross-disciplinary and cross-sector dialogue, understanding that
 In contrast, SoilTribes promotes a vision based on shared responsibility, equitable access, and the recognition of local knowledge, prioritizing those who live on, work with, and care for the land. Restoring soils also means restoring decision-making power to communities, respecting Indigenous rights, protecting commons, and fostering inclusive governance models that keep land a living, accessible resource for current and future generations.
 
 Only from this systemic, glocal, and territorial justice-based perspective is it possible to regenerate soils and build a sustainable future for all forms of life.
+
+{% gallery { "simple": true, "images": [{"path":"/media/asset-1.png"}] } %}
 
 ## **Resources and Alliances for Lasting Impact**
 
