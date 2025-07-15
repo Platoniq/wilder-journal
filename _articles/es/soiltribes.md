@@ -110,6 +110,8 @@ Además, desarrollará las Asambleas de Custodia (AS), espacios que pongan en pr
 
 Europa, a través de su **Misión "Un Solo Planeta Sano para Todos"**, se ha propuesto que al menos el 75% de los suelos estén sanos en 2030. SoilTribes se alinea con esta meta, contribuyendo desde lo local a un movimiento europeo de restauración, aprendizaje y colaboración, vital para afrontar los desafíos globales y garantizar suelos fértiles para las generaciones venideras.
 
+{% gallery { "simple": true, "images": [{"path":"/media/soiltribes_slas_general_optimized.jpg"}] } %}
+
 ## **¿Te interesaría participar en alguna de las actividades de Soiltribes?**
 
 **Community of Practice (CoP):** Colabora, innova y comparte experiencias con expertos en sostenibilidad del suelo. Ideal para quienes buscan una participación estructurada y una resolución activa de problemas.

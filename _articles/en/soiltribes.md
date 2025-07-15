@@ -104,6 +104,8 @@ The project is committed to cultivating a culture of soil stewardship by engagin
 
 Europe, through its Mission “A Soil Deal for Europe,” aims to ensure that at least 75% of soils are healthy by 2030. SoilTribes aligns with this goal, contributing from the local level to a European movement of restoration, learning, and collaboration—vital to meet global challenges and ensure fertile soils for generations to come.
 
+{% gallery { "simple": true, "images": [{"path":"/media/soiltribes_slas_general_optimized.jpg"}] } %}
+
 ## **Interested in joining any SoilTribes activities?**
 
 * **Community of Practice (CoP):** Collaborate, innovate, and share experiences with soil sustainability experts. Ideal for those seeking structured involvement and active problem-solving.
