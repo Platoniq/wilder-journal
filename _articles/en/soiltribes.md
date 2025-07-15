@@ -7,6 +7,7 @@ date: 2025-07-08T15:53:00.000Z
 date-updated: 2025-07-08T15:53:00.000Z
 article-order: 5
 uid: soiltribes
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-07-08-a-las-15.52.34.png

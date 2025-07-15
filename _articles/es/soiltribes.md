@@ -46,7 +46,7 @@ A escala regional y local, SoilTribes cuenta con siete Activadores del Laborator
 
 Además, siete Asambleas de Custodia, dirigidas por los municipios, sirven de foros participativos para identificar y abordar en colaboración los retos locales del suelo. Facilitan el aprendizaje entre iguales, las visitas de hermanamiento, la formación y la creación conjunta de planes de acción locales sobre el suelo, fomentando la apropiación comunitaria de la custodia del suelo.
 
-El suelo como pilar para las generaciones futuras
+## **El suelo como pilar para las generaciones futuras**
 
 Los suelos sanos son la base de los sistemas alimentarios, la regulación hídrica, la captura de carbono y la vida en el planeta. Sin embargo, la FAO alerta de que un tercio de los suelos ya están degradados, y que, si no actuamos, podríamos perder la mayor parte de la capa fértil en menos de 60 años.
 
