@@ -7,7 +7,7 @@ date: 2025-07-14T18:29:00.000Z
 date-updated: 2025-07-14T18:29:00.000Z
 article-order: 6
 uid: tarot-democracy
-title: "El Tarot del Teatro Legislativo: Leer el sistema para reescribir el futuro"
+title: "El Tarot del Teatro Legislativo: leer el sistema para reescribir el futuro"
 description: El taller “el Tarot del Teatro Legislativo” nació en el marco del
   proyecto translocal Youth Mental Health Beyond Borders, una colaboración entre
   jóvenes de Mindset Revolution (Manchester) y el Kasal de Roquetes (Barcelona)
