@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: futures
 published: true
-date: 2025-07-16T09:21:00.000+02:00
-date-updated: 2025-07-16T09:21:00.000+02:00
+date: 2025-07-16T11:55:00.000+02:00
+date-updated: 2025-07-16T11:55:00.000+02:00
 article-order: 4
 uid: Grimoire-Democracy
 title: "Del Grimorio a la Calle: Materializar la política de juventud a través
