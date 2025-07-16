@@ -32,9 +32,9 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
 ---
-El suelo es uno de los recursos más esenciales y amenazados de nuestro planeta. Cada cinco segundos se pierde el equivalente a un campo de fútbol de suelo fértil en el planeta. La degradación de los suelos, causada por la erosión, la contaminación, la urbanización descontrolada y las prácticas agrícolas intensivas, compromete no solo la seguridad alimentaria, sino también la biodiversidad, el equilibrio climático y la vida de millones de personas.
+El suelo es uno de los recursos más esenciales y amenazados de nuestro planeta. La degradación de los suelos, causada por la erosión, la contaminación, la urbanización descontrolada y las prácticas agrícolas intensivas, compromete no solo la seguridad alimentaria, sino también la biodiversidad, el equilibrio climático y la vida de millones de personas.
 
-Ante esta crisis, **SoilTribes** aspira a establecer, activar y potenciar ecosistemas glocales para los valores, funciones y conectividad del suelo a través de narrativas de «vuelta a la Tierra», tendiendo puentes entre la ciencia, la tecnología, las artes y la acción impulsada por la comunidad. Mediante el intercambio de conocimientos, la colaboración interdisciplinaria y las iniciativas impulsadas por la comunidad, la misión del proyecto es fomentar un enfoque sistémico y glocal de la restauración del suelo, garantizando su sostenibilidad a largo plazo como recurso fundamental para las generaciones futuras.
+**Ante esta crisis, SoilTribes aspira a establecer, activar y potenciar ecosistemas glocales para los valores, funciones y conectividad del suelo a través de narrativas de «vuelta a la Tierra», tendiendo puentes entre la ciencia, la tecnología, las artes y la acción impulsada por la comunidad.** Mediante el intercambio de conocimientos, la colaboración interdisciplinaria y las iniciativas impulsadas por la comunidad, la misión del proyecto es fomentar un enfoque sistémico y glocal de la restauración del suelo, garantizando su sostenibilidad a largo plazo como recurso fundamental para las generaciones futuras.
 
 {% gallery { "simple": true, "images": [{"path":"/media/soiltribes-cop-general.png"}] } %}
 
@@ -48,11 +48,31 @@ A escala regional y local, SoilTribes cuenta con siete **[Activadores del Labora
 
 Además, siete **[Asambleas de Custodia](https://commons.soiltribes.eu/assemblies/stewardshipAssembly),** dirigidas por los municipios, sirven de foros participativos para identificar y abordar en colaboración los retos locales del suelo. Facilitan el aprendizaje entre iguales, las visitas de hermanamiento, la formación y la creación conjunta de planes de acción locales sobre el suelo, fomentando la apropiación comunitaria de la custodia del suelo.
 
+{% gallery { "simple": true, "images": [{"path":"/media/soiltribes-bootcamp-challenge-submission-1-.png"}] } %}
+
+## **Call to action: envía tu reto al SoilTribes Bootcamp**
+
+¿Te enfrentas a un dilema relacionado con el suelo que requiere atención, creatividad y acción colectiva? Trabajas en un territorio en el que están en juego la tierra, la política o la justicia ecológica? ¿Tienes una idea que podría convertirse en una solución replicable con el apoyo adecuado?
+
+Esta es tu oportunidad.
+
+El SoilTribes Bootcamp reúne a personas de toda Europa que afrontan retos para diseñar conjuntamente respuestas prácticas y democráticas a la crisis del suelo. Invitamos a los miembros de nuestra Comunidad de Práctica (CoP) a presentar retos reales y fundamentados que aborden prioridades clave como la democracia del suelo, la justicia territorial, la gestión de los bienes comunes o las transiciones regenerativas.
+
+Si eres seleccionado, podrás:
+
+* Participar en el Bootcamp 1 (octubre de 2025) en Oporto, con todos los gastos de viaje y alojamiento cubiertos.
+* Colaborar con equipos intersectoriales para crear prototipos de respuestas
+* Podrás optar a 5.000 euros en ayudas a la producción y participar en los Bootcamps 2 y 3
+
+⏳Fecha límite para presentar tu reto: 23 de julio de 2025
+
+📥 Sólo los miembros de la CoP pueden presentar su reto - [únete aquí si aún no formas parte de la red.](https://commons.soiltribes.eu/processes/bootcamp-challenge-submission/f/25)
+
 {% gallery { "simple": true, "images": [{"path":"/media/soiltribes_help_desk_general_3840x1640.jpg"}] } %}
 
 ## **Narrativas de "Vuelta a la Tierra": Transformar nuestra relación con el suelo**
 
-Para que la restauración del suelo sea sostenible y sistémica, no basta con aplicar soluciones técnicas o políticas puntuales: es imprescindible transformar nuestra forma de percibir y relacionarnos con la Tierra. En ese sentido, SoilTribes entiende las **narrativas de "Vuelta a la Tierra"** como una herramienta clave para reconstruir el vínculo cultural, emocional y colectivo con los suelos que habitamos y de los que dependemos.
+Para que la restauración del suelo sea sostenible y sistémica, no basta con aplicar soluciones técnicas o políticas puntuales: es imprescindible transformar nuestra forma de percibir y relacionarnos con la Tierra. En ese sentido, **SoilTribes** entiende las **narrativas de "Vuelta a la Tierra"** como una herramienta clave para reconstruir el vínculo cultural, emocional y colectivo con los suelos que habitamos y de los que dependemos.
 
 Durante décadas, los suelos han sido invisibilizados o reducidos a meros recursos explotables dentro de modelos económicos extractivistas. Sin embargo, el suelo es mucho más: es un ecosistema vivo, una memoria biológica, un archivo de biodiversidad y un espacio de interacción entre lo humano y lo no humano.
 
@@ -60,7 +80,7 @@ Las **narrativas de vuelta a la Tierra** buscan romper con esa visión fragmenta
 
 Estas narrativas no se construyen desde los discursos verticales, sino desde experiencias participativas, relatos locales, expresiones artísticas, educación ambiental y proyectos de cocreación. Desde los rituales que honran la fertilidad de la tierra, hasta los relatos que hablan de la soberanía alimentaria o las luchas por los territorios, las historias de "vuelta a la Tierra" activan la memoria, la imaginación y el compromiso colectivo.
 
-Para SoilTribes, fomentar estas narrativas es tan importante como restaurar físicamente los suelos. Porque solo cuando las personas comprenden el valor profundo del suelo y se sienten parte de su cuidado, es posible construir una transformación real y duradera.
+Para **SoilTribes,** fomentar estas narrativas es tan importante como restaurar físicamente los suelos. Porque solo cuando las personas comprenden el valor profundo del suelo y se sienten parte de su cuidado, es posible construir una transformación real y duradera.
 
 Al promover estos relatos, el proyecto contribuye a que la ciudadanía se reencuentren con la Tierra, no desde la nostalgia, sino desde la corresponsabilidad, el conocimiento compartido y la acción glocal. Volver a la Tierra no es mirar al pasado, sino construir futuros más sostenibles, justos y resilientes, donde los suelos sean cuidados, regenerados y valorados como el bien esencial que son.
 

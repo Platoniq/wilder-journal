@@ -22,7 +22,7 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
 ---
-**Soil is one of the planet’s most essential and threatened resources.** Every five seconds, the equivalent of a football field of fertile soil is lost. Soil degradation—caused by erosion, pollution, uncontrolled urbanization, and intensive farming practices—jeopardizes not only food security but also biodiversity, climate balance, and the lives of millions of people.
+**Soil is one of the planet’s most essential and threatened resources.** Soil degradation—caused by erosion, pollution, uncontrolled urbanization, and intensive farming practices—jeopardizes not only food security but also biodiversity, climate balance, and the lives of millions of people.
 
 **In response to this crisis, SoilTribes seeks to establish, activate, and strengthen glocal ecosystems for soil values, functions, and connectivity through “Back to the Earth” narratives, building bridges between science, technology, the arts, and community-driven action.** Through knowledge exchange, interdisciplinary collaboration, and community-led initiatives, the project’s mission is to promote a systemic and glocal approach to soil restoration, ensuring its long-term sustainability as a vital resource for future generations.
 
@@ -42,15 +42,15 @@ Additionally, seven **[Stewardship Assemblies](https://commons.soiltribes.eu/ass
 
 ## **“Back to the Earth” Narratives: Transforming Our Relationship with Soil**
 
-For soil restoration to be sustainable and systemic, it is not enough to implement technical or policy solutions. We must also transform how we perceive and relate to the Earth. SoilTribes views “Back to the Earth” narratives as a key tool to rebuild the cultural, emotional, and collective connection with the soils we inhabit and depend on.
+For soil restoration to be sustainable and systemic, it is not enough to implement technical or policy solutions. We must also transform how we perceive and relate to the Earth. **SoilTribes** views **“Back to the Earth” narratives** as a key tool to rebuild the cultural, emotional, and collective connection with the soils we inhabit and depend on.
 
 For decades, soils have been made invisible or reduced to mere extractable resources within extractivist economic models. Yet soil is much more: a living ecosystem, a biological memory, a biodiversity archive, and a space of interaction between human and non-human life.
 
-“Back to the Earth” narratives aim to break this fragmented view and promote a renewed story where soil is understood as a shared heritage, a source of life, nourishment, and ecological balance. Rebuilding this connection involves integrating ancestral knowledge, peasant practices, Indigenous worldviews, and the voices of science, art, and local communities.
+**“Back to the Earth” narratives** aim to break this fragmented view and promote a renewed story where soil is understood as a shared heritage, a source of life, nourishment, and ecological balance. Rebuilding this connection involves integrating ancestral knowledge, peasant practices, Indigenous worldviews, and the voices of science, art, and local communities.
 
 These narratives are not built through top-down discourse but through participatory experiences, local stories, artistic expressions, environmental education, and co-creation projects. From rituals honoring the land’s fertility to stories about food sovereignty or territorial struggles, these “Back to the Earth” narratives activate memory, imagination, and collective commitment.
 
-For SoilTribes, fostering these narratives is just as important as physically restoring soils. Only when people understand the deep value of soil and feel responsible for its care can real and lasting transformation take root.
+For **SoilTribes,** fostering these narratives is just as important as physically restoring soils. Only when people understand the deep value of soil and feel responsible for its care can real and lasting transformation take root.
 
 By promoting these stories, the project helps reconnect citizens with the Earth, not through nostalgia, but through shared responsibility, collective knowledge, and glocal action. Going back to the Earth does not mean looking backward—it means building more sustainable, just, and resilient futures where soils are protected, regenerated, and cherished as the essential asset they are.
 
