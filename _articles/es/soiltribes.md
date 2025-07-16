@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
 ---
 El suelo es uno de los recursos más esenciales y amenazados de nuestro planeta. Cada cinco segundos se pierde el equivalente a un campo de fútbol de suelo fértil en el planeta. La degradación de los suelos, causada por la erosión, la contaminación, la urbanización descontrolada y las prácticas agrícolas intensivas, compromete no solo la seguridad alimentaria, sino también la biodiversidad, el equilibrio climático y la vida de millones de personas.
 
