@@ -16,7 +16,7 @@ author_uids:
   - olivier-schulbaum
   - nadia-nadesan
 cover:
-  path: /media/articles/heroes/photo_2025-07-02_10-43-14.jpg
+  path: /media/articles/heroes/img_20250627_120350.jpg
   mobile: /media/articles/mobile/photo_2025-07-02_10-43-14.jpg
   thumbnail: /media/articles/thumbnails/photo_2025-07-02_10-43-14.jpg
   alt: tarot
