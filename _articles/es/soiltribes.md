@@ -48,11 +48,11 @@ Además, siete **[Asambleas de Custodia](https://commons.soiltribes.eu/assemblie
 
 {% gallery { "simple": true, "images": [{"path":"/media/soiltribes-bootcamp-challenge-submission-1-.png"}] } %}
 
-## **Call to action: envía tu reto al SoilTribes Bootcamp**
+## **Call to Action: envía tu reto al SoilTribes Bootcamp**
 
 ¿Te enfrentas a un dilema relacionado con el suelo que requiere atención, creatividad y acción colectiva? Trabajas en un territorio en el que están en juego la tierra, la política o la justicia ecológica? ¿Tienes una idea que podría convertirse en una solución replicable con el apoyo adecuado?
 
-Esta es tu oportunidad.
+**Esta es tu oportunidad.**
 
 El SoilTribes Bootcamp reúne a personas de toda Europa que afrontan retos para diseñar conjuntamente respuestas prácticas y democráticas a la crisis del suelo. Invitamos a los miembros de nuestra Comunidad de Práctica (CoP) a presentar retos reales y fundamentados que aborden prioridades clave como la democracia del suelo, la justicia territorial, la gestión de los bienes comunes o las transiciones regenerativas.
 
@@ -115,10 +115,6 @@ Por ello ha constituído una Comunidad de Práctica (CoP), una plataforma de col
 La CoP está organizada en grupos de trabajo temáticos que abordan retos específicos relacionados con la sostenibilidad del suelo, con flexibilidad para que los miembros contribuyan en función de su experiencia e intereses: talleres regulares, reuniones y una plataforma central para la colaboración y el intercambio de conocimientos apoyan a estos grupos.
 
 Además, desarrollará las Asambleas de Custodia (AS), espacios que pongan en práctica soluciones a los retos locales del suelo dirigidas por los ciudadanos y basadas en el lugar. A través de su enfoque glocal con las AS regionales -combinando la visión global con la acción local- SOILTRIBES desarrollará nuevas herramientas educativas, exposiciones artísticas, campañas públicas y actos participativos. El proyecto se compromete a fomentar una cultura de custodia del suelo implicando a públicos diversos, promoviendo la colaboración intersectorial y codesarrollando prácticas sostenibles que tengan beneficios duraderos tanto para las personas como para el planeta. Todo el proceso reúne a todos los elementos de la quíntuple hélice (es decir, el gobierno, el mundo académico, la industria, la sociedad civil y las organizaciones medioambientales) para desarrollar y aplicar conjuntamente planes de acción adaptados a las necesidades específicas de sus regiones.
-
-## **La Unión Europea como motor de la restauración glocal**
-
-Europa, a través de su **Misión "Un Solo Planeta Sano para Todos"**, se ha propuesto que al menos el 75% de los suelos estén sanos en 2030. SoilTribes se alinea con esta meta, contribuyendo desde lo local a un movimiento europeo de restauración, aprendizaje y colaboración, vital para afrontar los desafíos globales y garantizar suelos fértiles para las generaciones venideras.
 
 {% gallery { "simple": true, "images": [{"path":"/media/soiltribes_slas_general_optimized.jpg"}] } %}
 

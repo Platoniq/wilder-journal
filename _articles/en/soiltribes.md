@@ -26,8 +26,6 @@ image:
 
 **In response to this crisis, SoilTribes seeks to establish, activate, and strengthen glocal ecosystems for soil values, functions, and connectivity through “Back to the Earth” narratives, building bridges between science, technology, the arts, and community-driven action.** Through knowledge exchange, interdisciplinary collaboration, and community-led initiatives, the project’s mission is to promote a systemic and glocal approach to soil restoration, ensuring its long-term sustainability as a vital resource for future generations.
 
-{% gallery { "simple": false, "images": [{"path":"/media/soiltribes-cop-general.png"}] } %}
-
 ## **Creating Tribes to Defend the Soil**
 
 At its core, SoilTribes is built as a dynamic network comprising several interconnected groups, each playing a distinct role in promoting soil health.
@@ -38,7 +36,25 @@ At regional and local levels, SoilTribes deploys seven** [Soil Lab Activators](h
 
 Additionally, seven **[Stewardship Assemblies](https://commons.soiltribes.eu/assemblies/stewardshipAssembly)**, led by municipalities, serve as participatory forums to collaboratively identify and address local soil challenges. They facilitate peer learning, twinning visits, training, and the co-creation of local soil action plans, fostering community ownership of soil stewardship.
 
-{% gallery { "simple": true, "images": [{"path":"/media/soiltribes_help_desk_general_3840x1640.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/soiltribes-bootcamp-challenge-submission-1-.png"}] } %}
+
+## **Call to Action:  Submit Your Challenge to the SoilTribes Bootcamp**
+
+ddd Do you face a soil-related dilemma that needs attention, creativity, and collective action? Are you working in a territory where land, policy, or ecological justice are at stake? Do you have an idea that could grow into a replicable solution with the right support?
+
+**This is your opportunity.**
+
+The SoilTribes Bootcamp brings together challenge-holders from across Europe to co-design practical, democratic responses to the soil crisis. We invite members of our Community of Practice (CoP) to submit grounded, real-world challenges that address key priorities like soil democracy, territorial justice, commons stewardship, or regenerative transitions.
+
+If selected, you’ll:
+
+* Participate in Bootcamp 1 (October 2025) in Porto, with all travel and accommodation costs covered
+* Collaborate with cross-sector teams to prototype responses
+* Be eligible for €5,000 in production support and participation in Bootcamps 2 and 3
+
+⏳Deadline to submit your challenge: July 23rd, 2025
+
+📥 Only CoP members can submit —join here if you're not yet part of the network.
 
 ## **“Back to the Earth” Narratives: Transforming Our Relationship with Soil**
 
@@ -93,10 +109,6 @@ The CoP is organized into thematic working groups addressing specific soil susta
 Additionally, it will develop **Stewardship Assemblies (SAs)**—spaces for implementing citizen-led, place-based solutions to local soil challenges. Through its glocal approach with regional SAs—combining global vision with local action—SoilTribes will create new educational tools, artistic exhibitions, public campaigns, and participatory events.
 
 The project is committed to cultivating a culture of soil stewardship by engaging diverse audiences, fostering cross-sector collaboration, and co-developing sustainable practices with long-lasting benefits for people and the planet. The process brings together all elements of the **quintuple helix**—government, academia, industry, civil society, and environmental organizations—to jointly develop and implement action plans tailored to the specific needs of each region.
-
-## **The European Union as a Driver of Glocal Restoration**
-
-Europe, through its Mission “A Soil Deal for Europe,” aims to ensure that at least 75% of soils are healthy by 2030. SoilTribes aligns with this goal, contributing from the local level to a European movement of restoration, learning, and collaboration—vital to meet global challenges and ensure fertile soils for generations to come.
 
 {% gallery { "simple": true, "images": [{"path":"/media/soiltribes_slas_general_optimized.jpg"}] } %}
 
