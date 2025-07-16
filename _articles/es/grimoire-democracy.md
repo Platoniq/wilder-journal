@@ -66,3 +66,69 @@ Canalizamos esa energía en una **serie de carteles de protesta y visualizacione
 * «No soy un experto en racismo, soy un experto en todas las veces que intentaron joderme»
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.24.02.png"}] } %}
+
+Carteles de estilo infográfico sobre la **ansiedad climática de los jóvenes,** con atrevidos elementos visuales en negro y rojo que combinaban estadísticas crudas con peso simbólico.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.25.47.png"}] } %}
+
+Imaginamos el fanzine no sólo como un medio de comunicación, sino como un **manual de cuidado mutuo.**
+
+Un espacio para la salud mental colectiva, **la autodefensa y la defensa mutua.**
+
+Un **reverso de la política de baja tecnología y alto impacto,** lleno de tácticas, metáforas y herramientas colectivas para el cambio.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.30.26.png"}] } %}
+
+Algunos formatos incluyen códigos **QR que enlazan con el rastreador de políticas Decidim,** cerrando el círculo entre las demandas de los jóvenes y la responsabilidad institucional. Un eslogan en la calle podría dar lugar a una propuesta. Una cita en un podcast podría convertirse en un manifiesto. Una carta del tarot podría apuntar hacia la aplicación.
+
+En la actividad *Cover Story Canvas,* los participantes imaginaron futuros titulares:
+
+* **«Facilitando la revolución»**
+* **«La vivienda es un derecho, no un privilegio»**
+* Identificaron los mensajes centrales:
+* "Conoce tus derechos. Sé resolutivo".
+* «Los responsables políticos deben apoyarnos moviendo los hilos adecuados».
+
+Y resumieron el espíritu del zine en citas como:
+
+* **«Juntos, los jóvenes podemos marcar el camino a los responsables políticos».**
+
+No eran meros ejercicios, eran las **semillas de la estrategia de campaña.** En el plan de "Próximos pasos" del fanzine, el grupo trazó múltiples futuros:
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.28.59.png"}] } %}
+
+1. Envía el zine a políticos, propietarios, organizaciones benéficas
+2. Escribe a periodistas
+3. Compártelo en las redes sociales para llegar a otros jóvenes
+4. Llévalo a protestas y aulas
+5. Crea un zineletter 
+6. Y sigue probando y compartiendo las **cartas del tarot**
+
+
+Porque este grimorio, como todos los grimorios, es desordenado, mágico y estratégico.
+
+Un registro del dolor, sí. Pero también tácticas.
+
+Una caja de herramientas para futuros trastornos.
+
+Un conjunto de cuidados en un lenguaje que ningún sistema puede captar plenamente.
+
+El fanzine no es una recapitulación.
+
+No es un recuerdo.
+
+Es un **grimorio.**
+
+Es la parte del proceso que no espera permiso.
+
+Es cómo llevamos el teatro de vuelta al mundo.
+
+Porque la obra no termina cuando cae el telón.
+
+A veces empieza de nuevo en tus manos:
+
+doblado como un folleto,
+
+pronunciado como un conjuro,
+
+en alto como una señal.

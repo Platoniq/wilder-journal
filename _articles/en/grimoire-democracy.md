@@ -17,6 +17,7 @@ description: In the second chapter of Youth Mental Health Beyond Borders, our
   (Opens in new tab) developed by young people in Barcelona and Manchester,
   extending their voices and weaving their demands into new forms of symbolic
   intervention.
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-09-a-las-11.29.19.png
   mobile: /assets/media/no_image-hero.png
@@ -59,3 +60,57 @@ We channeled that energy into a series of  **Platoniq-designed protest posters 
 * “I am not an expert on racism I am an expert in all the times they tried to fuck me over”
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.24.02.png"}] } %}
+
+Infographic-style posters on **youth climate anxiety**, with bold black and red visuals that combined raw stats with symbolic weight.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.25.47.png"}] } %}
+
+We imagined the fanzine not just as media, but as a **manual of mutual care**.
+A space for collective mental health **self- and mutual defense**.
+A **low-tech, high-impact flipside** of policy,  full of tactics, metaphors, and collective tools for change.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.30.26.png"}] } %}
+
+Some formats include **QR codes linking to the Decidim policy tracker**,
+ closing the loop between youth demands and institutional responsibility. A slogan in the street could lead to a proposal. A podcast quote could become a manifesto. A tarot card could point toward implementation.
+
+In the *Cover Story Canvas* activity, participants imagined future headlines:
+
+* **“Facilitating the revolution”**
+* **“Housing is a right, not a privilege”**
+* They identified core messages:
+* “Know your rights. Be resolute.”
+* “Policy makers should support us by pulling the right strings.”
+
+And summarised the spirit of the zine in quotes like:
+
+* **“Together, young people can lead the way for policymakers.”**
+
+These weren’t just exercises, they were the **seeds of campaign strategy**. In the "Next Steps" plan for the zine, the group mapped multiple futures:
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.28.59.png"}] } %}
+
+1. Send the zine to policymakers, landlords, charities
+2. Write to journalists
+3. Share it on social media to reach other youth
+4. Bring it to protests and classrooms
+5. Start a zineletter 
+6. And keep testing and sharing the **tarot cards** themselves
+
+Because this grimoire, like all grimoires, is messy, magical, and strategic.
+A record of pain, yes. But also tactics.
+A toolkit for future disruptions.
+A commons of care in a language no system can fully capture.
+
+The fanzine is not a recap.
+It’s not a souvenir.
+It’s a **grimoire**.
+
+It’s the part of the process that doesn’t wait for permission.
+It’s how we carry the theater back into the world.
+
+Because the play doesn’t end when the curtain falls.
+Sometimes it begins again in your hands
+folded like a zine,
+spoken like a spell,
+held high like a sign.
