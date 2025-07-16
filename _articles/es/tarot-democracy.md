@@ -17,7 +17,7 @@ author_uids:
   - nadia-nadesan
 cover:
   path: /media/articles/heroes/img_20250627_120350.jpg
-  mobile: /media/articles/mobile/photo_2025-07-02_10-43-14.jpg
+  mobile: /media/articles/mobile/img_20250627_120350.jpg
   thumbnail: /media/articles/thumbnails/photo_2025-07-02_10-43-14.jpg
   alt: tarot
   credits: tarot
