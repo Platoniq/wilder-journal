@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-03-19T09:49:00.000Z
 date-updated: 2025-03-19T09:49:00.000Z
-article-order: 2
+article-order: 6
 uid: Participatory-procurement-design-AI
 title: Contratación pública participativa y diseño de la inteligencia artificial
 description: "En la última década, hemos asistido a un aumento de las

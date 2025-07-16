@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-03-19T09:49:00.000Z
 date-updated: 2025-03-19T09:49:00.000Z
-article-order: 2
+article-order: 6
 uid: Participatory-procurement-design-AI
 title: Participatory Procurement and Design of AI
 description: "In the past decade, we have seen an increase in the initiatives
@@ -14,6 +14,7 @@ description: "In the past decade, we have seen an increase in the initiatives
 author: Nadia Nadesan
 author_uids:
   - nadia-nadesan
+interviewee: null
 cover:
   path: /media/articles/heroes/20230501a_new_friends.jpg
   mobile: /media/articles/mobile/20230501a_new_friends.jpg
