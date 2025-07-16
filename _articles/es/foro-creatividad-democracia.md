@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-08-21T10:12:00.000Z
 date-updated: 2024-08-21T10:12:00.000Z
-article-order: 2
+article-order: 7
 uid: foro-creatividad-democracia
 title: "Foro sobre Deliberación, Creatividad y Democracia: la deliberación
   ciudadana se abre paso"

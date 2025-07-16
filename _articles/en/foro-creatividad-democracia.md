@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-08-21T10:12:00.000Z
 date-updated: 2024-08-21T10:12:00.000Z
-article-order: 2
+article-order: 7
 uid: foro-creatividad-democracia
 title: "Forum on Deliberation, Creativity and Democracy: citizen deliberation is
   on the rise"
@@ -17,6 +17,7 @@ description: "We present the Forum on Deliberation, Creativity and Democracy. A
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-10-09-a-las-9.55.30.png
   mobile: /media/articles/mobile/captura-de-pantalla-2024-10-09-a-las-9.55.30.png
