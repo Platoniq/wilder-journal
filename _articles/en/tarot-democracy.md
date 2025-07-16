@@ -19,7 +19,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/img_20250627_120350.jpg
   mobile: /media/articles/mobile/img_20250627_120350.jpg
-  thumbnail: /media/articles/thumbnails/photo_2025-07-02_10-43-14.jpg
+  thumbnail: /media/articles/thumbnails/img_20250627_120350.jpg
   alt: tarot
   credits: tarot
   caption: tarot
