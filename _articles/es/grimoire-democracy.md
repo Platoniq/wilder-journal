@@ -37,11 +37,8 @@ image:
   path: /assets/media/no_image-social_media.png
 ---
 Si el **tarot** es un mapa de arquetipos, 
-
 el **grimorio** es el libro que te enseña a utilizarlos.
-
 Uno lee el momento.
-
 El otro te prepara para lo que viene después.
 
 En el segundo capítulo de Youth Mental Health Beyond Borders, nuestro grimorio digital, también conocido como fanzine digital, tomó forma no como un resumen, sino como una extensión del **curso intensivo de teatro legislativo.** Un espacio para albergar los ecos, fragmentos, conjuros, rechazos y provocaciones que surgieron durante y después del proceso del Teatro Legislativo. Recogió hilos de la serie de podcasts (Abre en pestaña nueva) desarrollados por jóvenes de Barcelona y Manchester, ampliando sus voces y tejiendo sus reivindicaciones en nuevas formas de intervención simbólica.
@@ -106,29 +103,19 @@ No eran meros ejercicios, eran las **semillas de la estrategia de campaña.** En
 
 
 Porque este grimorio, como todos los grimorios, es desordenado, mágico y estratégico.
-
 Un registro del dolor, sí. Pero también tácticas.
-
 Una caja de herramientas para futuros trastornos.
-
 Un conjunto de cuidados en un lenguaje que ningún sistema puede captar plenamente.
 
 El fanzine no es una recapitulación.
-
 No es un recuerdo.
-
 Es un **grimorio.**
 
 Es la parte del proceso que no espera permiso.
-
 Es cómo llevamos el teatro de vuelta al mundo.
 
 Porque la obra no termina cuando cae el telón.
-
 A veces empieza de nuevo en tus manos:
-
 doblado como un folleto,
-
 pronunciado como un conjuro,
-
 en alto como una señal.

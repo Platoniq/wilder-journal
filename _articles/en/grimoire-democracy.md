@@ -31,11 +31,8 @@ image:
   path: /assets/media/no_image-social_media.png
 ---
 If the **tarot** is a map of archetypes, 
-
 the **grimoire** is the book that teaches you how to use them.
-
 One reads the moment.
-
 The other prepares you for what comes next.
 
 In the second chapter of Youth Mental Health Beyond Borders, our digital grimoire. aka digital fanzine, took shape not as a summary, but as an extension of the **legislative theater crash course.** A space to hold the echoes, fragments, spells, refusals and provocations that emerged during and after the Legislative Theater process.  It picked up threads from the podcast series (Opens in new tab) developed by young people in Barcelona and Manchester, extending their voices and weaving their demands into new forms of symbolic intervention.
