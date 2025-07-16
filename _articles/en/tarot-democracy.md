@@ -55,6 +55,8 @@ That’s where the **Tarot of Legislative Theater** came in.
 
 We designed a deck not to predict the future, but to reshape it. Each card was a symbolic tool to navigate the tensions, obstacles, and openings that shape participatory policymaking — particularly around mental health, care, and access. The deck became a way to **rehearse confrontation, reveal power, and pressure institutions** — using play as a tactical language.
 
+{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120644.jpg"},{"path":"/media/img_20250627_120531.jpg"},{"path":"/media/img_20250627_120453.jpg"}] } %}
+
 Nadia Nadesan, a member of the Platoniq team facilitated the workshop through a set of poetic prompts she created. These weren’t generic archetypes, but collective figures built from memory, resistance, and lived tension:
  – *The Tidekeeper*, a storyteller who holds the grief of climate collapse;
  – *The Brick That Speaks*, born of tenant assemblies and rent strikes;
@@ -74,6 +76,8 @@ The meanings we now associate with cards like the Fool or the Tower emerged much
 We think it must be and that starts by flipping its purpose.
 
 Instead of reading for ourselves, we practiced reading for those in power. The workshop became a speculative ritual: What if a group of racialised and precarious young people were invited to read the tarot to the policymakers in charge of implementing their demands? Not to ask them for favours. But to show them the path. To hold them accountable. To speak from the chaos of lived experience with the clarity of symbolic force.
+
+{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120312.jpg"},{"path":"/media/img_20250627_120222.jpg"},{"path":"/media/img_20250627_120137.jpg"},{"path":"/media/img_20250627_120057.jpg"}] } %}
 
 The cards were inspired by the roles in Legislative Theater: the **Protagonist** (a person experiencing oppression), the **Antagonist or Blocker** (the structure that sustains harm), the **Change-Maker** (an actor or action that opens new paths), the **Chorus** (systemic or collective forces), and the **Joker** aka the **facilitator**, who invites the audience to intervene, disrupt the script, and rehearse change.
 
