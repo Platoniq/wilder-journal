@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/img_20250627_120350.jpg
 ---
 **No vinimos a pedir permiso.
 Vinimos a barajar el sistema.**

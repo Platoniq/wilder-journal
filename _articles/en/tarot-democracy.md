@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/img_20250627_120350.jpg
 ---
 **We didn’t come to ask for permission.
 We came to shuffle the system.**
