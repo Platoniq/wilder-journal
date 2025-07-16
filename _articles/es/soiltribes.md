@@ -50,12 +50,6 @@ Además, siete **[Asambleas de Custodia](https://commons.soiltribes.eu/assemblie
 
 {% gallery { "simple": true, "images": [{"path":"/media/soiltribes_help_desk_general_3840x1640.jpg"}] } %}
 
-## **El suelo como pilar para las generaciones futuras**
-
-Los suelos sanos son la base de los sistemas alimentarios, la regulación hídrica, la captura de carbono y la vida en el planeta. Sin embargo, la FAO alerta de que un tercio de los suelos ya están degradados, y que, si no actuamos, podríamos perder la mayor parte de la capa fértil en menos de 60 años.
-
-La restauración del suelo debe abordarse como un **enfoque sistémico**, que comprenda su función dentro de redes complejas de biodiversidad, cultura y economía. Por ello, SoilTribes conecta disciplinas —de la agronomía a las artes— y promueve la cocreación de soluciones adaptadas a cada contexto, siempre con la mirada puesta en el bienestar de las generaciones presentes y futuras.
-
 ## **Narrativas de "Vuelta a la Tierra": Transformar nuestra relación con el suelo**
 
 Para que la restauración del suelo sea sostenible y sistémica, no basta con aplicar soluciones técnicas o políticas puntuales: es imprescindible transformar nuestra forma de percibir y relacionarnos con la Tierra. En ese sentido, SoilTribes entiende las **narrativas de "Vuelta a la Tierra"** como una herramienta clave para reconstruir el vínculo cultural, emocional y colectivo con los suelos que habitamos y de los que dependemos.

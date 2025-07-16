@@ -40,12 +40,6 @@ Additionally, seven **[Stewardship Assemblies](https://commons.soiltribes.eu/ass
 
 {% gallery { "simple": true, "images": [{"path":"/media/soiltribes_help_desk_general_3840x1640.jpg"}] } %}
 
-## **Soil as a Pillar for Future Generations**
-
-Healthy soils are the foundation of food systems, water regulation, carbon capture, and life on Earth. Yet the FAO warns that one-third of soils are already degraded and that, without action, we may lose most of the fertile layer in less than 60 years.
-
-Soil restoration must be approached systemically, recognizing its role within complex networks of biodiversity, culture, and economy. SoilTribes connects disciplines—from agronomy to the arts—and promotes the co-creation of context-adapted solutions, always focused on the well-being of current and future generations.
-
 ## **“Back to the Earth” Narratives: Transforming Our Relationship with Soil**
 
 For soil restoration to be sustainable and systemic, it is not enough to implement technical or policy solutions. We must also transform how we perceive and relate to the Earth. SoilTribes views “Back to the Earth” narratives as a key tool to rebuild the cultural, emotional, and collective connection with the soils we inhabit and depend on.
