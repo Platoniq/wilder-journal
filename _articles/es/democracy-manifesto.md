@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-02-29T10:07:46.718Z
 date-updated: 2024-02-29T10:07:46.718Z
-article-order: 3
+article-order: 4
 uid: democracy-manifesto
 title: Subirse a la ola deliberativa para ampliar la democracia
 description: Hoy se presenta el manifiesto “Ampliando la Democracia”, que alerta

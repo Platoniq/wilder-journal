@@ -5,13 +5,14 @@ category: futures
 published: true
 date: 2024-02-29T10:07:46.718Z
 date-updated: 2024-02-29T10:07:46.718Z
-article-order: 3
+article-order: 4
 uid: democracy-manifesto
 title: Riding the deliberative wave to expand democracy
 description: Today the manifesto "Amplifying Democracy" is presented, which
   warns of the weakness of our democratic system and proposes 7 concrete
   measures to tackle this crisis.
 author: Platoniq Foundation
+interviewee: null
 cover:
   path: /media/articles/heroes/exploding_head.png
   mobile: /media/articles/mobile/exploding_head.png
