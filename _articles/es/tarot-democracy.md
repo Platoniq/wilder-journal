@@ -78,6 +78,8 @@ Creemos que sí. Y que todo empieza por **invertir su uso**.
 
 En lugar de leer el futuro individual, practicamos **leer el presente colectivo**. El taller se convirtió en un ritual especulativo: ¿Y si un grupo de jóvenes precarizados leyera el tarot a quienes están encargados de implementar sus propuestas políticas? No para pedir, sino para **mostrar**. No para rogar, sino para señalar el camino. Para hablar desde la complejidad vivida con la claridad del símbolo.
 
+{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120312.jpg"},{"path":"/media/img_20250627_120222.jpg"},{"path":"/media/img_20250627_120137.jpg"},{"path":"/media/img_20250627_120057.jpg"}] } %}
+
 Las cartas se inspiraron en los roles clásicos del Teatro Legislativo: la **Protagonista** (quien vive la opresión), el **Bloqueador o Antagonista** (la norma, estructura o figura que la sostiene), la **Agente de Cambio** (quien abre una grieta), el **Coro** (las fuerzas invisibles que configuran el fondo), y la **Joker** —la **facilitadora del proceso**, que ayuda al público a intervenir en escena y ensayar lo impensable.
 
 La simulación se centró en una propuesta específica del proceso: [ "Consejo de Responsabilidad y Legado"](https://openspaces.platoniq.net/conferences/MRLT/f/508/proposals/1240). A través de las cartas, el grupo juvenil volvió a traer al espacio la urgencia de su implementación, no con otro PDF o PowerPoint, sino con **historia, metáfora y confrontación simbólica**.
