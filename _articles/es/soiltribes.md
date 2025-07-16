@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-07-08T15:53:00.000Z
 date-updated: 2025-07-08T15:53:00.000Z
-article-order: 5
+article-order: 2
 uid: soiltribes
 title: "Volver a la Tierra: Una Misión Glocal para Regenerar el Suelo "
 description: "SoilTribes aspira a establecer, activar y potenciar ecosistemas
