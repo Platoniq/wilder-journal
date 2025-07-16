@@ -36,8 +36,6 @@ El suelo es uno de los recursos más esenciales y amenazados de nuestro planeta.
 
 **Ante esta crisis, SoilTribes aspira a establecer, activar y potenciar ecosistemas glocales para los valores, funciones y conectividad del suelo a través de narrativas de «vuelta a la Tierra», tendiendo puentes entre la ciencia, la tecnología, las artes y la acción impulsada por la comunidad.** Mediante el intercambio de conocimientos, la colaboración interdisciplinaria y las iniciativas impulsadas por la comunidad, la misión del proyecto es fomentar un enfoque sistémico y glocal de la restauración del suelo, garantizando su sostenibilidad a largo plazo como recurso fundamental para las generaciones futuras.
 
-{% gallery { "simple": true, "images": [{"path":"/media/soiltribes-cop-general.png"}] } %}
-
 ## **Crear tribus para defender el suelo**
 
 En esencia, SoilTribes se constituye a través de una red dinámica que incluye varios grupos interconectados, cada uno de los cuales desempeña un papel distinto en la promoción de la salud del suelo.
@@ -67,8 +65,6 @@ Si eres seleccionado, podrás:
 ⏳Fecha límite para presentar tu reto: 23 de julio de 2025
 
 📥 Sólo los miembros de la CoP pueden presentar su reto - [únete aquí si aún no formas parte de la red.](https://commons.soiltribes.eu/processes/bootcamp-challenge-submission/f/25)
-
-{% gallery { "simple": true, "images": [{"path":"/media/soiltribes_help_desk_general_3840x1640.jpg"}] } %}
 
 ## **Narrativas de "Vuelta a la Tierra": Transformar nuestra relación con el suelo**
 
