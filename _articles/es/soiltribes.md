@@ -127,3 +127,7 @@ Además, desarrollará las Asambleas de Custodia (AS), espacios que pongan en pr
 **Network:** Colabore, intercambie ideas y manténgase informado sobre las iniciativas relacionadas con el suelo en un entorno relajado y flexible. Una forma estupenda de ampliar su influencia y aumentar su visibilidad.
 
 **[Inscríbete aquí](https://ec.europa.eu/eusurvey/runner/SoilTribes_eoi)**
+
+
+
+{% gallery { "simple": true, "images": [{"path":"/media/unnamed.png"}] } %}

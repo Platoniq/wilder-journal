@@ -119,3 +119,7 @@ The project is committed to cultivating a culture of soil stewardship by engagin
 * **Network:** Collaborate, exchange ideas, and stay informed about soil-related initiatives in a relaxed and flexible environment—a great way to grow your impact and visibility.
 
 **[Sign up here](https://ec.europa.eu/eusurvey/runner/SoilTribes_eoi)**
+
+
+
+{% gallery { "simple": true, "images": [{"path":"/media/unnamed.png"}] } %}
