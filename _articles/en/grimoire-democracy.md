@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-07-16T11:55:00.000+02:00
 date-updated: 2025-07-16T11:55:00.000+02:00
-article-order: 4
+article-order: 3
 uid: Grimoire-Democracy
 title: "From Grimoire to Street: Materialising Youth Policy through Podcast,
   Platform and Protest"
