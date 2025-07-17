@@ -49,14 +49,15 @@ y ensayar lo posible.
 
 El taller “el Tarot del Teatro Legislativo” nació en el marco del proyecto translocal **Youth Mental Health Beyond Borders**, una colaboración entre jóvenes de **Mindset Revolution** (Manchester) y el **Kasal de Roquetes** (Barcelona), unidas por la convicción de que la salud mental debe ser repensada desde las experiencias de quienes más la han visto vulnerada. Especialmente cuando se entrecruza con el racismo, la precariedad habitacional y la violencia institucional.
 
-La sesión formó parte de un proceso más amplio de Teatro Legislativo ([ver contexto aquí](https://openspaces.platoniq.net/conferences/MRLT/f/512/posts/110)), en el que estos grupos juveniles co-crearon una serie de **recomendaciones políticas** a través de la creación escénica y el debate con personas responsables de políticas públicas ([ver propuestas aquí](https://openspaces.platoniq.net/conferences/MRLT/f/512/posts/112)). Pero como suele ocurrir, después del aplauso aparece la verdadera pregunta:
+{% gallery { "simple": true, "images": [{"path":"/media/img_20250626_135255.jpg","alt":"Jóvenes de Manchester y el Kasal de Roquetes durante el taller","credits":"Platoniq (2025)","caption":"Jóvenes de Manchester y el Kasal de Roquetes durante el taller"}] } %}
+
+La sesión formó parte de un proceso más amplio de Teatro Legislativo ([ver contexto aquí](<>)), en el que estos grupos juveniles co-crearon una serie de **recomendaciones políticas** a través de la creación escénica y el debate con personas responsables de políticas públicas ([ver propuestas aquí](<>)). Pero como suele ocurrir, después del aplauso aparece la verdadera pregunta:
+
 **¿Cómo hacemos que se cumplan estas propuestas?**
 
 Ahí entra en juego el **Tarot del Teatro Legislativo**.
 
 Diseñamos una baraja que no busca predecir el futuro, sino **transformarlo**. Cada carta es una herramienta simbólica para navegar los obstáculos, tensiones y oportunidades que se presentan en los procesos de toma de decisiones. Una forma de ensayar la confrontación, revelar el poder, y presionar con imaginación táctica.
-
-{% gallery { "simple": true, "images": [{"path":"/media/img_20250626_135255.jpg","alt":"Jóvenes de Manchester y el Kasal de Roquetes durante el taller","credits":"Platoniq","caption":"Jóvenes de Manchester y el Kasal de Roquetes durante el taller"}] } %}
 
 El taller comenzó con una serie de prompts poéticos creados por Nadia Nadesan, integrante del equipo de Platoniq, que sirvieron de guía para que las personas participantes crearan sus propias cartas. No eran arquetipos genéricos, sino figuras construidas a partir de la memoria colectiva, la resistencia cotidiana y las heridas abiertas del presente:
  – *La Guardiana de las Mareas*, que recuerda los tratados rotos y las casas arrasadas por el cambio climático;
@@ -64,6 +65,8 @@ El taller comenzó con una serie de prompts poéticos creados por Nadia Nadesan,
  – *La Intérprete*, que encarna el trabajo emocional de las hijas de la migración;
  – *El Archivo Inquebrantable*, que sobrevive a la violencia burocrática de las fronteras invisibles;
  – *La Llama Suave*, protectora de los espacios seguros, del cuidado y del consentimiento.
+
+{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120312.jpg"},{"path":"/media/img_20250627_120222.jpg"},{"path":"/media/img_20250627_120137.jpg"},{"path":"/media/img_20250627_120057.jpg"},{"path":"/media/img_20250627_120350.jpg"},{"path":"/media/img_20250627_120453.jpg"},{"path":"/media/img_20250627_120531.jpg"},{"path":"/media/img_20250627_120644.jpg"}] } %}
 
 Desde el inicio del taller dejamos claro que **no estábamos allí para diagnosticar ni para resolver un dolor individual**. Se trataba de **mapear las fuerzas que dan forma a nuestras realidades compartidas**, y darles nombres, rostros, voz. Crear una baraja de tarot para nuestro tiempo:
  enraizada en la **memoria colectiva**,
@@ -78,14 +81,14 @@ Creemos que sí. Y que todo empieza por **invertir su uso**.
 
 En lugar de leer el futuro individual, practicamos **leer el presente colectivo**. El taller se convirtió en un ritual especulativo: ¿Y si un grupo de jóvenes precarizados leyera el tarot a quienes están encargados de implementar sus propuestas políticas? No para pedir, sino para **mostrar**. No para rogar, sino para señalar el camino. Para hablar desde la complejidad vivida con la claridad del símbolo.
 
-{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120312.jpg"},{"path":"/media/img_20250627_120222.jpg"},{"path":"/media/img_20250627_120137.jpg"},{"path":"/media/img_20250627_120057.jpg"},{"path":"/media/img_20250627_120350.jpg"},{"path":"/media/img_20250627_120453.jpg"},{"path":"/media/img_20250627_120531.jpg"},{"path":"/media/img_20250627_120644.jpg"}] } %}
-
 Las cartas se inspiraron en los roles clásicos del Teatro Legislativo: la **Protagonista** (quien vive la opresión), el **Bloqueador o Antagonista** (la norma, estructura o figura que la sostiene), la **Agente de Cambio** (quien abre una grieta), el **Coro** (las fuerzas invisibles que configuran el fondo), y la **Joker** —la **facilitadora del proceso**, que ayuda al público a intervenir en escena y ensayar lo impensable.
 
 La simulación se centró en una propuesta específica del proceso: [ "Consejo de Responsabilidad y Legado"](https://openspaces.platoniq.net/conferences/MRLT/f/508/proposals/1240). A través de las cartas, el grupo juvenil volvió a traer al espacio la urgencia de su implementación, no con otro PDF o PowerPoint, sino con **historia, metáfora y confrontación simbólica**.
 
-Pero el tarot reveló algo más: su potencial como **herramienta de participación inclusiva**. En el Teatro Legislativo no todas las personas quieren (o pueden) levantarse e intervenir en escena. Algunas no se sienten cómodas hablando en público. Otras no encuentran su voz en los formatos teatrales o institucionales.
-El tarot ofreció otra puerta de entrada. Más lenta. Más emocional.
+{% gallery { "simple": false, "images": [{"path":"/media/photo_2025-07-17_14-57-42.jpg","alt":"Imaginando cartas del tarot para hacer política","caption":"Imaginando cartas del tarot para hacer política","credits":"Platoniq (2025)"}] } %}
+
+Pero el tarot reveló algo más: su potencial como **herramienta de participación inclusiva**. En el Teatro Legislativo no todas las personas quieren (o pueden) levantarse e intervenir en escena. Algunas no se sienten cómodas hablando en público. Otras no encuentran su voz en los formatos teatrales o institucionales. El tarot ofreció otra puerta de entrada. Más lenta. Más emocional.
+
 **Una manera de participar sin actuar.
 De disentir sin gritar.
 De hablar sin ser interrumpida.**
