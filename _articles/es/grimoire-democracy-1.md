@@ -36,7 +36,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-07-09-a-las-11.29.19.png
 ---
 Si el **tarot** es un mapa de arquetipos, 
 el **grimorio** es el libro que te enseña a utilizarlos.
