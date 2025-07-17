@@ -68,12 +68,12 @@ El taller comenzó con una serie de prompts poéticos creados por Nadia Nadesan,
  – *El Archivo Inquebrantable*, que sobrevive a la violencia burocrática de las fronteras invisibles;
  – *La Llama Suave*, protectora de los espacios seguros, del cuidado y del consentimiento.
 
-{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120312.jpg"},{"path":"/media/img_20250627_120222.jpg"},{"path":"/media/img_20250627_120137.jpg"},{"path":"/media/img_20250627_120057.jpg"},{"path":"/media/img_20250627_120350.jpg"},{"path":"/media/img_20250627_120453.jpg"},{"path":"/media/img_20250627_120531.jpg"},{"path":"/media/img_20250627_120644.jpg"}] } %}
-
 Desde el inicio del taller dejamos claro que **no estábamos allí para diagnosticar ni para resolver un dolor individual**. Se trataba de **mapear las fuerzas que dan forma a nuestras realidades compartidas**, y darles nombres, rostros, voz. Crear una baraja de tarot para nuestro tiempo:
  enraizada en la **memoria colectiva**,
  capaz de hablar a los **sistemas que dañan o cuidan**,
  y dirigida a quienes más deben escuchar: **las personas con poder institucional**.
+
+{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120312.jpg"},{"path":"/media/img_20250627_120222.jpg"},{"path":"/media/img_20250627_120137.jpg"},{"path":"/media/img_20250627_120057.jpg"},{"path":"/media/img_20250627_120350.jpg"},{"path":"/media/img_20250627_120453.jpg"},{"path":"/media/img_20250627_120531.jpg"},{"path":"/media/img_20250627_120644.jpg"}] } %}
 
 El tarot, por supuesto, no es neutral. Aunque sus formas más populares se codificaron en la Europa del siglo XVIII y XIX, sus raíces más profundas nos llevan a otros lugares. La estructura misma de la baraja —con palos, figuras cortesanas y arquetipos— puede rastrearse hasta las **cartas mamelucas** del Egipto del siglo XIV, que viajaron a Europa a través de rutas comerciales por **Al-Ándalus y el Mediterráneo**. Esas cartas, con palos como espadas, copas y monedas, sentaron las bases de los mazos europeos, incluido el tarot.
 
@@ -85,9 +85,9 @@ En lugar de leer el futuro individual, practicamos **leer el presente colectivo*
 
 Las cartas se inspiraron en los roles clásicos del Teatro Legislativo: la **Protagonista** (quien vive la opresión), el **Bloqueador o Antagonista** (la norma, estructura o figura que la sostiene), la **Agente de Cambio** (quien abre una grieta), el **Coro** (las fuerzas invisibles que configuran el fondo), y la **Joker** —la **facilitadora del proceso**, que ayuda al público a intervenir en escena y ensayar lo impensable.
 
-La simulación se centró en una propuesta específica del proceso: [ "Consejo de Responsabilidad y Legado"](https://openspaces.platoniq.net/conferences/MRLT/f/508/proposals/1240). A través de las cartas, el grupo juvenil volvió a traer al espacio la urgencia de su implementación, no con otro PDF o PowerPoint, sino con **historia, metáfora y confrontación simbólica**.
-
 {% gallery { "simple": false, "images": [{"path":"/media/photo_2025-07-17_14-57-42.jpg","alt":"Imaginando cartas del tarot para hacer política","caption":"Imaginando cartas del tarot para hacer política","credits":"Platoniq (2025)"}] } %}
+
+La simulación se centró en una propuesta específica del proceso: [ "Consejo de Responsabilidad y Legado"](<>). A través de las cartas, el grupo juvenil volvió a traer al espacio la urgencia de su implementación, no con otro PDF o PowerPoint, sino con **historia, metáfora y confrontación simbólica**.
 
 Pero el tarot reveló algo más: su potencial como **herramienta de participación inclusiva**. En el Teatro Legislativo no todas las personas quieren (o pueden) levantarse e intervenir en escena. Algunas no se sienten cómodas hablando en público. Otras no encuentran su voz en los formatos teatrales o institucionales. El tarot ofreció otra puerta de entrada. Más lenta. Más emocional.
 
