@@ -21,6 +21,7 @@ author: Olivier Schulbaum & Nadia Nadesan
 author_uids:
   - olivier-schulbaum
   - nadia-nadesan
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-09-a-las-11.29.19.png
   mobile: /assets/media/no_image-hero.png
@@ -28,6 +29,8 @@ cover:
   alt: tarot
   credits: tarot
   caption: tarot
+related_article_uids:
+  - amber-huff
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
