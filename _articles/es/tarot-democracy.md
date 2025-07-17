@@ -23,7 +23,7 @@ cover:
   credits: tarot
   caption: tarot
 related_article_uids:
-  - esepe-danse-macabre
+  - ahmed
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
