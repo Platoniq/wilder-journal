@@ -56,7 +56,7 @@ Ahí entra en juego el **Tarot del Teatro Legislativo**.
 
 Diseñamos una baraja que no busca predecir el futuro, sino **transformarlo**. Cada carta es una herramienta simbólica para navegar los obstáculos, tensiones y oportunidades que se presentan en los procesos de toma de decisiones. Una forma de ensayar la confrontación, revelar el poder, y presionar con imaginación táctica.
 
-{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120644.jpg"},{"path":"/media/img_20250627_120531.jpg"},{"path":"/media/img_20250627_120453.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/img_20250626_135255.jpg","alt":"Jóvenes de Manchester y el Kasal de Roquetes durante el taller","credits":"Platoniq","caption":"Jóvenes de Manchester y el Kasal de Roquetes durante el taller"}] } %}
 
 El taller comenzó con una serie de prompts poéticos creados por Nadia Nadesan, integrante del equipo de Platoniq, que sirvieron de guía para que las personas participantes crearan sus propias cartas. No eran arquetipos genéricos, sino figuras construidas a partir de la memoria colectiva, la resistencia cotidiana y las heridas abiertas del presente:
  – *La Guardiana de las Mareas*, que recuerda los tratados rotos y las casas arrasadas por el cambio climático;
@@ -78,7 +78,7 @@ Creemos que sí. Y que todo empieza por **invertir su uso**.
 
 En lugar de leer el futuro individual, practicamos **leer el presente colectivo**. El taller se convirtió en un ritual especulativo: ¿Y si un grupo de jóvenes precarizados leyera el tarot a quienes están encargados de implementar sus propuestas políticas? No para pedir, sino para **mostrar**. No para rogar, sino para señalar el camino. Para hablar desde la complejidad vivida con la claridad del símbolo.
 
-{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120312.jpg"},{"path":"/media/img_20250627_120222.jpg"},{"path":"/media/img_20250627_120137.jpg"},{"path":"/media/img_20250627_120057.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/img_20250627_120312.jpg"},{"path":"/media/img_20250627_120222.jpg"},{"path":"/media/img_20250627_120137.jpg"},{"path":"/media/img_20250627_120057.jpg"},{"path":"/media/img_20250627_120350.jpg"},{"path":"/media/img_20250627_120453.jpg"},{"path":"/media/img_20250627_120531.jpg"},{"path":"/media/img_20250627_120644.jpg"}] } %}
 
 Las cartas se inspiraron en los roles clásicos del Teatro Legislativo: la **Protagonista** (quien vive la opresión), el **Bloqueador o Antagonista** (la norma, estructura o figura que la sostiene), la **Agente de Cambio** (quien abre una grieta), el **Coro** (las fuerzas invisibles que configuran el fondo), y la **Joker** —la **facilitadora del proceso**, que ayuda al público a intervenir en escena y ensayar lo impensable.
 
