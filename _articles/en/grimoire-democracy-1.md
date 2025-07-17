@@ -24,7 +24,7 @@ author_uids:
 interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-09-a-las-11.29.19.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-09-a-las-11.29.19.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: tarot
   credits: tarot
