@@ -59,6 +59,8 @@ Ahí entra en juego el **Tarot del Teatro Legislativo**.
 
 Diseñamos una baraja que no busca predecir el futuro, sino **transformarlo**. Cada carta es una herramienta simbólica para navegar los obstáculos, tensiones y oportunidades que se presentan en los procesos de toma de decisiones. Una forma de ensayar la confrontación, revelar el poder, y presionar con imaginación táctica.
 
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2025-07-17_14-50-04.jpg","alt":"Prompt","caption":"Prompt","credits":"Prompt"}] } %}
+
 El taller comenzó con una serie de prompts poéticos creados por Nadia Nadesan, integrante del equipo de Platoniq, que sirvieron de guía para que las personas participantes crearan sus propias cartas. No eran arquetipos genéricos, sino figuras construidas a partir de la memoria colectiva, la resistencia cotidiana y las heridas abiertas del presente:
  – *La Guardiana de las Mareas*, que recuerda los tratados rotos y las casas arrasadas por el cambio climático;
  – *El Ladrillo que Habla*, surgido de las asambleas de escalera y huelgas de alquiler;

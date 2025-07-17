@@ -57,6 +57,8 @@ That’s where the **Tarot of Legislative Theater** came in.
 
 We designed a deck not to predict the future, but to reshape it. Each card was a symbolic tool to navigate the tensions, obstacles, and openings that shape participatory policymaking — particularly around mental health, care, and access. The deck became a way to **rehearse confrontation, reveal power, and pressure institutions** — using play as a tactical language.
 
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2025-07-17_14-50-04.jpg"}] } %}
+
 Nadia Nadesan, a member of the Platoniq team facilitated the workshop through a set of poetic prompts she created. These weren’t generic archetypes, but collective figures built from memory, resistance, and lived tension:
  – *The Tidekeeper*, a storyteller who holds the grief of climate collapse;
  – *The Brick That Speaks*, born of tenant assemblies and rent strikes;
