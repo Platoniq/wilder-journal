@@ -7,7 +7,7 @@ date: 2025-07-17T09:25:00.000+02:00
 date-updated: 2025-07-17T09:25:00.000+02:00
 article-order: 3
 uid: grimoire-democracy
-title: "XDel Grimorio a la Calle: Materializar la política de juventud a través
+title: "Del Grimorio a la Calle: Materializar la política de juventud a través
   del podcast, la plataforma y la protesta"
 description: En el segundo capítulo de Youth Mental Health Beyond Borders,
   nuestro grimorio digital, también conocido como fanzine digital, tomó forma no
