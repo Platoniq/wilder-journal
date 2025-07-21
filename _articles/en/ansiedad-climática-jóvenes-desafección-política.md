@@ -14,7 +14,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/sand_clock.png
   mobile: /media/articles/mobile/sand_clock.png
-  thumbnail: /media/articles/thumbnails/why-a-past.png
+  thumbnail: /media/articles/thumbnails/sand_clock.png
 related_article_uids:
   - amber-huff
 stickers:
