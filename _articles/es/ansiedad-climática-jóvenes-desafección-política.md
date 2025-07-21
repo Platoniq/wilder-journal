@@ -1,14 +1,14 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: learnings
+category: futures
 published: true
 date: 2025-07-21T10:56:00.000+02:00
 date-updated: 2025-07-21T10:56:00.000+02:00
 article-order: 21
-uid: Ansiedad-climática-jóvenes-desafección-política
-title: Ansiedad climática, jóvenes y desafección política, con Carla Riera y
-  Sara S. Ribés
+uid: palabra-accion-colaboracion
+title: "De la palabra a la acción colaborativa: ansiedad climática, jóvenes y
+  desafección política"
 description: Cada vez escuchamos más a jóvenes hablando de ansiedad climática,
   malestar social o desafección política. Pero también de nuevas formas de
   organizarse, de cuidarse… y de esperanza.
