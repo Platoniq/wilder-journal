@@ -32,13 +32,11 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/v5_zine_democratizar_compressed.jpg
 ---
-Cada vez escuchamos más a jóvenes hablando de ansiedad climática, malestar social o desafección política. Pero también de nuevas formas de organizarse, de cuidarse… y de esperanza. 
+Cada vez escuchamos más a jóvenes hablando de ansiedad climática, malestar social o desafección política. Pero también de nuevas formas de organizarse, de cuidarse… y de esperanza. La mirada y el silencio pueden ser vehículo para hacer emerger conceptos difíciles. Y así fue como sucedió, en una jornada llena de emoción y de ganas de construir juntas. Una tarde que empezó con Sara S. Ribés, activista climática de End Fossil BCN, y Carla Riera, experta en derechos humanos y en el impacto de las crisis globales sobre el bienestar, especialmente de las personas más vulnerables, y que acabó cuando todas juntas celebramos haber atravesado las crisis globales con la imaginación y planteando algo nuevo, quizás más pequeño, pero sin duda más cercano.
 
-Para profundizar en todo esto, nos acompañan: 
 
-💬 Sara Santana Ribés, activista climática de End Fossil BCN. 
 
-💬 Carla Riera, experta en derechos humanos y en el impacto de las crisis globales sobre el bienestar, especialmente de las personas más vulnerables. 
+
 
 
 
