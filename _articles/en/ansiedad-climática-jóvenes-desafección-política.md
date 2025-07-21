@@ -13,7 +13,7 @@ author_uids:
 interviewee: null
 cover:
   path: /media/articles/heroes/v5_zine_democratizar_compressed.jpg
-  mobile: /media/articles/mobile/sand_clock.png
+  mobile: /media/articles/mobile/v5_zine_democratizar_compressed.jpg
   thumbnail: /media/articles/thumbnails/sand_clock.png
 related_article_uids:
   - amber-huff
