@@ -19,7 +19,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/esepe_stayyoung.png
   mobile: /media/articles/mobile/esepe_stayyoung.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe_stayyoung.png
   alt: Esepe, Young, 2023
   credits: Esepe, Young, 2023
   caption: Esepe, Young, 2023

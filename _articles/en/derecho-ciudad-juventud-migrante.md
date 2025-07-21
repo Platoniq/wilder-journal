@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/esepe_stayyoung.png
   mobile: /media/articles/mobile/esepe_stayyoung.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe_stayyoung.png
 related_article_uids:
   - chimwemwe_chirwa
 stickers:
