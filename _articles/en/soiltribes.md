@@ -20,7 +20,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
+  path: /media/articles/social/soiltribes-standards-manual.jpg
 ---
 **Soil is one of the planet’s most essential and threatened resources.** Soil degradation—caused by erosion, pollution, uncontrolled urbanization, and intensive farming practices—jeopardizes not only food security but also biodiversity, climate balance, and the lives of millions of people.
 

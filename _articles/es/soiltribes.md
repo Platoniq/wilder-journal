@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
+  path: /media/articles/social/soiltribes-standards-manual.jpg
 ---
 El suelo es uno de los recursos más esenciales y amenazados de nuestro planeta. La degradación de los suelos, causada por la erosión, la contaminación, la urbanización descontrolada y las prácticas agrícolas intensivas, compromete no solo la seguridad alimentaria, sino también la biodiversidad, el equilibrio climático y la vida de millones de personas.
 
