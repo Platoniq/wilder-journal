@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-07-21T10:56:00.000+02:00
 date-updated: 2025-07-21T10:56:00.000+02:00
-article-order: 21
+article-order: 8
 uid: palabra-accion-colaboracion
 title: "De la palabra a la acción colaborativa: ansiedad climática, jóvenes y
   desafección política"
