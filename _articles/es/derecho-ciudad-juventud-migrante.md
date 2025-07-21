@@ -39,6 +39,14 @@ El 10 de julio de 2025, 15 jóvenes de entre 18 y 30 años de Barcelona particip
 
 En toda Cataluña, unos 160.000 inmigrantes viven hoy en situación administrativa irregular, de los cuales aproximadamente un tercio residen en Barcelona. Esto sitúa la cifra global de personas sin papeles en Barcelona en torno a 57.000. Aunque no hay datos oficiales exactos de cuántos jóvenes entre 16–25 años están en situación irregular, sabemos que un 17,9 % de las personas sin hogar en Barcelona corresponden a jóvenes migrantes. Además, las entidades de calle indican que alrededor del 10 % de las personas sin hogar atendidas por los equipos municipales tenían entre 18 y 25 años, la mayoría migrantes solos que, al cumplir la mayoría de edad, quedan sin protección. En cuanto a los menores no acompañados: en 2023 llegaron unos 2.331 a Cataluña y se atendieron 501 atendidos en Barcelona.
 
+En 2021, la Sindicatura de Greuges estimó que unos 150 jóvenes extutelados vivían en la calle mientras que en 2020 eran unos 500, de los cuales el 30,9 % carecía de alojamiento estable. En total, más de 1,300 extutelados cumplirán 18 años en 2025, según el Departament de Drets Socials, algo que los hace necesitados de planes reales de emancipación (vivienda, apoyo emocional, formación, empleo).
+
+La franja de 16–23 años es la más visible: con permisos activos (17.452), alto porcentaje laboral y mejoras normativas. Sin embargo, al cruzar la barrera de los 18–20 años, muchos se enfrentan a una fuerte desprotección por la pérdida de tutela, una reglamentación más restrictiva a la hora de renovar permisos y conseguir papeles para su regularización.
+
+Esto provoca que un número aún indeterminado de jóvenes migrantes quede sin papeles, sin vivienda, sin empleo.
+
+{% gallery { "simple": false, "images": [{"path":"/media/dsc00020.jpg","alt":"Jóvenes particpantes en el Taller sobre Derecho a la Ciudad","caption":"Jóvenes participantes en el Taller sobre Derecho a la Ciudad","credits":"Platoniq (2025)"}] } %}
+
 ## **Recomendaciones en materia de políticas públicas**
 
 Mediante un proceso participativo basado en el Teatro Legislativo, los jóvenes participantes co-produjeron una serie de recomendaciones políticas en diversas áreas orientadas a mejorar la integración de la población jóven migrante en la ciudad de Barcelona. 
@@ -51,7 +59,11 @@ La primera serie de recomendaciones se enmarca dentro de las [Transiciones justa
 
 La segunda serie de recomendaciones responde a su vez al [Itinerario administrativo digital y acompañamiento humano en el acceso a derechos](https://openspaces.platoniq.net/processes/lab/f/518/proposals/1254?included_in=Z2lkOi8vZGVjaWRpbS1vcGVuaGVyaXRhZ2UvRGVjaWRpbTo6TWVldGluZ3M6Ok1lZXRpbmcvMjky). Tanto los participantes en el co-diseño de las escenas como el grupo de trabajo de políticas, destacaron la necesidad de abordar que “las personas migrantes enfrentan una complejidad burocrática excesiva desde su llegada, marcada por una falta de coordinación entre oficinas públicas, duplicación de trámites, y un sistema digital que en lugar de facilitar, obstaculiza el acceso a derechos básicos”.
 
+{% gallery { "simple": false, "images": [{"path":"/media/dsc00081.jpg","alt":"Representación de la segunda escena","caption":"Representación de la segunda escena","credits":"Platoniq (2025)"}] } %}
+
 En tercer lugar encontramos una serie de propuestas vinculadas a la [Participación política y ciudadanía efectiva para personas migrantes](https://openspaces.platoniq.net/processes/lab/f/518/proposals/1253?included_in=Z2lkOi8vZGVjaWRpbS1vcGVuaGVyaXRhZ2UvRGVjaWRpbTo6TWVldGluZ3M6Ok1lZXRpbmcvMjky), que surgió de los debates latentes en la escena 3 (“[Derecho a soñar](https://openspaces.platoniq.net/processes/lab/f/517/debates/85)”) y que atraviesa los tres escenarios presentados en el proceso de Teatro Legislativo. La problemática que trascendió fue cómo “las personas migrantes que llevan años viviendo en el territorio, trabajando, estudiando, participando de espacios comunitarios o políticos, siguen sin tener acceso pleno a la ciudadanía, ni a derechos políticos fundamentales como el derecho al voto o a ser consultadas sobre las políticas que les afectan. Esto genera una **ciudadanía de segunda clase**, profundiza la exclusión estructural y refuerza lógicas de tokenismo cuando se las invita a participar solo como usuarios o testimonios”. Estas **aún no han sido contrastadas directamente con las personas participantes migrantes**, por lo que se considera **una serie de propuestas transversales preliminares**. **Platoniq asume la responsabilidad de validarlas, ampliarlas o reformularlas colectivamente**. 
+
+{% gallery { "simple": false, "images": [{"path":"/media/dsc00102.jpg","alt":"El equipo de políticas presentado sus recomendaciones","caption":"El equipo de políticas presentando sus recomendaciones","credits":"Platoniq (2025)"}] } %}
 
 ## **Red pública de acogida y acompañamiento con referentes migrantes**
 
@@ -91,6 +103,8 @@ En tercer lugar encontramos una serie de propuestas vinculadas a la [Participaci
 3. Garantizar **procesos de regularización más accesibles** como vía para ejercer derechos ciudadanos.
 4. Explorar formas de **representación política intermedia**, como el voto delegado, el derecho a participar en presupuestos participativos locales, o la inclusión en consejos ciudadanos de forma vinculante.
 5. Permitir que personas sin derecho a voto puedan **delegar su voto en una persona de confianza** con ciudadanía plena, en procesos como presupuestos participativos o consejos juveniles.
+
+{% gallery { "simple": false, "images": [{"path":"/media/dsc00111.jpg","alt":"Votación sobre las propuestas políticas","caption":"Votación sobre las propuestas políticas","credits":"Platoniq (2025)"}] } %}
 
 # **Descárgate el policy brief aquí:**
 
