@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-07-21-a-las-12.12.39.png
 ---
 Durante más de 25 años, **Stefano Sotgiu** ha trabajado en la intersección de las políticas públicas, la innovación jurídica y la democracia deliberativa. Como Presidente de Prossima Democrazia y socio del proyecto INSPIRE de Horizon Europe, aporta una aguda perspectiva jurídica al cambiante panorama de la participación ciudadana. En esta entrevista, analiza qué significa realmente tener «derecho a participar» y por qué la democracia necesita algo más que votos: necesita infraestructura, estrategia y coraje.
 
