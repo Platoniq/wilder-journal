@@ -2,7 +2,7 @@
 layout: article
 volume-uid: wilder-journal-2
 category: futures
-published: false
+published: true
 date: 2025-07-17T09:25:00.000+02:00
 date-updated: 2025-07-17T09:25:00.000+02:00
 article-order: 3
