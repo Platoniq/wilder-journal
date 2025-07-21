@@ -10,7 +10,7 @@ uid: Ansiedad-climática-jóvenes-desafección-política
 interviewee: null
 cover:
   path: /media/articles/heroes/vlcsnap-2025-07-18-11h03m44s394.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/dsc00102.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - amber-huff
