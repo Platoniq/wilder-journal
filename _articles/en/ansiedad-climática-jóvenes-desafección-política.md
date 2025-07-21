@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/vlcsnap-2025-07-18-11h03m44s394.jpg
   mobile: /media/articles/mobile/vlcsnap-2025-07-18-11h03m44s394.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/vlcsnap-2025-07-18-11h03m44s394.jpg
 related_article_uids:
   - amber-huff
 stickers:
