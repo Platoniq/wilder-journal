@@ -13,7 +13,7 @@ author_uids:
 interviewee: null
 cover:
   path: /media/articles/heroes/sand_clock.png
-  mobile: /media/articles/mobile/why-a-past.png
+  mobile: /media/articles/mobile/sand_clock.png
   thumbnail: /media/articles/thumbnails/why-a-past.png
 related_article_uids:
   - amber-huff
