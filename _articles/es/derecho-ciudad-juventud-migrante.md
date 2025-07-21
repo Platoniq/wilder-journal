@@ -33,9 +33,13 @@ call_to_action: cta-newsletter
 image:
   path: /media/articles/social/esepe_stayyoung.png
 ---
+El 10 de julio de 2025, 15 jóvenes de entre 18 y 30 años de Barcelona participaron en un taller de Teatro Legislativo sobre el Derecho a la Ciudad. Utilizamos el teatro legislativo, la participación digital y métodos de investigación participativa para repensar el derecho a la ciudad y su intersección con las preocupaciones de la población migrante de la ciudad desde la perspectiva de los jóvenes, con diversidad de clase, etnia y género. 
+
+## **Contexto**
+
 En toda Cataluña, unos 160.000 inmigrantes viven hoy en situación administrativa irregular, de los cuales aproximadamente un tercio residen en Barcelona. Esto sitúa la cifra global de personas sin papeles en Barcelona en torno a 57.000. Aunque no hay datos oficiales exactos de cuántos jóvenes entre 16–25 años están en situación irregular, sabemos que un 17,9 % de las personas sin hogar en Barcelona corresponden a jóvenes migrantes. Además, las entidades de calle indican que alrededor del 10 % de las personas sin hogar atendidas por los equipos municipales tenían entre 18 y 25 años, la mayoría migrantes solos que, al cumplir la mayoría de edad, quedan sin protección. En cuanto a los menores no acompañados: en 2023 llegaron unos 2.331 a Cataluña y se atendieron 501 atendidos en Barcelona.
 
-# **Recomendaciones en materia de políticas públicas**
+## **Recomendaciones en materia de políticas públicas**
 
 Mediante un proceso participativo basado en el Teatro Legislativo, los jóvenes participantes co-produjeron una serie de recomendaciones políticas en diversas áreas orientadas a mejorar la integración de la población jóven migrante en la ciudad de Barcelona. 
 
