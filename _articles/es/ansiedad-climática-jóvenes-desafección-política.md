@@ -16,7 +16,7 @@ author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
 cover:
-  path: /media/articles/heroes/sand_clock.png
+  path: /media/articles/heroes/v5_zine_democratizar_compressed.jpg
   mobile: /media/articles/mobile/sand_clock.png
   thumbnail: /media/articles/thumbnails/sand_clock.png
   alt: podcast
