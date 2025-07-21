@@ -8,6 +8,8 @@ date-updated: 2025-07-21T10:56:00.000+02:00
 article-order: 8
 uid: palabra-accion-colaboracion
 author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: null
 cover:
   path: /media/articles/heroes/vlcsnap-2025-07-18-11h03m44s394.jpg
