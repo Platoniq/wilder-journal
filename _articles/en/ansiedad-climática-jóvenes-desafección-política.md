@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-07-21T10:56:00.000+02:00
 date-updated: 2025-07-21T10:56:00.000+02:00
-article-order: 8
+article-order: 4
 uid: palabra-accion-colaboracion
 author: Cristian Palazzi
 author_uids:
