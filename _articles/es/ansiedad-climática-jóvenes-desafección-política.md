@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/sand_clock.png
+  path: /media/articles/social/v5_zine_democratizar_compressed.jpg
 ---
 Cada vez escuchamos más a jóvenes hablando de ansiedad climática, malestar social o desafección política. Pero también de nuevas formas de organizarse, de cuidarse… y de esperanza. 
 
