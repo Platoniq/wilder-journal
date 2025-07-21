@@ -9,7 +9,7 @@ article-order: 2
 uid: soiltribes
 interviewee: null
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
+  path: /media/articles/heroes/soiltribes-standards-manual.jpg
   mobile: /media/articles/mobile/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
 related_article_uids:
