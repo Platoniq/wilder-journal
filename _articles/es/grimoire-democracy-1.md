@@ -57,7 +57,7 @@ Históricamente, los grimorios eran **manuales de ritual y resistencia.** En ell
 
 Tratamos el **fanzine, el podcast y los carteles visuales** del mismo modo.
 
-Cada una de las propuestas debatidas en el podcast (y posteriormente subidas a la plataforma Decidim), especialmente las relativas a la **vivienda, la interseccionalidad y los cuidados,** encontraron su eco en tarjetas **simbólicas, eslóganes y fragmentos de historias.** Pero también en carteles y visuales que creamos para ser sostenidos en el aire, inspirados por el tono **directo, político y encarnado de Camille Aumont Carnel en su libro «Être raciste, c'est quoi?»** de la serie [ALT Collection](< https://www.editionsdelamartiniere.fr/alt>) de ensayos breves, potentes y que invitan a la reflexión para jóvenes de 15 a 25 años
+Cada una de las propuestas debatidas en el podcast (y posteriormente subidas a la plataforma Decidim), especialmente las relativas a la **vivienda, la interseccionalidad y los cuidados,** encontraron su eco en tarjetas **simbólicas, eslóganes y fragmentos de historias.** Pero también en carteles y visuales que creamos para ser sostenidos en el aire, inspirados por el tono **directo, político y encarnado de Camille Aumont Carnel en su libro «Être raciste, c'est quoi?»** de la serie ALT Collection de ensayos breves, potentes y que invitan a la reflexión para jóvenes de 15 a 25 años
 
 Canalizamos esa energía en una **serie de carteles de protesta y visualizaciones de datos diseñados por Platoniq**, algunos de ellos inspirados en famosos carteles de bandas de Manchester y portadas de álbumes, entre los que se incluyen:
 
@@ -102,7 +102,6 @@ No eran meros ejercicios, eran las **semillas de la estrategia de campaña.** En
 4. Llévalo a protestas y aulas
 5. Crea un zineletter 
 6. Y sigue probando y compartiendo las **cartas del tarot**
-
 
 Porque este grimorio, como todos los grimorios, es desordenado, mágico y estratégico.
 Un registro del dolor, sí. Pero también tácticas.

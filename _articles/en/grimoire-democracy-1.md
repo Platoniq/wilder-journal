@@ -58,7 +58,7 @@ Historically, grimoires were **manuals of ritual and resistance**. They document
 
 We treated the **fanzine, podcast and visual posters** in the same way.
 
-Each proposal discussed in the podcast (and later uploaded to the Decidim platform), especially those touching on **housing, intersectionality, and care**, found its echo in **symbolic cards, slogans, and story fragments**. But also in posters and visuals we created to be held in the air, inspired by the **direct, political, and embodied tone of Camille Aumont Carnel in her book “Être raciste, c'est quoi?”** from the [ALT Collection Series](https://openspaces.platoniq.net/link?external_url=https%3A%2F%2Fwww.editionsdelamartiniere.fr%2Falt) of short, powerful, and thought-provoking essays for 15–25-year-olds
+Each proposal discussed in the podcast (and later uploaded to the Decidim platform), especially those touching on **housing, intersectionality, and care**, found its echo in **symbolic cards, slogans, and story fragments**. But also in posters and visuals we created to be held in the air, inspired by the **direct, political, and embodied tone of Camille Aumont Carnel in her book “Être raciste, c'est quoi?”** from the ALT Collection Series of short, powerful, and thought-provoking essays for 15–25-year-olds
 
 We channeled that energy into a series of  **Platoniq-designed protest posters and data visualisations**, some of them inspired by famous Manchester’s band posters and album Covers including:
 
