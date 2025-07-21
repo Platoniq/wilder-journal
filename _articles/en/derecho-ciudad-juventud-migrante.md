@@ -10,7 +10,7 @@ uid: derecho-ciudad-juventud-migrante
 interviewee: null
 cover:
   path: /media/articles/heroes/esepe_stayyoung.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe_stayyoung.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - chimwemwe_chirwa

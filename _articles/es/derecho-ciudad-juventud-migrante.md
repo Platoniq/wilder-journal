@@ -18,7 +18,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/esepe_stayyoung.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe_stayyoung.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Esepe, Young, 2023
   credits: Esepe, Young, 2023
