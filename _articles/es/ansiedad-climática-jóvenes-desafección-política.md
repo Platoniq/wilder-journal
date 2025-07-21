@@ -16,7 +16,7 @@ author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
 cover:
-  path: /media/articles/heroes/vlcsnap-2025-07-18-11h03m44s394.jpg
+  path: /media/articles/heroes/why-a-past.png
   mobile: /media/articles/mobile/vlcsnap-2025-07-18-11h03m44s394.jpg
   thumbnail: /media/articles/thumbnails/vlcsnap-2025-07-18-11h03m44s394.jpg
   alt: podcast
