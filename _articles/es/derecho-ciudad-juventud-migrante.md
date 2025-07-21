@@ -65,7 +65,9 @@ En tercer lugar encontramos una serie de propuestas vinculadas a la** [Participa
 
 {% gallery { "simple": false, "images": [{"path":"/media/dsc00102.jpg","alt":"El equipo de políticas presentado sus recomendaciones","caption":"El equipo de políticas presentando sus recomendaciones","credits":"Platoniq (2025)"}] } %}
 
-## **Red pública de acogida y acompañamiento con referentes migrantes**
+
+
+{% questions { "items": [{"question":"Red pública de acogida y acompañamiento con referentes migrantes"}] } %}
 
 1. **Crear una red pública de primeros contactos**, integrada por personas migrantes con experiencia en acompañamiento, mediación comunitaria o trabajo social.
 2. Crear un sistema integrado de tramitación por **itinerario administrativo personalizado**, acompañado de puntos de apoyo presencial con personal formado y herramientas de alfabetización digital accesibles en espacios cotidianos.
@@ -73,30 +75,30 @@ En tercer lugar encontramos una serie de propuestas vinculadas a la** [Participa
 4. Promover la **formación básica para personal de atención al público en trámites digitales,** procesos administrativos interinstitucionales, y competencias interculturales.
 5. Ofrecer **programas gratuitos de alfabetización digital para migrantes,** especialmente en zonas urbanas con alta concentración de población extranjera.
 
-## **Ruta hacia la ciudadanía efectiva (pendiente de validación)**
+{% questions { "items": [{"question":"Ruta hacia la ciudadanía efectiva (pendiente de validación)"}] } %}
 
 1. Impulsar un mecanismo excepcional de **regularización administrativa** para personas migrantes con más de 2 años de arraigo social o laboral, vinculado a procesos de formación, voluntariado o contribución comunitaria demostrada.
 2. Reconocer el **arraigo por participación** como categoría válida para iniciar procesos de documentación.
 3. Incluir personas migrantes como **referentes institucionales** en oficinas públicas, consejos de barrio, oficinas de atención ciudadana, etc.
 4. Explorar el uso del **voto delegado** en asambleas comunitarias o foros municipales, con apoyo legal y comunitario.
 
-## **Reforma en los criterios de acceso a programas de vivienda y formación**
+{% questions { "items": [{"question":"Reforma en los criterios de acceso a programas de vivienda y formación"}] } %}
 
 1. **Priorizar en los programas de inserción residencial y formativa** a personas mayores de 18 años sin red familiar ni documentación, especialmente si han pasado por recursos como los CRAE.
 2. **Evitar la exclusión automática por razones documentales**: permitir el acceso a programas a quienes puedan acreditar arraigo a través de empadronamiento, participación en redes o referencias comunitarias.
 
-## **Adaptación de la oferta formativa pública**
+{% questions { "items": [{"question":"Adaptación de la oferta formativa pública"}] } %}
 
 1. Introducir **formaciones iniciales sin requisito lingüístico**, con acompañamiento en el idioma en paralelo.
 2. Diseñar **itinerarios formativos adaptados** a los intereses, experiencias y contextos vitales de las personas, sin exigir acreditaciones formales.
 3. Facilitar **acuerdos con cooperativas y empresas** para garantizar prácticas remuneradas y vínculos laborales sostenidos.
 
-## **Reconocimiento de competencias y micro-credenciales**
+{% questions { "items": [{"question":"Reconocimiento de competencias y micro-credenciales"}] } %}
 
 1. Promover **sistemas flexibles de acreditación** mediante microcredenciales o certificados de experiencia basados en habilidades previas (incluso informales o desarrolladas en otros países).
 2. Crear un convenio interinstitucional con validez en toda la UE para facilitar este reconocimiento exprés.
 
-## **Derechos civiles y participación política**
+{% questions { "items": [{"question":"Derechos civiles y participación política"}] } %}
 
 1. Reconocer la **ciudadanía efectiva de las personas migrantes**, independientemente de su nacionalidad o estatus legal actual, a través de mecanismos que garanticen su participación en la vida política, comunitaria e institucional. 
 2. Crear **espacios de participación política estructurada** desde el reconocimiento de trayectorias migrantes.
