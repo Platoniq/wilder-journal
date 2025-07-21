@@ -43,7 +43,7 @@ el **grimorio** es el libro que te enseña a utilizarlos.
 Uno lee el momento.
 El otro te prepara para lo que viene después.
 
-En el segundo capítulo de Youth Mental Health Beyond Borders, nuestro grimorio digital, también conocido como fanzine digital, tomó forma no como un resumen, sino como una extensión del **curso intensivo de teatro legislativo.** Un espacio para albergar los ecos, fragmentos, conjuros, rechazos y provocaciones que surgieron durante y después del proceso del Teatro Legislativo. Recogió hilos de la serie de podcasts (Abre en pestaña nueva) desarrollados por jóvenes de Barcelona y Manchester, ampliando sus voces y tejiendo sus reivindicaciones en nuevas formas de intervención simbólica.
+En el segundo capítulo de Youth Mental Health Beyond Borders, nuestro grimorio digital, también conocido como fanzine digital, tomó forma no como un resumen, sino como una extensión del **curso intensivo de teatro legislativo.** Un espacio para albergar los ecos, fragmentos, conjuros, rechazos y provocaciones que surgieron durante y después del proceso del Teatro Legislativo. Recogió hilos de la serie de podcasts ([Abre en pestaña nueva](https://openspaces.platoniq.net/conferences/MRLT/f/507/proposals)) desarrollados por jóvenes de Barcelona y Manchester, ampliando sus voces y tejiendo sus reivindicaciones en nuevas formas de intervención simbólica.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.29.53.png"}] } %}
 
