@@ -87,3 +87,7 @@ En tercer lugar encontramos una serie de propuestas vinculadas a la [Participaci
 3. Garantizar **procesos de regularización más accesibles** como vía para ejercer derechos ciudadanos.
 4. Explorar formas de **representación política intermedia**, como el voto delegado, el derecho a participar en presupuestos participativos locales, o la inclusión en consejos ciudadanos de forma vinculante.
 5. Permitir que personas sin derecho a voto puedan **delegar su voto en una persona de confianza** con ciudadanía plena, en procesos como presupuestos participativos o consejos juveniles.
+
+# **Descárgate el policy brief aquí:**
+
+{% file { "title": "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes", "info": "Policy Brief", "file": "/media/policy-brief-lab-ecd-espanol.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
