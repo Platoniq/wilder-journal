@@ -1,0 +1,47 @@
+---
+layout: article
+volume-uid: wilder-journal-2
+category: learnings
+published: true
+date: 2025-07-21T10:20:00.000+02:00
+date-updated: 2025-07-21T10:20:00.000+02:00
+article-order: 12
+uid: Ansiedad-climática-jóvenes-desafección-política
+title: Ansiedad climática, jóvenes y desafección política, con Carla Riera y
+  Sara S. Ribés
+description: Cada vez escuchamos más a jóvenes hablando de ansiedad climática,
+  malestar social o desafección política. Pero también de nuevas formas de
+  organizarse, de cuidarse… y de esperanza.
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
+cover:
+  path: /media/articles/heroes/vlcsnap-2025-07-18-11h03m44s394.jpg
+  mobile: /assets/media/no_image-hero.png
+  thumbnail: /assets/media/no_image-thumbnail.png
+  alt: podcast
+  credits: podcast
+  caption: podcast
+related_article_uids:
+  - amber-huff
+stickers:
+  layout: layout-none
+  sticker_one_animation: animation-none
+  sticker_two_animation: animation-none
+call_to_action: cta-contact
+image:
+  path: /assets/media/no_image-social_media.png
+---
+Cada vez escuchamos más a jóvenes hablando de ansiedad climática, malestar social o desafección política. Pero también de nuevas formas de organizarse, de cuidarse… y de esperanza. 
+
+Para profundizar en todo esto, nos acompañan: 
+
+💬 Sara Santana Ribés, activista climática de End Fossil BCN. 
+
+💬 Carla Riera, experta en derechos humanos y en el impacto de las crisis globales sobre el bienestar, especialmente de las personas más vulnerables. 
+
+https://www.youtube.com/watch?v=RDxvIEIG49A
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RDxvIEIG49A?si=pYD6QuLiifQVXT1_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Más información en: https://democraciacreativa.org
