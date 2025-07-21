@@ -23,5 +23,5 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /media/articles/social/why-a-past.png
+  path: /media/articles/social/sand_clock.png
 ---
