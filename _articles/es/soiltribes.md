@@ -17,7 +17,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/soiltribes-standards-manual.jpg
-  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
+  mobile: /media/articles/mobile/soiltribes-standards-manual.jpg
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-08-a-las-15.52.34.png
   alt: Soiltribes
   credits: Soiltribes
