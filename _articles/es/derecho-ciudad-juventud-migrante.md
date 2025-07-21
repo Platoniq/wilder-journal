@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/esepe_stayyoung.png
 ---
 En toda Cataluña, unos 160.000 inmigrantes viven hoy en situación administrativa irregular, de los cuales aproximadamente un tercio residen en Barcelona. Esto sitúa la cifra global de personas sin papeles en Barcelona en torno a 57.000. Aunque no hay datos oficiales exactos de cuántos jóvenes entre 16–25 años están en situación irregular, sabemos que un 17,9 % de las personas sin hogar en Barcelona corresponden a jóvenes migrantes. Además, las entidades de calle indican que alrededor del 10 % de las personas sin hogar atendidas por los equipos municipales tenían entre 18 y 25 años, la mayoría migrantes solos que, al cumplir la mayoría de edad, quedan sin protección. En cuanto a los menores no acompañados: en 2023 llegaron unos 2.331 a Cataluña y se atendieron 501 atendidos en Barcelona.
 
