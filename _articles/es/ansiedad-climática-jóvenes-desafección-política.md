@@ -17,7 +17,7 @@ author_uids:
   - cristian-palazzi
 cover:
   path: /media/articles/heroes/vlcsnap-2025-07-18-11h03m44s394.jpg
-  mobile: /media/articles/mobile/dsc00102.jpg
+  mobile: /media/articles/mobile/vlcsnap-2025-07-18-11h03m44s394.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: podcast
   credits: podcast
