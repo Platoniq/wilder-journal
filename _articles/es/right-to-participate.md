@@ -50,7 +50,11 @@ Hay una amplia gama de acciones a disposición de los ciudadanos: pueden formar 
 
 #### **¿Las acciones legales, como los litigios contra el Estado o una empresa, pueden considerarse también una forma de participación?** 
 
-Sí, absolutamente. En algunos casos, la acción legal se convierte en la forma final y más decisiva de participación. El litigio estratégico puede elevar cuestiones públicas al nivel judicial, lo que lleva al reconocimiento de nuevos derechos o a la anulación de acciones ilegítimas a través de la jurisprudencia. Es una herramienta poderosa cuando se han agotado o ignorado todas las demás vías de participación.
+Sí, absolutamente. En algunos casos, la acción legal se convierte en la forma final y más decisiva de participación. 
+
+{% quote %}El litigio estratégico puede elevar cuestiones públicas al nivel judicial, lo que lleva al reconocimiento de nuevos derechos o a la anulación de acciones ilegítimas a través de la jurisprudencia. {% endquote %}
+
+El litigio estratégico puede elevar cuestiones públicas al nivel judicial, lo que lleva al reconocimiento de nuevos derechos o a la anulación de acciones ilegítimas a través de la jurisprudencia. Es una herramienta poderosa cuando se han agotado o ignorado todas las demás vías de participación.
 
 #### **Hablemos de organización ciudadana. En Barcelona, los miembros de la Asamblea Ciudadana por el Clima están formando una asociación para aumentar su impacto. ¿Qué opina de este tipo de asociaciones creadas por ciudadanos elegidos al azar?**
 
@@ -74,7 +78,11 @@ El litigio estratégico no es un mero mecanismo jurídico, sino que puede ser un
 
 #### **¿Qué ocurre cuando una asamblea ciudadana formula recomendaciones contundentes, pero las instituciones no actúan? ¿Ve potencial en combinar las asambleas con mecanismos legales de seguimiento, como litigios dirigidos por los ciudadanos o defensores del pueblo independientes encargados de supervisar la respuesta institucional?**
 
-Aunque las asambleas de ciudadanos por sí solas no pueden garantizar la actuación institucional, combinarlas con litigios promovidos por los ciudadanos y con una supervisión independiente -como defensores del pueblo encargados de supervisar las respuestas- ofrece una vía prometedora para reforzar la rendición de cuentas y la renovación democrática. Estos mecanismos pueden transformar las asambleas de ejercicios consultivos en catalizadores de un cambio significativo, garantizando que la voz colectiva de los ciudadanos no sólo se escuche, sino que también se actúe en consecuencia como resultado de una acción ejemplar.
+Aunque las asambleas de ciudadanos por sí solas no pueden garantizar la actuación institucional, combinarlas con litigios promovidos por los ciudadanos y con una supervisión independiente -como defensores del pueblo encargados de supervisar las respuestas- ofrece una vía prometedora para reforzar la rendición de cuentas y la renovación democrática. 
+
+{% quote %}Estos mecanismos pueden transformar las asambleas de ejercicios consultivos en catalizadores de un cambio significativo, garantizando que la voz colectiva de los ciudadanos no sólo se escuche, sino que también se actúe en consecuencia como resultado de una acción ejemplar.{% endquote %}
+
+Estos mecanismos pueden transformar las asambleas de ejercicios consultivos en catalizadores de un cambio significativo, garantizando que la voz colectiva de los ciudadanos no sólo se escuche, sino que también se actúe en consecuencia como resultado de una acción ejemplar.
 
 #### **Los jóvenes recurren cada vez más a los tribunales cuando la política no responde a la crisis climática. ¿Cómo ve la relación entre los litigios climáticos liderados por jóvenes y la democracia participativa? ¿Podrían servir las asambleas ciudadanas como plataforma de lanzamiento o complemento de estas estrategias jurídicas?**
 

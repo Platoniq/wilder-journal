@@ -50,7 +50,11 @@ There’s a wide range of actions available to citizens: they can form committee
 
 #### **Can legal action; such as litigation against the state or a company, also be considered a form of participation?** 
 
-Yes, absolutely. In some cases, legal action becomes the final and most decisive form of participation. Strategic litigation can elevate public issues to the judicial level, leading to the recognition of new rights or the annulment of illegitimate actions through case law. It’s a powerful tool when all other participatory avenues have been exhausted or ignored.
+Yes, absolutely. In some cases, legal action becomes the final and most decisive form of participation. 
+
+{% quote %}Strategic litigation can elevate public issues to the judicial level, leading to the recognition of new rights or the annulment of illegitimate actions through case law. {% endquote %}
+
+Strategic litigation can elevate public issues to the judicial level, leading to the recognition of new rights or the annulment of illegitimate actions through case law. It’s a powerful tool when all other participatory avenues have been exhausted or ignored.
 
 #### **Let’s talk about citizen organization. In Barcelona, members of the Citizens’ Climate Assembly are forming an association to increase their impact. What do you think about these kinds of associations created by randomly selected citizens?** 
 
@@ -74,7 +78,11 @@ Strategic litigation is not merely a legal mechanism but could be a vibrant, pub
 
 #### **What happens when a citizens’ assembly produces powerful recommendations, but institutions fail to act? Do you see potential in combining assemblies with legal follow-up mechanisms; such as citizen-led litigation or independent ombudspersons tasked with monitoring the institutional response?**
 
-While citizens’ assemblies alone cannot guarantee institutional action, combining them with citizen-led litigation and independent oversight—such as ombudspersons tasked with monitoring responses—offers a promising path to strengthen accountability and democratic renewal. These mechanisms can transform assemblies from advisory exercises into catalysts for meaningful change, ensuring that the collective voice of citizens is not only heard but also acted upon as a result of exemplary judgements. 
+While citizens’ assemblies alone cannot guarantee institutional action, combining them with citizen-led litigation and independent oversight—such as ombudspersons tasked with monitoring responses—offers a promising path to strengthen accountability and democratic renewal. 
+
+{% quote %}These mechanisms can transform assemblies from advisory exercises into catalysts for meaningful change, ensuring that the collective voice of citizens is not only heard but also acted upon as a result of exemplary judgements. {% endquote %}
+
+These mechanisms can transform assemblies from advisory exercises into catalysts for meaningful change, ensuring that the collective voice of citizens is not only heard but also acted upon as a result of exemplary judgements. 
 
 #### **Young people are increasingly turning to the courts when politics fails to respond to the climate crisis. How do you see the relationship between youth-led climate litigation and participatory democracy? Could citizens’ assemblies serve as a launching pad or complement for such legal strategies?**
 
