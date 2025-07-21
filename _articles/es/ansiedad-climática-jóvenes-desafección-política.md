@@ -2,7 +2,7 @@
 layout: article
 volume-uid: wilder-journal-2
 category: learnings
-published: false
+published: true
 date: 2025-07-21T10:56:00.000+02:00
 date-updated: 2025-07-21T10:56:00.000+02:00
 article-order: 21
