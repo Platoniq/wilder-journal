@@ -5,12 +5,15 @@ category: learnings
 published: true
 date: 2025-07-21T10:20:00.000+02:00
 date-updated: 2025-07-21T10:20:00.000+02:00
-article-order: 12
+article-order: 21
 uid: Ansiedad-climática-jóvenes-desafección-política
+interviewee: null
 cover:
   path: /media/articles/heroes/vlcsnap-2025-07-18-11h03m44s394.jpg
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - amber-huff
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

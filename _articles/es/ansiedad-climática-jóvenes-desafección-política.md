@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2025-07-21T10:20:00.000+02:00
 date-updated: 2025-07-21T10:20:00.000+02:00
-article-order: 12
+article-order: 21
 uid: Ansiedad-climática-jóvenes-desafección-política
 title: Ansiedad climática, jóvenes y desafección política, con Carla Riera y
   Sara S. Ribés
