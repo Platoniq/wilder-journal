@@ -16,7 +16,7 @@ author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
 cover:
-  path: /media/articles/heroes/why-a-past.png
+  path: /media/articles/heroes/sand_clock.png
   mobile: /media/articles/mobile/why-a-past.png
   thumbnail: /media/articles/thumbnails/why-a-past.png
   alt: podcast

@@ -12,7 +12,7 @@ author_uids:
   - cristian-palazzi
 interviewee: null
 cover:
-  path: /media/articles/heroes/why-a-past.png
+  path: /media/articles/heroes/sand_clock.png
   mobile: /media/articles/mobile/why-a-past.png
   thumbnail: /media/articles/thumbnails/why-a-past.png
 related_article_uids:
