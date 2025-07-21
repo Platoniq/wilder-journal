@@ -20,5 +20,5 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/vlcsnap-2025-07-18-11h03m44s394.jpg
 ---
