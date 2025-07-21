@@ -32,16 +32,8 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/v5_zine_democratizar_compressed.jpg
 ---
-Cada vez escuchamos más a jóvenes hablando de ansiedad climática, malestar social o desafección política. Pero también de nuevas formas de organizarse, de cuidarse… y de esperanza. La mirada y el silencio pueden ser vehículo para hacer emerger conceptos difíciles. Y así fue como sucedió, en una jornada llena de emoción y de ganas de construir juntas. Una tarde que empezó con Sara S. Ribés, activista climática de End Fossil BCN, y Carla Riera, experta en derechos humanos y en el impacto de las crisis globales sobre el bienestar, especialmente de las personas más vulnerables, y que acabó cuando todas juntas celebramos haber atravesado las crisis globales con la imaginación y planteando algo nuevo, quizás más pequeño, pero sin duda más cercano.
-
-
-
-
-
-
+Cada vez escuchamos más a jóvenes hablando de ansiedad climática, malestar social o desafección política. Pero también de nuevas formas de **organización**, de **cuidados**… y de **esperanza.** La escucha, y también el silencio, es el vehículo donde nos permitimos hacer emerger conceptos difíciles. Y así fue como sucedió: una jornada llena de emoción y de ganas de construir juntas, que empezó con **Sara S. Ribés,** activista climática de End Fossil BCN, y **Carla Riera,** experta en derechos humanos y en el impacto de las crisis globales sobre el bienestar, especialmente de las personas más vulnerables, y que acabó celebrando el haber atravesado las crisis globales con la imaginación (y con las manos) para plantear algo nuevo, quizás más pequeño, pero sin duda más cercano.
 
 {% gallery { "simple": true, "images": [{"path":"/media/v5_zine_democratizar_compressed2.jpg"}] } %}
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RDxvIEIG49A?si=G6VL9GkmGJ3ox7v0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
