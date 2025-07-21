@@ -14,7 +14,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/why-a-past.png
   mobile: /media/articles/mobile/why-a-past.png
-  thumbnail: /media/articles/thumbnails/vlcsnap-2025-07-18-11h03m44s394.jpg
+  thumbnail: /media/articles/thumbnails/why-a-past.png
 related_article_uids:
   - amber-huff
 stickers:
