@@ -40,4 +40,4 @@ Para profundizar en todo esto, nos acompañan:
 
 💬 Carla Riera, experta en derechos humanos y en el impacto de las crisis globales sobre el bienestar, especialmente de las personas más vulnerables. 
 
-https://www.youtube.com/watch?v=RDxvIEIG49A
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RDxvIEIG49A?si=G6VL9GkmGJ3ox7v0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
