@@ -7,8 +7,8 @@ date: 2025-07-21T10:56:00.000+02:00
 date-updated: 2025-07-21T10:56:00.000+02:00
 article-order: 2
 uid: palabra-accion-colaboracion
-title: "De la palabra a la acción colaborativa: ansiedad climática, jóvenes y
-  desafección política"
+title: "Ansiedad climática, jóvenes y desafección política: pensar juntas
+  conceptos con las manos"
 description: Cada vez escuchamos más a jóvenes hablando de ansiedad climática,
   malestar social o desafección política. Pero también de nuevas formas de
   organizarse, de cuidarse… y de esperanza.
