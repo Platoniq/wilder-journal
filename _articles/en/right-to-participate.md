@@ -19,11 +19,13 @@ author_uids:
 interviewee: Stefano Sotgiu
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-21-a-las-12.12.39.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-21-a-las-12.12.39.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Stefano Sotgiu
   credits: Stefano Sotgiu
   caption: Stefano Sotgiu
+related_article_uids:
+  - arantxa-mendiharat
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
