@@ -18,7 +18,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/v5_zine_democratizar_compressed.jpg
   mobile: /media/articles/mobile/v5_zine_democratizar_compressed.jpg
-  thumbnail: /media/articles/thumbnails/sand_clock.png
+  thumbnail: /media/articles/thumbnails/v5_zine_democratizar_compressed.jpg
   alt: podcast
   credits: podcast
   caption: podcast
