@@ -23,7 +23,9 @@ cover:
   credits: podcast
   caption: podcast
 related_article_uids:
-  - amber-huff
+  - tarot-democracy
+  - grimoire-democracy
+  - Escuela-Creatividad-Democracia
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
