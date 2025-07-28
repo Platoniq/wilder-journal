@@ -29,7 +29,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
 ---
-Este primer módulo: **“El vértigo del diálogo y la deliberación”***,* establece los fundamentos para entender la participación como un proceso dinámico, impredecible y en constante transformación, donde las convicciones se ven continuamente desafiadas. Para ello, de la mano de varios expertos, exploramos el proceso de la deliberación: en primer lugar, hablamos del concepto de **democracia creativa y cómo se relaciona con la democracia moderna**; también, analizamos **los condicionamientos cognitivos que dificultan los procesos participativos**; finalmente, reflexionamos sobre **la práctica de la deliberación** y algunos de sus aspectos más importantes.
+Este primer módulo, **“El vértigo del diálogo y la deliberación”***,* establece los fundamentos para entender la participación como un proceso dinámico, impredecible y en constante transformación, donde las convicciones se ven continuamente desafiadas. Para ello, de la mano de varios expertos, exploramos el proceso de la deliberación: en primer lugar, hablamos del concepto de **democracia creativa y cómo se relaciona con la democracia moderna**; también, analizamos **los condicionamientos cognitivos que dificultan los procesos participativos**; finalmente, reflexionamos sobre **la práctica de la deliberación** y algunos de sus aspectos más importantes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H6WreQY9wpI?si=LMK_LqP_ORGcPZRB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
