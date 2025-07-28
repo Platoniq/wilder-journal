@@ -60,4 +60,4 @@ Tras la conversación, todas las personas que estábamos ahí: activistas, filó
 
 Llegamos así al final de la **[Escuela de Creatividad y Democracia](https://www.democraciacreativa.org/),** un espacio para pensar y, sobre todo, experimentar la reconexión afectiva con la democracia a través de las artes y la creatividad. 
 
-Volvemos en Febrero, puedes inscribirte [a la segunda edición aquí.](https://www.democraciacreativa.org/)
+Volvemos en Febrero, puedes inscribirte a **[la segunda edición aquí.](https://www.democraciacreativa.org/)**
