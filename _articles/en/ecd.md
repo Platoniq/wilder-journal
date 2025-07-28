@@ -10,7 +10,7 @@ uid: ECD
 interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - Escuela-Creatividad-Democracia
