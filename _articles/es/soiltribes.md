@@ -23,7 +23,9 @@ cover:
   credits: Soiltribes
   caption: Soiltribes
 related_article_uids:
-  - amber-huff
+  - open-heritage-financing
+  - democratic-digital-infraestructure
+  - right-to-participate
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
