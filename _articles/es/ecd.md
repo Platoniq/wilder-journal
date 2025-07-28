@@ -15,7 +15,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
   alt: Modulo 1
   credits: Modulo 1
   caption: Modulo 1
