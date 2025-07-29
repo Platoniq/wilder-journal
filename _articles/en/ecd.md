@@ -55,6 +55,4 @@ To avoid the exclusion there are several strategies, such as enclave deliberatio
 
 ## **Design of a sample**
 
-
-
 To conclude the module, we explore the application of the concepts learned through the first deliverable, which proposes the design of a sample of an eventual participatory process. **The objective is to consider how to guarantee an adequate sample for a participatory process and what criteria should be used for this purpose.**
