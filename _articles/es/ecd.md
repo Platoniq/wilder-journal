@@ -13,9 +13,9 @@ author: Fundacion Platoniq
 author_uids:
   - platoniq
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
-  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
-  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
   alt: Modulo 1
   credits: Modulo 1
   caption: Modulo 1
@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
+  path: /media/articles/social/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
 ---
 Este primer módulo, **El vértigo del diálogo y la deliberación**, establece los fundamentos para entender la participación como un proceso dinámico, impredecible y en constante transformación, donde las convicciones se ven continuamente desafiadas. 
 

@@ -9,9 +9,9 @@ article-order: 24
 uid: ECD
 interviewee: null
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
-  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
-  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
 related_article_uids:
   - Escuela-Creatividad-Democracia
 stickers:
@@ -20,7 +20,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
+  path: /media/articles/social/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
 ---
 This first module, **The Vertigo of Dialogue and Deliberation,** lays the groundwork for understanding participation as a dynamic, unpredictable and constantly changing process, where convictions are continually challenged. 
 
