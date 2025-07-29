@@ -61,6 +61,4 @@ Para evitar la exclusión existen diversas estrategias, como podría ser la deli
 
 ## **Diseño de una muestra**
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-07-29-a-las-9.39.23.png","alt":"Parte de la plantilla del entregable","caption":"Parte de la plantilla del entregable","credits":"Platoniq (2025)"}] } %}
-
 Para concluir el módulo, exploramos la aplicación de los conceptos aprendidos, a través de el primer entregable, en el cual se propone la elaboración del diseño de una muestra de un eventual proceso participativo. **Con el objetivo de plantearnos cómo garantizamos una muestra adecuada a un proceso de participación y qué criterios deberíamos utilizar para ello.**
