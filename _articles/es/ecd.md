@@ -7,14 +7,14 @@ date: 2025-07-28T16:15:00.000+02:00
 date-updated: 2025-07-28T16:15:00.000+02:00
 article-order: 24
 uid: ECD
-title: "El vértigo del diálogo y la deliberación "
+title: "[ECD1] El vértigo del diálogo y la deliberación "
 description: Dialogo-Deliberacion
 author: Fundacion Platoniq
 author_uids:
   - platoniq
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2025-07-29-a-las-9.15.41.png
-  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-29-a-las-9.15.41.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-29-a-las-9.15.41.png
   alt: Modulo 1
   credits: Modulo 1
