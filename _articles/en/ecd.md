@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
-  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-29-a-las-9.15.41.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
 related_article_uids:
   - Escuela-Creatividad-Democracia
 stickers:
