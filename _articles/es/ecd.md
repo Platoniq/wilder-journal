@@ -21,6 +21,8 @@ cover:
   caption: Modulo 1
 related_article_uids:
   - Escuela-Creatividad-Democracia
+  - oliver-escobar
+  - Ernesto-Ganuza
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
