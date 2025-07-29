@@ -29,7 +29,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
 ---
-Este primer módulo, **“El vértigo del diálogo y la deliberación”***,* establece los fundamentos para entender la participación como un proceso dinámico, impredecible y en constante transformación, donde las convicciones se ven continuamente desafiadas. 
+Este primer módulo, **El vértigo del diálogo y la deliberación**, establece los fundamentos para entender la participación como un proceso dinámico, impredecible y en constante transformación, donde las convicciones se ven continuamente desafiadas. 
 
 De la mano de varios expertos, exploramos el proceso de la deliberación: en primer lugar, hablamos del concepto de **democracia creativa y cómo se relaciona con la democracia moderna**; también, analizamos **los condicionamientos cognitivos que dificultan los procesos participativos**; finalmente, reflexionamos sobre **la práctica de la deliberación** y algunos de sus aspectos más importantes.
 
@@ -43,7 +43,7 @@ La creativa publicitaria [Patricia Luján](https://journal.platoniq.net/es/wilde
 
 ## **Decidir cambios con palabras**
 
-Otro concepto importante cuando hablamos de democracia creativa es la participación y los procesos participativos. Estos procesos son mecanismos a través de los cuales la ciudadanía interviene de forma activa en la toma de decisiones públicas. [Ernesto Ganuza](https://journal.platoniq.net/es/wilder-journal-2/interviews/Ernesto-Ganuza/), experto en democracia deliberativa y sesgos cognitivos, plantea las dificultades que pueden aparecer los proceso participativo, en relación a los condicionamientos cognitivos. 
+Otro concepto importante cuando hablamos de democracia creativa es la participación y los procesos participativos. **Estos procesos son mecanismos a través de los cuales la ciudadanía interviene de forma activa en la toma de decisiones públicas**. [Ernesto Ganuza](https://journal.platoniq.net/es/wilder-journal-2/interviews/Ernesto-Ganuza/), experto en democracia deliberativa y sesgos cognitivos, plantea las dificultades que pueden aparecer los proceso participativo, en relación a los condicionamientos cognitivos. 
 
 Tradicionalmente, se ha subestimado la participación de las personas no expertas, alegando incapacidad de reflexión y sesgos cognitivos. Sin embargo, **la psicología social demuestra que todas las personas tenemos sesgos cognitivos.** Los discursos no expresan una cultura interiorizada, sino que son argumentos en un contexto social concreto, ya que nuestra mente funciona justificando acciones. Los sesgos cognitivos nos ayudan a defendernos, pero dificultan el acuerdo.
 
@@ -55,8 +55,10 @@ Un proceso participativo depende también de la forma de comunicación, que cond
 
 ## **La deliberación puesta en práctica**
 
-Todos los ciudadanos deberían tener igualdad de oportunidades a la hora de participar en un proceso deliberativo, sin embargo, es evidente que la exclusión social e institucional puede trasladarse a estos espacios. Para evitar esta exclusión existen diversas estratégias, como podría ser la deliberación en enclave, que es cuando grupos con experiencias comunes, como la marginación social, se reúnen en un entorno seguro para desarrollar sus ideas antes de participar en el debate público. **También, la discriminación positiva que busca nivelar el terreno, eliminando barreras estructurales que limitan a grupos desfavorecidos.**
+Todos los ciudadanos deberían tener igualdad de oportunidades a la hora de participar en un proceso deliberativo, sin embargo, **es evidente que la exclusión social e institucional puede trasladarse a estos espacios.** En este sentido, [Oliver Escobar](https://journal.platoniq.net/es/wilder-journal-1/interviews/oliver-escobar/), experto en participación ciudadana, expone una posibilidad de aplicación de estrategias de compensación, a través de un caso real, la Asamblea del Clima de Escocia. En este caso, se utilizó el sistema de lotería cívica postal, aplicando discriminación positiva, a través de la selección de un 20% de códigos postales en zonas más desfavorecidas. Además, para eliminar otras posibles barreras, se realizó una exclusión de funcionarios y políticos y se estableció una retribución por participación. Tras una selección en función de ocho criterios (edad, género, geografía, ingresos familiares, etnia, ruralidad, discapacidad y actitud hacía el cambio climático), resultaron ciento cuatro participantes, de distinta demografía. 
 
-En este sentido, [Oliver Escobar](https://journal.platoniq.net/es/wilder-journal-1/interviews/oliver-escobar/), experto en participación ciudadana, expone una posibilidad de aplicación de estas estrategias, a través de un caso real, la Asamblea del Clima de Escocia. En este caso, se utilizó el sistema de lotería cívica postal, aplicando discriminación positiva, a través de la selección de un 20% de códigos postales en zonas más desfavorecias. Además, para eliminar otras posibles barreras, se realizó una exclusión de funcionarios y políticos y se estableció una retribución por participación. Tras una selección en función de ocho criterios (edad, género, geografía, ingresos familiares, etnia, ruralidad, discapacidad y actitud hacía el cambio climático), resultaron ciento cuatro participantes, de distinta demografía. 
+Para evitar la exclusión existen diversas estrategias, como podría ser la deliberación en enclave, que es cuando grupos con experiencias comunes, como la marginación social, se reúnen en un entorno seguro para desarrollar sus ideas antes de participar en el debate público. **También, la discriminación positiva que busca nivelar el terreno, eliminando barreras estructurales que limitan a grupos desfavorecidos.**
+
+## **Diseño de una muestra**
 
 Para concluir el módulo, exploramos la aplicación de los conceptos aprendidos, a través de el primer entregable, en el cual se propone la elaboración del diseño de una muestra de un eventual proceso participativo. **Con el objetivo de plantearnos cómo garantizamos una muestra adecuada a un proceso de participación y qué criterios deberíamos utilizar para ello.**
