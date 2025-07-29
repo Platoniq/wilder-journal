@@ -20,7 +20,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/29511868_964594320370684_4778633969908318208_n-420x280_c.jpg
   mobile: /media/articles/mobile/29511868_964594320370684_4778633969908318208_n-420x280_c.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/29511868_964594320370684_4778633969908318208_n-420x280_c.jpg
   alt: máscara
   credits: máscara
   caption: máscara
