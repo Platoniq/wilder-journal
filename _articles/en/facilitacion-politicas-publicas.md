@@ -42,6 +42,8 @@ The opposite of affection is indifference toward the persistence of coloniality.
 
 For example, **regarding the design of the sample, different strategies can be applied, such as algorithm colonization, oversampling, and continuous evaluation and adaptation.** The first strategy involves programming the algorithm to ensure representation not only of individual demographic traits but also of intersecting identities. The second means designing the algorithm to adjust selection probabilities based on the relevance of certain demographic characteristics to the topic under discussion. Lastly, a system for continuously evaluating the algorithm’s effectiveness in promoting representation and inclusion should be implemented.
 
+{% gallery { "simple": true, "images": [{"path":"/media/slide-16_9-6.png"}] } %}
+
 **Azucena Morán** presents a participatory process she worked on that incorporated strategies to avoid social exclusion: the *Global Assembly*, held digitally in 2021 as part of the United Nations Climate Change Conference (COP). To gain decision-making power at the conference, a global assembly was organized in which participants were randomly selected to proportionally represent the global population. Additionally, over 400 local community assemblies were held in 41 countries, with more than 1,300 participants whose contributions fed into this global debate.
 
 ## **Classic (and creative) ways to participate in Public Policies**

@@ -54,6 +54,8 @@ Lo contrario al afecto es ser indiferentes ante la continuación de la coloniali
 
 Por ejemplo, **en relación al diseño de la  muestra, se pueden aplicar diferentes estrategias como la colonización del algoritmo, el sobremuestreo y la evaluación y adaptación continua.** La primera, consiste en la programación del algoritmo para garantizar la representación no sólo de características demográficas individuales, sino también de intersecciones de identidades. La segunda, en diseñar el algoritmo para ajustar las probabilidades de selección, en función de la relevancia de determinadas características demográficas para el tema que se esté debatiendo. Finalmente, la implantación de un sistema de evaluación continua de la eficacia del algoritmo para promover la representación y la inclusión.
 
+{% gallery { "simple": true, "images": [{"path":"/media/slide-16_9-6.png"}] } %}
+
 **Azucena Morán** propone un ejemplo de proceso participativo en el que ella ha trabajado y en el cual se han considerado estrategías para evitar la exclusión social. Es el caso de la *Global Assembly*, una asamblea celebrada en 2021, de manera digital, en el marco de la Conferencia de las Partes de las Naciones Unidas sobre el cambio climático. Con el objetivo de obtener poder de decisión en la Conferencia, se organizó una asamblea en la cual los participantes fueron elegidos por sorteo, de manera que representaran proporcionalmente la población global. Además, se llevaron a cabo más de 400 asambleas comunitarias locales en 41 países, con más de 1300 participantes, cuyos aportes alimentaron este debate global.
 
 ## **Formas clásicas (y creativas) de participar en Politicas Publicas**
