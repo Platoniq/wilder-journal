@@ -57,6 +57,8 @@ Un proceso participativo depende también de la forma de comunicación, que cond
 
 Todos los ciudadanos deberían tener igualdad de oportunidades a la hora de participar en un proceso deliberativo, sin embargo, **es evidente que la exclusión social e institucional puede trasladarse a estos espacios.** En este sentido, [Oliver Escobar](https://journal.platoniq.net/es/wilder-journal-1/interviews/oliver-escobar/), experto en participación ciudadana, expone una posibilidad de aplicación de estrategias de compensación, a través de un caso real, la Asamblea del Clima de Escocia. En este caso, se utilizó el sistema de lotería cívica postal, aplicando discriminación positiva, a través de la selección de un 20% de códigos postales en zonas más desfavorecidas. Además, para eliminar otras posibles barreras, se realizó una exclusión de funcionarios y políticos y se estableció una retribución por participación. Tras una selección en función de ocho criterios (edad, género, geografía, ingresos familiares, etnia, ruralidad, discapacidad y actitud hacía el cambio climático), resultaron ciento cuatro participantes, de distinta demografía. 
 
+{% gallery { "simple": true, "images": [{"path":"/media/scot-climate-assembly.jpg"}] } %}
+
 Para evitar la exclusión existen diversas estrategias, como podría ser la deliberación en enclave, que es cuando grupos con experiencias comunes, como la marginación social, se reúnen en un entorno seguro para desarrollar sus ideas antes de participar en el debate público. **También, la discriminación positiva que busca nivelar el terreno, eliminando barreras estructurales que limitan a grupos desfavorecidos.**
 
 ## **Diseño de una muestra**

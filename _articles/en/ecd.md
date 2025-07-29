@@ -46,10 +46,11 @@ Avoiding disagreement implies listening to the voice of people with diverse pers
 
 A participatory process also depends on the form of communication, which conditions the way in which we transmit and receive messages. Participation requires a dialogue phase, to build relationships and understanding among participants, and a deliberation phase, to resolve and conclude the process. **The combination of both communication models allows us to rely on mutual understanding, to reach a reasoned consensus, and to avoid falling into a dispute of positions.**
 
-## 
-**Deliberation put into practice**
+## **Deliberation put into practice**
 
 All citizens should have equal opportunities to participate in a deliberative process, however, **it is clear that social and institutional exclusion can be transferred to these spaces.** In this regard, Oliver Escobar, an expert in citizen participation, presents a possible application of compensation strategies through a real case, the Scottish Climate Assembly. In this case, the civic postal lottery system was used, applying positive discrimination, through the selection of 20% of zip codes in more disadvantaged areas. In addition, to eliminate other potential barriers, civil servants and politicians were excluded and a participation fee was established. After a selection based on eight criteria (age, gender, geography, household income, ethnicity, rurality, disability and attitude towards climate change), one hundred and four participants, from different demographics, were selected.
+
+{% gallery { "simple": true, "images": [{"path":"/media/scot-climate-assembly.jpg"}] } %}
 
 To avoid the exclusion there are several strategies, such as enclave deliberation, where groups with common experiences, such as social marginalization, meet in a safe environment to develop their ideas before participating in the public debate. **Also, positive discrimination seeks to level the playing field by removing structural barriers that limit disadvantaged groups.**
 
