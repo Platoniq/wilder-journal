@@ -22,7 +22,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/29511868_964594320370684_4778633969908318208_n-420x280_c.jpg
 ---
 This second module, ***Facilitating the Co-Creation of Agendas and Public Policies with Those Affected*,** delves into the transformative power of emotions in public life. We explore how facilitation can become a practice of democratic care.
 
