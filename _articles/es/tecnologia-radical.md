@@ -17,7 +17,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-07-29-a-las-17.08.18.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-07-29-a-las-17.08.18.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-29-a-las-17.08.18.png
   alt: Tecnologías Radicales
   credits: Tecnologías Radicales
   caption: Tecnologías Radicales
