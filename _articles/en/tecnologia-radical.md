@@ -1,7 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: interviews
+category: learnings
 published: true
 date: 2025-07-29T17:03:00.000+02:00
 date-updated: 2025-07-29T17:03:00.000+02:00
