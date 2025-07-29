@@ -19,7 +19,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/29511868_964594320370684_4778633969908318208_n-420x280_c.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/29511868_964594320370684_4778633969908318208_n-420x280_c.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: máscara
   credits: máscara
