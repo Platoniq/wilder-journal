@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/captura-de-pantalla-2025-07-29-a-las-9.15.41.png
+  path: /media/articles/social/captura-de-pantalla-2025-07-28-a-las-16.20.54.png
 ---
 Este primer módulo, **“El vértigo del diálogo y la deliberación”***,* establece los fundamentos para entender la participación como un proceso dinámico, impredecible y en constante transformación, donde las convicciones se ven continuamente desafiadas. 
 
