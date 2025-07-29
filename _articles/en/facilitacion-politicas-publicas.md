@@ -10,7 +10,7 @@ uid: facilitacion-politicas-publicas
 interviewee: null
 cover:
   path: /media/articles/heroes/29-jul-2025-15_35_16.png
-  mobile: /media/articles/mobile/29511868_964594320370684_4778633969908318208_n-420x280_c.jpg
+  mobile: /media/articles/mobile/29-jul-2025-15_35_16.png
   thumbnail: /media/articles/thumbnails/29511868_964594320370684_4778633969908318208_n-420x280_c.jpg
 related_article_uids:
   - katy-rubin
