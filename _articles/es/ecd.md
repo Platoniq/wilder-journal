@@ -7,7 +7,7 @@ date: 2025-07-28T16:15:00.000+02:00
 date-updated: 2025-07-28T16:15:00.000+02:00
 article-order: 24
 uid: ECD
-title: "ECD Series 1: El vértigo del diálogo y la deliberación "
+title: "El vértigo del diálogo y la deliberación "
 description: Dialogo-Deliberacion
 author: Fundacion Platoniq
 author_uids:
