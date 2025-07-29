@@ -7,7 +7,7 @@ date: 2025-07-29T15:02:00.000+02:00
 date-updated: 2025-07-29T15:02:00.000+02:00
 article-order: 25
 uid: facilitacion-politicas-publicas
-title: "[ECD_s1] Facilitar la co-creación de agendas y políticas públicas con
+title: "[ECD1_M1] Facilitar la co-creación de agendas y políticas públicas con
   los afectados"
 description: "Este segundo módulo, Facilitar la co-creación de agendas y
   políticas públicas con los afectados, se adentra en el poder transformador de
