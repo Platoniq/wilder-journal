@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/29511868_964594320370684_4778633969908318208_n-420x280_c.jpg
+  path: /media/articles/social/29-jul-2025-15_35_16.png
 ---
 Este segundo módulo, **Facilitar la co-creación de agendas y políticas públicas con los afectados,** se adentra en el poder transformador de las emociones en la vida pública, y exploramos cómo la facilitación puede convertirse en una práctica de cuidado democrático, y explora cómo la facilitación puede convertirse en una práctica de cuidado democrático. 
 
