@@ -12,10 +12,13 @@ description: Are We Living an “Oppenheimer Moment” with AI?
 author: Nadia Nadesan
 author_uids:
   - nadia-nadesan
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-vanitags.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe-vanitags.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - digital-illusion
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

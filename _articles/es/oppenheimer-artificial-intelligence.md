@@ -14,7 +14,7 @@ author_uids:
   - nadia-nadesan
 cover:
   path: /media/articles/heroes/esepe-vanitags.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe-vanitags.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Esepe, Vanitas, 2025
   credits: Esepe, Vanitas, 2025
