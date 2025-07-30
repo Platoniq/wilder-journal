@@ -48,6 +48,8 @@ Junto a **Olivier Schulbaum,** director estratégico de Platoniq, exploramos có
 
 Pero no todos los afectos movilizan emancipación. **Alicia Valdés**, con su “Política del malestar”, nos advirtió que la represión histórica de las emociones asociadas a lo “femenino” ha abierto la puerta a su manipulación por discursos reaccionarios. Frente al cinismo tecnocrático, Valdés nos invita a **repolitizar el deseo**, colocar los afectos en el centro de la acción política y construir espacios donde el malestar colectivo encuentre cauces expresivos, no represivos.
 
+{% gallery { "simple": true, "images": [{"path":"/media/image-30-jul-2025-17_03_28.png"}] } %}
+
 **Cynthia Fleury**, en sintonía, nos mostró que una democracia que ignora la dignidad emocional de sus ciudadanxs enferma. Las heridas no tratadas se manifiestan como desafección, resentimiento y fatiga cívica. Con su “Clínica de la dignidad”, nos desafía a tratar la democracia como un cuerpo colectivo que necesita cuidado, reconocimiento y reparación. No se trata solo de diseñar instituciones eficientes, sino de **sanar vínculos rotos y rehacer sentidos compartidos**.
 
 **Chantal Mouffe**, por su parte, nos sacó del mito del consenso. El antagonismo no es un fallo del sistema: es su energía vital. Reprimirlo genera desafección o lo transfiere a formas destructivas. Por eso, la política democrática debe canalizar pasiones, no extinguirlas. Y hacerlo desde lo cultural, lo educativo, lo simbólico: desde una democracia pluralista que abrace el conflicto como fuerza creativa.
