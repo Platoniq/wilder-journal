@@ -15,7 +15,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/esepe-vanitags.png
   mobile: /media/articles/mobile/esepe-vanitags.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe-vanitags.png
   alt: Esepe, Vanitas, 2025
   credits: Esepe, Vanitas, 2025
   caption: Esepe, Vanitas, 2025

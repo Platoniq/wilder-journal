@@ -16,7 +16,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/esepe-vanitags.png
   mobile: /media/articles/mobile/esepe-vanitags.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe-vanitags.png
 related_article_uids:
   - digital-illusion
 stickers:
