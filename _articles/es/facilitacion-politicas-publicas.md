@@ -62,6 +62,8 @@ Morán nos llevó a pensar qué significa descolonizar la participación. No bas
 
 En ese sentido, abordamos nuevas formas de diseñar la representación en procesos deliberativos. Discutimos estrategias como **la colonización del algoritmo** —programar la selección para que contemple intersecciones identitarias complejas—, el **sobremuestreo de grupos históricamente excluidos**, y la **evaluación continua de inclusión** como principio metodológico. Porque **la justicia democrática no es automática: hay que programarla, sostenerla, actualizarla constantemente**.
 
+{% gallery { "simple": true, "images": [{"path":"/media/slide-16_9-6.png"}] } %}
+
 El ejemplo más inspirador fue el de la **Global Assembly**, una asamblea mundial celebrada digitalmente en el marco de la COP26, donde cien ciudadanxs sorteadxs de todo el mundo deliberaron sobre el futuro del planeta. Más de 1300 personas participaron en asambleas locales en 41 países. Y, sin embargo, lo que realmente encendió la deliberación fue **la experiencia narrada por un minero**. Su historia —no sus datos— fue lo que movió al grupo. Así aprendimos que **la participación se enciende desde la experiencia vivida, no desde el saber experto**.
 
 ## **El teatro legislativo como proceso de participación ciudadana**
