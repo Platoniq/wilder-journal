@@ -21,6 +21,7 @@ cover:
   caption: Esepe, Vanitas, 2025
 related_article_uids:
   - digital-illusion
+  - democratic-digital-infraestructure
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
