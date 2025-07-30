@@ -9,8 +9,9 @@ article-order: 3
 uid: Oppenheimer-Artificial-Intelligence
 title: "Podcast: ¿Estamos viviendo un “momento Oppenheimer” con la IA?"
 description: "Gobernanza de la IA y los Comunes en la Era de la Crisis "
-author: Nadia Nadesan
+author: Olivier Schulbaum & Nadia Nadesan
 author_uids:
+  - olivier-schulbaum
   - nadia-nadesan
 cover:
   path: /media/articles/heroes/esepe-vanitags.png
