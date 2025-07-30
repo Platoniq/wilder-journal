@@ -79,7 +79,11 @@ Y no fueron solo conceptos. Vimos casos reales. El **caso de Olot,** donde colec
 
 ## **Elaboración de un proceso de participación ciudadano. Paso 1: diseño de una muestra**
 
-Como cierre del módulo, **trabajamos en el diseño de una muestra para un proceso participativo real.** Lejos de ser un simple ejercicio técnico, fue una práctica profundamente política: ¿a quién convocamos? ¿Quién queda fuera? ¿Qué criterios usamos para imaginar lo común? Y así, volvimos al origen de todo lo aprendido: participar es imaginar, deliberar, crear, proponer, facilitar, sostener.
+Como cierre del módulo, **trabajamos en el diseño de una muestra para un proceso participativo real.** Lejos de ser un simple ejercicio técnico, fue una práctica profundamente política: 
+
+{% questions { "items": [{"question":"¿a quién convocamos? "},{"question":"¿Quién queda fuera? "},{"question":"Qué criterios usamos para imaginar lo común? "}] } %}
+
+Y así, volvimos al origen de todo lo aprendido: participar es imaginar, deliberar, crear, proponer, facilitar, sostener.
 
 **La facilitación no es únicamente moderación.** Es una práctica política compleja que abre caminos donde antes había puertas cerradas. Así salimos de este primer vértigo: no con certezas, sino con herramientas, con preguntas nuevas y, sobre todo, con el deseo de seguir co-creando lo que todavía no existe.
 
