@@ -74,7 +74,7 @@ En paralelo, conocimos otra herramienta profundamente transformadora: el **teatr
 
 Este método, nacido del legado de Augusto Boal, permite a comunidades afectadas por políticas injustas escenificar sus propias experiencias, identificar problemáticas y co-crear soluciones que se traducen en propuestas públicas reales. Lo extraordinario de este enfoque es que **la imaginación colectiva se convierte en legislación viva**. No se trata solo de representar la opresión, sino de **ensayar la liberación**.
 
-## **Guionización de problema social**
+## **Elaboración de un proceso de participación ciudadano. Paso 2 :Guionización de problema social**
 
 En este viaje de emociones, conflicto, creatividad y representación, concluimos el módulo con un desafío tan político como poético: **escribir en grupo un guión que escenifique un problema social y proponga una política pública transformadora**. Los temas eran tan diversos como urgentes: acceso a la vivienda, migraciones, justicia climática, salud mental, democracia en las aulas o temporalidades profundas. No era solo un ejercicio teatral: era un acto de imaginación radical, una práctica de diseño democrático desde el cuerpo, la palabra y el vínculo.
 
