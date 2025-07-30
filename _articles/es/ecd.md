@@ -45,7 +45,7 @@ Desde el primer momento, no se trató de una introducción teórica, sino de una
 
 Todo comenzó con una sacudida conceptual. De la mano de Cristian Palazzi, responsable de movilización ciudadana e incidencia en Platoniq, entendimos que la democracia no es una estructura estática, sino un organismo vivo que se crea, se cuida y se transforma colectivamente. Inspirado en el concepto de María Angélica Luna Parra, nos propuso pensar en la democracia creativa como “el derecho a crear más derechos”. Una democracia que no nace de las leyes, sino de la imaginación, el deseo y la energía política de la ciudadanía. Somos seres creativos —nos dijo—, y por tanto, la democracia es aquello que hacemos, no aquello que simplemente heredamos.
 
-{% gallery { "simple": true, "images": [{"path":"/media/imagen-5.2-1.jpg"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/image-30-jul-2025-13_59_24.png"}] } %}
 
 El “cono del futuro” nos enseñó que si no actuamos con intención, el futuro será solo una prolongación del presente. La opción probable es no cambiar. Así que la opción preferible exige salir de la zona de confort y crear infraestructuras de lo inesperado. Allí donde otras voces no llegan, donde las leyes ya no bastan, la creatividad puede abrir nuevos caminos democráticos.
 
