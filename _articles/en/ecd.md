@@ -14,6 +14,8 @@ cover:
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
 related_article_uids:
   - Escuela-Creatividad-Democracia
+  - oliver-escobar
+  - Ernesto-Ganuza
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
