@@ -25,7 +25,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/esepe-vanitags.png
 ---
 **Are We Living an “Oppenheimer Moment” with AI?**
 
