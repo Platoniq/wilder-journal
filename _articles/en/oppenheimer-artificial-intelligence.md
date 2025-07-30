@@ -7,8 +7,8 @@ date: 2025-07-30T10:13:00.000+02:00
 date-updated: 2025-07-30T10:14:00.000+02:00
 article-order: 3
 uid: Oppenheimer-Artificial-Intelligence
-title: "Podcast: AI Governance and the Commons in the Era of Crisis"
-description: Are We Living an “Oppenheimer Moment” with AI?
+title: "Podcast: Are We Living an “Oppenheimer Moment” with AI? "
+description: AI Governance and the Commons in the Era of Crisis
 author: Nadia Nadesan
 author_uids:
   - nadia-nadesan
@@ -19,6 +19,7 @@ cover:
   thumbnail: /media/articles/thumbnails/esepe-vanitags.png
 related_article_uids:
   - digital-illusion
+  - democratic-digital-infraestructure
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -33,9 +34,13 @@ As part of the **Convergence of Commoners Retreat,** we explored how the interse
 
 One of the most provocative spaces of the retreat was the **live podcast** “Commons, Democracy, Data Governance, and AI: Rethinking Participation in an Age of Affect and Crisis”, hosted by **Nadia Nadesan**. In this conversation, **Reema Patel** and **Kate Beecroft** offered crucial insights into the relationship between AI, governance, and participation, challenging dominant narratives around technological development and its impact on democracy.
 
+{% quote { "author": "Reema Patel" } %}The groups most affected by AI, such as migrant communities and border activists, have the most valuable insights into how it should be regulated.{% endquote %}
+
 The conversation revolved around the sense of being at a tipping point. Reema described today’s AI development as a possible “Oppenheimer moment”—a point of no return where technological advances bring profound ethical dilemmas and uncontrollable consequences if not properly regulated.
 
 Kate introduced a geopolitical perspective, pointing out that AI is currently dominated by a handful of tech corporations, especially in the United States. However, efforts are emerging in Europe—and particularly in Spain—to develop public-interest AI models that serve as a counterbalance to these privatizing dynamics. In this context, AI is not just a technological issue, but also one of power:  **Who controls it, and who should control it?**
+
+{% quote { "author": "Kate Beecroft" } %}There are efforts in Europe, especially in Spain, to create public interest AI models to counteract this centralization.{% endquote %}
 
 The debate expanded to the relationship between AI and the economy, tackling the danger of treating data as mere commercial assets. Reema warned that data is not just abstract information, but stories about people and communities. Failing to recognize this, AI deepens inequalities and erodes democratic freedoms, reinforcing the **surveillance capitalism model** described by Shoshana Zuboff.
 
@@ -43,7 +48,7 @@ Kate then guided the discussion toward the role of imagination in building alter
 
 The episode closed with a provocative question:  **Can we imagine an AI that doesn’t privatize the commons, but strengthens their collective stewardship?**
 
-A Call to Action
+## **A Call to Action**
 
 The conversation concluded with a reflection on litigation, policy change, and collective action as strategies to curb the unregulated expansion of AI. Kate emphasized the need for strong regulation in Europe, while Reema insisted that AI governance cannot be left only to technologists and politicians—it must also involve those currently excluded from these spaces.
 
