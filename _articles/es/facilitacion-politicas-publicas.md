@@ -46,9 +46,9 @@ Desde el primer instante, se propuso un giro radical: **la facilitación como pr
 
 Junto a **Olivier Schulbaum,** director estratégico de Platoniq, exploramos cómo los afectos, lejos de ser un residuo irracional, son la materia viva de la democracia. **Amber Huff** nos provocó al afirmar que “la noción misma de movimiento tiene que ver con la emoción”, y que toda transformación política nace de una vibración colectiva, de una rabia compartida, de un deseo que circula. **Brian Massumi** llevó esta idea más lejos: sentimos antes de pensar, y el poder actúa no tanto con argumentos como con modulaciones del ánimo. De allí que la creatividad y el movimiento sean herramientas políticas de primer orden.
 
-Pero no todos los afectos movilizan emancipación. **Alicia Valdés**, con su “Política del malestar”, nos advirtió que la represión histórica de las emociones asociadas a lo “femenino” ha abierto la puerta a su manipulación por discursos reaccionarios. Frente al cinismo tecnocrático, Valdés nos invita a **repolitizar el deseo**, colocar los afectos en el centro de la acción política y construir espacios donde el malestar colectivo encuentre cauces expresivos, no represivos.
-
 {% gallery { "simple": true, "images": [{"path":"/media/image-30-jul-2025-17_03_28.png"}] } %}
+
+Pero no todos los afectos movilizan emancipación. **Alicia Valdés**, con su “Política del malestar”, nos advirtió que la represión histórica de las emociones asociadas a lo “femenino” ha abierto la puerta a su manipulación por discursos reaccionarios. Frente al cinismo tecnocrático, Valdés nos invita a **repolitizar el deseo**, colocar los afectos en el centro de la acción política y construir espacios donde el malestar colectivo encuentre cauces expresivos, no represivos.
 
 **Cynthia Fleury**, en sintonía, nos mostró que una democracia que ignora la dignidad emocional de sus ciudadanxs enferma. Las heridas no tratadas se manifiestan como desafección, resentimiento y fatiga cívica. Con su “Clínica de la dignidad”, nos desafía a tratar la democracia como un cuerpo colectivo que necesita cuidado, reconocimiento y reparación. No se trata solo de diseñar instituciones eficientes, sino de **sanar vínculos rotos y rehacer sentidos compartidos**.
 
