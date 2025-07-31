@@ -9,7 +9,7 @@ article-order: 25
 uid: facilitacion-politicas-publicas
 interviewee: null
 cover:
-  path: /media/articles/heroes/137616276_3419209808208167_166072844099299125_n.jpg
+  path: /media/articles/heroes/29-jul-2025-15_35_16.png
   mobile: /media/articles/mobile/29-jul-2025-15_35_16.png
   thumbnail: /media/articles/thumbnails/29-jul-2025-15_35_16.png
 related_article_uids:
