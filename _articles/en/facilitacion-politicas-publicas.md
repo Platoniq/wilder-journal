@@ -26,6 +26,8 @@ image:
 ---
 This second module, ***Facilitating the Co-Creation of Agendas and Public Policies with Those Affected*,** delves into the transformative power of emotions in public life. We explore how facilitation can become a practice of democratic care.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wCn9N0ywzAc?si=gYyGpFQlGsyLfkii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Affection, dignity and conflict**
 
 **Political participation is not limited to a rational act;** it is also deeply shaped by emotions. A vibrant democracy must care for and facilitate emotions and feelings, reconciling all aspects of communal life, both formal structures and emotional dimensions.

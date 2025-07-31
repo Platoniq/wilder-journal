@@ -38,6 +38,8 @@ image:
 ---
 Este segundo módulo, Facilitar la co-creación de agendas y políticas públicas con los afectados, se adentra en un territorio donde las emociones no son un estorbo para la política, sino su combustible más potente. Aquí, aprendimos que **la participación política no se limita a actos racionales ni a mecanismos institucionales**, sino que también se escribe en el cuerpo, se siente en la piel y se contagia con la mirada. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wCn9N0ywzAc?si=gYyGpFQlGsyLfkii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Afectos, dignidad y conflicto**
 
 Comprendimos que el afecto, la dignidad y el conflicto —tradicionalmente relegados a la esfera privada— son en realidad fuerzas públicas, intensamente políticas y generadoras de cambio.
