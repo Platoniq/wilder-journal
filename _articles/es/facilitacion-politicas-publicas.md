@@ -62,6 +62,8 @@ Pero si queríamos ir más allá, no podíamos quedarnos en Europa. De la mano d
 
 Morán nos llevó a pensar qué significa descolonizar la participación. No basta con incluir identidades como decorado diverso. Se trata de **tomarse en serio las demandas de tierra, autonomía y justicia epistémica**. De escuchar otras formas de gobernanza y no reemplazarlas con estructuras estatales impuestas. Y, sobre todo, de dejar de ser indiferentes ante la continuidad del colonialismo: lo contrario del afecto es la indiferencia.
 
+{% gallery { "simple": true, "images": [{"path":"/media/modelos.png"}] } %}
+
 En ese sentido, abordamos nuevas formas de diseñar la representación en procesos deliberativos. Discutimos estrategias como **la colonización del algoritmo** —programar la selección para que contemple intersecciones identitarias complejas—, el **sobremuestreo de grupos históricamente excluidos**, y la **evaluación continua de inclusión** como principio metodológico. Porque **la justicia democrática no es automática: hay que programarla, sostenerla, actualizarla constantemente**.
 
 {% gallery { "simple": true, "images": [{"path":"/media/slide-16_9-6.png"}] } %}
