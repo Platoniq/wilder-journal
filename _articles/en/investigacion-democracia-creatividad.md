@@ -7,6 +7,7 @@ date: 2025-08-04T10:13:00.000+02:00
 date-updated: 2025-08-04T10:13:00.000+02:00
 article-order: 27
 uid: Investigacion-democracia-creatividad
+interviewee: null
 cover:
   path: /media/articles/heroes/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
   mobile: /assets/media/no_image-hero.png

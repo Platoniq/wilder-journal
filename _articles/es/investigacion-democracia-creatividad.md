@@ -59,8 +59,6 @@ Entre los ejemplos que presentó destacan:
 
 Todo esto se traduce en una frase que define el espíritu de Civio: *“Queremos que la administración se sienta observada”*. Porque el dato bien narrado **no solo informa, también incomoda, interpela y transforma**.
 
-## **Actividad: del Excel al escenario**
-
 {% questions { "items": [{"question":" ¿Quién crea las instituciones?"},{"question":"¿Quién narra los datos?"},{"question":"¿Cómo podemos representar la realidad?"}] } %}
 
 Pero Platoniq no dejó que las ideas se quedaran en la cabeza. Con una pedagogía envolvente, propuso un **ejercicio creativo y provocador**: convertir una visualización de datos en una escena de **teatro legislativo**. El objetivo: **pasar del dato a la emoción**, y de ahí a la deliberación.
