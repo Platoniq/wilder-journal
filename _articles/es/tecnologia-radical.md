@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/captura-de-pantalla-2025-07-29-a-las-17.08.18.png
+  path: /media/articles/social/image-4-ago-2025-08_31_52.png
 ---
 El tercer módulo, **Tecnologías Radicales: Democracia digital para un mundo roto,** pone de manifiesto lo relevante de pensar qué implica la dimensión digital en el desarrollo de procesos deliberativos, cómo se configuran los mecanismos de participación en internet, y hasta qué punto reflejan o excluyen las experiencias de quienes los usan.
 

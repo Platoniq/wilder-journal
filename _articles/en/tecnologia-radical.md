@@ -22,5 +22,5 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/captura-de-pantalla-2025-07-29-a-las-17.08.18.png
+  path: /media/articles/social/image-4-ago-2025-08_31_52.png
 ---
