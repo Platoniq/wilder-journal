@@ -33,32 +33,68 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/image-4-ago-2025-08_31_52.png
 ---
-El tercer módulo, **Tecnologías Radicales: Democracia digital para un mundo roto,** pone de manifiesto lo relevante de pensar qué implica la dimensión digital en el desarrollo de procesos deliberativos, cómo se configuran los mecanismos de participación en internet, y hasta qué punto reflejan o excluyen las experiencias de quienes los usan.
+En un contexto donde lo digital transforma aceleradamente nuestra forma de vivir, organizar y participar, el Módulo 3 de la Escuela de Creatividad y Democracia, **Tecnologías Radicales: Democracia digital para un mundo roto**,nos llevó a reflexionar sobre un dilema clave: ¿estamos utilizando nuevas herramientas para hacer la misma vieja política?
 
-## **Nuevas herramientas para la misma vieja política? La dimensión digital de la participación**
+## **Nuevas herramientas para la misma vieja política**
 
-El acceso digital ha permitido reclamar derechos y formar comunidades, pero también ha expuesto nuevas formas de censura, vigilancia y exclusión. La tecnología no es neutral, y por tanto, la aplicación de esta en contextos democráticos, requiere una planificación cuidadosa, que evite su conversión en una herramienta de manipulación, control o exclusión.
+Olivier Schulbaum, director estratégico de Platoniq, abrió con un fondo de pantalla sugerente y una dinámica que ya auguraba el tono crítico y lúdico del encuentro: **¿eres piedra (ciudadanía/movimientos sociales), papel (policy makers) o tijera (gobiernos)?** Una forma directa de hablar de **alianzas, tensiones y estructuras de poder**. Y ahí aterrizó una advertencia crucial: **muchas plataformas participativas, como Decidim, nacen desde las instituciones**, no desde las personas afectadas. El riesgo es real: **reproducir las estructuras tradicionales del poder en formatos digitales “nuevos”**.
 
-Yanis Varufakis, denominó tecno-feudalismo al dominio económico y político, en el cual los gigantes tecnológicos imponen formas de participación digital que concentran el poder, dictan normas de interacción y extraen valor a través de los datos personales. Si bien, **Marta Poblet,** directora de investigación en **The Data Tank**, propone una alternativa a la hora de pensar en la tecnología: **la democracia fractal.** 
+{% gallery { "simple": true, "images": [{"path":"/media/image-4-ago-2025-09_09_43.png"}] } %}
 
-{% quote %}La democracia fractal es una estructura política en la que los principios democráticos se reproducen de manera continua, desde lo local hasta lo global{% endquote %}
+Partiendo de la experiencia de Platoniq se hizo evidente que en la era digital, **no basta con crear más herramientas**, necesitamos repensar los **modelos de gobernanza**, el **diseño institucional** y las **condiciones tecnopolíticas** que les dan sentido.
 
-La democracia fractal es una estructura política en la que los principios democráticos se reproducen de manera continua, desde lo local hasta lo global, puesto que entre el individuo y el conjunto de la sociedad, así como entre el individuo y la participación digital, existen múltiples niveles intermedios, donde es posible adaptar y reflejar modelos de gobernanza.
+## **Marta Poblet y la democracia fractal: arquitectura política del siglo XXI**
 
-La democracia fractal y la participación digital pueden estructurarse para fomentar una gobernanza más inclusiva, descentralizada y adaptada a distintos niveles de organización social, ya que la participación digital permite implementar mecanismos democráticos a diferentes escalas (barrios, ciudades, países, redes transnacionales), en línea con la lógica fractal de replicación adaptativa.
+En este contexto, **Marta Poblet**, directora de investigación en *The Data Tank*, encendió la chispa del debate con una propuesta que resonó a lo largo de todo el módulo: la **democracia fractal**.
 
-## **Cuidados y espacios seguros digitales**
+Frente al “tecno-feudalismo” descrito por **Yanis Varufakis** —una era en la que las grandes plataformas digitales ejercen un nuevo dominio económico y político basado en la extracción masiva de datos personales—, Poblet propuso otra visión: una arquitectura política en la que **los principios democráticos se replican de forma recursiva a múltiples escalas**. Desde lo local a lo global, pasando por múltiples capas intermedias (familias, barrios, comunidades, redes).
 
-Siguiendo la misma línea, el proyecto **AlgoRace,** propone un análisis crítico y antirracista del uso de las tecnologías de IA y algorítmicas, y su impacto en las comunidades racializadas.  **Youseff  M. Ouled,** coordinador del proyecto, nos explica que esta propuesta surge de la ausencia de espacios para poder dialogar acerca del rol que juegan los sistemas de IA y algorítmicos en la producción y reproducción del racismo. 
+Inspirada en figuras como **Condorcet**, **Eleanor Ostrom** y el propio Aristóteles, Poblet reivindicó que **la inteligencia colectiva no nació con internet** y que **la política no es libre de escala**. Como decía **Nassim Taleb**, no se puede evaluar un sistema político sin especificar su escala: lo macro y lo micro se retroalimentan y reproducen estructuras de forma fractal.
 
-La tecnología se concibe, diseña e implanta en un contexto condicionado por la existencia de diferentes jerarquías de opresión, reproduciendo lógicas sociales, violencias estructurales y políticas preestablecidas. Por ejemplo, el excesivo control policial de las personas migrantes y racializadas genera una base de datos, evidentemente mayor que aquella de personas menos vigiladas. En estos casos, **AlgoRace** demanda información y conocimiento acerca de estos sistemas (instituciones, administraciones públicas), expone los casos de discriminación racial y construye formas de resistencia para hacer frente a esas implementaciones.
+{% quote { "author": "Marta Poblet" } %} Los espacios participativos ya son híbridos: combinan lo físico y lo digital, lo institucional y lo informal.{% endquote %}
 
-{% gallery { "simple": true, "images": [{"path":"/media/280722-viogen.jpg"}] } %}
+Los espacios participativos, como demostró Poblet, **ya son híbridos**: combinan lo físico y lo digital, lo institucional y lo informal. Desde procesos constitucionales como el de **CDMX** hasta movimientos sociales como el **independentismo catalán**, hoy la participación democrática ocurre entre pantallas y calles. Pero, como recordó, la **elección de plataformas nunca es neutral**: tiene consecuencias políticas, sociales y éticas.
 
-Así, **AlgoRace** se posiciona como un espacio de soporte para las poblaciones migrantes y racializadas de España, forjando respuesta social, narrativas críticas y haciendo de contrapoder al racismo en el entorno digital. Además, Youseff señala que a día de hoy, existen múltiples organizaciones que trabajan de manera similar, como el Grupo Semilla,  IA Ciudadana o RiderXDerechos, entre otras.
+## **Cuidados y espacios seguros digitales: del refugio a la resistencia**
 
-Estos ejemplos nos permiten repensar y subvertir el uso de las tecnologías, proponiendo su reapropiación para crear formas de participación y deliberación digital, que desafíen la aparente neutralidad tecnológica y promuevan espacios más justos y accesibles para todas las personas.
+La segunda sesión del módulo nos llevó a explorar un aspecto vital pero muchas veces silenciado: **la dimensión afectiva y política de los espacios digitales**. Guiada por la investigadora **Nadia Nadesan**, investigadora del equipo de Platoniq, esta clase propuso un cambio de foco: ya no se trataba solo de tecnología y estructuras, sino de **cuerpos, dignidades, emociones y resistencias**.
 
-## **Diseña un proceso digital de participación**
+Partimos de una idea esencial: **los espacios seguros no son burbujas**, sino **estructuras necesarias para que ciertas personas puedan existir y expresarse sin violencia**. Nadesan recuperó el origen histórico de estos espacios en **las luchas queer, feministas y antirracistas**, desde los bares gays de Los Ángeles en los 60 hasta grupos de apoyo a la lactancia o peluquerías para mujeres negras. Esos espacios no eran lugares neutros ni protegidos del riesgo, sino **refugios tácticos donde se tejía poder colectivo y dignidad compartida**.
 
-El entregable del módulo consiste en una propuesta para aplicar esta teoría. En este caso, se propone el diseño de un proceso participativo híbrido (digital y presencial) utilizando la plataforma Decidim, como infraestructura de participación. El objetivo es imaginar un proceso transformador que responda a un dilema democrático real o simbólico, teniendo en cuenta la inclusión, la seguridad, la distribución del poder, y la justicia de diseño. Combinando pensamiento estratégico, imaginación política, y herramientas digitales, se anima a completar una propuesta en Decidim y entregar un tablero visual (Miro o similar) que represente gráficamente el proceso.
+Hoy, muchos de esos espacios se han desplazado —o se han reconstruido— en el entorno digital. Pero como dejó claro la sesión, **internet no es solo un campo de libertad**: también lo es de vigilancia, censura y violencia estructural.
+
+## **Internet: entre liberación y control**
+
+La clase analizó en profundidad el proyecto **EROTICS**, liderado por la red internacional **APC**, que investiga cómo viven la red las personas más vulnerabilizadas por sistemas normativos: mujeres jóvenes, personas LGTBIQ+, personas con discapacidad, entre otras. En países como Sri Lanka, Bangladesh o Nepal, internet es muchas veces el **único espacio donde pueden reclamar derechos**, explorar identidades o construir comunidad. Pero también es un entorno lleno de **barreras invisibles**: control familiar, infraestructura precaria, violencia de género, censura cultural o idiomática.
+
+{% quote %}tener acceso a dispositivos digitales no garantiza libertad ni seguridad de expresión. La clase, el género, la ubicación, la lengua, la casta o la discapacidad{% endquote %}
+
+Así, quedó claro que tener acceso a dispositivos digitales **no garantiza libertad ni seguridad de expresión**. **La clase, el género, la ubicación, la lengua, la casta o la discapacidad** condicionan profundamente el tipo de experiencia digital que una persona puede tener. Muchas veces, el anonimato, las redes de confianza informales y el uso cuidadoso del contenido son estrategias de supervivencia.
+
+Como planteó Nadesan, **la necesidad de espacios seguros nace del hecho de que nadie puede vivir bajo vigilancia constante**. Y aunque ciertos sectores acusan a estos espacios de ser “campos minados” donde no hay debate, lo cierto es que **no son cámaras de eco**, sino entornos de empatía, escucha y poder compartido.
+
+## **AlgoRace: cuando la violencia se codifica en datos**
+
+Este recorrido se profundizó aún más con la intervención de **Youseff M. Ouled**, periodista y coordinador del proyecto **AlgoRace**, que abordó la cara más brutal y opaca de la dimensión digital: **la violencia algorítmica**. AlgoRace nace para denunciar cómo **la inteligencia artificial y los sistemas automatizados están reproduciendo el racismo estructural** bajo un disfraz de eficiencia tecnológica.
+
+Desde la recogida sesgada de datos policiales hasta el uso de drones y sensores en las fronteras, pasando por la vigilancia predictiva de cuerpos migrantes, el panorama es claro: **la IA es el racismo de siempre, con nuevas herramientas**.
+
+{% gallery { "simple": false, "images": [{"path":"/media/companylogo.jpg"}] } %}
+
+Youseff expuso cómo **los sistemas de predicción criminal**, como Eurocop o Data Web, se basan en datos históricamente sesgados, generando un bucle donde los cuerpos no blancos son desproporcionadamente vigilados y criminalizados. Esto no es un accidente: **la tecnología se diseña, se programa y se aplica en contextos marcados por jerarquías de poder**.
+
+Además, la dimensión colonial de la tecnología fue señalada con contundencia: **los recursos necesarios para construir y alimentar estos sistemas provienen muchas veces de excolonias empobrecidas**, donde la extracción de materiales y la gestión de residuos generan graves impactos ambientales.
+
+## **Tejer resistencias, habitar internet**
+
+Frente a este panorama, **no todo es distopía**. Como subrayó la clase, están surgiendo redes de respuesta: colectivos como **ResistencIA, Grupo Semilla, Liken, IA Ciudadana o la Red de Autodefensa Feminista Online**, que trabajan desde la **interseccionalidad, el ciberactivismo y el hacking ético** para disputar el poder digital.
+
+Estas redes crean campañas, materiales de formación, incidencia política y espacios de contención tanto en entornos digitales como presenciales. Lo hacen desde el reconocimiento de que **los espacios virtuales no están divorciados del mundo real**, y que la lucha por un internet justo es inseparable de **las luchas por la justicia social, climática, racial y de género**.
+
+## **Elaboración de un proceso de participación ciudadano**
+
+## **Paso 3: de la teoría al prototipo**
+
+El módulo culminó con un **reto colaborativo**: diseñar un proceso participativo híbrido que responda a un dilema democrático, integrando criterios de justicia algorítmica, diseño inclusivo, seguridad digital y lógica fractal. Usando **Decidim** como infraestructura base y herramientas como **Miro**, lxs participantes desplegaron su creatividad para imaginar una democracia digital no extractiva, sino **transformadora**.
+
+**Habitar internet como un espacio seguro, justo y compartido** requiere de pensamiento crítico, afectividad organizada, estructuras éticas y comunidades que desafíen el control con propuestas. Porque no se trata solo de participar, sino de **redefinir radicalmente cómo se participa**.
