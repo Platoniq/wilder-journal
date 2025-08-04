@@ -16,7 +16,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/image-4-ago-2025-08_31_52.png
-  mobile: /media/articles/mobile/captura-de-pantalla-2025-07-29-a-las-17.08.18.png
+  mobile: /media/articles/mobile/image-4-ago-2025-08_31_52.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-07-29-a-las-17.08.18.png
   alt: Tecnologías Radicales
   credits: Tecnologías Radicales
