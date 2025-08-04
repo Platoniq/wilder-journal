@@ -35,6 +35,8 @@ image:
 ---
 En un contexto donde lo digital transforma aceleradamente nuestra forma de vivir, organizar y participar, el Módulo 3 de la Escuela de Creatividad y Democracia, **Tecnologías Radicales: Democracia digital para un mundo roto**,nos llevó a reflexionar sobre un dilema clave: ¿estamos utilizando nuevas herramientas para hacer la misma vieja política?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjS2YzkAVe4?si=bT-EPFdMedBzDWm1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Nuevas herramientas para la misma vieja política**
 
 Olivier Schulbaum, director estratégico de Platoniq, abrió con un fondo de pantalla sugerente y una dinámica que ya auguraba el tono crítico y lúdico del encuentro: **¿eres piedra (ciudadanía/movimientos sociales), papel (policy makers) o tijera (gobiernos)?** Una forma directa de hablar de **alianzas, tensiones y estructuras de poder**. Y ahí aterrizó una advertencia crucial: **muchas plataformas participativas, como Decidim, nacen desde las instituciones**, no desde las personas afectadas. El riesgo es real: **reproducir las estructuras tradicionales del poder en formatos digitales “nuevos”**.
