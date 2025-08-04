@@ -79,7 +79,7 @@ Este recorrido se profundizó aún más con la intervención de **Youseff M. Oul
 
 Desde la recogida sesgada de datos policiales hasta el uso de drones y sensores en las fronteras, pasando por la vigilancia predictiva de cuerpos migrantes, el panorama es claro: **la IA es el racismo de siempre, con nuevas herramientas**.
 
-{% gallery { "simple": false, "images": [{"path":"/media/companylogo.jpg"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/cubo_final.jpg"}] } %}
 
 Youseff expuso cómo **los sistemas de predicción criminal**, como Eurocop o Data Web, se basan en datos históricamente sesgados, generando un bucle donde los cuerpos no blancos son desproporcionadamente vigilados y criminalizados. Esto no es un accidente: **la tecnología se diseña, se programa y se aplica en contextos marcados por jerarquías de poder**.
 
