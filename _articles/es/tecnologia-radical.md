@@ -59,6 +59,8 @@ Los espacios participativos, como demostró Poblet, **ya son híbridos**: combin
 
 La segunda sesión del módulo nos llevó a explorar un aspecto vital pero muchas veces silenciado: **la dimensión afectiva y política de los espacios digitales**. Guiada por la investigadora **Nadia Nadesan**, investigadora del equipo de Platoniq, esta clase propuso un cambio de foco: ya no se trataba solo de tecnología y estructuras, sino de **cuerpos, dignidades, emociones y resistencias**.
 
+{% gallery { "simple": true, "images": [{"path":"/media/image-4-ago-2025-09_54_12.png"}] } %}
+
 Partimos de una idea esencial: **los espacios seguros no son burbujas**, sino **estructuras necesarias para que ciertas personas puedan existir y expresarse sin violencia**. Nadesan recuperó el origen histórico de estos espacios en **las luchas queer, feministas y antirracistas**, desde los bares gays de Los Ángeles en los 60 hasta grupos de apoyo a la lactancia o peluquerías para mujeres negras. Esos espacios no eran lugares neutros ni protegidos del riesgo, sino **refugios tácticos donde se tejía poder colectivo y dignidad compartida**.
 
 Hoy, muchos de esos espacios se han desplazado —o se han reconstruido— en el entorno digital. Pero como dejó claro la sesión, **internet no es solo un campo de libertad**: también lo es de vigilancia, censura y violencia estructural.
