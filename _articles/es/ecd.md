@@ -77,7 +77,9 @@ También nos explicó que para lograr una democracia realmente justa, hay que su
 
 Y no fueron solo conceptos. Vimos casos reales. El **caso de Olot,** donde colectivos sociales, propietarios y agentes inmobiliarios trabajaron con el Ayuntamiento para combatir el racismo inmobiliario, nos mostró cómo es posible crear procesos participativos cuidados, honestos y transformadores. Y la **Asamblea Ciudadana por el Clima de Escocia,** con sus 105 participantes seleccionados por lotería cívica postal —considerando edad, género, etnia, nivel de ingresos, discapacidad, actitud climática, y más—, fue un ejemplo de democracia radicalmente inclusiva, donde no solo se decidieron políticas: se cultivó pertenencia, respeto y comunidad.
 
-## **Elaboración de un proceso de participación ciudadano. Paso 1: diseño de una muestra**
+## **Elaboración de un proceso de participación ciudadano**
+
+## **Paso 1: diseño de una muestra**
 
 Como cierre del módulo, **trabajamos en el diseño de una muestra para un proceso participativo real.** Lejos de ser un simple ejercicio técnico, fue una práctica profundamente política: 
 
