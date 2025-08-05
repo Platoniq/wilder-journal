@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-08-05-a-las-9.24.31.png
 ---
 La participación ciudadana va mucho más allá del derecho al voto. Desde una protesta en la calle, una campaña en redes sociales o una acción artística frente a un ministerio, hasta una intervención ante el Parlamento Europeo, cada gesto es una forma de incidencia política. El quinto y último módulo de la Escuela de Creatividad y Democracia, **Conecta, sintoniza, despierta,** se adentró con intensidad en: la capacidad de la ciudadanía para transformar el mundo a través de la comunicación, la estrategia y la acción colectiva.
 
