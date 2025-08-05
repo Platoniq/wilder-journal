@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/18_12.jpg
   mobile: /media/articles/mobile/18_12.jpg
-  thumbnail: /media/articles/thumbnails/big-bang-data.jpg
+  thumbnail: /media/articles/thumbnails/18_12.jpg
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
