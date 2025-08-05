@@ -20,7 +20,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/big-bang-data.jpg
-  mobile: /media/articles/mobile/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
+  mobile: /media/articles/mobile/big-bang-data.jpg
   thumbnail: /media/articles/thumbnails/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
   alt: Wikimedia
   credits: Wikimedia
