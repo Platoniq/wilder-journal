@@ -55,8 +55,6 @@ En el segundo capítulo de Youth Mental Health Beyond Borders, nuestro grimorio 
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.29.19.png"}] } %}
 
-Históricamente, los grimorios eran **manuales de ritual y resistencia.** En ellos se documentaban conocimientos secretos: fórmulas de protección, recetas de curación, formas de navegar por sistemas hostiles. El tarot, a menudo vinculado a estas tradiciones, nunca fue sólo una herramienta adivinatoria. Era un lenguaje simbólico para percibir el poder, identificar el peligro e imaginar posibilidades.
-
 Tratamos el **fanzine, el podcast y los carteles visuales** del mismo modo.
 
 Cada una de las propuestas debatidas en el podcast (y posteriormente subidas a la plataforma Decidim), especialmente las relativas a la **vivienda, la interseccionalidad y los cuidados,** encontraron su eco en tarjetas **simbólicas, eslóganes y fragmentos de historias.** Pero también en carteles y visuales que creamos para ser sostenidos en el aire, inspirados por el tono **directo, político y encarnado de Camille Aumont Carnel en su libro «Être raciste, c'est quoi?»** de la serie ALT Collection de ensayos breves, potentes y que invitan a la reflexión para jóvenes de 15 a 25 años

@@ -30,7 +30,9 @@ cover:
   credits: tarot
   caption: tarot
 related_article_uids:
-  - amber-huff
+  - tarot-democracy
+  - katy-rubin
+  - palabra-accion-colaboracion
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
