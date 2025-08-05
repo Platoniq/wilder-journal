@@ -18,5 +18,5 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/big-bang-data.jpg
+  path: /media/articles/social/18_12.jpg
 ---
