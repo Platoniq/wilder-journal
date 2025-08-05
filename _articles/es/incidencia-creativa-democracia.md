@@ -7,7 +7,7 @@ date: 2025-08-05T09:24:00.000+02:00
 date-updated: 2025-08-05T09:24:00.000+02:00
 article-order: 28
 uid: incidencia-creativa-democracia
-title: "[ECD1_M5]"
+title: "[ECD1_M5] Conecta, sintoniza, despierta"
 description: "El quinto y último módulo de la Escuela de Creatividad y
   Democracia se adentró con intensidad en: la capacidad de la ciudadanía para
   transformar el mundo a través de la comunicación, la estrategia y la acción
@@ -17,7 +17,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-08-05-a-las-9.24.31.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-08-05-a-las-9.24.31.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: change is coming
   credits: change is coming
@@ -34,7 +34,7 @@ call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
 ---
-La participación ciudadana va mucho más allá del derecho al voto. Desde una protesta en la calle, una campaña en redes sociales o una acción artística frente a un ministerio, hasta una intervención ante el Parlamento Europeo, cada gesto es una forma de incidencia política. El quinto y último módulo de la Escuela de Creatividad y Democracia se adentró con intensidad en: la capacidad de la ciudadanía para transformar el mundo a través de la comunicación, la estrategia y la acción colectiva.
+La participación ciudadana va mucho más allá del derecho al voto. Desde una protesta en la calle, una campaña en redes sociales o una acción artística frente a un ministerio, hasta una intervención ante el Parlamento Europeo, cada gesto es una forma de incidencia política. El quinto y último módulo de la Escuela de Creatividad y Democracia, **Conecta, sintoniza, despierta,** se adentró con intensidad en: la capacidad de la ciudadanía para transformar el mundo a través de la comunicación, la estrategia y la acción colectiva.
 
 Este módulo, diseñado y facilitado con inteligencia política y calidez por Platoniq, propuso una mirada amplia y profundamente práctica sobre cómo la sociedad civil puede hacer oír sus demandas y provocar cambios reales. Lejos de discursos abstractos, la Escuela nos sumergió en experiencias, herramientas y metodologías concretas para activar nuestra agencia colectiva en todos los niveles: local, estatal y europeo.
 
