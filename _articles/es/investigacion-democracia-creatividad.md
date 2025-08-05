@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
+  path: /media/articles/social/big-bang-data.jpg
 ---
 En este módulo, la Escuela de Creatividad y Democracia se lanzó con decisión a un terreno tan fascinante como complejo: **la relación entre investigación, creatividad y participación política**. Bajo la dirección conceptual de **Platoniq**, nos adentramos en un viaje donde los datos se volvieron narrativas, y la información se tradujo en herramientas de imaginación institucional. Este no fue un módulo sobre técnicas, sino sobre **actos creativos que transforman cómo entendemos, sentimos y construimos lo público**. Un espacio donde investigar no fue acumular verdades, sino **desarmar ficciones dominantes para imaginar otras posibles**.
 
