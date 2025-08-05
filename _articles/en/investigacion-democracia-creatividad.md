@@ -10,7 +10,7 @@ uid: Investigacion-democracia-creatividad
 interviewee: null
 cover:
   path: /media/articles/heroes/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
 stickers:
   layout: layout-none

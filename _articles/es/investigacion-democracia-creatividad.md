@@ -20,7 +20,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Wikimedia
   credits: Wikimedia
