@@ -43,7 +43,7 @@ La primera sesión arrancó con una imagen aparentemente lejana: una **tablilla 
 
 A partir de ahí, se nos abrió un campo de exploración apasionante: la **visualización de datos como herramienta estética, emocional y política**. Citando a **Mona Chalabi**, entendimos que *“no existe tal cosa como una visualización de datos sin emoción”*. Cada gráfico, cada mapa, cada fuente tipográfica es una elección con implicaciones narrativas. 
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-08-04-a-las-10.48.28.png"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-08-04-a-las-10.48.28.png","alt":"WEB Du Bois","caption":"WEB Du Bois","credits":"Library of Congress"}] } %}
 
 Ejemplos como la exposición *Data Displays* (que recupera los gráficos estadísticos de **W.E.B. Du Bois** para representar la realidad afroamericana en 1900) o la visualización del movimiento **\#MeToo** de **Valentina D’Efilippo**, nos mostraron cómo los datos pueden ser **formas de resistencia, denuncia y empoderamiento**.
 
