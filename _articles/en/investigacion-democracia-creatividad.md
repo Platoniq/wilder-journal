@@ -10,7 +10,7 @@ uid: Investigacion-democracia-creatividad
 interviewee: null
 cover:
   path: /media/articles/heroes/18_12.jpg
-  mobile: /media/articles/mobile/big-bang-data.jpg
+  mobile: /media/articles/mobile/18_12.jpg
   thumbnail: /media/articles/thumbnails/big-bang-data.jpg
 stickers:
   layout: layout-none
