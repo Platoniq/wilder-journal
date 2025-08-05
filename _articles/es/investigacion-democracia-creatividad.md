@@ -41,7 +41,7 @@ En este módulo, la Escuela de Creatividad y Democracia se lanzó con decisión 
 
 La primera sesión arrancó con una imagen aparentemente lejana: una **tablilla mesopotámica de arcilla**, del 3100 a.C., usada para registrar transacciones económicas. La provocación lanzada por **Olivier Schulbaum** fue clara: **los datos han sido, desde sus orígenes, una forma de gobernar y narrar el mundo**. No son neutros, ni asépticos. Son lenguaje, y como el lenguaje, tienen el poder de nombrar, invisibilizar o transformar.
 
-A partir de ahí, se nos abrió un campo de exploración apasionante: la **visualización de datos como herramienta estética, emocional y política**. Citando a **Mona Chalabi**, entendimos que *“no existe tal cosa como una visualización de datos sin emoción”*. Cada gráfico, cada mapa, cada fuente tipográfica es una elección con implicaciones narrativas.
+A partir de ahí, se nos abrió un campo de exploración apasionante: la **visualización de datos como herramienta estética, emocional y política**. Citando a **Mona Chalabi**, entendimos que *“no existe tal cosa como una visualización de datos sin emoción”*. Cada gráfico, cada mapa, cada fuente tipográfica es una elección con implicaciones narrativas. 
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-08-04-a-las-10.48.28.png"}] } %}
 
