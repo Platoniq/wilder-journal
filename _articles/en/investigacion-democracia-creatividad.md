@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/big-bang-data.jpg
   mobile: /media/articles/mobile/big-bang-data.jpg
-  thumbnail: /media/articles/thumbnails/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
+  thumbnail: /media/articles/thumbnails/big-bang-data.jpg
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
