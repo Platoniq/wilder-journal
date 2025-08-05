@@ -44,7 +44,7 @@ Este módulo propuso una mirada amplia y profundamente práctica sobre cómo la 
 
 La entrada a esta complejidad vino de la mano de **Cristian Palazzi,** responsable de movilización ciudadana e incidencia en Platoniq. Con claridad estructural, explicó que la incidencia política no es un mero activismo espontáneo, sino un proceso ordenado, sistemático, que busca convencer y presionar a quienes toman decisiones, para influir de forma efectiva en la formulación e implementación de políticas públicas. Se trata de un ejercicio de poder legítimo por parte de la sociedad civil, un modo de participar democráticamente que requiere visión estratégica, recursos, alianzas y perseverancia.
 
-{% gallery { "simple": true, "images": [{"path":"/media/image-5-ago-2025-09_55_28.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/image-5-ago-2025-11_05_56.png"}] } %}
 
 Palazzi nos llevó por las distintas fases del ciclo de las políticas públicas —identificación del problema, formulación, adopción, implementación, evaluación— y subrayó que la ciudadanía debe estar presente en todas, no solo en los momentos iniciales. A través de marcos como el de la Comisión Europea para evaluar el impacto de procesos participativos, se destacó la necesidad de atender al ecosistema institucional, la preparación, la calidad de las interacciones y los aprendizajes colectivos. Para ilustrar todo esto, compartió el potente caso del teatro legislativo en Irlanda del Norte, donde mujeres que habían experimentado violencia y sinhogarismo crearon una obra que derivó en propuestas concretas frente a representantes institucionales. Una experiencia de co-creación de políticas desde la vulnerabilidad, el arte y la acción colectiva, que rompe los moldes de la política tradicional.
 
