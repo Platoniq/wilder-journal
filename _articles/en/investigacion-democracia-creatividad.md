@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
   mobile: /media/articles/mobile/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
