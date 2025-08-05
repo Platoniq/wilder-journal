@@ -9,7 +9,7 @@ article-order: 27
 uid: Investigacion-democracia-creatividad
 interviewee: null
 cover:
-  path: /media/articles/heroes/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
+  path: /media/articles/heroes/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpeg
   mobile: /media/articles/mobile/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
   thumbnail: /media/articles/thumbnails/demonstrative_visualization_of_personal_attacks_on_wikipedia.jpg
 stickers:
