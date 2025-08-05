@@ -18,7 +18,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-08-05-a-las-9.24.31.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-08-05-a-las-9.24.31.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-08-05-a-las-9.24.31.png
   alt: change is coming
   credits: change is coming
   caption: change is coming
