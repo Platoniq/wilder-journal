@@ -9,7 +9,7 @@ article-order: 27
 uid: Investigacion-democracia-creatividad
 interviewee: null
 cover:
-  path: /media/articles/heroes/big-bang-data.jpg
+  path: /media/articles/heroes/18_12.jpg
   mobile: /media/articles/mobile/big-bang-data.jpg
   thumbnail: /media/articles/thumbnails/big-bang-data.jpg
 stickers:
