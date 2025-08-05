@@ -86,7 +86,7 @@ Durante la **Ilustración**, **Goya** usó el arte para denunciar la tiranía.
 En el **muralismo mexicano**, artistas como **Aurora Reyes** pintaron derechos, clases y memorias colectivas.
 En el siglo XX, **Boal**, **Beuys**, **Jenny Holzer** y las **Guerrilla Girls** ocuparon el espacio público con arte incómodo, irónico, poderoso.
 
-{% gallery { "simple": true, "images": [{"path":"/media/3xl-webp_1_kg_u_dre_dlu_e8r_q8_pfhjoq_791d9dc331.webp"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/3xl-webp_1_kg_u_dre_dlu_e8r_q8_pfhjoq_791d9dc331.webp","alt":"Domestic Data Streamers","credits":"Images from Poblenou public archive analyzed through pose detection AI models — April 2025","caption":"Domestc Data Streamers"}] } %}
 
 Como muestra la imagen, en las últimas décadas, colectivos como **Domestic Data Streamers** han convertido la información abstracta en experiencias sensoriales para la participación ciudadana. *Créditos:* Images from Poblenou public archive analyzed through pose detection AI models — April 2025
 
