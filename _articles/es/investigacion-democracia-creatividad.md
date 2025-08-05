@@ -73,7 +73,7 @@ Ya no bastaba con investigar o visualizar. Se trataba ahora de **comprender que 
 
 La clase comenzó con una nueva invitación poética de Olivier Schulbaum:
 
-*“Érase una vez en una ciudad ruidosa y olvidadiza, un grupo de jóvenes encontró una escultura rota en la plaza. No estaba hecha de piedra sino de historias, luchas e hilos invisibles.”*
+{% quote %}Érase una vez en una ciudad ruidosa y olvidadiza, un grupo de jóvenes encontró una escultura rota en la plaza. No estaba hecha de piedra sino de historias, luchas e hilos invisibles.{% endquote %}
 
 Esa escultura no era otra cosa que **la democracia**, construida colectivamente, en tensión constante, siempre incompleta.
 
