@@ -33,7 +33,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/image-4-ago-2025-08_31_52.png
 ---
-En un contexto donde lo digital transforma aceleradamente nuestra forma de vivir, organizar y participar, el tercer módulo de la Escuela de Creatividad y Democracia, **Tecnologías Radicales: Democracia digital para un mundo roto**, nos lleva a reflexionar sobre un dilema clave: ¿estamos utilizando nuevas herramientas para hacer la misma vieja política?
+En un contexto donde lo digital transforma aceleradamente nuestra forma de vivir, organizar y participar, el tercer módulo de la [Escuela de Creatividad y Democracia](https://www.democraciacreativa.org/), **Tecnologías Radicales: Democracia digital para un mundo roto**, nos lleva a reflexionar sobre un dilema clave: ¿estamos utilizando nuevas herramientas para hacer la misma vieja política?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjS2YzkAVe4?si=bT-EPFdMedBzDWm1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
