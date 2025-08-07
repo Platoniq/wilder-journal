@@ -33,7 +33,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/18_12.jpg
 ---
-En este módulo, la Escuela de Creatividad y Democracia se lanza a un terreno tan fascinante como complejo: **la relación entre investigación, creatividad y participación política**. Bajo la dirección conceptual de **Platoniq**, nos adentramos en un viaje donde los datos se vuelven narrativas, y la información se traduce en herramientas de imaginación institucional. 
+En este módulo, la [Escuela de Creatividad y Democracia](https://www.democraciacreativa.org/) se lanza a un terreno tan fascinante como complejo: **la relación entre investigación, creatividad y participación política**. Bajo la dirección conceptual de **Platoniq**, nos adentramos en un viaje donde los datos se vuelven narrativas, y la información se traduce en herramientas de imaginación institucional. 
 
 Este no es un módulo sobre técnicas, sino sobre **actos creativos que transforman cómo entendemos, sentimos y construimos lo público**. Un espacio donde investigar no fue acumular verdades, sino **desarmar ficciones dominantes para imaginar otras posibles**.
 
@@ -97,7 +97,7 @@ La creatividad política puede ser **progresista o conservadora**. Puede usarse 
 
 “La democracia, afirma, **no puede sobrevivir sin creatividad**. Porque todas sus ideas, reglas y estructuras son, en última instancia, productos de la imaginación colectiva.”
 
-## **Elaboración de un proceso de participación ciudadano. Paso 3 : Visualiza tus datos** 
+## **Elaboración de un proceso de participación ciudadano. Paso 4 : Visualiza tus datos**
 
 Desde Platoniq se propone un **ejercicio creativo y provocador**: convertir una visualización de datos en una escena de **teatro legislativo**. El objetivo: **pasar del dato a la emoción**, y de ahí a la deliberación.
 
