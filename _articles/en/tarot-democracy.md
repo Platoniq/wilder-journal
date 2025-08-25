@@ -25,6 +25,8 @@ cover:
   caption: tarot
 related_article_uids:
   - ahmed
+  - grimoire-democracy
+  - katy-rubin
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -51,7 +53,7 @@ This workshop emerged from the translocal collaboration of **Youth Mental Health
 
 {% gallery { "simple": true, "images": [{"path":"/media/img_20250626_135255.jpg","alt":"Young people of Manchester and Kasal de Roquetes during the workshop","caption":"Young people of Manchester and Kasal de Roquetes during the workshop","credits":"Platoniq (2025)"}] } %}
 
-The session brought together youth from **Mindset Revolution** in Greater Manchester and the **Kasal de Roquetes** in Barcelona, as part of a broader Legislative Theater process ([see full context here](<>)). These young people had already co-created a series of powerful **policy recommendations** through performance and deliberation ([see the proposals here](<>)). But as often happens, the question remained: **What happens after the applause? How do we push for real implementation?**
+The session brought together youth from **Mindset Revolution** in Greater Manchester and the **Kasal de Roquetes** in Barcelona, as part of a broader Legislative Theater process ([see full context here](https://openspaces.platoniq.net/conferences/MRLT)). These young people had already co-created a series of powerful **policy recommendations** through performance and deliberation ([see the proposals here](https://openspaces.platoniq.net/conferences/MRLT/f/507/proposals)). But as often happens, the question remained: **What happens after the applause? How do we push for real implementation?**
 
 That’s where the **Tarot of Legislative Theater** came in.
 
@@ -85,7 +87,7 @@ The cards were inspired by the roles in Legislative Theater: the **Protagonist**
 
 {% gallery { "simple": false, "images": [{"path":"/media/photo_2025-07-17_14-57-42.jpg","alt":"Creating tarot cards to push democracy forward","caption":"Creating tarot cards to push democracy forward","credits":"Platoniq (2025)"}] } %}
 
-The simulation centered on one specific recommendation from the policy cycle: the[ "Council of Accountability and Legacy"](<>). A proposal that calls for mental health-safe career services co-designed by young people, and for employers to be held responsible for the wellbeing of those they claim to support. The tarot became a stage to re-enter that demand — not through another PDF, but through **vision, conflict, and story**.
+The simulation centered on one specific recommendation from the policy cycle: the[ "Council of Accountability and Legacy"](https://openspaces.platoniq.net/conferences/MRLT/f/508/proposals/1240?locale=en). A proposal that calls for mental health-safe career services co-designed by young people, and for employers to be held responsible for the wellbeing of those they claim to support. The tarot became a stage to re-enter that demand — not through another PDF, but through **vision, conflict, and story**.
 
 But tarot also revealed itself as more than a pressure tool. It became a **method for inclusion**. In Legislative Theater, not everyone can or wants to intervene in a scene. Some youth feel excluded by theatrical or verbal formats. The tarot offered another doorway. A slower one. A symbolic one. A powerful one.
 

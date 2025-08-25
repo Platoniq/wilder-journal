@@ -53,7 +53,7 @@ El taller “el Tarot del Teatro Legislativo” nació en el marco del proyecto 
 
 {% gallery { "simple": true, "images": [{"path":"/media/img_20250626_135255.jpg","alt":"Jóvenes de Manchester y el Kasal de Roquetes durante el taller","credits":"Platoniq (2025)","caption":"Jóvenes de Manchester y el Kasal de Roquetes durante el taller"}] } %}
 
-La sesión formó parte de un proceso más amplio de Teatro Legislativo ([ver contexto aquí](<>)), en el que estos grupos juveniles co-crearon una serie de **recomendaciones políticas** a través de la creación escénica y el debate con personas responsables de políticas públicas ([ver propuestas aquí](<>)). Pero como suele ocurrir, después del aplauso aparece la verdadera pregunta:
+La sesión formó parte de un proceso más amplio de Teatro Legislativo ([ver contexto aquí](https://openspaces.platoniq.net/conferences/MRLT?locale=es)), en el que estos grupos juveniles co-crearon una serie de **recomendaciones políticas** a través de la creación escénica y el debate con personas responsables de políticas públicas ([ver propuestas aquí](https://openspaces.platoniq.net/conferences/MRLT/f/507/proposals?locale=es)). Pero como suele ocurrir, después del aplauso aparece la verdadera pregunta:
 
 **¿Cómo hacemos que se cumplan estas propuestas?**
 
@@ -89,7 +89,7 @@ Las cartas se inspiraron en los roles clásicos del Teatro Legislativo: la **Pro
 
 {% gallery { "simple": false, "images": [{"path":"/media/photo_2025-07-17_14-57-42.jpg","alt":"Imaginando cartas del tarot para hacer política","caption":"Imaginando cartas del tarot para hacer política","credits":"Platoniq (2025)"}] } %}
 
-La simulación se centró en una propuesta específica del proceso: [ "Consejo de Responsabilidad y Legado"](<>). A través de las cartas, el grupo juvenil volvió a traer al espacio la urgencia de su implementación, no con otro PDF o PowerPoint, sino con **historia, metáfora y confrontación simbólica**.
+La simulación se centró en una propuesta específica del proceso: ["Consejo de Responsabilidad y Legado"](openspaces.platoniq.net/conferences/MRLT/f/508/proposals/1240). A través de las cartas, el grupo juvenil volvió a traer al espacio la urgencia de su implementación, no con otro PDF o PowerPoint, sino con **historia, metáfora y confrontación simbólica**.
 
 Pero el tarot reveló algo más: su potencial como **herramienta de participación inclusiva**. En el Teatro Legislativo no todas las personas quieren (o pueden) levantarse e intervenir en escena. Algunas no se sienten cómodas hablando en público. Otras no encuentran su voz en los formatos teatrales o institucionales. El tarot ofreció otra puerta de entrada. Más lenta. Más emocional.
 
