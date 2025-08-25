@@ -46,7 +46,7 @@ the **grimoire** is the book that teaches you how to use them.
 One reads the moment.
 The other prepares you for what comes next.
 
-In the second chapter of Youth Mental Health Beyond Borders, our digital grimoire. aka digital fanzine, took shape not as a summary, but as an extension of the **legislative theater crash course.** A space to hold the echoes, fragments, spells, refusals and provocations that emerged during and after the Legislative Theater process.  It picked up threads from the podcast series ([Opens in new tab](https://openspaces.platoniq.net/conferences/MRLT/f/507/proposals?locale=en)) developed by young people in Barcelona and Manchester, extending their voices and weaving their demands into new forms of symbolic intervention.
+In the second chapter of Youth Mental Health Beyond Borders, our digital grimoire. aka digital fanzine, took shape not as a summary, but as an extension of the **legislative theater crash course.** A space to hold the echoes, fragments, spells, refusals and provocations that emerged during and after the Legislative Theater process.  It picked up threads from the **[podcast series](https://openspaces.platoniq.net/conferences/MRLT/f/507/proposals)** developed by young people in Barcelona and Manchester, extending their voices and weaving their demands into new forms of symbolic intervention.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-09-a-las-11.29.53.png"}] } %}
 
