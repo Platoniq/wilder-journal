@@ -49,11 +49,11 @@ Lo vemos también con ejemplos históricos y contemporáneos. Desde **Fannie Lou
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-30-a-las-15.44.05.png"}] } %}
 
-**Patricia Luján,** desde su experiencia como creativa publicitaria y fundadora de *School of Feminism*, nos enseña cómo usar el marketing como una herramienta política al servicio de los derechos. A través de sus campañas por el 25N o el 8M, entendemos que la creatividad puede ser también una forma de pedagogía pública: clara, directa y viral.
+**Patricia Luján,** desde su experiencia como creativa publicitaria y fundadora de *School of Feminism*, nos enseña cómo usar el marketing como una herramienta política al servicio de los derechos. A través de sus campañas por el 25N o el 8M, entendemos que la creatividad puede ser también una forma de pedagogía pública: **clara, directa y viral.**
 
 ## **Decidir cambios con palabras**
 
-Pero imaginar no basta: hay que saber cómo pensamos en común. Y ahí aparece Ernesto Ganuza, investigador del CSIC y experto en democracia deliberativa. Con él desarmamos nuestros propios supuestos: **no somos mentes aisladas cargadas de valores que se expresan automáticamente.** Somos seres situados, atravesados por nuestras historias y sesgos, que razonan en interacción con otros. La deliberación no consiste en opinar más fuerte, sino en escuchar perspectivas distintas y construir sentido común compartido. Lo importante no es la diversidad de opiniones, sino la diversidad de trayectorias.
+Pero imaginar no basta: hay que saber cómo pensamos en común. Y ahí aparece **Ernesto Ganuza,** investigador del CSIC y experto en democracia deliberativa. Con él desarmamos nuestros propios supuestos: **no somos mentes aisladas cargadas de valores que se expresan automáticamente.** Somos seres situados, atravesados por nuestras historias y sesgos, que razonan en interacción con otros. La deliberación no consiste en opinar más fuerte, sino en escuchar perspectivas distintas y construir sentido común compartido. Lo importante no es la diversidad de opiniones, sino la diversidad de trayectorias.
 
 {% quote { "author": "Ernesto Ganuza" } %}Somos seres situados, atravesados por nuestras historias y sesgos, que razonan en interacción con otros{% endquote %}
 
@@ -81,4 +81,4 @@ Como cierre de este módulo, **trabajamos en el diseño de una muestra para un p
 
 Y de esta forma volvemos al origen de todo lo aprendido: **participar es imaginar, deliberar, crear, proponer, facilitar y sostener.**
 
-Porque si algo queda claro es que la democracia no está dada: se imagina, se practica y se defiende todos los días. Y eso es lo que propone la **Escuela de Creatividad y Democracia**
+Porque si algo queda claro es que la democracia no está dada: se imagina, se practica y se defiende todos los días. Y eso es lo que propone la **[Escuela de Creatividad y Democracia.](www.democraciacreativa.org/)**
