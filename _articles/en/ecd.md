@@ -29,9 +29,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-07-29-a-las-9.43.05.png
 ---
-This first module, **The Vertigo of Dialogue and Deliberation,** lays the groundwork for understanding participation as a dynamic, unpredictable and constantly changing process, where convictions are continually challenged. 
+The first module of the [School of Creativity and Democracy,](https://www.democraciacreativa.org/) **The Vertigo of Dialogue and Deliberation,** lays the foundations for understanding participation as a dynamic, unpredictable and constantly changing process, where convictions are continually challenged. 
 
-With the help of several experts, we explore the process of deliberation: first, we discuss the concept of **creative democracy and how it relates to modern democracy**; then, we analyze **the cognitive conditioning factors that hinder participatory processes**; finally, we reflect on **the practice of deliberation and some of its most important aspects.**
+With the help of several experts, we explore the process of deliberation: first, **we discuss the concept of creative democracy** and how it relates to modern democracy; also, **we analyze the cognitive conditioning factors that hinder participatory processes**; finally, we reflect on the **practice of deliberation** and some of its most important aspects.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H6WreQY9wpI?si=LMK_LqP_ORGcPZRB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -39,9 +39,9 @@ With the help of several experts, we explore the process of deliberation: first,
 
 It all starts with a conceptual shake-up. Cristian Palazzi, in charge of citizen mobilization and advocacy at Platoniq, we understand that democracy is not a static structure, but a living organism that is created, cared for and transformed collectively. Inspired by María Angélica Luna Parra's concept, we propose to think of creative democracy as **“the right to create more rights”.** A democracy that is not born from laws, but from the imagination, desire and political energy of the citizenry. We are creative beings, and therefore, democracy is what we make, not what we simply inherit.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-07-30-a-las-15.44.05.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/image-30-jul-2025-13_59_24.png"}] } %}
 
-The “cone of the future” teaches us that if we do not act with intention, the future will only be an extension of the present. The likely option is not to change. So the preferable option requires stepping out of the comfort zone and creating infrastructures for the unexpected. Where other voices do not reach, where laws no longer suffice, creativity can open new democratic paths.
+The “future cone” teaches us that if we do not act with intention, the future will only be an extension of the present. The likely option is not to change. So the preferable option requires stepping out of the comfort zone and creating infrastructures for the unexpected. Where other voices do not reach, where laws no longer suffice, creativity can open new democratic paths.
 
 We see this also in historical and contemporary examples. From **Fannie Lou Hamer** and her radical slogan: “No one is free until everyone is free”, to **Kimberlé Crenshaw** and her theory of intersectionality, we understand that oppressions do not come alone and neither do struggles: they intersect, they feed back, they transform each other. We hear the echo of **Sojourner Truth**, the momentum of **Tarana Burke** with #MeToo, the lucid denunciation of **Moya Bailey** with the concept of black misogyny, and the collective cry of **Cristina Fallarás** with #Cuéntalo. Movements such as **15M, Black Lives Matter** or **Refugees Welcome** not only demanded changes, but also created languages, imaginaries and political concepts that we use today to measure public action. All this leads us to understand that creativity is not a luxury, but a condition to expand democracy.
 
