@@ -64,6 +64,8 @@ On the other hand, **[Katy Rubin](https://journal.platoniq.net/es/wilder-journal
 
 {% questions { "items": [{"question":"What problem do we want to represent?"},{"question":"Who are the actors involved?"},{"question":"What is missing from the scene to turn oppression into opportunity?"}] } %}
 
+**Legislative Theater seeks to transform imposed norms, specifically public policies, based on the belief that the communities directly affected by a problem are best placed to have a say in the matter.** It also fosters a space for collective imagination and active reflection, leading to real and effective public policies, as has occurred in various parts of the world.
+
 ## **Elaboration of a citizen participation process. Step 2: Scripting a social problem**
 
 In this journey of emotions, conflict and representation, we conclude the module with a challenge as political as it is poetic: **to write a group script to stage a social problem and propose a transformative public policy.** The topics are as diverse as they are urgent: access to housing, migration, climate justice, mental health, democracy in the classroom or deep temporalities. This is not just a theatrical exercise: it is an act of radical imagination, a practice of democratic design from the body, the word and the link.

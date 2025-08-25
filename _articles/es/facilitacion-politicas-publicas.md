@@ -76,7 +76,7 @@ Por otro lado, [Katy Rubin,](https://journal.platoniq.net/es/wilder-journal-2/in
 
 {% questions { "items": [{"question":"¿Qué problema queremos representar?"},{"question":"¿Quiénes son los actores implicados?"},{"question":"¿Qué le falta a la escena para convertir la opresión en oportunidad?"}] } %}
 
-El **Teatro Legislativo trata de transformar las normas impuestas, específicamente las políticas públicas, basándose en la creencia de que las comunidades directamente afectadas por un problema son las más indicadas para tener voz y voto al respecto.** También fomenta un espacio para la imaginación colectiva y la reflexión activa, que da lugar a políticas públicas reales y eficaces, como ha ocurrido en diversas partes del mundo, como el Reino Unido y Brasil.
+El **Teatro Legislativo trata de transformar las normas impuestas, específicamente las políticas públicas, basándose en la creencia de que las comunidades directamente afectadas por un problema son las más indicadas para tener voz y voto al respecto.** También fomenta un espacio para la imaginación colectiva y la reflexión activa, que da lugar a políticas públicas reales y eficaces, como ha ocurrido en diversas partes del mundo.
 
 ## **Elaboración de un proceso de participación ciudadano. Paso 2 : Guionización de problema social**
 
