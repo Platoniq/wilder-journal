@@ -49,11 +49,11 @@ Partiendo de la experiencia de Platoniq afirmamos que, en la era digital, **no b
 
 En este contexto, **Marta Poblet**, directora de investigación en *The Data Tank*, plentea una nueva forma de entender la sinergia democrática: la **democracia fractal**.
 
-Frente al “tecno-feudalismo” descrito por **Yanis Varufakis**, una era en la que las grandes plataformas digitales ejercen un nuevo dominio económico y político basado en la extracción masiva de datos personales, Poblet propone otra visión: una arquitectura política en la que **los principios democráticos se replican de forma recursiva a múltiples escalas**. Desde lo local a lo global, pasando por múltiples capas intermedias (familias, barrios, comunidades, redes).
+Frente al “tecno-feudalismo” descrito por **Yanis Varufakis**, una era en la que las grandes plataformas digitales ejercen un nuevo dominio económico y político basado en la extracción masiva de datos personales, Poblet propone otra visión: **una arquitectura política en la que los principios democráticos se replican de forma recursiva a múltiples escalas.** Desde lo local a lo global, pasando por múltiples capas intermedias (familias, barrios, comunidades, redes).
 
-Inspirada en figuras como **Condorcet**, **Eleanor Ostrom** y el propio Aristóteles, Poblet reivindica que **la inteligencia colectiva no nació con internet** y que **la política no es libre de escala**. Como dice **Nassim Taleb**, no se puede evaluar un sistema político sin especificar su escala: **lo macro y lo micro se retroalimentan y reproducen estructuras de forma fractal.**
+Inspirada en figuras como **Condorcet**, **Eleanor Ostrom** y el propio **Aristóteles,** Poblet reivindica que **la inteligencia colectiva no nació con internet** y que **la política no es libre de escala**. Como dice **Nassim Taleb**, no se puede evaluar un sistema político sin especificar su escala: **lo macro y lo micro se retroalimentan y reproducen estructuras de forma fractal.**
 
-{% quote { "author": "Marta Poblet" } %} Los espacios participativos ya son híbridos: combinan lo físico y lo digital, lo institucional y lo informal.{% endquote %}
+{% quote { "author": "Marta Poblet" } %} Los espacios participativos ya son híbridos: combinan lo físico y lo digital, lo institucional y lo informal{% endquote %}
 
 Los espacios participativos, como demuestra Poblet, **ya son híbridos**: combinan lo físico y lo digital, lo institucional y lo informal. Desde procesos constitucionales como el de **CDMX,** hasta movimientos sociales como el **independentismo catalán**, hoy la participación democrática ocurre entre pantallas y calles. Pero, como recuerda, la **elección de plataformas nunca es neutral**: tiene consecuencias políticas, sociales y éticas.
 
