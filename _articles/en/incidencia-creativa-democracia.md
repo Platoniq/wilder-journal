@@ -42,7 +42,7 @@ The module offers a broad and deeply practical look at how civil society can mak
 
 The introduction to this complex topic is provided by **Cristian Palazzi,** head of citizen mobilisation and advocacy at Platoniq. With structural clarity, he explains that political advocacy is not merely spontaneous activism, but an **orderly, systematic process that seeks to convince and pressure decision-makers to effectively influence the formulation and implementation of public policies.** It is an exercise of legitimate power by civil society, a way of participating democratically that requires strategic vision, resources, alliances and perseverance.
 
-{% gallery { "simple": true, "images": [{"path":"/media/image-5-ago-2025-11_05_56.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/image-5-ago-2025-09_55_28.png"}] } %}
 
 Palazzi takes us through the different **phases of the public policy cycle: problem identification, formulation, adoption, implementation, evaluation,** and emphasises that citizens must be involved in all of them, not just at the initial stages. 
 
@@ -54,7 +54,7 @@ To illustrate all this, he shares **the case of legislative theatre in Northern 
 
 From this methodological and political perspective, **Gerard Lillo,** head of participation at Barcelona City Council, explores the mechanisms and instruments available for advocacy at the municipal level. With his institutional experience and commitment to participatory democracy, Lillo shows **the different levels of citizen involvement in public decision-making: from mere information and consultation to deliberation, co-production and co-creation of policies.** In the case of Barcelona, there are many formal instruments of participation: participatory processes, councils, public hearings, consultations, civic management, but they also face limitations, such as the lack of diversity among participants or the legal impossibility of direct involvement.
 
-{% gallery { "simple": true, "images": [{"path":"/media/chatgpt-image-5-ago-2025-10_08_51.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/image-26-ago-2025-17_05_08.png"}] } %}
 
 For this reason, Lillo defends the idea of deliberative citizens' assemblies as a way of overcoming gaps in representation and strengthening the sense of community and civic roots. The **Barcelona Citizens' Assembly for Climate** is analysed: its design, phases, achievements and difficulties, and its lack of institutional follow-up or social legitimacy, which reveals both the potential and the challenges of these processes.
 
