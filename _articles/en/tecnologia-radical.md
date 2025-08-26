@@ -39,7 +39,7 @@ In a context where digital technology is rapidly transforming the way we live, o
 
 **Olivier Schulbaum,** Strategic Director of Platoniq, opens with an evocative background image and an activity that already hints at the critical and playful tone of the meeting: **Are you rock (citizenship/social movements), paper (policy makers), or scissors (governments)?** A direct way to talk about alliances, tensions, and power structures. And a crucial warning: **many participatory platforms, such as Decidim, are born from institutions, not from the affected individuals.** Therefore, the risk is real: **reproducing traditional power structures in "new" digital formats.**
 
-{% gallery { "simple": true, "images": [{"path":"/media/image-4-ago-2025-09_09_43.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/chatgpt-image-26-ago-2025-15_48_21.png"}] } %}
 
 ## **Fractal democracy: political architecture of the 21st century**
 
@@ -57,7 +57,7 @@ Participatory spaces, as Poblet demonstrates, are already hybrid: they combine t
 
 The second session of the module invites us to explore a vital but often overlooked aspect: **the affective and political dimension of digital spaces.** Led by **Nadia Nadesan,** a researcher with the Platoniq team, the class proposes a shift in focus: it is no longer just about technology and structures, but about **bodies, dignity, emotions and resistance.**
 
-{% gallery { "simple": true, "images": [{"path":"/media/image-4-ago-2025-09_54_12.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/image-26-ago-2025-15_57_52.png"}] } %}
 
 We start from a fundamental idea: **safe spaces are not bubbles**, but **structures that are necessary for certain people to exist and express themselves without violence**. Nadesan traces the historical origins of these spaces to **queer, feminist and anti-racist struggles**, from the gay bars of Los Angeles in the 1960s to breastfeeding support groups and hairdressers for black women. These spaces were not neutral or risk-free places, but **tactical refuges where collective power and shared dignity were woven together**.
 
