@@ -67,7 +67,7 @@ Todo esto se traduce en una frase que define el espíritu de Civio: *“Queremos
 
 Ya no basta con investigar o visualizar. Se trataba ahora de **comprender que las propias ideas políticas son el resultado de actos creativos**. La democracia, la nación, los derechos: todas estas estructuras que parecen firmes **fueron inventadas por alguien, en algún momento**.
 
-{% quote { "author": "Olivier Schulbaum" } %}Érase una vez en una ciudad ruidosa y olvidadiza, un grupo de jóvenes encontró una escultura rota en la plaza. No estaba hecha de piedra sino de historias, luchas e hilos invisibles.{% endquote %}
+{% quote { "author": "Olivier Schulbaum" } %}Érase una vez en una ciudad ruidosa y olvidadiza, un grupo de jóvenes encontró una escultura rota en la plaza. No estaba hecha de piedra sino de historias, luchas e hilos invisibles{% endquote %}
 
 Esa escultura no era otra cosa que **la democracia**, construida colectivamente, en tensión constante, siempre incompleta.
 
