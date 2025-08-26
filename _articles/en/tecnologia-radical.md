@@ -53,7 +53,9 @@ Inspired by figures such as **Condorcet, Eleanor Ostrom and Aristotle** himself,
 
 Participatory spaces, as Poblet demonstrates, are already hybrid: they combine the physical and the digital, the institutional and the informal. From constitutional processes such as that of **Mexico City** to social movements such as **Catalan independence**, democratic participation today takes place between screens and streets. But, as he reminds us, the **choice of platforms is never neutral**: it has political, social and ethical consequences.
 
-## **Care and safe digital spaces: from refuge to resistance**The second session of the module invites us to explore a vital but often overlooked aspect: **the affective and political dimension of digital spaces**. Led by **Nadia Nadesan**, a researcher with the Platoniq team, the class proposes a shift in focus: it is no longer just about technology and structures, but about **bodies, dignity, emotions and resistance**.
+## **Care and safe digital spaces: from refuge to resistance**
+
+The second session of the module invites us to explore a vital but often overlooked aspect: **the affective and political dimension of digital spaces.** Led by **Nadia Nadesan,** a researcher with the Platoniq team, the class proposes a shift in focus: it is no longer just about technology and structures, but about **bodies, dignity, emotions and resistance.**
 
 {% gallery { "simple": true, "images": [{"path":"/media/image-4-ago-2025-09_54_12.png"}] } %}
 
