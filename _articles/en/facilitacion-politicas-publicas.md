@@ -7,6 +7,15 @@ date: 2025-07-29T15:02:00.000+02:00
 date-updated: 2025-07-29T15:02:00.000+02:00
 article-order: 25
 uid: facilitacion-politicas-publicas
+title: "[ECD1_M2] Facilitate the co-creation of agendas and public policies with
+  those affected"
+description: This second module, Facilitating the co-creation of agendas and
+  public policies with those affected, delves into the transformative power of
+  emotions in public life, and explores how facilitation can become a practice
+  of democratic care.
+author: Platoniq Foundation
+author_uids:
+  - platoniq
 interviewee: null
 cover:
   path: /media/articles/heroes/29-jul-2025-15_35_16.png
