@@ -81,3 +81,19 @@ It has become clear that time is neither neutral nor equitably distributed in so
 These findings have inspired further research that proposes rethinking participatory processes to foster more equitable engagement. Strategies such as the creation of “temporal zones” that allow for the reconciliation of diverse rhythms, as well as the implementation of practices such as radical leisure and care spaces to democratize time, are suggested.
 
 This line of research has been accepted for presentation at the upcoming ECPR conference under the title [“Democracy Takes Time: Intersectional Temporalities in Participation and Deliberation”](https://ecpr.eu/Events/Event/PaperDetails/79797).
+
+## **Recomendations**
+
+{% file { "title": "Tiempo Profundo y Participación Ciudadana", "info": "Policy Brief", "file": "https://docs.google.com/document/d/1bON6liIhZjpN73rmYOGsJAq_-YDiolicQ25QA_p7QCU/edit?usp=sharing", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
+
+You still have time to give your opinion! Take part in the Survey on Deep Time and Citizen Participation
+
+Whether you work in a public institution or belong to civil society, you can participate in this research through these surveys:
+
+Citizen Survey on Time and Citizen Participation (link) 
+
+Survey for Public Administration Workers on Time and Citizen Participation (link)
+
+\----
+
+This research is supported by Barcelona City Council and the Open Society Foundations.
