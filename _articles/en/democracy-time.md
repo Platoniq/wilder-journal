@@ -90,10 +90,9 @@ You still have time to give your opinion! Take part in the Survey on Deep Time a
 
 Whether you work in a public institution or belong to civil society, you can participate in this research through these surveys:
 
-Citizen Survey on Time and Citizen Participation (link) 
-
-Survey for Public Administration Workers on Time and Citizen Participation (link)
+1. Citizen Survey on Time and Citizen Participation (spanish) ([link](https://openspaces.platoniq.net/conferences/FDCD/f/443/)) 
+2. Survey for Public Administration Workers on Time and Citizen Participation (spanish) ([link](https://openspaces.platoniq.net/conferences/FDCD/f/444/))
 
 \----
 
-This research is supported by Barcelona City Council and the Open Society Foundations.
+*This research is supported by Barcelona City Council and the Open Society Foundations.*

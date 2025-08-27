@@ -92,9 +92,8 @@ Esta línea de investigación ha sido aceptada para su presentación en la próx
 
 Tanto si trabajas en una institución pública como si perteneces a la sociedad civil, puedes participar de esta investigación a través de estas encuestas:
 
-Encuesta Ciudadana sobre Tiempo y Participación Ciudadana ([link](https://openspaces.platoniq.net/conferences/FDCD/f/443/)) 
-
-Encuesta para Trabajadores de la Administración pública sobre Tiempo y Participación Ciudadana ([link](https://openspaces.platoniq.net/conferences/FDCD/f/444/))
+1. Encuesta Ciudadana sobre Tiempo y Participación Ciudadana ([link](https://openspaces.platoniq.net/conferences/FDCD/f/443/)) 
+2. Encuesta para Trabajadores de la Administración pública sobre Tiempo y Participación Ciudadana ([link](https://openspaces.platoniq.net/conferences/FDCD/f/444/))
 
 *\----*
 
