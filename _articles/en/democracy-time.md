@@ -84,7 +84,7 @@ This line of research has been accepted for presentation at the upcoming ECPR co
 
 ## **Recomendations**
 
-{% file { "title": "Tiempo Profundo y Participación Ciudadana", "info": "Policy Brief", "file": "https://docs.google.com/document/d/1bON6liIhZjpN73rmYOGsJAq_-YDiolicQ25QA_p7QCU/edit?usp=sharing", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
+{% file { "title": "Tiempo Profundo y Participación Ciudadana", "info": "Policy Brief", "file": "https://docs.google.com/document/d/1CqdKfKNpyTfW22mMBaGyahhZdSDnrM2jComYLpionn0/edit?usp=sharing", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
 
 You still have time to give your opinion! Take part in the Survey on Deep Time and Citizen Participation
 
