@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: futures
+category: learnings
 published: true
 date: 2025-07-21T10:56:00.000+02:00
 date-updated: 2025-07-21T10:56:00.000+02:00
-article-order: 2
+article-order: 20
 uid: palabra-accion-colaboracion
 title: "Ansiedad climática, jóvenes y desafección política: el derecho al goce
   como forma de construir democracia"
