@@ -17,7 +17,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/dsc00020.jpg
   mobile: /media/articles/mobile/dsc00020.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/dsc00020.jpg
   alt: Taller Derecho a la Ciudad
   credits: Taller Derecho a la Ciudad
   caption: Taller Derecho a la Ciudad
