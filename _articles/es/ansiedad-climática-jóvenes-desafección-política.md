@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2025-07-21T10:56:00.000+02:00
 date-updated: 2025-07-21T10:56:00.000+02:00
-article-order: 20
+article-order: 30
 uid: palabra-accion-colaboracion
 title: "[ECD1_LAB] Ansiedad climática, jóvenes y desafección política: el
   derecho al goce como forma de construir democracia"
