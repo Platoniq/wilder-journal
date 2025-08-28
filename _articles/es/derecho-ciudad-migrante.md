@@ -32,4 +32,6 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/dsc00020.jpg
 ---
-El 10 de julio de 2025, 15 jóvenes de entre 18 y 30 años de Barcelona participaron en un taller de Teatro Legislativo sobre el Derecho a la Ciudad. Utilizamos el teatro legislativo, la participación digital y métodos de investigación participativa para repensar el derecho a la ciudad y su intersección con las preocupaciones de la población migrante de la ciudad desde la perspectiva de los jóvenes, con diversidad de clase, etnia y género.
+El 10 de julio de 2025, 15 jóvenes de entre 18 y 30 años de Barcelona participaron en un la primera jornada del Lab de políticas públicas de la [Escuela de Creatividad y Democracia](https://www.democraciacreativa.org/) taller de Teatro Legislativo sobre el Derecho a la Ciudad. 
+
+Junto a varios jóvenes migrantes acompañados por la Fundació Barcelonactua, los miembros de la primera edición del curso sobre Democracia Creativa de la Escuela de Creatividad y Democracia de la Fundación Platoniq, así como jóvenes activistas implicados en la lucha por los derechos de la población migrante en Barcelona utilizamos el teatro legislativo, la participación digital y métodos de investigación participativa para repensar el derecho a la ciudad y su intersección con las preocupaciones de la población migrante de la ciudad desde la perspectiva de los jóvenes, con diversidad de clase, etnia y género.
