@@ -7,8 +7,8 @@ date: 2025-07-21T18:13:00.000+02:00
 date-updated: 2025-07-21T18:13:00.000+02:00
 article-order: 7
 uid: derecho-ciudad-juventud-migrante
-title: "[Policy Brief] Reclamar reconocimiento: el derecho a la ciudad desde las
-  juventudes migrantes"
+title: "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes
+  migrantes [Policy Brief] "
 description: "La juventud migrante en Barcelona enfrenta múltiples frentes de
   vulnerabilidad, combinando carencias en educación, empleo, vivienda y
   bienestar emocional. Al mismo tiempo, persisten barreras culturales y
