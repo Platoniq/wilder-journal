@@ -21,7 +21,9 @@ cover:
   mobile: /media/articles/mobile/esepe_stayyoung.png
   thumbnail: /media/articles/thumbnails/esepe_stayyoung.png
 related_article_uids:
-  - chimwemwe_chirwa
+  - palabra-accion-colaboracion
+  - dialogos-migrantes-segunda-edicion
+  - derecho-ciudad-migrante
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

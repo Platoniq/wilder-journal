@@ -53,7 +53,7 @@ Esto provoca que un número aún indeterminado de jóvenes migrantes quede sin p
 
 Mediante un proceso participativo basado en el Teatro Legislativo, los jóvenes participantes co-produjeron una serie de recomendaciones políticas en diversas áreas orientadas a mejorar la integración de la población jóven migrante en la ciudad de Barcelona. 
 
-Dichas recomendaciones contaron con el contraste del grupo de policy del taller, compuesto por jóvenes activistas, políticos y un miembro del área de participación de la Generalitat de Catalunya, quienes propusieron y validaron los comentarios y enmiendas a cada una de las recomendaciones que surgieron de la escenificación. 
+Dichas recomendaciones contaron con el contraste del grupo de policy del taller, compuesto por jóvenes activistas, jóvenes políticos y Lucía A. Mayans Brun, Coordinadora de comunitats de participació del Área de participación de la Generalitat de Catalunya, quienes propusieron y validaron los comentarios y enmiendas a cada una de las recomendaciones que surgieron de la escenificación. 
 
 En adelante, se compilan las recomendaciones por bloques temáticos sin embargo podemos rendir cuentas de cómo fue el proceso y la completud de las mismas refiriéndonos a la plataforma de participación Open Spaces que se utilizó en todo momento.
 
