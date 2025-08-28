@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: learnings
+category: futures
 published: true
 date: 2025-07-21T18:13:00.000+02:00
 date-updated: 2025-07-21T18:13:00.000+02:00
-article-order: 20
+article-order: 2
 uid: derecho-ciudad-juventud-migrante
 title: "[Policy Brief] Reclamar reconocimiento: el derecho a la ciudad desde las
   juventudes migrantes"
