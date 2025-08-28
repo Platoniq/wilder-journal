@@ -64,4 +64,4 @@ La segunda serie de recomendaciones responde a su vez al[ Itinerario administrat
 
 La postura que toma la Escuela ante este tipo de ejercicios es la priorización de los “afectados”, para que sean ellos los que sienten las bases del debate social sobre las cuestiones que les preocupan. Algo que incluye a su vez a los participantes del itinerario, quienes después de haber escuchado a más de 14 profesionales de toda Europa explicar conceptos esenciales de la democracia participativa, pueden poner en práctica lo aprendido y añadir sus propias habilidades personales.
 
-Si quieres saber más, puedes visitar la página web de la Escuela. Y si te interesa formar parte de la segunda cohorte, estamos preparando ya la segunda edición, explícanos quién eres y porqué te interesa, aquí.
+Si quieres saber más, puedes visitar la [página web](https://www.democraciacreativa.org/) de la Escuela. Y si te interesa formar parte de la segunda cohorte, estamos preparando ya la segunda edición, explícanos quién eres y porqué te interesa, [aquí](https://openspaces.platoniq.net/assemblies/alumni/f/525/).
