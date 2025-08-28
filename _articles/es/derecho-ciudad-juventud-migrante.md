@@ -65,8 +65,6 @@ En tercer lugar encontramos una serie de propuestas vinculadas a la** [Participa
 
 {% gallery { "simple": false, "images": [{"path":"/media/dsc00102.jpg","alt":"El equipo de políticas presentado sus recomendaciones","caption":"El equipo de políticas presentando sus recomendaciones","credits":"Platoniq (2025)"}] } %}
 
-
-
 {% questions { "items": [{"question":"Red pública de acogida y acompañamiento con referentes migrantes"}] } %}
 
 1. **Crear una red pública de primeros contactos**, integrada por personas migrantes con experiencia en acompañamiento, mediación comunitaria o trabajo social.
