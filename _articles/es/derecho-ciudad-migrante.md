@@ -38,9 +38,9 @@ Como actividad final de la Escuela, el **[Lab de creación de políticas públic
 
 El 10 de julio de 2025, 15 jóvenes de entre 18 y 30 años de Barcelona participaron [](<>)el taller de Teatro Legislativo sobre el Derecho a la Ciudad facilitado por la cohorte de la primera edición de la **[Escuela de Creatividad y Democracia.](<>)**
 
-{% gallery { "simple": false, "images": [{"path":"/media/dsc00011.jpg","alt":"Taller de Mapeo ","caption":"Taller de Mapeo","credits":"Platoniq (2025)"}] } %}
-
 Jóvenes migrantes acompañados por la Fundació Barcelonactua, jóvenes activistas implicados en la lucha por los derechos de la población migrante en Barcelona y una representante de la Dirección General de Gobierno Abierto de la Generalitat de Catalunya, fueron facilitados por la cohorte que supo utilizar el teatro legislativo, la participación digital y métodos de investigación participativa para repensar el derecho a la ciudad y su intersección con las preocupaciones de la población migrante de la ciudad desde la perspectiva de los jóvenes, con diversidad de clase, etnia y género.
+
+{% gallery { "simple": false, "images": [{"path":"/media/dsc00011.jpg","alt":"Taller de Mapeo ","caption":"Taller de Mapeo","credits":"Platoniq (2025)"}] } %}
 
 La jornada empezó con un ejercicio de mapeo en el que se identifican los ámbitos de opresión sociales, cultures y personales, fricciones de la vida diaria que luego sirven para definir escenas concretas sobre las que trabajar. Cada una de las mesas, dinamizadas junto a los alumnos y alumnas de la escuela, exploró historias personales, vividas o ajenas, que pudieran servir de inspiración para la elaboración de un guión que las teatralizase y las hiciera más empáticas para cualquiera.
 
