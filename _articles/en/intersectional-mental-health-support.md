@@ -7,13 +7,15 @@ date: 2024-06-07T10:30:00.000Z
 date-updated: 2024-06-07T10:32:00.000Z
 article-order: 7
 uid: intersectional-mental-health-support
-title: Listening to Youth Voice to better intersectional mental health support
+title: "[Policy Brief] Listening to Youth Voice to better intersectional mental
+  health support"
 description: This document presents some of the recommendations on
   intersectional mental health developed by young people.
 author: Platoniq Foundation & University of Birmingham
 author_uids:
   - platoniq
   - University-Birmingham
+interviewee: null
 cover:
   path: /media/articles/heroes/20230425_kidding-me.jpg
   mobile: /media/articles/mobile/20230425_kidding-me.jpg

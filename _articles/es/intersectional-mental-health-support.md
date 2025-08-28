@@ -7,8 +7,8 @@ date: 2024-06-07T10:30:00.000Z
 date-updated: 2024-06-07T10:32:00.000Z
 article-order: 7
 uid: intersectional-mental-health-support
-title: Escuchar la voz de los jóvenes para mejorar el apoyo interseccional en
-  salud mental
+title: "[Policy Brief] Escuchar la voz de los jóvenes para mejorar el apoyo
+  interseccional en salud mental"
 description: En este documento se recogen algunas de las recomendaciones sobre
   salud mental interseccional elaboradas por jóvenes
 author: Fundación Platoniq y la Universidad de Birmingham
