@@ -24,7 +24,9 @@ cover:
   credits: Esepe, Young, 2023
   caption: Esepe, Young, 2023
 related_article_uids:
-  - chimwemwe_chirwa
+  - palabra-accion-colaboracion
+  - dialogos-migrantes-segunda-edicion
+  - derecho-ciudad-migrante
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
