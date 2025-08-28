@@ -30,6 +30,6 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/dsc00020.jpg
 ---
 El 10 de julio de 2025, 15 jóvenes de entre 18 y 30 años de Barcelona participaron en un taller de Teatro Legislativo sobre el Derecho a la Ciudad. Utilizamos el teatro legislativo, la participación digital y métodos de investigación participativa para repensar el derecho a la ciudad y su intersección con las preocupaciones de la población migrante de la ciudad desde la perspectiva de los jóvenes, con diversidad de clase, etnia y género.
