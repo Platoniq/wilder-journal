@@ -16,7 +16,7 @@ author_uids:
   - cristian-palazzi
 cover:
   path: /media/articles/heroes/dsc00020.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/dsc00020.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Taller Derecho a la Ciudad
   credits: Taller Derecho a la Ciudad
