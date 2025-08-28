@@ -7,10 +7,14 @@ date: 2025-08-28T09:45:00.000+02:00
 date-updated: 2025-08-28T09:45:00.000+02:00
 article-order: 29
 uid: derecho-ciudad-migrante
+interviewee: null
 cover:
   path: /media/articles/heroes/dsc00020.jpg
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - palabra-accion-colaboracion
+  - derecho-ciudad-juventud-migrante
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
