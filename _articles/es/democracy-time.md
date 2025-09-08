@@ -126,7 +126,7 @@ Link a la presentación del paper en la web del Congreso: <https://ecpr.eu/Event
 
 ## **Informe de recomendaciones**
 
-{% file { "title": "Tiempo Profundo y Participación Ciudadana", "info": "Policy Brief", "file": "https://docs.google.com/document/d/1bON6liIhZjpN73rmYOGsJAq_-YDiolicQ25QA_p7QCU/edit?usp=sharing", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
+{% file { "title": "Tiempo Profundo y Participación Ciudadana", "info": "Policy Brief", "file": "/media/policy-brief-sobre-tiempo-profundo-y-participación-democrática.pdf", "image": "/assets/media/no_image-file.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
 
 ## **¡Aún estás a tiempo de dar tu opinión! Participa de la Encuesta sobre Tiempo Profundo y Participación Ciudadana**
 
