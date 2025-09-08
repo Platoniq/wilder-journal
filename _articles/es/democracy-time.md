@@ -32,7 +32,7 @@ image:
 ---
 Hace falta empezar a medir el tiempo que usamos para hacer las cosas. Distinguir entre tiempo de calidad y tiempo funcional y tiempo de ocio es esencial para conseguir establecer medidas que permitan ampliar el tiempo de la democracia, que no es otro que el de la deliberación y participación. En adelante, presentamos los resultados de la investigación sobre **Tiempo Profundo y Participación Ciudadana,** basándonos en el trabajo realizado por Eurostat en HETUS (Harmonised European Time Use Surveys), donde se busca comprender como usan el tiempo en relación con la práctica democrática, tanto la ciudadanía como los trabajadores públicos.
 
-## **Estado del arte en materia de Tiempo Profundo y Participación Ciudadana**
+## **Conclusiones en materia de Tiempo Profundo y Participación Ciudadana**
 
 ### **Percepción del Tiempo: Un Desafío Contemporáneo**
 
@@ -76,13 +76,53 @@ Emerge una visión del tiempo como ritmo, ilustrada por prácticas comunitarias 
 
 ## **Conclusiones**
 
-Los resultados de nuestra encuesta sobre Tiempo y Participación Ciudadana han revelado la necesidad crítica de examinar cómo el concepto de tiempo influye en la democracia participativa y deliberativa desde una perspectiva interseccional.
+La encuesta sobre **tiempo y participación ciudadana** ofrece una visión clara de las tensiones y oportunidades que atraviesan la vida cotidiana y la implicación democrática de la ciudadanía.
 
-Se ha evidenciado que el tiempo no es neutral ni está distribuido equitativamente en la sociedad. Las desigualdades estructurales basadas en raza, género, clase y estatus migratorio crean experiencias temporales divergentes que afectan directamente la capacidad de participación ciudadana. Mientras las comunidades marginadas experimentan una aceleración del tiempo debido a la precariedad, los grupos privilegiados disfrutan de mayor autonomía temporal para involucrarse en procesos participativos.
+Por un lado, los resultados muestran que la **percepción de falta de tiempo** es una constante, especialmente entre mujeres y personas de mediana edad (35–54 años), donde se cruzan el peso del trabajo remunerado y las responsabilidades de cuidados. Estas cargas generan un desequilibrio en la organización del tiempo que se traduce en un descanso reducido, una distribución desigual de las tareas no remuneradas y una **participación ciudadana residual**, casi siempre inferior a una hora diaria.
 
-Estos hallazgos han inspirado una investigación más profunda que propone repensar los procesos participativos para fomentar un compromiso más equitativo. Se sugieren estrategias como la creación de "zonas temporales" que permitan conciliar ritmos diversos, así como la implementación de prácticas como el ocio radical y espacios de cuidado para democratizar el tiempo.
+Aun así, cuando existe participación, las personas se orientan hacia **plataformas online, iniciativas locales y actividades de asociaciones u ONGs**. La satisfacción con estas experiencias es moderada, y los canales de acceso más habituales son el **entorno digital** y las **redes de confianza cercanas**. Esta doble vía evidencia que lo comunitario y lo digital no son excluyentes, sino complementarios en las prácticas actuales de implicación cívica.
 
-Esta línea de investigación ha sido aceptada para su presentación en la próxima conferencia de la ECPR bajo el título [“Democracy Takes Time: Intersectional Temporalities in Participation and Deliberation”](https://ecpr.eu/Events/Event/PaperDetails/79797).
+Las **motivaciones principales** para participar, mejorar el entorno y ejercer derechos revelan un compromiso tanto comunitario como político. Sin embargo, se ven frenadas por dos barreras decisivas: la **falta de tiempo** y la **desconfianza en las instituciones**. Estas limitaciones marcan una línea de fragilidad que reduce el potencial de una ciudadanía más activa y transformadora.
+
+La percepción de la **calidad e impacto de los procesos participativos** también se mantiene en un punto medio. Muchas personas consideran insuficiente el tiempo asignado a la deliberación, y aunque algunas perciben incidencia real en las decisiones, otras no ven reflejadas sus aportaciones, lo que alimenta la sensación de participación más consultiva que vinculante.
+
+Al evaluar el papel de las instituciones, la ciudadanía reconoce esfuerzos, pero insiste en la necesidad de **reformular los procesos**. Las medidas más reclamadas apuntan hacia una participación más **flexible, inclusiva y adaptada a los ritmos de la vida diaria**: horarios compatibles, modalidades online y asincrónicas, y espacios de conciliación para familias.
+
+En definitiva, la encuesta dibuja un escenario en el que la ciudadanía mantiene **motivaciones sólidas y un interés latente por participar**, pero se enfrenta a fuertes limitaciones estructurales y organizativas. Superar estas barreras requiere no solo iniciativas puntuales, sino un rediseño institucional que reconozca el **tiempo como un recurso democrático**: escaso, distribuido de manera desigual, y decisivo para garantizar una participación más justa, efectiva y transformadora.
+
+## **Categorías transversales**
+
+El análisis de la encuesta revela un conjunto de **categorías transversales** que se repiten a lo largo de los distintos bloques, dibujando un panorama coherente sobre cómo la ciudadanía organiza su tiempo y cómo esto condiciona su participación.
+
+En primer lugar, aparece con fuerza la categoría del **tiempo**. La percepción de su escasez, la **distribución desigual entre actividades** y el **descanso insuficiente** constituyen elementos centrales que atraviesan todas las respuestas. El tiempo se configura como un recurso limitado que determina tanto la calidad de vida como las posibilidades reales de implicación en procesos colectivos.
+
+Vinculado a ello, los **cuidados y el trabajo** emergen como factores estructurales que marcan diferencias significativas. Los **cuidados no remunerados**, asumidos mayoritariamente por mujeres, se convierten en una carga invisible que limita la disponibilidad de horas libres. Por otro lado, el **trabajo remunerado**, con su variabilidad en horarios y exigencias, amplifica las desigualdades en el acceso al tiempo para descansar o participar.
+
+La **participación ciudadana** constituye otra categoría clave, aunque con un peso reducido en la distribución del tiempo cotidiano. Las formas más habituales son las **plataformas digitales**, las **iniciativas locales** y las **actividades asociativas**, todas ellas valoradas con una satisfacción intermedia. Sin embargo, el **impacto percibido** de estas experiencias es diverso: mientras algunas personas reconocen efectos concretos, otras perciben que su voz apenas incide en las decisiones.
+
+En paralelo, las **motivaciones y barreras** ofrecen una mirada sobre las fuerzas que impulsan o frenan la participación. Entre las motivaciones destacan el deseo de **mejorar el entorno cercano** y la voluntad de **ejercer derechos ciudadanos**. Frente a ello, la **falta de tiempo** —ya señalada como constante en el análisis— y la **desconfianza hacia las instituciones** emergen como obstáculos que erosionan la implicación cívica.
+
+Por último, las **instituciones y procesos participativos** constituyen un ámbito recurrente de valoración. La ciudadanía percibe una **calidad media**, tiempos insuficientes para una deliberación profunda y un esfuerzo institucional que no supera el aprobado. No obstante, también plantea con claridad medidas de mejora: **flexibilizar horarios**, habilitar **modalidades online y asincrónicas**, y crear **espacios de conciliación y cuidados** que hagan posible una participación más inclusiva.
+
+## **Limitaciones**
+
+El presente estudio ofrece una primera aproximación valiosa a la relación entre el uso del tiempo y la participación ciudadana, aunque cuenta con algunas limitaciones que deben ser reconocidas: 
+
+En primer lugar, el **número reducido de respuestas en la encuesta propia** limita la capacidad de generalizar los resultados a toda la población. Más que conclusiones representativas, los hallazgos deben entenderse como una **exploración inicial** que permite identificar tendencias y abrir preguntas relevantes para futuras investigaciones.
+
+De cara al futuro, resulta recomendable **relanzar la encuesta en 2026**, ampliando su alcance y mejorando las estrategias de captación de participantes. Será especialmente relevante dirigir esfuerzos hacia colectivos que habitualmente quedan subrepresentados, como la **juventud, las cooperativas y las asociaciones de barrio**, para garantizar una mirada más diversa y representativa de las realidades sociales.
+
+Asimismo, se sugiere avanzar hacia un **enfoque de métodos mixtos**, que combine la distribución de encuestas breves en formato presencial, aprovechando la capilaridad de los **equipamientos municipales**, con versiones online en modalidad asincrónica. Esta combinación permitirá llegar a distintos perfiles de ciudadanía, superar la brecha digital y captar respuestas más matizadas y heterogéneas.
+
+En conjunto, estas líneas de mejora abren la posibilidad de **consolidar un instrumento más robusto y participativo**, capaz de generar evidencias sólidas y aplicables en el diseño de políticas públicas orientadas a democratizar la organización social del tiempo y a fortalecer la calidad de la participación ciudadana.
+
+## **Futuras líneas de investigación**
+
+Fruto del trabajo de investigación sobre Tiempo profundo y participación, se presentó en el **European Consortium for Political Research General Conference 2025** el paper *Democracy Takes Time: Intersectional Temporalities in Participation and Deliberation*.
+
+El marco conceptual desarrollado en el artículo, centrado en la justicia temporal, la pluralidad de ritmos democráticos y la necesidad de superar las limitaciones del presentismo institucional, refuerza la pertinencia de ampliar la encuesta y enriquecer sus metodologías. Al dialogar con otras experiencias de innovación democrática presentadas en el congreso, el estudio consolida su aportación en dos direcciones complementarias: **como exploración empírica situada**, que aporta evidencia sobre cómo se vive la pobreza de tiempo en la participación cotidiana, y como **experimento metodológico**, capaz de inspirar diseños más inclusivos, sensibles a las desigualdades temporales y atentos a la diversidad de perfiles sociales.
+
+Link a la presentación del paper en la web del Congreso: <https://ecpr.eu/Events/Event/PaperDetails/79797>
 
 ## **Informe de recomendaciones**
 
