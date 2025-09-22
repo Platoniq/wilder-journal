@@ -12,6 +12,7 @@ description: At a time of maximum polarisation and misinformation, it is
   necessary to develop new ways of explaining the migrant phenomenon that put
   its protagonists at the centre, generate social debate and ultimately improve
   their living conditions.
+interviewee: null
 cover:
   path: /media/articles/heroes/why-a-past.png
   mobile: /media/articles/mobile/why-a-past.png
@@ -30,11 +31,11 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/why-a-past.png
 ---
-# Hypothesis
+## Hypothesis
 
 At a time of maximum polarisation and misinformation, it is necessary to develop **new ways of explaining the migrant phenomenon that put its protagonists at the centre,** generate social debate and ultimately improve their living conditions.
 
-# Story of me: Why do we think this question is relevant to our ethical compass ?
+## Story of me: Why do we think this question is relevant to our ethical compass?
 
 From these convictions **‘Diálogos Migrantes’** was born, an experience of collaborative creation of new narratives, now in its second edition, which invites migrants to express their commitments and concerns through innovative audiovisual formats, with the ultimate intention of drafting a **‘Migrant Constitution’** that reflects the foreign population's idea of society in Spain.
 
@@ -42,13 +43,13 @@ From these convictions **‘Diálogos Migrantes’** was born, an experience of 
 
 These are the words of **Desirée Bela-Lobedde,** an anti-racist activist who has been a consultant for the project, [with whom we had a discussion about the voice and capacities of the migrant collective, ](https://www.instagram.com/p/C9eXb7AKaKO/)which she says is too often used as an excuse to talk about structural social problems and not so much as the ultimate subject of desires and opportunities. 
 
-# Story of us: a series of objective data to back up the idea
+## Story of us: a series of objective data to back up the idea
 
 Based on this premise, the **Migrant Dialogues** aim to be a space for participation and active listening that uses communication as an excuse to generate social impact. Using the creation of audiovisual pieces as a vehicle, the project is conceived as an experience of searching for and co-creating new ways of narrating the issues associated with migrants in Spain, with the Platoniq Foundation as facilitator. 
 
-Another researcher, **Dayo Esenou,** professor at Lancaster University, [of whom we publish an interview](https://journal.platoniq.net/en/wilder-journal-2/interviews/justice-afrofuturism-participatory-research/), warns us of the same thing: ***‘One thing I avoid is what is known as trauma porn or poverty porn, where people are studied as objects. Racial minority communities are empowered and are already speaking out; the problem is that people often don't listen’.*** In her case, it is Afrofuturism that is used as a prism of research, something that allows her to step outside the established frameworks of pain and to propose, thanks to speculative anti-racism, new ways of narrating and being narrated.
+Another researcher, **Dayo Eseonu,** lecturer at Lancaster University, [of whom we publish an interview](https://journal.platoniq.net/en/wilder-journal-2/interviews/justice-afrofuturism-participatory-research/), warns us of the same thing: ***‘One thing I avoid is what is known as trauma porn or poverty porn, where people are studied as objects. Racial minority communities are empowered and are already speaking out; the problem is that people often don't listen’.*** In her case, it is Afrofuturism that is used as a prism of research, something that allows her to step outside the established frameworks of pain and to propose, thanks to speculative anti-racism, new ways of narrating and being narrated.
 
-# Story of now: How do we answer this question?
+## Story of now: How do we answer this question?
 
 Preliminary Phase: Platoniq makes its Goteo Participa platform available to the project, where the entire process and its conclusions will be monitored online, in order to provide continuity over time and to gather all the lessons learned.
 
@@ -88,7 +89,7 @@ The documentary piece of the whole process has been hosted in La Guixeta, a tech
 
 <iframe title="Diàlegs Migrants: Racisme Immobiliari (Cas d'estudi)" width="560" height="315" src="https://videos.laguixeta.cat/videos/embed/045e3d18-abb1-4850-b643-ced95ff3836d" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
-# Presentation of the conclusions and next steps
+## Presentation of the conclusions and next steps
 
 The [Deliberation, Creativity and Democracy Forum](https://openspaces.platoniq.net/conferences/FDCD?locale=en) will take place in Barcelona from 15 to 18 October. During the annual meeting of the Delib network, the network of deliberation professionals in the Iberian Peninsula, Platoniq will present, together with Quim Brugué, the conclusions of the project, in connection with the ideas of positive discrimination and deliberation in enclaves through the example of other projects such as [‘Discrimination in access to housing. What we are talking about and how to combat it’,](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5) Olot, 2021.
 
