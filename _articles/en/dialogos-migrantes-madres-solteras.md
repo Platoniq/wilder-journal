@@ -51,7 +51,7 @@ Another researcher, **Dayo Eseonu,** lecturer at Lancaster University, [of whom 
 
 ## Story of now: How do we answer this question?
 
-Preliminary Phase: Platoniq makes its Goteo Participa platform available to the project, where the entire process and its conclusions will be monitored online, in order to provide continuity over time and to gather all the lessons learned.
+**Preliminary Phase:** Platoniq makes its Goteo Participa platform available to the project, where the entire process and its conclusions will be monitored online, in order to provide continuity over time and to gather all the lessons learned.
 
 **Phase 1. Internal call for participation:** In this first phase, contact was made with the NGO Bcnactua, which made an internal call to its users, single migrant mothers. The number of participants could vary between five and eight people and, in the end, there were five women who wanted to participate in the project.
 
