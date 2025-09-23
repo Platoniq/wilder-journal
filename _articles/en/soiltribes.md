@@ -7,13 +7,21 @@ date: 2025-07-08T15:53:00.000Z
 date-updated: 2025-07-08T15:53:00.000Z
 article-order: 2
 uid: soiltribes
+title: "Return to Earth: A Glocal Mission to Regenerate the Soil"
+description: SoilTribes aims to establish, activate, and strengthen glocal
+  ecosystems for the values, functions, and connectivity of the soil through
+  ‘return to Earth’ narratives, building bridges between science, technology,
+  the arts, and community-driven action.
+author: Platoniq Foundation
 interviewee: null
 cover:
   path: /media/articles/heroes/soiltribes-standards-manual.jpg
   mobile: /media/articles/mobile/soiltribes-standards-manual.jpg
   thumbnail: /media/articles/thumbnails/soiltribes-standards-manual.jpg
 related_article_uids:
-  - amber-huff
+  - open-heritage-financing
+  - democratic-digital-infraestructure
+  - right-to-participate
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
