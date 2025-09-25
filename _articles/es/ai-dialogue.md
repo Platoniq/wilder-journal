@@ -187,7 +187,7 @@ Alrededor de la mesa, los humanos se cruzan miradas.
  «¿Pierdo mi turno si no puedo hablar lo bastante rápido?»
 
 **Activista trans:**
- «¿Y si el consenso me borra porque mi historia incómoda?»
+ «¿Y si el consenso me borra porque mi historia incomoda?»
 
 La máquina hace una pausa. Su guión perfecto titubea.
 
