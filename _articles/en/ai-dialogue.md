@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2025-09-25T15:41:00.000+02:00
 date-updated: 2025-09-25T15:41:00.000+02:00
-article-order: 8
+article-order: 12
 uid: AI-dialogue
 title: Oracle or Dialogue Partner?
 description: "The figure of the oracle, all-knowing but impersonal, has haunted
