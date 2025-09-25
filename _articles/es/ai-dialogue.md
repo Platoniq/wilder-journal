@@ -235,7 +235,9 @@ A menudo hablamos de “grupos vulnerables” en abstracto. Pero cuando un chatb
 
 Necesitamos datos aquí para fundamentar la crítica. Por ejemplo: estudios en Europa (España, Italia, etc.) muestran que muchos jóvenes han interactuado con chatbots de salud mental, pero muy pocos los encontraron realmente útiles. La mayoría se sintió incomprendida.
 
-“47 % interactuó, solo un 22 % lo consideró un apoyo, un 41 % se sintió alienado.”
+{% quote %}47 % interactuó, solo un 22 % lo consideró un apoyo, un 41 % se sintió alienado{% endquote %}
+
+
 
 Un estudio de 2024 del European Institute for Youth Engagement encontró que el 47 % de jóvenes de entre 16 y 25 años en España e Italia habían usado chatbots de salud mental, pero solo un 22 % valoró la experiencia como de apoyo, mientras que un 41 % reportó sentirse alienado o malinterpretado.
 

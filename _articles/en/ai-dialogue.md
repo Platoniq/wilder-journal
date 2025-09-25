@@ -272,7 +272,7 @@ We often speak of “vulnerable groups” abstractly. But when an AI chatbot mee
 
 We need data here to ground our critique. For example, studies in Europe (Spain, Italy, etc.) show that many young people have interacted with mental health chatbots, but far fewer have found them genuinely helpful. Most felt misunderstood.
 
-*“47% interacted, only 22% supportive, 41% alienated”* 
+{% quote %}47% interacted, only 22% supportive, 41% alienated{% endquote %}
 
 *2024 studies by the European Institute for Youth Engagement found that 47% of youth aged 16–25 in Spain and Italy have interacted with mental health chatbots, but only 22% found the experience supportive (and 41% reported feeling alienated or misunderstood).*
 
