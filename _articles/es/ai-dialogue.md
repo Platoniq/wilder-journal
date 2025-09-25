@@ -7,7 +7,7 @@ date: 2025-09-25T15:41:00.000+02:00
 date-updated: 2025-09-25T15:41:00.000+02:00
 article-order: 12
 uid: AI-dialogue
-title: ¿Oráculo o Compañero de Diálogo?
+title: ¿Oráculo o Compañero de Diálogo? Hacia una IA polifónica y situada
 description: La figura del oráculo, omnisciente pero impersonal, ha rondado los
   relatos modernos de la inteligencia artificial, desde los primeros sistemas
   expertos hasta los actuales agentes conversacionales
@@ -29,7 +29,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/unnamed4.png
 ---
-## **Simular no es dialogar: hacia una IA polifónica y situada**
+## **Simular no es dialogar**
 
 No un oráculo.
 No un conjunto de datos.
@@ -236,8 +236,6 @@ A menudo hablamos de “grupos vulnerables” en abstracto. Pero cuando un chatb
 Necesitamos datos aquí para fundamentar la crítica. Por ejemplo: estudios en Europa (España, Italia, etc.) muestran que muchos jóvenes han interactuado con chatbots de salud mental, pero muy pocos los encontraron realmente útiles. La mayoría se sintió incomprendida.
 
 {% quote %}47 % interactuó, solo un 22 % lo consideró un apoyo, un 41 % se sintió alienado{% endquote %}
-
-
 
 Un estudio de 2024 del European Institute for Youth Engagement encontró que el 47 % de jóvenes de entre 16 y 25 años en España e Italia habían usado chatbots de salud mental, pero solo un 22 % valoró la experiencia como de apoyo, mientras que un 41 % reportó sentirse alienado o malinterpretado.
 

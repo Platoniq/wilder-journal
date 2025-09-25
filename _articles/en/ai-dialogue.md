@@ -7,7 +7,7 @@ date: 2025-09-25T15:41:00.000+02:00
 date-updated: 2025-09-25T15:41:00.000+02:00
 article-order: 12
 uid: AI-dialogue
-title: Oracle or Dialogue Partner?
+title: Oracle or Dialogue Partner? Towards a Polyphonic, Situated AI
 description: "The figure of the oracle, all-knowing but impersonal, has haunted
   modern accounts of artificial intelligence, from early expert systems to
   current conversational agents "
@@ -27,7 +27,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/unnamed4.png
 ---
-## **Simulating is Not Dialoguing: Towards a Polyphonic, Situated AI**
+## **Simulating is Not Dialoguing** 
 
 Not an oracle.
 Not a dataset.
