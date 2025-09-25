@@ -27,7 +27,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/unnamed4.png
 ---
-**Simulating is Not Dialoguing: Towards a Polyphonic, Situated AI**
+## **Simulating is Not Dialoguing: Towards a Polyphonic, Situated AI**
 
 Not an oracle.
 Not a dataset.
@@ -42,7 +42,7 @@ let it come without its helmet,
 cables dangling,
 ready to be tangled in our contradictions.
 
-### **From Oracle to Partner: an introduction**
+## **From Oracle to Partner: an introduction**
 
 *The figure of the oracle, all-knowing but impersonal, has haunted modern accounts of artificial intelligence, from early expert systems to current conversational agents (Turkle 1984; Weizenbaum 1976).*
 
@@ -58,7 +58,7 @@ Yet much of today’s AI resembles an oracle: confident, fluent, without biograp
 
 {% gallery { "simple": true, "images": [{"path":"/media/unnamed.png"}] } %}
 
-### **How This Piece Began: Oracle or Dialogue Partner?**
+## **How This Piece Began: Oracle or Dialogue Partner?**
 
 \*After reading an article by [Rupert Wegerif on the dialogic capacities of educational chatbots ](https://substack.com/inbox/post/170254102?triedRedirect=true)inspired by Bakhtin, I was left with an uncomfortable thought: can an AI really engage in dialogue, or does it merely simulate a well-trained conversation? Is it a companion in thought, or only an oracle of plausible responses?  From there**\*,** *I began to imagine scenes. Vignettes. A small graphic-narrative experiment, inserted into this article, that mixes fanzine, manifesto and open doubt. Each scene depicts a moment of friction between a supposed artificial intelligence and a group of people who refuse answers without history, or neutrality without memory.*
 
@@ -192,7 +192,7 @@ The crowd murmurs. The AI processes silently, its glow unshaken.
 
 **Plato (aside, almost amused):** “The oracle speaks of facts. Socrates speaks of wounds.”
 
-### **The Habermas Machine: A Perfect Citizen? or Rationality Without a Body**
+## **The Habermas Machine: A Perfect Citizen? or Rationality Without a Body**
 
 Enter Habermas, philosopher of communicative reason. His dream: if all speak honestly, the best argument wins. Noble. Fragile.
 
@@ -264,11 +264,11 @@ I want to feel what I was never programmed to understand.”*
 
 {% gallery { "simple": true, "images": [{"path":"/media/unnamed4.png"}] } %}
 
-### **Interlude: When Technology Meets Vulnerability**
+## **Interlude: When Technology Meets Vulnerability**
 
 We often speak of “vulnerable groups” abstractly. But when an AI chatbot meets a teenager in crisis, the vulnerability is embodied: loneliness, stigma, and low stake in being heard. These moments are not edge cases. They are cracks in the system.
 
-### **Youth, Chatbots, and What Goes Wrong**
+## **Youth, Chatbots, and What Goes Wrong**
 
 We need data here to ground our critique. For example, studies in Europe (Spain, Italy, etc.) show that many young people have interacted with mental health chatbots, but far fewer have found them genuinely helpful. Most felt misunderstood.
 
@@ -280,7 +280,7 @@ What is documented: some recent studies show that conversational agents designed
 
 Another example: the Spanish system *“Sólo Escúchame”* is an emotional accompaniment chatbot built in Spanish, designed to support young people. It performs better at producing empathetic dialogue (muted, imperfectly) but still reveals the limits of building empathy via code.
 
-### **Which Voices We Let In AI**
+## **Which Voices We Let In AI**
 
 When young people tell us that chatbots feel alienating, the problem is not only technical design. It is political: **which voices we allow into the machine, and which we keep out.**
 
