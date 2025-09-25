@@ -18,7 +18,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/unnamed4.png
   mobile: /media/articles/mobile/unnamed4.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/unnamed4.png
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

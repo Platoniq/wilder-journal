@@ -17,7 +17,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/unnamed4.png
   mobile: /media/articles/mobile/unnamed4.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/unnamed4.png
   alt: Oraculo
   credits: Oraculo
   caption: Oraculo
