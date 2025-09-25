@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/unnamed4.png
 ---
 ## **Simular no es dialogar: hacia una IA polifónica y situada**
 
