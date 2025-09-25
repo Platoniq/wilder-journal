@@ -60,7 +60,7 @@ Yet much of today’s AI resembles an oracle: confident, fluent, without biograp
 
 ### **How This Piece Began: Oracle or Dialogue Partner?**
 
-*After reading an article by [Rupert Wegerif on the dialogic capacities of educational chatbots ](https://substack.com/inbox/post/170254102?triedRedirect=true)inspired by Bakhtin, I was left with an uncomfortable thought: can an AI really engage in dialogue, or does it merely simulate a well-trained conversation? Is it a companion in thought, or only an oracle of plausible responses?  From there***,** *I began to imagine scenes. Vignettes. A small graphic-narrative experiment, inserted into this article, that mixes fanzine, manifesto and open doubt. Each scene depicts a moment of friction between a supposed artificial intelligence and a group of people who refuse answers without history, or neutrality without memory.*
+\*After reading an article by [Rupert Wegerif on the dialogic capacities of educational chatbots ](https://substack.com/inbox/post/170254102?triedRedirect=true)inspired by Bakhtin, I was left with an uncomfortable thought: can an AI really engage in dialogue, or does it merely simulate a well-trained conversation? Is it a companion in thought, or only an oracle of plausible responses?  From there**\*,** *I began to imagine scenes. Vignettes. A small graphic-narrative experiment, inserted into this article, that mixes fanzine, manifesto and open doubt. Each scene depicts a moment of friction between a supposed artificial intelligence and a group of people who refuse answers without history, or neutrality without memory.*
 
 We were promised a technology capable of conversation.
 But when it speaks, does it have a voice of its own,  or only a well-trained echo?
@@ -314,7 +314,7 @@ Instead of aiming for consensus, these AIs would learn to inhabit contradiction.
 
 **We do not need polite machines. We need machines that can hold the noise of our contradictions without silencing them.**
 
-This is why, at Platoniq, with the support of usual suspects partners such as Katy Rubin and The Data Tank, we are preparing a **youth-led Legislative Theatre on AI and mental health.** Here, young people will turn their lived experiences into scenes, policies, and demands. Here, dialogue is not simulated, but embodied. And here, AI will be tested not on its fluency, but on its capacity to listen and to be unsettled.
+This is why, at Platoniq, with the support of usual suspects partners such as [Katy Rubin,](https://journal.platoniq.net/en/wilder-journal-2/interviews/katy-rubin/) [Sonia Bussu](https://journal.platoniq.net/en/wilder-journal-2/interviews/reclaiming-participatory-governance/) and The Data Tank, we are preparing a **youth-led Legislative Theatre on AI and mental health.** Here, young people will turn their lived experiences into scenes, policies, and demands. Here, dialogue is not simulated, but embodied. And here, AI will be tested not on its fluency, but on its capacity to listen and to be unsettled.
 
 Because democracy is not a dataset. Dialogue is not a protocol. And intelligence, artificial or otherwise, is not born from consensus, but from the courage to be transformed.
 

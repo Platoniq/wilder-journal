@@ -306,7 +306,7 @@ En lugar de buscar el consenso, estas IAs aprenderían a **habitar la contradicc
 
 No necesitamos máquinas educadas y pulidas. Necesitamos máquinas capaces de **sostener el ruido de nuestras contradicciones sin silenciarlas**.
 
-Por eso, en Platoniq, con el apoyo de cómplices habituales como Katy Rubin, Sonia Bussu y The Data Tank, estamos preparando un **Teatro Legislativo liderado por jóvenes sobre IA y salud mental**. Aquí, los jóvenes transformarán sus experiencias vividas en escenas, políticas y demandas. Aquí, el diálogo no se simula: se encarna. Y aquí, la IA no será puesta a prueba por su fluidez, sino por su capacidad de **escuchar y dejarse desestabilizar**.
+Por eso, en Platoniq, con el apoyo de cómplices habituales como [Katy Rubin](https://journal.platoniq.net/es/wilder-journal-2/interviews/katy-rubin/), [Sonia Bussu](https://journal.platoniq.net/es/wilder-journal-2/interviews/reclaiming-participatory-governance/) y The Data Tank, estamos preparando un **Teatro Legislativo liderado por jóvenes sobre IA y salud mental**. Aquí, los jóvenes transformarán sus experiencias vividas en escenas, políticas y demandas. Aquí, el diálogo no se simula: se encarna. Y aquí, la IA no será puesta a prueba por su fluidez, sino por su capacidad de **escuchar y dejarse desestabilizar**.
 
 Porque la democracia no es un dataset. El diálogo no es un protocolo. Y la inteligencia —artificial o humana— no nace del consenso, sino del valor de dejarse transformar.
 
