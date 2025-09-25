@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2025-09-25T15:41:00.000+02:00
 date-updated: 2025-09-25T15:41:00.000+02:00
-article-order: 9
+article-order: 7
 uid: AI-dialogue
 title: ¿Oráculo o Compañero de Diálogo? Hacia una IA polifónica y situada
 description: La figura del oráculo, omnisciente pero impersonal, ha rondado los
