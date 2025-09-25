@@ -14,9 +14,10 @@ description: "The figure of the oracle, all-knowing but impersonal, has haunted
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/unnamed4.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/unnamed4.png
   thumbnail: /assets/media/no_image-thumbnail.png
 stickers:
   layout: layout-none

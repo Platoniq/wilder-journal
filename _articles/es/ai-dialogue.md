@@ -16,7 +16,7 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/unnamed4.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/unnamed4.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Oraculo
   credits: Oraculo
