@@ -23,6 +23,8 @@ cover:
   caption: ecd incidencia
 related_article_uids:
   - palabra-accion-colaboracion
+  - derecho-ciudad-migrante
+  - deliberative-assemblies
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
