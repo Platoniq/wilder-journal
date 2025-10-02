@@ -83,6 +83,8 @@ Tras la representación, llegó el turno del **laboratorio político**. Los part
 
 Este ejercicio no solo generó recomendaciones concretas, sino que demostró el espíritu de la Escuela: **dar voz y protagonismo a los directamente afectados**, para que sean ellos quienes sienten las bases del debate democrático. 
 
+{% file { "title": "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes", "info": "Policy Brief", "file": "/media/pb-derecho-a-la-ciudad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.08.40.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
+
 ## Madres migrantes: triple vulnerabilidad y derecho a una vida digna
 
 En Barcelona, un grupo de madres migrantes se reunió en 2025 para transformar sus vivencias en acción política. Con el apoyo de Platoniq y mediante el **Teatro Legislativo**, pusieron en escena momentos que cargaban cada día: la puerta cerrada de una agencia inmobiliaria al ver un hijab, la humillación en una entrevista por ser madre sola, la frialdad de un centro de salud que cuestiona su derecho a ser atendida. Cada escena fue un espejo de la exclusión, pero también un punto de partida.
