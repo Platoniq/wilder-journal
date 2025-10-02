@@ -103,7 +103,7 @@ De ese proceso nacieron tres caminos claros: **vivienda digna**, con acceso real
 
 Más allá de las medidas, el taller permitió aprender que **las madres migrantes no son receptoras pasivas de ayuda, son constructoras de ciudad y ciudadanía**. Reconocer sus derechos no es un gesto de compasión, sino una condición indispensable para garantizar el derecho a la ciudad y construir comunidades más justas y cohesionadas.
 
-{% file { "title": "Madres migrantes: triple vulnerabilidad y derecho a una vida digna", "info": "Policy brief", "file": "/media/pb-triple-vulnerabilidad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-12.32.55.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
+{% file { "title": "Madres migrantes: triple vulnerabilidad y derecho a una vida digna", "info": "Policy brief", "file": "/media/pb-triple-vulnerabilidad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-12.32.55.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
 ## La participación juvenil como infraestructura clave ante el malestar ecosocial
 
@@ -115,4 +115,4 @@ Tras esa fase expresiva, llegó el turno del laboratorio político: Platoniq sis
 
 Más allá del repertorio de medidas, el ejercicio demuestra el espíritu de la Escuela: **dar protagonismo a quienes viven el problema** y acompañar su traducción en políticas con legitimidad social. Platoniq actúa como **arquitectura de proceso**: convoca, facilita y asume la validación colectiva de las propuestas y orienta el trabajo hacia **resiliencia democrática** con enfoque estructural, comunitario e interseccional; una invitación clara a las instituciones para pasar del diagnóstico a la acción junto a la juventud.
 
-*Un proyecto realizado gracias al apoyo de **Open Society Foundations***
+\*Un proyecto realizado gracias al apoyo de **Open Society Foundations***
