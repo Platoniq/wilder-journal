@@ -31,8 +31,6 @@ call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
 ---
-La Escuela de Creatividad y Democracia como espacio de experimentación e incidencia
-
 La Escuela de Creatividad y Democracia nace como **laboratorio de experimentación democrática** ante un dato alarmante: el 87% de los jóvenes no se siente escuchado por los políticos, aunque el 92% se preocupa por los problemas sociales. 
 
 En un clima de desafección, polarización y desinformación, la Escuela busca convertir esa contradicción en energía cívica reconociendo que la juventud ya participa en política, aunque no sea de forma ortodoxa: peticiones de firmas, consumo consciente, graffiti, reivindicaciones en redes sociales, flash mobs, protestas. Para ello les ofrece un espacio donde **canalizar la creatividad hacia una incidencia real** en las administraciones. 
@@ -47,7 +45,7 @@ En resumen, se trata de un conjunto de saberes y experiencias que configuran una
 
 Tras una primera edición, se recopilan los cinco policy briefs que se han elaborado durante los 3 meses que ha durado la formación y que representan la síntesis perfecta entre capacitación e incidencia que busca la Escuela.
 
-# Usos del tiempo y su relación con la participación política: propuesta de redistribución
+### Usos del tiempo y su relación con la participación política: propuesta de redistribución
 
 tiempo profundo
 
@@ -63,7 +61,7 @@ El resultado provisional es que el tiempo se convierte en un cuello de botella d
 
 El aprendizaje central del experimento fue sin duda que **sin justicia temporal no hay calidad democrática**. La ciudadanía **quiere** participar y lo demuestra apropiándose de formatos digitales y de proximidad, pero sobre una base frágil marcada por menos tiempo libre que la media europea y por una carga de cuidados desigual. Cuando rediseñamos los procesos para que **encajen en la agenda real de la vida**, la participación deja de ser un lujo y se convierte en **derecho practicable**.
 
-# Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental
+### Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental
 
 brief
 
@@ -81,7 +79,7 @@ Desde la Fundación Platoniq, se acompañó a los jóvenes para que evaluaran su
 
 En conclusión, la salud mental juvenil no puede abordarse sin **reconocer la pluralidad de identidades y opresiones** que atraviesan sus vidas. Las recomendaciones elaboradas en Manchester y Barcelona muestran que cuando los jóvenes son situados en primera línea, no solo emergen propuestas concretas para mejorar servicios y accesos, sino también nuevas formas de comprender la democracia y el cuidado en clave colectiva.
 
-# Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes
+### Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes
 
 derecho a la ciudad
 
@@ -95,9 +93,9 @@ Tras la representación, llegó el turno del **laboratorio político**. Los part
 
 Este ejercicio no solo generó recomendaciones concretas, sino que demostró el espíritu de la Escuela: **dar voz y protagonismo a los directamente afectados**, para que sean ellos quienes sienten las bases del debate democrático. 
 
-# Madres migrantes: triple vulnerabilidad y derecho a una vida digna
+### Madres migrantes: triple vulnerabilidad y derecho a una vida digna
 
-brief
+{% file { "title": "Madres migrantes: triple vulnerabilidad y derecho a una vida digna", "info": "Policy brief", "file": "/media/pb-triple-vulnerabilidad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-12.28.31.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
 
 [brief Madres migrantes](https://docs.google.com/document/d/1Rm5hbT7hVDxIOjzmnK7-RNVrHv94Q6s80c0-9lSkpgM/edit?tab=t.0)
 
@@ -109,7 +107,7 @@ De ese proceso nacieron tres caminos claros: **vivienda digna**, con acceso real
 
 Más allá de las medidas, el taller permitió aprender que **las madres migrantes no son receptoras pasivas de ayuda, son constructoras de ciudad y ciudadanía**. Reconocer sus derechos no es un gesto de compasión, sino una condición indispensable para garantizar el derecho a la ciudad y construir comunidades más justas y cohesionadas.
 
-# La participación juvenil como infraestructura clave ante el malestar ecosocial
+### La participación juvenil como infraestructura clave ante el malestar ecosocial
 
 En una jornada de trabajo —el viernes **11 de julio de 2025**— se abrió un espacio seguro y participativo centrado en voces jóvenes para **expresarse, proponer y reimaginar la democracia** desde sus vivencias, con un podcast en mesa redonda sobre ecoansiedad, salud mental y desafección juvenil (conducido por Alejandra Gallardo junto a Sara S. Ribés y Carla Riera) como detonante del proceso. El objetivo: traducir experiencias cotidianas en materia prima para decisiones públicas ante el malestar ecosocial.
 
