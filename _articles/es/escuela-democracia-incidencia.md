@@ -107,6 +107,6 @@ Tras esa fase expresiva, llegó el turno del laboratorio político: Platoniq sis
 
 Más allá del repertorio de medidas, el ejercicio demuestra el espíritu de la Escuela: **dar protagonismo a quienes viven el problema** y acompañar su traducción en políticas con legitimidad social. Platoniq actúa como **arquitectura de proceso**: convoca, facilita y asume la validación colectiva de las propuestas y orienta el trabajo hacia **resiliencia democrática** con enfoque estructural, comunitario e interseccional; una invitación clara a las instituciones para pasar del diagnóstico a la acción junto a la juventud.
 
-
+{% file { "title": "La participación juvenil como infraestructura clave ante el malestar ecosocial", "info": "Policy Brief", "file": "/media/pb-crisis-ecosocial.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.09.53.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
 \*Un proyecto realizado gracias al apoyo de **Open Society Foundations***
