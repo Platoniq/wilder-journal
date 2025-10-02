@@ -10,7 +10,7 @@ uid: escuela-democracia-incidencia
 interviewee: null
 cover:
   path: /media/articles/heroes/democraticfunding.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/democraticfunding.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - palabra-accion-colaboracion
