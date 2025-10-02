@@ -53,7 +53,7 @@ Tras una primera edición, se recopilan los **cinco policy briefs** que se han e
 
 La primera fase fue **formular la hipótesis y observar**. Abrimos una encuesta exploratoria en OpenSpaces (Decidim) entre marzo y junio de 2024: 352 respuestas, 323 válidas. Preguntamos por el uso del tiempo (trabajo remunerado, cuidados no remunerados, desplazamientos), prácticas de participación, y barreras/facilitadores (conciliación, formatos asincrónicos, modalidades digitales) y lo complementamos con **12 entrevistas** a especialistas en participación y género para interpretar patrones y puntos ciegos. Por último, triangulamos con **HETUS**, la gran encuesta europea de usos del tiempo, para situar lo local en un marco más amplio.
 
-{% gallery { "simple": true, "images": [{"path":"/media/20230610_deep_time.jpg","alt":"El tiempo aprieta","caption":"El tiempo aprieta","credits":"Esepe (2023)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/20230610_deep_time.jpg","alt":"El tiempo aprieta","caption":"El tiempo aprieta","credits":"Esepe (2023)"}] } %}
 
 En la segunda fase abordamos la investigación como si se tratara de un experimento, registrando las “variables” que condicionan la participación. Lo que emergió fue un retrato claro y persistente: muchas personas dedican entre tres y seis horas diarias a los cuidados no remunerados, y ese peso recae de forma desproporcionada sobre las mujeres. Cuando se suman cuidados y empleo, ellas acumulan jornadas de entre siete y siete horas y media, mientras que los hombres se sitúan alrededor de seis o seis horas y media. El descanso también se ve erosionado: abundan quienes apenas logran dormir entre cinco y siete horas, muy por debajo de lo recomendable, especialmente en las etapas de crianza. Y cuando miramos la la participación esta aparece como residual: apenas entre siete y diez minutos diarios se dedican a la vida asociativa, al voluntariado o a la política.
 
@@ -69,7 +69,7 @@ Este documento reúne algunas de las **recomendaciones sobre salud mental inters
 
 Entre 2021 y 2024, jóvenes de Manchester y Barcelona participaron en procesos de **investigación participativa y democracia creativa** sobre salud mental. Mediante el **Teatro Legislativo**, la participación digital y asambleas presenciales, representaron sus experiencias para visibilizar las opresiones interseccionales que enfrentan y transformarlas en propuestas políticas.
 
-{% gallery { "simple": true, "images": [{"path":"/media/p1075237-mejorado-nr.jpg","alt":"Presentación de las conclusiones a la Agencia Catalana de Juventut","caption":"Presentación de las conclusiones a la Agencia Catalana de Juventut","credits":"Platoniq (2025)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/p1075237-mejorado-nr.jpg","alt":"Presentación de las conclusiones a la Agencia Catalana de Juventut","caption":"Presentación de las conclusiones a la Agencia Catalana de Juventut","credits":"Platoniq (2025)"}] } %}
 
 Estas dinámicas, combinadas con procesos en línea de mapeo colectivo, permitieron a los jóvenes **co-crear recomendaciones** dirigidas a instituciones de salud, escuelas y gobiernos locales. Más allá del contenido de las propuestas, la clave fue el **rol activo de los jóvenes**, que no fueron objeto de estudio, sino protagonistas en la definición de políticas que les afectan.
 
@@ -85,7 +85,7 @@ El **Taller Derecho a la Ciudad** marcó la culminación del itinerario formativ
 
 La jornada comenzó con un **taller de mapeo** en el que se identificaron ámbitos de opresión y fricciones de la vida cotidiana. De esas experiencias personales y colectivas emergieron escenas que, convertidas en guiones teatrales, fueron encarnadas con creatividad: cambios de ropa, uso de mobiliario improvisado y gestos cotidianos que hicieron más tangible la dureza de ciertos trámites administrativos y situaciones de exclusión. El ejercicio de guionización y puesta en escena permitió transformar vivencias de opresión en relatos empáticos y compartidos.
 
-{% gallery { "simple": true, "images": [{"path":"/media/dsc00111.jpg","alt":"Votación sobre propuestas políticas","caption":"Votación sobre propuestas políticas","credits":"Platoniq (2025)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/dsc00111.jpg","alt":"Votación sobre propuestas políticas","caption":"Votación sobre propuestas políticas","credits":"Platoniq (2025)"}] } %}
 
 Tras la representación, llegó el turno del **laboratorio político**. Los participantes reflexionaron sobre qué transformaciones harían falta para convertir esas escenas de opresión en escenarios de oportunidad. De ese proceso surgieron **dos propuestas de políticas públicas**. La primera, centrada en **transiciones justas hacia la ciudadanía para jóvenes migrantes en situación de vulnerabilidad**, aborda la fragmentación de circuitos formativos y residenciales que enfrentan quienes carecen de papeles, redes familiares o un hogar. La segunda, enfocada en el **itinerario administrativo digital con acompañamiento humano**, denuncia la excesiva complejidad burocrática, la duplicación de trámites y la falta de coordinación entre oficinas públicas, que terminan dificultando el acceso a derechos básicos.
 
@@ -99,7 +99,7 @@ En Barcelona, un grupo de madres migrantes se reunió en 2025 para transformar s
 
 El público, convertido en **espect-actor**, se levantó para cambiar la historia: exigir leyes antidiscriminación en la vivienda, sanciones contra abusos laborales o protocolos de atención inclusiva en la sanidad. Así, la indignación se convirtió en propuestas concretas.
 
-{% gallery { "simple": true, "images": [{"path":"/media/p1076729.jpg","alt":"Participantes después del taller de Teatro Legislativo","caption":"Participantes después del taller de Teatro Legislativo","credits":"Platoniq (2025)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/p1076729.jpg","alt":"Participantes después del taller de Teatro Legislativo","caption":"Participantes después del taller de Teatro Legislativo","credits":"Platoniq (2025)"}] } %}
 
 De ese proceso nacieron tres caminos claros: **vivienda digna**, con acceso real para familias con arraigo aunque sin papeles; **empleo justo**, con regularización y protección frente a la explotación; y **servicios sociales y salud sin discriminación**, con mediadores comunitarios y formación en competencia cultural.
 
