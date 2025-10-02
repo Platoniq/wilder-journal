@@ -71,7 +71,9 @@ Desde la Fundación Platoniq, se acompañó a los jóvenes para que evaluaran su
 
 En conclusión, la salud mental juvenil no puede abordarse sin **reconocer la pluralidad de identidades y opresiones** que atraviesan sus vidas. Las recomendaciones elaboradas en Manchester y Barcelona muestran que cuando los jóvenes son situados en primera línea, no solo emergen propuestas concretas para mejorar servicios y accesos, sino también nuevas formas de comprender la democracia y el cuidado en clave colectiva.
 
-## Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes[](https://docs.google.com/document/d/1nZtEdo5qyf3SPaTbheu6OsznFEMcwQ1-cmgDNq71XuA/edit?tab=t.0)
+{% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
+
+## Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes
 
 El **Taller Derecho a la Ciudad** marcó la culminación del itinerario formativo de la primera edición de la Escuela de Creatividad y Democracia. El 10 de julio de 2025, quince jóvenes de entre 18 y 30 años de Barcelona, migrantes acompañados por la Fundació Barcelonactua, activistas en defensa de los derechos de la población migrante y una representante de la Generalitat, participaron en un **ejercicio de Teatro Legislativo** facilitado por la propia cohorte de la Escuela. Fue un espacio seguro y participativo donde, a través de la teatralización, la investigación colectiva y herramientas digitales, se repensó el derecho a la ciudad desde la diversidad de clase, etnia y género.
 
