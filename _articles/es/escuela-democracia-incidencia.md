@@ -43,15 +43,11 @@ Articulando un podcast propio y una plataforma digital para simulaciones e inici
 
 En resumen, se trata de un conjunto de saberes y experiencias que configuran una comunidad en movimiento: facilitadores capaces de despolarizar y crear espacios seguros, desarrolladores de procesos digitales que armonizan miles de opiniones en recomendaciones viables, investigadores creativos que enlazan la academia con el periodismo de datos, e impulsoras de incidencia que convierten las conclusiones en campañas con verdadero impacto.
 
-Tras una primera edición, se recopilan los cinco policy briefs que se han elaborado durante los 3 meses que ha durado la formación y que representan la síntesis perfecta entre capacitación e incidencia que busca la Escuela.
+Tras una primera edición, se recopilan los **cinco policy briefs** que se han elaborado durante los 3 meses que ha durado la formación y que representan la síntesis perfecta entre capacitación e incidencia que busca la Escuela.
 
 ## Usos del tiempo y su relación con la participación política: propuesta de redistribución
 
-tiempo profundo
-
-[brief tiempo](https://docs.google.com/document/d/1VE98Xt0eFgWGBnZljcd78LC9Q0elqZpHROFgXYEDVZU/edit?tab=t.0#heading=h.huh2y9nwj8ke)
-
-Si el tiempo está desigualmente distribuido, la democracia también lo está. Con esa premisa, diseñamos un **experimento de democracia participativa** para comprobar hasta qué punto la “pobreza de tiempo” empuja sobre todo a quienes cuidan y a quienes encadenan jornadas laborales sin parar fuera de los espacios donde se decide lo común.
+**Si el tiempo está desigualmente distribuido, la democracia también lo está.** Con esa premisa, diseñamos un **experimento de democracia participativa** para comprobar hasta qué punto la “pobreza de tiempo” empuja sobre todo a quienes cuidan y a quienes encadenan jornadas laborales sin parar fuera de los espacios donde se decide lo común.
 
 La primera fase fue **formular la hipótesis y observar**. Abrimos una encuesta exploratoria en OpenSpaces (Decidim) entre marzo y junio de 2024: 352 respuestas, 323 válidas. Preguntamos por el uso del tiempo (trabajo remunerado, cuidados no remunerados, desplazamientos), prácticas de participación, y barreras/facilitadores (conciliación, formatos asincrónicos, modalidades digitales) y lo complementamos con **12 entrevistas** a especialistas en participación y género para interpretar patrones y puntos ciegos. Por último, triangulamos con **HETUS**, la gran encuesta europea de usos del tiempo, para situar lo local en un marco más amplio.
 
@@ -61,13 +57,9 @@ El resultado provisional es que el tiempo se convierte en un cuello de botella d
 
 El aprendizaje central del experimento fue sin duda que **sin justicia temporal no hay calidad democrática**. La ciudadanía **quiere** participar y lo demuestra apropiándose de formatos digitales y de proximidad, pero sobre una base frágil marcada por menos tiempo libre que la media europea y por una carga de cuidados desigual. Cuando rediseñamos los procesos para que **encajen en la agenda real de la vida**, la participación deja de ser un lujo y se convierte en **derecho practicable**.
 
-## Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental
+{% file { "title": "Usos del tiempo y su relación con la participación política: propuesta de redistribución", "info": "Policy Brief", "file": "/media/pb-tiempo-profundo.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.05.29.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-brief
-
-[Policy brief Mindset](https://docs.google.com/document/d/1hEyakb8GR-jhm3HOjgSMkC2LEUSyA5hyRo8nkA2iONI/edit?tab=t.0)
-
-[MR Replica BCN](https://drive.google.com/drive/u/0/folders/1nfGjNDRNo1VFO6frUQ-Pc6YPrcXLRGLi)
+## Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental[](https://drive.google.com/drive/u/0/folders/1nfGjNDRNo1VFO6frUQ-Pc6YPrcXLRGLi)
 
 Este documento reúne algunas de las **recomendaciones sobre salud mental interseccional elaboradas por jóvenes de 16 a 25 años** a través de tres procesos participativos: *Mindset Revolution* en Manchester, y *Foro Joven* y *CoActuem per la Salut Mental* en Barcelona.
 
@@ -79,11 +71,7 @@ Desde la Fundación Platoniq, se acompañó a los jóvenes para que evaluaran su
 
 En conclusión, la salud mental juvenil no puede abordarse sin **reconocer la pluralidad de identidades y opresiones** que atraviesan sus vidas. Las recomendaciones elaboradas en Manchester y Barcelona muestran que cuando los jóvenes son situados en primera línea, no solo emergen propuestas concretas para mejorar servicios y accesos, sino también nuevas formas de comprender la democracia y el cuidado en clave colectiva.
 
-## Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes
-
-derecho a la ciudad
-
-[Brief LAB](https://docs.google.com/document/d/1nZtEdo5qyf3SPaTbheu6OsznFEMcwQ1-cmgDNq71XuA/edit?tab=t.0)
+## Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes[](https://docs.google.com/document/d/1nZtEdo5qyf3SPaTbheu6OsznFEMcwQ1-cmgDNq71XuA/edit?tab=t.0)
 
 El **Taller Derecho a la Ciudad** marcó la culminación del itinerario formativo de la primera edición de la Escuela de Creatividad y Democracia. El 10 de julio de 2025, quince jóvenes de entre 18 y 30 años de Barcelona, migrantes acompañados por la Fundació Barcelonactua, activistas en defensa de los derechos de la población migrante y una representante de la Generalitat, participaron en un **ejercicio de Teatro Legislativo** facilitado por la propia cohorte de la Escuela. Fue un espacio seguro y participativo donde, a través de la teatralización, la investigación colectiva y herramientas digitales, se repensó el derecho a la ciudad desde la diversidad de clase, etnia y género.
 
@@ -114,5 +102,7 @@ La jornada comenzó con la **grabación del podcast**, donde se conectaron crisi
 Tras esa fase expresiva, llegó el turno del laboratorio político: Platoniq sistematizó y organizó las aportaciones en ejes estratégicos de actuación. El brief desarrolla tres grandes líneas. La primera consiste en incorporar la ecoansiedad juvenil como eje de las políticas de salud mental y acción climática, con reconocimiento institucional, protocolos de atención y foros climáticos juveniles. La segunda propone hacer de la deliberación una verdadera infraestructura educativa en Secundaria, Bachillerato y Formación Profesional, con financiación para asambleas y mecanismos que permitan integrar sus propuestas en la toma de decisiones. La tercera plantea integrar afectos y creatividad en las prácticas deliberativas a través de teatro legislativo, fanzines o lenguajes artísticos, para ampliar la inclusión, reforzar la legitimidad y alimentar la esperanza colectiva.
 
 Más allá del repertorio de medidas, el ejercicio demuestra el espíritu de la Escuela: **dar protagonismo a quienes viven el problema** y acompañar su traducción en políticas con legitimidad social. Platoniq actúa como **arquitectura de proceso**: convoca, facilita y asume la validación colectiva de las propuestas y orienta el trabajo hacia **resiliencia democrática** con enfoque estructural, comunitario e interseccional; una invitación clara a las instituciones para pasar del diagnóstico a la acción junto a la juventud.
+
+
 
 \*Un proyecto realizado gracias al apoyo de **Open Society Foundations***
