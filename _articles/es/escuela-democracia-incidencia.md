@@ -15,7 +15,7 @@ author: Fundación Platoniq
 author_uids:
   - platoniq
 cover:
-  path: /media/articles/heroes/democraticfunding.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-10-02-a-las-16.58.47.png
   mobile: /media/articles/mobile/democraticfunding.png
   thumbnail: /media/articles/thumbnails/democraticfunding.png
   alt: ecd incidencia
