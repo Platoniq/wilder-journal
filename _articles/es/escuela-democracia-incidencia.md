@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2025-07-28T11:41:00.000+02:00
 date-updated: 2025-07-28T11:41:00.000+02:00
-article-order: 1
+article-order: 10
 uid: escuela-democracia-incidencia
 title: La Escuela de Creatividad y Democracia como espacio de experimentación e
   incidencia
