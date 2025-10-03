@@ -17,7 +17,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/ecd-incidencia.png
   mobile: /media/articles/mobile/ecd-incidencia.png
-  thumbnail: /media/articles/thumbnails/democraticfunding.png
+  thumbnail: /media/articles/thumbnails/ecd-incidencia.png
   alt: ecd incidencia
   credits: ecd incidencia
   caption: ecd incidencia

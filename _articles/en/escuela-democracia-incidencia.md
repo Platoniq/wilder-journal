@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/ecd-incidencia.png
   mobile: /media/articles/mobile/ecd-incidencia.png
-  thumbnail: /media/articles/thumbnails/democraticfunding.png
+  thumbnail: /media/articles/thumbnails/ecd-incidencia.png
 related_article_uids:
   - palabra-accion-colaboracion
   - derecho-ciudad-migrante
