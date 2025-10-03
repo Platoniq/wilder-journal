@@ -7,7 +7,7 @@ date: 2024-11-14T12:03:00.000Z
 date-updated: 2024-11-14T12:03:00.000Z
 article-order: 11
 uid: Ernesto-Ganuza
-title: La trampas cognitivas en la deliberación ciudadana
+title: Las trampas cognitivas en la deliberación ciudadana
 description: Entrevista con Ernesto Ganuza
 author: Cristian Palazzi
 author_uids:
