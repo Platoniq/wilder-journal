@@ -34,9 +34,15 @@ image:
 ---
 Garokoitz es técnico de participación del Ayuntamiento de Tolosa, aunque su título oficial dentro del servicio municipal es el de **Comunidad y Gobernanza**. Como nos adelanta: "Nos encargamos de cuestiones más amplias que la participación, pero dentro de ellas está este campo central de nuestro trabajo: el generar procesos de participación ciudadana que mejoren la vida de la gente."
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ig1dGm5lriI?si=YJxj8tZCsw9_l4MN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **¿Por qué un ayuntamiento tiene que impulsar la democracia deliberativa en su territorio?**
 
-**Garikoitz:** Yo creo que lo que realmente ocurre es que tenemos problemas sociales, políticos y económicos que están aflorando tendencias bastante peligrosas para la democracia. Ese es mi discurso: no es solo la complejidad de la sociedad o la desafección de la ciudadanía respecto a la política, como se suele decir. El trasfondo es mayor. Estamos obligados a conectar con la sociedad porque lo que ha demostrado el tiempo es que, para ciertas políticas, la ciudadanía ya no se conforma con la democracia representativa. Es más: considera que los representantes políticos no deben gestionar libremente ciertos temas sin contar con ella, y por eso reclama tener su propio espacio de poder para decidir sobre políticas públicas que afectan directamente a sus derechos y necesidades básicas.
+**Garikoitz:** Yo creo que lo que realmente ocurre es que tenemos problemas sociales, políticos y económicos que están aflorando tendencias bastante peligrosas para la democracia. Ese es mi discurso: no es solo la complejidad de la sociedad o la desafección de la ciudadanía respecto a la política, como se suele decir. El trasfondo es mayor. 
+
+{% quote %}Estamos obligados a conectar con la sociedad porque lo que ha demostrado el tiempo es que, para ciertas políticas, la ciudadanía ya no se conforma con la democracia representativa{% endquote %}
+
+Estamos obligados a conectar con la sociedad porque lo que ha demostrado el tiempo es que, para ciertas políticas, la ciudadanía ya no se conforma con la democracia representativa. Es más: considera que los representantes políticos no deben gestionar libremente ciertos temas sin contar con ella, y por eso reclama tener su propio espacio de poder para decidir sobre políticas públicas que afectan directamente a sus derechos y necesidades básicas.
 
 ## **Uno de los procesos que habéis puesto en marcha desde el Ayuntamiento es una asamblea ciudadana vinculada a las políticas de salud mental. ¿Cómo llegáis a este tema y por qué ese, y no otro?**
 
@@ -50,7 +56,11 @@ Está bien que la experiencia se construyera desde el consenso y también que al
 
 ## **En una cuestión como la salud mental, ¿cómo os asegurasteis de que estuviera representado el colectivo más directamente afectado?**
 
-**Garikoitz:** Para eso se creó, entre otras cosas, un comité de contenido encargado de garantizar que en la fase de información y formación estuvieran presentes las diferentes voces. Y creo que se acertó. No solo se escuchó a voces académicas e institucionales, como los servicios de salud o distintos profesionales de la sanidad pública, sino que se dio espacio también a colectivos sociales que ya estaban trabajando en el terreno. Eso ayudó a que la ciudadanía sintiera más cercanos los discursos, los lenguajes y las experiencias. El riesgo siempre existe: que desde el movimiento social haya miedo a que las recomendaciones de una asamblea suplanten o sustituyan el trabajo que ellos ya hacen. Pero lo importante fue dar visibilidad a lo que existía y hacerlo desde un lenguaje cotidiano, cercano, a través de las voces de ciudadanos y ciudadanas implicados en proyectos comunitarios.
+**Garikoitz:** Para eso se creó, entre otras cosas, un comité de contenido encargado de garantizar que en la fase de información y formación estuvieran presentes las diferentes voces. Y creo que se acertó. No solo se escuchó a voces académicas e institucionales, como los servicios de salud o distintos profesionales de la sanidad pública, sino que se dio espacio también a colectivos sociales que ya estaban trabajando en el terreno. Eso ayudó a que la ciudadanía sintiera más cercanos los discursos, los lenguajes y las experiencias. 
+
+{% quote %}El riesgo siempre existe: que desde el movimiento social haya miedo a que las recomendaciones de una asamblea suplanten o sustituyan el trabajo que ellos ya hacen{% endquote %}
+
+El riesgo siempre existe: que desde el movimiento social haya miedo a que las recomendaciones de una asamblea suplanten o sustituyan el trabajo que ellos ya hacen. Pero lo importante fue dar visibilidad a lo que existía y hacerlo desde un lenguaje cotidiano, cercano, a través de las voces de ciudadanos y ciudadanas implicados en proyectos comunitarios.
 
 ## **¿Y cómo manejásteis la diversidad cognitiva que plantea hablar de salud mental en una asamblea ciudadana?**
 
@@ -79,3 +89,7 @@ Está bien que la experiencia se construyera desde el consenso y también que al
 ## **Para terminar: cuando oyes “participación ciudadana” o “educación deliberativa”, ¿qué sientes?**
 
 **Garikoitz:** Para mí la palabra clave es **poder**. Se usa poco, pero es lo que realmente está en juego. Se trata del ejercicio del poder público, de entender que la ciudadanía puede y debe usarlo, más allá de votar representantes. Aunque no sepamos con precisión qué es la democracia representativa o cómo funciona, tenemos derecho a tener voz y voto en las políticas que nos afectan en lo cotidiano. Se trata de ser conscientes y también participativos, de no renunciar a ese poder.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-10-03-a-las-13.23.45.png","alt":"Informe de recomedaciones","caption":"Informe de recomendaciones","credits":"Informe de recomendaciones"}] } %}
+
+Puedes consultar las recomendaciones surgidas de la asamblea, [aquí](https://partaidetza.tolosa.eus/es/detalle/-/visualizarProcesos/detail/viewResults/123)
