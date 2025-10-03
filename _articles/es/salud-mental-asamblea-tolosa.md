@@ -33,7 +33,7 @@ call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
 ---
-Garokoitz es técnico de participación del Ayuntamiento de Tolosa, aunque su título oficial dentro del servicio municipal es el de **Comunidad y Gobernanza**. Como nos adelanta: "Nos encargamos de cuestiones más amplias que la participación, pero dentro de ellas está este campo central de nuestro trabajo: el generar procesos de participación ciudadana que mejoren la vida de la gente."
+Garokoitz es técnico de participación del Ayuntamiento de Tolosa, aunque su título oficial dentro del servicio municipal es el de **Comunidad y Gobernanza**. Acompañó a la Asamblea Ciudadana de tolosa en su realización en 2021-2023. Ya nos lo adelanta: "Nos encargamos de cuestiones más amplias que la participación, pero dentro de ellas está este campo central de nuestro trabajo: el generar procesos de participación ciudadana que mejoren la vida de la gente."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ig1dGm5lriI?si=YJxj8tZCsw9_l4MN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
