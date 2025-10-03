@@ -16,7 +16,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/ecd-incidencia.png
-  mobile: /media/articles/mobile/democraticfunding.png
+  mobile: /media/articles/mobile/ecd-incidencia.png
   thumbnail: /media/articles/thumbnails/democraticfunding.png
   alt: ecd incidencia
   credits: ecd incidencia
