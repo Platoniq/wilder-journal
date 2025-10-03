@@ -10,7 +10,7 @@ uid: salud-mental-asamblea-tolosa
 interviewee: Garikoitz Lekuona
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-03-a-las-12.47.19.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-10-03-a-las-12.47.19.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - children-participation
