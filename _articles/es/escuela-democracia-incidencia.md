@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/democraticfunding.png
+  path: /media/articles/social/ecd-incidencia.png
 ---
 La Escuela de Creatividad y Democracia nace como **laboratorio de experimentación democrática** ante un dato alarmante: el 87% de los jóvenes no se siente escuchado por los políticos, aunque el 92% se preocupa por los problemas sociales. 
 

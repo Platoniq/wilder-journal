@@ -22,5 +22,5 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/democraticfunding.png
+  path: /media/articles/social/ecd-incidencia.png
 ---
