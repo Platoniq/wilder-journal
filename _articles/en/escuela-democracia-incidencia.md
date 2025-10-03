@@ -47,7 +47,7 @@ In summary, it is a body of knowledge and experiences that shape a community in 
 
 After the first edition, five **policy briefs** have been compiled, produced over the three months of training, representing the perfect synthesis between capacity building and advocacy that the School aims for.
 
-### **Uses of Time and Their Relation to Political Participation: A Redistribution Proposal**
+## **Uses of Time and Their Relation to Political Participation: A Redistribution Proposal**
 
 If time is unequally distributed, so is democracy. With that premise, we designed a participatory democracy experiment to examine to what extent “time poverty” especially affects those who provide care and those who work endless hours outside the spaces where common decisions are made.
 
@@ -63,7 +63,7 @@ The central learning from the experiment was undoubtedly that without temporal j
 
 {% file { "title": "Uses of time and their relationship to political participation: a proposal for redistribution", "info": "Policy Brief", "file": "/media/pb-tiempo-profundo.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.05.29.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
-### **Listening to Young People for Better Intersectional Mental Health Support**
+## **Listening to Young People for Better Intersectional Mental Health Support**
 
 This document gathers some of the recommendations on intersectional mental health developed by young people aged 16 to 25 through three participatory processes: *Mindset Revolution* in Manchester, and *Foro Joven* and *CoActuem per la Salut Mental* in Barcelona.
 
@@ -79,7 +79,7 @@ In conclusion, youth mental health cannot be addressed without recognizing the p
 
 {% file { "title": "Listening to young people's voices for better intersectional support in mental health", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
-### **Claiming Recognition: The Right to the City from Migrant Youth**
+## **Claiming Recognition: The Right to the City from Migrant Youth**
 
 The *Right to the City Workshop* marked the culmination of the training itinerary of the first edition of the School of Creativity and Democracy. On July 10, 2025, fifteen young people aged 18 to 30 from Barcelona—migrants accompanied by Fundació Barcelonactua, activists defending migrants’ rights, and a representative of the Generalitat—participated in a Legislative Theater exercise facilitated by the School’s own cohort. It was a safe, participatory space where, through dramatization, collective research, and digital tools, the right to the city was rethought from the diversity of class, ethnicity, and gender.
 
@@ -93,7 +93,7 @@ This exercise not only generated concrete recommendations but also embodied the 
 
 {% file { "title": "Demanding recognition: the right to the city from migrant youth", "info": "Policy Brief", "file": "/media/pb-derecho-a-la-ciudad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.08.40.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
-### **Migrant Mothers: Triple Vulnerability and the Right to a Dignified Life**
+## **Migrant Mothers: Triple Vulnerability and the Right to a Dignified Life**
 
 In Barcelona, a group of migrant mothers gathered in 2025 to turn their experiences into political action. With the support of Platoniq and through Legislative Theater, they staged everyday moments they carried with them: the closed door of a rental agency upon seeing a hijab, the humiliation during a job interview for being a single mother, the coldness of a health center questioning their right to be treated. Each scene was a mirror of exclusion, but also a starting point.
 
@@ -107,7 +107,7 @@ Beyond the measures, the workshop revealed that migrant mothers are not passive 
 
 {% file { "title": "Migrant mothers: triple vulnerability and the right to a dignified life", "info": "Policy brief", "file": "/media/pb-triple-vulnerabilidad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-12.32.55.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
-### **Youth Participation as Key Infrastructure in the Face of Eco-Social Distress**
+## **Youth Participation as Key Infrastructure in the Face of Eco-Social Distress**
 
 In a working session on Friday, July 11, 2025, a safe, participatory space was opened for young voices to express themselves, propose, and reimagine democracy from their lived experiences, with a roundtable podcast on eco-anxiety, mental health, and youth disaffection (hosted by Alejandra Gallardo together with Sara S. Ribés and Carla Riera) as the starting point. The objective: to translate everyday experiences into raw material for public decision-making in the face of eco-social distress.
 
