@@ -17,7 +17,7 @@ interviewee: Garikoitz Lekuona
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-03-a-las-12.47.19.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-10-03-a-las-12.47.19.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-10-03-a-las-12.47.19.png
   alt: Garikoitz Lekuona
   credits: Garikoitz Lekuona
   caption: Garikoitz Lekuona
