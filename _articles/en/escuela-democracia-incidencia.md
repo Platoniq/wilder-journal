@@ -9,11 +9,13 @@ article-order: 10
 uid: escuela-democracia-incidencia
 interviewee: null
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2025-10-02-a-las-16.58.47.png
+  path: /media/articles/heroes/ecd-incidencia.png
   mobile: /media/articles/mobile/democraticfunding.png
   thumbnail: /media/articles/thumbnails/democraticfunding.png
 related_article_uids:
   - palabra-accion-colaboracion
+  - derecho-ciudad-migrante
+  - deliberative-assemblies
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
