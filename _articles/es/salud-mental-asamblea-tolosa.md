@@ -93,3 +93,7 @@ El riesgo siempre existe: que desde el movimiento social haya miedo a que las re
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-10-03-a-las-13.23.45.png","alt":"Informe de recomedaciones","caption":"Informe de recomendaciones","credits":"Informe de recomendaciones"}] } %}
 
 Puedes consultar las recomendaciones surgidas de la asamblea, [aquí](https://partaidetza.tolosa.eus/es/detalle/-/visualizarProcesos/detail/viewResults/123)
+
+__
+
+*La entrevista tuvo lugar en el **Foro sobre Deliberación, Creatividad y Democracia,** durante los días 15 y 18 de Octubre de 2024, gracias al apoyo de la Open Society Foundation y la Diputació de Barcelona.*
