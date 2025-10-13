@@ -29,19 +29,19 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
 ---
-A raíz de un proyecto llevado a cabo en 2021 sobre racismo inmobiliario en la localidad de Olot, hablamos con Quim Brugué, actualmente catedrático de ciencia política y de la administración en el Departamento de Ciencia Política y Derecho Público de la Universitat de Girona, quién entre 2003 y 2008 ejerció como director general de Participación Ciudadana el Gobierno de la Generalidad de Cataluña. 
+A raíz del proyecto sobre racismo inmobiliario en Olot llevado a cabo en 2021, hablamos con Quim Brugué, catedrático de ciencia política y de la administración en el Departamento de Ciencia Política y Derecho Público de la Universitat de Girona, quién entre 2003 y 2008 ejerció como director general de Participación Ciudadana el Gobierno de la Generalidad de Cataluña, para desgranar las **diferencias entre la participación ciudadana y la política institucional** y **qué futuro le espera** a la nueva ola deliberativa de la democracia. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8aYipmgwKS4?si=qyIXuSXiMyemk98M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Tal y como afirma el informe final presentado al Ayuntamiento de Olot, "la discriminación en el acceso a la vivienda implica una erosión en las condiciones de igualdad que experimentan algunas personas y colectivos. Esta erosión puede tomar múltiples formas y operar desde distintos ángulos. Así, puede ser una erosión de las condiciones de igualdad por excluir, restringir, preferir, distinguir o, en definitiva, situar en posición de desventaja a un determinado colectivo de personas". 
 
-Ante esta realidad, desde la administración se promovió un diálogo entre Stop Racismo, la Plataforma de Afectados para la Hipoteca, Cáritas Garrotxa, la Cooperativa Suara, la Cámara de la Propiedad Urbana, Agentes de la Propiedad, propietarios a título individual, la Universidad de Girona, la Oficina de Vivienda de Olot, Cruz Roja, asociaciones de vecinos, Mans Acció Solidària y el Consorcio de Acción Social de la Garrotxa.
+Ante esta realidad, desde la administración se promovió un diálogo entre muchos actores sociales que orbitan alrededor de la acogida, el acceso a la vivienda o la lucha antiracista: Stop Racismo, la Plataforma de Afectados para la Hipoteca, Cáritas Garrotxa, la Cooperativa Suara, la Cámara de la Propiedad Urbana, Agentes de la Propiedad, propietarios a título individual, la Universidad de Girona, la Oficina de Vivienda de Olot, Cruz Roja, asociaciones de vecinos, Mans Acció Solidària y el Consorcio de Acción Social de la Garrotxa, para explorar la realidad del acceso a la vivienda y las barreras que podían encontrar quienes no habían nacido en el territorio.
 
+{% quote { "author": "Jordi Güell, regidor de Vivienda de Olot" } %}"Está todo por demostrar. Hemos hecho un trabajo para evitar que deba denunciarse. Si tenemos que resolver las cosas a golpe de denuncia, mal. Pensamos que una buena estrategia era hablar de ello y abrir vías al diálogo y se garanticen los derechos vía el convencimiento, en vez de la sanción"{% endquote %}
 
+Finalmente, fueron 27 las propuestas que se llevaron a cabo, además de la creación de un grupo motor para darles seguimiento y control. Entre las medidas que destacaron fue la creación de la figura del "facilitador habitacional" que se encargaría de realizar tareas para facilitar la vivienda a personas recién llegadas o que tienen problemas de acceso a un piso, así como la promoción de las buenas prácticas de los APIS con un sello distintivo que sirva de inventivo. 
 
-crear la figura del "facilitador habitacional" que se encargaría de realizar tareas para facilitar la vivienda a personas recién llegadas o que tienen problemas de acceso a un piso.
-
-Su investigación se centra en la gestión pública, el gobierno local, la participación ciudadana y el análisis de políticas públicas. Ha publicado numerosos artículos y libros sobre estos temas y ha asesorado a varias administraciones en procesos de participación ciudadana. Es investigador en innovación democrática y modernización de las políticas públicas en el Grupo de Investigación en Ciencias Sociales Aplicadas de la Universidad de Girona.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8aYipmgwKS4?si=qyIXuSXiMyemk98M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+El papel de Quim Brugué en el proyecto fue el de mediar entre todas las partes y garantizar que todo el proceso se hiciera de forma discreta y ordenada. Una forma de hacer política, que conoce bien tras sus años en la administració y sobre la que le hemos querido hacer algunas preguntas.
 
 ### **¿Crees que la participación es hoy una condición necesaria para que las políticas sean legítimas y efectivas, o sigue siendo vista como un complemento opcional?**
 
