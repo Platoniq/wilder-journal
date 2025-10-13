@@ -7,11 +7,13 @@ date: 2025-05-13T11:05:00.000+02:00
 date-updated: 2025-05-13T11:05:00.000+02:00
 article-order: 14
 uid: Quim-Brugue-Participacio
-title: Quim Brugue
+title: La necesidad de una participación ciudadana entendida no como exigencia,
+  sino como diálogo.
 description: Quim Brugue
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
+interviewee: Quim Brugué
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
