@@ -10,7 +10,7 @@ uid: Quim-Brugue-Participacio
 interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
-  mobile: /media/articles/mobile/quim-brugue.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
   thumbnail: /media/articles/thumbnails/quim-brugue.png
 related_article_uids:
   - arantxa-mendiharat
