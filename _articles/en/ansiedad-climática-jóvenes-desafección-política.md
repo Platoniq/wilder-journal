@@ -7,6 +7,11 @@ date: 2025-07-21T10:56:00.000+02:00
 date-updated: 2025-07-21T10:56:00.000+02:00
 article-order: 30
 uid: palabra-accion-colaboracion
+title: "[ECD1_LAB] Climate anxiety, young people, and political disaffection:
+  the right to enjoyment as a way of building democracy"
+description: We increasingly hear young people talking about climate anxiety,
+  social unrest, and political disaffection. But we also hear about new ways of
+  organizing, caring for one another... and hope.
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
