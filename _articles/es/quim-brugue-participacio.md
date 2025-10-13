@@ -87,10 +87,10 @@ No soy muy optimista, pues avanza más como una estrategia de marketing o como u
 
 Además, en esta situación, hoy creo que debemos escalar el reto desde las metodologías participativas hacia la supervivencia de la propia democracia.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-10-13-a-las-15.35.01.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-10-13-a-las-15.35.01.png"}] } %}
 
 Puedes consultar **las conclusiones del proceso llevado a cabo en Olot**, [aquí.](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5)
 
-[___](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5)
+\_\_ \_\_
 
 [](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5)*La entrevista tuvo lugar en la Universidad de Girona, en septiembre de 2024, gracias al apoyo de la Open Society Foundation.*
