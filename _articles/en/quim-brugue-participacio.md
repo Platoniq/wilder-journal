@@ -80,8 +80,8 @@ Furthermore, in this situation, I believe that today we must escalate the challe
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-10-13-a-las-15.35.01.png"}] } %}
 
-Puedes consultar **las conclusiones del proceso llevado a cabo en Olot**, [aquí.](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5)
+*You can consult the conclusions of the process carried out in Olot [here.](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5)*
 
-\_\_ \_\_
+*\_\_ \_\_*
 
-[](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5)*La entrevista tuvo lugar en la Universidad de Girona, en septiembre de 2024, gracias al apoyo de la Open Society Foundation.*
+*The interview took place at the University of Girona in September 2024, thanks to the support of the Open Society Foundation.*
