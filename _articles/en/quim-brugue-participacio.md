@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: true
-date: 2025-10-13T11:05:00.000+02:00
-date-updated: 2025-10-13T11:05:00.000+02:00
+date: 2025-05-13T11:05:00.000+02:00
+date-updated: 2025-05-13T11:05:00.000+02:00
 article-order: 14
 uid: Quim-Brugue-Participacio
 interviewee: null
