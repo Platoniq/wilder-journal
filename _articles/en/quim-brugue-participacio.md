@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/quim-brugue.png
   mobile: /media/articles/mobile/quim-brugue.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/quim-brugue.png
 related_article_uids:
   - arantxa-mendiharat
 stickers:
