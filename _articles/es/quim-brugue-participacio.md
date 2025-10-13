@@ -89,7 +89,7 @@ Además, en esta situación, hoy creo que debemos escalar el reto desde las meto
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-10-13-a-las-15.35.01.png"}] } %}
 
-Puedes consultar las conclusiones del proceso llevado a cabo en Olot, [aquí.](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5)
+Puedes consultar **las conclusiones del proceso llevado a cabo en Olot**, [aquí.](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5)
 
 [___](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5)
 
