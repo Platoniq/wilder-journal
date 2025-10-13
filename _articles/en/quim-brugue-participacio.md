@@ -9,7 +9,7 @@ article-order: 14
 uid: Quim-Brugue-Participacio
 interviewee: null
 cover:
-  path: /media/articles/heroes/quim-brugue.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
   mobile: /media/articles/mobile/quim-brugue.png
   thumbnail: /media/articles/thumbnails/quim-brugue.png
 related_article_uids:

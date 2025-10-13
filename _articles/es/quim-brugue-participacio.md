@@ -13,7 +13,7 @@ author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
 cover:
-  path: /media/articles/heroes/quim-brugue.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
   mobile: /media/articles/mobile/quim-brugue.png
   thumbnail: /media/articles/thumbnails/quim-brugue.png
   alt: Quim Brugue
