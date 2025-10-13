@@ -79,7 +79,7 @@ De nuevo, ventajas e inconvenientes. La proximidad facilita la deliberación cal
 
 Creo que debe poder darse adecuadamente en ambos niveles de gobierno, aunque siempre desde una perspectiva muy artesanal. Esta es una obsesión personal, entender que cada caso requiere ser tratado desde su especificidad y con una importante madurez sobre lo qué estamos haciendo y porqué en cada caso.
 
-## ¿Cómo imaginas el futuro de la participación ciudadana en Catalunya?
+### **¿Cómo imaginas el futuro de la participación ciudadana en Catalunya?**
 
 No soy muy optimista, pues avanza más como una estrategia de marketing o como un simple efecto imitación. Pensaba que la experiencia de los años 80 y 90 nos ayudaría a madurar en términos de participación ciudadana, pero no acabo de verlo.
 
