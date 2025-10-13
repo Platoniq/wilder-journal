@@ -14,7 +14,7 @@ author_uids:
   - cristian-palazzi
 cover:
   path: /media/articles/heroes/quim-brugue.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/quim-brugue.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Quim Brugue
   credits: Quim Brugue
