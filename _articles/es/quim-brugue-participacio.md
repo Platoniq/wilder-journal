@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/quim-brugue.png
+  path: /media/articles/social/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
 ---
 Quim Brugué
 
