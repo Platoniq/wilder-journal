@@ -29,9 +29,17 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
 ---
-Quim Brugué
+A raíz de un proyecto llevado a cabo en 2021 sobre racismo inmobiliario en la localidad de Olot, hablamos con Quim Brugué, actualmente catedrático de ciencia política y de la administración en el Departamento de Ciencia Política y Derecho Público de la Universitat de Girona, quién entre 2003 y 2008 ejerció como director general de Participación Ciudadana el Gobierno de la Generalidad de Cataluña. 
 
-Olot
+Tal y como afirma el informe final presentado al Ayuntamiento de Olot, "la discriminación en el acceso a la vivienda implica una erosión en las condiciones de igualdad que experimentan algunas personas y colectivos. Esta erosión puede tomar múltiples formas y operar desde distintos ángulos. Así, puede ser una erosión de las condiciones de igualdad por excluir, restringir, preferir, distinguir o, en definitiva, situar en posición de desventaja a un determinado colectivo de personas". 
+
+Ante esta realidad, desde la administración se promovió un diálogo entre Stop Racismo, la Plataforma de Afectados para la Hipoteca, Cáritas Garrotxa, la Cooperativa Suara, la Cámara de la Propiedad Urbana, Agentes de la Propiedad, propietarios a título individual, la Universidad de Girona, la Oficina de Vivienda de Olot, Cruz Roja, asociaciones de vecinos, Mans Acció Solidària y el Consorcio de Acción Social de la Garrotxa.
+
+
+
+crear la figura del "facilitador habitacional" que se encargaría de realizar tareas para facilitar la vivienda a personas recién llegadas o que tienen problemas de acceso a un piso.
+
+Su investigación se centra en la gestión pública, el gobierno local, la participación ciudadana y el análisis de políticas públicas. Ha publicado numerosos artículos y libros sobre estos temas y ha asesorado a varias administraciones en procesos de participación ciudadana. Es investigador en innovación democrática y modernización de las políticas públicas en el Grupo de Investigación en Ciencias Sociales Aplicadas de la Universidad de Girona.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8aYipmgwKS4?si=qyIXuSXiMyemk98M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
