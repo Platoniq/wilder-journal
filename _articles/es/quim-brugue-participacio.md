@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: true
-date: 2025-05-13T11:05:00.000+02:00
-date-updated: 2025-05-13T11:05:00.000+02:00
+date: 2024-11-13T11:05:00.000+01:00
+date-updated: 2024-11-13T11:05:00.000+01:00
 article-order: 14
 uid: Quim-Brugue-Participacio
 title: La necesidad de una participación ciudadana entendida no como exigencia,
