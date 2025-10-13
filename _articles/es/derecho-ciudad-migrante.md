@@ -36,7 +36,7 @@ Como actividad final de la Escuela, el **[Lab de creación de políticas públic
 
 ## **Un itinerario formativo enfocado a la práctica**
 
-El 10 de julio de 2025, 15 jóvenes de entre 18 y 30 años de Barcelona participaron [](<>)el taller de Teatro Legislativo sobre el Derecho a la Ciudad facilitado por la cohorte de la primera edición de la **[Escuela de Creatividad y Democracia.](<>)**
+El 10 de julio de 2025, 15 jóvenes de entre 18 y 30 años de Barcelona participaron [](<>)el taller de Teatro Legislativo sobre el Derecho a la Ciudad facilitado por la cohorte de la primera edición de la **[Escuela de Creatividad y Democracia.](www.democraciacreativa.org/)**
 
 Jóvenes migrantes acompañados por la Fundació Barcelonactua, jóvenes activistas implicados en la lucha por los derechos de la población migrante en Barcelona y una representante de la Dirección General de Gobierno Abierto de la Generalitat de Catalunya, fueron facilitados por la cohorte que supo utilizar el teatro legislativo, la participación digital y métodos de investigación participativa para repensar el derecho a la ciudad y su intersección con las preocupaciones de la población migrante de la ciudad desde la perspectiva de los jóvenes, con diversidad de clase, etnia y género.
 
@@ -58,7 +58,7 @@ Una vez completado el proceso de teatralización, el equipo político se puso ma
 
 La primera serie de recomendaciones se enmarca dentro de las [Transiciones justas hacia la ciudadanía para jóvenes migrantes en situación de vulnerabilidad](https://openspaces.platoniq.net/processes/lab/f/518/proposals/1255?included_in=Z2lkOi8vZGVjaWRpbS1vcGVuaGVyaXRhZ2UvRGVjaWRpbTo6TWVldGluZ3M6Ok1lZXRpbmcvMjky) y responde a una problemática común entre “las personas migrantes sin papeles, cómo es que los jóvenes migrantes mayores de edad, especialmente aquellos en situación administrativa irregular, sin red familiar o en situación de calle, se enfrentan un sistema fragmentado, con circuitos formativos y residenciales que no conversan entre sí”.
 
-La segunda serie de recomendaciones responde a su vez al[ Itinerario administrativo digital y acompañamiento humano en el acceso a derechos](https://openspaces.platoniq.net/processes/lab/f/518/proposals/1254?included_in=Z2lkOi8vZGVjaWRpbS1vcGVuaGVyaXRhZ2UvRGVjaWRpbTo6TWVldGluZ3M6Ok1lZXRpbmcvMjky). Tanto los participantes en el co-diseño de las escenas como el grupo de trabajo de políticas, destacaron la necesidad de abordar que “las personas migrantes enfrentan una complejidad burocrática excesiva desde su llegada, marcada por una falta de coordinación entre oficinas públicas, duplicación de trámites, y un sistema digital que en lugar de facilitar, obstaculiza el acceso a derechos básicos”.
+La segunda serie de recomendaciones responde a su vez al[ Itinerario administrativo digital y acompañamiento humano en el acceso a derechos](https://openspaces.platoniq.net/processes/lab/f/518/proposals/1269?locale=es). Tanto los participantes en el co-diseño de las escenas como el grupo de trabajo de políticas, destacaron la necesidad de abordar que “las personas migrantes enfrentan una complejidad burocrática excesiva desde su llegada, marcada por una falta de coordinación entre oficinas públicas, duplicación de trámites, y un sistema digital que en lugar de facilitar, obstaculiza el acceso a derechos básicos”.
 
 ## **Una Escuela vivida y facilitada por sus alumnos y alumnas**
 
