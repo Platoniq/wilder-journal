@@ -35,7 +35,7 @@ image:
 ---
 **Conversamos con Gabriel Fernández Gil y Erica Núñez**, exasambleístas de la Asamblea Ciudadana para el Clima y miembros de la asociación creada tras su finalización.
 
-{% gallery { "simple": true, "images": [{"path":"/media/acc-blog-1.webp"}] } %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0f8Nl9M8OEs?si=IFCVGTYSc6PEL13Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### **¿Quiénes sois y cómo llegasteis a la Asamblea Ciudadana por el Clima?**
 
@@ -55,7 +55,7 @@ image:
 
 **Erica:** Más que grupo de presión, somos personas con buena voluntad que con muy poco hicimos mucho. No tenemos nada que ver con un lobby económico ni ideológico. Nuestro trabajo fue y sigue siendo voluntario, y eso tiene mérito: sin financiación ni estructura, seguimos ahí, intentando mantener vivo el espíritu de la Asamblea.
 
-{% quote %}La ansiedad por alcanzar consensos puede impulsarte o bloquearte, depende de cómo se gestione. Pero lo importante es que, a pesar de nuestras diferencias, conseguimos llegar a acuerdos.{% endquote %}
+{% gallery { "simple": true, "images": [{"path":"/media/acc-blog-1.webp"}] } %}
 
 ### **¿Qué tipo de formación o apoyo creéis que necesitaríais para seguir contribuyendo a la misión de la Asamblea?**
 
@@ -63,13 +63,15 @@ image:
 
 **Erica:** Sería muy útil formarnos también en cómo hacer llegar nuestras propuestas a las instituciones, cómo tener incidencia real. No para ser un lobby, sino para aprender a comunicarnos mejor y conseguir que nos escuchen.
 
-### **En los procesos deliberativos se habla mucho de metodología, pero poco de emociones. ¿Qué papel jugaron las emociones en vuestra experiencia?**
+### **¿En los procesos deliberativos se habla mucho de metodología, pero poco de emociones. ¿Qué papel jugaron las emociones en vuestra experiencia?**
 
 **Erica:** Tuvimos debates sanos, siempre con respeto. Cuando hablas entre iguales, sin jerarquías, desaparece esa tensión que a veces hay en otros espacios. Pero también hubo emociones intensas, como la rabia, que bien dirigida puede ser un motor muy útil.
 
 **Gabriel:** Es verdad. La ansiedad por alcanzar consensos puede impulsarte o bloquearte, depende de cómo se gestione. Pero lo importante es que, a pesar de nuestras diferencias, conseguimos llegar a acuerdos. Cien personas de orígenes muy distintos poniéndose de acuerdo: eso demuestra que el modelo funciona.
 
-### **Después de llegar a 172 recomendaciones, ¿qué retos encontrasteis al intentar comunicar o aplicar los resultados?**
+{% quote %}La ansiedad por alcanzar consensos puede impulsarte o bloquearte, depende de cómo se gestione. Pero lo importante es que, a pesar de nuestras diferencias, conseguimos llegar a acuerdos.{% endquote %}
+
+### **¿Después de llegar a 172 recomendaciones, ¿qué retos encontrasteis al intentar comunicar o aplicar los resultados?**
 
 **Gabriel:** Los medios prácticamente no hablaron de nosotros. Durante la Asamblea se justificó la discreción para proteger nuestra independencia, pero una vez terminada, no hubo impulso institucional ni mediático.
 
@@ -77,15 +79,15 @@ image:
 
 **Gabriel:** Nuestro reto principal ahora es subsistir. Sin financiación y con reuniones online, todo cuesta más. Pero seguimos, porque creemos que este trabajo voluntario tiene valor y demuestra que la participación ciudadana es posible.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2022-05-26-a-las-16.58.28.webp"}] } %}
-
 ### **¿Qué creéis que hace falta para que las instituciones y los medios escuchen más este tipo de iniciativas?**
 
 **Erica:** Voluntad política. Nosotros la tenemos de sobra, pero sin receptividad desde arriba, poco se puede hacer.
 
 **Gabriel:** A veces da la sensación de que el cambio climático no interesa porque afecta al modelo productivo. Y ahí muchos prefieren no mirar. Cuando planteas que hay que compatibilizar las acciones climáticas con la economía, las respuestas suelen ser evasivas. Pero la realidad ya está aquí: huracanes, incendios, sequías. No actuar saldrá mucho más caro.
 
-### **Algunas voces cuestionan la legitimidad de que solo 100 personas representen a toda la población. ¿Qué opináis?**
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2022-05-26-a-las-16.58.28.webp"}] } %}
+
+### **¿Algunas voces cuestionan la legitimidad de que solo 100 personas representen a toda la población. ¿Qué opináis?**
 
 **Gabriel:** La legitimidad no está en el número, sino en el proceso. Si las asambleas se repitieran regularmente, podrían evaluar y mejorar decisiones colectivas. Nosotros solo dimos el primer paso.
 
