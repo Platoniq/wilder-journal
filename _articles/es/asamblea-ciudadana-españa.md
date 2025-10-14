@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: true
-date: 2025-10-14T09:31:00.000+02:00
-date-updated: 2025-10-14T09:31:00.000+02:00
+date: 2025-10-22T09:31:00.000+02:00
+date-updated: 2025-10-22T09:31:00.000+02:00
 article-order: 15
 uid: asamblea-ciudadana-españa
 title: “Fuimos cien personas con buena voluntad que demostramos que se pueden
