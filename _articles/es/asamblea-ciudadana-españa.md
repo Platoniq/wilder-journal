@@ -18,7 +18,7 @@ author_uids:
 interviewee: Erica Núñez y Gabriel Fernández Gil
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-14-a-las-9.37.47.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-10-14-a-las-9.37.47.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Participantes de la Asamblea Ciudadana por el Clima
   credits: Participantes de la Asamblea Ciudadana por el Clima
