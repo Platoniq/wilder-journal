@@ -7,6 +7,15 @@ date: 2025-10-14T09:31:00.000+02:00
 date-updated: 2025-10-14T09:31:00.000+02:00
 article-order: 15
 uid: asamblea-ciudadana-españa
+title: “We were a hundred people with good intentions who demonstrated that
+  climate agreements can be reached.” We spoke with former members of the State
+  Climate Assembly.
+description: “We were a hundred people with good intentions who demonstrated
+  that climate agreements can be reached.” We spoke with former members of the
+  State Climate Assembly.
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: Erica Núñez y Gabriel Fernández Gil
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-14-a-las-9.37.47.png
