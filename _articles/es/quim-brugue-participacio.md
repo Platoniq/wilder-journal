@@ -8,7 +8,7 @@ date-updated: 2024-11-13T11:05:00.000+01:00
 article-order: 14
 uid: Quim-Brugue-Participacio
 title: La necesidad de una participación ciudadana entendida no como exigencia,
-  sino como diálogo.
+  sino como diálogo
 description: Quim Brugue
 author: Cristian Palazzi
 author_uids:

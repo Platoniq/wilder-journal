@@ -7,6 +7,13 @@ date: 2024-11-13T11:05:00.000+01:00
 date-updated: 2024-11-13T11:05:00.000+01:00
 article-order: 14
 uid: Quim-Brugue-Participacio
+title: The need for citizen participation understood not as a requirement, but
+  as dialogue
+description: The need for citizen participation understood not as a requirement,
+  but as dialogue
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: Quim Brugué
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
