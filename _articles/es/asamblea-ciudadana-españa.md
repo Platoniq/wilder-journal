@@ -35,6 +35,8 @@ image:
 ---
 **Conversamos con Gabriel Fernández Gil y Erica Núñez**, exasambleístas de la Asamblea Ciudadana para el Clima y miembros de la asociación creada tras su finalización.
 
+{% gallery { "simple": true, "images": [{"path":"/media/acc-blog-1.webp"}] } %}
+
 ### **¿Quiénes sois y cómo llegasteis a la Asamblea Ciudadana por el Clima?**
 
 **Gabriel:** Soy Gabriel Fernández Gil, fui asambleísta de la Asamblea Española para el Clima y ahora formo parte de la asociación que creamos varios participantes al terminar el proceso.
