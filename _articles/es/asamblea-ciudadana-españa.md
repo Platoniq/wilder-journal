@@ -33,7 +33,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-10-14-a-las-9.37.47.png
 ---
-**Conversamos con Gabriel Fernández Gil y Erica Núñez**, exasambleístas de la Asamblea Ciudadana para el Clima y miembros de la asociación creada tras su finalización.
+Conversamos con **Gabriel Fernández Gil** y **Erica Núñez**, exasambleístas de la Asamblea Ciudadana para el Clima y miembros de la asociación creada tras su finalización.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0f8Nl9M8OEs?si=IFCVGTYSc6PEL13Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
