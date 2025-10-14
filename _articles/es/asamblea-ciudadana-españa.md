@@ -55,6 +55,8 @@ image:
 
 **Erica:** Más que grupo de presión, somos personas con buena voluntad que con muy poco hicimos mucho. No tenemos nada que ver con un lobby económico ni ideológico. Nuestro trabajo fue y sigue siendo voluntario, y eso tiene mérito: sin financiación ni estructura, seguimos ahí, intentando mantener vivo el espíritu de la Asamblea.
 
+{% quote %}La ansiedad por alcanzar consensos puede impulsarte o bloquearte, depende de cómo se gestione. Pero lo importante es que, a pesar de nuestras diferencias, conseguimos llegar a acuerdos.{% endquote %}
+
 ### **¿Qué tipo de formación o apoyo creéis que necesitaríais para seguir contribuyendo a la misión de la Asamblea?**
 
 **Gabriel:** Durante la Asamblea recibimos una formación medioambiental excelente. Aprendimos datos que nos marcaron, como que el 40% de la ropa que se compra no llega a estrenarse. Eso te hace pensar y cambiar hábitos.
@@ -64,8 +66,6 @@ image:
 ### **En los procesos deliberativos se habla mucho de metodología, pero poco de emociones. ¿Qué papel jugaron las emociones en vuestra experiencia?**
 
 **Erica:** Tuvimos debates sanos, siempre con respeto. Cuando hablas entre iguales, sin jerarquías, desaparece esa tensión que a veces hay en otros espacios. Pero también hubo emociones intensas, como la rabia, que bien dirigida puede ser un motor muy útil.
-
-{% quote %}La ansiedad por alcanzar consensos puede impulsarte o bloquearte, depende de cómo se gestione. Pero lo importante es que, a pesar de nuestras diferencias, conseguimos llegar a acuerdos.{% endquote %}
 
 **Gabriel:** Es verdad. La ansiedad por alcanzar consensos puede impulsarte o bloquearte, depende de cómo se gestione. Pero lo importante es que, a pesar de nuestras diferencias, conseguimos llegar a acuerdos. Cien personas de orígenes muy distintos poniéndose de acuerdo: eso demuestra que el modelo funciona.
 
