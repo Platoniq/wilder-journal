@@ -12,6 +12,8 @@ cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-14-a-las-9.37.47.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - teresa-arnal-climate-civic-assembly
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
