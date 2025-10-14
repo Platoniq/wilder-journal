@@ -61,11 +61,11 @@ image:
 
 **Erica:** Sería muy útil formarnos también en cómo hacer llegar nuestras propuestas a las instituciones, cómo tener incidencia real. No para ser un lobby, sino para aprender a comunicarnos mejor y conseguir que nos escuchen.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2022-05-26-a-las-16.58.28.webp"}] } %}
-
 ### **En los procesos deliberativos se habla mucho de metodología, pero poco de emociones. ¿Qué papel jugaron las emociones en vuestra experiencia?**
 
 **Erica:** Tuvimos debates sanos, siempre con respeto. Cuando hablas entre iguales, sin jerarquías, desaparece esa tensión que a veces hay en otros espacios. Pero también hubo emociones intensas, como la rabia, que bien dirigida puede ser un motor muy útil.
+
+{% quote %}La ansiedad por alcanzar consensos puede impulsarte o bloquearte, depende de cómo se gestione. Pero lo importante es que, a pesar de nuestras diferencias, conseguimos llegar a acuerdos.{% endquote %}
 
 **Gabriel:** Es verdad. La ansiedad por alcanzar consensos puede impulsarte o bloquearte, depende de cómo se gestione. Pero lo importante es que, a pesar de nuestras diferencias, conseguimos llegar a acuerdos. Cien personas de orígenes muy distintos poniéndose de acuerdo: eso demuestra que el modelo funciona.
 
@@ -76,6 +76,8 @@ image:
 **Erica:** Cuando presentamos las propuestas a ayuntamientos y comunidades autónomas, nos recibieron con educación, pero muchas veces fue algo simbólico. Escuchaban, asentían… y poco más. No hubo continuidad.
 
 **Gabriel:** Nuestro reto principal ahora es subsistir. Sin financiación y con reuniones online, todo cuesta más. Pero seguimos, porque creemos que este trabajo voluntario tiene valor y demuestra que la participación ciudadana es posible.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2022-05-26-a-las-16.58.28.webp"}] } %}
 
 ### **¿Qué creéis que hace falta para que las instituciones y los medios escuchen más este tipo de iniciativas?**
 
