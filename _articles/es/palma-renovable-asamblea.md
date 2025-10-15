@@ -36,7 +36,7 @@ Hablamos con **Nuria Albet**, de **La Palma Renovable**, una organización que e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EjpCTBaRKGI?si=QDTYsZKoFKkyrMtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### **¿Qué tiene de especial esta iniciativa?**
+### **¿Qué tiene de especial La Palma Renovable y qué podemos aprender de ella?**
 
 Es una iniciativa que nace desde la ciudadanía. De hecho, La Palma Renovable es un movimiento ciudadano que surge de otros movimientos que reclamamos que la isla sea 100% renovable. Pero no solamente buscamos ser 100% renovables: queremos que la gobernanza y la propiedad de la transición energética estén en manos de la ciudadanía, para que tenga también un impacto directo en la economía local.
 
@@ -68,7 +68,7 @@ Me fascinan varios elementos. En lo micro, la transformación de las personas: a
 
 No hay respuesta clara, porque todo va lento en La Palma. Ya había 150.000 € en el presupuesto de este año, pero no se ejecutó por falta de mecanismo. Ahora creemos que hemos encontrado la manera y la idea es empezar el año que viene y terminar en dos años, con 300.000 €. Además, pensamos en una preasamblea: formar no solo a quienes salgan en el sorteo, sino a toda la isla, con procesos de formación y sensibilización previos. Así generamos confianza y un movimiento más amplio.
 
-### **¿Qué esperas de aquí a dos años?**
+### **¿Qué esperas del futuro?**
 
 Difícil decirlo. Hemos vivido un volcán, con procesos participativos mal planteados en medio del trauma, y ahora hay cierto rechazo a la participación. Por eso la preasamblea es tan importante: reconstruir la confianza democrática. Pero la verdad es que avanzamos en medio del caos, con crisis climática y energética desbocadas. Trabajamos de forma ágil: con objetivos claros, pero revaluando constantemente sobre la marcha.
 
