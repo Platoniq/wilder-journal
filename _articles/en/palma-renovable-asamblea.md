@@ -10,7 +10,7 @@ uid: palma-renovable-asamblea
 interviewee: Nuria Albet
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-15-a-las-12.06.07.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-10-15-a-las-12.06.07.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - asamblea-ciudadana-españa
