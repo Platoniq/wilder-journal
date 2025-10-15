@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-10-15T12:04:00.000+02:00
 date-updated: 2025-10-15T12:04:00.000+02:00
-article-order: 16
+article-order: 13
 uid: palma-renovable-asamblea
 interviewee: Nuria Albet
 cover:

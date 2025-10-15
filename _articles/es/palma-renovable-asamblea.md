@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-10-15T12:04:00.000+02:00
 date-updated: 2025-10-15T12:04:00.000+02:00
-article-order: 16
+article-order: 13
 uid: palma-renovable-asamblea
 title: “La transición energética en La Palma solo tiene sentido si la lidera la
   ciudadanía”. Cómo empujar una asamblea ciudadana sobre el clima.
