@@ -32,7 +32,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-10-15-a-las-12.06.07.png
 ---
-Hablamos con **Nuria Albet**, de **La Palma Renovable**, una organización que está impulsando la **Asamblea Ciudadana por la Energía** en la isla de La Palma, en Canarias.
+Hablamos con **Nuria Albet**, de **La Palma Renovable**, una organización que está impulsando la **Asamblea Ciudadana por la Energía** en la isla de La Palma, en Canarias. La Palma Renovable es un proyecto nacido de un movimiento ciudadano, la Plataforma por Un Nuevo Modelo Energético (Px1NME), que impulsó la Ruta por un Nuevo Modelo Energético y el [Manifiesto del Electrón](https://lapalmarenovable.es/wp-content/uploads/2021/09/manifiesto_electron.pdf) (documento suscrito por todas las administraciones locales de La Palma).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EjpCTBaRKGI?si=QDTYsZKoFKkyrMtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -75,3 +75,11 @@ Difícil decirlo. Hemos vivido un volcán, con procesos participativos mal plant
 ### **Después de tantos años, ¿qué aprendizajes políticos y organizativos te llevas?**
 
 Muchísimos. Viniendo del activismo es fácil criticar, pero cuando estás dentro entiendes las inercias y la burocracia. Cosas que imaginabas rápidas tardan dos años. Un aprendizaje clave es que hay que formar también a los funcionarios y responsables políticos. Hace poco organizamos una formación en el Cabildo y vimos reacciones muy potentes. Muchos comprendieron que necesitamos entidades transversales y priorizar expedientes clave para no perdernos en la burocracia. Lo esencial es que la ciudadanía siga empujando con objetivos claros, aunque cambien los partidos o el contexto. Porque, de lo contrario, la inercia económica seguirá devorando los avances renovables.
+
+{% gallery { "simple": true, "images": [{"path":"/media/1756459076027.jpg"}] } %}
+
+Conoce las últimas noticias de la transición energética en La Palma, suscribiéndote [aquí.](https://lnkd.in/dgsDHjU)
+
+__
+
+*La entrevista tuvo lugar en el **Foro sobre Deliberación, Creatividad y Democracia,** durante los días 15 y 18 de Octubre de 2024, gracias al apoyo de la Open Society Foundation y la Diputació de Barcelona.*
