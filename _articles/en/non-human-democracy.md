@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/esepe-reflejo.png
   mobile: /media/articles/mobile/esepe-reflejo.png
-  thumbnail: /media/articles/thumbnails/esepe-lefttight-y-viceversa.jpg
+  thumbnail: /media/articles/thumbnails/esepe-reflejo.png
 related_article_uids:
   - deliberative-assemblies
   - democracy-manifesto
