@@ -9,7 +9,7 @@ article-order: 22
 uid: Non-Human-Democracy
 interviewee: null
 cover:
-  path: /media/articles/heroes/esepe-lefttight-y-viceversa.jpg
+  path: /media/articles/heroes/esepe-reflejo.png
   mobile: /media/articles/mobile/esepe-lefttight-y-viceversa.jpg
   thumbnail: /media/articles/thumbnails/esepe-lefttight-y-viceversa.jpg
 related_article_uids:

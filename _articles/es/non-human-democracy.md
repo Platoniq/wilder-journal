@@ -13,7 +13,7 @@ author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
 cover:
-  path: /media/articles/heroes/esepe-lefttight-y-viceversa.jpg
+  path: /media/articles/heroes/esepe-reflejo.png
   mobile: /media/articles/mobile/esepe-lefttight-y-viceversa.jpg
   thumbnail: /media/articles/thumbnails/esepe-lefttight-y-viceversa.jpg
   alt: Esepe, left right, 2023
