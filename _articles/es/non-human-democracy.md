@@ -33,7 +33,7 @@ image:
 ---
 **¿Cómo imaginar una democracia donde el mar, los algoritmos o las bacterias también tienen voz?** Mientras los retos ecológicos y tecnológicos desbordan las instituciones humanas, nuevas formas de deliberación comienzan a emerger. 
 
-Una de ellas tuvo lugar en Barcelona en abril de 2024: la **primera Asamblea Global Ciudadana sobre el Océano**, una iniciativa de *Missions Publiques*, facilitada por Platoniq y otros socios, en el marco de la iniciatica [UN Ocean Decade.](https://missionspubliques.org/the-inaugural-session-of-the-global-citizens-assembly-kick-off-soon-during-the-un-ocean-decade/?lang=en)
+Una de ellas tuvo lugar en Barcelona en abril de 2024: la **primera Asamblea Global Ciudadana sobre el Océano**, una iniciativa de Missions Publiques, facilitada por Platoniq y otros socios, en el marco de la iniciatica [UN Ocean Decade.](https://missionspubliques.org/the-inaugural-session-of-the-global-citizens-assembly-kick-off-soon-during-the-un-ocean-decade/?lang=en)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/02RN8qalopU?si=OAMT8d4SSxadyYdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
