@@ -18,7 +18,7 @@ interviewee: Eva Cardona
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-20-a-las-11.09.42.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-10-20-a-las-11.09.42.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-10-20-a-las-11.09.42.png
   alt: Eva Cardona
   credits: Eva Cardona
   caption: Eva Cardona
