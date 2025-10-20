@@ -1,0 +1,76 @@
+---
+layout: article
+volume-uid: wilder-journal-2
+category: learnings
+published: true
+date: 2024-02-12T19:42:00.000+01:00
+date-updated: 2024-02-12T19:42:00.000+01:00
+article-order: 22
+uid: Non-Human-Democracy
+title: "Democracia no humana: un nuevo contrato ecológico"
+description: "Democracia no humana: un nuevo contrato ecológico"
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
+cover:
+  path: /media/articles/heroes/esepe-lefttight-y-viceversa.jpg
+  mobile: /assets/media/no_image-hero.png
+  thumbnail: /assets/media/no_image-thumbnail.png
+  alt: Esepe, left right, 2023
+  credits: Esepe, left right, 2023
+  caption: Esepe, left right, 2023
+related_article_uids:
+  - deliberative-assemblies
+  - democracy-manifesto
+  - arantxa-mendiharat
+stickers:
+  layout: layout-none
+  sticker_one_animation: animation-none
+  sticker_two_animation: animation-none
+call_to_action: cta-donate
+image:
+  path: /assets/media/no_image-social_media.png
+---
+**¿Cómo imaginar una democracia donde el mar, los algoritmos o las bacterias también tienen voz?**
+
+Mientras los retos ecológicos y tecnológicos desbordan las instituciones humanas, nuevas formas de deliberación comienzan a emerger. Una de ellas acaba de tener lugar en Barcelona: la **primera Asamblea Global Ciudadana sobre el Océano**, una iniciativa de *Missions Publiques*, *Platoniq*, *Raons Publiques* y otros socios, en el marco de la **Década de las Ciencias Oceánicas de Naciones Unidas**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/02RN8qalopU?si=OAMT8d4SSxadyYdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Del Parlamento de los Humanos al Parlamento de las Cosas
+
+Inspirados por **Bruno Latour**, **Lynn Margulis** y **Donna Haraway**, podemos pensar esta asamblea no solo como un ejercicio de democracia entre ciudadanos, sino como un ensayo para deliberar *con* lo no humano.
+
+Latour imaginó un *Parlamento de las Cosas*, donde los actantes no humanos —desde las corrientes marinas hasta los chips de silicio— participan en las decisiones que les afectan. Margulis nos recordó que toda vida es simbiosis, y Haraway que debemos “permanecer con el problema”: componer alianzas parciales entre humanos, animales, máquinas y ecosistemas.
+
+### El océano como sujeto de deliberación
+
+En Barcelona, cuarenta ciudadanos se reunieron frente al mar para debatir sobre el futuro del océano. Pero el escenario no era neutro: **el propio océano era parte del diálogo**.
+
+El sonido de las olas, la brisa salina y los sensores ambientales que acompañaban la sesión configuraban un espacio de escucha ampliada, donde la materialidad del entorno actuaba como mediadora. Este marco encarna la “ética del ensamblaje” de **Jane Bennett**, reconociendo la agencia vibrante de lo material.
+
+### El método de los tres tercios: presente, vida y futuro
+
+El proceso introdujo el **Three-Thirds Method**, una metodología que da voz a tres actores: las generaciones actuales, el sistema vivo y las generaciones futuras
+
+Este enfoque busca trascender la representación simbólica de los intereses del planeta o del futuro, integrándolos activamente en la deliberación. Así, el ejercicio se aproxima a una *diplomacia terrestre*, donde las decisiones humanas se piensan junto con las de los demás habitantes del mundo.
+
+### De Barcelona al mundo
+
+La asamblea del océano fue solo el primer paso hacia un proceso global que aspira a reunir a **10.000 ciudadanos en 100 países**. Cada encuentro local será un microcosmos de esta nueva política de cohabitación, en la que los seres humanos deliberan sabiendo que no están solos: los océanos, los bosques, las máquinas y los virus también forman parte del proceso.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDkvhzTdOR8?si=F6EAUFIzjaTvwsG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Hacia una democracia más que humana
+
+La deliberación no humana no sustituye la democracia: la amplía. Nos recuerda que toda decisión pública se asienta en relaciones materiales, biológicas y tecnológicas que también merecen ser escuchadas.
+
+Como señala Haraway, se trata de **“componer con otros”**, no de hablar en su nombre. De diseñar procesos participativos que integren la sensibilidad de los sensores, la voz de las mareas y la responsabilidad hacia lo que aún no ha nacido.
+
+## Cuidar, traducir, cohabitar
+
+En Platoniq seguimos explorando cómo diseñar metodologías deliberativas que integren a los sistemas vivos, la inteligencia colectiva y la tecnología cívica.
+
+Si quieres participar o colaborar en el diseño de **procesos de deliberación multiespecie** y **asambleas planetarias**, contáctanos.
+
+👉 **Pongámonos en marcha.**
