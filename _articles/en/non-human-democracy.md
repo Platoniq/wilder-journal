@@ -10,7 +10,7 @@ uid: Non-Human-Democracy
 interviewee: null
 cover:
   path: /media/articles/heroes/esepe-lefttight-y-viceversa.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe-lefttight-y-viceversa.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - deliberative-assemblies
