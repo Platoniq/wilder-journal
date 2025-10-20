@@ -34,7 +34,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-10-20-a-las-11.09.42.png
 ---
-Hablamos con Eva Cardona, del equipo promotor y coordinador de la Asamblea por el Clima de Mallorca, quién nos cuenta lo que supuso la experiencia de participar en la primera Asamblea Ciudadana por el Clima de las Baleares.
+Hablamos con **Eva Cardona,** del equipo promotor y coordinador de la **Asamblea Ciudadana por el Clima de Mallorca,** quién nos cuenta lo que supuso la experiencia de participar en la primera Asamblea Ciudadana de las Baleares.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KK0OaAZhXYo?si=3g3F7XLNPDpLBcQB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -58,6 +58,10 @@ No llegamos a ser tan creativos como para incluir directamente elementos no huma
 
 **Por último, ¿qué lugar ocupa para ti la democracia deliberativa en la transformación ecosocial?**
 Para mí es un ingrediente básico. La veo como una herramienta transformadora que, si conseguimos canalizar bien y darle continuidad, puede ayudarnos a alcanzar esa transición ecológica tan mencionada, tan necesaria y todavía tan poco lograda.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-10-20-a-las-12.44.47.png"}] } %}
+
+Puedes consultar las recomendaciones surgidas de la asamblea, [aquí](https://assembleapelclima.uib.es/files/2023/03/INFORME-DE-PROPUESTAS-.pdf).
 
 __
 
