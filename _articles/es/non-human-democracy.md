@@ -76,8 +76,6 @@ Diseñar procesos participativos que incorporen **la sensibilidad de los sensore
 
 ## **Cuidar, traducir, cohabitar**
 
-En Platoniq seguimos explorando cómo diseñar metodologías deliberativas que integren a los sistemas vivos, la inteligencia colectiva y la tecnología cívica.
+En Platoniq seguimos explorando cómo diseñar metodologías deliberativas que integren a los sistemas vivos, la inteligencia colectiva y la tecnología cívica. Si quieres participar o colaborar en el diseño de **procesos de deliberación multiespecie** y **asambleas planetarias**, contáctanos.
 
-Si quieres participar o colaborar en el diseño de **procesos de deliberación multiespecie** y **asambleas planetarias**, contáctanos.
-
-👉 **Pongámonos en marcha.**
+👉 **[Pongámonos en marcha](https://www.democraciacreativa.org/).**
