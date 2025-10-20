@@ -49,23 +49,17 @@ En Barcelona, cuarenta ciudadanos se reunieron frente al mar para debatir sobre 
 
 El sonido de las olas, la brisa salina y los sensores ambientales que acompañaban la sesión configuraban un espacio de escucha ampliada, donde la materialidad del entorno actuaba como mediadora. Este marco encarna la “ética del ensamblaje” de **Jane Bennett**, reconociendo la agencia vibrante de lo material.
 
+La asamblea del océano fue solo el primer paso hacia un proceso global que aspira a reunir a **10.000 ciudadanos en 100 países**. Cada encuentro local será un microcosmos de esta nueva política de cohabitación, en la que los seres humanos deliberan sabiendo que no están solos: los océanos, los bosques, las máquinas y los virus también forman parte del proceso.
+
 ## **El método de los tres tercios: presente, vida y futuro**
 
 El proceso introdujo el **Three-Thirds Method**, una metodología que da voz a tres actores: las generaciones actuales, el sistema vivo y las generaciones futuras.
 
 La idea es sencilla: **que las decisiones humanas no se tomen solo entre humanos del presente**, sino junto **al sistema vivo** y **las generaciones futuras**.
 
-El primer tercio reúne las voces de quienes habitan hoy el mundo: ciudadanos diversos, con sus experiencias y preocupaciones. El segundo tercio incorpora la presencia del planeta: los mares, el aire, los organismos, los datos que los hacen hablar. No se trata de hablar *por* ellos, sino *con* ellos, escuchando sus señales, integrando su materialidad y su vulnerabilidad en la conversación.
-
-El tercer tercio pertenece a los que aún no han nacido. Su lugar se representa con una silla vacía, una carta escrita desde el futuro o la voz de jóvenes que interpelan a quienes deciden hoy.
+El primer tercio reúne las voces de quienes habitan hoy el mundo: ciudadanos diversos, con sus experiencias y preocupaciones. El segundo tercio incorpora la presencia del planeta: los mares, el aire, los organismos, los datos que los hacen hablar. No se trata de hablar *por* ellos, sino *con* ellos, escuchando sus señales, integrando su materialidad y su vulnerabilidad en la conversación. El tercer tercio pertenece a los que aún no han nacido. Su lugar se representa con una silla vacía, una carta escrita desde el futuro o la voz de jóvenes que interpelan a quienes deciden hoy.
 
 Así, la deliberación se convierte en una **diplomacia terrestre**: un espacio donde humanos, ecosistemas y futuros posibles dialogan. Este método nos recuerda que toda política es también una relación entre tiempos y especies, y que cuidar el presente implica cuidar la vida que nos sostiene.
-
-Este enfoque busca trascender la representación simbólica de los intereses del planeta o del futuro, integrándolos activamente en la deliberación. Así, el ejercicio se aproxima a una *diplomacia terrestre*, donde las decisiones humanas se piensan junto con las de los demás habitantes del mundo.
-
-## **De Barcelona al mundo**
-
-La asamblea del océano fue solo el primer paso hacia un proceso global que aspira a reunir a **10.000 ciudadanos en 100 países**. Cada encuentro local será un microcosmos de esta nueva política de cohabitación, en la que los seres humanos deliberan sabiendo que no están solos: los océanos, los bosques, las máquinas y los virus también forman parte del proceso.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDkvhzTdOR8?si=F6EAUFIzjaTvwsG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -73,7 +67,10 @@ La asamblea del océano fue solo el primer paso hacia un proceso global que aspi
 
 La deliberación no humana no sustituye la democracia: la amplía. Nos recuerda que toda decisión pública se asienta en relaciones materiales, biológicas y tecnológicas que también merecen ser escuchadas.
 
-Como señala Haraway, se trata de **“componer con otros”**, no de hablar en su nombre. De diseñar procesos participativos que integren la sensibilidad de los sensores, la voz de las mareas y la responsabilidad hacia lo que aún no ha nacido.
+Como señala Haraway, se trata de **“componer con otros”**, no de hablar en su nombre. De diseñar procesos participativos que integren la sensibilidad de los sensores, la voz de las mareas y la responsabilidad hacia lo que aún no ha nacido. Reconocerlo es aceptar que la política no se limita al lenguaje humano, sino que se expresa también en los flujos de datos, las corrientes de aire o los ritmos del clima. **La democracia más que humana** consiste en aprender a deliberar dentro de este entramado, escuchando no solo lo que se dice, sino lo que vibra, se transforma o resiste.
+
+Diseñar procesos participativos que incorporen **la sensibilidad de los sensores**, **la voz de las mareas** y **la responsabilidad hacia quienes aún no han nacido** es una forma de asumir que el cuidado también es una práctica política. Esta ampliación de la democracia exige una nueva imaginación cívica: una que entienda que **habitar el planeta es deliberar con él**, y que toda decisión humana es, inevitablemente, una decisión ecológica.
+
 
 {% gallery { "simple": false, "images": [{"path":"/media/gkqq-6sweaajmcl.jpeg","caption":"40 ciudadanos dando voz a los Océanos","alt":"40 ciudadanos dando voz a los Océanos","credits":"Platoniq (2024)"}] } %}
 
