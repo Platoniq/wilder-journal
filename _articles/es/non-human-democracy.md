@@ -41,6 +41,8 @@ Mientras los retos ecológicos y tecnológicos desbordan las instituciones human
 
 Inspirados por **Bruno Latour**, **Lynn Margulis** y **Donna Haraway**, podemos pensar esta asamblea no solo como un ejercicio de democracia entre ciudadanos, sino como un ensayo para deliberar *con* lo no humano.
 
+{% quote { "author": "Lynn Margulis" } %}La vida es una unión simbiótica y cooperativa que permite triunfar a quienes se asocian{% endquote %}
+
 Latour imaginó un *Parlamento de las Cosas*, donde los actantes no humanos —desde las corrientes marinas hasta los chips de silicio— participan en las decisiones que les afectan. Margulis nos recordó que toda vida es simbiosis, y Haraway que debemos “permanecer con el problema”: componer alianzas parciales entre humanos, animales, máquinas y ecosistemas.
 
 ### El océano como sujeto de deliberación
@@ -66,6 +68,8 @@ La asamblea del océano fue solo el primer paso hacia un proceso global que aspi
 La deliberación no humana no sustituye la democracia: la amplía. Nos recuerda que toda decisión pública se asienta en relaciones materiales, biológicas y tecnológicas que también merecen ser escuchadas.
 
 Como señala Haraway, se trata de **“componer con otros”**, no de hablar en su nombre. De diseñar procesos participativos que integren la sensibilidad de los sensores, la voz de las mareas y la responsabilidad hacia lo que aún no ha nacido.
+
+{% gallery { "simple": false, "images": [{"path":"/media/gkqq-6sweaajmcl.jpeg","caption":"40 ciudadanos dando voz a los Océanos","alt":"40 ciudadanos dando voz a los Océanos","credits":"Platoniq (2024)"}] } %}
 
 ## Cuidar, traducir, cohabitar
 
