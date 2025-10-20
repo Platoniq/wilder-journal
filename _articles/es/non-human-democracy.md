@@ -31,13 +31,11 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/esepe-lefttight-y-viceversa.jpg
 ---
-**¿Cómo imaginar una democracia donde el mar, los algoritmos o las bacterias también tienen voz?**
-
-Mientras los retos ecológicos y tecnológicos desbordan las instituciones humanas, nuevas formas de deliberación comienzan a emerger. Una de ellas acaba de tener lugar en Barcelona: la **primera Asamblea Global Ciudadana sobre el Océano**, una iniciativa de *Missions Publiques*, *Platoniq*, *Raons Publiques* y otros socios, en el marco de la **Década de las Ciencias Oceánicas de Naciones Unidas**.
+**¿Cómo imaginar una democracia donde el mar, los algoritmos o las bacterias también tienen voz?** Mientras los retos ecológicos y tecnológicos desbordan las instituciones humanas, nuevas formas de deliberación comienzan a emerger. Una de ellas acaba de tener lugar en Barcelona: la **primera Asamblea Global Ciudadana sobre el Océano**, una iniciativa de *Missions Publiques*, *Platoniq*, *Raons Publiques* y otros socios, en el marco de la **Década de las Ciencias Oceánicas de Naciones Unidas**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/02RN8qalopU?si=OAMT8d4SSxadyYdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Del Parlamento de los Humanos al Parlamento de las Cosas
+## **Del Parlamento de los Humanos al Parlamento de las Cosas**
 
 Inspirados por **Bruno Latour**, **Lynn Margulis** y **Donna Haraway**, podemos pensar esta asamblea no solo como un ejercicio de democracia entre ciudadanos, sino como un ensayo para deliberar *con* lo no humano.
 
@@ -45,25 +43,33 @@ Inspirados por **Bruno Latour**, **Lynn Margulis** y **Donna Haraway**, podemos 
 
 Latour imaginó un *Parlamento de las Cosas*, donde los actantes no humanos —desde las corrientes marinas hasta los chips de silicio— participan en las decisiones que les afectan. Margulis nos recordó que toda vida es simbiosis, y Haraway que debemos “permanecer con el problema”: componer alianzas parciales entre humanos, animales, máquinas y ecosistemas.
 
-### El océano como sujeto de deliberación
+## **El océano como sujeto de deliberación**
 
 En Barcelona, cuarenta ciudadanos se reunieron frente al mar para debatir sobre el futuro del océano. Pero el escenario no era neutro: **el propio océano era parte del diálogo**.
 
 El sonido de las olas, la brisa salina y los sensores ambientales que acompañaban la sesión configuraban un espacio de escucha ampliada, donde la materialidad del entorno actuaba como mediadora. Este marco encarna la “ética del ensamblaje” de **Jane Bennett**, reconociendo la agencia vibrante de lo material.
 
-### El método de los tres tercios: presente, vida y futuro
+## **El método de los tres tercios: presente, vida y futuro**
 
-El proceso introdujo el **Three-Thirds Method**, una metodología que da voz a tres actores: las generaciones actuales, el sistema vivo y las generaciones futuras
+El proceso introdujo el **Three-Thirds Method**, una metodología que da voz a tres actores: las generaciones actuales, el sistema vivo y las generaciones futuras.
+
+La idea es sencilla: **que las decisiones humanas no se tomen solo entre humanos del presente**, sino junto **al sistema vivo** y **las generaciones futuras**.
+
+El primer tercio reúne las voces de quienes habitan hoy el mundo: ciudadanos diversos, con sus experiencias y preocupaciones. El segundo tercio incorpora la presencia del planeta: los mares, el aire, los organismos, los datos que los hacen hablar. No se trata de hablar *por* ellos, sino *con* ellos, escuchando sus señales, integrando su materialidad y su vulnerabilidad en la conversación.
+
+El tercer tercio pertenece a los que aún no han nacido. Su lugar se representa con una silla vacía, una carta escrita desde el futuro o la voz de jóvenes que interpelan a quienes deciden hoy.
+
+Así, la deliberación se convierte en una **diplomacia terrestre**: un espacio donde humanos, ecosistemas y futuros posibles dialogan. Este método nos recuerda que toda política es también una relación entre tiempos y especies, y que cuidar el presente implica cuidar la vida que nos sostiene.
 
 Este enfoque busca trascender la representación simbólica de los intereses del planeta o del futuro, integrándolos activamente en la deliberación. Así, el ejercicio se aproxima a una *diplomacia terrestre*, donde las decisiones humanas se piensan junto con las de los demás habitantes del mundo.
 
-### De Barcelona al mundo
+## **De Barcelona al mundo**
 
 La asamblea del océano fue solo el primer paso hacia un proceso global que aspira a reunir a **10.000 ciudadanos en 100 países**. Cada encuentro local será un microcosmos de esta nueva política de cohabitación, en la que los seres humanos deliberan sabiendo que no están solos: los océanos, los bosques, las máquinas y los virus también forman parte del proceso.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDkvhzTdOR8?si=F6EAUFIzjaTvwsG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Hacia una democracia más que humana
+## **Hacia una democracia más que humana**
 
 La deliberación no humana no sustituye la democracia: la amplía. Nos recuerda que toda decisión pública se asienta en relaciones materiales, biológicas y tecnológicas que también merecen ser escuchadas.
 
@@ -71,7 +77,7 @@ Como señala Haraway, se trata de **“componer con otros”**, no de hablar en 
 
 {% gallery { "simple": false, "images": [{"path":"/media/gkqq-6sweaajmcl.jpeg","caption":"40 ciudadanos dando voz a los Océanos","alt":"40 ciudadanos dando voz a los Océanos","credits":"Platoniq (2024)"}] } %}
 
-## Cuidar, traducir, cohabitar
+## **Cuidar, traducir, cohabitar**
 
 En Platoniq seguimos explorando cómo diseñar metodologías deliberativas que integren a los sistemas vivos, la inteligencia colectiva y la tecnología cívica.
 
