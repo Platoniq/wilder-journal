@@ -15,7 +15,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/esepe-lefttight-y-viceversa.jpg
   mobile: /media/articles/mobile/esepe-lefttight-y-viceversa.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe-lefttight-y-viceversa.jpg
   alt: Esepe, left right, 2023
   credits: Esepe, left right, 2023
   caption: Esepe, left right, 2023
