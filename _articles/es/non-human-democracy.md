@@ -57,7 +57,7 @@ El proceso introdujo el **Three-Thirds Method**, una metodología que da voz a t
 
 La idea es sencilla: **que las decisiones humanas no se tomen solo entre humanos del presente**, sino junto **al sistema vivo** y **las generaciones futuras**.
 
-El primer tercio reúne las voces de quienes habitan hoy el mundo: ciudadanos diversos, con sus experiencias y preocupaciones. El segundo tercio incorpora la presencia del planeta: los mares, el aire, los organismos, los datos que los hacen hablar. No se trata de hablar *por* ellos, sino *con* ellos, escuchando sus señales, integrando su materialidad y su vulnerabilidad en la conversación. El tercer tercio pertenece a los que aún no han nacido. Su lugar se representa con una silla vacía, una carta escrita desde el futuro o la voz de jóvenes que interpelan a quienes deciden hoy.
+El primer actor reúne las voces de quienes habitan hoy el mundo: ciudadanos diversos, con sus experiencias y preocupaciones. El segundo actor incorpora la presencia del planeta: los mares, el aire, los organismos, los datos que los hacen hablar. No se trata de hablar *por* ellos, sino *con* ellos, escuchando sus señales, integrando su materialidad y su vulnerabilidad en la conversación. El tercer actor pertenece a los que aún no han nacido. Su lugar se representa con una silla vacía, una carta escrita desde el futuro o la voz de jóvenes que interpelan a quienes deciden hoy.
 
 Así, la deliberación se convierte en una **diplomacia terrestre**: un espacio donde humanos, ecosistemas y futuros posibles dialogan. Este método nos recuerda que toda política es también una relación entre tiempos y especies, y que cuidar el presente implica cuidar la vida que nos sostiene.
 
