@@ -55,9 +55,7 @@ La asamblea del océano fue solo el primer paso hacia un proceso global que aspi
 
 ## **El método de los tres tercios: presente, vida y futuro**
 
-El proceso introdujo el **Three-Thirds Method**, una metodología que da voz a tres actores: las generaciones actuales, el sistema vivo y las generaciones futuras.
-
-La idea es sencilla: **que las decisiones humanas no se tomen solo entre humanos del presente**, sino junto **al sistema vivo** y **las generaciones futuras**.
+El proceso introdujo el **Three-Thirds Method**, una metodología que da voz a tres actores: las generaciones actuales, el sistema vivo y las generaciones futuras. La idea es sencilla: **que las decisiones humanas no se tomen solo entre humanos del presente**, sino junto **al sistema vivo** y **las generaciones futuras**.
 
 El primer actor reúne las voces de quienes habitan hoy el mundo: ciudadanos diversos, con sus experiencias y preocupaciones. El segundo actor incorpora la presencia del planeta: los mares, el aire, los organismos, los datos que los hacen hablar. No se trata de hablar *por* ellos, sino *con* ellos, escuchando sus señales, integrando su materialidad y su vulnerabilidad en la conversación. El tercer actor pertenece a los que aún no han nacido. Su lugar se representa con una silla vacía, una carta escrita desde el futuro o la voz de jóvenes que interpelan a quienes deciden hoy.
 
