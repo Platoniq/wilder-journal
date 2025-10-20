@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/esepe-lefttight-y-viceversa.jpg
 ---
 **¿Cómo imaginar una democracia donde el mar, los algoritmos o las bacterias también tienen voz?**
 
