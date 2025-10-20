@@ -7,7 +7,7 @@ date: 2024-04-12T19:42:00.000+02:00
 date-updated: 2024-04-12T19:42:00.000+02:00
 article-order: 22
 uid: Non-Human-Democracy
-title: "Democracia no humana: un nuevo contrato ecológico"
+title: "Democracia no humana: hacia un nuevo contrato ecológico"
 description: "Democracia no humana: un nuevo contrato ecológico"
 author: Cristian Palazzi
 author_uids:
