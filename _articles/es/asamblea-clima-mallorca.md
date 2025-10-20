@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: interviews
 published: true
-date: 2025-11-20T10:46:00.000+01:00
-date-updated: 2025-11-20T10:46:00.000+01:00
+date: 2024-11-20T10:46:00.000+01:00
+date-updated: 2024-11-20T10:46:00.000+01:00
 article-order: 16
 uid: Asamblea-Clima-Mallorca
 title: “La Asamblea por el Clima de Mallorca fue un ejercicio pionero de
