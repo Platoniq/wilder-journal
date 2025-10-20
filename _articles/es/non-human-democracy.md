@@ -16,9 +16,9 @@ cover:
   path: /media/articles/heroes/esepe-reflejo.png
   mobile: /media/articles/mobile/esepe-reflejo.png
   thumbnail: /media/articles/thumbnails/esepe-reflejo.png
-  alt: Esepe, left right, 2023
-  credits: Esepe, left right, 2023
-  caption: Esepe, left right, 2023
+  alt: Esepe, espejo, 2023
+  credits: Esepe, espejo, 2023
+  caption: Esepe, espejo, 2023
 related_article_uids:
   - deliberative-assemblies
   - democracy-manifesto
@@ -43,13 +43,13 @@ Inspirados por **Bruno Latour**, **Lynn Margulis** y **Donna Haraway**, podemos 
 
 {% quote { "author": "Lynn Margulis" } %}La vida es una unión simbiótica y cooperativa que permite triunfar a quienes se asocian{% endquote %}
 
-Latour imaginó un *Parlamento de las Cosas*, donde los actantes no humanos —desde las corrientes marinas hasta los chips de silicio— participan en las decisiones que les afectan. Margulis nos recordó que toda vida es simbiosis, y Haraway que debemos “permanecer con el problema”: componer alianzas parciales entre humanos, animales, máquinas y ecosistemas.
+Latour imaginó un *Parlamento de las Cosas*, donde los actantes no humanos, desde las corrientes marinas hasta los chips de silicio, participan en las decisiones que les afectan. Margulis nos recordó que toda vida es simbiosis, y Haraway que debemos “permanecer con el problema”: componer alianzas parciales entre humanos, animales, máquinas y ecosistemas.
 
 ## **El océano como sujeto de deliberación**
 
 En Barcelona, cuarenta ciudadanos se reunieron frente al mar para debatir sobre el futuro del océano. Pero el escenario no era neutro: **el propio océano era parte del diálogo**.
 
-El sonido de las olas, la brisa salina y los sensores ambientales que acompañaban la sesión configuraban un espacio de escucha ampliada, donde la materialidad del entorno actuaba como mediadora. Este marco encarna la “ética del ensamblaje” de **Jane Bennett**, reconociendo la agencia vibrante de lo material.
+El sonido de las olas, la brisa salina y los sensores ambientales que acompañaban la sesión configuraban un espacio de escucha ampliada, donde la materialidad del entorno actuaba como mediadora. Este marco encarna **la “ética del ensamblaje” de Jane Bennett**, reconociendo la agencia vibrante de lo material.
 
 La asamblea del océano fue solo el primer paso hacia un proceso global que aspira a reunir a **10.000 ciudadanos en 100 países**. Cada encuentro local será un microcosmos de esta nueva política de cohabitación, en la que los seres humanos deliberan sabiendo que no están solos: los océanos, los bosques, las máquinas y los virus también forman parte del proceso.
 
@@ -70,7 +70,6 @@ La deliberación no humana no sustituye la democracia: la amplía. Nos recuerda 
 Como señala Haraway, se trata de **“componer con otros”**, no de hablar en su nombre. De diseñar procesos participativos que integren la sensibilidad de los sensores, la voz de las mareas y la responsabilidad hacia lo que aún no ha nacido. Reconocerlo es aceptar que la política no se limita al lenguaje humano, sino que se expresa también en los flujos de datos, las corrientes de aire o los ritmos del clima. **La democracia más que humana** consiste en aprender a deliberar dentro de este entramado, escuchando no solo lo que se dice, sino lo que vibra, se transforma o resiste.
 
 Diseñar procesos participativos que incorporen **la sensibilidad de los sensores**, **la voz de las mareas** y **la responsabilidad hacia quienes aún no han nacido** es una forma de asumir que el cuidado también es una práctica política. Esta ampliación de la democracia exige una nueva imaginación cívica: una que entienda que **habitar el planeta es deliberar con él**, y que toda decisión humana es, inevitablemente, una decisión ecológica.
-
 
 {% gallery { "simple": false, "images": [{"path":"/media/gkqq-6sweaajmcl.jpeg","caption":"40 ciudadanos dando voz a los Océanos","alt":"40 ciudadanos dando voz a los Océanos","credits":"Platoniq (2024)"}] } %}
 
