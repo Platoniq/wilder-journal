@@ -29,7 +29,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/esepe-reflejo.png
 ---
-[](https://missionspubliques.org/the-inaugural-session-of-the-global-citizens-assembly-kick-off-soon-during-the-un-ocean-decade/?lang=en)**How can we imagine a democracy where the sea, algorithms and bacteria also have a voice?** As ecological and technological challenges overwhelm human institutions, new forms of deliberation are beginning to emerge. 
+**How can we imagine a democracy where the sea, algorithms and bacteria also have a voice?** As ecological and technological challenges overwhelm human institutions, new forms of deliberation are beginning to emerge. 
 
 One of these took place in Barcelona in April 2024: **the first Global Citizens' Assembly on the Ocean,** an initiative of Missions Publiques, facilitated by Platoniq and other partners, within the framework of the [UN Ocean Decade initiative](https://missionspubliques.org/the-inaugural-session-of-the-global-citizens-assembly-kick-off-soon-during-the-un-ocean-decade/?lang=en).
 
