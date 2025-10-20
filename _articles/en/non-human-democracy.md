@@ -22,5 +22,5 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/esepe-lefttight-y-viceversa.jpg
+  path: /media/articles/social/esepe-reflejo.png
 ---

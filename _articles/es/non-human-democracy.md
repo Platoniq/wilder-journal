@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/esepe-lefttight-y-viceversa.jpg
+  path: /media/articles/social/esepe-reflejo.png
 ---
 **¿Cómo imaginar una democracia donde el mar, los algoritmos o las bacterias también tienen voz?** Mientras los retos ecológicos y tecnológicos desbordan las instituciones humanas, nuevas formas de deliberación comienzan a emerger. Una de ellas acaba de tener lugar en Barcelona: la **primera Asamblea Global Ciudadana sobre el Océano**, una iniciativa de *Missions Publiques*, *Platoniq*, *Raons Publiques* y otros socios, en el marco de la **Década de las Ciencias Oceánicas de Naciones Unidas**.
 
