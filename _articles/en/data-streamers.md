@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-01-09T17:28:04.239Z
 date-updated: 2024-01-09T17:28:04.305Z
-article-order: 13
+article-order: 15
 uid: data-streamers
 title: Dialogue on vertigo, storytelling and data legacy
 description: Pau Garcia is a researcher in the areas of new media technology and
