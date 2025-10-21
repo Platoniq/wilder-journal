@@ -34,7 +34,7 @@ image:
 ---
 En tiempos de polarización, desconfianza y discursos extremos, surgen nuevas formas de hacer política. Desde París hasta Bogotá, desde Bruselas hasta Budapest, las **asambleas ciudadanas** se abren paso como espacios de deliberación colectiva. Mauricio Mejía, ex-coordinador del área de participación ciudadana y deliberación de la **OCDE**, explica cómo estas experiencias están redefiniendo la democracia y por qué el futuro podría parecerse más a un sorteo que a una urna.
 
-**¿Por qué la participación ciudadana es un tema prioritario para la OCDE?**
+### **¿Por qué la participación ciudadana es un tema prioritario para la OCDE?**
 
 Lo es por dos razones principales. Primero, porque está directamente relacionada con la **confianza en las instituciones democráticas**. En estudios recientes como el *[Estudio Global sobre Confianza](https://www.edelman.com/es/es/trust/2025/trust-barometer)* vemos que la posibilidad de participar y sentir que esa participación tiene un impacto real es uno de los factores que más influyen en la confianza ciudadana.
 
@@ -59,8 +59,6 @@ La mayoría se concentran en **Europa, Norteamérica, Australia, Japón** y otro
 Porque **funciona**. Es un método de toma de decisiones que **fortalece la confianza** y **genera valor cívico**. Las personas sorteadas se involucran, se informan, conocen otras realidades y vuelven a casa con una comprensión más profunda de los temas tratados, ya sea medio ambiente, transporte o educación.
 
 {% quote %}En las asambleas sobre cambio climático, por ejemplo, las propuestas ciudadanas tienden a ser más visionarias y optimistas que las de los parlamentos tradicionales{% endquote %}
-
-
 
 Y además, los resultados suelen ser **más ambiciosos y constructivos**. En las **asambleas sobre cambio climático**, por ejemplo, las propuestas ciudadanas tienden a ser **más visionarias y optimistas** que las de los parlamentos tradicionales.
 
