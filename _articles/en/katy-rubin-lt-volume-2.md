@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-01-09T17:04:41.157Z
 date-updated: 2024-01-09T17:04:41.310Z
-article-order: 13
+article-order: 12
 uid: katy-rubin
 title: Legislative Theatre looks at policy issues in the way that they're
   informed by power
