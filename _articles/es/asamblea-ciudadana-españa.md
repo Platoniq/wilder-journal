@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-10-22T09:31:00.000+02:00
 date-updated: 2024-10-22T09:31:00.000+02:00
-article-order: 15
+article-order: 13
 uid: asamblea-ciudadana-españa
 title: “Fuimos cien personas con buena voluntad que demostramos que se pueden
   alcanzar acuerdos por el clima”. Conversamos con ex-asambleístas de la
