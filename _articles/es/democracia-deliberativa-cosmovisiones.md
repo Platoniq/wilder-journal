@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-21T08:07:00.000+01:00
 date-updated: 2024-11-21T08:07:00.000+01:00
-article-order: 16
+article-order: 14
 uid: Democracia-deliberativa-cosmovisiones
 title: "Cosmovisiones sociales y democracia deliberativa: una conversación sobre
   cómo entendemos lo común"

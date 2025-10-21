@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-21T08:07:00.000+01:00
 date-updated: 2024-11-21T08:07:00.000+01:00
-article-order: 16
+article-order: 14
 uid: Democracia-deliberativa-cosmovisiones
 title: "Social worldviews and deliberative democracy: a conversation about how
   we understand the common good"
