@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-10-21-a-las-8.11.14.png
 ---
 Hablamos con **Jaume López,** ex-director general de Buen Gobierno en la Generalitat de Cataluña y profesor en diversas universidades. Actualmente sigue Investigando sobre participación democrática, bienes comunes y cosmovisiones sociales.
 
