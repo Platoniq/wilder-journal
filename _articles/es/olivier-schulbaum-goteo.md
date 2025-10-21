@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-01-09T14:09:28.267Z
 date-updated: 2024-01-09T14:09:28.384Z
-article-order: 13
+article-order: 14
 uid: olivier-schulbaum-goteo
 title: '"Goteo engloba acceso a la cultura, democratización de la financiación y
   derecho a sostener proyectos ciudadanos a largo plazo"'
