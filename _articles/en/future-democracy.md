@@ -46,7 +46,7 @@ In reality, **people do not have much trust in institutions,** but when they can
 
 For the past 15 to 20 years, we have seen an **upward trend** in deliberative processes: citizens' assemblies, citizens' juries, deliberative panels, which are gradually becoming integrated as a complement to so-called "representative democracy".
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-10-21-a-las-22.09.55.png","alt":"Número de procesos deliberativos representativos a lo largo del tiempo (total por año), 1979–2023","caption":"Número de procesos deliberativos representativos a lo largo del tiempo (total por año), 1979–2023","credits":"OCDE (2023)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-10-21-a-las-22.09.55.png","alt":"Number of representative deliberative processes over time (total per year), 1979–2023","caption":"Number of representative deliberative processes over time (total per year), 1979–2023","credits":"OCDE (2023)"}] } %}
 
 ### **Is this 'deliberative democracy' growing worldwide?**
 
@@ -58,7 +58,7 @@ Most are concentrated in **Europe, North America, Australia, Japan,** and other 
 
 Because it **works.** It is a decision-making method that strengthens trust and **generates civic value.** The people selected get involved, learn about other realities, and return home with a deeper understanding of the issues at hand, whether it be the environment, transport, or education.
 
-{% quote %}En las asambleas sobre cambio climático, por ejemplo, las propuestas ciudadanas tienden a ser más visionarias y optimistas que las de los parlamentos tradicionales{% endquote %}
+{% quote %}At climate change assemblies, for example, citizens' proposals tend to be more visionary and optimistic than those of traditional parliaments.{% endquote %}
 
 What is more, the results tend to be more **ambitious and constructive**. At climate change assemblies, for example, citizens' proposals tend to be more **visionary and optimistic** than those of traditional parliaments.
 
@@ -74,7 +74,7 @@ I wouldn't call it a direct answer, but it is **a possible solution to polarisat
 
 Yes, and it has already happened. They cannot always directly influence government decisions, but there are examples. In **China**, there have been local deliberations. In **Ukraine,** despite martial law, the **Council of Europe** is promoting deliberative assemblies. Even in **Hungary,** where liberal democracy faces tensions, the city of **Budapest** has organised one. Deliberation not only improves political decisions: it also strengthens social cohesion and community self-management..
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-10-21-a-las-22.14.34.png","alt":"Número de veces que un tema de política pública ha sido abordado mediante un proceso deliberativo representativo","caption":"Número de veces que un tema de política pública ha sido abordado mediante un proceso deliberativo representativo","credits":"OCDE (2023)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-10-21-a-las-22.14.34.png","alt":"Number of times a public policy issue has been addressed through a representative deliberative process","caption":"Number of times a public policy issue has been addressed through a representative deliberative process","credits":"OCDE (2023)"}] } %}
 
 ### **What new trends do you see for the future?**
 
