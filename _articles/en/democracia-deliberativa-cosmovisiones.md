@@ -17,8 +17,12 @@ author_uids:
 interviewee: Jaume López
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-21-a-las-8.11.14.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-10-21-a-las-8.11.14.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - salud-mental-asamblea-tolosa
+  - Quim-Brugue-Participacio
+  - Ernesto-Ganuza
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
