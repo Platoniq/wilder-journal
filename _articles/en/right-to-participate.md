@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-07-21T12:07:00.000+02:00
 date-updated: 2025-07-21T12:07:00.000+02:00
-article-order: 16
+article-order: 15
 uid: right-to-participate
 title: "From Ballot Boxes to Courtrooms: Rethinking the Right to Participate"
 description: The right to participate is a fundamental human right, recognized
