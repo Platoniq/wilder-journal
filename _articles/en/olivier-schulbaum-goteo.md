@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-01-09T14:09:28.267Z
 date-updated: 2024-01-09T14:09:28.384Z
-article-order: 14
+article-order: 13
 uid: olivier-schulbaum-goteo
 title: '"Goteo encompasses access to culture, democratisation of funding and the
   right to sustain citizen projects in the long term"'
@@ -24,8 +24,7 @@ cover:
   caption: Olivier Schulbaum
 related_article_uids:
   - neo-sindicalismo
-  - nature-sdg-in-goteo
-  - democratic-funding
+  - decide-madrid
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
