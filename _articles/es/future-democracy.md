@@ -96,7 +96,7 @@ Sí, pero no es algo nuevo. La democracia siempre está en riesgo porque **depen
 
 Lo que sí veo claramente en declive es la **democracia representativa tradicional**. Cada vez menos gente se identifica con partidos o sindicatos. Las estructuras clásicas de representación están vacías.
 
-Por eso creo que la **democracia deliberativa** —basada en el sorteo y la participación directa— puede aportar **aire fresco**, recuperar legitimidad y repensar qué significa realmente representar a la ciudadanía. Al fin y al cabo, ¿es más representativo alguien elegido por el 20% del electorado o alguien seleccionado al azar que delibera con rigor y compromiso?
+Por eso creo que la **democracia deliberativa** basada en el sorteo y la participación directa puede aportar **aire fresco**, recuperar legitimidad y repensar qué significa realmente representar a la ciudadanía. Al fin y al cabo, ¿es más representativo alguien elegido por el 20% del electorado o alguien seleccionado al azar que delibera con rigor y compromiso?
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-10-21-a-las-22.18.57.png"}] } %}
 
