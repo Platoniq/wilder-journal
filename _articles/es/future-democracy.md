@@ -15,7 +15,7 @@ author_uids:
 interviewee: Mauricio Mejía
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-21-a-las-22.06.22.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-10-21-a-las-22.06.22.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Mauricio Mejía
   credits: Mauricio Mejía
