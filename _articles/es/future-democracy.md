@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-10-21-a-las-22.06.22.png
 ---
 En tiempos de polarización, desconfianza y discursos extremos, surgen nuevas formas de hacer política. Desde París hasta Bogotá, desde Bruselas hasta Budapest, las **asambleas ciudadanas** se abren paso como espacios de deliberación colectiva. Mauricio Mejía, ex-coordinador del área de participación ciudadana y deliberación de la **OCDE**, explica cómo estas experiencias están redefiniendo la democracia y por qué el futuro podría parecerse más a un sorteo que a una urna.
 
