@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-20T10:46:00.000+01:00
 date-updated: 2024-11-20T10:46:00.000+01:00
-article-order: 16
+article-order: 14
 uid: Asamblea-Clima-Mallorca
 interviewee: Eva Cardona
 cover:
