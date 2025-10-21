@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-07-21T12:07:00.000+02:00
 date-updated: 2025-07-21T12:07:00.000+02:00
-article-order: 14
+article-order: 16
 uid: right-to-participate
 title: "De las urnas a los tribunales: Repensar el derecho de participación"
 description: El derecho a participar es un derecho humano fundamental,
