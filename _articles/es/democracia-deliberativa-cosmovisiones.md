@@ -113,3 +113,7 @@ La cosmovisión de una persona, además, no es fija. Se forma a partir de factor
 A veces, lo que cambia no es la cosmovisión, sino el contexto que permite expresarla. Por eso, cuando se dice que la juventud actual es más “machista” o más “individualista”, conviene preguntarse si antes lo contrario era realmente cierto, o si simplemente no se expresaba. Las variaciones visibles en los valores públicos responden más a dinámicas comunicativas o mediáticas que a verdaderos cambios civilizatorios.
 
 En definitiva, vivimos en un tiempo donde las cosmovisiones se enfrentan más abiertamente, pero también donde tenemos la oportunidad de hacerlas dialogar. Esa es la tarea: construir espacios deliberativos que reconozcan esas diferencias y las conviertan en una fuente de aprendizaje común.
+
+__
+
+*La entrevista tuvo lugar en el **Foro sobre Deliberación, Creatividad y Democracia,** durante los días 15 y 18 de Octubre de 2024, gracias al apoyo de la Open Society Foundation y la Diputació de Barcelona.*
