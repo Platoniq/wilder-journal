@@ -18,7 +18,7 @@ interviewee: Jaume López
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-21-a-las-8.11.14.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-10-21-a-las-8.11.14.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-10-21-a-las-8.11.14.png
 related_article_uids:
   - salud-mental-asamblea-tolosa
   - Quim-Brugue-Participacio
