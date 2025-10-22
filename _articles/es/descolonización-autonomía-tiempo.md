@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-06-05T13:00:00.000Z
 date-updated: 2025-06-05T13:00:00.000Z
-article-order: 12
+article-order: 11
 uid: Descolonización-autonomía-tiempo
 title: Descolonización, autonomía y tiempo en la democracia deliberativa
 description: Conversación entre Azucena Morán y Olivier Schulbaum (Escuela de
