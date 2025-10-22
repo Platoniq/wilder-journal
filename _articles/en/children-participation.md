@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-05-12T12:08:00.000Z
 date-updated: 2025-05-12T12:08:00.000Z
-article-order: 11
+article-order: 12
 uid: children-participation
 title: When it's all about children's voices. On children's participation in
   public policy-making (with Esther and Oisin)
