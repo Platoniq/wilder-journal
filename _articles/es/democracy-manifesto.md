@@ -7,7 +7,8 @@ date: 2024-02-29T10:07:46.718Z
 date-updated: 2024-02-29T10:07:46.718Z
 article-order: 4
 uid: democracy-manifesto
-title: Subirse a la ola deliberativa para ampliar la democracia
+title: "Manifiesto por la ampliación de la democracia: subirse a la ola
+  deliberativa para mejorar la democracia"
 description: Hoy se presenta el manifiesto “Ampliando la Democracia”, que alerta
   de la debilidad de nuestro sistema democrático y propone 7 medidas concretas
   para atajar esta crisis.
