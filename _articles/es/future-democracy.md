@@ -7,7 +7,8 @@ date: 2024-11-21T21:57:00.000+01:00
 date-updated: 2024-11-21T21:57:00.000+01:00
 article-order: 14
 uid: future-democracy
-title: La democracia está en peligro, ¡viva la democracia!
+title: La democracia está en peligro, ¡viva la democracia! Cinco tendencias que
+  reafirman el auge de la democracia deliberativa en todo el mundo
 description: "La democracia está en peligro, viva la democracia. "
 author: Cristian Palazzi
 author_uids:

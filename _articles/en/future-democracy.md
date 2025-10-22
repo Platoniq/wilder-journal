@@ -7,7 +7,8 @@ date: 2024-11-21T21:57:00.000+01:00
 date-updated: 2024-11-21T21:57:00.000+01:00
 article-order: 14
 uid: future-democracy
-title: Democracy is in danger, long live democracy!
+title: Democracy is in danger, long live democracy! Five trends that reaffirm
+  the rise of deliberative democracy around the world
 description: Democracy is in danger, long live democracy!
 author: Cristian Palazzi
 author_uids:
