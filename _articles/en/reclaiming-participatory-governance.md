@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-05-26T20:27:00.000Z
 date-updated: 2024-05-26T20:27:00.000Z
-article-order: 14
+article-order: 15
 uid: reclaiming-participatory-governance
 title: "Inspiring Democratic Innovation: A Conversation with Sonia Bussu on
   Reclaiming Participatory Governance"
