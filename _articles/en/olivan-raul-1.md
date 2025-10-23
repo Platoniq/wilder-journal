@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-10-23-a-las-14.51.44.png
 ---
 Currently, political disaffection is a growing phenomenon in many democratic societies. More and more people feel disillusioned and disconnected from politics and its institutions, which has led to widespread concern about the health of our democracies.
 

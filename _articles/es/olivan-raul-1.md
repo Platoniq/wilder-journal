@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-10-23-a-las-14.51.44.png
 ---
 En la actualidad, la desafección política es un fenómeno creciente en muchas sociedades democráticas. Cada vez son más las personas que se sienten desilusionadas y desconectadas de la política y sus instituciones, lo que ha llevado a una preocupación generalizada sobre la salud de nuestras democracias. 
 
