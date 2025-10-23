@@ -18,7 +18,7 @@ interviewee: Raúl Oliván
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-23-a-las-14.51.44.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-10-23-a-las-14.51.44.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-10-23-a-las-14.51.44.png
 related_article_uids:
   - future-democracy
   - salud-mental-asamblea-tolosa
