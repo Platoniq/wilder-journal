@@ -19,7 +19,7 @@ author_uids:
 interviewee: Raúl Oliván
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-23-a-las-14.51.44.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-10-23-a-las-14.51.44.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Raul
   credits: Raul
