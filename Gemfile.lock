@@ -8,7 +8,8 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: fc8d8b4d8cfdec05bab1b314c561b310d9c56374
+  revision: 95b8779604506b67932613327909998c2cd55730
+  branch: feat/wilder-2-background-colors
   specs:
     jekyll-theme-platoniq-journal (0.0.116)
       jekyll (~> 4.2)
