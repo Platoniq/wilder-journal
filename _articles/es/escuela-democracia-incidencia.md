@@ -73,21 +73,17 @@ Pero no solo eso. Desde la Fundación Platoniq, se acompañó a los jóvenes par
 
 {% gallery { "simple": false, "images": [{"path":"/media/p1075237-mejorado-nr.jpg","alt":"Presentación de las conclusiones a la Agencia Catalana de Juventut","caption":"Presentación de las conclusiones a la Agencia Catalana de Juventut","credits":"Platoniq (2025)"}] } %}
 
-Como colofón a todo este trabajo colectivo, entre el 23 y 26 de junio de 2025, el grupo de jóvenes de Barcelona viajó a Manchester para seguir profundizando en las recomendaciones surgidas del proceso, pero no sin antes haber dialogado a través de un [podcast colaborativo](https://openspaces.platoniq.net/conferences/MRLT/f/507/proposals?locale=es) donde trataron diversos temas relacionados con la salud mental.
+Como colofón a todo este trabajo colectivo, entre el 23 y 26 de junio de 2025, el grupo de jóvenes de Barcelona viajó a Manchester para **seguir profundizando en las recomendaciones surgidas del proceso,** pero no sin antes haber dialogado a través de un [podcast colaborativo](https://openspaces.platoniq.net/conferences/MRLT/f/507/proposals?locale=es) donde trataron diversos temas relacionados con la salud mental.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NiGjzY-h7-g?si=PCnIDzwHaFeEiWdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Fruto de esos diálogos, se identificaron [cuatro grandes problemáticas a la luz de la mirada interseccional:](https://openspaces.platoniq.net/conferences/MRLT/f/513/proposals?locale=es) ansiedad ecológica, igualdad de género en las escuelas, fin del tokenismo, precariedad habitacional, que fueron trabajadas mediante talleres de Teatro Legistativo que acabaron por producir tres recomendaciones políticas contrastadas con 
+Fruto de esos diálogos, se identificaron **[cuatro grandes problemáticas a la luz de la mirada interseccional:](https://openspaces.platoniq.net/conferences/MRLT/f/513/proposals?locale=es)** ansiedad ecológica, igualdad de género en las escuelas, fin del tokenismo, precariedad habitacional, que fueron trabajadas mediante talleres de Teatro Legistativo que acabaron por producir** [tres recomendaciones contrastadas políticamente](https://openspaces.platoniq.net/conferences/MRLT/f/508/proposals)** con diversas autoridadesz de Great Manchester, así como profesores e investigadores de entidades sociales. 
 
+{% questions { "items": [{"question":"Propuesta 1: Cada escuela y puesto de trabajo tiene un Departamento de igualdad y derechos"},{"question":"Propuesta 2: Creación de un Consejo de Responsabilidad y Legado"},{"question":"Propuesta 3: Fomento de espacios seguros para probar nuevas maneras de trabajar"}] } %}
 
+Las recomendaciones elaboradas en Manchester y Barcelona muestran que cuando los jóvenes son situados en primera línea, no solo emergen propuestas concretas para mejorar servicios y accesos, sino también nuevas formas de comprender la democracia y el cuidado en clave colectiva, y que la salud mental juvenil no puede abordarse sin **reconocer la pluralidad de identidades y opresiones** que atraviesan sus vidas.
 
-
-
-
-
-La salud mental juvenil no puede abordarse sin **reconocer la pluralidad de identidades y opresiones** que atraviesan sus vidas. Las recomendaciones elaboradas en Manchester y Barcelona muestran que cuando los jóvenes son situados en primera línea, no solo emergen propuestas concretas para mejorar servicios y accesos, sino también nuevas formas de comprender la democracia y el cuidado en clave colectiva.
-
-Fruto de este trabajo presentamos, [](<>)las **recomendaciones sobre salud mental interseccional elaboradas por jóvenes de 16 a 25 años** a través de tres procesos participativos: *Mindset Revolution* en Manchester, y *Foro Joven* y *CoActuem per la Salut Mental* en Barcelona.
+Fruto de todo este trabajo presentamos, [](<>)las **recomendaciones sobre salud mental interseccional elaboradas por jóvenes de 16 a 25 años** a través de tres procesos participativos: *Mindset Revolution* en Manchester, y *Foro Joven* y *CoActuem per la Salut Mental* en Barcelona.
 
 {% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
