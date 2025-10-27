@@ -47,7 +47,7 @@ En resumen, se trata de un conjunto de saberes y experiencias que configuran una
 
 Tras una primera edición, se recopilan los **cinco policy briefs** que se han elaborado durante los 3 meses que ha durado la formación y que representan la síntesis perfecta entre capacitación e incidencia que busca la Escuela.
 
-## Usos del tiempo y su relación con la participación política: propuesta de redistribución
+## **Usos del tiempo y su relación con la participación política: propuesta de redistribución**
 
 **Si el tiempo está desigualmente distribuido, la democracia también lo está.** Con esa premisa, diseñamos un **experimento de democracia participativa** para comprobar hasta qué punto la “pobreza de tiempo” empuja sobre todo a quienes cuidan y a quienes encadenan jornadas laborales sin parar fuera de los espacios donde se decide lo común.
 
@@ -63,7 +63,7 @@ El aprendizaje central del experimento fue sin duda que **sin justicia temporal 
 
 {% file { "title": "Usos del tiempo y su relación con la participación política: propuesta de redistribución", "info": "Policy Brief", "file": "/media/pb-tiempo-profundo.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.05.29.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-## Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental[](https://drive.google.com/drive/u/0/folders/1nfGjNDRNo1VFO6frUQ-Pc6YPrcXLRGLi)
+## **Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental**[](https://drive.google.com/drive/u/0/folders/1nfGjNDRNo1VFO6frUQ-Pc6YPrcXLRGLi)
 
 Hace tres años que jóvenes de Manchester y Barcelona vienen trabajando con Platoniq en procesos de **investigación participativa y democracia creativa** sobre salud mental. Mediante el **Teatro Legislativo**, la participación digital y asambleas presenciales, han conseguido representar sus experiencias para visibilizar las opresiones interseccionales que enfrentan y transformarlas en propuestas políticas.
 
@@ -87,7 +87,7 @@ Fruto de todo este trabajo presentamos, [](<>)las **recomendaciones sobre salud 
 
 {% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-## Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes
+## **Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes**
 
 El **Taller Derecho a la Ciudad** marcó la culminación del itinerario formativo de la primera edición de la Escuela de Creatividad y Democracia. El 10 de julio de 2025, quince jóvenes de entre 18 y 30 años de Barcelona, migrantes acompañados por la Fundació Barcelonactua, activistas en defensa de los derechos de la población migrante y una representante de la Generalitat, participaron en un **ejercicio de Teatro Legislativo** facilitado por la propia cohorte de la Escuela. Fue un espacio seguro y participativo donde, a través de la teatralización, la investigación colectiva y herramientas digitales, se repensó el derecho a la ciudad desde la diversidad de clase, etnia y género.
 
@@ -101,7 +101,7 @@ Este ejercicio no solo generó recomendaciones concretas, sino que demostró el 
 
 {% file { "title": "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes", "info": "Policy Brief", "file": "/media/pb-derecho-a-la-ciudad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.08.40.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-## Madres migrantes: triple vulnerabilidad y derecho a una vida digna
+## **Madres migrantes: triple vulnerabilidad y derecho a una vida digna**
 
 En Barcelona, un grupo de madres migrantes se reunió en 2025 para transformar sus vivencias en acción política. Con el apoyo de Platoniq y mediante el **Teatro Legislativo**, pusieron en escena momentos que cargaban cada día: la puerta cerrada de una agencia inmobiliaria al ver un hijab, la humillación en una entrevista por ser madre sola, la frialdad de un centro de salud que cuestiona su derecho a ser atendida. Cada escena fue un espejo de la exclusión, pero también un punto de partida.
 
@@ -115,7 +115,7 @@ Más allá de las medidas, el taller permitió aprender que **las madres migrant
 
 {% file { "title": "Madres migrantes: triple vulnerabilidad y derecho a una vida digna", "info": "Policy brief", "file": "/media/pb-triple-vulnerabilidad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-12.32.55.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-## La participación juvenil como infraestructura clave ante el malestar ecosocial
+## **La participación juvenil como infraestructura clave ante el malestar ecosocial**
 
 En una jornada de trabajo —el viernes **11 de julio de 2025**— se abrió un espacio seguro y participativo centrado en voces jóvenes para **expresarse, proponer y reimaginar la democracia** desde sus vivencias, con un podcast en mesa redonda sobre ecoansiedad, salud mental y desafección juvenil (conducido por Alejandra Gallardo junto a Sara S. Ribés y Carla Riera) como detonante del proceso. El objetivo: traducir experiencias cotidianas en materia prima para decisiones públicas ante el malestar ecosocial.
 

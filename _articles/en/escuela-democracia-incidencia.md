@@ -65,17 +65,29 @@ The central learning from the experiment was undoubtedly that without temporal j
 
 ## **Listening to Young People for Better Intersectional Mental Health Support**
 
-This document gathers some of the recommendations on intersectional mental health developed by young people aged 16 to 25 through three participatory processes: *Mindset Revolution* in Manchester, and *Foro Joven* and *CoActuem per la Salut Mental* in Barcelona.
+For three years, young people from Manchester and Barcelona have been working with Platoniq on **participatory research and creative democracy** processes related to mental health. Through Legislative Theatre, digital participation and face-to-face assemblies, they have managed to represent their experiences in order to highlight the intersectional oppressions they face and transform them into policy proposals.
 
-Between 2021 and 2024, young people from Manchester and Barcelona engaged in participatory research and creative democracy processes on mental health. Through Legislative Theater, digital participation, and in-person assemblies, they represented their experiences to make visible the intersectional oppressions they face and transform them into policy proposals.
+These dynamics, combined with online collective mapping processes, enabled young people to **co-create recommendations** for health institutions, schools and local governments. Beyond the content of the proposals, the key was the active **role of young people,** who were not the subject of study, but protagonists in defining the policies that affect them. 
+
+But that's not all. The Platoniq Foundation accompanied the young people in evaluating their own participation and perceived social impact, strengthening both their confidence and their democratic capacities. This change in focus shifts the gaze from individual deficits to processes and structures, inviting the **design of intersectionally inclusive policies.**
 
 {% gallery { "simple": false, "images": [{"path":"/media/p1075237-mejorado-nr.jpg","alt":"Presentation of conclusions to the Catalan Youth Agency","caption":"Presentation of conclusions to the Catalan Youth Agency","credits":"Platoniq (2025)"}] } %}
 
-These dynamics, combined with online collective mapping processes, enabled young people to co-create recommendations directed at health institutions, schools, and local governments. Beyond the content of the proposals, the key was the active role of youth, who were not research subjects but protagonists in defining the policies that affect them.
+To round off all this collective work, between 23rd and 26th June 2025, the group of young people from Barcelona travelled to Manchester to continue **exploring the recommendations that had emerged from the process,** but not before discussing various topics related to mental health in a collaborative podcast.
 
-From Fundación Platoniq, young people were supported in evaluating their own participation and perceived social impact, strengthening both their confidence and democratic capacities. This shift in perspective moves the focus from individual deficits to processes and structures, inviting the design of intersectionally inclusive policies.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NiGjzY-h7-g?si=PCnIDzwHaFeEiWdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-In conclusion, youth mental health cannot be addressed without recognizing the plurality of identities and oppressions that shape their lives. The recommendations developed in Manchester and Barcelona show that when young people are placed at the forefront, not only do concrete proposals emerge to improve services and access, but also new ways of understanding democracy and care in a collective key.
+As a result of these dialogues, **[four major issues were identified from an intersectional perspective:](https://openspaces.platoniq.net/conferences/MRLT/f/513/proposals?locale=en)** ecological anxiety, gender equality in schools, ending tokenism, and housing insecurity. These issues were addressed through Legislative Theatre workshops, which ultimately produced** [three politically verified recommendations](https://openspaces.platoniq.net/conferences/MRLT/f/508/proposals?locale=en)** in collaboration with various authorities in Greater Manchester: Department of Participation, Community Health, Youth and Mobility, as well as teachers and researchers from social organisations.
+
+{% questions { "items": [{"question":"Proposal 1: Every school and workplace has an Equality and Rights Department."},{"question":"Proposal 2: Creation of a Responsibility and Legacy Council"},{"question":"Proposal 3: Promoting safe spaces to try out new ways of working"}] } %}
+
+The recommendations drawn up in Manchester and Barcelona show that when young people are placed at the forefront, not only do concrete proposals emerge to improve services and access, but also new ways of understanding democracy and care in a collective sense, and that youth mental health cannot be addressed without **recognising the plurality of identities and oppressions** that permeate their lives.
+
+As a result of all this work, we present [](<>)the **recommendations on intersectional mental health developed by young people aged 16 to 25** through three participatory processes: *Mindset Revolution* in Manchester, and *Foro Joven* and *CoActuem per la Salut Mental* in Barcelona.
+{% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
+
+
+
 
 {% file { "title": "Listening to young people's voices for better intersectional support in mental health", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
