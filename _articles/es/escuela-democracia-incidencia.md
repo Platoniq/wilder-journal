@@ -73,11 +73,11 @@ Pero no solo eso. Desde la Fundación Platoniq, se acompañó a los jóvenes par
 
 {% gallery { "simple": false, "images": [{"path":"/media/p1075237-mejorado-nr.jpg","alt":"Presentación de las conclusiones a la Agencia Catalana de Juventut","caption":"Presentación de las conclusiones a la Agencia Catalana de Juventut","credits":"Platoniq (2025)"}] } %}
 
-Como colofón a todo este trabajo colectivo, entre el 23 y 26 de junio de 2025, el grupo de jóvenes de Barcelona viajó a Manchester para seguir profundizando en las recomendaciones surgidas del proceso, pero no sin antes haber dialogado a través de un podcast colaborativo donde trataron diversos temas relacionados con la salud mental.
+Como colofón a todo este trabajo colectivo, entre el 23 y 26 de junio de 2025, el grupo de jóvenes de Barcelona viajó a Manchester para seguir profundizando en las recomendaciones surgidas del proceso, pero no sin antes haber dialogado a través de un [podcast colaborativo](https://openspaces.platoniq.net/conferences/MRLT/f/507/proposals?locale=es) donde trataron diversos temas relacionados con la salud mental.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NiGjzY-h7-g?si=PCnIDzwHaFeEiWdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
+Fruto de esos diálogos, se identificaron [cuatro grandes problemáticas a la luz de la mirada interseccional:](https://openspaces.platoniq.net/conferences/MRLT/f/513/proposals?locale=es) ansiedad ecológica, igualdad de género en las escuelas, fin del tokenismo, precariedad habitacional, que fueron trabajadas mediante talleres de Teatro Legistativo que acabaron por producir tres recomendaciones políticas contrastadas con 
 
 
 
