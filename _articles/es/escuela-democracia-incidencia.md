@@ -65,17 +65,29 @@ El aprendizaje central del experimento fue sin duda que **sin justicia temporal 
 
 ## Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental[](https://drive.google.com/drive/u/0/folders/1nfGjNDRNo1VFO6frUQ-Pc6YPrcXLRGLi)
 
-Este documento reúne algunas de las **recomendaciones sobre salud mental interseccional elaboradas por jóvenes de 16 a 25 años** a través de tres procesos participativos: *Mindset Revolution* en Manchester, y *Foro Joven* y *CoActuem per la Salut Mental* en Barcelona.
-
-Entre 2021 y 2024, jóvenes de Manchester y Barcelona participaron en procesos de **investigación participativa y democracia creativa** sobre salud mental. Mediante el **Teatro Legislativo**, la participación digital y asambleas presenciales, representaron sus experiencias para visibilizar las opresiones interseccionales que enfrentan y transformarlas en propuestas políticas.
-
-{% gallery { "simple": false, "images": [{"path":"/media/p1075237-mejorado-nr.jpg","alt":"Presentación de las conclusiones a la Agencia Catalana de Juventut","caption":"Presentación de las conclusiones a la Agencia Catalana de Juventut","credits":"Platoniq (2025)"}] } %}
+Hace tres años que jóvenes de Manchester y Barcelona vienen trabajando con Platoniq en procesos de **investigación participativa y democracia creativa** sobre salud mental. Mediante el **Teatro Legislativo**, la participación digital y asambleas presenciales, han conseguido representar sus experiencias para visibilizar las opresiones interseccionales que enfrentan y transformarlas en propuestas políticas.
 
 Estas dinámicas, combinadas con procesos en línea de mapeo colectivo, permitieron a los jóvenes **co-crear recomendaciones** dirigidas a instituciones de salud, escuelas y gobiernos locales. Más allá del contenido de las propuestas, la clave fue el **rol activo de los jóvenes**, que no fueron objeto de estudio, sino protagonistas en la definición de políticas que les afectan. 
 
-Desde la Fundación Platoniq, se acompañó a los jóvenes para que evaluaran su propia participación y el impacto social percibido, fortaleciendo tanto su confianza como sus capacidades democráticas. Este cambio de enfoque desplaza la mirada de los déficits individuales hacia los procesos y estructuras, invitando a diseñar políticas **interseccionalmente inclusivas**.
+Pero no solo eso. Desde la Fundación Platoniq, se acompañó a los jóvenes para que evaluaran su propia participación y el impacto social percibido, fortaleciendo tanto su confianza como sus capacidades democráticas. Este cambio de enfoque desplaza la mirada de los déficits individuales hacia los procesos y estructuras, invitando a diseñar políticas **interseccionalmente inclusivas**.
 
-En conclusión, la salud mental juvenil no puede abordarse sin **reconocer la pluralidad de identidades y opresiones** que atraviesan sus vidas. Las recomendaciones elaboradas en Manchester y Barcelona muestran que cuando los jóvenes son situados en primera línea, no solo emergen propuestas concretas para mejorar servicios y accesos, sino también nuevas formas de comprender la democracia y el cuidado en clave colectiva.
+{% gallery { "simple": false, "images": [{"path":"/media/p1075237-mejorado-nr.jpg","alt":"Presentación de las conclusiones a la Agencia Catalana de Juventut","caption":"Presentación de las conclusiones a la Agencia Catalana de Juventut","credits":"Platoniq (2025)"}] } %}
+
+Como colofón a todo este trabajo colectivo, entre el 23 y 26 de junio de 2025, el grupo de jóvenes de Barcelona viajó a Manchester para seguir profundizando en las recomendaciones surgidas del proceso, pero no sin antes haber dialogado a través de un podcast colaborativo donde trataron diversos temas relacionados con la salud mental.
+
+
+
+
+
+
+
+
+
+
+
+La salud mental juvenil no puede abordarse sin **reconocer la pluralidad de identidades y opresiones** que atraviesan sus vidas. Las recomendaciones elaboradas en Manchester y Barcelona muestran que cuando los jóvenes son situados en primera línea, no solo emergen propuestas concretas para mejorar servicios y accesos, sino también nuevas formas de comprender la democracia y el cuidado en clave colectiva.
+
+Fruto de este trabajo presentamos, [](<>)las **recomendaciones sobre salud mental interseccional elaboradas por jóvenes de 16 a 25 años** a través de tres procesos participativos: *Mindset Revolution* en Manchester, y *Foro Joven* y *CoActuem per la Salut Mental* en Barcelona.
 
 {% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
