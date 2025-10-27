@@ -38,7 +38,7 @@ image:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ8uhnyJP3Q?si=rK8wu9H_rjySUgyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% questions { "items": [{"question":"¿Cómo asegurar que la voz de los infantes y jóvenes es una voz informada?"},{"question":"¿¿Cuáles son los peligros de influir en su toma de decisiones?"},{"question":"¿Que nos estamos perdiendo al no incluirlos en la dinámica política?"}] } %}
+{% questions { "items": [{"question":"¿Cómo asegurar que la voz de los infantes y jóvenes es una voz informada?"},{"question":"¿Cuáles son los peligros de influir en su toma de decisiones?"},{"question":"¿Que nos estamos perdiendo al no incluirlos en la dinámica política?"}] } %}
 
 Como veremos en adelante existen algunos casos de estudio que nos pueden servir para esclarecer estas preguntas. Algunos de carácter institucional y muchas otras iniciativas que se están llevando a cabo en colegios e institutos que, sin llegar a este nivel, están ensayando metodologías y llegando a resultados que nos muestran la importancia de trasladar la cultura democrática a los más jóvenes.
 
@@ -81,7 +81,7 @@ Pero para acabar es importante referenciar el [Future Council U24](https://profu
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-02-12-a-las-12.06.20.png","caption":"Resultados del Future Council U24","credits":"Pro Futuris Think + Do Tank"}] } %}
 
-La primera asamblea ciudadana de jóvenes de Suiza trató de responder a la pregunta: ¿qué debe hacer Suiza para mejorar la salud mental de los jóvenes, especialmente en los ámbitos de la educación, el trabajo, el ocio, la familia y los servicios sanitarios? llegando a [18 recomendaciones](<>), siendo las más votadas la creación de un banco de datos nacional sobre salud mental y jóvenes, la expansión del seguro de salud suizo en materia de salud mental y reforzar la cooperación entre cantones para abordar esta problemática.
+La primera asamblea ciudadana de jóvenes de Suiza trató de responder a la pregunta: ¿qué debe hacer Suiza para mejorar la salud mental de los jóvenes, especialmente en los ámbitos de la educación, el trabajo, el ocio, la familia y los servicios sanitarios? llegando a[ 18 recomendaciones](https://zukunfts-rat.ch/ergebnisse/), siendo las más votadas la creación de un banco de datos nacional sobre salud mental y jóvenes, la expansión del seguro de salud suizo en materia de salud mental y reforzar la cooperación entre cantones para abordar esta problemática.
 
 ## Story of now: ¿Cómo damos respuesta a esta pregunta?
 
