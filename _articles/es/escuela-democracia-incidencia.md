@@ -71,7 +71,7 @@ Entre 2021 y 2024, jóvenes de Manchester y Barcelona participaron en procesos d
 
 {% gallery { "simple": false, "images": [{"path":"/media/p1075237-mejorado-nr.jpg","alt":"Presentación de las conclusiones a la Agencia Catalana de Juventut","caption":"Presentación de las conclusiones a la Agencia Catalana de Juventut","credits":"Platoniq (2025)"}] } %}
 
-Estas dinámicas, combinadas con procesos en línea de mapeo colectivo, permitieron a los jóvenes **co-crear recomendaciones** dirigidas a instituciones de salud, escuelas y gobiernos locales. Más allá del contenido de las propuestas, la clave fue el **rol activo de los jóvenes**, que no fueron objeto de estudio, sino protagonistas en la definición de políticas que les afectan.
+Estas dinámicas, combinadas con procesos en línea de mapeo colectivo, permitieron a los jóvenes **co-crear recomendaciones** dirigidas a instituciones de salud, escuelas y gobiernos locales. Más allá del contenido de las propuestas, la clave fue el **rol activo de los jóvenes**, que no fueron objeto de estudio, sino protagonistas en la definición de políticas que les afectan. 
 
 Desde la Fundación Platoniq, se acompañó a los jóvenes para que evaluaran su propia participación y el impacto social percibido, fortaleciendo tanto su confianza como sus capacidades democráticas. Este cambio de enfoque desplaza la mirada de los déficits individuales hacia los procesos y estructuras, invitando a diseñar políticas **interseccionalmente inclusivas**.
 
@@ -121,4 +121,4 @@ Más allá del repertorio de medidas, el ejercicio demuestra el espíritu de la 
 
 {% file { "title": "La participación juvenil como infraestructura clave ante el malestar ecosocial", "info": "Policy Brief", "file": "/media/pb-crisis-ecosocial.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.09.53.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-*Un proyecto realizado gracias al apoyo de **Open Society Foundations***
+\*Un proyecto realizado gracias al apoyo de **Open Society Foundations***
