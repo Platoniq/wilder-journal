@@ -31,7 +31,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-10-13-a-las-12.07.28.png
 ---
-A raíz del proyecto sobre racismo inmobiliario en Olot llevado a cabo en 2021, hablamos con Quim Brugué, catedrático de ciencia política y de la administración en el Departamento de Ciencia Política y Derecho Público de la Universitat de Girona, quién entre 2003 y 2008 ejerció como director general de Participación Ciudadana el Gobierno de la Generalidad de Cataluña, para desgranar las **diferencias entre la participación ciudadana y la política institucional** y **qué futuro le espera** a la nueva ola deliberativa de la democracia. 
+A raíz del proyecto sobre racismo inmobiliario en Olot llevado a cabo en 2021, hablamos con Quim Brugué, catedrático de ciencia política y de la administración en el Departamento de Ciencia Política y Derecho Público de la Universitat de Girona, quién entre 2003 y 2008 ejerció como director general de Participación Ciudadana el Gobierno de la Generalitat de Catalunya, para desgranar las **diferencias entre la participación ciudadana y la política institucional** y **qué futuro le espera** a la nueva ola deliberativa de la democracia. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8aYipmgwKS4?si=qyIXuSXiMyemk98M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
