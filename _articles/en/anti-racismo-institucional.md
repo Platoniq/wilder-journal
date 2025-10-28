@@ -11,7 +11,7 @@ interviewee: Desirée Bela-Lobedde
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-28-a-las-19.31.18.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-10-28-a-las-19.31.18.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-10-28-a-las-19.31.18.png
 related_article_uids:
   - children-assemblies
 stickers:
