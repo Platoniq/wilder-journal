@@ -34,9 +34,7 @@ image:
 ---
 Hablamos con **Desirée Bela-Lobedde,** "escritora y madre de dos adolescentes maravillosas", que se dedica a la divulgación de la educación antirracista a través de diferentes formas: escritura de libros, participación en medios de comunicación y la impartición de formaciones, tanto presenciales para empresas e instituciones, como online para un público más general.
 
-
-
-**Alex:** Queríamos hablar contigo sobre la discriminación positiva. Entendemos que ha sido un instrumento de liberación para muchos colectivos oprimidos y minorías infrarrepresentadas. Pero, ¿cómo ves este concepto en el contexto de la democracia representativa?
+**Ale**x: Queríamos hablar contigo sobre la discriminación positiva. Entendemos que ha sido un instrumento de liberación para muchos colectivos oprimidos y minorías infrarrepresentadas. Pero, ¿cómo ves este concepto en el contexto de la democracia representativa?
 
 **Desirée Bela-Lobedde:** Primero, no hablaría de la discriminación positiva como una herramienta de liberación; me parece otorgarle demasiado peso. Considero que la discriminación positiva o las cuotas son necesarias. Por ejemplo, en temas de género, hay sectores muy masculinizados donde se han utilizado cuotas para equilibrar la balanza. Un ejemplo que me viene a la mente es el de los Mossos d'Esquadra, que han decidido que un porcentaje de sus plazas deben ser ocupadas por mujeres para evitar que siga siendo un espacio súper masculinizado. En términos de racialización, pasa lo mismo, pero en muchos más sectores. Si no garantizamos la presencia de personas racializadas a través de cuotas, habrá espacios en los que nunca estaremos representadas. Creo en las cuotas como un medio, no como un fin, para alcanzar una sociedad donde democráticamente esté representado el mayor número de personas. Como actualmente esa representación no existe, hay que forzarla.
 
@@ -112,13 +110,9 @@ Es un problema del imaginario de la gente. Puedo decir que soy francesa, norteam
 
 Relacionan siempre la presencia de personas negras con oleadas de inmigración. Desde la Edad Media, ha habido personas africanas en España; estamos a solo 14 kilómetros de África. La influencia es innegable, pero esto no se explica ni se habla de las contribuciones históricas de las personas afrodescendientes. Por eso, la gente siempre piensa que acabamos de llegar.
 
-**Alex:** Queríamos saber tu opinión sobre un concepto llamado Constitución Migrante. Te lo explicaré en contexto.
+**Queríamos saber tu opinión sobre un concepto llamado Constitución Migrante. Te lo explicaré en contexto. Primero, este concepto surge a partir de los Panteras Negras en Estados Unidos. Ellos proponían constituirse como una nación independiente dentro del país, con su propia constitución negra. Recientemente, el colectivo Topmanta de Barcelona publicó en Instagram una imagen donde indicaban que esa nacionalidad era migrante. Así que, como cualquier nación, en principio debería tener una constitución migrante. Jugando un poco con los términos Constitución Migrante y/o racializada, ¿qué opinas de este concepto? ¿Cuál es tu visión al respecto?**
 
-Primero, este concepto surge a partir de los Panteras Negras en Estados Unidos. Ellos proponían constituirse como una nación independiente dentro del país, con su propia constitución negra. Recientemente, el colectivo Topmanta de Barcelona publicó en Instagram una imagen donde indicaban que esa nacionalidad era migrante.
-
-Así que, como cualquier nación, en principio debería tener una constitución migrante. Jugando un poco con los términos Constitución Migrante y/o racializada, ¿qué opinas de este concepto? ¿Cuál es tu visión al respecto?
-
-**Desirée Bela-Lobedde:**  ¿Constitución en el sentido de las demandas del colectivo? Como un texto que recoja las prerrogativas y reivindicaciones, me parece interesante siempre que sea migrante y racializada. La migración tiene sus particularidades, pero las personas racializadas que somos españolas también tenemos nuestras demandas y prerrogativas.
+¿Constitución en el sentido de las demandas del colectivo? Como un texto que recoja las prerrogativas y reivindicaciones, me parece interesante siempre que sea migrante y racializada. La migración tiene sus particularidades, pero las personas racializadas que somos españolas también tenemos nuestras demandas y prerrogativas.
 
 {% quote %}A mí me interesaría un documento que abordara el racismo, el antirracismo, la derogación de la ley de extranjería, la eliminación de los CIEs, el legado colonial en las ciudades españolas, la descolonización del currículum, etc. Pero una vez recogido todo eso, me gustaría que pasara por un proceso político para que tuviera fuerza legal. {% endquote %}
 
@@ -126,8 +120,8 @@ Si se entiende por constitución un documento que recoja todo eso, me parece int
 
 Pero, ¿qué hacemos con todo esto? Por ejemplo, con la ILP para la regularización ya se pedía un mínimo de medio millón de firmas para que la iniciativa legislativa popular llegara al Congreso y fuera aprobada. Y luego, en mayo, ¿no? De repente el PSOE dijo... ¡Uy! Igual no, ¿eh? Este es el obstáculo siempre. ¿Cómo desde el interés público no hay interés por legislar sobre estas cuestiones?
 
-**Alex:** Recapitulando un poco y en base a lo que has comentado, es necesario elaborar nuevas narrativas para cambiar el interés público, intentar cambiar el foco. Para eso, necesitamos una educación antirracista y nuevas narrativas, lo cual es complicado, ¿no?
+**Recapitulando un poco y en base a lo que has comentado, es necesario elaborar nuevas narrativas para cambiar el interés público, intentar cambiar el foco. Para eso, necesitamos una educación antirracista y nuevas narrativas, lo cual es complicado, ¿no?**
 
-**Desirée Bela-Lobedde:** Educación e interés. Sobre todo, interés político. Se ha demostrado en varias ocasiones que cuando hay interés político, las cosas se mueven. Pienso en la regularización exprés durante la pandemia de personas migrantes con titulaciones sanitarias porque se necesitaba. También se concedió asilo exprés a la población ucraniana durante la guerra entre Rusia y Ucrania. Mientras, personas de territorios como Sudán llevan años demandando asilo sin éxito.
+Educación e interés. Sobre todo, interés político. Se ha demostrado en varias ocasiones que cuando hay interés político, las cosas se mueven. Pienso en la regularización exprés durante la pandemia de personas migrantes con titulaciones sanitarias porque se necesitaba. También se concedió asilo exprés a la población ucraniana durante la guerra entre Rusia y Ucrania. Mientras, personas de territorios como Sudán llevan años demandando asilo sin éxito.
 
 Estas iniciativas muestran que, si hay interés político, las cosas pueden cambiar. Necesitamos educación antirracista a nivel general e interés político en particular.

@@ -88,7 +88,7 @@ So anti-racist education is fundamental for everyone, and that's it. When you ha
 
 **In terms of your activism, how do you deal with being considered an immigrant rather than Spanish, if that happens to you? Do you see your identity as hybrid?**
 
-Desirée Bela-Lobedde: What identity isn't, really? We live in such a polarised society that it only understands you as one thing or another, without conceiving that you can be the sum of many things, which is very limiting.
+What identity isn't, really? We live in such a polarised society that it only understands you as one thing or another, without conceiving that you can be the sum of many things, which is very limiting.
 
 One of the problems, as I mention in my book Ser mujer negra en España (Being a Black Woman in Spain), is that Spain deceives itself into believing that it is not a racist country. This is difficult to understand, especially as part of the West and a product of an imperialist and colonial society. It is almost impossible for there to be no racism there, but that is another issue.
 
@@ -100,7 +100,7 @@ They always relate the presence of black people to waves of immigration. There h
 
 **We wanted to know your opinion on a concept called the Migrant Constitution. I'll explain it in context. First, this concept originated with the Black Panthers in the United States. They proposed to establish themselves as an independent nation within the country, with their own black constitution. Recently, the Topmanta collective in Barcelona posted an image on Instagram indicating that this nationality was migrant. So, like any nation, in principle it should have a migrant constitution. Playing around a bit with the terms Migrant Constitution and/or racialised, what do you think of this concept? What is your view on this?**
 
-{% quote %}A mí me interesaría un documento que abordara el racismo, el antirracismo, la derogación de la ley de extranjería, la eliminación de los CIEs, el legado colonial en las ciudades españolas, la descolonización del currículum, etc. Pero una vez recogido todo eso, me gustaría que pasara por un proceso político para que tuviera fuerza legal. {% endquote %}
+{% quote %}I would be interested in a document that addressed racism, anti-racism, the repeal of the immigration law, the elimination of the CIEs, the colonial legacy in Spanish cities, the decolonisation of the curriculum, etc. But once all that has been compiled, I would like it to go through a political process so that it has legal force{% endquote %}
 
 If by constitution we mean a document that covers all of that, I find it interesting. However, I think it would be difficult to implement in practice, not because the document is not valuable, but because of public interest. I would be interested in a document that addressed racism, anti-racism, the repeal of the immigration law, the elimination of the CIEs, the colonial legacy in Spanish cities, the decolonisation of the curriculum, etc. But once all that has been compiled, I would like it to go through a political process so that it has legal force. That is where we encounter the obstacle. The easiest part would be to draft the Constitution itself, but it is difficult to get it to the political institutions for consideration. Ideologically, it would be a very necessary and useful instrument. By bringing together people from different groups, holding meetings, etc., it would be possible to reach a consensus and gather what is of interest to the African, Moroccan North African, Roma communities, etc.
 
