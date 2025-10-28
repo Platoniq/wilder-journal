@@ -114,7 +114,7 @@ From this process, three clear pathways emerged: dignified housing, with real ac
 
 Beyond the measures, the workshop revealed that migrant mothers are not passive recipients of aid—they are builders of the city and citizenship. Recognizing their rights is not an act of compassion but an essential condition to guarantee the right to the city and build fairer, more cohesive communities.
 
-{% file { "title": "Migrant mothers: triple vulnerability and the right to a dignified life", "info": "Policy brief", "file": "/media/pb-triple-vulnerabilidad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-12.32.55.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
+{% file { "title": "Migrant mothers: triple vulnerability and the right to a dignified life", "info": "Policy brief", "file": "/media/pb-triple-vulnerability_eng.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-12.32.55.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
 ## **Youth Participation as Key Infrastructure in the Face of Eco-Social Distress**
 
