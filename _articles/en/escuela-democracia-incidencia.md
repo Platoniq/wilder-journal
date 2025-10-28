@@ -61,7 +61,7 @@ The provisional result is that time becomes a democratic bottleneck, and not in 
 
 The central learning from the experiment was undoubtedly that without temporal justice, there is no democratic quality. Citizens want to participate and show it by appropriating digital and proximity formats, but on a fragile foundation marked by less free time than the European average and an unequal burden of care. When we redesign processes to fit the real agenda of life, participation stops being a luxury and becomes a practicable right.
 
-{% file { "title": "Uses of time and their relationship to political participation: a proposal for redistribution", "info": "Policy Brief", "file": "/media/pb-tiempo-profundo.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.05.29.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
+{% file { "title": "Uses of time and their relationship to political participation: a proposal for redistribution", "info": "Policy Brief", "file": "/media/pb-deep-time_eng.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.05.29.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
 ## **Listening to Young People for Better Intersectional Mental Health Support**
 
@@ -86,10 +86,7 @@ The recommendations drawn up in Manchester and Barcelona show that when young pe
 As a result of all this work, we present [](<>)the **recommendations on intersectional mental health developed by young people aged 16 to 25** through three participatory processes: *Mindset Revolution* in Manchester, and *Foro Joven* and *CoActuem per la Salut Mental* in Barcelona.
 {% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-
-
-
-{% file { "title": "Listening to young people's voices for better intersectional support in mental health", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
+{% file { "title": "Listening to young people's voices for better intersectional support in mental health", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_eng.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
 ## **Claiming Recognition: The Right to the City from Migrant Youth**
 
@@ -103,7 +100,7 @@ After the performance came the political laboratory. Participants reflected on w
 
 This exercise not only generated concrete recommendations but also embodied the School’s spirit: giving voice and protagonism to those directly affected, so that they themselves lay the foundations for democratic debate.
 
-{% file { "title": "Demanding recognition: the right to the city from migrant youth", "info": "Policy Brief", "file": "/media/pb-derecho-a-la-ciudad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.08.40.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
+{% file { "title": "Demanding recognition: the right to the city from migrant youth", "info": "Policy Brief", "file": "/media/pb-city-rights_eng.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.08.40.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
 ## **Migrant Mothers: Triple Vulnerability and the Right to a Dignified Life**
 
@@ -131,6 +128,6 @@ Following this expressive phase came the political laboratory: Platoniq systemat
 
 Beyond the measures, the exercise demonstrates the School’s spirit: giving protagonism to those who live the problem and supporting their translation into policies with social legitimacy. Platoniq acts as process architect: convening, facilitating, and ensuring collective validation of proposals, steering the work toward democratic resilience with a structural, community, and intersectional approach—a clear invitation to institutions to move from diagnosis to action alongside youth.
 
-{% file { "title": "Youth participation as key infrastructure in the face of eco-social unrest", "info": "Policy Brief", "file": "/media/pb-crisis-ecosocial.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.09.53.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
+{% file { "title": "Youth participation as key infrastructure in the face of eco-social unrest", "info": "Policy Brief", "file": "/media/pb-lab-ecd-dia-2_eng.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.09.53.png", "button_text": "Download", "button_icon": "icon-download", "alt_color": false } %}
 
 *This project was made possible thanks to the support of Open Society Foundations.*
