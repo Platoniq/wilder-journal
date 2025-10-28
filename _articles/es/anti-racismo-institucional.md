@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-10-28-a-las-19.31.18.png
 ---
 Hablamos con **Desirée Bela-Lobedde,** "escritora y madre de dos adolescentes maravillosas", que se dedica a la divulgación de la educación antirracista a través de diferentes formas: escritura de libros, participación en medios de comunicación y la impartición de formaciones, tanto presenciales para empresas e instituciones, como online para un público más general.
 
