@@ -55,6 +55,8 @@ En la segunda sesión, los estudiantes redescubren los orígenes de la democraci
 
 Uno de los momentos más intensos de la experiencia es el juego de rol basado en la Asamblea Ciudadana del Clima. Cada grupo representa un rol: político, activista, ciudadano, trabajador, empresario o incluso un animal criado en una macrogranja. A partir de la recomendación 41 de la Asamblea (“Fomentar una ganadería más natural y respetuosa con el medio ambiente”), los grupos deben argumentar, persuadir y llegar a acuerdos. El resultado es un debate apasionado que combina razonamiento, emociones y creatividad.
 
+{% gallery { "simple": false, "images": [{"path":"/media/whatsapp-image-2025-05-27-at-09.03.18-2-.jpeg"}] } %}
+
 “Yo tenía que defender al dueño de la macrogranja, aunque no estaba de acuerdo. Fue difícil, pero entendí mejor cómo piensan los demás”, compartió uno de los alumnos. Este tipo de dinámicas permite entender la diversidad de perspectivas y la necesidad de consensos, principios esenciales de toda democracia viva.
 
 En las últimas sesiones, la teoría se convierte en práctica. Los estudiantes organizan sus propias mini-asambleas ciudadanas, con roles de facilitadores, expertos y ciudadanos deliberantes. El tema: un reto ambiental o social elegido por el grupo. Después, aplican distintas técnicas de votación y consenso para decidir sus recomendaciones finales. La experiencia culmina con un ejercicio de comunicación creativa: los jóvenes traducen sus propuestas en formatos audiovisuales breves, especialmente TikToks, con el objetivo de difundir ideas de cambio entre sus pares.
