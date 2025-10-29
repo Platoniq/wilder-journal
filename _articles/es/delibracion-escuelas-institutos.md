@@ -4,7 +4,7 @@ volume-uid: wilder-journal-2
 category: futures
 published: true
 date: 2025-03-29T15:27:00.000+01:00
-date-updated: 2025-03-29T15:27:00.000+01:00
+date-updated: 2025-03-29T02:05:00.000+01:00
 article-order: 5
 uid: deliberacion-escuelas-institutos
 title: ¿Qué hace la democracia en mi mochila? Aprendiendo deliberación en
@@ -33,13 +33,17 @@ call_to_action: cta-newsletter
 image:
   path: /media/articles/social/p1089789.jpg
 ---
-Durante el curso 2024-2025, dos institutos de Madrid y Barcelona se convirtieron en espacios de experimentación democrática. En ellos, la Fundación Platoniq puso en marcha su Unidad Didáctica sobre Creatividad y Democracia, una propuesta educativa que busca reavivar el espíritu participativo de los más jóvenes y convertir las aulas en pequeños laboratorios de ciudadanía.
+Durante el curso 2024-2025, dos institutos de Madrid y Barcelona se convirtieron en espacios de experimentación democrática. En ellos, la Platoniq puso en marcha su **Unidad Didáctica sobre Creatividad y Democracia**, una propuesta educativa que busca reavivar el espíritu participativo de los más jóvenes y convertir las aulas en pequeños laboratorios de ciudadanía.
+
+## Una propuesta para repensar la educación cívica
 
 Esta iniciativa, pensada para estudiantes de 4º de ESO y Bachillerato, propone un recorrido que combina historia, arte, debate, reflexión colectiva y comunicación digital. El objetivo: aprender a participar deliberando, crear opinando y construir juntos el futuro de la democracia.
 
 La Unidad Didáctica surge de una convicción profunda: la democracia no se enseña solo con teoría, sino practicándola. Frente a una creciente sensación de desconexión entre los jóvenes y la política, Platoniq plantea una alternativa educativa donde el aprendizaje pasa por la experimentación, la empatía y la creatividad colectiva.
 
 “El alumnado suele asociar la política con algo lejano, aburrido o inalcanzable”, explica Cristian Palazzi, coordinador pedagógico de la Fundación. “Queríamos mostrarles que la democracia es algo que se vive cada día, en el aula, en su comunidad, en la forma en que dialogan y toman decisiones”.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2025-10-29-a-las-15.59.28.png","alt":"Materiales utilizados durante el taller","caption":"Materiales utilizados durante el taller","credits":"Platoniq (2025)"}] } %}
 
 La propuesta combina sesiones teóricas breves con ejercicios prácticos que introducen a los estudiantes en las herramientas reales de la participación ciudadana: las Asambleas Ciudadanas, los procesos deliberativos y los métodos de decisión colectiva. El punto de partida es un caso real: la Asamblea Ciudadana del Clima en España (2021-2022), que reunió a 100 personas seleccionadas por sorteo para debatir sobre cómo afrontar la crisis climática. A partir de esa experiencia, los estudiantes se sumergen en la historia y la práctica de la democracia deliberativa.
 
