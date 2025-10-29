@@ -8,7 +8,6 @@ date-updated: 2025-03-29T02:05:00.000+01:00
 article-order: 5
 uid: deliberacion-escuelas-institutos
 title: What is democracy doing in my schoolbag? Learning deliberation in schools
-  and colleges
 description: What is democracy doing in my schoolbag? Learning deliberation in
   schools and colleges
 author: Platoniq Foundation
