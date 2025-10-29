@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/p1089789.jpg
 ---
 Durante el curso 2024-2025, dos institutos de Madrid y Barcelona se convirtieron en espacios de experimentación democrática. En ellos, la Fundación Platoniq puso en marcha su Unidad Didáctica sobre Creatividad y Democracia, una propuesta educativa que busca reavivar el espíritu participativo de los más jóvenes y convertir las aulas en pequeños laboratorios de ciudadanía.
 
