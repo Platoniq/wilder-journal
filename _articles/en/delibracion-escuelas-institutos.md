@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/p1089789.jpg
   mobile: /media/articles/mobile/p1089789.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/p1089789.jpg
 related_article_uids:
   - deliberative-assemblies
   - ECD
