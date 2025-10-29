@@ -7,12 +7,13 @@ date: 2024-01-09T14:05:16.943Z
 date-updated: 2024-01-09T14:05:16.971Z
 article-order: 23
 uid: deliberative-assemblies
-title: "How to bring citizen deliberation to schools "
+title: How to bring citizen deliberation to schools [Practical Guide]
 description: The essential LADA Guide to learn to deliberate collectively and
   activate social change
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
+interviewee: null
 cover:
   path: /media/articles/heroes/20230326d_clouds.jpg
   mobile: /media/articles/mobile/20230326d_clouds.jpg
@@ -21,9 +22,9 @@ cover:
   alt: Ésèpe, Clouds, 2023
   credits: Ésèpe, Clouds, 2023
 related_article_uids:
-  - dialogos-migrantes
-  - expo-desinformación
   - wikimedia-movement
+  - expo-desinformación
+  - editorial2
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
