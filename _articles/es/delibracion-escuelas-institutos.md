@@ -63,7 +63,7 @@ Uno de los momentos más intensos de la experiencia es el **juego de rol** basad
 
 En las últimas sesiones, **la teoría se convierte en práctica.** Los estudiantes organizan sus propias mini-asambleas ciudadanas, con roles de facilitadores, expertos y ciudadanos deliberantes. El tema: un reto ambiental o social elegido por el grupo. Después, aplican distintas técnicas de votación y consenso para decidir sus recomendaciones finales. La experiencia culmina con un ejercicio de comunicación creativa: **los jóvenes traducen sus propuestas en formatos audiovisuales breves, especialmente TikToks, con el objetivo de difundir ideas de cambio entre sus pares.**
 
-{% quote { "author": "Alumna del instituto barcelonés" } %}Nunca pensé que TikTok pudiera servir para hablar de política. Pero es justo lo que necesitamos: llegar a la gente de nuestra edad{% endquote %}
+{% quote { "author": "Alumna del instituto barcelonés" } %}Nunca pensé que TikTok pudiera servir para hablar de política. Pero es justo lo que necesitamos.{% endquote %}
 
 Más allá de las actividades, el verdadero valor de la experiencia radica en la transformación del clima educativo. Las aulas se convierten en espacios de confianza, escucha y construcción colectiva. Los estudiantes practican la empatía, la cooperación y el pensamiento crítico. La dinámica final de co-diseño lleva esta lógica al propio entorno escolar: **una asamblea de alumnos en la que los jóvenes deliberan sobre los principales problemas de su instituto.** Convivencia, bienestar emocional, participación o sostenibilidad, son algunos de los temas que surgieron para ser debatidos.
 
