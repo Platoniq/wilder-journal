@@ -123,3 +123,9 @@ Pero, ¿qué hacemos con todo esto? Por ejemplo, con la ILP para la regularizaci
 Educación e interés. Sobre todo, interés político. Se ha demostrado en varias ocasiones que cuando hay interés político, las cosas se mueven. Pienso en la regularización exprés durante la pandemia de personas migrantes con titulaciones sanitarias porque se necesitaba. También se concedió asilo exprés a la población ucraniana durante la guerra entre Rusia y Ucrania. Mientras, personas de territorios como Sudán llevan años demandando asilo sin éxito.
 
 Estas iniciativas muestran que, si hay interés político, las cosas pueden cambiar. Necesitamos educación antirracista a nivel general e interés político en particular.
+
+__
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-10-29-a-las-8.21.11.png"}] } %}
+
+Si quieres aprender sobre cultura antiracista, puedes consultar los cursos y formaciones de Desiree en **[este enlace](https://www.desireebela.com/laboratorio-de-deconstruccion/)**. Pero si antes prefieres recibir el newletter con todas las notícias relevantes y la información necesaria, **[puedes hacerlo aquí.](https://www.desireebela.com/aprende-gratis/)**

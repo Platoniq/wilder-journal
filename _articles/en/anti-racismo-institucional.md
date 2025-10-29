@@ -113,3 +113,9 @@ But what do we do with all this? For example, with the ILP for regularisation, a
 Education and interest. Above all, political interest. It has been proven on several occasions that when there is political interest, things move forward. I am thinking of the express regularisation during the pandemic of migrants with health qualifications because it was needed. Express asylum was also granted to the Ukrainian population during the war between Russia and Ukraine. Meanwhile, people from territories such as Sudan have been seeking asylum unsuccessfully for years.
 
 These initiatives show that, if there is political interest, things can change. We need anti-racist education in general and political interest in particular.
+
+__
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-10-29-a-las-8.21.11.png"}] } %}
+
+If you want to learn about anti-racist culture, you can check out Desiree's courses and training programmes at **[this link](https://www.desireebela.com/laboratorio-de-deconstruccion/).** But if you'd rather receive the newsletter with all the relevant news and necessary information first, **[you can do so here.](https://www.desireebela.com/aprende-gratis/)**
