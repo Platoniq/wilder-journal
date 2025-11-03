@@ -11,7 +11,7 @@ interviewee: Ismael Peña-López
 cover:
   path: /media/articles/heroes/qtdexxi__400x400.jpg
   mobile: /media/articles/mobile/qtdexxi__400x400.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/qtdexxi__400x400.jpg
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
