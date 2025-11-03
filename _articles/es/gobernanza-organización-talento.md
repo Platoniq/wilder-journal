@@ -17,7 +17,7 @@ author_uids:
 interviewee: Ismael Peña-López
 cover:
   path: /media/articles/heroes/qtdexxi__400x400.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/qtdexxi__400x400.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Ismael Peña-López
   credits: Ismael Peña-López
