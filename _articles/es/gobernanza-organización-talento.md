@@ -28,7 +28,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/qtdexxi__400x400.jpg
 ---
 Hablamos con **Ismael Peña-Lopez,** quien fuera director de la Escuela de Administración Pública de Cataluña durante 3 años y Director General de Participación Ciudadana de la Generalitat de Cataluña. Actualmente es profesor en la Universitat Oberta de Catalunya, especializado en la transformación de la gobernanza de las organizaciones, especialmente gobernanza multi-actor y multi-nivel.
 
