@@ -66,7 +66,7 @@ Pero si lo vemos en detalle. Primero, **planificación**. La deliberación no co
 
 **¿Crees que en Catalunya dedicamos suficiente tiempo a la participación y a la cultura democrática dentro de las instituciones?**
 
-La cuestión no es si dedicamos tiempo, sino si lo usamos bien. Hay miles de personas que cada semana dedican horas al AMPA de su escuela, a asociaciones de vecinos o al voluntariado. Luego les pedimos que participen también en procesos municipales, y es lógico que digan que no.
+La cuestión no es si dedicamos tiempo, sino si lo usamos bien. Hay miles de personas que cada semana dedican horas al AFA de su escuela, a asociaciones de vecinos o al voluntariado. Luego les pedimos que participen también en procesos municipales, y es lógico que digan que no.
 
 La gente sí participa, pero en otros espacios. El reto no es hacerles dedicar más horas, sino aprovechar las que ya dedican para que cuenten como participación política. Como decía antes, la administración no sabe reconocer ni conectar esas formas de implicación. Mientras sigamos funcionando con estructuras que no se comunican con el ecosistema social, tendremos que seguir abriendo “agujeros en las paredes” del sistema en lugar de rediseñarlo desde cero.
 
@@ -92,7 +92,7 @@ El segundo problema es que aún no tenemos un **modelo teórico sólido**. La bu
 
 **Hablemos de *Decidim*, una plataforma que conoces bien. ¿Qué destacarías de ella y por qué crees que ha tenido tanto éxito?**
 
-*Decidim* es una herramienta excelente para gestionar la participación. Permite organizar procesos, presupuestos, asambleas, planificación legislativa, transparencia, todo en un mismo entorno digital. Y su éxito no viene tanto de la ciudadanía como de los propios gestores públicos, que han visto en ella una herramienta potentísima para coordinar y documentar la participación. Como Word o Excel, pero para la democracia.
+*Decidim* es una herramienta excelente para gestionar la participación. Permite organizar procesos, presupuestos, asambleas, planificación legislativa, transparencia, todo en un mismo entorno digital. Y su éxito no viene tanto de la ciudadanía como de los propios gestores públicos, que han visto en ella una herramienta potentísima para coordinar y documentar la participación. Como Word o Excel, pero para los procesos participativos.
 
 **Algunos dicen que *Decidim* se ha vuelto burocrática y ha perdido su espíritu abierto. ¿Coincides?**
 
