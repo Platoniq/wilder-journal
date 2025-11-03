@@ -9,7 +9,8 @@ article-order: 15
 uid: Gobernanza-organización-talento
 title: "Gobernanza, organización y talento: ingredientes necesarios para un
   cambio de cultura democrática"
-description: Ismael Peña-López
+description: "Gobernanza, organización y talento: ingredientes necesarios para
+  un cambio de cultura democrática"
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
