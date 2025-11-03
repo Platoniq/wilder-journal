@@ -109,3 +109,11 @@ Pero eso no habla de la cultura de participación, sino de la cultura digital de
 Aquí hay dos cuestiones diferentes: el uso de la IA por parte de la administración y la compra pública de soluciones basadas en IA. En el primer caso hay un problema de propósito: ¿para qué sirve? Vemos muchas soluciones sin un problema claro que resolver. Y segundo, el tipo de proveedor, de plataforma, cómo se compra, se licita, se integra, dónde residen los datos. El marco europeo no está mal, pero exige tanto que es imposible cumplirlo con los recursos actuales. No hay capacidad técnica para evaluar, auditar o supervisar la IA como exige la ley. Las administraciones acabarán dependiendo de grandes consultoras, que tampoco podrán hacerlo todo, o de equipos internos insuficientes.
 
 La alternativa pasa por abrir el proceso: involucrar a la ciudadanía, a expertos en derechos humanos, a colectivos organizados, antes, durante y después de cada implementación. Es difícil, pero necesario. Estamos asumiendo el uso de la IA demasiado rápido y el daño potencial puede ser irreversible.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-03-a-las-18.01.22.png"}] } %}
+
+Consulta la última de las publicaciones de Ismael Peña-López, [aquí,](https://ictlogy.net/articles/20250630_ismael_pena-lopez_-_meaningful_stakeholder_engagement_in_public_procurement_for_artificial_intelligence.pdf) y mantente informado de sus actividades en [ICTlogy](https://ictlogy.net/).
+
+\_\_\_\_
+
+La entrevista ha sido posible gracias a la colaboración de la Open Society Foundations.
