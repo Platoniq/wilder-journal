@@ -7,7 +7,8 @@ date: 2024-11-03T17:50:00.000+01:00
 date-updated: 2024-11-03T17:50:00.000+01:00
 article-order: 15
 uid: Gobernanza-organización-talento
-title: Ismael Peña-López
+title: "Gobernanza, organización y talento: ingredientes necesarios para un
+  cambio de cultura democrática"
 description: Ismael Peña-López
 author: Cristian Palazzi
 author_uids:
@@ -50,7 +51,7 @@ Hay una distancia enorme entre las instituciones y la gente común. Nos falta un
 
 El interés por hacerlo existe, y es enorme. Diría que hay tres grandes grupos de capacidades: primero, las **técnicas** o “hard”: administración, economía, planificación estratégica, gestión de recursos humanos; segundo, las **relacionales** o “soft”: liderazgo, comunicación, empatía, trabajo en equipo. Saber tratar con las personas y con el entorno es tan importante como conocer la ley o los números; y, tercero, un bloque más **metodológico o de modelo**, que en los últimos años se ha llamado de muchas formas: nueva gobernanza pública, gobierno abierto, cuádruple hélice, políticas orientadas a misiones o **gobernanza robusta**. 
 
-*QUOTE:  No se trata solo de saber deliberar, sino de aplicar un modelo de política pública más horizontal, más colaborativo y menos jerárquico.*
+{% quote %}No se trata solo de saber deliberar, sino de aplicar un modelo de política pública más horizontal, más colaborativo y menos jerárquico{% endquote %}
 
 Este tercer bloque no se centra tanto en las competencias individuales como en cómo se ponen en práctica: con quién, de qué manera y en qué secuencia. No se trata solo de saber deliberar, sino de aplicar un modelo de política pública más horizontal, más colaborativo y menos jerárquico.
 
@@ -74,7 +75,7 @@ Entre técnicos y académicos hay mucho consenso en que el sistema debe cambiar.
 
 Aquí lo importante es entender que el problema no se soluciona haciendo más procesos participativos. En la administración existe la creencia de que para que algo cuente como participación debe haber iniciativa pública, un proyecto concreto y una estructura definida. Pero hay muchas formas de participación que no cumplen esas tres condiciones.
 
-*QUOTE: Una manifestación masiva, una campaña de crowdfunding, un hashtag viral o una asamblea infantil en una escuela son también formas de participación política.*
+{% quote %}Una manifestación masiva, una campaña de crowdfunding, un hashtag viral o una asamblea infantil en una escuela son también formas de participación política{% endquote %}
 
 Una manifestación masiva, una campaña de crowdfunding, un hashtag viral o una asamblea infantil en una escuela son también formas de participación política. Si no somos capaces de leerlas e incorporarlas, estamos dejando fuera una parte enorme de la realidad democrática.
 
