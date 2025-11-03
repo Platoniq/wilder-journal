@@ -7,6 +7,13 @@ date: 2024-11-03T17:50:00.000+01:00
 date-updated: 2024-11-03T17:50:00.000+01:00
 article-order: 15
 uid: Gobernanza-organización-talento
+title: "Robust governance, organisation and talent: necessary ingredients for a
+  democratic cultural shift"
+description: "Governance, organisation and talent: necessary ingredients for a
+  democratic cultural shift"
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: Ismael Peña-López
 cover:
   path: /media/articles/heroes/qtdexxi__400x400.jpg
