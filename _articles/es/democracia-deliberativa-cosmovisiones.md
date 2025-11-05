@@ -56,6 +56,30 @@ Cuando se trata de cuestiones como la vivienda o la migración, donde el posicio
 
 Aun así, soy optimista. Los procesos actuales, aunque sean sobre temas menos conflictivos, están generando aprendizaje institucional. Son un primer paso. Una vez se consolide la práctica deliberativa, podremos abordar cuestiones más complejas. Ya vemos algunos avances en otros países, como el debate sobre la eutanasia en Francia, que empieza a situarse en ese terreno intermedio entre lo socialmente importante y lo políticamente posible.
 
+### **¿Qué condiciones estructurales o políticas facilitarían que las instituciones vieran la democracia deliberativa como un complemento y no como un competidor?**
+
+No creo que, por propia motivación o interés, las instituciones actuales cedan demasiado espacio a la democracia deliberativa. Creo más bien que, en último término, el impulso ha de venir desde la sociedad, ya sea porque se da un contexto de gran desafección política que pone en riesgo las instituciones tradicionales y que hace que éstas busquen reformarse, o porque ese riesgo de desafección se vincula con ciertas ofertas electorales populistas y extremas cuyo alcance se desea minimizar, o porque hay una nueva ola de reivindicaciones democráticas como lo fueron el 15M en su día, o incluso el proceso soberanista catalán. Sin algún tipo de presión o de temor, es difícil que se avance en una profundización democrática como la que supone complementar las instituciones con una verdadera democracia deliberativa.
+
+Otra cosa es que algunas formaciones políticas, y para algunas políticas muy concretas, como ya se hace con otros procesos participativos, como los presupuestos participativos, defiendan incorporar algunas de estas experiencias de democracia deliberativa, incluso como una moda vinculada a un buen gobierno. 
+
+### **¿Podrían los municipios ser laboratorios para probar asambleas sobre cuestiones complejas, dado que el impacto electoral es menor que a nivel estatal?**
+
+Sin duda los municipios parecen el lugar más adecuado para cualquier experiencia práctica de democracia deliberativa. No olvidemos que la democracia deliberativa tiene como contexto ideal a las ciudades por su dimensión. Posiblemente se den tres tipos de ventajas a nivel municipal. Por un lado, efectivamente, hay un riesgo más limitado si se tratan temas de competencias exclusivamente municipales. En segundo lugar, hay una mayor flexibilidad para poder desarrollar algunas experiencias novedosas y, ante todo, el vínculo entre territorio y deliberación. La democracia deliberativa es más fácil de entender cuando lo vinculamos a territorios y comunidades del tamaño de un municipio. 
+
+### **¿Cómo articularía una estrategia de medio plazo para que la democracia deliberativa no sea solo un experimento puntual, sino un eje cultural y político estable?**
+
+La estrategia a medio plazo para que la democracia deliberativa se vincule con naturalidad a la democracia representativa y a la comprensión de lo que significa una democracia de calidad tiene que ver mucho con un cambio cultural. En primer lugar, con una reapropiación del componente popular de las democracias, que no es lo mismo que populista, que subraya que no se traspasa el poder a los representantes, sino que éstos actúan como vicarios de un poder que siempre está en manos de la ciudadanía.  Es cierto que ese cambio cultural tiene que luchar con otra transformación cultural que también se está produciendo, que es aquella que minimiza la importancia de las democracias y se plantea, como vemos en algunas encuestas, la posibilidad de que un buen gobierno sea un gobierno autoritario. Es decir, que la reevaluación de la democracia en estos momentos pasa por dos carriles distintos.
+
+Por un lado, aquel que minimiza sus logros y el impacto que han tenido las democracias contemporáneas y aquellos que, defendiéndola, señalan sus límites. Por lo tanto, tienen una perspectiva también crítica, pero pretenden desarrollarla. A veces, en estos momentos, parece que lo urgente pasa porque ese cambio cultural que minimiza los logros de la democracia sea combatido. Cuando, muy probablemente, no son dos luchas distintas, sino que explicitar los límites de la democracia, acompañada de propuestas para su mejora, es la mejor fórmula para no escapar del debate y ponerlo en manos de aquellos que, simplemente, quieren cargarse la democracia. 
+
+### **¿Cree que la democracia deliberativa puede tener un papel en la gestión de crisis (económicas, climáticas, sanitarias), o es un mecanismo pensado solo para contextos de estabilidad?**
+
+No es una pregunta fácil. Creo que, probablemente, cualquier cambio institucional de calidad necesita de una cierta inestabilidad, de un cierto desencanto con el sistema que pretende complementar o reformar, pero, al mismo tiempo, dentro de unos márgenes que no invitan a soluciones extremas contrarias.
+
+Lo vincularía con la pregunta anterior. No creo que haya la madurez política suficiente como para, de una manera generalizada, utilizar las asambleas ciudadanas como una fórmula general para enfrentarse a grandes problemas. Pero eso no quiere decir que el cuestionamiento de la democracia no dé oportunidades para presentar a las asambleas ciudadanas como una fórmula para superar los límites actuales, especialmente en lo que se refiere a la falta de deliberación de calidad en las ágoras representativas, y contrarrestar el pesimismo generalizado del que se aprovechan los que se presentan como “salvadores del pueblo” para destruir el sistema democrático. 
+
+
+
 ## **Cosmovisiones y participación ciudadana**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwyy25_Xj-g?si=ArBDPjIHwdFRNd5W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

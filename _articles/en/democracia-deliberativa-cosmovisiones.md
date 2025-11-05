@@ -53,6 +53,30 @@ When it comes to issues such as housing or migration, where the parties' positio
 
 Even so, I am optimistic. The current processes, even if they are on less controversial issues, are generating institutional learning. They are a first step. Once the deliberative practice is consolidated, we will be able to tackle more complex issues. We are already seeing some progress in other countries, such as the debate on euthanasia in France, which is beginning to position itself in that middle ground between what is socially important and what is politically possible.
 
+But that does not mean that questioning democracy does not provide opportunities to present citizens' assemblies as a formula for overcoming current limitations, especially with regard to the lack of quality deliberation in representative forums, and to counteract the widespread pessimism exploited by those who present themselves as 'saviours of the people' in order to destroy the democratic system. 
+
+### **What structural or political conditions would make it easier for institutions to see deliberative democracy as a complement rather than a competitor?**
+
+I do not believe that, on their own initiative or in their own interests, current institutions will give too much space to deliberative democracy. Rather, I believe that, ultimately, the impetus must come from society, either because there is a context of great political disaffection that puts traditional institutions at risk and causes them to seek reform, or because that risk of disaffection is linked to certain populist and extreme electoral offers whose reach one wishes to minimise, or because there is a new wave of democratic demands such as the 15M movement in its day, or even the Catalan sovereignty process. Without some kind of pressure or fear, it is difficult to make progress in deepening democracy, such as complementing institutions with true deliberative democracy.
+
+Another issue is that some political groups, and for some very specific policies, as is already the case with other participatory processes, such as participatory budgeting, advocate incorporating some of these experiences of deliberative democracy, even as a trend linked to good governance. 
+
+### **Could municipalities be laboratories for testing assemblies on complex issues, given that the electoral impact is less than at the state level?**
+
+Without a doubt, municipalities seem to be the most suitable place for any practical experience of deliberative democracy. Let us not forget that deliberative democracy has cities as its ideal context due to their size. There are possibly three types of advantages at the municipal level. On the one hand, there is indeed a more limited risk if issues of exclusively municipal competence are dealt with. Secondly, there is greater flexibility to develop some innovative experiences and, above all, the link between territory and deliberation. Deliberative democracy is easier to understand when we link it to territories and communities the size of a municipality. 
+
+### **How would you articulate a medium-term strategy to ensure that deliberative democracy is not just a one-off experiment, but a stable cultural and political axis?**
+
+The medium-term strategy for deliberative democracy to be naturally linked to representative democracy and to an understanding of what quality democracy means has a lot to do with cultural change. Firstly, it involves reclaiming the popular component of democracies, which is not the same as populism, emphasising that power is not transferred to representatives, but rather that they act as vicars of a power that always remains in the hands of the citizens.  It is true that this cultural change has to contend with another cultural transformation that is also taking place, which minimises the importance of democracies and raises, as we see in some surveys, the possibility that a good government is an authoritarian government. In other words, the re-evaluation of democracy at the moment is taking place along two different paths.
+
+On the one hand, there are those who minimise the achievements and impact of contemporary democracies and those who, in defending it, point out its limitations. Therefore, they also have a critical perspective, but they seek to develop it. At times, it seems that the urgent task is to combat this cultural shift that minimises the achievements of democracy. However, it is likely that these are not two separate struggles, but rather that explaining the limitations of democracy, accompanied by proposals for its improvement, is the best way to avoid shying away from the debate and leaving it in the hands of those who simply want to destroy democracy. 
+
+### **Do you think deliberative democracy can play a role in crisis management (economic, climate, health), or is it a mechanism designed only for stable contexts?**
+
+That's not an easy question. I think that any meaningful institutional change probably requires a certain amount of instability, a certain disenchantment with the system it seeks to complement or reform, but at the same time, within limits that do not invite extreme solutions.
+
+I would link this to the previous question. I do not believe that there is sufficient political maturity to use citizens' assemblies as a general formula for tackling major problems in a widespread manner.
+
 ## **Worldviews and citizen participation**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwyy25_Xj-g?si=ArBDPjIHwdFRNd5W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
