@@ -17,7 +17,7 @@ author_uids:
 interviewee: Taysir Mathlouthi
 cover:
   path: /media/articles/heroes/photo-taysir-3-.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/photo-taysir-3-.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Taysir
   credits: Taysir
