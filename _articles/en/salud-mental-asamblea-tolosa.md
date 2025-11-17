@@ -7,6 +7,13 @@ date: 2025-05-15T10:00:00.000+02:00
 date-updated: 2025-05-15T10:00:00.000+02:00
 article-order: 14
 uid: salud-mental-asamblea-tolosa
+title: ‘Deliberative and representative democracy must learn to coexist.’
+  Experiences from the Tolosa Citizens' Assembly
+description: ‘Deliberative and representative democracy must learn to coexist.’
+  Experiences from the Tolosa Citizens' Assembly
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: Garikoitz Lekuona
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-03-a-las-12.47.19.png
@@ -24,7 +31,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-10-03-a-las-12.47.19.png
 ---
-Garokoitz is a participation technician for Tolosa City Council, although his official title within the municipal service is Community and Governance. He accompanied the Tolosa Citizens' Assembly in its implementation in 2021-2023. He tells us: "We deal with issues that go beyond participation, but within them lies this central field of our work: generating citizen participation processes that improve people's lives."
+**Garokoitz Lekuona** is a participation technician for Tolosa City Council, although his official title within the municipal service is Community and Governance. He accompanied the Tolosa Citizens' Assembly in its implementation in 2021-2023. He tells us: "We deal with issues that go beyond participation, but within them lies this central field of our work: generating citizen participation processes that improve people's lives."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ig1dGm5lriI?si=YJxj8tZCsw9_l4MN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,7 +91,7 @@ There is always a risk that social movements will fear that the recommendations 
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-10-03-a-las-13.23.45.png","alt":"Informe de recomedaciones","caption":"Informe de recomendaciones","credits":"Informe de recomendaciones"}] } %}
 
-You can consult the recommendations arising from the assembly **here.[](https://partaidetza.tolosa.eus/es/detalle/-/visualizarProcesos/detail/viewResults/123)**
+You can consult the recommendations arising from the assembly **here.**[](https://partaidetza.tolosa.eus/es/detalle/-/visualizarProcesos/detail/viewResults/123)
 
 __
 
