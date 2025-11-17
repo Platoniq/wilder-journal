@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-11-17-a-las-20.37.58.png
 ---
 Across West Africa, connectivity is both a lifeline and a vulnerability. From power cuts to coastal flooding, climate change often disrupts the digital networks that communities rely on. In this interview, we speak with **Sadik Shahadu,** a digital activist working at the crossroads of language preservation, open technologies, and climate resilience. Their experiences reveal not only the everyday challenges Ghanaians face in staying online, but also the powerful community-led innovations emerging to address them.
 
