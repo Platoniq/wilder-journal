@@ -17,7 +17,7 @@ author_uids:
 interviewee: Sadik Shahadu
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-11-17-a-las-20.37.58.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-11-17-a-las-20.37.58.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Sadik Shahadu
   credits: Sadik Shahadu
