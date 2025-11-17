@@ -137,4 +137,4 @@ Esto resuena profundamente con el compromiso de la fundación Platoniq de constr
 
 _
 
-*Entrevista llevada a cabo en el marco del Mozilla Festival, 2025.*
+*Entrevista llevada a cabo en el marco del [Mozilla Festival, 2025](https://www.mozillafestival.org/es/)*
