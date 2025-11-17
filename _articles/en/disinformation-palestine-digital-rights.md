@@ -66,7 +66,7 @@ At the same time, Hebrew moderation is minimal because Meta considers Hebrew a â
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-20.08.37.png"}] } %}
 
-*7amleh organises the [Palestine Digital Activism Forum 2026](<>)*
+7amleh organises the [Palestine Digital Activism Forum 2026](<>)
 
 ### **You developed the Digital Record as a community tool to document and make visible digital representation. How did this initiative come about, and what are its main objectives involving the community?**
 

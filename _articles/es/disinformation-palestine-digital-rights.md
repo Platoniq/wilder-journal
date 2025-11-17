@@ -73,7 +73,7 @@ Cuando nos dicen que se trata de “errores algorítmicos”, no lo aceptamos. S
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-20.08.37.png"}] } %}
 
-*7amleh organiza el [Palestine Digital Activism Forum 2026](https://pdaf.net/)*
+7amleh organiza el [Palestine Digital Activism Forum 2026](https://pdaf.net/)
 
 ### **Has desarrollado *The Digital Record* como una herramienta comunitaria para documentar y visibilizar la representación digital. ¿Cómo surgió esta iniciativa y cuáles son sus principales objetivos en relación con la comunidad?**
 
