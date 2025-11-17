@@ -33,11 +33,9 @@ call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
 ---
-**Taysir Mathlouthi**
+Hablamos con T**aysir Mathlouthi,** responsable de incidencia política de la UE en **7amleh.** Licenciada en derechos humanos/relaciones internacionales, medios de comunicación, estudios de guerra, ciencias políticas y cine. Es experta en cambio de comportamiento social y la comunicación, y le apasiona el monitoreo de la desinformación y la información errónea en las plataformas de redes sociales. Anteriormente trabajó para UNICEF en el análisis de desinformación y noticias falsas en línea.
 
-Taysir Mathlouthi es la responsable de incidencia política de la UE en 7amleh. Posee cinco maestrías: en derechos humanos/relaciones internacionales, medios de comunicación, estudios de guerra, ciencias políticas y cine. Anteriormente trabajó para UNICEF en el análisis de desinformación y noticias falsas en línea.
-
-**¿Qué es 7amleh?**
+**¿Podrías explicarnos que es 7amleh?**
 
 **Taysir:** 7amleh es una organización palestina que trabaja por los derechos digitales. En árabe, “hamleh” significa “campaña”. El número 7 se usa porque así se representa la letra “ḥ” del árabe cuando escribimos con el alfabeto latino.
 
@@ -112,6 +110,12 @@ Sin los palestinos compartiendo lo que ocurre en su tierra, la opinión pública
 Compartir información veraz. Seguir a periodistas y medios fiables. Publicar en redes, aunque sean cosas pequeñas. Sé que mucha gente teme perder su trabajo o ser juzgada, pero incluso una publicación simple, aunque no sea política, puede marcar la diferencia.
 
 Alza la voz. Una persona puede influir en otra. Apoya a las organizaciones de base, involúcrate en tu barrio o comunidad. No puede haber cambio político sin el apoyo de las comunidades. A veces pensamos que una persona no basta, pero una puede cambiar la opinión de otra. Compartir información veraz y seguir plataformas que apoyan la acción digital por Palestina es clave.
+
+
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-15.22.49.png"}] } %}
+
+Consulta el informe completo [aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://7amleh.org/post/digital-divide-en&ved=2ahUKEwjF6_2csfmQAxWKVvEDHf1cD5EQFnoECBgQAQ&usg=AOvVaw3Ck1eT-YVPiwScwcSuZ0fY)
 
 _
 
