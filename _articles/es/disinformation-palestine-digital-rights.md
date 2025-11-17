@@ -71,6 +71,10 @@ Mientras tanto, la moderación del hebreo es mínima, porque Meta considera que 
 
 Cuando nos dicen que se trata de “errores algorítmicos”, no lo aceptamos. Si cometen errores, deben hacerlo mejor. Estamos hablando de Facebook, Instagram, Meta, Google… son empresas más ricas que países enteros, más ricas que continentes. Pueden invertir dinero en mejorar su moderación.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-20.08.37.png"}] } %}
+
+*7amleh organiza el [Palestine Digital Activism Forum 2026](https://pdaf.net/)*
+
 ### **Has desarrollado *The Digital Record* como una herramienta comunitaria para documentar y visibilizar la representación digital. ¿Cómo surgió esta iniciativa y cuáles son sus principales objetivos en relación con la comunidad?**
 
 Si las ONG no hacen este trabajo, nadie lo hará. Es una cosa decir que las plataformas no son neutrales, y otra muy distinta demostrarlo. Para realizar acciones legales o redactar informes se necesitan pruebas, y no podemos obtenerlas sin el apoyo de las comunidades.

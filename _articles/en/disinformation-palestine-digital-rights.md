@@ -64,6 +64,10 @@ For example, with Meta, we know they have been over-moderating Arabic content. T
 
 At the same time, Hebrew moderation is minimal because Meta considers Hebrew a “small language” and not a strategic priority, even though Danish, a smaller language, has a full classifier. In conflict areas like Israel and Palestine, Hebrew should be well-moderated because of incitement and harmful content. In our latest report on Meta, we showed that the company allowed hate speech and incitement on Instagram and Facebook, posts by Israeli leaders calling for ethnic cleansing and violence against Palestinians. The same happens with Google on YouTube. They allow such content in Hebrew while over-moderating Arabic posts. When they tell us these are algorithmic mistakes, we don’t accept it. These companies are richer than entire countries. They have the resources to do better moderation.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-20.08.37.png"}] } %}
+
+*7amleh organises the [Palestine Digital Activism Forum 2026](<>)*
+
 ### **You developed the Digital Record as a community tool to document and make visible digital representation. How did this initiative come about, and what are its main objectives involving the community?**
 
 The thing is, if NGOs don’t do this work, no one will. It’s one thing to say platforms aren’t neutral, but another to prove it. For litigation and reporting, you need evidence and we can’t get it without community support. We aim to empower users to understand how platforms shape their narratives and public image and to equip them to defend themselves. We ask for their experiences because each individual case is part of a systemic pattern of discrimination.
