@@ -7,6 +7,13 @@ date: 2025-10-15T12:04:00.000+02:00
 date-updated: 2025-10-15T12:04:00.000+02:00
 article-order: 13
 uid: palma-renovable-asamblea
+title: “The energy transition in La Palma only makes sense if it is led by the
+  citizens.” How to promote a citizens’ assembly on climate change.
+description: “The energy transition in La Palma only makes sense if it is led by
+  the citizens.” How to promote a citizens’ assembly on climate change.
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: Nuria Albet
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-15-a-las-12.06.07.png
