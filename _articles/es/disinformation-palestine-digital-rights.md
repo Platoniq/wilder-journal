@@ -7,8 +7,8 @@ date: 2025-11-17T15:09:00.000+01:00
 date-updated: 2025-11-17T15:09:00.000+01:00
 article-order: 16
 uid: disinformation-palestine-digital-rights
-title: '"Los derechos digitales son derechos humanos". Hablamos con Taysir
-  Mathlouthi, responsable de incidencia en 7amleh'
+title: '"Los derechos digitales son derechos humanos". Sobre la sitación de la
+  opinión pública palestina en la esfera digital'
 description: '"Los derechos digitales son derechos humanos". Hablamos con Taysir
   Mathlouthi, responsable de incidencia en 7amleh'
 author: Cristian Palazzi
