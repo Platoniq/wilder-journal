@@ -33,7 +33,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/photo-taysir-3-.jpg
 ---
-Hablamos con T**aysir Mathlouthi,** responsable de incidencia política de la UE en **7amleh.** Licenciada en derechos humanos/relaciones internacionales, medios de comunicación, estudios de guerra, ciencias políticas y cine. Es experta en cambio de comportamiento social y la comunicación, y le apasiona el monitoreo de la desinformación y la información errónea en las plataformas de redes sociales. Anteriormente trabajó para UNICEF en el análisis de desinformación y noticias falsas en línea.
+¿Qué significa hablar o ser silenciado cuando la esfera digital se convierte en uno de los principales campos de batalla de la lucha palestina?
+
+En esta entrevista, nos sentamos con **Taysir Mathlouthi,** responsable de promoción de políticas de la UE en 7amleh (Centro Árabe para el Avance de las Redes Sociales), para explorar cómo se configuran, restringen, borran y defienden las narrativas palestinas en la esfera pública actual, dominada por las plataformas. Pasando de los sesgos estructurales incrustados en los sistemas de moderación de contenidos a la presión política que da forma a las decisiones de Meta, Google y otros actores globales, Mathlouthi nos guía a través de los mecanismos de la represión digital: la moderación excesiva del árabe, la permisividad hacia la incitación en hebreo, la ilusión de la neutralidad tecnológica y las profundas asimetrías de poder que definen la visibilidad online de los palestinos.
 
 ### **¿Podrías explicarnos que es 7amleh?**
 
@@ -114,6 +116,14 @@ Alza la voz. Una persona puede influir en otra. Apoya a las organizaciones de ba
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-15.22.49.png"}] } %}
 
 Consulta el informe completo [aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://7amleh.org/post/digital-divide-en&ved=2ahUKEwjF6_2csfmQAxWKVvEDHf1cD5EQFnoECBgQAQ&usg=AOvVaw3Ck1eT-YVPiwScwcSuZ0fY)
+
+## ***Conclusiones***
+
+[](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://7amleh.org/post/digital-divide-en&ved=2ahUKEwjF6_2csfmQAxWKVvEDHf1cD5EQFnoECBgQAQ&usg=AOvVaw3Ck1eT-YVPiwScwcSuZ0fY)De las reflexiones de Mathlouthi se desprende una verdad simple pero inquietante: los derechos digitales no son un accesorio de la lucha política, sino que forman parte de su núcleo. En el contexto palestino, la esfera digital no es solo un espacio de expresión, sino un frágil salvavidas en el que la documentación, la memoria y la supervivencia dependen de infraestructuras diseñadas en lugares lejanos y regidas por decisiones opacas y, a menudo, hostiles.
+
+La conversación deja claro que lo que está en juego no es abstracto. Los sistemas de moderación de contenidos, los clasificadores lingüísticos, las políticas de las plataformas, la segmentación publicitaria y la invisibilidad algorítmica se convierten en instrumentos que pueden amplificar la voz de una comunidad o borrarla. En Palestina, estas decisiones técnicas determinan quién es escuchado, quién es vilipendiado y quién se vuelve invisible en un momento en el que la visibilidad significa protección.
+
+Esto resuena profundamente con el compromiso de la fundación Platoniq de construir espacios digitales más seguros. No «seguros» en el sentido de aislamiento o neutralidad, algo que las plataformas no suelen proporcionar, sino más seguros en el sentido de estar diseñados conscientemente para reducir el daño, centrar las voces marginadas y hacer visibles las dinámicas de poder que determinan la participación. Un espacio (más) seguro no es simplemente una sala digital. Es un compromiso político: con la transparencia, la rendición de cuentas, la gobernanza dirigida por la comunidad y la protección de los más vulnerables al borrado.
 
 _
 

@@ -30,7 +30,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/photo-taysir-3-.jpg
 ---
-We spoke with **Taysir Mathlouthi,** EU Policy Advocacy Officer at **7amleh.** She holds degrees in human rights/international relations, media, war studies, political science, and film. An expert in social behavior change and communication, she is passionate about monitoring disinformation and misinformation on social media platforms. She previously worked for UNICEF analyzing online disinformation and fake news.
+What does it mean to speak, or to be silenced, when the digital sphere becomes one of the central battlegrounds of the Palestinian struggle?
+
+In this interview, we sit down with **Taysir Mathlouthi,** EU Policy Advocacy Officer at 7amleh - The Arab Center for the Advancement of Social Media, to explore how Palestinian narratives are shaped, restricted, erased and defended in today’s platform-dominated public sphere. Moving from the structural biases embedded in content moderation systems to the political pressure shaping the decisions of Meta, Google and other global actors, Mathlouthi walks us through the mechanics of digital repression: over-moderation of Arabic, permissiveness toward Hebrew incitement, the illusion of technological neutrality, and the deep asymmetries of power that define online visibility for Palestinians.
 
 ### **Could you explain what 7amleh is?**
 
@@ -93,7 +95,15 @@ Share truthful information. Follow credible journalists and media accounts. Post
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-15.22.49.png"}] } %}
 
-See the full report [here](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://7amleh.org/post/digital-divide-en&ved=2ahUKEwjF6_2csfmQAxWKVvEDHf1cD5EQFnoECBgQAQ&usg=AOvVaw3Ck1eT-YVPiwScwcSuZ0fY)
+See the full report [here](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://7amleh.org/post/digital-divide-en&ved=2ahUKEwjF6_2csfmQAxWKVvEDHf1cD5EQFnoECBgQAQ&usg=AOvVaw3Ck1eT-YVPiwScwcSuZ0fY)[](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://7amleh.org/post/digital-divide-en&ved=2ahUKEwjF6_2csfmQAxWKVvEDHf1cD5EQFnoECBgQAQ&usg=AOvVaw3Ck1eT-YVPiwScwcSuZ0fY)
+
+## ***Conclusions***
+
+What emerges from Mathlouthi’s reflections is a simple but unsettling truth: digital rights are not an accessory to political struggle; they are part of its core terrain. In the Palestinian context, the digital sphere is not merely a space for expression but a fragile lifeline where documentation, memory, and survival depend on infrastructures designed far away and governed by opaque, often hostile decisions.
+
+The conversation makes clear that the stakes are not abstract. Content moderation systems, linguistic classifiers, platform policies, ad targeting, and algorithmic invisibility all become instruments that can either amplify a community’s voice or erase it. In Palestine, these technical decisions shape who is heard, who is vilified, and who becomes invisible at the very moment visibility means protection.
+
+This resonates deeply with Platoniq foundation's commitment to building digital Safe(r) Spaces. Not “safe” in the sense of insulation or neutrality; which platforms routinely fail to provide, but safer in the sense of being consciously designed to reduce harm, centre marginalised voices, and make visible the power dynamics that shape participation. A Safe(r) Space is not simply a digital room. It is a political commitment: to transparency, to accountability, to community-led governance, and to the protection of those who are most vulnerable to erasure.[](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://7amleh.org/post/digital-divide-en&ved=2ahUKEwjF6_2csfmQAxWKVvEDHf1cD5EQFnoECBgQAQ&usg=AOvVaw3Ck1eT-YVPiwScwcSuZ0fY)
 
 [](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://7amleh.org/post/digital-divide-en&ved=2ahUKEwjF6_2csfmQAxWKVvEDHf1cD5EQFnoECBgQAQ&usg=AOvVaw3Ck1eT-YVPiwScwcSuZ0fY)--[](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://7amleh.org/post/digital-divide-en&ved=2ahUKEwjF6_2csfmQAxWKVvEDHf1cD5EQFnoECBgQAQ&usg=AOvVaw3Ck1eT-YVPiwScwcSuZ0fY)
 Interview conducted as part of the Mozilla Festival, 2025.
