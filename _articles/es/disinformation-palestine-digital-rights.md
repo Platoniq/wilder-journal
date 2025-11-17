@@ -53,6 +53,8 @@ He trabajado en derechos humanos palestinos y en derechos humanos en la región 
 
 Diría que sigue siendo una voz muy marginal. A veces es difícil convencer a la gente de que los derechos digitales son derechos humanos. Algunas personas, especialmente ahora con el genocidio en Gaza, dicen que no es una prioridad. Pero nosotros decimos que sí lo es, porque sin derechos digitales no hay telecomunicaciones: no puedes llamar a una ambulancia ni difundir tu narrativa en las redes sociales. Cada vez más personas están hablando, palestinos y pro-palestinos, especialmente después del 7 de octubre y de la censura que siguió.
 
+{% quote %}En general, las políticas que se deciden dentro de Meta o Google son contrarias a los intereses palestinos {% endquote %}
+
 Mucha gente que antes no estaba al tanto de lo que pasaba en Palestina empezó a notar la censura en línea en plataformas como Instagram y la forma en que los medios tradicionales hablaban de los palestinos. Así fue como la voz palestina comenzó a escucharse más fuerte.
 
 ### **¿Crees que existe una censura algorítmica dirigida contra estas personas?**
@@ -65,7 +67,7 @@ Por ejemplo, sabemos que Meta ha moderado en exceso el contenido en árabe. Util
 
 Un ejemplo es la palabra *shahid*, que significa “mártir”. Meta la trataba como una señal de apoyo al terrorismo, pero en árabe y en el contexto palestino simplemente significa una persona que ha muerto, incluso podría ser un niño asesinado en Gaza. Meta no quiso entender estas diferencias culturales.
 
-Mientras tanto, la moderación del hebreo es mínima, porque Meta considera que el hebreo es un “idioma pequeño” y no una prioridad estratégica, aunque el danés, que también es un idioma pequeño, sí cuenta con un clasificador completo. En zonas de conflicto como Israel y Palestina, el hebreo debería estar bien moderado, porque hay incitación y contenido dañino. En nuestro último informe sobre Meta demostramos que la empresa permitió mensajes de odio e incitación en Instagram y Facebook —publicaciones de líderes israelíes que pedían la limpieza étnica de palestinos o violencia sexual contra mujeres en Gaza—. Lo mismo ocurre con Google y YouTube: permiten ese tipo de contenido en hebreo mientras moderan en exceso los videos en árabe.
+Mientras tanto, la moderación del hebreo es mínima, porque Meta considera que el hebreo es un “idioma pequeño” y no una prioridad estratégica, aunque el danés, que también es un idioma pequeño, sí cuenta con un clasificador completo. En zonas de conflicto como Israel y Palestina, el hebreo debería estar bien moderado, porque hay incitación y contenido dañino. En nuestro último informe sobre Meta demostramos que la empresa permitió mensajes de odio e incitación en Instagram y Facebook, publicaciones de líderes israelíes que pedían la limpieza étnica de palestinos o violencia sexual contra mujeres en Gaza. Lo mismo ocurre con Google y YouTube: permiten ese tipo de contenido en hebreo mientras moderan en exceso los videos en árabe.
 
 Cuando nos dicen que se trata de “errores algorítmicos”, no lo aceptamos. Si cometen errores, deben hacerlo mejor. Estamos hablando de Facebook, Instagram, Meta, Google… son empresas más ricas que países enteros, más ricas que continentes. Pueden invertir dinero en mejorar su moderación.
 
@@ -84,6 +86,8 @@ Por ejemplo, en la Unión Europea tenemos la *Ley de Servicios Digitales* (DSA),
 ### **Estás en contacto con instituciones y responsables políticos de la UE. ¿Qué tipo de relación mantenéis con ellos?**
 
 Nos reunimos con ellos tres o cuatro veces al año. Nos reunimos con DigiConnect, que es la oficina de la Comisión Europea encargada de la DSA, y con DigiMENA, que se centra en la región MENA y en Palestina. También colaboramos con el SEAE, el Servicio Europeo de Acción Exterior, que trabaja sobre la manipulación informativa y la influencia extranjera. Ellos suelen enfocarse en Rusia o China, pero nosotros les decimos: miren a Israel, porque también está moldeando las narrativas dentro de la UE.
+
+{% quote %}Sin narrativas no podemos ganar. Contar historias nos permite recordar la humanidad de las personas, algo que a veces se olvida{% endquote %}
 
 No es fácil trabajar con ellos: no siempre se ven resultados, pero compartimos nuestros informes y a veces conseguimos pequeños cambios, aunque lleva tiempo.
 
@@ -105,7 +109,9 @@ No quiero usar la palabra “resiliencia”, porque los palestinos están cansad
 
 Hemos aprendido que, incluso en medio del genocidio, de la guerra y la muerte, todavía se puede alzar la voz y compartir un mensaje. Si ese mensaje se basa en valores, ética y derechos humanos, la gente lo escucha, aunque tarde.
 
-Sin los palestinos compartiendo lo que ocurre en su tierra, la opinión pública no habría cambiado. Probablemente no estaríamos hablando de Sudán o de Myanmar. Gracias a ellos estamos viendo cambios políticos y culturales, hacia los derechos humanos y los valores progresistas, aunque también crece la extrema derecha. Es un equilibrio, pero sin ellos no tendríamos una juventud tan politizada ni personas dispuestas a oponerse a sus gobiernos. Eso es muy poderoso, especialmente después del COVID y de años de apatía política.
+Sin los palestinos compartiendo lo que ocurre en su tierra, la opinión pública no habría cambiado. Probablemente no estaríamos hablando de Sudán o de Myanmar. 
+
+Gracias a ellos estamos viendo cambios políticos y culturales, hacia los derechos humanos y los valores progresistas, aunque también crece la extrema derecha. Es un equilibrio, pero sin ellos no tendríamos una juventud tan politizada ni personas dispuestas a oponerse a sus gobiernos. Eso es muy poderoso, especialmente después del COVID y de años de apatía política.
 
 ### **Para un ciudadano común, ¿qué se puede hacer para apoyar o participar en este proceso de resistencia y solidaridad digital?**
 

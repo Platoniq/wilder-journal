@@ -48,7 +48,11 @@ I’ve been working on Palestinian human rights and human rights in the Arab reg
 
 ### **How would you describe the current situation of Palestinian voices in the digital space?**
 
-I would say it’s still a very niche voice. It’s often hard to convince people that digital rights are human rights. Some people, especially now with the genocide in Gaza, say it’s not the priority. But what we’re saying is that it is one of the priorities, because without digital rights, you don’t have telecommunications. You can’t call an ambulance or share your narrative on social media. More and more people are speaking out, Palestinians and pro-Palestinians alike, especially after October 7th and the censorship that followed. Many people who were previously unaware of what was happening in Palestine started noticing online censorship on platforms like Instagram and how traditional media framed Palestinians. That’s when the Palestinian voice began to rise more strongly.
+I would say it’s still a very niche voice. It’s often hard to convince people that digital rights are human rights. Some people, especially now with the genocide in Gaza, say it’s not the priority. But what we’re saying is that it is one of the priorities, because without digital rights, you don’t have telecommunications. You can’t call an ambulance or share your narrative on social media. More and more people are speaking out, Palestinians and pro-Palestinians alike, especially after October 7th and the censorship that followed. 
+
+{% quote %}In general, policies decided within Meta or Google are against Palestinians{% endquote %}
+
+Many people who were previously unaware of what was happening in Palestine started noticing online censorship on platforms like Instagram and how traditional media framed Palestinians. That’s when the Palestinian voice began to rise more strongly.
 
 ### **Do you think there is algorithmic censorship targeting these people?**
 
@@ -72,7 +76,11 @@ For example, in the EU we have the Digital Services Act (DSA), a new regulation 
 
 ### **You engage with EU institutions and policymakers. What kind of engagement do you have?**
 
-We meet with them three or four times a year. We meet with DigiConnect, which oversees the DSA, and with DigiMENA, which focuses on the MENA region and Palestine. We also engage with the EEAS, the European External Action Service, which deals with disinformation and foreign influence. They focus on Russia and China, but we tell them: look at Israel, because Israel is also shaping narratives within the EU. It’s not easy to work with them—you don’t always see results—but we share our reports and sometimes manage to push for small changes, even if it takes time.
+We meet with them three or four times a year. We meet with DigiConnect, which oversees the DSA, and with DigiMENA, which focuses on the MENA region and Palestine. We also engage with the EEAS, the European External Action Service, which deals with disinformation and foreign influence. They focus on Russia and China, but we tell them: look at Israel, because Israel is also shaping narratives within the EU. 
+
+{% quote %}Without storytelling, we can’t win. Storytelling reminds people of our shared humanity, something often forgotten{% endquote %}
+
+It’s not easy to work with them—you don’t always see results—but we share our reports and sometimes manage to push for small changes, even if it takes time.
 
 ### **Do you think EU institutions are willing to face the issue of digital repression of Palestinians?**
 
@@ -80,18 +88,27 @@ When it comes to Palestine itself, I don’t think they care. When we talk about
 
 ### **Your lab emphasizes the importance of narratives in resisting digital repression. How can storytelling become a tool for collective power?**
 
-Without storytelling, we can’t win. Storytelling reminds people of our shared humanity, something often forgotten. It also allows us to control our own narrative instead of letting others tell our stories. Social media platforms are essential. That’s why we don’t call for boycotts. We don’t yet have sustainable alternatives to platforms like Instagram, so we have to use them strategically. If we communicate effectively, we can achieve great things. After October 7th, many people changed their views on Palestine because of what they saw on social media, since traditional media wasn’t showing the reality.
+Without storytelling, we can’t win. Storytelling reminds people of our shared humanity, something often forgotten. It also allows us to control our own narrative instead of letting others tell our stories. 
+
+Social media platforms are essential. That’s why we don’t call for boycotts. We don’t yet have sustainable alternatives to platforms like Instagram, so we have to use them strategically. If we communicate effectively, we can achieve great things. After October 7th, many people changed their views on Palestine because of what they saw on social media, since traditional media wasn’t showing the reality.
+
 A good example outside Palestine is the new mayor of New York, Mamdani. He didn’t win *only* because of Instagram, but his messages about community and affordability became so strong on social media that people outside New York talked about him. If we use these platforms wisely, they can work in our favor, though they are complex tools.
 
 ### **In this context of storytelling, what lessons have emerged from Palestinian communities facing political transformation?** 
 
-I don’t want to use the word “resilience” because Palestinians are tired of being called resilient. They don’t want to be resilient; they just want to be free and live normal lives. That’s the minimum they deserve. But we’ve learned that even amid genocide and war, people can still raise their voices and share messages. If your message is rooted in values, ethics, and human rights, people will eventually hear you. Without Palestinians sharing what’s happening, public opinion wouldn’t have shifted toward them. We probably wouldn’t be talking about Sudan or Myanmar either.
+I don’t want to use the word “resilience” because Palestinians are tired of being called resilient. They don’t want to be resilient; they just want to be free and live normal lives. That’s the minimum they deserve. 
+
+But we’ve learned that even amid genocide and war, people can still raise their voices and share messages. If your message is rooted in values, ethics, and human rights, people will eventually hear you. 
+
+Without Palestinians sharing what’s happening, public opinion wouldn’t have shifted toward them. We probably wouldn’t be talking about Sudan or Myanmar either.
 
 Thanks to them, we’re seeing political and cultural shifts—toward human rights and progressive values—even as the far right gains ground. It’s a balance, but without Palestinians, we wouldn’t have today’s politically engaged youth or people boldly opposing their governments. That’s powerful, especially after years of apathy post-COVID.
 
 ### **For ordinary citizens, what can they do to support or participate in this process of digital resistance and solidarity?**
 
-Share truthful information. Follow credible journalists and media accounts. Post on social media, even small things. I know people fear losing their jobs or being judged, but even small, humanitarian posts make a difference. Always raise your voice. One person can influence another. Support grassroots organizations, get involved in your neighborhood or local community. Political change can’t happen without collective, community-based support. Sharing truth and following social media platforms that support Palestinian digital action are key.
+Share truthful information. Follow credible journalists and media accounts. Post on social media, even small things. I know people fear losing their jobs or being judged, but even small, humanitarian posts make a difference. 
+
+Raise your voice. One person can influence another. Support grassroots organizations, get involved in your neighborhood or local community. Political change can’t happen without collective, community-based support. Sharing truth and following social media platforms that support Palestinian digital action are key.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-15.22.49.png"}] } %}
 
