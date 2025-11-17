@@ -7,11 +7,22 @@ date: 2025-11-17T20:35:00.000+01:00
 date-updated: 2025-11-17T20:35:00.000+01:00
 article-order: 16
 uid: "tecnologías-comunitarias-justicia-climática "
+title: "Between Dumsor and Sopala: community technologies for climate justice in
+  West Africa"
+description: "Between Dumsor and Sopala: community technologies for climate
+  justice in West Africa"
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: Sadik Shahadu
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-11-17-a-las-20.37.58.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - AI-dialogue
+  - anti-racismo-institucional
+  - disinformation-palestine-digital-rights
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
