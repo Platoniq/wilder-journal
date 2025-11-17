@@ -48,7 +48,7 @@ Estos son problemas reales que enfrentamos en Ghana, y han afectado mi trabajo c
 
 ### **A menudo pensamos que internet es algo inmaterial, pero depende de infraestructuras vulnerables. ¿Podrías compartir ejemplos concretos de cómo el cambio climático afecta las redes de comunicación y qué consecuencias tiene para las comunidades?**
 
-Sí. El cambio climático ha afectado gravemente las conexiones de red en África. Por ejemplo, en mi última sesión de esta mañana hablé sobre el corte de un cable submarino que ocurrió en marzo del año pasado. Como resultado, la mayoría de las comunidades en Ghana, Burkina Faso, Costa de Marfil y Sudáfrica no pudieron acceder a internet durante 48 horas.
+El cambio climático ha afectado gravemente las conexiones de red en África. Por ejemplo, en mi última sesión de esta mañana hablé sobre el corte de un cable submarino que ocurrió en marzo del año pasado. Como resultado, la mayoría de las comunidades en Ghana, Burkina Faso, Costa de Marfil y Sudáfrica no pudieron acceder a internet durante 48 horas.
 
 También hemos sufrido marejadas en las zonas costeras de Ghana que destruyeron cables eléctricos y de internet. Las inundaciones en las zonas bajas interrumpieron tanto la conectividad como el suministro eléctrico.
 
@@ -68,7 +68,7 @@ Pero la democracia sigue siendo fuerte, y ese entorno nos permite seguir apoyand
 
 ### **¿Tienes algún caso inspirador de comunidades que hayan mantenido o restablecido la conectividad durante una crisis mediante soluciones abiertas o colaborativas?**
 
-Sí. Mencionaría a la comunidad Sopala y a varias comunidades abiertas como Wikimedia, Creative Commons, Mozilla, la Internet Society y la comunidad QX. Estos grupos colaboran con organizaciones de la sociedad civil para ofrecer soluciones a problemas como interrupciones de internet, cortes de electricidad o apagones programados.
+Mencionaría a la comunidad Sopala y a varias comunidades abiertas como Wikimedia, Creative Commons, Mozilla, la Internet Society y la comunidad QX. Estos grupos colaboran con organizaciones de la sociedad civil para ofrecer soluciones a problemas como interrupciones de internet, cortes de electricidad o apagones programados.
 Representan la colaboración y la apertura como respuesta a las crisis de conectividad.
 
 ### **¿Qué papel desempeña la preservación del conocimiento local en la resiliencia climática?**
@@ -107,7 +107,7 @@ Hoy en día, incluso herramientas como ChatGPT o Google Translate no ofrecen un 
 
 ### **Por último, si tuvieras frente a ti a un joven activista digital que quiere contribuir a la resiliencia climática mediante la tecnología abierta, ¿qué mensaje le darías?**
 
-Mi mensaje sería: céntrate en ofrecer soluciones locales para tu comunidad. Colabora con otros activistas, porque la colaboración es esencial para combatir el cambio climático y construir resiliencia.
+Mi mensaje sería que se centre en ofrecer soluciones locales para tu comunidad. Colabora con otros activistas, porque la colaboración es esencial para combatir el cambio climático y construir resiliencia.
 
 Desarrolla tecnología que responda a las necesidades locales, en lugar de depender de herramientas de terceros. Crea aplicaciones y sistemas que reflejen las realidades específicas de tu propia gente.
 

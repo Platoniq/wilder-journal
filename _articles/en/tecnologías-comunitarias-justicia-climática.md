@@ -31,7 +31,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-11-17-a-las-20.37.58.png
 ---
-Across West Africa, connectivity is both a lifeline and a vulnerability. From power cuts to coastal flooding, climate change often disrupts the digital networks that communities rely on. In this interview, we speak with **Sadik Shahadu,** a digital activist working at the crossroads of language preservation, open technologies, and climate resilience. Their experiences reveal not only the everyday challenges Ghanaians face in staying online, but also the powerful community-led innovations emerging to address them.
+Across West Africa, connectivity is both a lifeline and a vulnerability. From power cuts to coastal flooding, climate change often disrupts the digital networks that communities rely on. 
+
+In this interview, we speak with **Sadik Shahadu,** a digital activist working at the crossroads of language preservation, open technologies, and climate resilience. Their experiences reveal not only the everyday challenges Ghanaians face in staying online, but also the powerful community-led innovations emerging to address them.
 
 ### **From your experience in Ghana and West Africa, how do you perceive their relationship with connectivity, climate justice, and digital equity?**
 
@@ -43,7 +45,7 @@ These are real challenges we face in Ghana, and they have affected my work as a 
 
 ### **We often think that the internet is immaterial, yet it depends on vulnerable infrastructure. Could you share concrete examples of how climate change affects communication networks and what consequences that has for communities?**
 
-Yes. Climate change has really affected network connections in Africa. For example, in my last session this morning, I shared about the undersea cable cut that happened in March last year. As a result, most communities in Ghana, Burkina Faso, Côte d’Ivoire, and South Africa could not access the internet for 48 hours.
+Climate change has really affected network connections in Africa. For example, in my last session this morning, I shared about the undersea cable cut that happened in March last year. As a result, most communities in Ghana, Burkina Faso, Côte d’Ivoire, and South Africa could not access the internet for 48 hours.
 
 We’ve also experienced tidal waves in coastal areas of Ghana, which have destroyed electricity and internet cables. Flooding in lowland areas has disrupted both internet connectivity and power supplies.
 
@@ -63,7 +65,7 @@ But democracy remains strong, and this environment allows us to continue support
 
 ### **Do you have any inspiring cases of communities that maintained or restored connectivity during a crisis through open or collaborative solutions?**
 
-Yes. I would mention the Sopala community and several open communities like Wikimedia, Creative Commons, Mozilla, the Internet Society, and the QX community. These groups work with civil society organizations to provide solutions to challenges such as internet disruption, power cuts, and load shedding.
+I would mention the Sopala community and several open communities like Wikimedia, Creative Commons, Mozilla, the Internet Society, and the QX community. These groups work with civil society organizations to provide solutions to challenges such as internet disruption, power cuts, and load shedding.
 
 They embody collaboration and openness in addressing connectivity crises.
 
