@@ -21,7 +21,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo-taysir-3-.jpg
 ---
 We spoke with **Taysir Mathlouthi,** EU Policy Advocacy Officer at **7amleh.** She holds degrees in human rights/international relations, media, war studies, political science, and film. An expert in social behavior change and communication, she is passionate about monitoring disinformation and misinformation on social media platforms. She previously worked for UNICEF analyzing online disinformation and fake news.
 

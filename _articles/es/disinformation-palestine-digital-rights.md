@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo-taysir-3-.jpg
 ---
 Hablamos con T**aysir Mathlouthi,** responsable de incidencia política de la UE en **7amleh.** Licenciada en derechos humanos/relaciones internacionales, medios de comunicación, estudios de guerra, ciencias políticas y cine. Es experta en cambio de comportamiento social y la comunicación, y le apasiona el monitoreo de la desinformación y la información errónea en las plataformas de redes sociales. Anteriormente trabajó para UNICEF en el análisis de desinformación y noticias falsas en línea.
 
