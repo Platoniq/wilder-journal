@@ -91,12 +91,12 @@ The documentary piece of the whole process has been hosted in La Guixeta, a tech
 
 ## Presentation of the conclusions and next steps
 
-The [Deliberation, Creativity and Democracy Forum](https://openspaces.platoniq.net/conferences/FDCD?locale=en) will take place in Barcelona from 15 to 18 October. During the annual meeting of the Delib network, the network of deliberation professionals in the Iberian Peninsula, Platoniq will present, together with Quim Brugué, the conclusions of the project, in connection with the ideas of positive discrimination and deliberation in enclaves through the example of other projects such as [‘Discrimination in access to housing. What we are talking about and how to combat it’,](https://seu-e.cat/documents/674390/8280911/DRET+NO+DISCRIMINACI%C3%93.pdf/96bdbff9-788b-4d26-82e5-54cf8678f3c5) Olot, 2021.
+{% file { "title": "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes", "info": "Policy Brief", "file": "/media/policy-brief-lab-ecd-espanol.pdf", "image": "/media/captura-de-pantalla-2025-07-21-a-las-18.31.05.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
+
+The [Deliberation, Creativity and Democracy Forum](<>) will take place in Barcelona from 15 to 18 October. During the annual meeting of the Delib network, the network of deliberation professionals in the Iberian Peninsula, Platoniq will present, together with Quim Brugué, the conclusions of the project, in connection with the ideas of positive discrimination and deliberation in enclaves through the example of other projects such as [‘Discrimination in access to housing. What we are talking about and how to combat it’,](<>) Olot, 2021.
 
 With all this information and documentation, the intention is to promote a public event in which the trigger pieces fulfil their true function: **to trigger social debate around such polarised issues as immigration.**
 
 At the event, all interest groups related to the chosen theme will be invited: participants, neighbours, professionals from the administration or from specific companies, in order to carry out a dialogue on the issue and raise awareness of the need for real changes that affect the lives of migrants.
 
 As a conclusion to the Dialogues, the contributions and comments collected will be processed and a document of conclusions will be drawn up, which will later serve to nourish the ‘Migrant Constitution’.
-
-{% file { "title": "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes", "info": "Policy Brief", "file": "/media/policy-brief-lab-ecd-espanol.pdf", "image": "/media/captura-de-pantalla-2025-07-21-a-las-18.31.05.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
