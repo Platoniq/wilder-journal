@@ -102,3 +102,5 @@ Con toda esta información y documentación, la intención es promover un acto p
 En el acto se invitará a todos los grupos de interés que tengan relación con la temática escogida: participantes, vecindario, profesionales de la administración o de empresas concretas, para llevar a cabo un diálogo en torno a la cuestión y sensibilizar sobre la necesidad de cambios reales que afectan a la vida de las personas migrantes.
 
 Como conclusión a los Diálogos Migrantes se realizará un tratamiento de las aportaciones y comentarios recogidos, y se elaborará un documento de conclusiones que posteriormente servirá para nutrir la “Constitución Migrante”.
+
+{% file { "title": "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes", "info": "Policy Brief", "file": "/media/policy-brief-lab-ecd-espanol.pdf", "image": "/media/captura-de-pantalla-2025-07-21-a-las-18.31.05.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}

@@ -98,3 +98,5 @@ With all this information and documentation, the intention is to promote a publi
 At the event, all interest groups related to the chosen theme will be invited: participants, neighbours, professionals from the administration or from specific companies, in order to carry out a dialogue on the issue and raise awareness of the need for real changes that affect the lives of migrants.
 
 As a conclusion to the Dialogues, the contributions and comments collected will be processed and a document of conclusions will be drawn up, which will later serve to nourish the ‘Migrant Constitution’.
+
+{% file { "title": "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes", "info": "Policy Brief", "file": "/media/policy-brief-lab-ecd-espanol.pdf", "image": "/media/captura-de-pantalla-2025-07-21-a-las-18.31.05.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
