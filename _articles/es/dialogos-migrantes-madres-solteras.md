@@ -95,7 +95,7 @@ La pieza documental de todo el proceso se ha alojado en La Guixeta, plataforma t
 
 ## Presentación de las conclusiones y próximos pasos
 
-{% file { "title": "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes", "info": "Policy Brief", "file": "/media/policy-brief-lab-ecd-espanol.pdf", "image": "/media/captura-de-pantalla-2025-07-21-a-las-18.31.05.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
+{% file { "title": "Madres migrantes: triple vulnerabilidad y derecho a una vida digna", "info": "Policy Brief", "file": "media/pb-triple-vulnerabilidad_esp.pdf", "image": "/media/captura-de-pantalla-2025-12-01-a-las-13.05.16.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
 Entre los días 15 y 18 de octubre tendrá lugar en Barcelona [el Foro de Deliberación, Creatividad y Democracia.](<>) Durante el encuentro anual de la red Delib, la red de profesionales de la deliberación de la península ibérica, Platoniq presentará, junto a Quim Brugué, las conclusiones del proyecto, en conexión con las ideas de discriminación positiva y deliberación en enclaves a través del ejemplo de otros proyectos como el ya citado, [“Discriminación en el acceso a la vivienda. De qué hablamos y cómo combatirla”](<>), Olot, 2021.
 
