@@ -8,7 +8,7 @@ date-updated: 2024-08-27T10:15:00.000Z
 article-order: 7
 uid: dialogos-migrantes-segunda-edicion
 title: "A favor de las identidades complejas: nuevas narrativas migrantes para
-  la cohesión social"
+  la cohesión social [Policy Brief]"
 description: En un momento de máxima polarización y desinformación, se hace
   necesario desarrollar nuevas formas para explicar el fenómeno migrante que
   ponga a sus protagonistas en el centro, que genere debate social y que, en
