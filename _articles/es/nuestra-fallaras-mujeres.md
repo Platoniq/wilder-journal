@@ -85,7 +85,7 @@ En el momento en que se le da la autonomía a las mujeres, tienes que ofrecerles
 
 Así que lo que hemos hecho es recoger aquellas cosas que ya suceden.
 
-### En este sentido, ¿puede un proyecto como "La Nuestra" convertirse también en un laboratorio donde las mujeres ejercen su agencia, deliberan juntas y experimentan nuevas formas de soberanía digital y también analógica?
+### ¿Puede un proyecto como "La Nuestra" convertirse también en un laboratorio donde las mujeres ejercen su agencia, deliberan juntas y experimentan nuevas formas de soberanía digital y también analógica?
 
 Sin duda lo es. "La Nuestra" es una herramienta que se pone a disposición, no solo de las mujeres, sino de asociaciones, entidades, colectivas, etcétera. Hemos querido generar una herramienta no el movimiento, no un colectivo, sino una herramienta. Y cuando nosotras hablamos con las que serán las entidades asociadas, que serán centenares, a esas entidades asociadas lo que se les ofrece es “actuar” la herramienta. La herramienta tiene un montón de detalles que te vamos a ofrecer, pero también un montón de posibilidades, de detalles futuros que todavía no están pensados. En la medida en que esas mujeres hagan suya la herramienta, la herramienta irá evolucionando y, en tanto que irá evolucionando, es un experimento.
 
@@ -216,3 +216,11 @@ En ese sentido, se refuta la idea del capitalismo. Ya no del capitalismo salvaje
 La sociedad de la imprenta impuso un silencio a las mayorías y la creación de pequeñas jerarquías de voz, que eran macho, y que dieron lugar a estructuras económicas de represión brutal y a estructuras de represión contra los cuerpos de las mujeres y contra nuestra soberanía.
 
 En este momento cabe la posibilidad de romper eso. Si a alguien, en algún momento, se le ocurre cómo romper cualquier tiranía, es una obligación ética hacerlo.
+
+{% questions { "items": [{"question":"Quieres ser comadre de La Nuestra"}] } %}
+
+La Nuestra necesita manos, voces y compromiso para existir fuera de las plataformas extractivas: para sostener un archivo vivo, seguro y gobernado por quienes lo construyen.
+
+Hazte comadre de La Nuestra
+
+<iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra" width="300px" scrolling="no"></iframe>
