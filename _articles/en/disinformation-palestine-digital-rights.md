@@ -7,8 +7,8 @@ date: 2025-11-17T15:09:00.000+01:00
 date-updated: 2025-11-17T15:09:00.000+01:00
 article-order: 16
 uid: disinformation-palestine-digital-rights
-title: '"Digital rights are human rights." On the situation of Palestinian
-  public opinion in the digital sphere'
+title: '"Digital rights are human rights." Palestinian public opinion in the
+  digital sphere'
 description: '"Digital rights are human rights." On the situation of Palestinian
   public opinion in the digital sphere'
 author: Cristian Palazzi
