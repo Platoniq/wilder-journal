@@ -14,13 +14,15 @@ cover:
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-12-02-a-las-20.13.31.png
 related_article_uids:
   - transformative-narratives
+  - colombia-comparte-tu-rollo
+  - amber-huff
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-12-02-a-las-20.13.31.png
 ---
 We spoke with **Cristina Fallarás**, journalist and writer, about ‘La Nuestra’, the future collective and testimonial network against gender-based violence promoted by Acción Comadres, in connection with the launch of the campaign on Goteo that aims to make it possible. The space will collect and highlight **the testimonies** that Cristina has gathered since August 2023 and aims to provide a living archive where it is possible to reconstruct the truth about sexual violence and offer help to women in need.
 
