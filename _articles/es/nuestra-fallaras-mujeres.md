@@ -7,7 +7,7 @@ date: 2025-12-02T20:08:00.000+01:00
 date-updated: 2025-12-02T20:08:00.000+01:00
 article-order: 14
 uid: nuestra-fallaras-mujeres
-title: "Contra la tiranía macho: la Nuestra o el poder de la voz a las mujeres"
+title: "Contra la tiranía macho: la Nuestra, el poder de la voz a las mujeres"
 description: 'Hablamos con Cristina Fallarás sobre “La Nuestra",  una
   herramienta que prueba que la tecnología puede organizarse desde abajo, con
   reglas colectivas, no jerárquicas y no capitalistas. En un contexto de censura
