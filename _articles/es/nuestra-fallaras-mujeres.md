@@ -35,7 +35,7 @@ call_to_action: cta-contact
 image:
   path: /assets/media/no_image-social_media.png
 ---
-Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista, a propósito del lanzamiento de la campaña de micromecenazgo que quiere hacerla posible. El espacio recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023 y quiere aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia contra las mujeres y ofrecer ayudas a aquellas que lo necesiten.
+Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista, a propósito del lanzamiento de la campaña de micromecenazgo que quiere hacerla posible. El espacio recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023 y quiere aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia sexual y ofrecer ayudas a las mujeres que lo necesiten.
 
 ## **El significado de la sobiranía digital feminista**
 
