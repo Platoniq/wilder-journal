@@ -97,7 +97,9 @@ Las posibilidades son ingentes y hacia dónde irá no tengo ni idea. Y no creo d
 
 ### La campaña tiene como objetivo principal migrar, anonimizar y trabajar todos estos testimonios para convertirlos en un archivo vivo y consultable. ¿Por qué es tan importante trasladar esos testimonios efímeros de Instagram a este archivo?
 
-Estamos ante un ejercicio de memoria: casi el primer ejercicio de memoria histórica sobre violencia sexual de todo el Estado español y de todo el mundo en lengua española. Hay un archivo que se hizo en Estados Unidos con el MeToo, de unos millones; está el que hicieron los archiveros Aniol María y Vicenç Ruiz en torno a Cuéntalo, y ahora está este.
+Estamos ante un ejercicio de memoria: casi el primer ejercicio de memoria histórica sobre violencia sexual de todo el Estado español y de todo el mundo en lengua española. Hay un archivo que se hizo en Estados Unidos con el #MeToo, de unos millones; está el que hicieron los archiveros Aniol María y Vicenç Ruiz en torno a #Cuéntalo, y ahora está este.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-02-a-las-21.02.21.png"}] } %}
 
 El punto número uno es preservar el archivo. Preservar el archivo es fundamental. No solo preservarlo, sino cedérselo a la administración pública para que, a través de un contrato que hemos firmado, se nos garantice que va a estudiar los datos y que los va a ceder a la academia o a aquellas investigadoras que quieran hacer un trabajo con ellos.
 
