@@ -37,7 +37,7 @@ image:
 ---
 Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista impulsada por Acción Comadres, a propósito del lanzamiento de la campaña en [Goteo](https://www.goteo.org/project/la-nuestra) que quiere hacerla posible. El espacio recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023 y quiere aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia sexual y ofrecer ayudas a las mujeres que lo necesiten.
 
-## **El significado de la sobiranía digital feminista**
+## **El significado de la soberanía digital feminista**
 
 ### Vosotras describís "La Nuestra" no solo como una página web, sino como un ejercicio de soberanía digital feminista. En un momento en que dependemos tanto de los algoritmos y de esos “tecnofaraones” como Elon Musk o Zuckerberg, ¿por qué es urgente que las mujeres tengamos nuestra propia infraestructura tecnológica?
 
@@ -49,7 +49,7 @@ Empezó en 2017, con el MeToo. Estamos modificando aquello que consideramos viol
 
 Nosotras decidimos cuál es el eje, sin embargo lo estamos haciendo dentro de unas plataformas a las cuales cedemos la propiedad de este relato. Por lo tanto, es imprescindible extraer de ahí la propiedad del relato, extraer nuestro relato para preservarlo. 
 
-El funcionamiento de estas plataformas macho es como todo funcionamiento macho extractivista: coge pero no ofrece. Tú cuelgas ahí lo que te dé la gana, ellos se lucran con tu relato, el que sea, me da igual las vacaciones en Roma que el movimiento “Cuéntalo”, y no te ofrecen nada a cambio realmente.
+El funcionamiento de estas plataformas macho es como todo funcionamiento macho extractivista: coge pero no ofrece. Tú cuelgas ahí lo que te dé la gana, ellos se lucran con tu relato, el que sea, me da igual las vacaciones en Roma que el movimiento #Cuéntalo, y no te ofrecen nada a cambio realmente.
 
 Nosotras creemos que es imprescindible generar otro tipo de plataformas que ofrezcan servicios gratuitos a cambio de tu participación en ellas. Es decir, que no funcionen como extractivistas del relato ni de las mujeres ni de cualquier otro colectivo social, sino que sea un toma y daca: que haya un diálogo entre la tecnología y las usuarias para que ellas puedan verse beneficiadas de lo que aportan. Y esto es fundamental: estamos utilizando las redes de una manera ultracapitalista, con unas reglas ultracapitalistas. Queremos romper eso.
 
@@ -61,7 +61,7 @@ Yo me acuerdo de que, hablando una vez con unas activistas norteamericanas, est�
 
 "La Nuestra" es relevante en tanto en cuanto va a existir y en tanto en cuanto va a existir con, igual, tres millares de fundadoras, que no es poquito.Tres mil mujeres nos hemos juntado a hacer algo que rompe las reglas de las redes sociales tal y como las concebimos. Esta ruptura marca un hito, marca un hito en tanto que pionera. Y digamos que nuestra ambición no es como la ambición de ellos: acabar convirtiéndonos en una macroestructura ni económica ni financiera ni de ningún otro tipo, sino aportar un paso más a la marcha del feminismo y de la lucha contra la violencia.
 
-Los pasos son pequeños. Cuando los pasos son muy grandes, normalmente el ataque es inmediato y la duración es corta. Creemos, y lo creemos firmemente, que cualquier paso pequeño es sencillamente un jalón más, una aportación, un ladrillito a la calzada.
+Cuando los pasos son muy grandes, normalmente el ataque es inmediato y la duración es corta. Creemos, y lo creemos firmemente, que cualquier paso pequeño es sencillamente un jalón más, una aportación, un ladrillito a la calzada.
 
 ### Una de las funcionalidades más innovadoras de "La Nuestra" es el concepto del “match” y la creación de grupos de soporte. Sabemos que las redes actuales están diseñadas para el entretenimiento o la confrontación. ¿Cómo habéis diseñado la arquitectura de "La Nuestra" para que el objetivo sea el apoyo mutuo y no el consumo de desgracias ajenas o la pornografía del dolor?
 
@@ -71,13 +71,15 @@ Es decir, si se hubiera dado una revictimización de las mujeres o un consumo mo
 
 Y esta percepción es constante. Cuando otras comentan los testimonios de una testimoniante, la testimoniante entra en diálogo con ellas. De esa manera, lo que he ido creando e intento que lo entiendan los jueces que me llevan los casos de las denuncias es que, con cada testimonio, un área de autonomía, se crea un diálogo: una pequeña habitación donde, en torno a ese testimonio concreto, hay decenas o centenares de mujeres que participan, apoyan, intervienen en el relato de la otra.
 
+{% quote %}En el momento en que se le da la autonomía a las mujeres, tienes que ofrecerles un lugar seguro, un lugar encriptado, un lugar donde no vayan a ser ellas las que van a los tribunales{% endquote %}
+
 El hecho de que esto sea constante, habitual, y que no solo eso, sino que haya dado lugar a que se monten grupos fuera de Instagram: hay grupos de acompañamiento a mujeres a los juzgados, grupos de acompañamiento a mujeres a la entrega de hijos al agresor o al denunciado, grupos de mujeres que se han juntado para crear clubes de lectura, todo esto ha surgido de los comentarios.
 
 Vimos cómo funcionaba eso y lo único que hemos hecho en la arquitectura de la herramienta es intentar transportar eso de la forma más parecida posible a una herramienta que ya te dote de lugares. Es decir, podrás comentar dentro del testimonio, pero también tendrás unos lugares donde generar grupos, donde generar foros, donde generar secciones de apoyo.
 
 Ayer hablaba con unas mujeres en Barcelona que ya tienen estas redes creadas: crean redes de mujeres que se ofrecen por calles, por barrios o por localidades a acompañar a otras, y tienen centenares de mujeres. Hablé con ellas para que lo sumen a "La Nuestra".
 
-"La Nuestra" no parte solo de una arquitectura del grupo promotor primero, sino que hemos ido hablando con grupos de mujeres en todo el territorio que ya han dado pasos muy interesantes. Por ejemplo, el de los acompañamientos. Y luego está el paso de las habitaciones encriptadas: el paso de poder juntarte con otras para hablar de manera no visible es imprescindible, desde mi punto de vista, tal y como están respondiendo los machos ofendidos o los machos que sienten que su honor ha sido vulnerado y nos llevan a los tribunales. 
+"La Nuestra" no parte solo de una arquitectura del grupo promotor primero, sino que hemos ido hablando con grupos de mujeres en todo el territorio que ya han dado pasos muy interesantes. Por ejemplo, el de los acompañamientos. Y luego está el paso de las habitaciones encriptadas: poder juntarte con otras para hablar de manera no visible es imprescindible, desde mi punto de vista, tal y como están respondiendo los machos ofendidos o los machos que sienten que su honor ha sido vulnerado y nos llevan a los tribunales. 
 
 En el momento en que se le da la autonomía a las mujeres, tienes que ofrecerles un lugar seguro, un lugar encriptado, un lugar donde no vayan a ser ellas las que van a los tribunales.
 
@@ -129,7 +131,7 @@ Puede permitírselo porque ese relato no está contado.
 
 Sin embargo, en este momento todas podemos generar un relato colectivo irrefutable. La base es la irrefutabilidad. No es suficiente que sean cinco mujeres o cinco hombres o cinco los que cuenten un relato. Lo que se considera académicamente suficiente es un volumen grande. Y, en este momento, tenemos las herramientas para hacerlo
 
-Sirva el movimiento contra la violencia macho y contra la violencia sexual en particular, sirva este movimiento de las mujeres desde el Cuéntalo, Se Acabó, etcétera, como ejemplo de cómo poder construir un archivo irrefutable con el que podamos decirle a la señora Carmen Calvo: “Mire usted lo que fue la Transición, colega”.
+Sirva el movimiento contra la violencia macho y contra la violencia sexual en particular, sirva este movimiento de las mujeres desde el #Cuéntalo, #SeAcabó, etcétera, como ejemplo de cómo poder construir un archivo irrefutable con el que podamos decirle a la señora Carmen Calvo: “Mire usted lo que fue la Transición, colega”.
 
 ## **La verdad del testimonio**
 
@@ -163,7 +165,7 @@ Sí. Y fíjate que no son los más bestias. Son temas mucho más pequeños que, 
 
 Esos relatos que, en principio, no son tan bestias y dudo que fueran punibles, generan unos movimientos tremendos. Esas mujeres se quitan un peso de encima que no os podéis imaginar. De repente se dan cuenta de que ni es culpa suya ni su pareja o expareja es el único mierda que hace ese tipo de cosas, sino que, además, es algo habitual. Te despojas, de alguna forma, de esa vergüenza que te da el estar sola, sentirte sola.
 
-Yo sufrí violencia sexual en la infancia, grave, en familia. Y hasta que no leí los relatos de Cuéntalo no dejé de pensar que yo era un ser abominable, la única persona a la que le había pasado eso en el mundo y, además, que merecía ser castigada. Creía que merecía toda la violencia que iba recibiendo a medida que construía mi vida porque era un ser abominable, la única mujer en este mundo a la que le había pasado eso.
+Yo sufrí violencia sexual en la infancia, grave, en familia. Y hasta que no leí los relatos de #Cuéntalo no dejé de pensar que yo era un ser abominable, la única persona a la que le había pasado eso en el mundo y, además, que merecía ser castigada. Creía que merecía toda la violencia que iba recibiendo a medida que construía mi vida porque era un ser abominable, la única mujer en este mundo a la que le había pasado eso.
 
 En el momento en que rompemos el silencio, –yo lloré como una bestia–, nos damos cuenta de que no somos un caso excepcional. Dejamos de torturarnos por la noche y pasamos a formar parte de una colectividad que no solo puede dialogar con nosotras, sino que nos despoja de la culpa, de la vergüenza y de esa piedra que tienes en la garganta que te impide contarle al de al lado lo que viviste.
 
@@ -185,9 +187,11 @@ No sostienen la mirada. Desde luego, los varones violentos no pueden sostener la
 
 Por supuesto que es violencia. El señor Twitter, el señor Instagram y el señor Meta no crearon las redes sociales para que las mujeres nos relataramos y, muy concretamente, relatáramos las violencias sexuales vividas. Al principio, no le dieron la importancia que tenía. Se quedaron tan estupefactos que tardaron tres años en reaccionar. Pero reaccionaron.
 
+{% quote %}Este archivo que estamos construyendo necesita su paz, necesita su tranquilidad{% endquote %}
+
 Ante ello, cuando tú generas tus propios algoritmos, llamémoslos así, o tendencias, o usos de la máquina, de la herramienta, los que mandan son los tuyos, no los de Elon Musk. A pesar de que las redes están concebidas para la violencia contra las mujeres y para que prime el odio y la violencia, "La Nuestra" tiene sus propios algoritmos, y sus algoritmos tienen que ver con el *match,* con el diálogo entre mujeres y con el poner en contacto a mujeres con testimonios parecidos. 
 
-El movimiento testimonial es importante y crece porque no se ha tenido en cuenta por parte de los varones. Y porque la única respuesta que ha tenido por parte de los grandes medios de comunicación ha sido el ostracismo o la crítica feroz. Si se queda como “ese espacio de las chicas que se cuentan”, estupendo. Estupendo, porque este archivo que estamos construyendo necesita su paz, necesita su tranquilidad.
+El movimiento testimonial es importante y crece porque no se ha tenido en cuenta por parte de los varones. Y porque la única respuesta que ha tenido por parte de los grandes medios de comunicación ha sido el ostracismo o la crítica feroz. Si se queda como “ese espacio de las chicas que se cuentan”, estupendo, porque este archivo que estamos construyendo necesita su paz, necesita su tranquilidad.
 
 ### En INSPIRE trabajamos sobre capacidades democráticas que emergen cuando comunidades participan en procesos de decisión: agencia para hablar en primera persona, capacidad de incidencia sobre reglas y cambios, práctica de la co-gobernanza, escucha radical y responsabilidad compartida. En "La Nuestra", las mujeres no solo comparten memoria: están decidiendo protocolos, diseñando un espacio seguro y definiendo cómo se protege y se usa un archivo vivo. ¿Qué capacidades democráticas dirías que se activan cuando una comunidad construye la gobernanza de su propio archivo? 
 
