@@ -10,8 +10,10 @@ uid: nuestra-fallaras-mujeres
 interviewee: Cristina Fallarás
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-02-a-las-20.13.31.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-12-02-a-las-20.13.31.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - transformative-narratives
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
