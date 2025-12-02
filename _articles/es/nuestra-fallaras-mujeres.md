@@ -35,7 +35,7 @@ call_to_action: cta-contact
 image:
   path: /assets/media/no_image-social_media.png
 ---
-Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista, a propósito del lanzamiento de la campaña de micromecenazgo que quiere hacerla posible. El espacio recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023 y quiere aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia sexual y ofrecer ayudas a las mujeres que lo necesiten.
+Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista, a propósito del lanzamiento de la campaña en [Goteo](https://www.goteo.org/project/la-nuestra) que quiere hacerla posible. El espacio recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023 y quiere aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia sexual y ofrecer ayudas a las mujeres que lo necesiten.
 
 ## **El significado de la sobiranía digital feminista**
 
@@ -43,7 +43,7 @@ Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra",
 
 Es urgente que tengamos nuestra propia infraestructura tecnológica porque los datos no deben ser propiedad de los grandes faraones de las tecnologías, y lo son. Nosotras estamos generando un gran archivo testimonial que modifica el relato sobre nosotras mismas y sobre la violencia en general. Es la primera vez en la historia que se hace esto.
 
-\    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra" width="300px" scrolling="no"></iframe>                
+<iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra" width="300px" scrolling="no"></iframe>                
 
 Empezó en 2017, con el MeToo. Estamos modificando aquello que consideramos violencia y cuál es nuestra postura en el mundo.. No es casual que la primera vez que hablamos todas a una, el tema central no sea la moda o la estética, que era “nuestro campo” en teoría, sino que sea la violencia sexual. 
 
