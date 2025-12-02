@@ -11,7 +11,7 @@ interviewee: Cristina Fallarás
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-02-a-las-20.13.31.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-12-02-a-las-20.13.31.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-12-02-a-las-20.13.31.png
 related_article_uids:
   - transformative-narratives
 stickers:
