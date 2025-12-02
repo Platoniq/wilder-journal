@@ -121,6 +121,8 @@ Tenemos que tener claro una cosa: cuando las mujeres necesitamos usar las redes 
 
 Hay un montón de colectivos, hablo de colectivos de la memoria, colectivos migrantes, colectivos empobrecidos cuyo relato se ha prohibido, cuyo relato el mainstream no ha permitido. Esta herramienta no solo sirve a todas ellas, sino que la cederemos de forma gratuita a quien la necesite. A los colectivos de vivienda, a los colectivos migras… hay un montón de colectivos. 
 
+{% quote %}En este momento todas podemos generar un relato colectivo irrefutable{% endquote %}
+
 Yo recuerdo siempre el momento, en el que Carmen Calvo siendo vicepresidenta del Gobierno salió ante los medios de comunicación y dijo que la Transición era la época más plácida y maravillosa de España, que pensé: ¿por qué esta mujer puede permitirse decir esa barbaridad cuando hubo miles de torturados y torturadas en lugares oficiales, en comisarías, en cuarteles, en las calles; cuando hubo asesinados, asesinadas, encarcelados y encarceladas?
 
 Puede permitírselo porque ese relato no está contado.
