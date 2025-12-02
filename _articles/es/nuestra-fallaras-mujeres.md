@@ -27,6 +27,8 @@ cover:
   caption: Cristina Fallarás
 related_article_uids:
   - transformative-narratives
+  - colombia-comparte-tu-rollo
+  - amber-huff
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
