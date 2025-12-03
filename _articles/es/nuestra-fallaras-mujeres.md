@@ -149,7 +149,7 @@ En la tríada verdad, justicia y reparación, la verdad era algo que nos tenían
 
 Los mecanismos de la justicia no nos están ofreciendo reparación, sino lo contrario: revictimización. Probablemente porque mi reparación pasa por ver publicada mi verdad y ponerme en conversación con otras que han publicado su verdad o que se ven reflejadas en la mía. La verdad de las mujeres es soberana. La verdad de todo ser humano es soberana. Solo faltaría que no tuviéramos derecho a la verdad.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.23.36.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.23.36.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.31.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.46.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.57.png"}] } %}
 
 
 

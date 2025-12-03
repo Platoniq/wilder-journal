@@ -141,7 +141,7 @@ In the triad of truth, justice and reparation, truth was something that was forb
 
 The mechanisms of justice are not offering us reparation, but rather the opposite: revictimisation. Probably because my reparation involves seeing my truth published and engaging in conversation with others who have published their truth or who see themselves reflected in mine. Women's truth is sovereign. The truth of every human being is sovereign. The only thing missing is that we do not have the right to the truth.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.23.36.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.23.36.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.31.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.46.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.57.png"}] } %}
 
 The judicial system, on the other hand, is an oppressive system. The judicial system was never created to give women freedom or truth; the judicial system was created to control us, to control our narrative and our bodies, just like the police system. We cannot trust the judicial system. Whether we use it is another matter.
 
