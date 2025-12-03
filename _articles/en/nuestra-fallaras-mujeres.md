@@ -7,6 +7,11 @@ date: 2025-12-02T20:08:00.000+01:00
 date-updated: 2025-12-02T20:08:00.000+01:00
 article-order: 14
 uid: nuestra-fallaras-mujeres
+title: 'Against the macho silence: "La Nuestra", the power of the voice of the women'
+description: 'Against the macho silence: "La Nuestra", the power of the voice of the women'
+author: Alejandra Gallardo
+author_uids:
+  - alex
 interviewee: Cristina Fallarás
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-02-a-las-20.13.31.png
