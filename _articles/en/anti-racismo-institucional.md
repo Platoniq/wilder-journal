@@ -7,6 +7,12 @@ date: 2025-02-28T19:13:00.000+01:00
 date-updated: 2025-02-28T19:13:00.000+01:00
 article-order: 16
 uid: anti-racismo-institucional
+title: ‘We need anti-racist education at a general level and political interest
+  in particular.’
+description: Anti-racist education is important for everyone, including racialised people.
+author: Alejandra Gallardo
+author_uids:
+  - alex
 interviewee: Desirée Bela-Lobedde
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-10-28-a-las-19.31.18.png
