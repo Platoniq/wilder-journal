@@ -45,7 +45,7 @@ Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra",
 
 Es urgente que tengamos nuestra propia infraestructura tecnológica porque los datos no deben ser propiedad de los grandes faraones de las tecnologías, y lo son. Nosotras estamos generando un gran archivo testimonial que modifica el relato sobre nosotras mismas y sobre la violencia en general. Es la primera vez en la historia que se hace esto.
 
-<iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra" width="300px" scrolling="no"></iframe>                
+<iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>                
 
 Empezó en 2017, con el MeToo. Estamos modificando aquello que consideramos violencia y cuál es nuestra postura en el mundo.. No es casual que la primera vez que hablamos todas a una, el tema central no sea la moda o la estética, que era “nuestro campo” en teoría, sino que sea la violencia sexual. 
 
@@ -225,4 +225,4 @@ La Nuestra necesita manos, voces y compromiso para existir fuera de las platafor
 
 Hazte comadre de La Nuestra
 
-<iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra" width="300px" scrolling="no"></iframe>
+<iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>
