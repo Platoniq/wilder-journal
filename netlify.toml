@@ -1,3 +1,5 @@
+[build.environment]
+  NODE_VERSION = "22.12.0"
 # [[plugins]]
  # Installs the Image Optim plugin for all deploy contexts
  # package = "netlify-plugin-image-optim"

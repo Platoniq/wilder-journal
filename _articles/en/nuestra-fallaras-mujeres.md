@@ -37,7 +37,7 @@ We spoke with **Cristina Fallarás**, journalist and writer, about ‘La Nuestra
 
 It is urgent that we have our own technological infrastructure because data should not be owned by the great pharaohs of technology, and yet it is. We are creating a large archive of testimonies that changes the narrative about ourselves and about violence in general. This is the first time in history that this has been done.
 
-<iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra" width="300px" scrolling="no"></iframe>                
+<iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>          
 
 It began in 2017, with MeToo. We are changing what we consider violence and what our position is in the world. It is no coincidence that the first time we all spoke together, the central theme was not fashion or aesthetics, which was ‘our field’ in theory, but sexual violence. 
 
@@ -213,4 +213,4 @@ Right now, there is a chance to break that. If anyone, at any time, figures out 
 
 La Nuestra needs hands, voices, and commitment to exist outside of extractive platforms: to maintain a living archive that is secure and governed by those who build it.
 
-<iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra" width="300px" scrolling="no"></iframe>
+<iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>
