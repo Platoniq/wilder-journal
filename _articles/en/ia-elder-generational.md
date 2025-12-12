@@ -7,6 +7,11 @@ date: 2025-12-12T10:43:00.000+01:00
 date-updated: 2025-12-12T10:43:00.000+01:00
 article-order: 16
 uid: ia-elder-generational
+title: AI as a catalyst for intergenerational dialogue
+description: AI as a catalyst for intergenerational dialogue
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: Malik Afegbua
 cover:
   path: /media/articles/heroes/12-dic-2025-10_16_35.png
@@ -22,6 +27,8 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/12-dic-2025-10_16_35.png
 ---
+At a historical moment marked by technological acceleration, social fragmentation, and a widening generational gap, we spoke with **Madik Afegbua,** creator of *The Elder Series*, an artistic project that directly challenges our idea of progress. In contrast to a dominant narrative that equates innovation with youth and pushes old age into invisibility, this project calls for **intergenerational justice** and affirms the right of older people to continue being seen, heard, and recognized as “living archives”, bearers of beauty, knowledge, and future.
+
 ## **On the origin of the project**
 
 **Interviewer:** *The Elder Series* stems from your personal experience with love. How did you arrive at this project?
