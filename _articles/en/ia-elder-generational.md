@@ -74,7 +74,7 @@ That led me to Storylines and Legacy Link. Legacy Link documents the stories of 
 
 We have to preserve and connect generations. Not lose them. They are architecture, economy, life, politics. We want to understand past, present, and future to know where we come from, where we are going, what changes, what evolves, what has been lost.
 
-{% quote %}don’t blame big tech for not knowing who you are, you don’t know who they are either, nor their cultures{% endquote %}
+{% quote %}Don’t blame big tech for not knowing who you are, you don’t know who they are either, nor their cultures{% endquote %}
 
 Everything has political impact. It just depends on the approach you take and the final outcome. My goal is that nothing is lost. That cultures are not lost. That is the main thing. If there is impact, I want it to be positive. That’s why I do it.
 

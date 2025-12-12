@@ -77,7 +77,7 @@ Eso me llevó a *Storylines* y a *Legacy Link*. *Legacy Link* documenta historia
 
 Hemos de preservar y conectar a las generaciones. No perderlos. Ellas son la arquitectura, economía, vida, política. Queremos entender pasado, presente y futuro para saber de dónde venimos, a dónde vamos, qué cambia, qué evoluciona, qué se ha perdido.
 
-{% quote %}no culpes a las grandes tecnológicas por no saber quién eres, tú tampoco sabes quiénes son tus ancestros y su cultura{% endquote %}
+{% quote %}No culpes a las grandes tecnológicas por no saber quién eres, tú tampoco sabes quiénes son tus ancestros y su cultura{% endquote %}
 
 Todo tiene impacto político. Sólo depende del enfoque que le des y del resultado final. Mi objetivo es que nada se pierda. Que no se pierdan las culturas. Principalmente eso. Si hay impacto, quiero que sea positivo. Por eso lo hago.
 
