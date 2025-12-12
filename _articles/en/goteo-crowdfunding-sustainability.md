@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: interviews
+category: learnings
 published: true
 date: 2024-10-24T12:10:00.000Z
 date-updated: 2024-10-24T12:10:00.000Z
-article-order: 16
+article-order: 8
 uid: goteo-crowdfunding-sustainability
 interviewee: Preparando la tierra, Foodcoop y Stop Agroparc
 cover:
