@@ -7,6 +7,14 @@ date: 2024-10-24T12:10:00.000Z
 date-updated: 2024-10-24T12:10:00.000Z
 article-order: 20
 uid: goteo-crowdfunding-sustainability
+title: Goteo, a platform energizing the rural world through social and
+  environmental impact
+description: Goteo, a platform energizing the rural world through social and
+  environmental impact
+author: Alejandra Gallardo & Crisitian Palazzi
+author_uids:
+  - alex
+  - cristian-palazzi
 interviewee: Preparando la tierra, Foodcoop y Stop Agroparc
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-02-24-a-las-15.26.07.png
