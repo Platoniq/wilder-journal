@@ -46,7 +46,7 @@ En lugar de hundirme en la depresión y en todo lo que ocurrió, quise celebrar 
 
 Como la barrera de acceso creativo se ha reducido, sentí que, en lugar de pasar meses en preproducción y convencer a alguien para que hiciera algo conmigo, podía crear algo de la nada. La IA era la mejor herramienta para hacerlo. Y me funcionó al 100%.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-12-a-las-11.30.24.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-12-a-las-12.45.03.png"}] } %}
 
 ## **Desafiando estereotipos sobre el envejecimiento**
 
