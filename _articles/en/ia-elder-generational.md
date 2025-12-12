@@ -7,8 +7,8 @@ date: 2025-12-12T10:43:00.000+01:00
 date-updated: 2025-12-12T10:43:00.000+01:00
 article-order: 16
 uid: ia-elder-generational
-title: '"Don’t blame big tech for not knowing who you are, you don’t know who
-  they are either, nor their cultures"'
+title: "Challenging stereotypes about aging: Is AI replacing the future of the
+  young or the past of the elderly?"
 description: AI as a catalyst for intergenerational dialogue
 author: Cristian Palazzi
 author_uids:
