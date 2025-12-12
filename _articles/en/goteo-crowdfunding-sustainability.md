@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-10-24T12:10:00.000Z
 date-updated: 2024-10-24T12:10:00.000Z
-article-order: 8
+article-order: 20
 uid: goteo-crowdfunding-sustainability
 interviewee: Preparando la tierra, Foodcoop y Stop Agroparc
 cover:
