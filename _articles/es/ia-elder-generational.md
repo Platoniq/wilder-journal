@@ -7,7 +7,8 @@ date: 2025-12-12T10:43:00.000+01:00
 date-updated: 2025-12-12T10:43:00.000+01:00
 article-order: 16
 uid: ia-elder-generational
-title: ¿IA inclusiva? La la tecnología que recuperar a nuestros ancestros
+title: '"No culpes a las grandes tecnológicas por no saber quién eres, tú
+  tampoco sabes quiénes son tus ancestros y su cultura"'
 description: La IA como detonate de diálogo intergeneracional
 author: Cristian Palazzi
 author_uids:
