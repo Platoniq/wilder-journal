@@ -7,7 +7,7 @@ date: 2025-12-12T10:43:00.000+01:00
 date-updated: 2025-12-12T10:43:00.000+01:00
 article-order: 16
 uid: ia-elder-generational
-title: La IA como detonate de diálogo intergeneracional
+title: ¿IA inclusiva? La la tecnología que recuperar a nuestros ancestros
 description: La IA como detonate de diálogo intergeneracional
 author: Cristian Palazzi
 author_uids:
@@ -74,7 +74,9 @@ Sentí que había un vacío, un problema: conectar a la generación joven con la
 
 Eso me llevó a *Storylines* y a *Legacy Link*. *Legacy Link* documenta historias de personas de 80 años o más para saber cómo era la vida hace 60 o 70 años, en relación con cómo es hoy, y proyectar cómo será dentro de 50 o 60 años. Así, además del relato histórico, entrenamos sistemas de IA para crear “gemelos digitales” de estas personas. En 10 o 15 años, la siguiente generación podría “conocer” a sus ancestros, hacerles preguntas y obtener respuestas basadas en conocimiento factual y en nuestras historias.
 
-Hemos de preservar y conectar a las generaciones. No perderlos. Ellas son la arquitectura, economía, vida, política. Queremos entender pasado, presente y futuro: de dónde venimos, a dónde vamos, qué cambia, qué evoluciona, qué se ha perdido.
+Hemos de preservar y conectar a las generaciones. No perderlos. Ellas son la arquitectura, economía, vida, política. Queremos entender pasado, presente y futuro para saber de dónde venimos, a dónde vamos, qué cambia, qué evoluciona, qué se ha perdido.
+
+{% quote %}no culpes a las grandes tecnológicas por no saber quién eres, tú tampoco sabes quiénes son tus ancestros y su cultura{% endquote %}
 
 Todo tiene impacto político. Sólo depende del enfoque que le des y del resultado final. Mi objetivo es que nada se pierda. Que no se pierdan las culturas. Principalmente eso. Si hay impacto, quiero que sea positivo. Por eso lo hago.
 
@@ -82,9 +84,9 @@ Todo tiene impacto político. Sólo depende del enfoque que le des y del resulta
 
 **Dices que quieres usar la IA como herramienta para el bien. En un mundo donde la IA refuerza exclusión y sesgos, ¿cómo puede convertirse en un medio de solidaridad o visibilidad para quienes no solemos ver?**
 
-**Madik:** La gente se confunde con el enfoque y con lo que es la IA. Para mi es un sistema enorme con muchas ramas. En narrativa o artes, pienso la IA como un lienzo en blanco con el que puedes crear cualquier cosa… o nada. Alguien puede usarla para replicar el trabajo de otro, sí; pero también puedes crear algo completamente nuevo.
+**Madik:** La gente se confunde con el enfoque y con lo que es la IA. Para mi es un sistema enorme con muchas ramas. En narrativa o artes, pienso la IA como un lienzo en blanco con el que puedes crear cualquier cosa… o nada. Alguien puede usarla para replicar el trabajo de otro, pero también puedes crear algo completamente nuevo.
 
-Es una herramienta. Si la abordamos así, cambia: se vuelve poderosa. No trabajamos para ella, trabaja para nosotros. Si tienes experiencia como cineasta o escritor y tus habilidades, procesos creativos, composiciones y datos son lo que introduces en el sistema, sigue siendo original. La IA lo potencia, no lo acapara. Hay una manera de usarla. Para mí, es un lienzo en blanco.
+Es una herramienta. Si la abordamos así, cambia y se vuelve poderosa. No trabajamos para ella, trabaja para nosotros. Si tienes experiencia como cineasta o escritor y tus habilidades, procesos creativos, composiciones y datos son lo que introduces en el sistema, sigue siendo original. La IA lo potencia, no lo acapara. Hay una manera de usarla. Para mí, es un lienzo en blanco.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-12-a-las-10.41.28.png"}] } %}
 
@@ -100,7 +102,7 @@ Y no solo utilizo IA, también paso por otros programas, según lo que quiero co
 
 **Madik:** Pienso que es un tema crucial, sobre todo para los africanos, porque el sesgo y la falta de representación son enormes. La mayoría de los datos recolectados ya están sesgados y no son los adecuados: son genéricos. Para tener datos realmente inclusivos, los africanos debemos hacer el trabajo de contar historias intencionales, construir nuestros propios sistemas que nos representen. No esperar a que *big tech* lo haga por nosotros.
 
-Siempre digo: no culpes a las grandes tecnológicas por no saber quién eres, tú tampoco sabes quiénes son ellos ni sus culturas. Harán lo que conocen. Nuestro trabajo es crear algo diferente o algo que complemente lo que hacen. Hay que contar historias intencionales y publicar datos que representen lo que queremos contar, no solo a nosotros, también a nuestras comunidades y subculturas, para que queden documentadas.
+Siempre digo que no culpes a las grandes tecnológicas por no saber quién eres, tú tampoco sabes quiénes son tus ancestros y su cultura. Harán lo que conocen. Nuestro trabajo es crear algo diferente o algo que complemente lo que hacen. Hay que contar historias intencionales y publicar datos que representen lo que queremos contar, no solo a nosotros, también a nuestras comunidades y subculturas, para que queden documentadas.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-12-a-las-10.42.41.png"}] } %}
 

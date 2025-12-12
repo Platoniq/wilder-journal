@@ -71,7 +71,9 @@ I felt there was a gap, a problem: connecting the younger generation with the ol
 
 That led me to Storylines and Legacy Link. Legacy Link documents the stories of people aged 80 or older to understand what life was like 60 or 70 years ago, in relation to how it is today, and to project how it will be in 50 or 60 years. In this way, beyond the historical narrative, we train AI systems to create “digital twins” of these people. In 10 or 15 years, the next generation could “meet” their ancestors, ask them questions, and get answers based on factual knowledge and our stories.
 
-We have to preserve and connect generations. Not lose them. They are architecture, economy, life, politics. We want to understand past, present, and future: where we come from, where we are going, what changes, what evolves, what has been lost.
+We have to preserve and connect generations. Not lose them. They are architecture, economy, life, politics. We want to understand past, present, and future to know where we come from, where we are going, what changes, what evolves, what has been lost.
+
+{% quote %}don’t blame big tech for not knowing who you are, you don’t know who they are either, nor their cultures{% endquote %}
 
 Everything has political impact. It just depends on the approach you take and the final outcome. My goal is that nothing is lost. That cultures are not lost. That is the main thing. If there is impact, I want it to be positive. That’s why I do it.
 
@@ -79,7 +81,7 @@ Everything has political impact. It just depends on the approach you take and th
 
 **You say you want to use AI as a tool for good. In a world where AI reinforces exclusion and bias, how can it become a means of solidarity or visibility for those we don’t usually see?**
 
-**Madik:** People get confused about the approach and about what AI is. For me, it is a huge system with many branches. In narrative or the arts, I think of AI as a blank canvas with which you can create anything… or nothing. Someone can use it to replicate someone else’s work, yes; but you can also create something completely new.
+**Madik:** People get confused about the approach and about what AI is. For me, it is a huge system with many branches. In narrative or the arts, I think of AI as a blank canvas with which you can create anything… or nothing. Someone can use it to replicate someone else’s work, but you can also create something completely new.
 
 It is a tool. If we approach it that way, it changes: it becomes powerful. We don’t work for it; it works for us. If you have experience as a filmmaker or writer and your skills, creative processes, compositions, and data are what you put into the system, it remains original. AI enhances it; it doesn’t take it over. There is a way to use it. For me, it is a blank canvas.
 
@@ -97,7 +99,7 @@ And I don’t only use AI; I also go through other programs, depending on what I
 
 **Madik:** I think it’s a crucial issue, especially for Africans, because bias and lack of representation are enormous. Most of the data collected is already biased and inadequate: it is generic. To have truly inclusive data, Africans must do the work of telling intentional stories, building our own systems that represent us. Not waiting for big tech to do it for us.
 
-I always say: don’t blame big tech for not knowing who you are—you don’t know who they are either, nor their cultures. They will do what they know. Our job is to create something different or something that complements what they do. We have to tell intentional stories and publish data that represents what we want to tell—not only about ourselves, but also about our communities and subcultures—so that they are documented.
+I always say that you don’t blame big tech for not knowing who you are, you don’t know who they are either, nor their cultures. They will do what they know. Our job is to create something different or something that complements what they do. We have to tell intentional stories and publish data that represents what we want to tell—not only about ourselves, but also about our communities and subcultures—so that they are documented.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-12-a-las-10.42.41.png"}] } %}
 
