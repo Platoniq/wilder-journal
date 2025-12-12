@@ -22,7 +22,7 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/12-dic-2025-10_16_35.png
 ---
-**On the origin of the project**
+## **On the origin of the project**
 
 **Interviewer:** *The Elder Series* stems from your personal experience with love. How did you arrive at this project?
 
@@ -30,7 +30,7 @@ image:
 
 Instead of sinking into depression and everything that happened, I wanted to celebrate her legacy. I tried to connect with that demographic group. That’s how the project was born: how to do something not just for myself, but also for the world? If I was going to use my art as therapy, how could I share that message to speak to someone else, to touch them? That was the initial conversation with myself. Then it became a conversation about inclusion, ageism, the narrative around aging. I went deeper into the research, into the why, and into how to change the perception of how we see ourselves and older people. From there, everything kept growing.
 
-**On the use of AI**
+## **On the use of AI**
 
 **Interviewer:** What was your first impulse to use AI in this process?
 
@@ -42,7 +42,7 @@ As the barrier to creative access has been reduced, I felt that instead of spend
 
 <script async src="//www.instagram.com/embed.js"></script>
 
-**Challenging stereotypes about aging**
+## **Challenging stereotypes about aging**
 
 **Interviewer:** *The Elder Series* challenges deeply rooted stereotypes about aging. How did you reimagine older people not as fragile or forgotten, but as icons? Where did those ideas come from?
 
@@ -58,7 +58,7 @@ I felt there was a gap, a problem: connecting the younger generation with the ol
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-12-a-las-10.42.56.png"}] } %}
 
-**Living archives**
+## **Living archives**
 
 **Interviewer:** When you refer to older people, you talk about them as “living archives.” Why do you use that approach?
 
@@ -70,7 +70,7 @@ We have to preserve and connect generations. Not lose them. They are architectur
 
 Everything has political impact. It just depends on the approach you take and the final outcome. My goal is that nothing is lost. That cultures are not lost. That is the main thing. If there is impact, I want it to be positive. That’s why I do it.
 
-**AI and creative balance**
+## **AI and creative balance**
 
 **Interviewer:** You say you want to use AI as a tool for good. In a world where AI reinforces exclusion and bias, how can it become a means of solidarity or visibility for those we don’t usually see?
 
@@ -86,7 +86,7 @@ It is a tool. If we approach it that way, it changes: it becomes powerful. We do
 
 And I don’t only use AI; I also go through other programs, depending on what I want to tell. AI is one part of the process, just one more of the tools.
 
-**Artistic responsibility and inclusive narratives**
+## **Artistic responsibility and inclusive narratives**
 
 **Interviewer:** So what responsibility do we as artists have when building inclusive AI narratives?
 
@@ -96,7 +96,7 @@ I always say: don’t blame big tech for not knowing who you are—you don’t k
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-12-a-las-10.42.41.png"}] } %}
 
-**Healing and connection**
+## **Healing and connection**
 
 **Interviewer:** In *The Elder Series* you began by seeking your own healing. What do you hope will heal in others?
 
