@@ -114,3 +114,7 @@ Siempre digo que no culpes a las grandes tecnológicas por no saber quién eres,
 **Madik:** Lo mismo. Cada persona tuvo una percepción diferente de la serie y le tocó de un modo u otro. Espero que, de alguna manera, vean que hay una luz positiva en todo. La vida no es lo que el mundo dice que es. Lo que tú pienses que “debe ser” no es lo que importa.
 
 ¿Qué significa realmente ser quien eres? Aceptarte tal como eres, no como te ve el mundo. La serie te muestra la realidad de lo que la vida debería ser, y eso ya es sanación en sus propias circunstancias.
+
+__
+
+*Entrevista llevada a cabo en el marco del Mozilla Festival, 2025.*

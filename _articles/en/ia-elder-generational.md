@@ -111,3 +111,7 @@ I always say that you don’t blame big tech for not knowing who you are, you do
 **Madik:** The same thing. Each person had a different perception of the series and was touched by it in one way or another. I hope that, somehow, they see that there is a positive light in everything. Life is not what the world says it is. What you think it “should be” is not what matters.
 
 What does it really mean to be who you are? Accepting yourself as you are, not as the world sees you. The series shows you the reality of what life should be, and that in itself is healing within one’s own circumstances.
+
+__
+
+*Interview conducted during the Mozilla Festival, 2025.*
