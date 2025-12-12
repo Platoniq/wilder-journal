@@ -8,7 +8,7 @@ date-updated: 2025-12-12T10:43:00.000+01:00
 article-order: 16
 uid: ia-elder-generational
 title: Desafiando los estereotipos sobre el envejecimiento. ¿Está la IA
-  reemplazando el pasado de los mayores?
+  reemplazando el pasado de nuestros mayores?
 description: La IA como detonate de diálogo intergeneracional
 author: Cristian Palazzi
 author_uids:
