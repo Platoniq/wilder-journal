@@ -15,7 +15,7 @@ author_uids:
 interviewee: Malik Afegbua
 cover:
   path: /media/articles/heroes/12-dic-2025-10_16_35.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/12-dic-2025-10_16_35.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Madik
   credits: MAdik
