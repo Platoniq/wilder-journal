@@ -11,7 +11,7 @@ interviewee: Malik Afegbua
 cover:
   path: /media/articles/heroes/12-dic-2025-10_16_35.png
   mobile: /media/articles/mobile/12-dic-2025-10_16_35.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/12-dic-2025-10_16_35.png
 related_article_uids:
   - AI-dialogue
 stickers:
