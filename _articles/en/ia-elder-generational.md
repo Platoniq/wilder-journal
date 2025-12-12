@@ -27,7 +27,7 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/12-dic-2025-10_16_35.png
 ---
-At a historical moment marked by technological acceleration, social fragmentation, and a widening generational gap, we spoke with **Madik Afegbua,** creator of *The Elder Series*, an artistic project that directly challenges our idea of progress. In contrast to a dominant narrative that equates innovation with youth and pushes old age into invisibility, this project calls for **intergenerational justice** and affirms the right of older people to continue being seen, heard, and recognized as “living archives”, bearers of beauty, knowledge, and future.
+While AI is presented as the great promise for new generations, we rarely ask ourselves which memories, forms of knowledge, and bodies are left out of that automated future. We spoke with **Madik Afegbua,** creator of *The Elder Series*, an artistic project that directly challenges our idea of progress. In contrast to a dominant narrative that equates innovation with youth and pushes old age into invisibility, this project calls for **intergenerational justice** and affirms the right of older people to continue being seen, heard, and recognized as “living archives”, bearers of beauty, knowledge, and future.
 
 ## **On the origin of the project**
 
