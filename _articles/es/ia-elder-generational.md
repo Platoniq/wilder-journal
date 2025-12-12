@@ -34,7 +34,7 @@ En un momento histórico marcado por la aceleración tecnológica, la fragmentac
 
 ## **Sobre el origen del proyecto**
 
-**Entrevistador:** *The Elder Series* parte de tu experiencia personal con el amor. ¿Cómo llegaste a este proyecto?
+***The Elder Series* parte de tu experiencia personal con el amor. ¿Cómo llegaste a este proyecto?**
 
 **Madik:** Intentaba conectar porque era muy cercano a mi madre. De repente dejamos de comunicarnos; ya no podía hablar con ella. Iba a tomar un vuelo y esa fue la última vez que supe de ella. No encontraba manera de seguir adelante. Pensaba en cuál sería la mejor forma de afrontar esto. Nunca me había sentido así ni había tenido que enfrentar algo así, y además se trataba de alguien tan cercano.
 
@@ -42,7 +42,7 @@ En lugar de hundirme en la depresión y en todo lo que ocurrió, quise celebrar 
 
 ## **Sobre el uso de la IA**
 
-**Entrevistador:** ¿Cuál fue tu primer impulso para usar IA en este proceso?
+**¿Cuál fue tu primer impulso para usar IA en este proceso?**
 
 **Madik:** Ya estaba experimentando con IA. Para mí, la IA es solo una herramienta. Lo importante es la historia, no la herramienta. Soy narrador: escojo medios de expresión. Si pienso en una historia o en un problema que quiero resolver, lo siguiente es el mejor modo de resolverlo. La IA era la herramienta que tenía delante en ese momento y ya la estaba probando.
 
@@ -52,7 +52,7 @@ Como la barrera de acceso creativo se ha reducido, sentí que, en lugar de pasar
 
 ## **Desafiando estereotipos sobre el envejecimiento**
 
-**Entrevistador:** La *Elder Series* desafía estereotipos muy arraigados sobre el envejecimiento. ¿Cómo reimaginaste a las personas mayores no como frágiles o olvidadas, sino como iconos? ¿De dónde surgieron esas ideas?
+**La *Elder Series* desafía estereotipos muy arraigados sobre el envejecimiento. ¿Cómo reimaginaste a las personas mayores no como frágiles o olvidadas, sino como iconos? ¿De dónde surgieron esas ideas?**
 
 **Madik:** A veces el mundo funciona como un algoritmo: la gente sigue tendencias sin saber de dónde vienen. ¿Por qué pensamos así? Aprendemos de lo que nos cuentan: sobre la edad, la identidad y demás. Y a mi me gusta cambiar percepciones con la narración porque creo que el storytelling es poderoso.
 
@@ -60,7 +60,7 @@ Sentí que había un vacío, un problema: conectar a la generación joven con la
 
 ## **Arte y debate social**
 
-**Entrevistador:** Supongo que eres consciente que no todo el mundo estaba preparado para ver desfilar a gente mayor y que eso les dejara conectarse con las nuevas generaciones. ¿Qué ingredientes necesita una obra para abrir o provocar un debate social?
+**Supongo que eres consciente que no todo el mundo estaba preparado para ver desfilar a gente mayor y que eso les dejara conectarse con las nuevas generaciones. ¿Qué ingredientes necesita una obra para abrir o provocar un debate social?**
 
 **Madik:** Sinceramente, no pensé que fuera a generar tanto debate social. Pero lo hizo. Abrió muchas conversaciones; empezaron a hacerse muchas preguntas. Eso me hizo pensar más seriamente en mi práctica: qué hacer, cómo hacerlo, en qué enfocarme. Trabajo comercialmente con marcas y creo productos para ellas, pero ¿qué hay de la creatividad intencional que pueda tocar vidas, cambiar comunidades y percepciones? Quiero estar al frente de ese storytelling intencional. Podemos cambiar mentalidades e impactar en una comunidad y en toda una generación con la idea de una narración aspiracional: llevarte a un mundo en el que quizá no te habías visto, pero en el que podrías vivir. Ese es el poder del storytelling.
 
@@ -68,7 +68,7 @@ Sentí que había un vacío, un problema: conectar a la generación joven con la
 
 ## **Archivos vivos**
 
-**Entrevistador:** Cuando te refieres a los mayores, hablas de “archivos vivos”. ¿Por qué usas ese enfoque?
+**Cuando te refieres a los mayores, hablas de “archivos vivos”. ¿Por qué usas ese enfoque?**
 
 **Madik:** En nuestra vida nadie ha conocido a sus ancestros. Tal vez veamos una foto en blanco y negro, y a veces ni eso. No tengo fotos de mis abuelos; no sé cómo eran, ni mis bisabuelos. ¿Y la próxima generación? ¿Qué estamos haciendo al respecto?
 
@@ -80,7 +80,7 @@ Todo tiene impacto político. Sólo depende del enfoque que le des y del resulta
 
 ## **IA y el equilibrio creativo**
 
-**Entrevistador:** Dices que quieres usar la IA como herramienta para el bien. En un mundo donde la IA refuerza exclusión y sesgos, ¿cómo puede convertirse en un medio de solidaridad o visibilidad para quienes no solemos ver?
+**Dices que quieres usar la IA como herramienta para el bien. En un mundo donde la IA refuerza exclusión y sesgos, ¿cómo puede convertirse en un medio de solidaridad o visibilidad para quienes no solemos ver?**
 
 **Madik:** La gente se confunde con el enfoque y con lo que es la IA. Para mi es un sistema enorme con muchas ramas. En narrativa o artes, pienso la IA como un lienzo en blanco con el que puedes crear cualquier cosa… o nada. Alguien puede usarla para replicar el trabajo de otro, sí; pero también puedes crear algo completamente nuevo.
 
@@ -88,7 +88,7 @@ Es una herramienta. Si la abordamos así, cambia: se vuelve poderosa. No trabaja
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-12-a-las-10.41.28.png"}] } %}
 
-**Entrevistador:** Pues te lo preguntaré de otra manera, ¿cómo equilibras el uso de la tecnología con tu narración para que el alma del trabajo no se pierda en el algoritmo?
+**Pues te lo preguntaré de otra manera, ¿cómo equilibras el uso de la tecnología con tu narración para que el alma del trabajo no se pierda en el algoritmo?**
 
 **Madik:** Buena pregunta. No es poner prompts y ya. Puedo tener una idea y pensarla: tomo notas, escribo un diario, hago bocetos. Eso puede durar una o dos semanas y cuando ya lo tengo en la cabeza, voy al ordenador y empiezo a crear.
 
@@ -96,7 +96,7 @@ Y no solo utilizo IA, también paso por otros programas, según lo que quiero co
 
 ## **Responsabilidad artística y narrativas inclusivas**
 
-**Entrevistador:** Entonces, ¿qué responsabilidad tenemos los artistas al construir narrativas de IA inclusivas?
+**Entonces, ¿qué responsabilidad tenemos los artistas al construir narrativas de IA inclusivas?**
 
 **Madik:** Pienso que es un tema crucial, sobre todo para los africanos, porque el sesgo y la falta de representación son enormes. La mayoría de los datos recolectados ya están sesgados y no son los adecuados: son genéricos. Para tener datos realmente inclusivos, los africanos debemos hacer el trabajo de contar historias intencionales, construir nuestros propios sistemas que nos representen. No esperar a que *big tech* lo haga por nosotros.
 
@@ -106,7 +106,7 @@ Siempre digo: no culpes a las grandes tecnológicas por no saber quién eres, t�
 
 ## **Sanación y conexión**
 
-**Entrevistador:** En la *Elder Series* comenzaste buscando tu propia sanación. ¿Qué esperas que sane en otros?
+**En la *Elder Series* comenzaste buscando tu propia sanación. ¿Qué esperas que sane en otros?**
 
 **Madik:** Lo mismo. Cada persona tuvo una percepción diferente de la serie y le tocó de un modo u otro. Espero que, de alguna manera, vean que hay una luz positiva en todo. La vida no es lo que el mundo dice que es. Lo que tú pienses que “debe ser” no es lo que importa.
 
