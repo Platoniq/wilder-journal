@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-02-28T19:13:00.000+01:00
 date-updated: 2025-02-28T19:13:00.000+01:00
-article-order: 16
+article-order: 11
 uid: anti-racismo-institucional
 title: ‘We need anti-racist education at a general level and political interest
   in particular.’
