@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-14T12:03:00.000Z
 date-updated: 2024-11-14T12:03:00.000Z
-article-order: 11
+article-order: 16
 uid: Ernesto-Ganuza
 title: Cognitive traps in citizen deliberation
 description: Interview with Ernesto Ganuza
