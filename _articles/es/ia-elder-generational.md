@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-12-12T10:43:00.000+01:00
 date-updated: 2025-12-12T10:43:00.000+01:00
-article-order: 16
+article-order: 11
 uid: ia-elder-generational
 title: Desafiando los estereotipos sobre el envejecimiento. ¿Está la IA
   reemplazando el pasado de nuestros mayores?
