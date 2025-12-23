@@ -105,6 +105,8 @@ Las mujeres deberían poder usar internet no solo para consumir contenido, sino 
 
 Estas son libertades que los hombres suelen dar por sentadas. Las mujeres de todos los orígenes —independientemente de su raza, sexualidad, discapacidad, profesión o contexto— merecen espacios digitales libres de violencia donde esas libertades sean posibles.
 
+{% gallery { "simple": false, "images": [{"path":"/media/1_vuamnqzftj-kgistxc2yja.webp"}] } %}
+
 ### **En Platoniq entendemos que los Espacios (más) Seguros hacen hincapié en la responsabilidad institucional, garantizando que las organizaciones que acogen la participación digital se ocupen de las implicaciones emocionales y éticas del espacio, y no solo de su configuración técnica. Según tu experiencia, ¿cómo pueden las instituciones adoptar prácticas de gobernanza centradas en los supervivientes y que tengan en cuenta el trauma a la hora de moderar o facilitar el diálogo en línea?**
 
 Los gobiernos tienen, sin duda, la responsabilidad de proteger a la ciudadanía. Pero esa protección debe ejercerse en los espacios adecuados. Hoy existen múltiples fallos graves en el ámbito público que requieren atención urgente.
