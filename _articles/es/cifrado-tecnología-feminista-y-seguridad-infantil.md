@@ -7,7 +7,8 @@ date: 2025-12-23T11:02:00.000+01:00
 date-updated: 2025-12-23T11:02:00.000+01:00
 article-order: 14
 uid: chayn-feminism-technology
-title: Chayn como espacio digital de protección y reivindicación feminista
+title: '"Todas las mujeres merecemos un espacio digital donde podamos hacer uso
+  de nuestras ibertades"'
 description: Chayn como espacio digital de protección y reivindicación feminista
 author: Cristian Palazzi
 author_uids:
@@ -105,7 +106,7 @@ Veo Chayn como un ejercicio de esperanza, solidaridad y ajuste de cuentas femini
 
 Las mujeres deberían poder usar internet no solo para consumir contenido, sino para formarse, trabajar, expresarse, crear empresas, enamorarse, terminar relaciones, criar, opinar y existir públicamente sin sufrir acoso.
 
-Estas son libertades que los hombres suelen dar por sentadas. Las mujeres de todos los orígenes —independientemente de su raza, sexualidad, discapacidad, profesión o contexto— merecen espacios digitales libres de violencia donde esas libertades sean posibles.
+Estas son libertades que los hombres suelen dar por sentadas. Las mujeres de todos los orígenes, independientemente de su raza, sexualidad, discapacidad, profesión o contexto, merecemos espacios digitales libres de violencia donde esas libertades sean posibles.
 
 ### **En Platoniq entendemos que los Espacios (más) Seguros hacen hincapié en la responsabilidad institucional, garantizando que las organizaciones que acogen la participación digital se ocupen de las implicaciones emocionales y éticas del espacio, y no solo de su configuración técnica. Según tu experiencia, ¿cómo pueden las instituciones adoptar prácticas de gobernanza centradas en los supervivientes y que tengan en cuenta el trauma a la hora de moderar o facilitar el diálogo en línea?**
 

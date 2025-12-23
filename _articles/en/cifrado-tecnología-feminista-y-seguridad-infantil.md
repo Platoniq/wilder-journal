@@ -7,7 +7,8 @@ date: 2025-12-23T11:02:00.000+01:00
 date-updated: 2025-12-23T11:02:00.000+01:00
 article-order: 14
 uid: chayn-feminism-technology
-title: Chayn as a digital space for feminist protection and advocacy
+title: '"Women of all backgrounds deserve digital spaces where their freedoms
+  are possible"'
 description: Chayn as a digital space for feminist protection and advocacy
 author: Cristian Palazzi
 author_uids:
@@ -101,7 +102,7 @@ I see Chayn as an exercise in hope, solidarity, and feminist reckoning. Women ha
 
 Women should be able to use the internet not only to consume content, but to learn, work, express themselves, build businesses, fall in love, leave relationships, raise children, hold opinions, and exist publicly without harassment.
 
-These are freedoms men often take for granted. Women of all backgrounds—regardless of race, sexuality, disability, profession, or context—deserve digital spaces free from violence where those freedoms are possible.
+These are freedoms men often take for granted. Women of all backgrounds deserve digital spaces free from violence where their freedoms are possible.
 
 At Platoniq, we understand (Safer) Spaces as placing emphasis on institutional responsibility, ensuring that organizations hosting digital participation take care of the emotional and ethical implications of the space, not just its technical configuration. From your experience, how can institutions adopt survivor-centered, trauma-aware governance practices when moderating or facilitating online dialogue?
 
