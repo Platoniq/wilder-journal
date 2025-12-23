@@ -95,7 +95,7 @@ Las aplicaciones de seguimiento del ciclo menstrual son otro ejemplo. Los datos 
 
 Estas son algunas de las razones por las que mujeres y niñas no solo deberían usar plataformas cifradas, sino que ya lo están haciendo.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-23-a-las-12.27.27.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/1_whxfenj-pkgjknballeuhq.webp"}] } %}
 
 ### **Muchas supervivientes describen la seguridad no solo como «protección contra el daño», sino como la capacidad de hablar, retirarse o configurar las condiciones del diálogo. ¿Cómo ha transformado Chayn la forma en que diseñamos los espacios digitales participativos o deliberativos, donde las asimetrías de poder y la exposición emocional son inherentes?**
 
