@@ -44,6 +44,8 @@ Se trata de un **itinerario de 6 sesiones online**, pensado para personas que tr
 
 ## **Un itinerario formativo en 6 sesiones**
 
+{% numbers { "items": [{"number":"ECTS","label":"2"},{"label":"clases online","number":"6"},{"label":"experiencias reales","number":"6"}] } %}
+
 ### 🎭 **Historia de la democracia creativa**
 
 Un recorrido por las formas en que, a lo largo de la historia de la democracia moderna, los movimientos sociales han utilizado la creatividad para conquistar derechos. Desde la acción simbólica hasta la cultura como herramienta política, poniendo el foco en la imaginación como motor de cambio democrático.
