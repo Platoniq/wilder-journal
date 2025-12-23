@@ -133,6 +133,8 @@ No veo ninguna contradicción. La investigación financiada con fondos públicos
 
 Al mismo tiempo, las conversaciones privadas, la vida familiar y los datos de salud pertenecen al ámbito privado. La apertura debe aplicarse al poder y a las instituciones, no a la intimidad de las personas.
 
+{% gallery { "simple": false, "images": [{"path":"/media/1_17zt84sxshgsoypx2p0fhw.webp"}] } %}
+
 ### **¿Cuáles son los retos de aplicar principios de código abierto en ámbitos sensibles como la violencia de género o la protección infantil?**
 
 Requiere una gestión cuidadosa. En Chayn minimizamos la recopilación de datos. La mayoría de nuestros recursos son abiertos y no requieren registro.
