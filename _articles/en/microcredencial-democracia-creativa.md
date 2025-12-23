@@ -9,7 +9,7 @@ article-order: 3
 uid: microcredencial-democracia-creativa
 interviewee: null
 cover:
-  path: /media/articles/heroes/21.png
+  path: /media/articles/heroes/captura-de-pantalla-2025-12-23-a-las-9.46.13.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
 stickers:
