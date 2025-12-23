@@ -7,8 +7,7 @@ date: 2025-12-23T08:38:00.000+01:00
 date-updated: 2025-12-23T08:38:00.000+01:00
 article-order: 3
 uid: microcredencial-democracia-creativa
-title: "Aprender democracia en tiempos de incertidumbre [Microcredencial
-  universitaria: 2ECTS]"
+title: Aprender democracia en tiempos de incertidumbre [2ECTS]
 description: La democracia no es un sistema cerrado.
 author: Fundación Platoniq
 author_uids:
