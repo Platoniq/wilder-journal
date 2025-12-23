@@ -63,8 +63,6 @@ La herramienta se ha lanzado recientemente y ya la han utilizado más de cien pe
 
 Uno de los primeros comentarios que hemos recibido es que la plataforma ayuda a las supervivientes a reunir su historia en un solo lugar, evitando tener que repetirla una y otra vez. También les ayuda a entender cómo lo que les ha ocurrido vulnera las políticas de las plataformas, gracias a resúmenes claros y accesibles.
 
-{% gallery { "simple": true, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp"}] } %}
-
 ### **Hablando de la recopilación de datos, el debate sobre el cifrado y la seguridad infantil suele plantearse como una disyuntiva entre privacidad y protección. ¿Por qué consideras que este enfoque es problemático?**
 
 Porque las niñas y los niños también merecen privacidad. Tienen derechos digitales propios y, además, crecen y se convierten en personas adultas que seguirán necesitando privacidad.
@@ -95,8 +93,6 @@ Las aplicaciones de seguimiento del ciclo menstrual son otro ejemplo. Los datos 
 
 Estas son algunas de las razones por las que mujeres y niñas no solo deberían usar plataformas cifradas, sino que ya lo están haciendo.
 
-{% gallery { "simple": true, "images": [{"path":"/media/1_whxfenj-pkgjknballeuhq.webp"}] } %}
-
 ### **Muchas supervivientes describen la seguridad no solo como «protección contra el daño», sino como la capacidad de hablar, retirarse o configurar las condiciones del diálogo. ¿Cómo ha transformado Chayn la forma en que diseñamos los espacios digitales participativos o deliberativos, donde las asimetrías de poder y la exposición emocional son inherentes?**
 
 Veo Chayn como un ejercicio de esperanza, solidaridad y ajuste de cuentas feminista. Las mujeres tienen derecho a información rigurosa y práctica sobre sus derechos, su salud mental y las cuestiones que afectan a sus vidas, presentada de formas que no sean patriarcales y que realmente ayuden a mantenerlas a salvo.
@@ -124,8 +120,6 @@ Pero ahí es donde el Estado sobrepasa sus límites. El Estado debe ser una red 
 Los Estados no son siempre actores benevolentes. Existen injusticias sistémicas, discriminación y corrupción. El poder es asimétrico. Los gobiernos ya poseen enormes cantidades de información personal y sabemos que muchas veces se gestiona mal.
 
 Ampliar la vigilancia es una decisión política, no una necesidad inevitable. A menudo responde más a la conveniencia que a la protección real, y las garantías rara vez son suficientes para justificarla.
-
-{% gallery { "simple": true, "images": [{"path":"/media/1_vuamnqzftj-kgistxc2yja.webp"}] } %}
 
 ### **Has defendido durante mucho tiempo el software libre y la transparencia. ¿Cómo concilias la apertura con la privacidad y la protección?**
 
