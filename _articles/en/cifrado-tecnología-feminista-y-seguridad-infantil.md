@@ -18,7 +18,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
 ---
 At Platoniq, we often ask ourselves what it takes to create an online space where people can breathe—a space that allows disagreement without causing harm, that listens without recording, that protects without enclosing. Hera Hussein’s work with Chayn feels like an answer to that question: an act of feminist engineering in which care becomes a form of code.
 
