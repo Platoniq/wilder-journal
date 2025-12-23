@@ -30,7 +30,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
 ---
-En Platoniq, a menudo nos preguntamos qué se necesita para crear un espacio online donde la gente pueda respirar, un espacio que admita el desacuerdo sin causar daño, que escuche sin grabar, que proteja sin encerrar. El trabajo de Hera Hussein con Chayn parece una respuesta a esa pregunta: un acto de ingeniería feminista donde el cuidado se convierte en una forma de código.
+En Platoniq, a menudo nos preguntamos qué se necesita para crear un espacio online donde la gente pueda respirar, un espacio que admita el desacuerdo sin causar daño, que escuche sin grabar y que proteja sin encerrar. El trabajo de Hera Hussein con [Chayn](https://www.chayn.co/) parece una respuesta a esa pregunta: un acto de ingeniería feminista donde el cuidado se convierte en una forma de código.
 
 ### **Tu trabajo con Chayn ha transformado la forma en que la tecnología puede apoyar a las supervivientes de la violencia de género. ¿Cómo te llevó tu recorrido personal a fundar Chayn y a abordar la tecnología desde una mirada feminista?**
 
