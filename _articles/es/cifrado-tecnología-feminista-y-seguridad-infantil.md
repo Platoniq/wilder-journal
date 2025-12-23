@@ -16,7 +16,7 @@ interviewee: Hera Hussein
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
   alt: HERA
   credits: Hera
   caption: Hera
