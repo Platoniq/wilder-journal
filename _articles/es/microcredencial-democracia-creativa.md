@@ -14,7 +14,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-23-a-las-9.46.13.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2025-12-23-a-las-9.46.13.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: MICRO
   credits: MICRO
