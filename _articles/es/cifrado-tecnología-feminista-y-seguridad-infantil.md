@@ -125,6 +125,8 @@ Los Estados no son siempre actores benevolentes. Existen injusticias sistémicas
 
 Ampliar la vigilancia es una decisión política, no una necesidad inevitable. A menudo responde más a la conveniencia que a la protección real, y las garantías rara vez son suficientes para justificarla.
 
+{% gallery { "simple": true, "images": [{"path":"/media/1_vuamnqzftj-kgistxc2yja.webp"}] } %}
+
 ### **Has defendido durante mucho tiempo el software libre y la transparencia. ¿Cómo concilias la apertura con la privacidad y la protección?**
 
 No veo ninguna contradicción. La investigación financiada con fondos públicos debería ser de acceso público. El dinero público debería ser transparente.
