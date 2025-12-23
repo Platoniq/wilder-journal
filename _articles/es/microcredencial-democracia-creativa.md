@@ -25,7 +25,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2025-12-23-a-las-9.46.13.png
 ---
 **¿Y si la democracia no fuera solo votar, sino también imaginar, sentir y crear juntas?** En un contexto de crisis de representación, desafección política y polarización creciente, la creatividad emerge como una herramienta clave para revitalizar la vida democrática. No como adorno, sino como método para abrir espacios de participación, construir diálogo en la diferencia e incidir de forma colectiva en las instituciones.
 
