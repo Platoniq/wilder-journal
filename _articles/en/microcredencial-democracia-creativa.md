@@ -11,7 +11,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-23-a-las-10.37.08.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-12-23-a-las-10.37.08.png
-  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-12-23-a-las-9.46.13.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-12-23-a-las-10.37.08.png
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
