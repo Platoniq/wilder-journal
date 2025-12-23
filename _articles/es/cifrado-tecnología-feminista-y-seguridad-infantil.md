@@ -77,6 +77,8 @@ Una niña o un niño hoy puede convertirse mañana en una persona adolescente qu
 
 La infancia tiene derechos a la privacidad no solo como menores, sino también como futuras personas adultas. Por eso esta cuestión es tan importante.
 
+{% gallery { "simple": false, "images": [{"path":"/media/1_whxfenj-pkgjknballeuhq.webp"}] } %}
+
 ### **Entonces, ¿puede la seguridad en sí misma ser radical? ¿Puede el cifrado, tan a menudo descrito como secreto o aislamiento, convertirse en un instrumento de cuidado colectivo, incluso de democracia?**
 
 El cifrado ofrece una privacidad fundamental. Permite mantener la información confidencial, no solo frente a parejas abusivas, sino también frente a gobiernos y otros actores malintencionados.
