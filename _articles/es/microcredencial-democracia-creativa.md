@@ -44,22 +44,28 @@ Se trata de un **itinerario de 6 sesiones online**, pensado para personas que tr
 
 ## **Un itinerario formativo en 6 sesiones**
 
-🎭 **Historia de la democracia creativa**
+### 🎭 **Historia de la democracia creativa**
+
 Un recorrido por las formas en que, a lo largo de la historia de la democracia moderna, los movimientos sociales han utilizado la creatividad para conquistar derechos. Desde la acción simbólica hasta la cultura como herramienta política, poniendo el foco en la imaginación como motor de cambio democrático.
 
-🙊 **Decidir cambios con palabras**
+### 🙊 **Decidir cambios con palabras**
+
 ¿Cómo se construyen los procesos participativos? ¿Qué los bloquea? Esta sesión analiza las fases de la participación ciudadana, las falacias antidemocráticas más comunes y los condicionamientos cognitivos que dificultan una deliberación justa e inclusiva.
 
-🛠️ **La deliberación puesta en práctica**
+### 🛠️ **La deliberación puesta en práctica**
+
 Diseñar espacios para hablar no es suficiente: hay que diseñar espacios para decidir. Aquí se explora cómo se construyen diálogos y asambleas ciudadanas en contextos de diversidad, atendiendo a enclaves, grupos de interés y cosmovisiones. Deliberar no es lo mismo que dialogar.
 
-👯‍♂️ **Claves de la participación comunitaria**
+### 👯‍♂️ **Claves de la participación comunitaria**
+
 Tipos y modelos de participación ciudadana y comunitaria. ¿Qué entendemos por calidad democrática? ¿Cómo se articulan lo institucional y lo comunitario? Una sesión para aterrizar conceptos y prácticas en el territorio.
 
-✊🏽 **Niveles de incidencia democrática**
+### ✊🏽 **Niveles de incidencia democrática**
+
 Desde el barrio hasta las instituciones europeas. Se explican los distintos niveles de incidencia política, los actores implicados y las estrategias más adecuadas según la escala y la problemática que se quiere abordar.
 
-📢 **Comunicación y movilización ciudadana**
+### 📢 **Comunicación y movilización ciudadana**
+
 Narrativas, campañas y herramientas para generar impacto social. Una sesión dedicada a la comunicación como palanca de movilización y transformación política, desde una perspectiva ética, creativa y democrática.
 
 ## **Democracia creativa: pensar, sentir y hacer juntas**
