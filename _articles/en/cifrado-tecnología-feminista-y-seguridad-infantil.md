@@ -7,6 +7,11 @@ date: 2025-12-23T11:02:00.000+01:00
 date-updated: 2025-12-23T11:02:00.000+01:00
 article-order: 14
 uid: chayn-feminism-technology
+title: Chayn as a digital space for feminist protection and advocacy
+description: Chayn as a digital space for feminist protection and advocacy
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: Hera Hussein
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
