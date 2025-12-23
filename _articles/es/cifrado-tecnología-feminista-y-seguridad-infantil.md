@@ -39,7 +39,7 @@ Lo que me impactó fue lo difícil que les resultaba encontrar apoyo. Les costab
 
 Decidí crear Chayn porque no encontraba esa información en línea y porque estaba convencida de que, en una era digital, deberían existir espacios online donde las personas pudieran encontrar ayuda. Especialmente para quienes no se sienten capaces de llamar por teléfono o de acudir físicamente a un lugar. Tenía que haber un espacio donde pudieran hacerlo de forma privada y en sus propios términos. Ese fue el origen de Chayn.
 
-{% gallery { "simple": true, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp","alt":"Hera Hussein","caption":"@Hera Hussein","credits":"Medium"}] } %}
 
 ### **En el proyecto INSPIRE, trabajamos en la creación de espacios digitales seguros (o más seguros) para la participación democrática (entendiendo que la «seguridad» es siempre un proceso, no una condición fija); espacios que sean inclusivos, interseccionales y transparentes, pero también seguros desde el punto de vista emocional y psicológico. Según tu experiencia, ¿cuáles diría que son las dimensiones más ignoradas en los espacios de participación digital?**
 
@@ -65,7 +65,7 @@ La herramienta se ha lanzado recientemente y ya la han utilizado más de cien pe
 
 Uno de los primeros comentarios que hemos recibido es que la plataforma ayuda a las supervivientes a reunir su historia en un solo lugar, evitando tener que repetirla una y otra vez. También les ayuda a entender cómo lo que les ha ocurrido vulnera las políticas de las plataformas, gracias a resúmenes claros y accesibles.
 
-{% gallery { "simple": false, "images": [{"path":"/media/1_whxfenj-pkgjknballeuhq.webp"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/1_whxfenj-pkgjknballeuhq.webp","alt":"Hera Hussein","caption":"@Hera Hussein","credits":"Medium"}] } %}
 
 ### **Hablando de la recopilación de datos, el debate sobre el cifrado y la seguridad infantil suele plantearse como una disyuntiva entre privacidad y protección. ¿Por qué consideras que este enfoque es problemático?**
 
@@ -97,7 +97,7 @@ Las aplicaciones de seguimiento del ciclo menstrual son otro ejemplo. Los datos 
 
 Estas son algunas de las razones por las que mujeres y niñas no solo deberían usar plataformas cifradas, sino que ya lo están haciendo.
 
-{% gallery { "simple": false, "images": [{"path":"/media/1_vuamnqzftj-kgistxc2yja.webp"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/1_vuamnqzftj-kgistxc2yja.webp","alt":"Hera Hussein","caption":"@Hera Hussein","credits":"Medium"}] } %}
 
 ### **Muchas supervivientes describen la seguridad no solo como «protección contra el daño», sino como la capacidad de hablar, retirarse o configurar las condiciones del diálogo. ¿Cómo ha transformado Chayn la forma en que diseñamos los espacios digitales participativos o deliberativos, donde las asimetrías de poder y la exposición emocional son inherentes?**
 
@@ -127,7 +127,7 @@ Los Estados no son siempre actores benevolentes. Existen injusticias sistémicas
 
 Ampliar la vigilancia es una decisión política, no una necesidad inevitable. A menudo responde más a la conveniencia que a la protección real, y las garantías rara vez son suficientes para justificarla.
 
-{% gallery { "simple": false, "images": [{"path":"/media/1_17zt84sxshgsoypx2p0fhw.webp"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/1_17zt84sxshgsoypx2p0fhw.webp","alt":"Hera Hussein","caption":"@Hera Hussein","credits":"Medium"}] } %}
 
 ### **Has defendido durante mucho tiempo el software libre y la transparencia. ¿Cómo concilias la apertura con la privacidad y la protección?**
 
