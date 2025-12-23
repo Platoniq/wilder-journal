@@ -31,7 +31,7 @@ image:
 
 Con esta premisa, **la Escuela de Creatividad y Democracia de Platoniq** y el **Instituto de Gobierno y Políticas Públicas (IGOP) de la Universitat Autònoma de Barcelona** se unen para lanzar la **primera Microcredencial Universitaria en Democracia Creativa**: un itinerario formativo que combina democracia participativa, tecnología cívica y metodologías creativas.
 
-{% file { "title": "Preinscripción abierta", "info": "", "file": "https://openspaces.platoniq.net/assemblies/microcredencial-democracia-creativa/f/527/surveys/90", "image": "/assets/media/no_image-file.png", "button_text": "Preinscríbete aquí", "button_icon": "", "alt_color": true } %}
+{% file { "title": "Microcredencial universitaria (2ECTS)", "info": "", "file": "https://openspaces.platoniq.net/assemblies/microcredencial-democracia-creativa/f/527/surveys/90", "image": "/assets/media/no_image-file.png", "button_text": "Preinscríbete aquí", "button_icon": "", "alt_color": true } %}
 
 ## **Aprender democracia en tiempos de incertidumbre**
 

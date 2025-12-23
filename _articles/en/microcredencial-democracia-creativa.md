@@ -7,6 +7,7 @@ date: 2025-12-23T08:38:00.000+01:00
 date-updated: 2025-12-23T08:38:00.000+01:00
 article-order: 3
 uid: microcredencial-democracia-creativa
+interviewee: null
 cover:
   path: /media/articles/heroes/21.png
   mobile: /assets/media/no_image-hero.png
