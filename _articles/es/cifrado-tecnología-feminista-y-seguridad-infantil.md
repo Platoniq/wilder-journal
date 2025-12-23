@@ -17,7 +17,7 @@ cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
-  alt: HERA
+  alt: Hera
   credits: Hera
   caption: Hera
 related_article_uids: []
@@ -46,6 +46,8 @@ Abordar la tecnología desde una perspectiva feminista me resultó algo muy natu
 Sin embargo, cuando empecé a trabajar profesionalmente en el sector tecnológico, la desigualdad de género se hizo imposible de ignorar. Era, y sigue siendo, un entorno profundamente masculinizado. La tecnología se diseña desde parámetros como la velocidad, el coste o lo “cool”, pero lo “cool” se define desde una mirada muy limitada: lo que resulta atractivo para los hombres, generalmente hombres blancos europeos o estadounidenses, incluso cuando se trata de productos pensados para un público global.
 
 Eso me llevó a hacerme una pregunta fundamental: ¿cómo sería la tecnología si personas distintas tuvieran voz en su diseño? En Chayn, producimos tecnología partiendo de esa pregunta. Nos gusta la tecnología, la construimos, la usamos y creemos firmemente que todo eso puede hacerse desde principios feministas.
+
+{% gallery { "simple": true, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp"}] } %}
 
 ### **Hablas a menudo de diseño informado por el trauma y de marcos basados en la esperanza. ¿Cómo influyen estos principios en la forma en que Chayn entiende la seguridad?**
 
