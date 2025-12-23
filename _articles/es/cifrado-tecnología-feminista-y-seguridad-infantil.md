@@ -39,8 +39,6 @@ Lo que me impactó fue lo difícil que les resultaba encontrar apoyo. Les costab
 
 Decidí crear Chayn porque no encontraba esa información en línea y porque estaba convencida de que, en una era digital, deberían existir espacios online donde las personas pudieran encontrar ayuda. Especialmente para quienes no se sienten capaces de llamar por teléfono o de acudir físicamente a un lugar. Tenía que haber un espacio donde pudieran hacerlo de forma privada y en sus propios términos. Ese fue el origen de Chayn.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-23-a-las-12.29.00.png"}] } %}
-
 ### **En el proyecto INSPIRE, trabajamos en la creación de espacios digitales seguros (o más seguros) para la participación democrática (entendiendo que la «seguridad» es siempre un proceso, no una condición fija); espacios que sean inclusivos, interseccionales y transparentes, pero también seguros desde el punto de vista emocional y psicológico. Según tu experiencia, ¿cuáles diría que son las dimensiones más ignoradas en los espacios de participación digital?**
 
 Abordar la tecnología desde una perspectiva feminista me resultó algo muy natural. No fue una decisión consciente; simplemente era la forma en la que entendía el mundo. Crecí en un entorno muy empoderador y crecí rodeada de tecnología. Nunca se me pasó por la cabeza que hubiera cosas que no pudiera hacer por ser mujer.
@@ -65,7 +63,7 @@ La herramienta se ha lanzado recientemente y ya la han utilizado más de cien pe
 
 Uno de los primeros comentarios que hemos recibido es que la plataforma ayuda a las supervivientes a reunir su historia en un solo lugar, evitando tener que repetirla una y otra vez. También les ayuda a entender cómo lo que les ha ocurrido vulnera las políticas de las plataformas, gracias a resúmenes claros y accesibles.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-23-a-las-12.28.12.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp"}] } %}
 
 ### **Hablando de la recopilación de datos, el debate sobre el cifrado y la seguridad infantil suele plantearse como una disyuntiva entre privacidad y protección. ¿Por qué consideras que este enfoque es problemático?**
 
