@@ -140,3 +140,7 @@ Todos nuestros recursos están bajo licencias abiertas, lo que permite que organ
 Hay un enorme potencial de aprendizaje mutuo, pero pocos espacios compartidos. Los marcos de derechos digitales ayudan a las organizaciones feministas a comprender cómo interactúan el poder, el dinero y los sistemas tecnológicos. Los movimientos por la justicia de género ayudan al ámbito de los derechos digitales a comprender los daños reales, los contextos y la complejidad de las experiencias vividas.
 
 Juntos, pueden impulsar diseños más seguros, prevenir daños y construir ecosistemas digitales que no solo reaccionen ante la violencia, sino que creen activamente espacio para que ocurra lo bueno.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-23-a-las-12.22.42.png"}] } %}
+
+ Consulta la [Guía sobre Seguridad Digital (2025)](https://www.chayn.co/guides/diy-online-safety)

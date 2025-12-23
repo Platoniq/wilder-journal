@@ -131,3 +131,7 @@ All of our resources are released under open licenses, allowing organizations ar
 There is enormous potential for mutual learning, but too few shared spaces. Digital rights frameworks help feminist organizations understand how power, money, and technological systems interact. Gender justice movements help the digital rights field understand lived harms, contexts, and the complexity of real experiences.
 
 Together, they can push for safer design, prevent harm, and build digital ecosystems that don’t merely react to violence, but actively create space for good to happen.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-23-a-las-12.22.42.png"}] } %}
+
+Check the [DIY Online Safety Guide (2025)](https://www.chayn.co/guides/diy-online-safety)
