@@ -6,7 +6,7 @@ published: true
 date: 2025-12-23T11:02:00.000+01:00
 date-updated: 2025-12-23T11:02:00.000+01:00
 article-order: 14
-uid: Cifrado, tecnología feminista y seguridad infantil
+uid: chayn-feminism-technology
 title: Chayn como espacio digital de reivindicación (y protección) feminista
 description: Chayn como espacio digital de reivindicación (y protección) feminista
 author: Cristian Palazzi

@@ -6,7 +6,7 @@ published: true
 date: 2025-12-23T11:02:00.000+01:00
 date-updated: 2025-12-23T11:02:00.000+01:00
 article-order: 14
-uid: Cifrado, tecnología feminista y seguridad infantil
+uid: chayn-feminism-technology
 interviewee: Hera Hussein
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
