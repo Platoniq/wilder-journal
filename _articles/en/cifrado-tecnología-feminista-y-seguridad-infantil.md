@@ -30,6 +30,8 @@ What struck me was how difficult it was for them to find support. They struggled
 
 I decided to create Chayn because I couldn’t find that information myself, and because I was convinced that in a digital age there should be online spaces where people can find help. Especially for those who don’t feel able to make a phone call or physically go somewhere. There needed to be a space where they could do this privately and on their own terms. That was the origin of Chayn.
 
+{% gallery { "simple": true, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp"}] } %}
+
 ### **In the INSPIRE project, we work on creating safe (or safer) digital spaces for democratic participation—understanding that “safety” is always a process, never a fixed condition. These are spaces that are inclusive, intersectional, and transparent, but also emotionally and psychologically safe. Based on your experience, which dimensions of digital participation spaces do you think are most often overlooked?**
 
 Approaching technology from a feminist perspective came very naturally to me. It wasn’t a conscious decision; it was simply how I understood the world. I grew up in a very empowering environment, and I grew up surrounded by technology. It never occurred to me that there were things I couldn’t do because I was a woman.
@@ -53,6 +55,8 @@ Hope runs through this entire process. Designing an AI tool with feminist princi
 The tool was launched recently and has already been used by more than a hundred people. Because privacy is one of our central principles, we don’t collect detailed usage data. We know how many people use the tool, and we rely on voluntary feedback. Periodically, we invite users to share their experiences, and over time we’ll gain a clearer picture of its impact.
 
 One of the first pieces of feedback we’ve received is that the platform helps survivors gather their story in one place, so they don’t have to repeat it over and over again. It also helps them understand how what they’ve experienced violates platform policies, thanks to clear and accessible summaries.
+
+{% gallery { "simple": false, "images": [{"path":"/media/1_whxfenj-pkgjknballeuhq.webp"}] } %}
 
 ### **Speaking of data collection, the debate around encryption and child safety is often framed as a trade-off between privacy and protection. Why do you find this framing problematic?**
 
@@ -84,6 +88,8 @@ Period-tracking apps are another example. Reproductive data is highly sensitive 
 
 These are some of the reasons why women and girls not only should use encrypted platforms, but already do.
 
+{% gallery { "simple": false, "images": [{"path":"/media/1_vuamnqzftj-kgistxc2yja.webp"}] } %}
+
 ### **Many survivors describe safety not only as “protection from harm,” but as the ability to speak, withdraw, or set the conditions of dialogue. How has Chayn transformed the way we design participatory or deliberative digital spaces, where power asymmetries and emotional exposure are inherent?**
 
 I see Chayn as an exercise in hope, solidarity, and feminist reckoning. Women have the right to rigorous, practical information about their rights, their mental health, and the issues that shape their lives—presented in non-patriarchal ways that genuinely help keep them safe.
@@ -111,6 +117,8 @@ But this is where the state oversteps its boundaries. The state should be a safe
 States are not always benevolent actors. There are systemic injustices, discrimination, and corruption. Power is asymmetrical. Governments already hold vast amounts of personal data, and we know that it is often mishandled.
 
 Expanding surveillance is a political decision, not an inevitable necessity. It often responds more to convenience than to real protection, and safeguards are rarely sufficient to justify it.
+
+{% gallery { "simple": false, "images": [{"path":"/media/1_17zt84sxshgsoypx2p0fhw.webp"}] } %}
 
 ### **You have long advocated for free software and transparency. How do you reconcile openness with privacy and protection?**
 
