@@ -39,6 +39,8 @@ Lo que me impactó fue lo difícil que les resultaba encontrar apoyo. Les costab
 
 Decidí crear Chayn porque no encontraba esa información en línea y porque estaba convencida de que, en una era digital, deberían existir espacios online donde las personas pudieran encontrar ayuda. Especialmente para quienes no se sienten capaces de llamar por teléfono o de acudir físicamente a un lugar. Tenía que haber un espacio donde pudieran hacerlo de forma privada y en sus propios términos. Ese fue el origen de Chayn.
 
+{% gallery { "simple": true, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp"}] } %}
+
 ### **En el proyecto INSPIRE, trabajamos en la creación de espacios digitales seguros (o más seguros) para la participación democrática (entendiendo que la «seguridad» es siempre un proceso, no una condición fija); espacios que sean inclusivos, interseccionales y transparentes, pero también seguros desde el punto de vista emocional y psicológico. Según tu experiencia, ¿cuáles diría que son las dimensiones más ignoradas en los espacios de participación digital?**
 
 Abordar la tecnología desde una perspectiva feminista me resultó algo muy natural. No fue una decisión consciente; simplemente era la forma en la que entendía el mundo. Crecí en un entorno muy empoderador y crecí rodeada de tecnología. Nunca se me pasó por la cabeza que hubiera cosas que no pudiera hacer por ser mujer.
@@ -46,8 +48,6 @@ Abordar la tecnología desde una perspectiva feminista me resultó algo muy natu
 Sin embargo, cuando empecé a trabajar profesionalmente en el sector tecnológico, la desigualdad de género se hizo imposible de ignorar. Era, y sigue siendo, un entorno profundamente masculinizado. La tecnología se diseña desde parámetros como la velocidad, el coste o lo “cool”, pero lo “cool” se define desde una mirada muy limitada: lo que resulta atractivo para los hombres, generalmente hombres blancos europeos o estadounidenses, incluso cuando se trata de productos pensados para un público global.
 
 Eso me llevó a hacerme una pregunta fundamental: ¿cómo sería la tecnología si personas distintas tuvieran voz en su diseño? En Chayn, producimos tecnología partiendo de esa pregunta. Nos gusta la tecnología, la construimos, la usamos y creemos firmemente que todo eso puede hacerse desde principios feministas.
-
-{% gallery { "simple": true, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp"}] } %}
 
 ### **Hablas a menudo de diseño informado por el trauma y de marcos basados en la esperanza. ¿Cómo influyen estos principios en la forma en que Chayn entiende la seguridad?**
 
@@ -65,6 +65,8 @@ La herramienta se ha lanzado recientemente y ya la han utilizado más de cien pe
 
 Uno de los primeros comentarios que hemos recibido es que la plataforma ayuda a las supervivientes a reunir su historia en un solo lugar, evitando tener que repetirla una y otra vez. También les ayuda a entender cómo lo que les ha ocurrido vulnera las políticas de las plataformas, gracias a resúmenes claros y accesibles.
 
+{% gallery { "simple": false, "images": [{"path":"/media/1_whxfenj-pkgjknballeuhq.webp"}] } %}
+
 ### **Hablando de la recopilación de datos, el debate sobre el cifrado y la seguridad infantil suele plantearse como una disyuntiva entre privacidad y protección. ¿Por qué consideras que este enfoque es problemático?**
 
 Porque las niñas y los niños también merecen privacidad. Tienen derechos digitales propios y, además, crecen y se convierten en personas adultas que seguirán necesitando privacidad.
@@ -76,8 +78,6 @@ No existe una contradicción real entre proteger a la infancia y preservar su in
 Una niña o un niño hoy puede convertirse mañana en una persona adolescente que empieza a manifestarse contra un gobierno. Cuando era menor, ese gobierno quizá no tenía ningún problema con protestas por la justicia climática. Pero el contexto político puede cambiar, y de repente los mensajes privados con amistades o grupos activistas pueden utilizarse en su contra.
 
 La infancia tiene derechos a la privacidad no solo como menores, sino también como futuras personas adultas. Por eso esta cuestión es tan importante.
-
-{% gallery { "simple": false, "images": [{"path":"/media/1_whxfenj-pkgjknballeuhq.webp"}] } %}
 
 ### **Entonces, ¿puede la seguridad en sí misma ser radical? ¿Puede el cifrado, tan a menudo descrito como secreto o aislamiento, convertirse en un instrumento de cuidado colectivo, incluso de democracia?**
 
@@ -97,6 +97,8 @@ Las aplicaciones de seguimiento del ciclo menstrual son otro ejemplo. Los datos 
 
 Estas son algunas de las razones por las que mujeres y niñas no solo deberían usar plataformas cifradas, sino que ya lo están haciendo.
 
+{% gallery { "simple": false, "images": [{"path":"/media/1_vuamnqzftj-kgistxc2yja.webp"}] } %}
+
 ### **Muchas supervivientes describen la seguridad no solo como «protección contra el daño», sino como la capacidad de hablar, retirarse o configurar las condiciones del diálogo. ¿Cómo ha transformado Chayn la forma en que diseñamos los espacios digitales participativos o deliberativos, donde las asimetrías de poder y la exposición emocional son inherentes?**
 
 Veo Chayn como un ejercicio de esperanza, solidaridad y ajuste de cuentas feminista. Las mujeres tienen derecho a información rigurosa y práctica sobre sus derechos, su salud mental y las cuestiones que afectan a sus vidas, presentada de formas que no sean patriarcales y que realmente ayuden a mantenerlas a salvo.
@@ -104,8 +106,6 @@ Veo Chayn como un ejercicio de esperanza, solidaridad y ajuste de cuentas femini
 Las mujeres deberían poder usar internet no solo para consumir contenido, sino para formarse, trabajar, expresarse, crear empresas, enamorarse, terminar relaciones, criar, opinar y existir públicamente sin sufrir acoso.
 
 Estas son libertades que los hombres suelen dar por sentadas. Las mujeres de todos los orígenes —independientemente de su raza, sexualidad, discapacidad, profesión o contexto— merecen espacios digitales libres de violencia donde esas libertades sean posibles.
-
-{% gallery { "simple": false, "images": [{"path":"/media/1_vuamnqzftj-kgistxc2yja.webp"}] } %}
 
 ### **En Platoniq entendemos que los Espacios (más) Seguros hacen hincapié en la responsabilidad institucional, garantizando que las organizaciones que acogen la participación digital se ocupen de las implicaciones emocionales y éticas del espacio, y no solo de su configuración técnica. Según tu experiencia, ¿cómo pueden las instituciones adoptar prácticas de gobernanza centradas en los supervivientes y que tengan en cuenta el trauma a la hora de moderar o facilitar el diálogo en línea?**
 
@@ -127,13 +127,13 @@ Los Estados no son siempre actores benevolentes. Existen injusticias sistémicas
 
 Ampliar la vigilancia es una decisión política, no una necesidad inevitable. A menudo responde más a la conveniencia que a la protección real, y las garantías rara vez son suficientes para justificarla.
 
+{% gallery { "simple": false, "images": [{"path":"/media/1_17zt84sxshgsoypx2p0fhw.webp"}] } %}
+
 ### **Has defendido durante mucho tiempo el software libre y la transparencia. ¿Cómo concilias la apertura con la privacidad y la protección?**
 
 No veo ninguna contradicción. La investigación financiada con fondos públicos debería ser de acceso público. El dinero público debería ser transparente.
 
 Al mismo tiempo, las conversaciones privadas, la vida familiar y los datos de salud pertenecen al ámbito privado. La apertura debe aplicarse al poder y a las instituciones, no a la intimidad de las personas.
-
-{% gallery { "simple": false, "images": [{"path":"/media/1_17zt84sxshgsoypx2p0fhw.webp"}] } %}
 
 ### **¿Cuáles son los retos de aplicar principios de código abierto en ámbitos sensibles como la violencia de género o la protección infantil?**
 
