@@ -147,6 +147,6 @@ Hay un enorme potencial de aprendizaje mutuo, pero pocos espacios compartidos. L
 
 Juntos, pueden impulsar diseños más seguros, prevenir daños y construir ecosistemas digitales que no solo reaccionen ante la violencia, sino que creen activamente espacio para que ocurra lo bueno.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-23-a-las-12.22.42.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-23-a-las-12.31.38.png"}] } %}
 
  Consulta la [Guía sobre Seguridad Digital (2025)](https://www.chayn.co/guides/diy-online-safety)
