@@ -65,6 +65,8 @@ From the neighborhood to European institutions. This session covers different le
 
 Narratives, campaigns and tools to generate social impact. A session dedicated to communication as a lever for political mobilization and transformation, from an ethical, creative and democratic perspective.
 
+{% gallery { "simple": true, "images": [{"path":"/media/cartel.png"}] } %}
+
 ## **Creative democracy: thinking, feeling and doing together**
 
 This micro-credential is not only an academic program. It is also a **laboratory of democratic practices,** grounded in the experience of Platoniq, IGOP-UAB and international networks of democratic innovation.

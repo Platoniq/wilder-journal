@@ -67,6 +67,8 @@ Desde el barrio hasta las instituciones europeas. Se explican los distintos nive
 
 Narrativas, campañas y herramientas para generar impacto social. Una sesión dedicada a la comunicación como palanca de movilización y transformación política, desde una perspectiva ética, creativa y democrática.
 
+{% gallery { "simple": true, "images": [{"path":"/media/cartel.png"}] } %}
+
 ## **Democracia creativa: pensar, sentir y hacer juntas**
 
 Esta microcredencial no es solo una formación académica. Es también **un laboratorio de prácticas democráticas**, nutrido por la experiencia de Platoniq, el IGOP-UAB y redes internacionales de innovación democrática.
