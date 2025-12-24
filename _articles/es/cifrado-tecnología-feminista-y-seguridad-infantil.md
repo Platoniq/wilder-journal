@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-12-23T11:02:00.000+01:00
 date-updated: 2025-12-23T11:02:00.000+01:00
-article-order: 14
+article-order: 12
 uid: chayn-feminism-technology
 title: '"Todas las mujeres merecemos un espacio digital donde podamos hacer uso
   de nuestras ibertades"'
