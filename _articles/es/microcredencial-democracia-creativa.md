@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-12-23T08:38:00.000+01:00
 date-updated: 2025-12-23T08:38:00.000+01:00
-article-order: 3
+article-order: 1
 uid: microcredencial-democracia-creativa
 title: Aprender democracia en tiempos de incertidumbre
 description: La democracia no es un sistema cerrado.
