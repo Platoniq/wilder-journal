@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-10-11T16:50:00.000Z
 date-updated: 2024-10-11T16:50:00.000Z
-article-order: 1
+article-order: 3
 uid: Escuela-Creatividad-Democracia
 title: "School of Creativity and Democracy: connecting affections, reimagining
   democracy"
@@ -13,6 +13,7 @@ description: School of Creativity and Democracy
 author: Platoniq
 author_uids:
   - platoniq
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
   mobile: /media/articles/mobile/captura-de-pantalla-2024-10-11-a-las-17.03.21.png
