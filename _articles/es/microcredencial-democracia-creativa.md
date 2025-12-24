@@ -31,7 +31,7 @@ image:
 
 Con esta premisa, **la Escuela de Creatividad y Democracia de Platoniq** y el **Instituto de Gobierno y Políticas Públicas (IGOP) de la Universitat Autònoma de Barcelona** se unen para lanzar la **primera Microcredencial Universitaria en Democracia Creativa**: un itinerario formativo que combina democracia participativa, tecnología cívica y metodologías creativas.
 
-{% file { "title": "Microcredencial universitaria (2ECTS) sobre democracia creativa", "info": "", "file": "https://openspaces.platoniq.net/assemblies/microcredencial-democracia-creativa/f/527/surveys/90", "image": "/media/captura-de-pantalla-2025-12-23-a-las-10.17.04.png", "button_text": "Preinscríbete aquí", "button_icon": "", "alt_color": true } %}
+{% file { "title": "Microcredencial universitaria en democracia creativa (2ECTS)", "info": "", "file": "https://openspaces.platoniq.net/assemblies/microcredencial-democracia-creativa/f/527/surveys/90", "image": "/media/captura-de-pantalla-2025-12-23-a-las-10.17.04.png", "button_text": "Preinscríbete aquí", "button_icon": "", "alt_color": true } %}
 
 ## **Aprender democracia en tiempos de incertidumbre**
 
@@ -73,5 +73,6 @@ Esta microcredencial no es solo una formación académica. Es también **un labo
 
 Está dirigida a activistas, profesionales del sector público y social, educadoras, investigadoras, comunicadoras y a cualquier persona interesada en **participar de forma crítica, informada y creativa en la vida democrática**.
 
-Porque la democracia no se hereda: se construye.
+Porque la democracia no se hereda: **se construye.**
+
 Y porque, frente al bloqueo y la resignación, **la creatividad sigue siendo una de nuestras herramientas políticas más poderosas**.
