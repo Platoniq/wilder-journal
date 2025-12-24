@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-12-02T20:08:00.000+01:00
 date-updated: 2025-12-02T20:08:00.000+01:00
-article-order: 14
+article-order: 12
 uid: nuestra-fallaras-mujeres
 title: 'Against the macho silence: "La Nuestra", the power of the voice of the women'
 description: 'Against the macho silence: "La Nuestra", the power of the voice of the women'
