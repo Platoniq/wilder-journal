@@ -39,6 +39,8 @@ The **University Micro-credential in Creative Democracy** offers a shared learni
 
 This learning pathway consists of **six online sessions**, designed for people who work in or are interested in citizen participation, democratic innovation, community action, culture, education, or communication with social impact.
 
+
+
 ## **A six-session learning pathway**
 
 ### 🎭 **A history of creative democracy**

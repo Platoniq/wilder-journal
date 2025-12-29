@@ -41,6 +41,8 @@ La **Microcredencial Universitaria en Democracia Creativa** propone un espacio d
 
 Se trata de un **itinerario de 6 sesiones online**, pensado para personas que trabajan o se interesan por la participación ciudadana, la innovación democrática, la acción comunitaria, la cultura, la educación o la comunicación con impacto social.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-29-a-las-10.53.14.png"}] } %}
+
 ## **Un itinerario formativo en 6 sesiones**
 
 ### 🎭 **Historia de la democracia creativa**
