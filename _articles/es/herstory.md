@@ -58,6 +58,8 @@ Estamos hablando de recuperar voces de personas que han desaparecido, pero tambi
 
 Dar a conocer lo que vivieron personas que podrían ser nuestras abuelas, nuestras vecinas, nuestras familias, tiene un sentido profundamente reparador. Y aquí aparece algo muy significativo: muchas de nosotras hemos crecido en contextos donde nuestras abuelas no quisieron o no pudieron explicar lo que habían vivido, precisamente por miedo. Por temor a hablar, a que hubiera represalias, a reabrir heridas en un entorno donde el silencio funcionaba como mecanismo de supervivencia.
 
+{% quote %}Lo que buscamos es generar herramientas que permitan recuperar esas historias, no desde el morbo ni desde la exposición, sino desde la posibilidad de comprender quiénes somos{% endquote %}
+
 Así que parte de lo que buscamos es generar herramientas que permitan recuperar esas historias, no desde el morbo ni desde la exposición, sino desde la posibilidad de comprender quiénes somos, qué memorias nos atraviesan y qué silencios han configurado también nuestras identidades colectivas.
 
 ### **Existe siempre el riesgo de que una voz que ya sufrió una forma de violencia en un momento histórico determinado pueda verse nuevamente expuesta o instrumentalizada en el presente. ¿Cómo estáis trabajando con estas voces para evitar que estos relatos sean cooptados o expuestos de forma que puedan volver a producir daño?** 
@@ -94,6 +96,8 @@ Nosotras intentamos mezclar ambos mundos: nos importa la preservación, pero tra
 
 Esto también revela una carencia estructural en nuestra disciplina: no tenemos formación crítica suficiente sobre las implicaciones éticas y políticas del archivo. No existe, en muchos planes de estudio, una asignatura que plantee explícitamente estas preguntas. Y sin embargo son fundamentales, porque lo que hacemos construye una cosmovisión: determina quién puede acceder a la información, qué historias se vuelven visibles, qué memorias quedan fuera.
 
+{% quote %}Lo que queremos introducir en nuestra disciplina, en el ámbito de la censura, la documentación y las ciencias de la información, es una idea fundamental: que la catalogación y la descripción de los objetos digitales, de un libro o de un archivo, no son nunca operaciones neutrales. {% endquote %}
+
 Técnicamente, lo que el proyecto persigue es la generación de conocimiento vinculado tanto a la inteligencia artificial como a la arquitectura de la información. Pero, sobre todo, lo que queremos introducir en nuestra disciplina, en el ámbito de la censura, la documentación y las ciencias de la información, es una idea fundamental: que la catalogación y la descripción de los objetos digitales, de un libro o de un archivo, no son nunca operaciones neutrales. Siempre parten de un posicionamiento político.
 
 No es lo mismo nombrar como “delito” lo que en realidad fue represión política. No era un delito: era violencia estructural ejercida desde el Estado. Y decirlo con todas las palabras forma parte también del trabajo de memoria. Al hacer este desplazamiento reconocemos algo esencial: que nuestra profesión no es neutral. Las ciencias de la información se han vinculado históricamente a técnicas supuestamente asépticas, pero en realidad cada decisión: cómo clasificas, qué etiquetas utilizas, qué categorías priorizas, qué silencios produces, está atravesada por la política. En Herstory queremos poner esto en evidencia y también generar consecuencias en la formación, en la docencia, en las prácticas futuras del campo.
@@ -126,7 +130,9 @@ Esta es una cuestión central. Por un lado, estamos analizando y buscando refere
 
 Nosotras todavía estamos en un proceso de definición de este marco. Hasta ahora, trabajábamos principalmente con bases de datos de investigación que, en principio, son públicas: han sido financiadas con dinero público y deberían ser accesibles como tales. Pero el proyecto está abriendo también otra dimensión, porque estamos haciendo una llamada a fondos de información que pueden ser incluso personales, relatos aportados voluntariamente, que después podrán conectarse semánticamente a nuestro grafo de conocimiento y formar parte de una herramienta que articule datos biográficos con otros registros históricos y documentales.
 
-Y ahí surgen dilemas complejos. ¿Qué ocurre, por ejemplo, con datos vinculados a personas represoras? Si mi padre fue censor, quizá no me hace ninguna ilusión que se sepa. Pero, al mismo tiempo, era un oficio público, remunerado con recursos del Estado. Entonces estamos en ese debate: qué pesa más, el derecho a conocer quiénes ejercieron esas funciones o el derecho de una familia a no quedar marcada por ello.
+{% quote %}¿Qué pesa más? el derecho a conocer quiénes ejercieron funciones represoras o el derecho de una familia a no quedar marcada por ello.{% endquote %}
+
+Y ahí surgen dilemas complejos. ¿Qué ocurre, por ejemplo, con datos vinculados a personas represoras? Si mi padre fue censor, quizá no me hace ninguna ilusión que se sepa. Pero, al mismo tiempo, era un oficio público, remunerado con recursos del Estado. Entonces estamos en ese debate: ¿qué pesa más? el derecho a conocer quiénes ejercieron funciones represoras o el derecho de una familia a no quedar marcada por ello.
 
 Nuestra posición tiende a pensar que cuanto más público, mejor, en el sentido de que el oficio de un padre no implica compartir su ideología ni sus decisiones, y además hablamos de hechos que ocurrieron hace décadas. Pero estamos diseñando un documento que rija la dimensión legal y ética de la protección de datos personales, intentando abrir al máximo sin reproducir daños.
 
@@ -158,7 +164,9 @@ También hay una dimensión vinculada a la capacidad de imaginación democrátic
 
 Y finalmente, la idea de la voz situada atraviesa todo el proyecto. La ciencia ciudadana no es un complemento, es un principio epistemológico: implica reconocer que el conocimiento no pertenece solo a la academia, sino que se produce también desde la experiencia, desde la memoria familiar, desde los cuerpos que vivieron la represión, desde las comunidades que heredaron esos silencios. Incorporar esas voces no es solo sumar testimonios, es transformar el marco mismo desde el que se organiza el conocimiento.
 
-Por eso creo que Herstory no es únicamente una herramienta tecnológica o un proyecto de humanidades digitales. Es también una propuesta sobre cómo se construye lo común, sobre qué memorias consideramos legítimas, sobre qué tipo de democracia es posible cuando el acceso a la información se vuelve un espacio de justicia, de cuidado y de agencia colectiva.
+{% quote %}Herstory no es únicamente una herramienta tecnológica o un proyecto de humanidades digitales. Es también una propuesta sobre cómo se construye lo común.{% endquote %}
+
+Herstory no es únicamente una herramienta tecnológica o un proyecto de humanidades digitales. Es también una propuesta sobre cómo se construye lo común, Por eso creo que Herstory no es únicamente una herramienta tecnológica o un proyecto de humanidades digitales. Es también una propuesta sobre cómo se construye lo común, sobre qué memorias consideramos legítimas, sobre qué tipo de democracia es posible cuando el acceso a la información se vuelve un espacio de justicia, de cuidado y de agencia colectiva.
 
 En ese sentido, quizá lo más importante es que el proyecto intenta demostrar que la inteligencia artificial, lejos de ser una tecnología neutra, puede convertirse en un dispositivo político y democrático si se diseña desde principios explícitos: transparencia, trazabilidad, participación y justicia epistémica. Esa es, al menos, la dirección en la que queremos caminar.
 
