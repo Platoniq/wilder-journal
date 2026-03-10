@@ -17,7 +17,7 @@ author_uids:
 interviewee: Núria Ferran Ferrer
 cover:
   path: /media/articles/heroes/whatsapp-image-2026-03-10-at-15.48.43.jpeg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/whatsapp-image-2026-03-10-at-15.48.43.jpeg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Núria Ferran Ferrer
   credits: Núria Ferran Ferrer

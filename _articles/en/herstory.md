@@ -10,8 +10,12 @@ uid: herstory-
 interviewee: Núria Ferran Ferrer
 cover:
   path: /media/articles/heroes/whatsapp-image-2026-03-10-at-15.48.43.jpeg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/whatsapp-image-2026-03-10-at-15.48.43.jpeg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - nuestra-fallaras-mujeres
+  - AI-dialogue
+  - colombia-comparte-tu-rollo
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
