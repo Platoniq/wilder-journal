@@ -108,6 +108,8 @@ Al no trabajar con una inteligencia artificial generativa, el foco de las respue
 
 Para nosotras es imprescindible que cada palabra, cada afirmación que aparece en una narrativa esté vinculada a su fuente de origen. No habrá nunca un dato dentro del sistema que no remita explícitamente a una referencia. Esa es una diferencia crucial con muchas herramientas actuales de IA, que operan como cajas negras. 
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-10-a-las-16.05.00.png","alt":"fan","caption":"fan","credits":"fan"}] } %}
+
 ### **La IA puede amplificar sesgos o reforzar violencias invisibles. ¿Existe alguna reflexión crítica sobre los riesgos de delegar decisiones curatoriales, interpretativas o de selección en este tipo de herramientas automatizadas? ¿Hay límites que HerStory contempla de antemano o no está dispuesta a cruzar en ese sentido?**
 
 Absolutamente. Estamos trabajando sobre la represión franquista, es decir, sobre un régimen profundamente patriarcal y autoritario. Pero precisamente por eso, las relaciones semánticas y los principios que rigen nuestras estructuras de conocimiento están definidos desde los objetivos del proyecto: reducir sesgos de género y evitar las alucinaciones o asociaciones automáticas que reproducen estereotipos. Por ejemplo, correspondencias simplistas tipo “médico/hombre” y “enfermera/mujer”.
