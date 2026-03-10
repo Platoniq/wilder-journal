@@ -6,7 +6,7 @@ published: true
 date: 2026-03-10T15:50:00.000+01:00
 date-updated: 2026-03-10T15:50:00.000+01:00
 article-order: 14
-uid: herstory-
+uid: herstory-archive
 title: "HerStory: una memoria feminista al servicio de las voces olvidadas"
 description: " Esta conversación con Núria Ferran Ferrer se sitúa en ese umbral:
   el lugar donde la memoria deja de ser un depósito del pasado y se convierte en
