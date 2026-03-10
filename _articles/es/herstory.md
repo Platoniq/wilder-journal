@@ -190,6 +190,8 @@ Porque al final, lo que está en juego es quién tiene derecho a narrar la histo
 
 Son preguntas que todavía no podemos responder del todo. Son dinámicas que hay que observar, porque no siempre ocurre lo mismo: a veces la institucionalización aporta continuidad y recursos, pero otras veces puede diluir la participación comunitaria. Estamos abriendo camino, y veremos hacia dónde nos llevan las cosas.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-10-a-las-16.07.24.png","alt":"fanzine entero","caption":"fanzine entero","credits":"fanzine entero"}] } %}
+
 ### **Y, para terminar, hay una cuestión que atraviesa todo esto: la dignidad de los testimonios. ¿Cómo proteger esa dignidad democrática frente a discursos que puedan instrumentalizar o atacar el proyecto?**
 
 La dignidad de los testimonios se protege desde la seriedad del trabajo, desde el rigor, desde la conciencia de que estamos construyendo memoria sobre “hombros de gigantes”. Y, sin embargo, muchas “gigantas” no estaban. No estaban porque murieron, porque fueron silenciadas, porque el miedo las borró.
