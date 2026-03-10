@@ -72,6 +72,8 @@ Lo que intenta hacer Herstory es precisamente facilitar el acceso a estas fuente
 
 En paralelo, estamos colaborando con colectivos como *Rosa Sensat* para generar unidades didácticas y materiales educativos, y con *Viquidones* para producir artículos enciclopédicos sobre maestras y comadronas represaliadas. Los resultados del proyecto tienen que responder a necesidades actuales: la educación es una de ellas, pero también lo es disponer de una base de datos que permita preguntar por cuestiones distintas.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-10-a-las-16.04.47.png","alt":"boletin","caption":"boletin","credits":"boletin"}] } %}
+
 ### **Y al mismo tiempo, las mujeres disidentes han reivindicado también el derecho a no ser categorizadas. ¿Tiene cabida el silencio, el anonimato o la retirada como formas válidas de participación en torno a HerStory? ¿Qué protocolos o medidas de cuidado en torno a los datos necesitan esas decisiones?**
 
 Pues ahí habría que ver, precisamente, cómo describimos a una persona sin forzarla dentro de categorías cerradas. En términos de identidad de género, por ejemplo, nosotras no trabajamos con binarios. Y en otras dimensiones, como la orientación política o las formas de autodefinición, la propia persona puede elegir cómo quiere ser nombrada. En Wikidata, en ese sentido, nada está completamente cerrado: las ontologías son ampliables, se pueden añadir matices, nuevas propiedades, nuevas formas de representación.
