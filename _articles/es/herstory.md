@@ -142,6 +142,8 @@ Y lo que vamos descubriendo es brutal: por ser mujer ya eras represaliada; por s
 
 Por eso el foco del proyecto está en el feminismo y en las voces disidentes: porque fueron quienes estuvieron más oprimidas y también quienes más tarde han conseguido que sus historias salgan a la luz. Recuperarlas es una forma de justicia epistémica y política.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-10-a-las-16.05.16.png","alt":"contra","caption":"contra","credits":"contra"}] } %}
+
 ### **En Platoniq estamos trabajando para definir las capacidades democráticas necesarias para una buena deliberación: agencia narrativa, justicia temporal, seguridad relacional, capacidad de imaginación, voz situada. ¿De qué manera crees que Herstory podría contribuir a cultivar alguna de esas capacidades democráticas?**
 
 Sí, claro. Yo creo que Herstory puede contribuir de manera muy directa a cultivar varias de esas capacidades democráticas que mencionas, precisamente porque trabaja en un cruce muy particular entre memoria, tecnología y participación.
