@@ -85,6 +85,8 @@ This means that neither the youngest participants nor the forum as a whole was a
 
 A small vignette illustrates this. One participant arrived wearing a suit and was accompanied by a school adviser. The attire signalled that the event was unusual and important for him, and the presence of the adviser signalled that it mattered for the school as well. This illustrates that participants did not arrive randomly but were often already embedded in civic structures.
 
+{% quote %}Recruitment inevitably introduces self-selection bias. This is a common feature of mini-publics, including those using sortition. {% endquote %}
+
 Recruitment inevitably introduces self-selection bias. This is a common feature of mini-publics, including those using sortition. With a five to ten per cent acceptance rate, deliberative democracy research should probably devote more attention to this issue.
 
 Another lesson concerns how we think about youth cohorts. Our forum included participants aged 15 to 26. On paper, this looks like a single generation, but in lived experience, these are very different life worlds. High school students, university students, and young adults entering the labour market face very different responsibilities and experiences. Age differences in this cohort matter much more than in older groups. In future forums, we will likely separate cohorts and also try harder to involve vocational training students. 
@@ -105,6 +107,8 @@ This is why I think we need to experiment more with multiple synchronous and asy
 
 We also observed something interesting in the earlier experiments we conducted. Participants sometimes expressed stronger or more controversial opinions in written form than in open discussion. In any group setting, there is a social filter. People moderate what they say in front of others. When responding anonymously, they sometimes articulate positions that they would not express aloud – more radical. 
 
+{% quote %}the challenge for deliberative design is to recognise that equal voice cannot be achieved alone through allocating speaking time equally.{% endquote %}
+
 So the challenge for deliberative design is to recognise that equal voice cannot be achieved alone through allocating speaking time equally. It requires creating multiple channels for participants to contribute to the discussion and influence the collective outcome. Digital tools can allow participants to express views anonymously or register preferences without speaking aloud. 
 
 Deliberative mini-publics, therefore, reveal something fundamental about democracy more broadly: formal equality of voice does not automatically translate into equal influence. In that sense, deliberative spaces often make visible the same inequalities of confidence, articulation, and experience that structure political participation more generally.
@@ -113,13 +117,15 @@ Deliberative mini-publics, therefore, reveal something fundamental about democra
 
 ## Informal hierarchies and facilitation
 
-### Facilitators observed informal dominance patterns during deliberation. Some participants were more articulate or politically experienced and tended to shape the discussion. What role does active facilitation play in guaranteeing equal voice?  
+### Facilitators observed informal dominance patterns during deliberation. Some participants were more articulate or politically experienced and tended to shape the discussion. What role does active facilitation play in guaranteeing equal voice?
 
 Facilitation can limit domination, but it cannot eliminate inequalities in communication styles. Some participants are simply more extroverted or more confident speakers. That does not mean their views should carry more weight, but it does mean they will often try to speak more.
 
 What we asked from facilitators was to create equal opportunity for voice. Their role was to prevent a single participant from dominating the discussion and to actively invite quieter participants into the conversation. But facilitation has limits. Even when you invite someone to speak, you cannot control how comfortable they feel using their voice. Sometimes participants with less confidence will simply repeat, almost verbatim, an argument articulated earlier by someone they perceive as dominant or particularly knowledgeable.
 
 This is another aspect of deliberation we still need to understand better. One direction I would like to explore is expanding the number of participation channels. Not everything needs to happen through speaking in front of the group. Digital tools can enable participants to register their positions anonymously or respond via mobile devices. Some participants may feel more comfortable expressing their views in this way rather than speaking in front of ten strangers.
+
+{% quote %} If students learn facilitation skills early, we can build a cohort of facilitators closer in age to the participants and less shaped by other types of facilitation. {% endquote %}
 
 I am also curious whether AI-supported tools could help participants access information more easily during deliberation or structure their arguments more clearly. The goal would not be to replace discussion but to support participants who might otherwise feel less confident in articulating their views.
 
@@ -176,6 +182,8 @@ I often describe the goal as democratic inoculation. In the same way that vaccin
 One thing we know from research is that the appeal of authoritarian solutions tends to increase in periods of uncertainty. When people feel insecure or when the future becomes unpredictable, there is often a temptation to look for strong leaders who promise order and certainty. In that sense, authoritarian appeal is frequently linked to uncertainty.
 
 At the same time, research suggests that authoritarian preferences exist in varying degrees across societies and can become more visible under particular conditions. They interact with ideology, political culture, and media environments.
+
+{% quote %}Algorithms favour engagement, and people tend to engage most with content that provokes strong reactions or clashes with their views. {% endquote %}
 
 Today these dynamics are amplified by digital ecosystems. Algorithms favour engagement, and people tend to engage most with content that provokes strong reactions or clashes with their views. This dynamic can contribute to polarization and to the visibility of more extreme narratives. I am very concerned that in the absence of effective regulation, young people in particular are exposed to increasingly radicalizing content.
 

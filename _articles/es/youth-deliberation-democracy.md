@@ -83,6 +83,8 @@ Esto significa que ni los participantes más jóvenes ni el foro en su conjunto 
 
 Una pequeña anécdota ilustra esto. Uno de los participantes llegó vestido con traje y acompañado por un asesor escolar. La vestimenta indicaba que el evento era inusual e importante para él, y la presencia del asesor indicaba que también era importante para la escuela. Esto ilustra que los participantes no llegaron al azar, sino que a menudo ya estaban integrados en estructuras cívicas.
 
+{% quote %}La selección de participantes introduce inevitablemente un sesgo de autoselección. Esta es una característica común de los minipúblicos, incluidos los que utilizan el sorteo.{% endquote %}
+
 La selección de participantes introduce inevitablemente un sesgo de autoselección. Esta es una característica común de los minipúblicos, incluidos los que utilizan el sorteo. Con una tasa de aceptación del cinco al diez por ciento, la investigación sobre la democracia deliberativa probablemente debería prestar más atención a esta cuestión.
 
 Otra lección se refiere a cómo pensamos sobre las cohortes de jóvenes. Nuestro foro incluyó a participantes de entre 15 y 26 años. Sobre el papel, parece una sola generación, pero en la experiencia vivida, se trata de mundos vitales muy diferentes. Los estudiantes de secundaria, los universitarios y los jóvenes adultos que se incorporan al mercado laboral se enfrentan a responsabilidades y experiencias muy diferentes. Las diferencias de edad en esta cohorte son mucho más importantes que en los grupos de más edad. En futuros foros, probablemente separaremos las cohortes y también nos esforzaremos más por involucrar a los estudiantes de formación profesional.
@@ -100,9 +102,15 @@ Existen diferencias de género; en la República Checa, en muchas familias todav
 Lo que se hace visible es la diferencia entre tener voz y sentirse capaz de usarla. La facilitación puede ayudar a evitar el dominio y a invitar a los participantes más callados a participar en la conversación, pero los facilitadores no pueden controlar totalmente la confianza que sienten las personas al expresar sus opiniones o su elocuencia.
 
 Por eso creo que debemos experimentar más con múltiples canales y modos de comunicación sincrónicos y asincrónicos. No todo tiene que ser verbal. Algunos participantes pueden sentirse más cómodos expresando sus posiciones a través de aportaciones escritas, herramientas digitales u otras formas de interacción que no requieren hablar delante de un grupo.
+
 También observamos algo interesante en los experimentos anteriores que realizamos. Los participantes a veces expresaban opiniones más fuertes o controvertidas por escrito que en el debate abierto. En cualquier entorno grupal, existe un filtro social. Las personas moderan lo que dicen delante de los demás. Cuando responden de forma anónima, a veces articulan posiciones que no expresarían en voz alta, más radicales.
+
+{% quote %}El reto del diseño deliberativo es reconocer que la igualdad de voz no se puede lograr solo asignando el tiempo de intervención de forma equitativa.{% endquote %}
+
 Por lo tanto, el reto del diseño deliberativo es reconocer que la igualdad de voz no se puede lograr solo asignando el tiempo de intervención de forma equitativa. Es necesario crear múltiples canales para que los participantes contribuyan al debate e influyan en el resultado colectivo. Las herramientas digitales pueden permitir a los participantes expresar sus opiniones de forma anónima o registrar sus preferencias sin hablar en voz alta.
+
 Por lo tanto, los minipúblicos deliberativos revelan algo fundamental sobre la democracia en general: la igualdad formal de voz no se traduce automáticamente en igualdad de influencia. En ese sentido, los espacios deliberativos a menudo hacen visibles las mismas desigualdades de confianza, articulación y experiencia que estructuran la participación política en general.
+
 *Los experimentos que combinan herramientas de participación digital con la deliberación, como los que utilizan plataformas basadas en Decidim, han demostrado que los formatos híbridos a veces permiten a los participantes más callados contribuir más activamente.*
 
 ## Jerarquías informales y facilitación
@@ -114,15 +122,17 @@ Lo que pedimos a los facilitadores fue que crearan igualdad de oportunidades par
 
 Este es otro aspecto de la deliberación que aún debemos comprender mejor. Una dirección que me gustaría explorar es ampliar el número de canales de participación. No todo tiene que suceder hablando delante del grupo. Las herramientas digitales pueden permitir a los participantes registrar sus posiciones de forma anónima o responder a través de dispositivos móviles. Algunos participantes pueden sentirse más cómodos expresando sus opiniones de esta manera que hablando delante de diez desconocidos.
 
+{% quote %}Si los estudiantes aprenden habilidades de facilitación desde el principio, podemos crear un grupo de facilitadores más cercanos en edad a los participantes y menos influenciados por otros tipos de facilitación.{% endquote %}
+
 También tengo curiosidad por saber si las herramientas basadas en la inteligencia artificial podrían ayudar a los participantes a acceder más fácilmente a la información durante la deliberación o a estructurar sus argumentos con mayor claridad. El objetivo no sería sustituir el debate, sino apoyar a los participantes que, de otro modo, podrían sentirse menos seguros a la hora de expresar sus opiniones.
 
 Otra lección se refiere a los propios facilitadores. Muchos facilitadores profesionales están acostumbrados a procesos con un resultado deseado, por ejemplo, resolver conflictos locales o negociar compromisos. En nuestro caso, queríamos algo diferente: un procedimiento democrático con un proceso claro pero con resultados inciertos. Eso requiere una disciplina considerable por parte de los facilitadores, porque las personas inevitablemente aportan sus propias perspectivas.
-Una idea a largo plazo para los foros juveniles es formar a los facilitadores internamente en lugar de depender por completo de proveedores comerciales. Si los estudiantes aprenden habilidades de facilitación desde el principio, podemos crear un grupo de facilitadores más cercanos en edad a los participantes y menos influenciados por otros tipos de facilitación.
 
+Una idea a largo plazo para los foros juveniles es formar a los facilitadores internamente en lugar de depender por completo de proveedores comerciales. Si los estudiantes aprenden habilidades de facilitación desde el principio, podemos crear un grupo de facilitadores más cercanos en edad a los participantes y menos influenciados por otros tipos de facilitación.
 
 *Esto se hace eco de los debates dentro del proyecto INSPIRE sobre la «micro-política de la facilitación», en la que los facilitadores deben encontrar el equilibrio entre guiar el proceso sin influir en los resultados.*
 
-###  ¿Qué papel desempeña la igualdad de información en la deliberación?
+### ¿Qué papel desempeña la igualdad de información en la deliberación?
 
 No podemos igualar completamente la información, pero podemos intentar establecer un nivel mínimo de conocimiento compartido para que los participantes comiencen el proceso desde un punto de partida comparable. El objetivo no es eliminar completamente las diferencias, lo cual sería imposible, sino garantizar que los debates no estén dominados por aquellos que ya poseen más información sobre cómo funcionan los procesos democráticos.
 
@@ -168,6 +178,8 @@ A menudo describo el objetivo como inoculación democrática. Del mismo modo que
 Una cosa que sabemos por las investigaciones es que el atractivo de las soluciones autoritarias tiende a aumentar en períodos de incertidumbre. Cuando las personas se sienten inseguras o cuando el futuro se vuelve impredecible, a menudo existe la tentación de buscar líderes fuertes que prometan orden y certeza. En ese sentido, el atractivo autoritario suele estar vinculado a la incertidumbre.
 
 Al mismo tiempo, las investigaciones sugieren que las preferencias autoritarias existen en diversos grados en todas las sociedades y pueden hacerse más visibles en condiciones particulares. Interactúan con la ideología, la cultura política y los entornos mediáticos.
+
+{% quote %} Los algoritmos favorecen la participación, y las personas tienden a participar más con contenidos que provocan reacciones fuertes o chocan con sus opiniones.{% endquote %}
 
 Hoy en día, estas dinámicas se ven amplificadas por los ecosistemas digitales. Los algoritmos favorecen la participación, y las personas tienden a participar más con contenidos que provocan reacciones fuertes o chocan con sus opiniones. Esta dinámica puede contribuir a la polarización y a la visibilidad de narrativas más extremas. Me preocupa mucho que, en ausencia de una regulación eficaz, los jóvenes en particular estén expuestos a contenidos cada vez más radicalizados.
 
