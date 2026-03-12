@@ -20,7 +20,7 @@ interviewee: Petra Guasti
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-12-a-las-13.37.50.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-03-12-a-las-13.37.50.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-03-12-a-las-13.37.50.png
   alt: Petra Guasti
   credits: Petra Guasti
   caption: Petra Guasti
