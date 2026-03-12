@@ -21,8 +21,10 @@ author_uids:
 interviewee: Petra Guasti
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-12-a-las-13.37.50.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-03-12-a-las-13.37.50.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - herstory-archive
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
