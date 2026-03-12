@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-03-12-a-las-13.37.50.png
 ---
 **Petra Guasti** es profesora asociada de Teoría Democrática en la **Universidad Carolina** de Praga e investigadora del **Instituto de Sociología de la Academia Checa de Ciencias.** Su investigación se centra en la resiliencia democrática, el populismo y la participación ciudadana, con especial atención al retroceso democrático en Europa Central y Oriental.
 

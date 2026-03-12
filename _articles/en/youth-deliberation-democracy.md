@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-03-12-a-las-13.37.50.png
 ---
 **Petra Guasti** is Associate Professor of Democratic Theory at **Charles University** in Prague and a researcher at the **Institute of Sociology of the Czech Academy of Sciences.** Her research focuses on democratic resilience, populism, and citizen participation, with particular attention to democratic backsliding in Central and Eastern Europe.
 
