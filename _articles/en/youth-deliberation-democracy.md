@@ -7,7 +7,7 @@ date: 2026-03-12T13:29:00.000+01:00
 date-updated: 2026-03-12T13:29:00.000+01:00
 article-order: 14
 uid: youth-deliberation-democracy
-title: Can Youth Deliberation Inoculate Democracy? yYouth deliberation,
+title: Can Youth Deliberation Inoculate Democracy? Youth deliberation,
   democratic learning, and the fragility of equal voice
 description: Petra Guasti is Associate Professor of Democratic Theory at Charles
   University in Prague and a researcher at the Institute of Sociology of the
