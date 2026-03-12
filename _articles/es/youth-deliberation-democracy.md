@@ -57,6 +57,8 @@ Curiosamente, la educación cívica en sí misma apareció como un tema. Algunos
 
 Sí, creo que pueden ser muy útiles, especialmente al comienzo de un proceso deliberativo. Muchos foros se basan en gran medida en el argumento verbal. Esto privilegia inmediatamente a los participantes que ya se sienten cómodos hablando en público o que tienen experiencia en el debate político.
 
+{% quote %}Los métodos basados en las artes crean canales adicionales de participación. {% endquote %}
+
 Los métodos basados en las artes crean canales adicionales de participación. El dibujo, el mapeo visual o la narración de historias pueden ayudar a los participantes a expresar experiencias que quizá aún no sean capaces de traducir al lenguaje político.
 Esto es especialmente importante en el caso de los jóvenes. A menudo tienen experiencias muy concretas, pero carecen del vocabulario necesario para expresarlas políticamente. Los métodos artísticos permiten que estas experiencias salgan a la luz antes de que el debate se estructure.
 

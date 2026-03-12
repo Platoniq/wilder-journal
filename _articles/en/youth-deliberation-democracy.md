@@ -56,6 +56,8 @@ Interestingly, civic education itself appeared as a topic. Some participants arg
 
 Yes, I think they can be very helpful, particularly at the beginning of a deliberative process. Many fora rely heavily on verbal argument. That immediately privileges participants who are already comfortable speaking in public or who have experience with political debate.
 
+{% quote %}Arts-based methods create additional channels of participation. {% endquote %}
+
 Arts-based methods create additional channels of participation. Drawing, visual mapping, or storytelling can help participants express experiences that they might not yet be able to translate into policy language.
 
 With young people, this is particularly important. They often have very concrete experiences but lack the vocabulary to express them politically. Artistic methods allow these experiences to surface before the discussion becomes structured.
