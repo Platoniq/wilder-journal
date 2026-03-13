@@ -13,6 +13,7 @@ description: Participatory Democracy,Capitalism and Co-optation. A Dialogue
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+  - adrian-bua
 interviewee: Olivier Schulbaum & Adrian Bua
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
