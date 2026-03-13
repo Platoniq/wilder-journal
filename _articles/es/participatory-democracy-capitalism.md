@@ -7,10 +7,8 @@ date: 2026-03-13T08:32:00.000+01:00
 date-updated: 2026-03-13T08:32:00.000+01:00
 article-order: 14
 uid: "Participatory-Democracy-Capitalism "
-title: Democracia participativa, capitalismo y cooptación. Un diálogo entre
-  Adrian Bua y Oliver Schulbaum
-description: Democracia participativa, capitalismo y cooptación. Un diálogo
-  entre Adrian Bua y Oliver Schulbaum
+title: "Un diálogo sobre democracia participativa, capitalismo y cooptación "
+description: "Un diálogo sobre democracia participativa, capitalismo y cooptación "
 author: Olivier Schulbaum & Adrian Bua
 author_uids:
   - olivier-schulbaum
