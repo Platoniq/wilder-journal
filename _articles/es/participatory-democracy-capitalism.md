@@ -14,7 +14,7 @@ description: Democracia participativa, capitalismo y cooptación. Un diálogo
 author: Olivier Schulbaum & Adrian Bua
 author_uids:
   - olivier-schulbaum
-  - platoniq
+  - adrian-bua
 interviewee: Olivier Shulbaum & Adrian Bua
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
