@@ -38,6 +38,8 @@ In November 2025, the Liberec Scientific Library hosted the deliberative youth f
 
 The process also included questionnaires administered before and after the forum to observe how attitudes toward politics, democracy, and participation might change through deliberation. The results complicate simplified narratives about youth radicalization and democratic decline. While participants were often willing to revise policy positions during the process, their basic democratic commitments remained surprisingly stable. At the same time, the experiment revealed how fragile an equal voice can be inside deliberative spaces and how much careful design is required to support meaningful participation.
 
+{% gallery { "simple": false, "images": [{"path":"/media/attachment-2.jpeg","alt":"First Youth Forum entitled “A Region for the Young”","caption":"First Youth Forum entitled “A Region for the Young”","credits":"AUTHLIB'S 2025"}] } %}
+
 ## Agenda-setting and what young people actually discussed
 
 ### Can you basically contextualize what the topics of the youth forum were?

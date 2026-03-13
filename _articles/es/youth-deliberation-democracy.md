@@ -39,6 +39,8 @@ En noviembre de 2025, la Biblioteca Científica de Liberec acogió el foro delib
 
 El proceso también incluyó cuestionarios administrados antes y después del foro para observar cómo podían cambiar las actitudes hacia la política, la democracia y la participación a través de la deliberación. Los resultados complican las narrativas simplificadas sobre la radicalización de los jóvenes y el declive democrático. Aunque los participantes a menudo estaban dispuestos a revisar sus posiciones políticas durante el proceso, sus compromisos democráticos básicos se mantuvieron sorprendentemente estables. Al mismo tiempo, el experimento reveló lo frágil que puede ser la igualdad de voz dentro de los espacios deliberativos y lo cuidadoso que debe ser el diseño para apoyar una participación significativa.
 
+{% gallery { "simple": false, "images": [{"path":"/media/attachment-2.jpeg","alt":"First Youth Forum entitled “A Region for the Young”","caption":"First Youth Forum entitled “A Region for the Young”","credits":"AUTHLIB'S 2025"}] } %}
+
 ## Establecimiento de la agenda y lo que realmente discutieron los jóvenes
 
 ### ¿Puede contextualizar básicamente cuáles fueron los temas del foro juvenil?
