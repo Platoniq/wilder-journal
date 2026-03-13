@@ -77,7 +77,7 @@ Por lo tanto, el Marco de Capacidades Democráticas está orientado a la justici
 
 ### OS:  Desde una perspectiva bourdieusiana, ¿cómo ves la interacción de las capacidades democráticas con las formas de capital existentes, concretamente en el ámbito de la participación?
 
-AB: Esa es una muy buena pregunta. En cierto modo, se podría decir que las capacidades democráticas son las formas particulares de capital necesarias en el ámbito de la participación.
+AB:  Esa es una muy buena pregunta. En cierto modo, se podría decir que las capacidades democráticas son las formas particulares de capital necesarias en el ámbito de la participación.
 
 Más allá de las formas genéricas de capital (económico, cultural y social), cada ámbito tiene su propia forma simbólica de capital específica. Ese capital simbólico está constituido por las predisposiciones, los atributos y las habilidades necesarias para operar eficazmente en ese universo social.
 Estas formas específicas de cada ámbito se combinan con las formas genéricas de capital para dar a las personas poder, estatus, credibilidad, etc.
@@ -132,7 +132,7 @@ A medida que las prácticas participativas se acercan al campo del poder, esos c
 
 ### OS:  Sostienes que, a medida que las prácticas participativas se acercan al campo del poder, las presiones cooptativas se intensifican. ¿Cómo pueden las capacidades democráticas evitar volverse heterónomas, lo que, según usted, en las sociedades capitalistas significa que están determinadas principalmente por el polo económico del ámbito del poder?
 
-AB: La cuestión no es tanto proteger las capacidades de la heteronomía como reconocer que la ampliación cambia la dinámica. Cuando las iniciativas participativas se acercan a los centros de toma de decisiones, nuevos actores entran en escena con intereses diferentes. Es entonces cuando se intensifican las presiones cooptativas.
+AB:  La cuestión no es tanto proteger las capacidades de la heteronomía como reconocer que la ampliación cambia la dinámica. Cuando las iniciativas participativas se acercan a los centros de toma de decisiones, nuevos actores entran en escena con intereses diferentes. Es entonces cuando se intensifican las presiones cooptativas.
 
 Pero la ampliación también introduce nuevas prácticas en el campo del poder. El cambio suele producirse a través de una inserción gradual, más que de una ruptura. Las prácticas participativas pueden influir en los actores poderosos, incluso si, o quizás precisamente porque, son absorbidas. Por lo tanto, sostengo que se producen algunos cambios a través de la cooptación, por muy limitada que sea. La cuestión es si la agencia se expande más rápido de lo que la heteronomía la cierra.
 
@@ -156,16 +156,16 @@ Que se conviertan en dispositivos de cambio de régimen o en mecanismos estabili
 
 La participación híbrida, que mezcla espacios en línea y presenciales, se presenta a menudo como la solución: más inclusiva, más eficiente.
 
-### OS: ¿La hibridación amplía la autonomía en el ámbito de la participación o profundiza la penetración del ámbito del poder en los espacios democráticos locales?
+### OS:  ¿La hibridación amplía la autonomía en el ámbito de la participación o profundiza la penetración del ámbito del poder en los espacios democráticos locales?
 
-AB: La hibridación puede ampliar el acceso y la flexibilidad. Pero también puede ampliar la supervisión administrativa. Los componentes en línea pueden introducir nuevas métricas, nuevas formas de supervisión y nuevas expectativas de eficiencia.
+AB:  La hibridación puede ampliar el acceso y la flexibilidad. Pero también puede ampliar la supervisión administrativa. Los componentes en línea pueden introducir nuevas métricas, nuevas formas de supervisión y nuevas expectativas de eficiencia.
 
 Por lo tanto, la hibridación no es intrínsecamente emancipadora. Puede ampliar el capital participativo o reforzar las lógicas heterónomas.
 La conversación pasa entonces al tiempo, no como programación, sino como estructura.
 
 ### OS:  En tu análisis bourdieusiano, ¿cómo debemos entender el tiempo dentro de este campo? ¿Es el tiempo en sí mismo una forma de capital distribuido de manera desigual entre los agentes?
 
-AB: Sí. El tiempo está profundamente distribuido de manera desigual, y su calidad difiere según las formas de capital que se posean.
+AB:  Sí. El tiempo está profundamente distribuido de manera desigual, y su calidad difiere según las formas de capital que se posean.
 
 Bourdieu habla de la disposición escolástica: una parte importante de esta es el privilegio de tener tiempo para dar un paso atrás y analizar el mundo, como si estuviera hecho para que el erudito lo observara. Esa distancia de la necesidad permite ese tipo de reflexión. Otros están inmersos en una necesidad más inmediata y carecen de ese privilegio.
 
@@ -180,9 +180,9 @@ A veces, el producto se vuelve más importante que la actividad democrática. Es
 
 La participación puede empoderar. Pero también puede apropiarse como un recurso. La desigualdad temporal también determina quién puede seguir comprometido a lo largo del tiempo.
 
-### OS: Los procesos deliberativos se desarrollan de forma secuencial (reuniones, seguimientos, consultas). ¿Cómo influyen la precariedad económica y las condiciones del mercado laboral en quién puede mantener un compromiso a largo plazo?
+### OS:  Los procesos deliberativos se desarrollan de forma secuencial (reuniones, seguimientos, consultas). ¿Cómo influyen la precariedad económica y las condiciones del mercado laboral en quién puede mantener un compromiso a largo plazo?
 
-AB: La precariedad económica dificulta el compromiso sostenido. Los mercados laborales capitalistas favorecen a quienes tienen ingresos estables y horarios flexibles.
+AB:  La precariedad económica dificulta el compromiso sostenido. Los mercados laborales capitalistas favorecen a quienes tienen ingresos estables y horarios flexibles.
 
 Quienes cuentan con dotaciones de capital seguras están estructuralmente en mejor posición para mantener un compromiso a largo plazo. Así, el capitalismo influye indirectamente en la composición de los campos participativos.
 El tiempo no es neutral. Está estructurado por las condiciones económicas.
