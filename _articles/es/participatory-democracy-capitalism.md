@@ -118,6 +118,8 @@ AB: Estoy muy a favor de los movimientos sociales y la política conflictiva. Co
 
 Pero cuestionaría la idealización de la política conflictiva. Por un lado, la política conflictiva puede ser reaccionaria. Pero, además, los activistas progresistas, a falta de una palabra mejor, no están fuera del ámbito del capital. En términos bourdieusianos, los activistas forman parte de la élite. El activismo requiere capacidad organizativa, capital cultural y capital social. Los grupos dominados tienen menos acceso a esos recursos. Así que, aunque la política conflictiva es esencial, también reproduce ciertas asimetrías.
 
+{% quote { "author": "Adrian Bua" } %}Al disponer de mayores reservas de capital, los dominados-dominantes se convierten en líderes y portavoces, y pueden reinterpretar las demandas que provienen de abajo para servir a los fines que persiguen en otros campos sociales{% endquote %}
+
 Uno de los valores de la innovación democrática, especialmente cuando se aborda desde una perspectiva interseccional, es que puede dar voz a personas que podrían no estar representadas ni siquiera en los espacios activistas.
 Bourdieu habla de alianzas entre los generalmente dominados y la fracción dominada de la clase dominante, activistas, académicos, intelectuales. Estas alianzas pueden ser vectores de cambio. Pero son frágiles. Al disponer de mayores reservas de capital, los dominados-dominantes se convierten en líderes y portavoces, y pueden reinterpretar las demandas que provienen de abajo para servir a los fines que persiguen en otros campos sociales. Existe una correspondencia de intereses más imperfecta que en el caso de las alianzas entre diferentes fracciones de las élites dominantes.
 
@@ -195,6 +197,8 @@ La parte final de la conversación se centra en el cambio tecnológico.
 AB:  Aunque no soy un experto, creo que la IA aumenta la productividad. La pregunta es qué ocurre con esos aumentos. En el marco de la propiedad privada, los aumentos de productividad se convierten en beneficios para los propietarios, en lugar de tiempo libre para todos los demás.
 
 Marx distinguía entre subsunción formal y real. La subsunción formal se produce cuando el capital se apropia del producto sin reorganizar los métodos de producción. En la subsunción real, el capitalismo organiza el propio proceso de producción, reduciendo el papel de la creatividad humana en él, con el resultado lógico de que llegamos a pensar que dependemos de ese proceso de producción y no podemos imaginar una alternativa.
+
+{% quote { "author": "Adrian Bua" } %}Creo que la IA podría conducir a la subsunción real del trabajo intelectual{% endquote %}
 
 Creo que la IA podría conducir a la subsunción real del trabajo intelectual. Por ejemplo, las universidades ya están formalmente subsumidas bajo el capital, especialmente en países más neoliberales como el Reino Unido o los Estados Unidos. Todavía existe autonomía operativa, pero la IA puede empujar el trabajo intelectual hacia la subsunción real al separar a los productores del control sobre sus propios procesos.
 

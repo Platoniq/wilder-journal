@@ -130,6 +130,8 @@ So while contentious politics is essential, it also reproduces certain asymmetri
 
 One of the values of democratic innovation, especially when approached through an intersectional lens, is that it can give voice to people who might not be represented even within activist spaces.
 
+{% quote { "author": "Adrian Bua" } %}Because they have greater stocks of capital, the dominated-domimant become leaders and spokespersons, and can re-signify the demands coming from below to serve ends they pursue in other social fields{% endquote %}
+
 Bourdieu speaks of alliances between the generally dominated and the dominated fraction of the dominant class, activists, academics, intellectuals. These alliances can be vectors of change. But they are fragile. Because they have greater stocks of capital, the dominated-domimant become leaders and spokespersons, and can re-signify the demands coming from below to serve ends they pursue in other social fields. There is a more imperfect correspondence of interests than in the case of alliances between different fractions of dominant elites.
 
 This is why democratic innovation and contentious politics should be seen as complementary rather than mutually exclusive, as I tried to theorise with Sonia.
@@ -215,6 +217,8 @@ Time is not neutral. It is structured by economic conditions.
 AB:  Whilst I am not an expert, I do think that AI increases productivity. The question is what happens to those gains. Under private ownership, productivity gains become profit for owners rather than free time for everyone else.
 
 Marx distinguished between formal and real subsumption. Formal subsumption occurs when capital appropriates the product without reorganising the production methods. Under real subsumption, capitalism organises the production process itself, reducing the role of human creativity from it, with the logical endpoint that we come to think that we depend on that production process and cannot imagine an alternative.
+
+{% quote { "author": "Adrian Bua" } %}I think AI could lead to the real subsumption of intellectual labour{% endquote %}
 
 I think AI could lead to the real subsumption of intellectual labour. For example, universities are already formally subsumed under capital, especially in more neoliberal countries like the UK or the USA. There is still  operational autonomy, but AI may push intellectual labour toward real subsumption by separating producers from control over their own processes.
 
