@@ -71,7 +71,7 @@ That is why we turned to the capabilities approach developed by Amartya Sen and 
 
 The capabilities approach has influenced frameworks like the United Nations Human Development Index. What we are trying to do is bring that philosophical grounding into the field of democratic participation.
 
-{% questions { "items": [{"question":"what resources do citizens need in order to participate meaningfully and to have real impact?"},{"question":"What conditions enable their influence to be consequential rather than symbolic?"}] } %}
+{% questions { "items": [{"question":"What resources do citizens need in order to participate meaningfully and to have real impact?"},{"question":"What conditions enable their influence to be consequential rather than symbolic?"}] } %}
 
 So instead of asking simply whether participation exists, we ask: what resources do citizens need in order to participate meaningfully and to have real impact? What conditions enable their influence to be consequential rather than symbolic?
 
