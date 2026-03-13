@@ -9,10 +9,10 @@ article-order: 14
 uid: "Participatory-Democracy-Capitalism "
 title: "Un diálogo sobre democracia participativa, capitalismo y cooptación "
 description: "Un diálogo sobre democracia participativa, capitalismo y cooptación "
-author: Olivier Schulbaum & Adrian Bua
+author: Olivier Schulbaum & Cristian Palazzi
 author_uids:
   - olivier-schulbaum
-  - adrian-bua
+  - cristian-palazzi
 interviewee: Olivier Schulbaum & Adrian Bua
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
