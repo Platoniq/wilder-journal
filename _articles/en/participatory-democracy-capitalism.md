@@ -10,7 +10,7 @@ uid: "Participatory-Democracy-Capitalism "
 title: A Dialogue on Participatory Democracy, Capitalism and Co-optation
 description: Participatory Democracy,Capitalism and Co-optation. A Dialogue
   between Adrian Bua and Oliver Schulbaum
-author: Olivier Schulbaum
+author: Olivier Schulbaum & Adrian Bua
 author_uids:
   - olivier-schulbaum
   - adrian-bua
