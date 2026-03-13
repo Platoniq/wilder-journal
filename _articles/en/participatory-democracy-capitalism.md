@@ -107,7 +107,7 @@ So democratic capabilities and generic capital do not overlap entirely, but they
 
 ### OS:  If marginalised communities acquire democratic capabilities, would that represent a counter-capital? A threat, perhaps, to existing structures of capital,  especially if deliberation moves beyond consensus toward conflict?
 
-AB: In Bourdieusian terms, I would not see it as a threat to capital itself. In Marxian terms it could be, but I think Bourdieu´s notion of capital is more useful for understanding participatory democracy, and politics more broadly.
+AB:  In Bourdieusian terms, I would not see it as a threat to capital itself. In Marxian terms it could be, but I think Bourdieu´s notion of capital is more useful for understanding participatory democracy, and politics more broadly.
 
 So, rather than a “threat”, I would see it as new groups acquiring capital that enables them to exercise agency, to develop strategies and ambitions at a higher level. It would be a socially equalising dynamic. It would threaten status asymmetries rooted in unequal distributions of capital.
 
