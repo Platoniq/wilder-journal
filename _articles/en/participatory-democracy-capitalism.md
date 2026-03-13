@@ -17,7 +17,7 @@ author_uids:
 interviewee: Olivier Shulbaum & Adrian Bua
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - amber-huff
