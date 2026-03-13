@@ -41,9 +41,9 @@ Participatory democracy promises inclusion, empowerment and redistribution. Yet 
 
 ## The conversation begins from that structural tension. Does participatory governance redistribute power, or does it negotiate its terms within existing accumulation regimes?
 
-### OS:  Participatory processes often present themselves as transformative. But if they operate within capitalist political economy, are they not inevitably constrained by it?
+### Olivier Schulbaum:  Participatory processes often present themselves as transformative. But if they operate within capitalist political economy, are they not inevitably constrained by it?
 
-AB:  Participatory processes are always embedded in a socioeconomic context. The system we live in produces a series of interests and limits. Recommendations emerging from participatory processes frequently clash with the requirements of capital accumulation.
+Adrian Bua:  Participatory processes are always embedded in a socioeconomic context. The system we live in produces a series of interests and limits. Recommendations emerging from participatory processes frequently clash with the requirements of capital accumulation.
 
 Take citizen assemblies. They may produce ambitious recommendations around regulation or redistribution. But if the broader economic strategy remains oriented toward growth and expansion, those recommendations confront systemic pressures. Similarly, when participatory recommendations affect private investment interests, state actors may decide not to implement them in order to avoid discouraging investment.
 

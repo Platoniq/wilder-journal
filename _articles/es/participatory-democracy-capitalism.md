@@ -43,9 +43,9 @@ La democracia participativa promete inclusión, empoderamiento y redistribución
 
 ## La conversación comienza a partir de esa tensión estructural. ¿La gobernanza participativa redistribuye el poder o negocia sus términos dentro de los regímenes de acumulación existentes?
 
-### OS: Los procesos participativos a menudo se presentan como transformadores. Pero si operan dentro de la economía política capitalista, ¿no están inevitablemente limitados por ella?
+### Olivier Schulbaum: Los procesos participativos a menudo se presentan como transformadores. Pero si operan dentro de la economía política capitalista, ¿no están inevitablemente limitados por ella?
 
-AB:  Los procesos participativos siempre están integrados en un contexto socioeconómico. El sistema en el que vivimos genera una serie de intereses y límites. Las recomendaciones que surgen de los procesos participativos a menudo chocan con los requisitos de la acumulación de capital.
+Adrian Bua:  Los procesos participativos siempre están integrados en un contexto socioeconómico. El sistema en el que vivimos genera una serie de intereses y límites. Las recomendaciones que surgen de los procesos participativos a menudo chocan con los requisitos de la acumulación de capital.
 
 Tomemos como ejemplo las asambleas ciudadanas. Pueden producir recomendaciones ambiciosas en materia de regulación o redistribución. Pero si la estrategia económica general sigue orientada hacia el crecimiento y la expansión, esas recomendaciones se enfrentan a presiones sistémicas. Del mismo modo, cuando las recomendaciones participativas afectan a los intereses de la inversión privada, los actores estatales pueden decidir no aplicarlas para no desalentar la inversión.
 
