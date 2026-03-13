@@ -19,7 +19,7 @@ interviewee: Olivier Shulbaum & Adrian Bua
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
   alt: Adrian Bua
   credits: Adrian Bua
   caption: Adrian Bua
