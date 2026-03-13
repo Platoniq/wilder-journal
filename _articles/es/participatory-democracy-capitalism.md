@@ -13,7 +13,7 @@ author: Olivier Schulbaum & Cristian Palazzi
 author_uids:
   - olivier-schulbaum
   - cristian-palazzi
-interviewee: Olivier Schulbaum & Adrian Bua
+interviewee: Adrian Bua
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
