@@ -34,7 +34,7 @@ image:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HeVHFSq9vac?si=lQsdLGjvTGLVsF9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-His latest work moves between normative democratic theory and a sociological analysis of fields, drawing on Marx and Bourdieu to interrogate the material conditions of participation. Rather than treating democratic innovation as inherently emancipatory, Bua insists on analysing it within the constraints of accumulation, institutional power and unequal distributions of capital, in all its forms.
+His [latest work](https://www.researchgate.net/publication/394253077_Trajectories_of_Change_and_Co-optation_in_the_Field_of_Political_Participation_a_Bourdieusian_Analysis) moves between normative democratic theory and a sociological analysis of fields, drawing on Marx and Bourdieu to interrogate the material conditions of participation. Rather than treating democratic innovation as inherently emancipatory, Bua insists on analysing it within the constraints of accumulation, institutional power and unequal distributions of capital, in all its forms.
 
 Participatory democracy promises inclusion, empowerment and redistribution. Yet it unfolds within capitalist societies structured by growth imperatives, investment logics and unequal distributions of capital.
 
@@ -69,6 +69,8 @@ We wanted to conceptualise those possibilities more systematically.
 That is why we turned to the capabilities approach developed by Amartya Sen and Martha Nussbaum. It is a theory of justice that focuses not only on formal rights but on the actual resources and conditions people need in order to realise their goals. It asks what people are effectively able to do and to be.
 
 The capabilities approach has influenced frameworks like the United Nations Human Development Index. What we are trying to do is bring that philosophical grounding into the field of democratic participation.
+
+{% questions { "items": [{"question":"what resources do citizens need in order to participate meaningfully and to have real impact?"},{"question":"What conditions enable their influence to be consequential rather than symbolic?"}] } %}
 
 So instead of asking simply whether participation exists, we ask: what resources do citizens need in order to participate meaningfully and to have real impact? What conditions enable their influence to be consequential rather than symbolic?
 

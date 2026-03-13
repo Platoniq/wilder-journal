@@ -37,7 +37,7 @@ image:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HeVHFSq9vac?si=lQsdLGjvTGLVsF9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tu último trabajo se mueve entre la teoría democrática normativa y el análisis sociológico de los campos, basándose en Marx y Bourdieu para cuestionar las condiciones materiales de la participación. En lugar de tratar la innovación democrática como algo intrínsecamente emancipador, Bua insiste en analizarla dentro de las limitaciones de la acumulación, el poder institucional y la distribución desigual del capital, en todas sus formas.
+Tu [último trabajo](https://www.researchgate.net/publication/394253077_Trajectories_of_Change_and_Co-optation_in_the_Field_of_Political_Participation_a_Bourdieusian_Analysis) se mueve entre la teoría democrática normativa y el análisis sociológico de los campos, basándose en Marx y Bourdieu para cuestionar las condiciones materiales de la participación. En lugar de tratar la innovación democrática como algo intrínsecamente emancipador, Bua insiste en analizarla dentro de las limitaciones de la acumulación, el poder institucional y la distribución desigual del capital, en todas sus formas.
 
 La democracia participativa promete inclusión, empoderamiento y redistribución. Sin embargo, se desarrolla dentro de sociedades capitalistas estructuradas por imperativos de crecimiento, lógicas de inversión y distribuciones desiguales del capital.
 
@@ -45,7 +45,7 @@ La democracia participativa promete inclusión, empoderamiento y redistribución
 
 ### OS: Los procesos participativos a menudo se presentan como transformadores. Pero si operan dentro de la economía política capitalista, ¿no están inevitablemente limitados por ella?
 
-AB: Los procesos participativos siempre están integrados en un contexto socioeconómico. El sistema en el que vivimos genera una serie de intereses y límites. Las recomendaciones que surgen de los procesos participativos a menudo chocan con los requisitos de la acumulación de capital.
+AB:  Los procesos participativos siempre están integrados en un contexto socioeconómico. El sistema en el que vivimos genera una serie de intereses y límites. Las recomendaciones que surgen de los procesos participativos a menudo chocan con los requisitos de la acumulación de capital.
 
 Tomemos como ejemplo las asambleas ciudadanas. Pueden producir recomendaciones ambiciosas en materia de regulación o redistribución. Pero si la estrategia económica general sigue orientada hacia el crecimiento y la expansión, esas recomendaciones se enfrentan a presiones sistémicas. Del mismo modo, cuando las recomendaciones participativas afectan a los intereses de la inversión privada, los actores estatales pueden decidir no aplicarlas para no desalentar la inversión.
 
@@ -70,6 +70,8 @@ AB:  Nuestro punto de partida, y aquí me refiero al trabajo desarrollado junt
 Queríamos conceptualizar esas posibilidades de forma más sistemática. Por eso recurrimos al enfoque de las capacidades desarrollado por Amartya Sen y Martha Nussbaum. Se trata de una teoría de la justicia que se centra no solo en los derechos formales, sino también en los recursos y condiciones reales que las personas necesitan para alcanzar sus objetivos. Se pregunta qué es lo que las personas son capaces de hacer y de ser efectivamente.
 
 El enfoque de las capacidades ha influido en marcos como el Índice de Desarrollo Humano de las Naciones Unidas. Lo que intentamos hacer es llevar esa base filosófica al campo de la participación democrática.
+
+{% questions { "items": [{"question":"¿qué recursos necesitan los ciudadanos para participar de forma significativa y tener un impacto real?"},{"question":"¿Qué condiciones permiten que su influencia sea consecuente y no simbólica?"}] } %}
 
 Así, en lugar de preguntarnos simplemente si existe la participación, nos preguntamos: ¿qué recursos necesitan los ciudadanos para participar de forma significativa y tener un impacto real? ¿Qué condiciones permiten que su influencia sea consecuente y no simbólica?
 
