@@ -14,7 +14,7 @@ description: Participatory Democracy,Capitalism and Co-optation. A Dialogue
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
-interviewee: Adrián Bua
+interviewee: Olivier Shulbaum & Adrian Bua
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
   mobile: /assets/media/no_image-hero.png
@@ -37,17 +37,17 @@ His latest work moves between normative democratic theory and a sociological ana
 
 Participatory democracy promises inclusion, empowerment and redistribution. Yet it unfolds within capitalist societies structured by growth imperatives, investment logics and unequal distributions of capital.
 
-The conversation begins from that structural tension. Does participatory governance redistribute power, or does it negotiate its terms within existing accumulation regimes?
+## The conversation begins from that structural tension. Does participatory governance redistribute power, or does it negotiate its terms within existing accumulation regimes?
 
-OS: Participatory processes often present themselves as transformative. But if they operate within capitalist political economy, are they not inevitably constrained by it?
+### OS:  Participatory processes often present themselves as transformative. But if they operate within capitalist political economy, are they not inevitably constrained by it?
 
-AB: Participatory processes are always embedded in a socioeconomic context. The system we live in produces a series of interests and limits. Recommendations emerging from participatory processes frequently clash with the requirements of capital accumulation.
+AB:  Participatory processes are always embedded in a socioeconomic context. The system we live in produces a series of interests and limits. Recommendations emerging from participatory processes frequently clash with the requirements of capital accumulation.
 
 Take citizen assemblies. They may produce ambitious recommendations around regulation or redistribution. But if the broader economic strategy remains oriented toward growth and expansion, those recommendations confront systemic pressures. Similarly, when participatory recommendations affect private investment interests, state actors may decide not to implement them in order to avoid discouraging investment.
 
 These limits are structural rather than accidental. Participation operates within them. It does not escape political economy.
 
-OS: In your work on participatory governance, you argue that participation has been co-opted. What has shifted?
+### OS:  In your work on participatory governance, you argue that participation has been co-opted. What has shifted?
 
 AB: Contemporary forms of participatory democracy were originally linked to redistributive justice and the reinvention of socialism. Participatory budgeting in Porto Alegre is an example. It was about reallocating resources to, and empowering, working-class communities.
 
@@ -59,9 +59,7 @@ There is therefore a struggle over what participation is for.
 
 This struggle is not only ideological but structural. It plays out in the field dynamics of participation itself, as I try to theorise in my latest work
 
-OS:
-
-You’ve argued that participatory processes operate within structural limits imposed by political economy. But within those limits, where do you see room for agency? What is the intention behind developing a Democratic Capabilities Framework?
+### OS: You’ve argued that participatory processes operate within structural limits imposed by political economy. But within those limits, where do you see room for agency? What is the intention behind developing a Democratic Capabilities Framework?
 
 AB: Our starting point, and here I mean the work developed together with Lucy Parry and Oliver Escobar, was precisely that tension. On the one hand, participatory processes are constrained by political economy. On the other, they are not entirely determined by it. There are spaces of change, possibilities of agency, and moments where participation can shift outcomes.
 
@@ -75,7 +73,7 @@ So instead of asking simply whether participation exists, we ask: what resources
 
 The Democratic Capabilities Framework is therefore justice-oriented. It does not assume that formal inclusion is sufficient. It attempts to theorise the resources, supports and institutional conditions required for effective participation, especially for those who are structurally marginalised.
 
-OS: From a Bourdieusian perspective, how do you see democratic capabilities interacting with existing forms of capital, specifically in the field of participation?
+### OS: From a Bourdieusian perspective, how do you see democratic capabilities interacting with existing forms of capital, specifically in the field of participation?
 
 AB: That’s a very good question.
 
@@ -107,7 +105,7 @@ And I think the framework captures this in the emphasis on consequential or infl
 
 So democratic capabilities and generic capital do not overlap entirely, but they are certainly related, and that relationship could be explored more deeply.
 
-OS:  If marginalised communities acquire democratic capabilities, would that represent a counter-capital? A threat, perhaps, to existing structures of capital,  especially if deliberation moves beyond consensus toward conflict?
+### OS:  If marginalised communities acquire democratic capabilities, would that represent a counter-capital? A threat, perhaps, to existing structures of capital,  especially if deliberation moves beyond consensus toward conflict?
 
 AB: In Bourdieusian terms, I would not see it as a threat to capital itself. In Marxian terms it could be, but I think Bourdieu´s notion of capital is more useful for understanding participatory democracy, and politics more broadly.
 
@@ -117,11 +115,9 @@ But it would not threaten capital as such.
 
 A threat to capitalism, as in Marxist terms? That is a different question.
 
-OS: But influencing democratic life already happens through protests and strikes. What difference does it make to acquire deliberative capacities and influence through participatory policymaking? Why not rely on contentious politics?
+### OS:  But influencing democratic life already happens through protests and strikes. What difference does it make to acquire deliberative capacities and influence through participatory policymaking? Why not rely on contentious politics?
 
-AB:
-
-I am very much in favour of social movements and contentious politics. As mentioned before, I have argued that the field of democratic innovation should move toward a more democracy-driven rather than governance-driven approach.
+AB: I am very much in favour of social movements and contentious politics. As mentioned before, I have argued that the field of democratic innovation should move toward a more democracy-driven rather than governance-driven approach.
 
 But I would challenge the romanticisation of contentious politics.
 
@@ -135,7 +131,7 @@ Bourdieu speaks of alliances between the generally dominated and the dominated f
 
 This is why democratic innovation and contentious politics should be seen as complementary rather than mutually exclusive, as I tried to theorise with Sonia.
 
-OS: You conceptualise participatory capital as the degree of credibility with which an agent can claim to promote desirable and achievable social change. How does that relate to democratic capabilities? Are capabilities a precondition for participatory capital, or are they shaped by struggles over its valorisation?
+### OS:  You conceptualise participatory capital as the degree of credibility with which an agent can claim to promote desirable and achievable social change. How does that relate to democratic capabilities? Are capabilities a precondition for participatory capital, or are they shaped by struggles over its valorisation?
 
 AB: You could understand participatory capital as the credibility agents possess within the field when they claim to advance social change. Democratic capabilities contribute to that credibility.
 
@@ -145,27 +141,27 @@ So there is a circular dynamic. Capabilities help build participatory capital, b
 
 As participatory practices move closer to the field of power, those criteria shift.
 
-OS: You argue that as participatory practices move closer to the field of power, co-optative pressures intensify. How can democratic capabilities avoid becoming heteronomous, which you argue in capitalist societies means they are shaped primarily by the economic pole of the field of power?
+### OS:  You argue that as participatory practices move closer to the field of power, co-optative pressures intensify. How can democratic capabilities avoid becoming heteronomous, which you argue in capitalist societies means they are shaped primarily by the economic pole of the field of power?
 
-AB: The issue is not so much protecting capabilities from heteronomy as recognising that scaling up changes the dynamics. When participatory initiatives move closer to decision-making centres, new actors enter the field with different interests. That is when co-optation pressures intensify.
+AB:  The issue is not so much protecting capabilities from heteronomy as recognising that scaling up changes the dynamics. When participatory initiatives move closer to decision-making centres, new actors enter the field with different interests. That is when co-optation pressures intensify.
 
 But scaling up also inserts new practices into the field of power. Change often occurs through gradual insertion rather than rupture. Participatory practices can influence powerful actors, even if, or even perhaps because, they are absorbed. So, I argue that some change does occur through co-optation, however constrained.
 
 The question is whether agency expands faster than heteronomy closes it.
 
-The discussion then turns toward infrastructure: how participation is materially organised.
+## The discussion then turns toward infrastructure: how participation is materially organised.
 
-OS: In our work on Political User Experience, we draw a metaphor between physical democratic infrastructures in the city and digital participation infrastructures. If we treat a digital participation platform as a social field, what forms of capital are being accumulated there?
+### OS:  In our work on Political User Experience, we draw a metaphor between physical democratic infrastructures in the city and digital participation infrastructures. If we treat a digital participation platform as a social field, what forms of capital are being accumulated there?
 
-AB: If a digital platform is treated as a field, then specific forms of symbolic capital emerge within it. Digital literacy, rhetorical fluency, responsiveness, these can become forms of capital.
+AB:  If a digital platform is treated as a field, then specific forms of symbolic capital emerge within it. Digital literacy, rhetorical fluency, responsiveness, these can become forms of capital.
 
 But platforms are not neutral. They are often designed around efficiency, scalability and managerial logics. Those logics can reproduce heteronomy.
 
 The key question is whether the design creates space for autonomous deliberative practices or embeds participation within administrative rationality. Digital participation can expand access, but it can also intensify managerial control.
 
-OS: In your work on urban regime contention, you examine how participatory governance interacts with urban regimes. How do democratic infrastructures — both physical assemblies and digital platforms alter the balance of forces within those regimes?
+### OS:  In your work on urban regime contention, you examine how participatory governance interacts with urban regimes. How do democratic infrastructures — both physical assemblies and digital platforms alter the balance of forces within those regimes?
 
-AB: Participatory infrastructures can alter the balance of forces if they redistribute symbolic and organisational capital. Physical assemblies can generate collective capacity and new networks. Digital platforms can lower thresholds of entry.
+AB:  Participatory infrastructures can alter the balance of forces if they redistribute symbolic and organisational capital. Physical assemblies can generate collective capacity and new networks. Digital platforms can lower thresholds of entry.
 
 But urban regimes are resilient. They are structured by coalitions between political and economic actors. Participatory infrastructures can influence those coalitions, but they can also be absorbed by them.
 
@@ -173,17 +169,17 @@ Whether they become regime-shifting devices or stabilising mechanisms depends on
 
 Hybrid participation, mixing online and face to face spaces, is often presented as the solution: more inclusive, more efficient.
 
-OS: Does hybridity expand autonomy in the field of participation, or does it deepen the penetration of the field of power into local democratic spaces?
+### OS:  Does hybridity expand autonomy in the field of participation, or does it deepen the penetration of the field of power into local democratic spaces?
 
-AB: Hybridity can expand access and flexibility. But it can also extend managerial oversight. Online components may introduce new metrics, new forms of monitoring and new efficiency expectations.
+AB:  Hybridity can expand access and flexibility. But it can also extend managerial oversight. Online components may introduce new metrics, new forms of monitoring and new efficiency expectations.
 
 So hybridity is not inherently emancipatory. It can either expand participatory capital or reinforce heteronomous logics.
 
-The conversation then moves to time, not as scheduling, but as structure.
+## The conversation then moves to time, not as scheduling, but as structure.
 
-OS: In your Bourdieusian analysis, how should we understand time within this field? Is time itself a form of capital unequally distributed across agents?
+OS:  In your Bourdieusian analysis, how should we understand time within this field? Is time itself a form of capital unequally distributed across agents?
 
-AB: Yes. Time is profoundly unequally distributed, and its quality differs depending on the forms of capital one possesses.
+AB:  Yes. Time is profoundly unequally distributed, and its quality differs depending on the forms of capital one possesses.
 
 Bourdieu speaks of the scholastic disposition: an important part of this is the privilege of having time to step back and analyse the world, as if it was made for the scholar to observe. That distance from necessity allows that kind of reflection. Others are immersed in more immediate necessity and lack that privilege.
 
@@ -191,9 +187,9 @@ So, time accelerates inequality. Those with capital can convert time into advant
 
 Participation requires sustained engagement. So temporal inequality becomes a political issue.
 
-OS: Participation requires time, emotional energy and cognitive labour. Is there a risk that participatory governance extracts unpaid democratic labour while leaving economic structures untouched?
+### OS:  Participation requires time, emotional energy and cognitive labour. Is there a risk that participatory governance extracts unpaid democratic labour while leaving economic structures untouched?
 
-AB: There is that risk. Academics and practitioners of participatory democracy occupy contradictory positions. They are committed to empowerment but embedded in institutions that demand outputs, reports, policy products, publications.
+AB:  There is that risk. Academics and practitioners of participatory democracy occupy contradictory positions. They are committed to empowerment but embedded in institutions that demand outputs, reports, policy products, publications.
 
 Sometimes the product becomes more important than the democratic activity. This extractivism does not necessarily arise from bad faith. It arises from structural positioning.
 
@@ -201,19 +197,19 @@ Participation can empower. But it can also be appropriated as a resource.
 
 Temporal inequality also shapes who can remain engaged over time.
 
-OS: Deliberative processes unfold sequentially ( meetings, follow-ups, consultations). How do economic precarity and labour market conditions shape who can sustain long-term engagement?
+### OS:  Deliberative processes unfold sequentially ( meetings, follow-ups, consultations). How do economic precarity and labour market conditions shape who can sustain long-term engagement?
 
-AB: Economic precarity makes sustained engagement difficult. Capitalist labour markets advantage those with stable income and flexible schedules.
+AB:  Economic precarity makes sustained engagement difficult. Capitalist labour markets advantage those with stable income and flexible schedules.
 
 Those with secure capital endowments are structurally better positioned to maintain long-term engagement. So capitalism indirectly shapes the composition of participatory fields.
 
 Time is not neutral. It is structured by economic conditions.
 
-The final movement of the conversation turns toward technological change.
+## The final movement of the conversation turns toward technological change.
 
-OS: AI promises productivity gains. But does it reduce the labour necessary to live, or does it expand the terrain of capital accumulation into language, culture and time itself?
+### OS:  AI promises productivity gains. But does it reduce the labour necessary to live, or does it expand the terrain of capital accumulation into language, culture and time itself?
 
-AB: Whilst I am not an expert, I do think that AI increases productivity. The question is what happens to those gains. Under private ownership, productivity gains become profit for owners rather than free time for everyone else.
+AB:  Whilst I am not an expert, I do think that AI increases productivity. The question is what happens to those gains. Under private ownership, productivity gains become profit for owners rather than free time for everyone else.
 
 Marx distinguished between formal and real subsumption. Formal subsumption occurs when capital appropriates the product without reorganising the production methods. Under real subsumption, capitalism organises the production process itself, reducing the role of human creativity from it, with the logical endpoint that we come to think that we depend on that production process and cannot imagine an alternative.
 
@@ -223,17 +219,17 @@ This could proletarianise intellectual and cultural labour — journalism, desig
 
 Without democratic ownership, AI is likely to accelerate inequality and concentrate control over symbolic production.
 
-The dialogue pauses here.
+*The dialogue pauses here.*
 
-Participation builds capabilities within unequal fields. It expands agency but remains structured by capital. It risks co-optation even as it generates new forms of participatory capital.
+*Participation builds capabilities within unequal fields. It expands agency but remains structured by capital. It risks co-optation even as it generates new forms of participatory capital.*
 
-Democratic innovation does not escape political economy.
+*Democratic innovation does not escape political economy.*
 
-It negotiates with it.
+*It negotiates with it.*
 
-The unresolved question is how far that negotiation can go.
+*The unresolved question is how far that negotiation can go.*
 
-After the Conversation
+## After the Conversation
 
 When the conversation ended, some threads were informally revisited – we summarise the main points of the conversation between Olivier and Adrian below.
 
@@ -245,7 +241,7 @@ But what happens when the very conditions of labour, cognition and time are bein
 
 This is where the question of artificial intelligence enters, not as a technological curiosity, but as a political economy problem.
 
-AI, Labour and the Capture of Democratic Time
+## AI, Labour and the Capture of Democratic Time
 
 AI undeniably increases productivity. The political question is what happens to those gains.
 
@@ -269,7 +265,7 @@ AI can enable democratic capability. Or it can intensify heteronomy within the
 
 The outcome depends on ownership, governance and design.
 
-The Proletarianisation of Intellectual Labour
+### The Proletarianisation of Intellectual Labour
 
 Many intellectual professions have long been formally subsumed. They retained partial autonomy while operating within market logics. AI may push toward real subsumption by separating producers from control over their own processes.
 
@@ -281,7 +277,7 @@ The classic proletariat was dispossessed from the means of production. Today, th
 
 If this is correct, then the struggle over technological infrastructures also becomes one about developing democratic capabilities.
 
-Time as a Democratic Battleground
+### Time as a Democratic Battleground
 
 Participation requires time. Reflection requires time. Solidarity requires time.
 

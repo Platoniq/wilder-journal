@@ -11,10 +11,11 @@ title: Democracia participativa, capitalismo y cooptación. Un diálogo entre
   Adrian Bua y Oliver Schulbaum
 description: Democracia participativa, capitalismo y cooptación. Un diálogo
   entre Adrian Bua y Oliver Schulbaum
-author: Olivier Schulbaum
+author: Olivier Schulbaum & Adrian Bua
 author_uids:
   - olivier-schulbaum
-interviewee: Adrián Bua
+  - platoniq
+interviewee: Olivier Shulbaum & Adrian Bua
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
   mobile: /assets/media/no_image-hero.png
@@ -34,10 +35,9 @@ call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
 ---
-Adrian Bua es un teórico democrático que trabaja en la intersección entre la innovación democrática y la economía política y la sociología críticas. Actualmente es investigador postdoctoral en la Universitat Autònoma de Barcelona y ha escrito extensamente sobre gobernanza participativa, municipalismo radical y la economía política de la reforma democrática. Junto con sus colaboradores, ha examinado cómo las instituciones participativas interactúan con las estructuras capitalistas, los regímenes urbanos y las formas cambiantes del poder estatal.
+**Adrian Bua** es un teórico democrático que trabaja en la intersección entre la innovación democrática y la economía política y la sociología críticas. Actualmente es investigador postdoctoral en la Universitat Autònoma de Barcelona y ha escrito extensamente sobre gobernanza participativa, municipalismo radical y la economía política de la reforma democrática. Junto con sus colaboradores, ha examinado cómo las instituciones participativas interactúan con las estructuras capitalistas, los regímenes urbanos y las formas cambiantes del poder estatal.
 
-
-Su último trabajo se mueve entre la teoría democrática normativa y el análisis sociológico de los campos, basándose en Marx y Bourdieu para cuestionar las condiciones materiales de la participación. En lugar de tratar la innovación democrática como algo intrínsecamente emancipador, Bua insiste en analizarla dentro de las limitaciones de la acumulación, el poder institucional y la distribución desigual del capital, en todas sus formas.
+Tu último trabajo se mueve entre la teoría democrática normativa y el análisis sociológico de los campos, basándose en Marx y Bourdieu para cuestionar las condiciones materiales de la participación. En lugar de tratar la innovación democrática como algo intrínsecamente emancipador, Bua insiste en analizarla dentro de las limitaciones de la acumulación, el poder institucional y la distribución desigual del capital, en todas sus formas.
 
 La democracia participativa promete inclusión, empoderamiento y redistribución. Sin embargo, se desarrolla dentro de sociedades capitalistas estructuradas por imperativos de crecimiento, lógicas de inversión y distribuciones desiguales del capital.
 
@@ -148,13 +148,13 @@ La pregunta clave es si el diseño crea un espacio para prácticas deliberativas
 
 ### OS:  En tu trabajo sobre la contienda entre regímenes urbanos, examina cómo la gobernanza participativa interactúa con los regímenes urbanos. ¿Cómo alteran las infraestructuras democráticas —tanto las asambleas físicas como las plataformas digitales— el equilibrio de fuerzas dentro de esos regímenes?
 
-AB: Las infraestructuras participativas pueden alterar el equilibrio de fuerzas si redistribuyen el capital simbólico y organizativo. Las asambleas físicas pueden generar capacidad colectiva y nuevas redes. Las plataformas digitales pueden reducir los umbrales de entrada.
+AB:  Las infraestructuras participativas pueden alterar el equilibrio de fuerzas si redistribuyen el capital simbólico y organizativo. Las asambleas físicas pueden generar capacidad colectiva y nuevas redes. Las plataformas digitales pueden reducir los umbrales de entrada.
 
 Pero los regímenes urbanos son resistentes. Están estructurados por coaliciones entre actores políticos y económicos. Las infraestructuras participativas pueden influir en esas coaliciones, pero también pueden ser absorbidas por ellas.
 
-Que se conviertan en dispositivos de cambio de régimen o en mecanismos estabilizadores depende de cómo interactúen con las estructuras de poder existentes, y la cuestión requiere un análisis empírico.
+Que se conviertan en dispositivos de cambio de régimen o en mecanismos estabilizadores depende de cómo interactúen con las estructuras de poder existentes, y la cuestión requiere un análisis empírico. 
 
-## La participación híbrida, que mezcla espacios en línea y presenciales, se presenta a menudo como la solución: más inclusiva, más eficiente.
+La participación híbrida, que mezcla espacios en línea y presenciales, se presenta a menudo como la solución: más inclusiva, más eficiente.
 
 ### OS: ¿La hibridación amplía la autonomía en el ámbito de la participación o profundiza la penetración del ámbito del poder en los espacios democráticos locales?
 
@@ -163,7 +163,7 @@ AB: La hibridación puede ampliar el acceso y la flexibilidad. Pero también p
 Por lo tanto, la hibridación no es intrínsecamente emancipadora. Puede ampliar el capital participativo o reforzar las lógicas heterónomas.
 La conversación pasa entonces al tiempo, no como programación, sino como estructura.
 
-### OS: En su análisis bourdieusiano, ¿cómo debemos entender el tiempo dentro de este campo? ¿Es el tiempo en sí mismo una forma de capital distribuido de manera desigual entre los agentes?
+### OS:  En tu análisis bourdieusiano, ¿cómo debemos entender el tiempo dentro de este campo? ¿Es el tiempo en sí mismo una forma de capital distribuido de manera desigual entre los agentes?
 
 AB: Sí. El tiempo está profundamente distribuido de manera desigual, y su calidad difiere según las formas de capital que se posean.
 
