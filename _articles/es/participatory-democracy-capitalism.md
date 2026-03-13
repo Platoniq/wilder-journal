@@ -33,7 +33,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-03-13-a-las-8.36.20.png
 ---
 **Adrian Bua** es un teórico democrático que trabaja en la intersección entre la innovación democrática y la economía política y la sociología críticas. Actualmente es investigador postdoctoral en la Universitat Autònoma de Barcelona y ha escrito extensamente sobre gobernanza participativa, municipalismo radical y la economía política de la reforma democrática. Junto con sus colaboradores, ha examinado cómo las instituciones participativas interactúan con las estructuras capitalistas, los regímenes urbanos y las formas cambiantes del poder estatal.
 
