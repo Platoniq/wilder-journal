@@ -25,6 +25,7 @@ cover:
 related_article_uids:
   - amber-huff
   - crowdfunding-historical-memory-common-good
+  - Democracia-deliberativa-cosmovisiones
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
