@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/image01.jpg
 ---
 **Lucy J. Parry** es una teórica política y experta en innovación democrática cuyo trabajo tiende un puente entre la democracia deliberativa —tanto en la teoría como en la práctica— y la ética animal. Es coautora de un importante estudio sobre la [integridad deliberativa](https://deliberativeintegrityproject.org/) en la gobernanza mediante minipúblicos, en el que identifica riesgos sistémicos relacionados con la puesta en marcha, la ortodoxia en el diseño y un seguimiento deficiente. También forma parte del proyecto INSPIRE sobre espacios interseccionales de participación, donde dirigió el desarrollo del Marco de Capacidades Democráticas (DCF), y es cofundadora de «Animals in the Room», una red emergente de investigación y práctica que explora cómo los intereses y la agencia no humanos pueden integrarse de manera significativa en los sistemas democráticos.
 
