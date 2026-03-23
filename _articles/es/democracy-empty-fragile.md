@@ -46,21 +46,13 @@ Esta entrevista es una invitación a convivir con la incomodidad, la esperanza y
 
 Quizá quieras leerla como un viaje más que como un manual. Cada bloque abre una puerta diferente al pensamiento de Lucy: sobre el poder, el cuidado, la exclusión y las vidas, humanas y más que humanas, que se ven afectadas cuando diseñamos la «participación».
 
-{% questions { "items": [{"question":"En el Bloque 1"}] } %}
+En el Bloque 1 la conversación se mantiene cerca del terreno de la práctica: historias de encargos que queman a las personas, líneas rojas que se nombran o se ocultan, y la violencia silenciosa de invitar a la gente a procesos que nunca pueden cambiar realmente nada. Puedes leer esta parte teniendo en cuenta tus propias experiencias y preguntarte cuándo has sido honesto (o no) sobre lo que un proceso puede y no puede hacer.
 
-la conversación se mantiene cerca del terreno de la práctica: historias de encargos que queman a las personas, líneas rojas que se nombran o se ocultan, y la violencia silenciosa de invitar a la gente a procesos que nunca pueden cambiar realmente nada. Puedes leer esta parte teniendo en cuenta tus propias experiencias y preguntarte cuándo has sido honesto (o no) sobre lo que un proceso puede y no puede hacer.
+El Bloque 2 se centra en las capacidades democráticas. Aquí, el enfoque pasa de «¿quiénes se presentaron?» a «¿en quiénes nos convertimos juntos?», y quiénes nunca tuvieron la oportunidad de convertirse en nada dentro del proceso. Es un espacio para tomar conciencia de tus propios deseos: qué capacidades anhelas en tu vida democrática, cuáles te parecen frágiles y cuáles parecen estar constantemente amenazadas o desgastadas.
 
-{% questions { "items": [{"question":"El Bloque 2"}] } %}
+En el Bloque 3 la conversación trasciende lo humano. Los ríos, los animales, las infraestructuras y otros seres más que humanos entran en escena, no solo como metáforas, sino como entidades cuyo sufrimiento y supervivencia están estrechamente ligados a los nuestros. Esta sección invita a un tipo diferente de escucha: cómo podríamos intentar hablar por los demás sin acallarlos, y qué significaría tratar la explotación, y no solo la «perspectiva», como el problema democrático fundamental.
 
-se centra en las capacidades democráticas. Aquí, el enfoque pasa de «¿quiénes se presentaron?» a «¿en quiénes nos convertimos juntos?», y quiénes nunca tuvieron la oportunidad de convertirse en nada dentro del proceso. Es un espacio para tomar conciencia de tus propios deseos: qué capacidades anhelas en tu vida democrática, cuáles te parecen frágiles y cuáles parecen estar constantemente amenazadas o desgastadas.
-
-{% questions { "items": [{"question":"En el Bloque 3"}] } %}
-
-la conversación trasciende lo humano. Los ríos, los animales, las infraestructuras y otros seres más que humanos entran en escena, no solo como metáforas, sino como entidades cuyo sufrimiento y supervivencia están estrechamente ligados a los nuestros. Esta sección invita a un tipo diferente de escucha: cómo podríamos intentar hablar por los demás sin acallarlos, y qué significaría tratar la explotación, y no solo la «perspectiva», como el problema democrático fundamental.
-
-{% questions { "items": [{"question":"El Bloque 4"}] } %}
-
-vuelve a los cuerpos, los silencios y las formas de expresión no verbales. Si alguna vez te has quedado paralizado en una sesión plenaria, te ha resultado más fácil expresarte a través de un dibujo o un gesto, o has visto a alguien cerrarse en un taller, este bloque puede resultarte familiar. Plantea con delicadeza qué formas de comunicación se consideran normales en nuestros procesos y cuáles se interpretan como torpes, excesivas o fuera de lugar.
+El Bloque 4 vuelve a los cuerpos, los silencios y las formas de expresión no verbales. Si alguna vez te has quedado paralizado en una sesión plenaria, te ha resultado más fácil expresarte a través de un dibujo o un gesto, o has visto a alguien cerrarse en un taller, este bloque puede resultarte familiar. Plantea con delicadeza qué formas de comunicación se consideran normales en nuestros procesos y cuáles se interpretan como torpes, excesivas o fuera de lugar.
 
 No es necesario que estés de acuerdo con todas las afirmaciones para seguir con este texto. Puede que te resulte más útil si lo lees despacio, haciendo pausas para fijarte en los momentos en los que sientes reconocimiento, resistencia o fatiga. Incluso podrías optar por leerlo con otras personas (profesionales, participantes, estudiantes) y considerar vuestras reacciones como parte de las mismas capacidades democráticas que la entrevista intenta nombrar.
 

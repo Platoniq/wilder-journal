@@ -40,21 +40,13 @@ This interview is an invitation to sit with discomfort, hope, and unanswered que
 
 You might want to read it as a journey rather than a manual. Each block opens a different door into Lucy’s thinking: about power, care, exclusion, and the lives, human and more‑than‑human, that are affected when we design “participation.”
 
-{% questions { "items": [{"question":"In Block 1"}] } %}
+In Block 1 the conversation stays close to the ground of practice: stories of commissions that burn people, red lines that are named or hidden, and the quiet violence of inviting people into processes that can never really change anything. You can read this part with your own experiences in mind and ask yourself when you have been honest (or not) about what a process can and cannot do.
 
-the conversation stays close to the ground of practice: stories of commissions that burn people, red lines that are named or hidden, and the quiet violence of inviting people into processes that can never really change anything. You can read this part with your own experiences in mind and ask yourself when you have been honest (or not) about what a process can and cannot do.
+Block 2 turns to democratic capabilities. Here, the focus shifts from “who showed up?” to “who did we become together?”, and who never had the chance to become anything within the process. It is a place to notice your own desires: which capabilities you long for in your democratic life, which feel fragile, and which seem constantly threatened or worn down.
 
-{% questions { "items": [{"question":"Block 2"}] } %}
+In Block 3 the conversation edges beyond the human. Rivers, animals, infrastructures and other more‑than‑human beings come into view, not just as metaphors but as entities whose suffering and survival are tightly bound up with ours. This section invites a different kind of listening: how we might try to speak for others without drowning them out, and what it would mean to treat exploitation, not just “perspective”, as the core democratic problem.
 
-turns to democratic capabilities. Here, the focus shifts from “who showed up?” to “who did we become together?”, and who never had the chance to become anything within the process. It is a place to notice your own desires: which capabilities you long for in your democratic life, which feel fragile, and which seem constantly threatened or worn down.
-
-{% questions { "items": [{"question":"In Block 3"}] } %}
-
-the conversation edges beyond the human. Rivers, animals, infrastructures and other more‑than‑human beings come into view, not just as metaphors but as entities whose suffering and survival are tightly bound up with ours. This section invites a different kind of listening: how we might try to speak for others without drowning them out, and what it would mean to treat exploitation, not just “perspective”, as the core democratic problem.
-
-{% questions { "items": [{"question":"Block 4"}] } %}
-
-returns to bodies, silences, and non‑verbal forms of expression. If you have ever frozen in a plenary, found it easier to speak through a drawing or a gesture, or watched someone shut down in a workshop, this block may feel close to home. It gently asks whose ways of communicating are treated as normal in our processes, and whose are read as awkward, excessive, or out of place.
+Block 4 returns to bodies, silences, and non‑verbal forms of expression. If you have ever frozen in a plenary, found it easier to speak through a drawing or a gesture, or watched someone shut down in a workshop, this block may feel close to home. It gently asks whose ways of communicating are treated as normal in our processes, and whose are read as awkward, excessive, or out of place.
 
 You do not need to agree with every claim in order to stay with this text. It may work best if you read slowly, pausing to notice where you feel recognition, resistance, or fatigue. You might even choose to read it with others (practitioners, participants, students) and treat your reactions as part of the very democratic capabilities the interview is trying to name.
 
