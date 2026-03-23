@@ -184,6 +184,8 @@ LP: I’m thinking mainly about our recent pilots. Anna, for example, highlighte
 
 I remember observing a citizens’ jury that used standard tools like post‑its and flipcharts. Some younger participants looked disengaged. I’m speculating, but it felt as if the methods were not reaching them. This resonates with my experience of teaching: people learn and participate differently, and they reach their potential through different modes.
 
+{% quote %}Silence and listening are also important. Techniques like “think–pair–share” are useful scaffolds{% endquote %}
+
 Silence and listening are also important. Techniques like “think–pair–share” are useful scaffolds: first individual reflection time, then discussion in pairs, and only then optional sharing in the wider group. That is very different from throwing people straight into plenary debate.
 
 On a personal note, I’m not confident in spontaneous interaction. I dislike Q&A sessions after talks. In meetings, I am more likely to write in the chat than to unmute, because I need time to process and articulate. That is just how I am. The key is to account for this diversity and support people to participate in ways that work for them.

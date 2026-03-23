@@ -190,6 +190,8 @@ LP: Pienso principalmente en nuestros recientes proyectos piloto. Anna, por ejem
 
 Recuerdo haber observado un jurado ciudadano que utilizaba herramientas estándar como post-its y rotafolios. Algunos participantes más jóvenes parecían desconectados. Es una especulación, pero me dio la sensación de que los métodos no les llegaban. Esto coincide con mi experiencia como docente: las personas aprenden y participan de manera diferente, y alcanzan su potencial a través de diferentes modalidades.
 
+{% quote %}El silencio y la escucha también son importantes. Técnicas como «pensar-emparejar-compartir» son andamios útiles{% endquote %}
+
 El silencio y la escucha también son importantes. Técnicas como «pensar-emparejar-compartir» son andamios útiles: primero un tiempo de reflexión individual, luego un debate en parejas y solo entonces un intercambio opcional en el grupo más amplio. Eso es muy diferente a lanzar a la gente directamente a un debate plenario.
 
 A título personal, no me fío de la interacción espontánea. No me gustan las sesiones de preguntas y respuestas tras las charlas. En las reuniones, soy más propenso a escribir en el chat que a activar el micrófono, porque necesito tiempo para procesar y articular. Así soy yo. La clave es tener en cuenta esta diversidad y apoyar a las personas para que participen de la forma que mejor les funcione.
