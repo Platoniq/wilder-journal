@@ -7,7 +7,7 @@ date: 2026-03-23T15:38:00.000+01:00
 date-updated: 2026-03-23T15:38:00.000+01:00
 article-order: 14
 uid: Democracy-Empty-Fragile
-title: Deliberation Without Integrity Is Empty. Democracy Without Care Is Fragile.
+title: Deliberation without integrity is empty, democracy without care is fragile
 description: Deliberation Without Integrity Is Empty. Democracy Without Care Is Fragile.
 author: Olivier Schulbaum
 author_uids:
