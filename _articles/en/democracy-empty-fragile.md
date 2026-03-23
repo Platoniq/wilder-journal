@@ -16,7 +16,7 @@ interviewee: Lucy J Parry
 cover:
   path: /media/articles/heroes/image01.jpg
   mobile: /media/articles/mobile/image01.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/image01.jpg
 related_article_uids:
   - amber-huff
   - crowdfunding-historical-memory-common-good
