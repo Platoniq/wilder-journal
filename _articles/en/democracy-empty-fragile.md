@@ -102,21 +102,21 @@ LP: The [Capabilities Approach](https://plato.stanford.edu/entries/capability-ap
 
 We build on that tradition. The capabilities we identify in INSPIRE emerge from empirical analysis of pilot data and interviews. We do not try to separate “purely individual” from “purely collective” capabilities. Instead, we treat them as both individual and collective, often relational, and mutually constitutive. In practice they are hard to disentangle, even if you can do so analytically. Importantly, we do not see the capabilities we identify as a universal list. Determining which capabilities are relevant should ultimately be shaped by the communities involved in a participatory process, and different contexts will produce different formulations.
 
-[Sen also emphasises democratic deliberation](https://www.tandfonline.com/doi/full/10.1080/14649880500120491) in identifying capabilities: affected groups should deliberate about what they have reason to value. That contrasts with Nussbaum’s list of central capabilities, which is presented as more universal. Many authors, including Sen, argue that capabilities vary by context, community, priorities, and needs.
+[Sen also emphasises democratic deliberation](https://www.tandfonline.com/doi/full/10.1080/14649880500120491) in identifying capabilities: affected groups should deliberate about what they have reason to value. That contrasts with [Nussbaum’s list of central capabilities](https://www.cambridge.org/core/books/women-and-human-development/58D8D2FBFC1C9E902D648200C4B7009E), which is presented as more universal. Many authors, including Sen, argue that capabilities vary by context, community, priorities, and needs.
 
 We lean toward this contextual side. The eleven capabilities we identify we call the INSPIRE democratic capabilities, precisely because we do not assume they are universal. We see them as context‑dependent and dynamic, changing over time. Some are probably widely relevant, and some align with other empirical and theoretical work, but we are building on an existing tradition rather than claiming to invent something from scratch.
 
 There is also work on capabilities in higher education in the Global South that shows how context matters. Carmen Martinez-Vargas identifies in her research, an Ubuntu capability among university students in South Africa, clearly a collective capability, and discusses colonial “conversion factors” that shape how students develop civic capabilities. That illustrates why context is so important – not only in identifying capabilities but in centring 
 
-OS: A more personal question: what is your favourite capability? Not a top three, just one. And which capability is most fragile in contexts of marginalisation, participation fatigue, or mistrust? Maybe also the most “dangerous” for public authorities to be confronted with.
+**OS: A more personal question: what is your favourite capability? Not a top three, just one. And which capability is most fragile in contexts of marginalisation, participation fatigue, or mistrust? Maybe also the most “dangerous” for public authorities to be confronted with.**
 
 LP: I’ll start with the most fragile: consequential participation. It connects most directly to what happens beyond the process. It is crucial for sustaining participation because it is about feeling that one’s participation has meaning and visible consequences, which is an important component of agency. Yet it depends on many external factors and actors, which makes it fragile. The consequences also have to be tangible and meaningful in people’s lives. This fragility is not surprising; it is a core concern across the field of democratic innovation.
 
-My favourite capability is probably collective care. There is a rich literature on feminist ethics of care and democracy, and your work on safer spaces clearly resonates with it. Collective care underpins other capabilities such as dignity, safety, community, and solidarity. It is distinctly collective: it concerns care within and across the collective, and it includes organisers as well as participants.
+My favourite capability is probably collective care. There is a rich literature on [feminist ethics of care and democracy,](https://delibdemjournal.org/article/id/1632/) and your work on safer spaces clearly resonates with it. Collective care underpins other capabilities such as dignity, safety, community, and solidarity. It is distinctly collective: it concerns care within and across the collective, and it includes organisers as well as participants.
 
 It also connects with deliberative democratic ideals of mutual respect, listening, and reflexivity, but it is also more than this. I think we need much more care in democratic practices. At the same time, it is fragile. It might be supported by some kind of shared understanding before people start working together, yet it cannot be fully predetermined – it is emergent. You can put enablers in place, but much of it develops through group dynamics, and it is needs to be actively nurtured
 
-OS: Since you mention facilitation: how can facilitation and process design actively support the development of one or two capabilities? And how could we measure whether people have developed them? Do we risk ending up with a checklist – “now I’m democratically capable”?
+**OS: Since you mention facilitation: how can facilitation and process design actively support the development of one or two capabilities? And how could we measure whether people have developed them? Do we risk ending up with a checklist – “now I’m democratically capable”?**
 
 LP: Facilitation and organisation are key to supporting all the capabilities, but in different ways. Some capabilities clearly sit in the facilitation space: democratic dignity; safety and security; collective care; building community; and intersectional solidarity. Others relate more to integration into broader decision‑making: consequential participation; networks and alliances, and those networks are not only with commissioning bodies but also with community organisations around the process.
 
@@ -128,25 +128,25 @@ For this to work, you need a pre‑activity at the start where participants iden
 
 This requires trust, because reflecting on gaps and missed opportunities involves critique. These ideas are still tentative, but the key point is that evaluation must start from what matters to participants themselves.
 
-OS: In our School of Creativity and Democracy project, we were thinking about dialogic capabilities within deliberation, using creative methods. We also wondered if citizens could receive micro‑credentials for capabilities, but that risks turning everything into a checklist. Collective care would be hard to evaluate, though some capabilities might be easier.
+**OS: In our School of Creativity and Democracy project, we were thinking about dialogic capabilities within deliberation, using creative methods. We also wondered if citizens could receive micro‑credentials for capabilities, but that risks turning everything into a checklist. Collective care would be hard to evaluate, though some capabilities might be easier.**
 
 LP: Exactly. The first dialogue should be about what people value and how they want to pursue it.
 
 Those conversations can be sensitive because they touch on what makes participation difficult and what makes people feel excluded. That places a great deal of responsibility on facilitators. It is extremely demanding work.
 
-Non‑human deliberation and legitimacy
+### **Non‑human deliberation and legitimacy**
 
-OS: In your previous research, you argued that non‑human interests could be represented through deliberation. Where do you see the most legitimate, and the riskiest, moments for representing non‑human concerns within a deliberative system?
+**OS: In your previous research, you argued that non‑human interests could be represented through deliberation. Where do you see the most legitimate, and the riskiest, moments for representing non‑human concerns within a deliberative system?**
 
 LP: My views have evolved over time. When I started my PhD, I focused on deliberative systems on representing the interests of other animals, rather than thinking about how to directly bring their experiences and perspectives into deliberation.
 
-Representation itself is a complex concept. I was influenced by Michael Saward’s constructivist account, which centres on representative claims. On that view, even if your cat is physically in the room expressing preferences, you as a human are still representing those preferences when you interpret and communicate them. Representation becomes broader than more formal substantive representation, such as an MP speaking for the cat in parliament.
+Representation itself is a complex concept. I was influenced by [Michael Saward’s constructivist account](https://academic.oup.com/book/4669), which centres on representative claims. On that view, even if your cat is physically in the room expressing preferences, you as a human are still representing those preferences when you interpret and communicate them. Representation becomes broader than more formal substantive representation, such as an MP speaking for the cat in parliament.
 
 What I am trying to do now with my colleagues Claudia Fernandez de Cordoba Farini, Hans Asenbaum and Graham Smith, is to map dimensions of “more‑than‑human” democratic innovation. We are interested in understanding the type and extent of engagement: formal proxy representation; perspective‑taking or “presencing” that tries to make more‑than‑human experiences present; immersive or speculative texts; AI‑mediated approaches; and other methods. Another important point concerns relationality: decentring humans and emphasising entanglement with the more‑than‑human world. And throughout, there is an ongoing work of reimagining: reimagining the role of more‑than‑humans in democracy, and reimagining democratic processes by orienting ourselves to more‑than‑human perspectives.
 
 The practices we look at are extremely diverse, often located outside formal policymaking – in arts, cultural institutions, activism; but we do not want to discount them as democratic innovations, because they help reimagine what counts as democracy and who counts as  democratic subjects and agents. There is a broader constellation of people and projects now working in this area, and practice is developing rapidly. It’s one to watch.
 
-OS: I think legislative theatre and embodied methodologies might help rebalance power and open space for non‑human participation, even if it is mediated.
+**OS: I think legislative theatre and embodied methodologies might help rebalance power and open space for non‑human participation, even if it is mediated.**
 
 LP: Yes, and that brings us to legitimacy, which is really at the heart of these questions. When people talk about representation, they often mean legitimacy. The core questions are: how can you know what another species wants, and how can you legitimately claim to represent it? What counts as expertise? What counts as a valid knowledge claim? These are questions of legitimacy. In a paper I’m working on, I try to stretch the concept of democratic legitimacy. If we think of legitimacy as the justification of decisions, then representation usually relies on authorisation and accountability – and both are challenging for more‑than‑human entities. Instead, I propose several forms of legitimacy.
 
@@ -154,7 +154,7 @@ First, epistemic legitimacy: the inclusiveness and robustness of the knowledge c
 
 Second, agential legitimacy: the extent to which other species are recognised as political or democratic agents, not merely as passive subjects or objects.
 
-Third, procedural legitimacy: the fairness of the deliberative or participatory process in meaningfully including more‑than‑human considerations, and the extent to which facilitation supports reflexivity and “other‑directedness,” because orienting ourselves beyond the human does not come naturally and must be cultivated.
+Third, procedural legitimacy: the fairness of the deliberative or participatory process in meaningfully including more‑than‑human considerations, and the extent to which facilitation supports reflexivity and “[other‑directedness,](https://www.tandfonline.com/doi/abs/10.1080/09644019908414460)” because orienting ourselves beyond the human does not come naturally and must be cultivated.
 
 Fourth, disruptive legitimacy: the extent to which a process confronts and disrupts the power relations that underpin human exploitation of other animals and ecosystems, and whether it shifts those relations.
 
@@ -162,17 +162,17 @@ This last dimension matters because the most harmful dynamics involve industrial
 
 Simply “seeing suffering” is not enough. It’s necessary but not sufficient. I am not convinced by the argument that “if slaughterhouses had glass walls” then people would naturally change their behaviour. I think this underestimates what is needed for sustained behaviour change but also remains focused on individual behaviour rather than political and economic structures. I see more-than-human democratic innovation as having a dual potential. First, by engaging with more-than-human perspectives, we enhance understanding and awareness of more-than-human experiences and needs. Second, through deliberation, it might be possible to get into the thorny issues of power and politics as well.
 
-OS: And in climate assemblies, most knowledge resources are presented as arguments, not as emotional or cultural triggers. Have you seen examples where cultural or emotional material drives deliberation? For instance, Projects such as Dark Matter Labs’ River Don initiative explore how ecological entities could become part of democratic governance. By experimenting with legal personhood for rivers and relational infrastructures linking communities, ecosystems, and institutions, the project reimagines democratic accountability beyond human stakeholders.
+**OS: And in climate assemblies, most knowledge resources are presented as arguments, not as emotional or cultural triggers. Have you seen examples where cultural or emotional material drives deliberation? For instance, Projects such as [Dark Matter Labs’ River Don initiative](https://festivalofdebate.com/2023/everyday-life-as-a-knot-of-flows-collective-mapping-river-don) explore how ecological entities could become part of democratic governance. By experimenting with legal personhood for rivers and relational infrastructures linking communities, ecosystems, and institutions, the project reimagines democratic accountability beyond human stakeholders.**
 
-LP: Not many, at least not in formal mini‑publics. And we should acknowledge that far‑right movements use emotion and tone very effectively, whereas progressive politics often struggles with that. If non‑human representation happens only through expert framing, it risks reinforcing human‑centred mindsets, so methods and formats matter. I have seen some assemblies include reflective activities such as meditation or guided exercises, but more substantial practices tend to sit outside formal mini‑publics, in arts‑based and long‑term multi‑method interventions. For example, I learned about a project in Belgium withartist Maria Lucia Cruz Correia that is about caring for and with the Zenne River which has been heavily urbanised and is largely now underground. It involves co-sensing and walking with the river and engaging people in artistic and reflective practices. Manyprojects combine scientific evidence with artistic and cultural practices, but they mostly operate outside formal policymaking arenas. The open question is if and how to build bridges between these practices and institutional democratic innovations. 
+LP: Not many, at least not in formal mini‑publics. And we should acknowledge that far‑right movements use emotion and tone very effectively, whereas progressive politics often struggles with that. If non‑human representation happens only through expert framing, it risks reinforcing human‑centred mindsets, so methods and formats matter. I have seen some assemblies include [reflective activities](https://www.publicdeliberation.net/introducing-the-unheard-from-exploitation-and-oppression-to-interconnection-and-regeneration/) such as meditation or guided exercises, but more substantial practices tend to sit outside formal mini‑publics, in arts‑based and long‑term multi‑method interventions. For example, I learned about [a project in Belgium withartist Maria Lucia Cruz Correia that is about caring for and with the Zenne River](https://voiceofnaturekinstitute.org/naturalcontractlab/zenne-river) which has been heavily urbanised and is largely now underground. It involves co-sensing and walking with the river and engaging people in artistic and reflective practices. Manyprojects combine scientific evidence with artistic and cultural practices, but they mostly operate outside formal policymaking arenas. The open question is if and how to build bridges between these practices and institutional democratic innovations. 
 
-OS: Yes, and the rights of nature and legal personhood for rivers in parts of the Pacific are also democratic innovations, but in constitutional and legal arenas rather than process‑focused ones.
+**OS: Yes, and the rights of nature and legal personhood for rivers in parts of the Pacific are also democratic innovations, but in constitutional and legal arenas rather than process‑focused ones.**
 
 LP: Exactly. It is still early days. This field is evolving very quickly.
 
-Non‑verbal and non‑Eurocentric deliberation
+### **Non‑verbal and non‑Eurocentric deliberation**
 
-OS: To close the circle: deliberative theory tends to privilege verbal argument. What can non‑verbal forms of deliberation – silence, gesture, affect, artistic expression – contribute to collective judgement and decision‑making? Have you seen them fully integrated?
+**OS: To close the circle: deliberative theory tends to privilege verbal argument. What can non‑verbal forms of deliberation – silence, gesture, affect, artistic expression – contribute to collective judgement and decision‑making? Have you seen them fully integrated?**
 
 LP: I’m thinking mainly about our recent pilots. Anna, for example, highlighted how important it was to offer different forms of expression, especially for participants processing trauma. It was not only the diversity of modes that mattered, but also the ability for participants to move between modes at their own pace. Again, time is crucial. People need the option to withdraw at points.
 
@@ -184,21 +184,21 @@ On a personal note, I’m not confident in spontaneous interaction. I dislike Q&
 
 In any given mini‑public you will never please everyone. Some people are turned off by PowerPoints; others are uncomfortable with embodied activities. When you and Katie (Rubin) used more embodied methods in our workshop in Lisbon, I often felt uncomfortable and stand awkwardly at the back. And that is fine. Recognising that means ensuring there are multiple ways to engage, even within a single method like legislative theatre. Micro‑techniques can make people feel included, but they require care, responsiveness, and adaptability. You have to notice discomfort and work out what someone might need to feel included. In our integrity work, we also identified responsiveness and adaptability as principles for integrity, because organisers need the capacity to adjust.
 
-OS: That’s a good warning, and it closes the loop: if participants collectively identify the capabilities they want to develop, that’s where diversity becomes explicit. People will value different things, and the methods can follow.
+**OS: That’s a good warning, and it closes the loop: if participants collectively identify the capabilities they want to develop, that’s where diversity becomes explicit. People will value different things, and the methods can follow.**
 
 LP: Yes, and those conversations can be sensitive. They involve naming experiences of exclusion and difficulty. That is a lot of responsibility for facilitators to hold.
 
-OS: Great. I’d like to keep the interview around an hour. I’ll transcribe it, share it with you, and then add some follow‑up questions. If you realise there’s something you forgot, we can come back to it.
+**OS: Great. I’d like to keep the interview around an hour. I’ll transcribe it, share it with you, and then add some follow‑up questions. If you realise there’s something you forgot, we can come back to it.**
 
 LP: Once I see the transcription it might jog my memory, and I can send additional sources.
 
-OS: Perfect. Thank you very much. It was lovely talking to you.
+**OS: Perfect. Thank you very much. It was lovely talking to you.**
 
 LP: Thank you. See you soon.
 
-Final reflection: Physical vs. Cognitive Ableism in Participatory Processes
+### **Final reflection: Physical vs. Cognitive Ableism in Participatory Processes**
 
-Interviewer’s reflection.
+*Interviewer’s reflection.*
 
 Physical and cognitive ableism operate differently in democratic participation, yet both undermine the relational nature of capabilities that Lucy Parry describes. Physical ableism is often visible and infrastructural: it excludes through literal barriers,  inaccessible venues, lack of ramps or quiet rooms, prolonged seating without breaks, or microphones that prioritise standing speakers. In assemblies, this manifests as fatigue for wheelchair users during long sessions, or pain for those with chronic conditions unable to sustain static postures. The harm is immediate and measurable: someone cannot enter the room, or must leave early, turning "consequential participation" into a physical impossibility.
 
