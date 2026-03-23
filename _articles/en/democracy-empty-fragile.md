@@ -15,8 +15,11 @@ author_uids:
 interviewee: Lucy J Parry
 cover:
   path: /media/articles/heroes/image01.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/image01.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - amber-huff
+  - crowdfunding-historical-memory-common-good
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

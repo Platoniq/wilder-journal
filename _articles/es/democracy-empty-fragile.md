@@ -17,7 +17,7 @@ author_uids:
 interviewee: Lucy J Parry
 cover:
   path: /media/articles/heroes/image01.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/image01.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Lucy J Parry
   credits: Lucy J Parry
