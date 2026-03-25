@@ -8,7 +8,7 @@ date-updated: 2026-03-25T18:28:00.000+01:00
 article-order: 20
 uid: Equidad-Digital-Infancia-Adolescencia
 title: Aplicar los círculos de escucha para transformar las políticas digitales
-description: cómo Platoniq llevó la voz de la comunidad al corazón de la Agenda
+description: Cómo Platoniq llevó la voz de la comunidad al corazón de la Agenda
   de Equidad Digital
 author: Cristian Palazzi
 author_uids:
@@ -28,9 +28,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
 ---
-Hay proyectos que consultan. Y hay proyectos que escuchan de verdad. El proceso impulsado por la Fundación Bofill para diseñar una Agenda de Equidad Digital en Cataluña pertenece claramente a la segunda categoría. Y en el centro de esta diferencia está el trabajo de la Fundación Platoniq: una propuesta metodológica y de facilitación que no se limita a recoger opiniones, sino que convierte experiencias vividas en conocimiento colectivo y, finalmente, en política pública.
+Hay proyectos que consultan. Y hay proyectos que escuchan de verdad. El proceso impulsado por la Fundación Bofill para diseñar una Agenda de Equidad Digital en Cataluña pertenece claramente a la segunda categoría. Y en el centro de esta diferencia está el trabajo de la Fundación Platoniq: una propuesta metodológica y de facilitación que no se limitó a recoger opiniones, sino que consiguió transformar experiencias vividas en conocimiento colectivo y, finalmente, en política pública.
 
-Desde el inicio, el encargo se redefine con una decisión que marca todo el proceso. No se trata de construir un manifiesto abstracto ni de levantar una nueva plataforma, sino de integrar la escucha en el ecosistema real de la comunidad educativa y en los espacios donde ya está ocurriendo la conversación . Esta decisión aparentemente operativa es, en realidad, profundamente política: implica entender que la participación no es un evento puntual, sino una infraestructura viva. A partir de aquí, Platoniq diseña un sistema que conecta múltiples realidades —infancia, adolescencia, profesorado, familias, municipios y expertos— en un flujo continuo que va desde la escucha hasta la priorización de recomendaciones . No es una cadena lineal, sino un tejido donde cada voz afecta a las demás.
+Desde el inicio, el encargo se redefinió con una decisión que marcó todo el proceso. No se trataba de construir un manifiesto abstracto ni de levantar una nueva plataforma, sino de integrar la escucha en el ecosistema real de la comunidad educativa y en los espacios donde ya estaba ocurriendo la conversación. Esta decisión, aparentemente operativa, fue en realidad profundamente política: implicaba entender que la participación no era un evento puntual, sino una infraestructura viva. A partir de ahí, Platoniq diseñó un sistema que conectaba múltiples realidades —infancia, adolescencia, profesorado, familias, municipios y expertos— en un flujo continuo que iba desde la escucha hasta la priorización de recomendaciones. No fue una cadena lineal, sino un tejido donde cada voz afectaba a las demás.
 
 ## La innovación invisible: cómo se facilita una conversación
 
@@ -38,19 +38,19 @@ La verdadera innovación del proceso no es solo estructural, sino también relac
 
 {% quote %}Cuando estoy con pantallas soy como un ratón… no pienso, solo miro{% endquote %}
 
-No es una respuesta técnica, ni pretende serlo. Es una imagen que condensa una vivencia. Y es precisamente esa capacidad de abrir espacio a lo simbólico, a lo emocional y a lo ambiguo lo que permite entender qué está pasando realmente en la relación entre infancia y tecnología.
+No fue una respuesta técnica, ni pretendía serlo. Fue una imagen que condensó una vivencia. Y fue precisamente esa capacidad de abrir espacio a lo simbólico, a lo emocional y a lo ambiguo lo que permitió entender qué estaba pasando realmente en la relación entre infancia y tecnología.
 
 ## De los círculos restaurativos a los focus groups
 
-Una de las apuestas más originales del proceso ha sido precisamente adaptar la metodología de círculos de escucha desarrollada por Belinda Hopkins —habitualmente utilizada en contextos restaurativos y educativos para trabajar la convivencia— al diseño de focus groups con infancia y adolescencia. Este desplazamiento metodológico no es menor. Supone pasar de un formato extractivo, donde se “recogen opiniones”, a un espacio de construcción colectiva donde todas las personas tienen derecho a ser escuchadas en igualdad de condiciones, utilizando herramientas como el objeto de la palabra, las rondas y la posibilidad de no intervenir. 
+Una de las apuestas más originales del proceso es precisamente adaptar la metodología de círculos de escucha desarrollada por Belinda Hopkins —habitualmente utilizada en contextos restaurativos y educativos para trabajar la convivencia— al diseño de focus groups con infancia y adolescencia. Este desplazamiento metodológico no es menor. Supone pasar de un formato extractivo, donde se “recogen opiniones”, a un espacio de construcción colectiva donde todas las personas tienen derecho a ser escuchadas en igualdad de condiciones, utilizando herramientas como el objeto de la palabra, las rondas y la posibilidad de no intervenir.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-25-a-las-18.39.31.png","alt":"Dibujos de los jóvenes participantes","caption":"Dibujos de los jóvenes participantes","credits":"Taller para la Fundación Bofill (2026)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-03-25-a-las-18.39.31.png","alt":"Dibujos de los jóvenes participantes","caption":"Dibujos de los jóvenes participantes","credits":"Taller para la Fundación Bofill (2026)"}] } %}
 
-Tal como plantea Hopkins, el círculo garantiza que cada participante pueda expresar su perspectiva única y sentirse escuchado, generando vínculos, confianza y profundidad en las respuestas . Aplicado a este contexto, el resultado es claro: discursos más honestos, menos condicionados por la presión del grupo y mucho más ricos en matices.
+Tal como plantea Hopkins, el círculo garantiza que cada participante pueda expresar su perspectiva única y sentirse escuchado, generando vínculos, confianza y profundidad en las respuestas. Aplicado a este contexto, el resultado es claro: discursos más honestos, menos condicionados por la presión del grupo y mucho más ricos en matices.
 
 ## De lo que se dice a lo que significa
 
-Pero escuchar no es suficiente. El verdadero desafío aparece después: cómo traducir sin simplificar, cómo ordenar sin borrar matices. Una de las aportaciones más sólidas de Platoniq ha sido la capacidad de convertir relatos dispersos en insights estructurados, manteniendo la fidelidad a la experiencia original. El proceso incluye la recogida sistemática de inquietudes, su análisis cualitativo, el contraste con grupos expertos organizados en taskforces temáticas y, finalmente, la priorización de medidas concretas . Es en este punto donde la conversación se convierte en decisión, donde lo vivido empieza a tener consecuencias en el diseño de políticas públicas.
+Pero escuchar no es suficiente. El verdadero desafío aparece después: cómo traducir sin simplificar, cómo ordenar sin borrar matices. Una de las aportaciones más sólidas de Platoniq es la capacidad de convertir relatos dispersos en insights estructurados, manteniendo la fidelidad a la experiencia original. El proceso incluye la recogida sistemática de inquietudes, su análisis cualitativo, el contraste con grupos expertos organizados en taskforces temáticas y, finalmente, la priorización de medidas concretas. Es en este punto donde la conversación se convierte en decisión, donde lo vivido empieza a tener consecuencias en el diseño de políticas públicas.
 
 Una docente lo expresaba con una claridad que atraviesa todo el proceso:
 
@@ -80,7 +80,7 @@ Estas voces no son anecdóticas. Funcionan como indicadores cualitativos de un s
 
 ## De la participación al conocimiento útil
 
-El valor del proceso no se agota en la facilitación. Se consolida en una serie de resultados que dan forma y continuidad a lo recogido: una estrategia metodológica clara, la documentación sistemática de los espacios de escucha, materiales de comunicación que devuelven la voz a la ciudadanía y un informe final donde las propuestas se priorizan y se articulan como recomendaciones de política pública . De este modo, la participación deja de ser un gesto simbólico y se convierte en producción de conocimiento útil.
+El valor del proceso no se agota en la facilitación. Se consolida en una serie de resultados que dan forma y continuidad a lo recogido: una estrategia metodológica clara, la documentación sistemática de los espacios de escucha, materiales de comunicación que devuelven la voz a la ciudadanía y un informe final donde las propuestas se priorizan y se articulan como recomendaciones de política pública. De este modo, la participación deja de ser un gesto simbólico y se convierte en producción de conocimiento útil.
 
 ## Quién define el futuro digital
 
