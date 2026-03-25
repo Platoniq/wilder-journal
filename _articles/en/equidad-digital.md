@@ -6,7 +6,7 @@ published: true
 date: 2026-03-25T18:28:00.000+01:00
 date-updated: 2026-03-25T18:28:00.000+01:00
 article-order: 20
-uid: Equidad-Digital
+uid: Equidad-Digital-Infancia-Adolescencia
 interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
