@@ -26,7 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
 ---
 Hay proyectos que consultan. Y hay proyectos que escuchan de verdad. El proceso impulsado por la Fundación Bofill para diseñar una Agenda de Equidad Digital en Cataluña pertenece claramente a la segunda categoría. Y en el centro de esta diferencia está el trabajo de la Fundación Platoniq: una propuesta metodológica y de facilitación que no se limita a recoger opiniones, sino que convierte experiencias vividas en conocimiento colectivo y, finalmente, en política pública.
 
