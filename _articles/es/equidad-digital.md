@@ -15,7 +15,7 @@ author_uids:
   - cristian-palazzi
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Fund Bofill
   credits: Fund Bofill
