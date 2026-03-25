@@ -44,7 +44,7 @@ No es una respuesta técnica, ni pretende serlo. Es una imagen que condensa una 
 
 Una de las apuestas más originales del proceso ha sido precisamente adaptar la metodología de círculos de escucha desarrollada por Belinda Hopkins —habitualmente utilizada en contextos restaurativos y educativos para trabajar la convivencia— al diseño de focus groups con infancia y adolescencia. Este desplazamiento metodológico no es menor. Supone pasar de un formato extractivo, donde se “recogen opiniones”, a un espacio de construcción colectiva donde todas las personas tienen derecho a ser escuchadas en igualdad de condiciones, utilizando herramientas como el objeto de la palabra, las rondas y la posibilidad de no intervenir. 
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-25-a-las-18.39.31.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-25-a-las-18.39.31.png","alt":"Dibujos de los jóvenes participantes","caption":"Dibujos de los jóvenes participantes","credits":"Taller para la Fundación Bofill (2026)"}] } %}
 
 Tal como plantea Hopkins, el círculo garantiza que cada participante pueda expresar su perspectiva única y sentirse escuchado, generando vínculos, confianza y profundidad en las respuestas . Aplicado a este contexto, el resultado es claro: discursos más honestos, menos condicionados por la presión del grupo y mucho más ricos en matices.
 
