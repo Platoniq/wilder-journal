@@ -7,7 +7,8 @@ date: 2026-03-25T18:28:00.000+01:00
 date-updated: 2026-03-25T18:28:00.000+01:00
 article-order: 20
 uid: Equidad-Digital-Infancia-Adolescencia
-title: Aplicar los círculos de escucha para transformar las políticas digitales
+title: Aplicar los círculos de escucha con infantes y adolescentes para
+  transformar las políticas digitales
 description: Cómo Platoniq llevó la voz de la comunidad al corazón de la Agenda
   de Equidad Digital
 author: Cristian Palazzi
