@@ -48,6 +48,8 @@ Desde el punto de vista del bienestar digital, la evidencia oficial disponible s
 
 En cuanto a la alfabetización mediática, los datos del estudio ICILS 2023 muestran que el alumnado español de 2º de ESO obtuvo 495 puntos en competencia digital, por encima de la media de la Unión Europea, situada en 493, y que España presenta además un índice de aprendizaje sobre uso seguro y responsable de las TIC superior al promedio europeo. Esto sugiere que el sistema educativo avanza en competencias digitales, pero todavía necesita consolidar una alfabetización mediática más profunda, capaz de ir más allá del uso funcional de herramientas e incorporar verificación, lectura crítica de contenidos, comprensión de lógicas algorítmicas y análisis del poder de las plataformas. 
 
+{% gallery { "simple": false, "images": [{"path":"/media/dsc00577.jpg","alt":"Círculo de escucha sobre Bienestar Digital","caption":"Círculo de escucha sobre Bienestar Digital","credits":"Platoniq para la Fundación Bofill (2026)"}] } %}
+
 En conjunto, el diagnóstico permanece necesariamente abierto. Los datos oficiales no describen una juventud pasiva ni tecnófoba, pero tampoco avalan una lectura celebratoria de la digitalización. Lo que muestran es una generación altamente conectada, tempranamente expuesta a plataformas, cada vez más familiarizada con la IA y razonablemente competente en usos digitales básicos, pero todavía atravesada por tensiones importantes en bienestar emocional, autonomía crítica y calidad del acompañamiento educativo.
 
 ### **La innovación invisible: cómo facilitar una conversación que no sabemos donde acaba**
@@ -68,7 +70,7 @@ Así pues, trasladamos la metodología de los círculos de escucha de Belinda Ho
 
 En la práctica, esto se tradujo en dinámicas sencillas pero muy potentes: el uso de un objeto que marca el turno de palabra, las rondas, la posibilidad de hablar o no hacerlo, el respeto por los tiempos, el uso de otros lenguajes como el dibujo o la expresión corporal. Elementos que, lejos de ser formales, ayudaron a equilibrar las voces y a generar un tipo de conversación más pausada, más honesta y, sobre todo, más inclusiva.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-03-25-a-las-18.39.31.png","alt":"Dibujos de los jóvenes participantes","caption":"Dibujos de los jóvenes participantes","credits":"Taller para la Fundación Bofill (2026)"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-03-25-a-las-18.39.31.png","alt":"Dibujos de los jóvenes participantes","caption":"Dibujos de los jóvenes participantes","credits":"Platoniq para la Fundación Bofill (2026"}] } %}
 
 Como plantea Hopkins, el círculo abre la posibilidad de que cada persona pueda expresarse desde su propia experiencia y sentirse realmente escuchada. Y eso cambia muchas cosas. No solo en lo que se dice, sino en cómo se dice y en lo que se permite aparecer. Poco a poco se genera confianza, se aflojan las respuestas más automáticas y emerge algo más auténtico.
 
