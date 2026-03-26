@@ -47,6 +47,8 @@ From the perspective of digital wellbeing, the available official evidence sugge
 
 As for media literacy, data from the ICILS 2023 study show that Spanish pupils in the second year of ESO scored 495 points in digital competence, above the European Union average of 493, and that Spain also has a higher-than-average European rate of learning regarding the safe and responsible use of ICT. This suggests that the education system is making progress in digital skills, but still needs to consolidate a deeper level of media literacy, capable of going beyond the functional use of tools to incorporate verification, critical reading of content, understanding of algorithmic logic and analysis of the power of platforms.
 
+{% gallery { "simple": true, "images": [{"path":"/media/dsc00577.jpg"}] } %}
+
 Overall, the assessment necessarily remains open-ended. Official data do not paint a picture of a passive or technophobic youth, nor do they support an uncritical celebration of digitalisation. What they reveal is a highly connected generation, exposed to platforms from an early age, increasingly familiar with AI and reasonably competent in basic digital skills, yet still grappling with significant challenges regarding emotional wellbeing, critical autonomy and the quality of educational support.
 
 ### **Invisible innovation: how to facilitate a conversation whose outcome we cannot predict**
@@ -57,6 +59,8 @@ It is on this premise that the innovative methodology of the process was designe
 
 Innovative not only because of how it was organised, but also because of how the conversations were facilitated. The conversations that took place drew on listening circle methodologies and restorative practices, which helped to create a different atmosphere where a space was formed in which listening meant more than simply waiting for one’s turn to speak, and where what each person brought with their experience, their doubts and their contradictions had value in itself.
 
+{% quote %}It is in this kind of environment that things begin to emerge that don’t usually come to light. Unexpected phrases, images, intuitions. Living material that rarely surfaces in more rigid or controlled formats{% endquote %}
+
 We were not looking for technical answers, but rather representative experiences that would reveal the symbolic, emotional and ambiguous undercurrents of what is really happening in the relationship between children and technology.
 
 ### **From restorative circles to focus groups**
@@ -64,6 +68,8 @@ We were not looking for technical answers, but rather representative experiences
 We therefore adapted Belinda Hopkins’ listening circles methodology—typically used in educational and restorative contexts—to work with groups of children and adolescents. This involved moving away from the classic focus group format, which is more geared towards ‘extracting’ answers, to create a space where the priority was not so much to obtain information as to construct it collectively amongst all participants.
 
 In practice, this resulted in simple yet very powerful dynamics: the use of an object to indicate whose turn it was to speak, rounds of discussion, the option to speak or remain silent, respect for everyone’s time, and the use of other forms of expression such as drawing or body language. Elements which, far from being formal, helped to balance the voices and generate a more measured, more honest and, above all, more inclusive conversation.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-25-a-las-18.39.31.png"}] } %}
 
 As Hopkins suggests, the circle opens up the possibility for each person to express themselves from their own experience and feel truly heard. And that changes many things. Not only in what is said, but in how it is said and what is allowed to emerge. Little by little, trust is built, the most automatic responses are loosened, and something more authentic emerges.
 
@@ -77,17 +83,27 @@ But listening, on its own, is not enough. The trickiest part comes next: how to 
 
 One teacher expressed it with a clarity that runs through the entire process:
 
+{% quote %}We’re being asked to teach digital skills, but no one had ever asked us before what it’s like for us{% endquote %}
+
 This sentence is not just a criticism; it is also a methodological key. Because the project does not start from answers, but from that prior absence of listening.
 
 ### **Three themes, four tensions**
 
 Throughout the process, major themes emerged that cut across the contemporary digital experience, but always from the perspective of those who feel affected by it. In the realm of **digital wellbeing,** for example, the emotional ambivalence linked to screen use emerges strongly.
 
+{% quote %}When I'm playing, I feel fine, but when I stop, I get angry and I don't know why{% endquote %}
+
 In the field of **artificial intelligence,** the perception is equally complex, far removed from both uncritical enthusiasm and outright rejection.
+
+{% quote %}AI can do my homework, but it doesn’t know if I’ve understood it{% endquote %}
 
 When addressing **media literacy**, the tension between trust and doubt in digital environments becomes evident.
 
+{% quote %}If it’s on the internet, it sounds true… but it isn’t always{% endquote %}
+
 An unexpected theme was the emergence of **techno-anxiety**, an emotional condition that seems like an abstract concept, but which children experience as a concrete, everyday reality.
+
+{% quote %}I’m afraid that soon nothing will be real anymore and AI will destroy everything{% endquote %}
 
 Voices that are not merely anecdotal, but serve as qualitative indicators of a system in transformation—signals that allow us to read what metrics fail to capture.
 
@@ -102,7 +118,9 @@ Their recommendations focus less on grand technological solutions and more on ch
 
 ### **Call for a Citizen Dialogue on technology led by young people**
 
-Inspired by the work of Katie Reid, a specialist in children’s rights and child participation, at Platoniq we believe it is time to truly listen to those who are experiencing the impacts of digital policies first-hand: young people. With this in mind, we propose promoting the *Citizens’ Dialogues (Youth Agora)* as an innovative, safe and representative space where young people from across Catalonia can deliberate, co-create and propose concrete solutions to urgent challenges such as disinformation, cyberbullying, digital anxiety and gender stereotypes.
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-03-26-a-las-9.49.56.png"}] } %}
+
+Inspired by the work of [Katie Reid, a specialist in children’s rights and child participation,](https://journal.platoniq.net/en/wilder-journal-2/interviews/children-participation/) at Platoniq we believe it is time to truly listen to those who are experiencing the impacts of digital policies first-hand: young people. With this in mind, we propose promoting the *Citizens’ Dialogues (Youth Agora)* as an innovative, safe and representative space where young people from across Catalonia can deliberate, co-create and propose concrete solutions to urgent challenges such as disinformation, cyberbullying, digital anxiety and gender stereotypes.
 
 Through this process, we will address four key areas: polarisation and disinformation, cyberbullying and artificial intelligence, digital anxiety, and gender self-perception, with the aim of translating the dialogue into tangible results: training programmes to combat disinformation, proposals for regulating the use of AI among young people, strategies for addressing diversity in digital environments, and gender equality frameworks applied to the digital world.
 

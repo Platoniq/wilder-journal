@@ -59,7 +59,7 @@ A partir de este análisis, desde la Fundación Platoniq defendemos que para ent
 
 Es desde esta premisa se diseñó la metodología innovadora del proceso, orientada a generar contextos de conversación profunda que permitieran ir más allá de las cifras y acceder a la complejidad de estas experiencias.
 
-Innovadora porque no solo por cómo se organizó, sino por cómo se cuidaron las conversaciones. Unas conversaciones que tuvieron lugar tienen en cuenta las metodologías de círculo de escucha y prácticas restaurativas, algo que ayudó a generar un clima distinto donde se fue creando un espacio donde escuchar significaba algo más que esperar el turno de palabra, y donde lo que cada persona traía con su experiencia, sus dudas y sus contradicciones tenía valor en sí mismo. 
+Innovadora no solo por cómo se organizó, sino por cómo se cuidaron las conversaciones. Unas conversaciones que tuvieron lugar tienen en cuenta las metodologías de círculo de escucha y prácticas restaurativas, algo que ayudó a generar un clima distinto donde se fue creando un espacio donde escuchar significaba algo más que esperar el turno de palabra, y donde lo que cada persona traía con su experiencia, sus dudas y sus contradicciones tenía valor en sí mismo. 
 
 {% quote %}En ese tipo de entorno es donde empiezan a aparecer cosas que normalmente no salen. Frases inesperadas, imágenes, intuiciones. Material vivo que difícilmente emerge en formatos más rígidos o dirigidos.{% endquote %}
 
