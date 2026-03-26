@@ -125,3 +125,17 @@ Está en las niñas que describen su relación con las pantallas desde imágenes
 En definitiva, está en todas aquellas voces que rara vez ocupan el centro de los procesos de decisión y que, sin embargo, son las que mejor describen lo que está pasando. 
 
 Como colofón, lo que aportaron los propios jóvenes no se limita a describir problemas. Sus recomendaciones no hablan tanto de grandes soluciones tecnológicas como de cambios en la forma de acompañar el uso digital. Reclaman más espacios para entender qué hacen y por qué lo hacen, no solo normas o prohibiciones. Piden poder hablar abiertamente sobre lo que les pasa con las pantallas, sobre cómo se sienten, sobre lo que les engancha o les incomoda. En el fondo, sus propuestas apuntan a algo sencillo pero profundo: no necesitan más tecnología, sino mejores condiciones para convivir con ella.
+
+### **Llamamiento**
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-26-a-las-9.49.56.png"}] } %}
+
+Desde Platoniq creemos que es el momento de escuchar de verdad a quienes están viviendo en primera persona los impactos de las políticas digitales: la adolescencia. En este sentido proponemos impulsar los *Diálogos Ciudadanos orientados a jóvenes (Youth Agora)* como un espacio innovador, seguro y representativo donde jóvenes de toda Catalunya puedan deliberar, co-crear y proponer soluciones concretas frente a desafíos urgentes como la desinformación, el ciberacoso, la ansiedad digital o los estereotipos de género.
+
+A través de este proceso, abordaremos cuatro grandes ejes: polarización y desinformación, ciberacoso e inteligencia artificial, ansiedad digital y auto-percepción de género, con el objetivo de traducir el diálogo en resultados tangibles: planes de capacitación contra la desinformación, propuestas de regulación del uso de la IA en jóvenes, estrategias de atención a la diversidad en entornos digitales y marcos de equidad de género aplicados al mundo digital. 
+
+**Este es un llamamiento a construir conjuntamente recomendaciones accionables que puedan incorporarse a las políticas públicas, generando un impacto real en la vida de las y los adolescentes.**
+
+Por eso queremos interpelar a todas las organizaciones y redes clave como Digitalfems, Lafede.cat, Fundación Bofill, Xnet, Fundación Ferrer i Guardia, Young IT Girls, Learn to Check o Verificat, así como a todas esas entidades, colectivos y profesionales del ámbito tecnológico, educativo y social, a sumarse a esta iniciativa. 
+
+Es el momento de tejer alianzas y activar una inteligencia colectiva capaz de construir un ecosistema digital más justo, inclusivo y democrático para las nuevas generaciones.
