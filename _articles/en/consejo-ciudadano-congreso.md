@@ -7,10 +7,15 @@ date: 2026-03-27T16:01:00.000+01:00
 date-updated: 2026-03-27T16:01:00.000+01:00
 article-order: 4
 uid: consejo-ciudadano-congreso
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-27-a-las-16.04.24.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - asamblea-ciudadana-españa
+  - colombia-comparte-tu-rollo
+  - culture-creativity-and-deliberation-methodologies
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
