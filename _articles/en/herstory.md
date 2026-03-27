@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/whatsapp-image-2026-03-10-at-15.48.43.jpeg
+  path: /media/articles/social/captura-de-pantalla-2026-03-27-a-las-11.27.18.png
 ---
 There are stories that are missing, not because they did not exist, but because they were silenced, fragmented or archived without words to name them. This conversation with ***Núria Ferran Ferrer*** takes place on that threshold: the place where memory ceases to be a repository of the past and becomes a living practice of justice, care and democratic responsibility. We ask ourselves what it means today to narrate with advanced technologies (such as artificial intelligence) without renouncing a feminist, situated and deeply political perspective. It is not just a matter of recovering data, but of **accompanying memories**, of reconstructing links between lives, silences and power structures that still affect us today.
 

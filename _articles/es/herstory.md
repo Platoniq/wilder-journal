@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/whatsapp-image-2026-03-10-at-15.48.43.jpeg
+  path: /media/articles/social/captura-de-pantalla-2026-03-27-a-las-11.27.18.png
 ---
 Hay historias ausentes, no porque no existieron, sino porque fueron silenciadas, fragmentadas o archivadas sin palabras para nombrarlas. Esta conversación con ***Núria Ferran Ferrer*** se sitúa en ese umbral: el lugar donde la memoria deja de ser un depósito del pasado y se convierte en una práctica viva de justicia, cuidado y responsabilidad democrática. Nos preguntarmos qué implica hoy narrar con tecnologías avanzadas (como la inteligencia artificial) sin renunciar a una mirada feminista, situada y profundamente política. No se trata solo de recuperar datos, sino de **acompañar memorias**, de reconstruir vínculos entre vidas, silencios y estructuras de poder que todavía nos atraviesan.
 
