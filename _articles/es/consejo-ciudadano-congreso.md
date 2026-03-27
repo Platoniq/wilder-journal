@@ -7,8 +7,8 @@ date: 2026-03-27T16:01:00.000+01:00
 date-updated: 2026-03-27T16:01:00.000+01:00
 article-order: 4
 uid: consejo-ciudadano-congreso
-title: "De la deliberación a la institución: una propuesta para reforzar la
-  democracia en España"
+title: "Reforzar la democracia desde la deliberación: claves de la comparecencia
+  de la Fundación Platoniq en el Congreso"
 description: La comparecencia de la Fundación Platoniq en la Comisión para la
   Auditoría de la Calidad Democrática del Congreso de los Diputados, el pasado
   17 de marzo, se situó desde el inicio en una tradición sólida del pensamiento
@@ -35,23 +35,25 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/captura-de-pantalla-2026-03-27-a-las-16.04.24.png
 ---
-Comparecimos en la Comisión para la Auditoría de la Calidad Democrática del Congreso de los Diputados, el pasado 17 de marzo, se situó desde el inicio en una tradición sólida del pensamiento democrático contemporáneo.
+Comparecimos en la Comisión para la Auditoría de la Calidad Democrática del Congreso de los Diputados, el pasado 17 de marzo, para presentar nuestra propuesta de Consejo Ciudadano permanente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DHGOTX1BT8o?si=oyPtRTTDpZ4H9WEb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-La intervención evocó la figura de Jürgen Habermas para recordar una idea que resulta hoy especialmente pertinente: la legitimidad democrática no se sostiene únicamente en el acto electoral, sino en la calidad de los procesos de deliberación pública que lo preceden. 
+Primero recordando la figura de Jürgen Habermas, que resulta hoy especialmente pertinente: la legitimidad democrática no se sostiene únicamente en el acto electoral, sino en la calidad de los procesos de deliberación pública que lo preceden. 
 
-Este enfoque implica entender la democracia no como un sistema que se activa periódicamente, sino como una práctica continua en la que la ciudadanía participa en la construcción de lo común. Desde esta perspectiva, la calidad democrática no puede medirse exclusivamente a través de indicadores electorales, sino también a partir de la densidad, inclusión y efectividad de los procesos participativos.
-
-La intervención se alineó así con marcos internacionales, como los desarrollados por la OCDE, que subrayan que la participación ciudadana bien diseñada contribuye a mejorar la legitimidad de las decisiones públicas, fortalecer la confianza institucional e integrar conocimiento social distribuido en la elaboración de políticas. 
+Y que una participación ciudadana bien diseñada contribuye a mejorar la legitimidad de las decisiones públicas, fortalecer la confianza institucional e integrar conocimiento social distribuido en la elaboración de políticas. 
 
 ## **Casos presentes: experiencias que ya están transformando la democracia**
 
-A partir de este marco, la comparecencia incorporó referencias a experiencias actuales que muestran cómo la deliberación ciudadana puede integrarse de manera efectiva en el funcionamiento institucional.
+A partir de este marco, la comparecencia incorpora referencias a experiencias actuales que muestran cómo la deliberación ciudadana puede integrarse de manera efectiva en el funcionamiento institucional:
 
-En la región de Ostbelgien, en Bélgica, se ha creado un Consejo Ciudadano permanente vinculado al Parlamento regional, encargado de activar procesos deliberativos de forma recurrente. En Irlanda, las asambleas ciudadanas han desempeñado un papel relevante en la articulación de reformas constitucionales de gran impacto. En Finlandia, iniciativas como Open Ministry han permitido que la ciudadanía participe directamente en procesos legislativos con efectos concretos. 
+Ostbelgien, en Bélgica, y su Consejo Ciudadano vinculado al Parlamento regional, encargado de activar procesos deliberativos de forma recurrente. 
 
-Estos casos comparten una característica fundamental: la deliberación no se concibe como un ejercicio puntual, sino como una infraestructura estable que articula la relación entre ciudadanía e instituciones.
+Irlanda, donde las asambleas ciudadanas han desempeñado un papel relevante en la articulación de reformas constitucionales.
+
+Y, por último, Open Ministry, en Finlandia, han permitido que la ciudadanía participe directamente en procesos legislativos con efectos concretos. 
+
+Comparten una característica fundamental: la deliberación no se concibe como un ejercicio puntual, sino como una infraestructura estable que articula la relación entre ciudadanía e instituciones.
 
 En el contexto español, la comparecencia también puso en valor la existencia de herramientas y experiencias relevantes, como las plataformas Decidim y Consul, así como metodologías participativas basadas en prácticas culturales. Estas iniciativas demuestran que existe una base sobre la que construir modelos más ambiciosos de participación democrática. 
 
