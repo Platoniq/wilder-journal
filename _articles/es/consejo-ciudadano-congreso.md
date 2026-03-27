@@ -47,11 +47,7 @@ Y que una participación ciudadana bien diseñada contribuye a mejorar la legiti
 
 A partir de este marco, la comparecencia incorpora referencias a experiencias actuales que muestran cómo la deliberación ciudadana puede integrarse de manera efectiva en el funcionamiento institucional:
 
-
-
 {% numbers { "items": [{"label":"Ostbelgien, en Bélgica, y su Consejo Ciudadano vinculado al Parlamento regional, encargado de activar procesos deliberativos de forma recurrente. ","number":"1"}] } %}
-
-
 
 {% numbers { "items": [{"label":"Irlanda, donde las asambleas ciudadanas han desempeñado un papel relevante en la articulación de reformas constitucionales.","number":"2"}] } %}
 
@@ -80,3 +76,5 @@ Este órgano estaría compuesto por ciudadanía seleccionada mediante sorteo cí
 La propuesta plantea avanzar hacia un modelo en el que la participación ciudadana no sea episódica, sino integrada de forma estable en la arquitectura institucional. Para ello, se considera fundamental garantizar la continuidad de los procesos, la trazabilidad de las aportaciones ciudadanas y la combinación de herramientas digitales con metodologías participativas diversas.
 
 El fortalecimiento de la democracia pasa por reconocer que la inteligencia colectiva de la sociedad constituye un recurso esencial para la toma de decisiones públicas. Integrarla de manera efectiva no es únicamente una cuestión de innovación institucional, sino una condición para garantizar la legitimidad y la resiliencia del sistema democrático en el futuro.
+
+{% file { "title": "Comparencencia completa", "info": "undefined", "file": "media/comparecencia-en-la-comisión-para-la-auditoría-de-la-calidad-democrática-la-lucha-contra-la-corrupción-y-las-reformas-institucionales-y-legales-del-congreso-de-los-diputados-sesión-nº-11-17-03-2026-ok.pdf", "image": "/media/captura-de-pantalla-2026-03-27-a-las-17.53.59.png", "button_text": "Descarga", "button_icon": "", "alt_color": false } %}
