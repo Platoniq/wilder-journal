@@ -79,6 +79,4 @@ Este órgano estaría compuesto por ciudadanía seleccionada mediante sorteo cí
 
 La propuesta plantea avanzar hacia un modelo en el que la participación ciudadana no sea episódica, sino integrada de forma estable en la arquitectura institucional. Para ello, se considera fundamental garantizar la continuidad de los procesos, la trazabilidad de las aportaciones ciudadanas y la combinación de herramientas digitales con metodologías participativas diversas.
 
-Lejos de sustituir a la democracia representativa, este enfoque busca reforzarla, ampliando su capacidad de incorporar conocimiento social y de responder a la complejidad de los desafíos contemporáneos.
-
-La comparecencia concluyó señalando que el fortalecimiento de la democracia pasa por reconocer que la inteligencia colectiva de la sociedad constituye un recurso esencial para la toma de decisiones públicas. Integrarla de manera efectiva no es únicamente una cuestión de innovación institucional, sino una condición para garantizar la legitimidad y la resiliencia del sistema democrático en el futuro.
+El fortalecimiento de la democracia pasa por reconocer que la inteligencia colectiva de la sociedad constituye un recurso esencial para la toma de decisiones públicas. Integrarla de manera efectiva no es únicamente una cuestión de innovación institucional, sino una condición para garantizar la legitimidad y la resiliencia del sistema democrático en el futuro.
