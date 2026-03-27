@@ -61,15 +61,13 @@ La deliberación cómo infraestructura estable que articula la relación entre c
 
 ## **Análisis: límites actuales de la participación democrática**
 
-Primero señalar la existencia de una brecha entre participación e influencia real en las decisiones públicas. Aunque se han multiplicado los canales participativos, no siempre existe una conexión clara entre las aportaciones ciudadanas y su impacto en el proceso político. Esta desconexión contribuye a generar frustración y debilita la confianza en las instituciones. 
+Existe una brecha entre participación e influencia real en las decisiones públicas. Y aunque se han multiplicado los canales participativos, no siempre existe una conexión clara entre las aportaciones ciudadanas y su impacto en el proceso político. Esta desconexión contribuye a generar frustración y debilita la confianza en las instituciones. 
 
 Los datos refuerzan esta lectura. Solo un 22,5 % de la población ha participado activamente en política en el último año, pese a que más del 80 % estaría dispuesta a implicarse si tuviera la oportunidad.   Esta diferencia no apunta a una falta de interés, sino a una insuficiencia en el diseño de los mecanismos existentes.
 
 En segundo lugar, destacar la necesidad de reforzar la cultura democrática. La participación efectiva requiere capacidades que no siempre están suficientemente desarrolladas, especialmente entre los sectores más jóvenes. La democracia implica competencias como la deliberación, la escucha y la construcción colectiva de soluciones, que deben ser aprendidas y practicadas.
 
-En tercer lugar, subrayar la importancia de diversificar los formatos de participación. Las formas tradicionales no siempre resultan accesibles o significativas para todos los sectores sociales. La incorporación de metodologías basadas en prácticas culturales, como el teatro legislativo, permite ampliar los lenguajes de la deliberación y facilitar la implicación de públicos más diversos. 
-
-En conjunto, estos elementos apuntan a la necesidad de superar una concepción puntual y fragmentada de la participación para avanzar hacia un enfoque estructural.
+En tercer lugar, subrayar la importancia de diversificar los formatos de participación. Las formas tradicionales no siempre resultan accesibles o significativas para todos los sectores sociales. La incorporación de metodologías basadas en prácticas culturales, como el teatro legislativo, permite ampliar los lenguajes de la deliberación y facilitar la implicación de públicos más diversos.
 
 ## **Propuesta: hacia un Consejo Ciudadano del Congreso**
 
