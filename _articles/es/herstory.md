@@ -17,7 +17,7 @@ author_uids:
 interviewee: Núria Ferran Ferrer
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-27-a-las-11.27.18.png
-  mobile: /media/articles/mobile/whatsapp-image-2026-03-10-at-15.48.43.jpeg
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-03-27-a-las-11.27.18.png
   thumbnail: /media/articles/thumbnails/whatsapp-image-2026-03-10-at-15.48.43.jpeg
   alt: Núria Ferran Ferrer
   credits: Núria Ferran Ferrer
