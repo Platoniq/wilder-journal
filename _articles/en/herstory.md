@@ -14,7 +14,7 @@ description: "This conversation with Núria Ferran Ferrer takes place on that
 author: Cristian Palazzi
 interviewee: Núria Ferran Ferrer
 cover:
-  path: /media/articles/heroes/whatsapp-image-2026-03-10-at-15.48.43.jpeg
+  path: /media/articles/heroes/captura-de-pantalla-2026-03-27-a-las-11.27.18.png
   mobile: /media/articles/mobile/whatsapp-image-2026-03-10-at-15.48.43.jpeg
   thumbnail: /media/articles/thumbnails/whatsapp-image-2026-03-10-at-15.48.43.jpeg
   alt: Núria Ferran Ferrer
