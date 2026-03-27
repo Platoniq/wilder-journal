@@ -47,11 +47,15 @@ Y que una participación ciudadana bien diseñada contribuye a mejorar la legiti
 
 A partir de este marco, la comparecencia incorpora referencias a experiencias actuales que muestran cómo la deliberación ciudadana puede integrarse de manera efectiva en el funcionamiento institucional:
 
-Ostbelgien, en Bélgica, y su Consejo Ciudadano vinculado al Parlamento regional, encargado de activar procesos deliberativos de forma recurrente. 
 
-Irlanda, donde las asambleas ciudadanas han desempeñado un papel relevante en la articulación de reformas constitucionales.
 
-Y, por último, Open Ministry, en Finlandia, han permitido que la ciudadanía participe directamente en procesos legislativos con efectos concretos. 
+{% numbers { "items": [{"label":"Ostbelgien, en Bélgica, y su Consejo Ciudadano vinculado al Parlamento regional, encargado de activar procesos deliberativos de forma recurrente. ","number":"1"}] } %}
+
+
+
+{% numbers { "items": [{"label":"Irlanda, donde las asambleas ciudadanas han desempeñado un papel relevante en la articulación de reformas constitucionales.","number":"2"}] } %}
+
+{% numbers { "items": [{"label":"Y, por último, Open Ministry, en Finlandia, han permitido que la ciudadanía participe directamente en procesos legislativos con efectos concretos. ","number":"3"}] } %}
 
 Comparten una característica fundamental: la deliberación no se concibe como un ejercicio puntual, sino como una infraestructura estable que articula la relación entre ciudadanía e instituciones.
 
