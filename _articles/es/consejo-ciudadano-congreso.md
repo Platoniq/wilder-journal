@@ -57,9 +57,7 @@ A partir de este marco, la comparecencia incorpora referencias a experiencias ac
 
 {% numbers { "items": [{"label":"Y, por último, Open Ministry, en Finlandia, han permitido que la ciudadanía participe directamente en procesos legislativos con efectos concretos. ","number":"3"}] } %}
 
-Comparten una característica fundamental: la deliberación no se concibe como un ejercicio puntual, sino como una infraestructura estable que articula la relación entre ciudadanía e instituciones.
-
-En el contexto español, la comparecencia también puso en valor la existencia de herramientas y experiencias relevantes, como las plataformas Decidim y Consul, así como metodologías participativas basadas en prácticas culturales. Estas iniciativas demuestran que existe una base sobre la que construir modelos más ambiciosos de participación democrática. 
+La deliberación cómo infraestructura estable que articula la relación entre ciudadanía e instituciones, apoyada por plataformas como Decidim y Consul, demostrando que las prácticas culturales son participación democrática. 
 
 ## **Análisis: límites actuales de la participación democrática**
 
