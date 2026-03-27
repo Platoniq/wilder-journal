@@ -73,7 +73,7 @@ En tercer lugar, subrayar la importancia de diversificar los formatos de partici
 
 {% gallery { "simple": false, "images": [{"path":"/media/home_delib.png","alt":"Logo de la Red Delib","caption":"Logo de la Red Delib","credits":"Red Ibérica de organizaciones y personas que impulsan y promueven la democracia deliberativa"}] } %}
 
-La Fundación Platoniq propone explorar la creación de un Consejo Ciudadano del Congreso de los Diputados como infraestructura democrática permanente.
+**Proponemos explorar la creación de un Consejo Ciudadano del Congreso de los Diputados. Un órgano permanente donde ciudadanos y ciudadanas seleccionados mediante sorteo cívico pudieran definir una agenda de deliberación pública sobre cuestiones públicas complejas mediante la convocatoria de asambleas o diálogos ciudadanos, que trasladen de manera vinculante sus recomendaciones (al menos para ser debatidas y votadas) a las comisiones parlamentarias correspondientes.**
 
 Este órgano estaría compuesto por ciudadanía seleccionada mediante sorteo cívico y tendría la función de activar procesos deliberativos sobre cuestiones públicas relevantes, definiendo agendas de trabajo y trasladando sus recomendaciones al Parlamento para su consideración en el proceso legislativo. 
 
