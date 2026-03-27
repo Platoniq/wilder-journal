@@ -55,7 +55,7 @@ A partir de este marco, la comparecencia incorpora referencias a experiencias ac
 
 {% numbers { "items": [{"label":"Irlanda, donde las asambleas ciudadanas han desempeñado un papel relevante en la articulación de reformas constitucionales.","number":"2"}] } %}
 
-{% numbers { "items": [{"label":"Y, por último, Open Ministry, en Finlandia, han permitido que la ciudadanía participe directamente en procesos legislativos con efectos concretos. ","number":"3"}] } %}
+{% numbers { "items": [{"label":"Open Ministry, en Finlandia, ha permitido que la ciudadanía participe directamente en procesos legislativos con efectos concretos. ","number":"3"}] } %}
 
 La deliberación cómo infraestructura estable que articula la relación entre ciudadanía e instituciones, apoyada por plataformas como Decidim y Consul, demostrando que las prácticas culturales son participación democrática. 
 
