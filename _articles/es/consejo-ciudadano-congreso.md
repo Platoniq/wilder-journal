@@ -7,8 +7,8 @@ date: 2026-03-27T16:01:00.000+01:00
 date-updated: 2026-03-27T16:01:00.000+01:00
 article-order: 4
 uid: consejo-ciudadano-congreso
-title: "Reforzar la democracia desde la deliberación: claves de la comparecencia
-  de la Fundación Platoniq en el Congreso"
+title: "Propuesta de Consejo Ciudadano permanente: reforzar la democracia a
+  través de la participación"
 description: La comparecencia de la Fundación Platoniq en la Comisión para la
   Auditoría de la Calidad Democrática del Congreso de los Diputados, el pasado
   17 de marzo, se situó desde el inicio en una tradición sólida del pensamiento
