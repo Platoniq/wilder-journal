@@ -47,11 +47,9 @@ Y que una participación ciudadana bien diseñada contribuye a mejorar la legiti
 
 A partir de este marco, la comparecencia incorpora referencias a experiencias actuales que muestran cómo la deliberación ciudadana puede integrarse de manera efectiva en el funcionamiento institucional:
 
-1) Ostbelgien, en Bélgica, y su Consejo Ciudadano vinculado al Parlamento regional, encargado de activar procesos deliberativos de forma recurrente. 
-
-2) Irlanda, donde las asambleas ciudadanas han desempeñado un papel relevante en la articulación de reformas constitucionales.
-
-3) Open Ministry, en Finlandia, ha permitido que la ciudadanía participe directamente en procesos legislativos con efectos concretos. Un ejemplo de cómo la deliberación puede convertirse en infraestructura estable, apoyada por plataformas digitales de participación demostrando que las prácticas culturales son también prácticas democráticas.
+1. Ostbelgien, en Bélgica, y su Consejo Ciudadano vinculado al Parlamento regional, encargado de activar procesos deliberativos de forma recurrente. 
+2. Irlanda, donde las asambleas ciudadanas han desempeñado un papel relevante en la articulación de reformas constitucionales.
+3. Open Ministry, en Finlandia, ha permitido que la ciudadanía participe directamente en procesos legislativos con efectos concretos. Un ejemplo de cómo la deliberación puede convertirse en infraestructura estable, apoyada por plataformas digitales de participación demostrando que las prácticas culturales son también prácticas democráticas.
 
 ## **Límites actuales de la participación democrática**
 
@@ -73,4 +71,4 @@ La propuesta plantea avanzar hacia un modelo en el que la participación ciudada
 
 El fortalecimiento de la democracia pasa por reconocer que la inteligencia colectiva de la sociedad constituye un recurso esencial para la toma de decisiones públicas. Integrarla de manera efectiva no es únicamente una cuestión de innovación institucional, sino una condición para garantizar la legitimidad y la resiliencia del sistema democrático en el futuro.
 
-{% file { "title": "Lee la comparencencia completa", "info": "Fundación Platoniq", "file": "/media/comparecencia-en-la-comisión-para-la-auditoría-de-la-calidad-democrática-la-lucha-contra-la-corrupción-y-las-reformas-institucionales-y-legales-del-congreso-de-los-diputados-sesión-nº-11-17_03_2026-okcia.pdf", "image": "/media/captura-de-pantalla-2026-03-27-a-las-17.53.59.png", "button_text": "Descarga", "button_icon": "", "alt_color": false } %}
+{% file { "title": "Lee la comparencencia completa", "info": "Fundación Platoniq", "file": "media/comparecencia-en-la-comisión-para-la-auditoría-de-la-calidad-democrática-la-lucha-contra-la-corrupción-y-las-reformas-institucionales-y-legales-del-congreso-de-los-diputados-sesión-nº-11-17_03_2026-okcia.pdf", "image": "/media/captura-de-pantalla-2026-03-27-a-las-17.53.59.png", "button_text": "Descarga", "button_icon": "", "alt_color": false } %}
