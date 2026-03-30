@@ -7,6 +7,15 @@ date: 2026-03-27T16:01:00.000+01:00
 date-updated: 2026-03-27T16:01:00.000+01:00
 article-order: 4
 uid: consejo-ciudadano-congreso
+title: Proposal for a permanent Citizens’ Council to strengthen democracy
+  through participation
+description: The Platoniq Foundation’s appearance before the Committee on the
+  Audit of Democratic Quality of the Congress of Deputies on 17 March was, from
+  the outset, firmly rooted in a long-standing tradition of contemporary
+  democratic thought.
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-27-a-las-16.04.24.png
