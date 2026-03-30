@@ -43,7 +43,6 @@ Building on this framework, the presentation included references to current expe
 
 The data reinforces our interpretation. Only 22.5% of the population has actively participated in politics in the last year, despite the fact that over 80% would be willing to get involved if given the opportunity. This discrepancy does not point to a lack of interest, but rather to a shortcoming in the design of existing mechanisms. We therefore propose an analysis based on three main areas of action:
 
-
 **Firstly,** the gap between participation and real influence on public decisions. Although participatory channels have multiplied, we argue that there is not always a clear connection between citizens’ contributions and their impact on the political process. A disconnect that, in the long run, contributes to frustration and undermines trust in institutions. This is something we must avoid at all costs.
 
 **Secondly,** we highlight the need to strengthen democratic culture through applied education. Effective participation requires skills that are not always sufficiently developed, particularly among younger people. Democracy involves competencies such as deliberation, listening and the collective development of solutions, which must be learnt and practised.
@@ -58,7 +57,6 @@ This body would be composed of citizens selected by civic lottery and would have
 
 The proposal aims to move towards a model in which citizen participation is not sporadic, but rather stably integrated into the institutional framework. To this end, it is considered essential to ensure the continuity of processes, the traceability of citizens’ contributions, and the combination of digital tools with diverse participatory methodologies.
 
-
 Strengthening democracy requires recognising that society’s collective intelligence constitutes an essential resource for public decision-making. Integrating it effectively is not merely a matter of institutional innovation, but a prerequisite for ensuring the legitimacy and resilience of the democratic system in the future.
 
-{% file { "title": "Read the full statement", "info": "Fundación Platoniq", "file": "media/comparecencia-en-la-comisión-para-la-auditoría-de-la-calidad-democrática-la-lucha-contra-la-corrupción-y-las-reformas-institucionales-y-legales-del-congreso-de-los-diputados-sesión-nº-11-17_03_2026-okcia.pdf", "image": "/media/captura-de-pantalla-2026-03-30-a-las-20.02.52.png", "button_text": "Descarga", "button_icon": "", "alt_color": false } %}
+{% file { "title": "Read the full statement", "info": "Fundación Platoniq", "file": "media/comparecencia-en-la-comisión-para-la-auditoría-de-la-calidad-democrática-la-lucha-contra-la-corrupción-y-las-reformas-institucionales-y-legales-del-congreso-de-los-diputados-sesión-nº-11-17_03_2026-okcia.pdf", "image": "media/statement-by-cristian-palazzi-platoniq-foundation-before-the-committee-on-the-audit-of-democratic-quality-the-fight-against-corruption-and-institutional-and-legal-reforms-of-the-congress-of-deputies-session-no.pdf", "button_text": "Descarga", "button_icon": "", "alt_color": false } %}
