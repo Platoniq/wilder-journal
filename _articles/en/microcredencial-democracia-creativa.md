@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-12-23T08:38:00.000+01:00
 date-updated: 2025-12-23T08:38:00.000+01:00
-article-order: 1
+article-order: 2
 uid: microcredencial-democracia-creativa
 title: Learning democracy in uncertain times
 description: Learning democracy in uncertain times
