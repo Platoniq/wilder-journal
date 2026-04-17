@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2026-03-27T16:01:00.000+01:00
 date-updated: 2026-03-27T16:01:00.000+01:00
-article-order: 4
+article-order: 1
 uid: consejo-ciudadano-congreso
 title: Proposal for a permanent Citizens’ Council to strengthen democracy
   through participation
