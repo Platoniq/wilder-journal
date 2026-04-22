@@ -37,7 +37,9 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/captura-de-pantalla-2025-12-02-a-las-20.13.31.png
 ---
-Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista impulsada por Acción Comadres, a propósito del lanzamiento de la campaña en [Goteo](https://www.goteo.org/project/la-nuestra) que quiere hacerla posible. El espacio recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023 y quiere aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia sexual y ofrecer ayudas a las mujeres que lo necesiten.
+Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista impulsada por Acción Comadres, a propósito del lanzamiento de la [segunda campaña en Goteo](https://www.goteo.org/project/la-nuestra-despega) que quiere hacerla posible. El espacio recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023 y quiere aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia sexual y ofrecer ayudas a las mujeres que lo necesiten.
+
+\    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra-despega" width="300px" scrolling="no"></iframe>                
 
 ## **El significado de la soberanía digital feminista**
 
@@ -150,8 +152,6 @@ En la tríada verdad, justicia y reparación, la verdad era algo que nos tenían
 Los mecanismos de la justicia no nos están ofreciendo reparación, sino lo contrario: revictimización. Probablemente porque mi reparación pasa por ver publicada mi verdad y ponerme en conversación con otras que han publicado su verdad o que se ven reflejadas en la mía. La verdad de las mujeres es soberana. La verdad de todo ser humano es soberana. Solo faltaría que no tuviéramos derecho a la verdad.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.23.36.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.31.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.46.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.57.png"}] } %}
-
-
 
 El sistema judicial, en cambio, es un sistema opresivo. El sistema judicial nunca nació para dar libertad ni verdad a las mujeres; el sistema judicial nació para controlarnos, controlar nuestro relato y nuestros cuerpos, igual que el sistema policial. No podemos confiar en el sistema judicial. Otra cosa es que lo utilicemos.
 
