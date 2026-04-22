@@ -41,10 +41,6 @@ Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra",
 
 <iframe frameborder="0" height="392px" src="//www.goteo.org/widget/project/la-nuestra-despega" width="200px" scrolling="no"></iframe>
 
-{% file { "title": "La Nuestra despega", "info": "Hazte Fundadora", "file": "https://www.goteo.org/project/la-nuestra-despega", "image": "/media/chatgpt-image-22-abr-2026-07_56_22.png", "button_text": "Colabora!", "button_icon": "", "alt_color": true } %}
-
-
-
 ## **El significado de la soberanía digital feminista**
 
 ### Vosotras describís "La Nuestra" no solo como una página web, sino como un ejercicio de soberanía digital feminista. En un momento en que dependemos tanto de los algoritmos y de esos “tecnofaraones” como Elon Musk o Zuckerberg, ¿por qué es urgente que las mujeres tengamos nuestra propia infraestructura tecnológica?
@@ -178,6 +174,8 @@ Yo sufrí violencia sexual en la infancia, grave, en familia. Y hasta que no le�
 En el momento en que rompemos el silencio, –yo lloré como una bestia–, nos damos cuenta de que no somos un caso excepcional. Dejamos de torturarnos por la noche y pasamos a formar parte de una colectividad que no solo puede dialogar con nosotras, sino que nos despoja de la culpa, de la vergüenza y de esa piedra que tienes en la garganta que te impide contarle al de al lado lo que viviste.
 
 Y ahí, además, hay otra capa: si una abogada va a denunciar eso y tiene doscientos casos más parecidos para justificar ante el juez que es una estrategia de violencia del padre contra la madre, etcétera, ya no es lo mismo que si el juez se lo encuentra aislado y piensa: “Bueno, te casaste con un marciano, carga con ello”. Pasa a convertirse en violencia, en un tipo de violencia. Por eso es importante este tipo de movimientos.
+
+{% file { "title": "La Nuestra despega", "info": "Llámala Revolución", "file": "https://www.goteo.org/project/la-nuestra-despega", "image": "/media/chatgpt-image-22-abr-2026-07_56_22.png", "button_text": "Hazte Fundadora", "button_icon": "", "alt_color": false } %}
 
 ## **Ante la polarización y auge ultraderecha, espacios seguros**
 
