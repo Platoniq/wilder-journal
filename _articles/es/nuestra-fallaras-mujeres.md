@@ -41,6 +41,10 @@ Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra",
 
 <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra-despega" width="300px" scrolling="no"></iframe>
 
+{% file { "title": "La Nuestra despega", "info": "Hazte Fundadora", "file": "https://www.goteo.org/project/la-nuestra-despega", "image": "/media/chatgpt-image-22-abr-2026-07_56_22.png", "button_text": "Colabora!", "button_icon": "", "alt_color": true } %}
+
+
+
 ## **El significado de la soberanía digital feminista**
 
 ### Vosotras describís "La Nuestra" no solo como una página web, sino como un ejercicio de soberanía digital feminista. En un momento en que dependemos tanto de los algoritmos y de esos “tecnofaraones” como Elon Musk o Zuckerberg, ¿por qué es urgente que las mujeres tengamos nuestra propia infraestructura tecnológica?
