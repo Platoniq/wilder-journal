@@ -31,13 +31,13 @@ image:
 ---
 We spoke with **Cristina Fallarás**, journalist and writer, about ‘La Nuestra’, the future collective and testimonial network against gender-based violence promoted by Acción Comadres, in connection with the launch of the campaign on Goteo that aims to make it possible. The space will collect and highlight **the testimonies** that Cristina has gathered since August 2023 and aims to provide a living archive where it is possible to reconstruct the truth about sexual violence and offer help to women in need.
 
+<iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra-despega" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>
+
 ## **The meaning of feminist digital sovereignty**
 
 ### You describe ‘La Nuestra’ not only as a website, but as an exercise in feminist digital sovereignty. At a time when we are so dependent on algorithms and ‘techno-pharaohs’ like Elon Musk and Zuckerberg, why is it urgent for women to have our own technological infrastructure?
 
-It is urgent that we have our own technological infrastructure because data should not be owned by the great pharaohs of technology, and yet it is. We are creating a large archive of testimonies that changes the narrative about ourselves and about violence in general. This is the first time in history that this has been done.
-
-<iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>          
+It is urgent that we have our own technological infrastructure because data should not be owned by the great pharaohs of technology, and yet it is. We are creating a large archive of testimonies that changes the narrative about ourselves and about violence in general. This is the first time in history that this has been done.     
 
 It began in 2017, with MeToo. We are changing what we consider violence and what our position is in the world. It is no coincidence that the first time we all spoke together, the central theme was not fashion or aesthetics, which was ‘our field’ in theory, but sexual violence. 
 

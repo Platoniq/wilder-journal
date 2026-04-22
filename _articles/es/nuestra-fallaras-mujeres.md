@@ -39,16 +39,13 @@ image:
 ---
 Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista impulsada por Acción Comadres, a propósito del lanzamiento de la [segunda campaña en Goteo](https://www.goteo.org/project/la-nuestra-despega) que quiere hacerla posible. El espacio recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023 y quiere aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia sexual y ofrecer ayudas a las mujeres que lo necesiten.
 
-
 <iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra-despega" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>
 
 ## **El significado de la soberanía digital feminista**
 
 ### Vosotras describís "La Nuestra" no solo como una página web, sino como un ejercicio de soberanía digital feminista. En un momento en que dependemos tanto de los algoritmos y de esos “tecnofaraones” como Elon Musk o Zuckerberg, ¿por qué es urgente que las mujeres tengamos nuestra propia infraestructura tecnológica?
 
-Es urgente que tengamos nuestra propia infraestructura tecnológica porque los datos no deben ser propiedad de los grandes faraones de las tecnologías, y lo son. Nosotras estamos generando un gran archivo testimonial que modifica el relato sobre nosotras mismas y sobre la violencia en general. Es la primera vez en la historia que se hace esto.
-
-<iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>                
+Es urgente que tengamos nuestra propia infraestructura tecnológica porque los datos no deben ser propiedad de los grandes faraones de las tecnologías, y lo son. Nosotras estamos generando un gran archivo testimonial que modifica el relato sobre nosotras mismas y sobre la violencia en general. Es la primera vez en la historia que se hace esto.          
 
 Empezó en 2017, con el MeToo. Estamos modificando aquello que consideramos violencia y cuál es nuestra postura en el mundo.. No es casual que la primera vez que hablamos todas a una, el tema central no sea la moda o la estética, que era “nuestro campo” en teoría, sino que sea la violencia sexual. 
 
