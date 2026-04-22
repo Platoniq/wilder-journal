@@ -39,7 +39,7 @@ image:
 ---
 Hablamos con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista impulsada por Acción Comadres, a propósito del lanzamiento de la [segunda campaña en Goteo](https://www.goteo.org/project/la-nuestra-despega) que quiere hacerla posible. El espacio recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023 y quiere aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia sexual y ofrecer ayudas a las mujeres que lo necesiten.
 
-<iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra-despega" width="300px" scrolling="no"></iframe>
+<iframe frameborder="0" height="392px" src="//www.goteo.org/widget/project/la-nuestra-despega" width="200px" scrolling="no"></iframe>
 
 {% file { "title": "La Nuestra despega", "info": "Hazte Fundadora", "file": "https://www.goteo.org/project/la-nuestra-despega", "image": "/media/chatgpt-image-22-abr-2026-07_56_22.png", "button_text": "Colabora!", "button_icon": "", "alt_color": true } %}
 
