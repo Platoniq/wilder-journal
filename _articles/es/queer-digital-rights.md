@@ -7,7 +7,7 @@ date: 2026-05-19T10:06:00.000+02:00
 date-updated: 2026-05-19T10:06:00.000+02:00
 article-order: 14
 uid: queer-digital-rights
-title: '"la IA feminista es un proyecto democrático"'
+title: '"La IA feminista es un proyecto democrático"'
 description: "En esta entrevista, Luísa nos invita a desaprender la idea de que
   el mundo digital ya está dado y no puede transformarse. "
 author: Cristian Palazzi
