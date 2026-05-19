@@ -68,6 +68,8 @@ But then I realized, once again, that I was the only person in those spaces who 
 
 We are a digital rights laboratory. The name plays with the idea of imagination, of imagining different digital futures. We call ourselves a laboratory because we are experimenting with different ways of actually influencing policies. We train, empower and provide resources to young people so that they realize that, in reality, they already are digital rights activists, and so that they use that knowledge to impact public policies at the international level, perhaps in the future also at the national level. And we do this globally.
 
+{% gallery { "simple": false, "images": [{"path":"/media/unac.jpg","alt":"Luisa Franco Machado at Sustainable Development Goal (SDG) 16 Conference 2025","caption":"Luisa Franco Machado at Sustainable Development Goal (SDG) 16 Conference 2025","credits":"Equilabs"}] } %}
+
 ## **Data justice**
 
 ### **How do you bring situated or community perspectives into those spaces without them being absorbed by bureaucracy? How do you deal with that?**

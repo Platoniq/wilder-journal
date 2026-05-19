@@ -71,6 +71,8 @@ Pero entonces me di cuenta, otra vez, de que era la única persona en esos espac
 
 Somos un laboratorio de derechos digitales. El nombre juega con la idea de imaginación, de imaginar futuros digitales distintos. Nos llamamos laboratorio porque estamos experimentando con diferentes formas de incidir realmente en las políticas. Formamos, empoderamos y dotamos de recursos a jóvenes para que se den cuenta de que, en realidad, ya son activistas de derechos digitales, y para que usen ese conocimiento para impactar en políticas públicas a nivel internacional, quizá en el futuro también a nivel nacional. Y lo hacemos globalmente.
 
+{% gallery { "simple": false, "images": [{"path":"/media/unac.jpg","alt":"Luisa Franco Machado at Sustainable Development Goal (SDG) 16 Conference 2025","caption":"Luisa Franco Machado at Sustainable Development Goal (SDG) 16 Conference 2025","credits":"Equilabs"}] } %}
+
 ## **Justicia de datos**
 
 ### **¿Cómo llevas perspectivas situadas o comunitarias a esos espacios sin que sean absorbidas por la burocracia? ¿Cómo lidias con eso?**
