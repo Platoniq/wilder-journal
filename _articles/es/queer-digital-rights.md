@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/luisa-franco.png
 ---
 Luísa Franco Machado es una activista brasileña por los derechos digitales, investigadora en justicia de datos y fundadora de EquiLabs, un laboratorio global liderado por jóvenes que trabaja para imaginar y construir futuros digitales más justos. A través de sus contenidos en redes sociales, Luísa ha acercado debates sobre feminismo, gobernanza de internet y derechos digitales a una comunidad internacional de más de 60.000 jóvenes. Primera persona abiertamente queer en presidir el Parlamento Juvenil brasileño, Luísa entiende el activismo como un trabajo de traducción entre mundos: entre instituciones y juventudes, entre experiencia vivida y política pública, entre teoría queer, feminismo interseccional y diseño tecnológico. 
 
