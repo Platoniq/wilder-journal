@@ -7,6 +7,12 @@ date: 2026-05-19T10:06:00.000+02:00
 date-updated: 2026-05-19T10:06:00.000+02:00
 article-order: 14
 uid: queer-digital-rights
+title: '"A feminist AI is a democratic project"'
+description: "In this interview, Luísa invites us to unlearn the idea that the
+  digital world is already given and cannot be transformed. "
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: Luisa Franco Machado
 cover:
   path: /media/articles/heroes/luisa-franco.png
