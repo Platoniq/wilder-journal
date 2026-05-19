@@ -16,7 +16,7 @@ author_uids:
 interviewee: Luisa Franco Machado
 cover:
   path: /media/articles/heroes/luisa-franco.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/luisa-franco.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Luisa Franco Machado
   credits: Luisa Franco Machado

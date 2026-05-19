@@ -10,8 +10,12 @@ uid: queer-digital-rights
 interviewee: Luisa Franco Machado
 cover:
   path: /media/articles/heroes/luisa-franco.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/luisa-franco.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - herstory-archive
+  - storytelling
+  - chayn-feminism-technology
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
