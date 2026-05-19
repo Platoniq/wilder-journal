@@ -44,7 +44,11 @@ En esta entrevista, Luísa nos invita a desaprender la idea de que el mundo digi
 
 Luísa: Desaprender ha sido realmente importante para mí porque creo que todas, de alguna manera, hemos asumido la idea de que los sistemas digitales en los que vivimos ya están dados; que esta es la realidad, que esto es lo establecido, que este es el statu quo. Y nos sentimos tan impotentes que ni siquiera imaginamos que un futuro diferente pueda ser posible, ni que podamos tener voz en las decisiones y políticas que después se van a implementar y que van a impactar en nuestras vidas. 
 
-Para mí, desaprender nace de esa curiosidad por imaginar qué mundos son posibles y qué mundos digitales son posibles. Pero también nace de la honestidad de reconocer que, para construir esos mundos distintos, alternativos y mejores que queremos, tenemos que cambiar la forma en que hacemos las cosas. Tenemos que cambiar quién tiene el poder de influir en las políticas públicas, en las decisiones corporativas o en cualquier otro tipo de decisión; también en cómo se asignan los recursos. 
+Para mí, desaprender nace de esa curiosidad por imaginar qué mundos son posibles y qué mundos digitales son posibles. Pero también nace de la honestidad de reconocer que, para construir esos mundos distintos, alternativos y mejores que queremos, tenemos que cambiar la forma en que hacemos las cosas. Tenemos que cambiar quién tiene el poder de influir en las políticas públicas, en las decisiones corporativas o en cualquier otro tipo de decisión; también en cómo se asignan los recursos.
+
+{% quote %}desaprender viene de la curiosidad de saber que las cosas pueden ser diferentes, pero también del coraje de decir: esto es lo que tiene que cambiar.{% endquote %}
+
+ 
 
 Así que, para mí, desaprender viene de la curiosidad de saber que las cosas pueden ser diferentes, pero también del coraje de decir: esto es lo que tiene que cambiar. A veces, necesitamos soltar algunos de nuestros privilegios y pensar cómo podemos usarlos para construir un mundo diferente. En ese sentido, desaprender es cambiar cómo hacemos las cosas y cuál es nuestro papel en ellas.
 

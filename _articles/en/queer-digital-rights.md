@@ -43,6 +43,8 @@ Luísa: Unlearning has been really important for me because I think that all of 
 
 For me, unlearning is born from that curiosity to imagine what worlds are possible and what digital worlds are possible. But it is also born from the honesty of recognizing that, in order to build those different, alternative and better worlds that we want, we have to change the way we do things. We have to change who has the power to influence public policies, corporate decisions or any other type of decision; also how resources are allocated.
 
+{% quote %}unlearning comes from the curiosity of knowing that things can be different, but also from the courage to say: this is what has to change.{% endquote %}
+
 So, for me, unlearning comes from the curiosity of knowing that things can be different, but also from the courage to say: this is what has to change. Sometimes, we need to let go of some of our privileges and think about how we can use them to build a different world. In that sense, unlearning is changing how we do things and what our role is in them.
 
 ### **In this sense, what do you think are the main narratives or assumptions that we need to unlearn in order to build a better relationship with the digital world?**
