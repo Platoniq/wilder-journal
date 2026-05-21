@@ -14,7 +14,7 @@ description: "En esta entrevista, Luísa nos invita a desaprender la idea de que
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
-interviewee: Luisa Franco Machado
+interviewee: Luísa Franco Machado
 cover:
   path: /media/articles/heroes/luisa-franco.png
   mobile: /media/articles/mobile/luisa-franco.png
