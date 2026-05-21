@@ -37,7 +37,7 @@ Para ello, se nos encargó liderar la metodología y facilitación de varios pro
 
 No se apostó por redactar un gran manifiesto ni por crear una nueva plataforma donde volcar resultados. Lo más habitual en estos casos, sino por escuchar en las aulas, en las familias, en los territorios, lo que está pasando con la tecnología. 
 
-{% file { "title": "Agenda para una Educación Digital Crítica en Cataluña", "info": "En catalán", "file": "https://www.equitat.org/app/uploads/2026/05/Agenda_Educacio_Digital_Critica_Catalunya.pdf", "image": "/media/plantilla-decla-platoniq.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
+{% file { "title": "Agenda para una Educación Digital Crítica en Cataluña", "info": "10 medidas", "file": "https://www.equitat.org/app/uploads/2026/05/Agenda_Educacio_Digital_Critica_Catalunya.pdf", "image": "/media/plantilla-decla-platoniq.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
 
 A partir de ahí, Platoniq fue tejiendo un sistema que conectaba muchas miradas distintas: infancia, adolescencia, profesorado, familias, municipios y expertos, sin forzarlas a encajar en un único relato. Más que una secuencia ordenada de fases, lo que se generó fue una conversación ampliada, donde lo que se decía en un espacio resonaba en otros. Un proceso donde las ideas no circulaban en línea recta, sino que se iban transformando al encontrarse con otras voces.
 
