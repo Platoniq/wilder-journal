@@ -7,8 +7,8 @@ date: 2026-05-22T15:34:00.000+02:00
 date-updated: 2026-05-22T15:34:00.000+02:00
 article-order: 14
 uid: LaNuestra-Red-Feminista
-title: "“Algorithms will change as society changes.” LaNuestra: the feminist
-  community beyond data extractivism"
+title: “Algorithms will change as society changes.” Humanistic AI for the
+  LaNuestra community
 description: "Eva Navarro is a scientist, professor, and researcher specializing
   in artificial intelligence, computing, robotics, cybernetics, and control
   systems. "

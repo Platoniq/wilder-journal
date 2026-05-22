@@ -7,8 +7,8 @@ date: 2026-05-22T15:34:00.000+02:00
 date-updated: 2026-05-22T15:34:00.000+02:00
 article-order: 14
 uid: LaNuestra-Red-Feminista
-title: "“Los algoritmos cambiarán cuando la sociedad cambie”. LaNuestra: la
-  comunidad feminista más allá del extractivismo de datos"
+title: “Los algoritmos cambiarán cuando la sociedad cambie”. Una IA humanista
+  para la comunidad de LaNuestra
 description: Eva Navarro desplaza el foco de LaNuestra más allá de su dimensión
   tecnológica para situarla como una infraestructura feminista de conocimiento,
   cuidado y transformación colectiva.
