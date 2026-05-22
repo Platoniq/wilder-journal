@@ -88,6 +88,8 @@ In short, boxes one, two, three, and four make up LaNuestra’s artificial intel
 
 That’s how technology can transform people, too.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-05-22-a-las-14.26.19.png","alt":"LaNuestra","caption":"LaNuestra","credits":"LaNuestra"}] } %}
+
 ## **First box: anonymization**
 
 ### **How can we address accounts of sexual assault, institutional violence, fear, or silence?**

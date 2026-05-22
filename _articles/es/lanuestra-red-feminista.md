@@ -93,6 +93,8 @@ En resumen, una, dos, tres y cuatro cajas componen la inteligencia artificial de
 
 Así es como la tecnología puede transformar al ser humano también. 
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-05-22-a-las-14.26.19.png","alt":"LaNuestra","caption":"LaNuestra","credits":"LaNuestra"}] } %}
+
 ## **Primera caja: la anonimización**
 
 ### **¿Cómo trabajar con relatos de agresión sexual, violencia institucional, miedo o silencio?**
