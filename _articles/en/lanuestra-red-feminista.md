@@ -19,7 +19,7 @@ interviewee: Eva Navarro
 cover:
   path: /media/articles/heroes/eva-navarro.jpg
   mobile: /media/articles/mobile/eva-navarro.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/eva-navarro.jpg
   alt: Eva Navarro
   credits: Eva Navarro
   caption: Eva Navarro
