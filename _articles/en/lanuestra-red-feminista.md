@@ -12,6 +12,9 @@ cover:
   path: /media/articles/heroes/eva-navarro.jpg
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - nuestra-fallaras-mujeres
+  - herstory-archive
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
