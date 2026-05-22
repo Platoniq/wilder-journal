@@ -48,6 +48,8 @@ There are many artificial intelligence techniques based on models and the observ
 
 And then there are those who believe they have developed intelligent models, when in reality they are serving other interests. I’m talking about that so-called “generative” artificial intelligence, which, in fact, isn’t even intelligent. It’s more of a business model than artificial intelligence. I’m talking about those who believe that if I can model a brain, then I can replace humans: a hyper-capitalist vision of artificial intelligence. And I find that abhorrent. That’s where artificial intelligence stands in opposition to human rights, based on fear and control.
 
+{% quote %}we need a humanistic artificial intelligence based on Terence’s “nothing human is alien to me.”{% endquote %}
+
 Right now, what we have is a society completely riddled with discriminatory biases, unequal, and exploitative. We have undone everything we had achieved over 200 years through social struggles, and behind the most popular technologies lie armies of humans—working-class underclasses with no rights—what are called “ghost workers” or, as I call them, Buñuel’s “invisibles.”
 
 ### **You’ll agree with me that his view of artificial intelligence is gaining ground—is there any alternative to this way of understanding it?**
@@ -113,6 +115,8 @@ Furthermore, in these contexts of trauma, we must consider ambiguity—something
 Speaking of data, opacity is a legitimate form of democratic protection. In my opinion, “all open” doesn’t necessarily mean “more democratic.” The open technology movement began in Silicon Valley and is rooted in a techno-libertarian ideology. Look where that has led us. In an ideal world, “all open” would be wonderful, but the reality is that it masks a narrative of privilege within an utterly unequal system.
 
 For example, “open access” in scientific journals is neither “open” nor “access.” Who can afford the $3,000 it costs to publish on those platforms? If we’re talking about engineering and computer science: white men and women, at universities outside the Global Majority… It must be said: “open” can amplify discrimination and privilege. So, returning to LaNuestra, not everything needs to be visible to be verifiable. We’re talking about a very sensitive, very complicated application that involves very serious human experiences. Therefore, for something to be verifiable, not everything has to be visible.
+
+{% quote %}LaNuestra, it is something completely different because, in our case, building community means creating value for the community; it means restoring capabilities, providing support, and weaving networks—which is what women’s communities always do: generate useful knowledge.{% endquote %}
 
 We will need to manage access permissions, abstractions, protected metadata, and cryptographic verifications with granular consent; all of this will ensure that the mathematical and computational models designed on LaNuestra are explainable, accountable, and semi-automated, and, of course, highly rigorous thanks to the human oversight that will always accompany them. 
 

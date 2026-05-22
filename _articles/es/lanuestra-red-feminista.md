@@ -35,8 +35,6 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/eva-navarro.jpg
 ---
-**“Los algoritmos cambiarán cuando la sociedad cambie”. Sobre una academia de LaNuestra y la posibilidad de forjar comunidad más allá del extractivismo de datos**
-
 **Eva Navarro** desplaza el foco de LaNuestra más allá de su dimensión tecnológica para situarla como una infraestructura feminista de conocimiento, cuidado y transformación colectiva. A partir de su experiencia en inteligencia artificial, sistemas complejos, ciencia de datos y pensamiento crítico, Navarro explica cómo el proyecto no solo aspira a anonimizar, categorizar y analizar millones de testimonios de violencia machista con rigor ético y supervisión humana, sino también a construir una comunidad capaz de devolver poder, dignidad y capacidades a quienes han sido históricamente reducidas al silencio. En ese horizonte aparece una de sus apuestas más potentes: la creación de una Academia de LaNuestra, un espacio donde la tecnología no sea una herramienta extractiva ni reservada a especialistas, sino una vía de aprendizaje, autonomía y reparación para mujeres que, desde la experiencia del dolor, puedan apropiarse del conocimiento técnico y transformar también sus propias vidas.
 
 Eva es científica, profesora e investigadora especializada en inteligencia artificial, computación, robótica, cibernética y sistemas de control. Ha sido catedrática en Inteligencia Artificial y Computación en el Rochester Institute of Technology, donde también dirigió la Escuela de Información. Su trabajo combina investigación tecnológica, pensamiento crítico y compromiso social. Forma parte del equipo senior del **International Panel on the Information Environment**, una organización global creada en 2023 que trabaja por la integridad de la información y contra la desinformación, los sesgos algorítmicos y los impactos negativos de la inteligencia artificial sobre la democracia. Además, es investigadora del **NOVARS Innovation and Media Lab** de University of Manchester y colabora con el **Civic A.I. Lab** de Northeastern University, en Boston, centrado en inteligencia artificial cívica, interacción humano-computadora y nuevas formas de trabajo digital.
@@ -52,6 +50,8 @@ Pues mira, yo como computóloga he tenido la obsesión desde pequeña de modelar
 Existen muchísimas técnicas de inteligencia artificial que se basan en modelos y en la observación de la naturaleza, por ejemplo, modelos multiagentes de inteligencia colectiva en los que observas las hormigas, los pájaros, los peces: eso es inteligencia colectiva. También podemos hablar de los algoritmos genéticos que han generado muchísimos modelos de inteligencia artificial, y también podemos hablar de razonamiento automático, por ejemplo. 
 
 Y luego están aquellos que creen que han desarrollado modelos inteligentes, cuando en realidad responden a otros intereses. Te hablo de esa inteligencia artificial a la que llaman generativa y, de hecho, ni siquiera es inteligente. Es más bien un modelo de negocio y no inteligencia artificial. Hablo de aquellos que creen que si puedo modelar un cerebro, entonces puedo sustituir al humano: una visión hipercapitalista de la inteligencia artificial. Y me parece aberrante. Ahí es donde la inteligencia artificial se coloca en contra de los derechos humanos, a base de miedo y control.
+
+{% quote %}necesitamos una inteligencia artificial humanista basada en el  “nada de lo humano me es ajeno” de Terencio{% endquote %}
 
 Ahora mismo lo que tenemos es una sociedad completamente llena de sesgos de discriminación, desigual y explotadora. Hemos eliminado todo lo que habíamos alcanzado en 200 años con las luchas sociales y detrás de las tecnologías más populares lo que hay son ejércitos de humanos, infraclases trabajadoras sin ningún derecho, lo que se llaman *ghost workers* o, como digo yo, los invisibles de Buñuel.
 
@@ -119,6 +119,8 @@ Hablando de datos, la opacidad es una forma legítima de protección democrátic
 
 Por ejemplo, el open access en las revistas científicas no es ni open, ni access. ¿Quién puede pagar los 3.000 dólares que cuesta publicar en esas plataformas? Si hablamos de la ingeniería y computación: hombres y mujeres blancos, en universidades fuera de la Mayoría Global… Hay que decirlo, el open puede amplificar la discriminación y el privilegio. Así que, volviendo a LaNuestra, no todo debe ser visible para ser verificable. Estamos hablando de una aplicación muy sensible, muy complicada y que involucra experiencias humanas muy graves. Por lo tanto, para que algo sea verificable no todo tiene que ser visible. 
 
+{% quote %} LaNuestra es algo completamente distinto porque en nuestro caso crear comunidad es crear valor para la comunidad, es devolver capacidades, producir apoyo, tejer redes, qué es lo que hacemos siempre las comunidades de mujeres: generar conocimiento útil.{% endquote %}
+
 Habremos de gestionar la capacidad de acceso, las abstracciones, los metadatos protegidos, las verificaciones criptográficas con consentimiento granular y todo ello hará que los modelos matemáticos y computacionales que se van a diseñar en LaNuestra puedan ser explicables responsables y semiautomáticos y, por supuesto, puedan tener muchísimo rigor por la supervisión humana que les acompañará siempre. 
 
 La trazabilidad consiste en el modelo y en la forma ética en que diseñas tus modelos, más allá de si es open o no.
@@ -137,7 +139,7 @@ Pues mira, lo único que se puede hacer es, con muchísimo cariño y rigor cient
 
 Ahora lo que vamos a hacer es empezar con las 20 primeras. Divide y vencerás es el lema de computación, pero el objetivo no es reducir la experiencia humana para que encaje en nuestras categorías, sino que hay que diseñar los modelos matemáticos y computacionales para que incluyan la complejidad humana. Complejidades que tienen que ver con que las experiencias humanas no siempre pertenecen a una sola categoría y, además, que esa categoría va a cambiar a lo largo del tiempo. Por lo tanto, habrá que considerar taxonomías y categorías flexibles y dinámicas, capaces de evolucionar en el tiempo.
 
-Con lo que volvemos a lo del principio del sistema complejo: la variación en el tiempo y la evolución en el tiempo.  Desafortunadamente la violencia a una mujer puede cumplir con múltiples etiquetas, las narrativas de las cuales tienen que mantenerse abiertas a la contradicción de los testimonios dada su complejidad. Algo muy nuevo para mí. Va a ser un reto impresionante pero lo vamos a hacer con muchísimo rigor para tener en cuenta todos los niveles de complejidad.
+Con lo que volvemos a lo del principio del sistema complejo: la variación en el tiempo y la evolución en el tiempo. Desafortunadamente la violencia a una mujer puede cumplir con múltiples etiquetas, las narrativas de las cuales tienen que mantenerse abiertas a la contradicción de los testimonios dada su complejidad. Algo muy nuevo para mí. Va a ser un reto impresionante pero lo vamos a hacer con muchísimo rigor para tener en cuenta todos los niveles de complejidad.
 
 ## **Tercera caja: la visualización de datos** 
 
