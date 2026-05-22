@@ -7,8 +7,8 @@ date: 2026-05-22T15:34:00.000+02:00
 date-updated: 2026-05-22T15:34:00.000+02:00
 article-order: 14
 uid: LaNuestra-Red-Feminista
-title: "“Los algoritmos cambiarán cuando la sociedad cambie”. La Academia de
-  LaNuestra: forjar comunidad feminista más allá del extractivismo de datos"
+title: "“Los algoritmos cambiarán cuando la sociedad cambie”. LaNuestra: la
+  comunidad feminista más allá del extractivismo de datos"
 description: Eva Navarro desplaza el foco de LaNuestra más allá de su dimensión
   tecnológica para situarla como una infraestructura feminista de conocimiento,
   cuidado y transformación colectiva.
@@ -34,7 +34,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/eva-navarro.jpg
 ---
-**Eva Navarro** desplaza el foco de LaNuestra más allá de su dimensión tecnológica para situarla como una infraestructura feminista de conocimiento, cuidado y transformación colectiva. A partir de su experiencia en inteligencia artificial, sistemas complejos, ciencia de datos y pensamiento crítico, Navarro explica cómo el proyecto no solo aspira a anonimizar, categorizar y analizar millones de testimonios de violencia machista con rigor ético y supervisión humana, sino también a construir una comunidad capaz de devolver poder, dignidad y capacidades a quienes han sido históricamente reducidas al silencio. En ese horizonte aparece una de sus apuestas más potentes: la creación de una Academia de LaNuestra, un espacio donde la tecnología no sea una herramienta extractiva ni reservada a especialistas, sino una vía de aprendizaje, autonomía y reparación para mujeres que, desde la experiencia del dolor, puedan apropiarse del conocimiento técnico y transformar también sus propias vidas.
+Hablamos con **Eva Navarro**, responsable de diseñar la arquitectura de inteligencia artificail que hay detrás de LaNuestra, la infraestructura feminista que transforma testimonios de violencias machistas en memoria colectiva combinando tecnología ética, supervisión humana y comunidad para devolver poder, dignidad y capacidad de decisión a quienes históricamente han sido silenciadas.
+
+A partir de su experiencia, Navarro explica cómo el proyecto no solo aspira a anonimizar, categorizar y analizar millones de testimonios de violencia machista con rigor ético y supervisión humana, sino también a construir una comunidad capaz de devolver poder, dignidad y capacidades a quienes han sido históricamente reducidas al silencio. En ese horizonte aparece una de sus apuestas más potentes: la creación de una Academia de LaNuestra, un espacio donde la tecnología no sea una herramienta extractiva ni reservada a especialistas, sino una vía de aprendizaje, autonomía y reparación para mujeres que, desde la experiencia del dolor, puedan apropiarse del conocimiento técnico y transformar también sus propias vidas.
 
 Eva es científica, profesora e investigadora especializada en inteligencia artificial, computación, robótica, cibernética y sistemas de control. Ha sido catedrática en Inteligencia Artificial y Computación en el Rochester Institute of Technology, donde también dirigió la Escuela de Información. Su trabajo combina investigación tecnológica, pensamiento crítico y compromiso social. Forma parte del equipo senior del **International Panel on the Information Environment**, una organización global creada en 2023 que trabaja por la integridad de la información y contra la desinformación, los sesgos algorítmicos y los impactos negativos de la inteligencia artificial sobre la democracia. Además, es investigadora del **NOVARS Innovation and Media Lab** de University of Manchester y colabora con el **Civic A.I. Lab** de Northeastern University, en Boston, centrado en inteligencia artificial cívica, interacción humano-computadora y nuevas formas de trabajo digital.
 

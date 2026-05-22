@@ -7,8 +7,8 @@ date: 2026-05-22T15:34:00.000+02:00
 date-updated: 2026-05-22T15:34:00.000+02:00
 article-order: 14
 uid: LaNuestra-Red-Feminista
-title: "“Algorithms will change as society changes.” LaNuestra Academy: Building
-  a Feminist Community Beyond Data Extraction"
+title: "“Algorithms will change as society changes.” LaNuestra: the feminist
+  community beyond data extractivism"
 description: "Eva Navarro is a scientist, professor, and researcher specializing
   in artificial intelligence, computing, robotics, cybernetics, and control
   systems. "
@@ -34,7 +34,11 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/eva-navarro.jpg
 ---
-**Eva Navarro** is a scientist, professor, and researcher specializing in artificial intelligence, computing, robotics, cybernetics, and control systems. She has served as a professor of Artificial Intelligence and Computing at the Rochester Institute of Technology, where she also directed the School of Information. Her work combines technological research, critical thinking, and social engagement. She is a member of the senior team at the International Panel on the Information Environment, a global organization founded in 2023 that works to promote information integrity and combat disinformation, algorithmic biases, and the negative impacts of artificial intelligence on democracy. In addition, she is a researcher at the NOVARS Innovation and Media Lab at the University of Manchester and collaborates with the Civic A.I. Lab at Northeastern University in Boston, which focuses on civic artificial intelligence, human-computer interaction, and new forms of digital work.
+We spoke with **Eva Navarro,** who is responsible for designing the artificial intelligence architecture behind LaNuestra, the feminist infrastructure that transforms testimonies of gender-based violence into collective memory by combining ethical technology, human oversight, and community to restore power, dignity, and decision-making capacity to those who have historically been silenced.
+
+Drawing on her experience, Navarro explains how the project not only aims to anonymize, categorize, and analyze millions of testimonies of gender-based violence with ethical rigor and human oversight, but also to build a community capable of restoring power, dignity, and agency to those who have historically been silenced. Within this vision lies one of its most powerful initiatives: the creation of a LaNuestra Academy, a space where technology is neither an extractive tool nor reserved for specialists, but rather a pathway to learning, autonomy, and healing for women who, drawing from their experiences of pain, can take ownership of technical knowledge and transform their own lives as well.
+
+Eva is a scientist, professor, and researcher specializing in artificial intelligence, computing, robotics, cybernetics, and control systems. She has served as a professor of Artificial Intelligence and Computing at the Rochester Institute of Technology, where she also directed the School of Information. Her work combines technological research, critical thinking, and social engagement. She is a member of the senior team at the International Panel on the Information Environment, a global organization founded in 2023 that works to promote information integrity and combat disinformation, algorithmic biases, and the negative impacts of artificial intelligence on democracy. In addition, she is a researcher at the NOVARS Innovation and Media Lab at the University of Manchester and collaborates with the Civic A.I. Lab at Northeastern University in Boston, which focuses on civic artificial intelligence, human-computer interaction, and new forms of digital work.
 
 Eva is also part of Tecnolatinas, a horizontal support community for Latin American women in technology and their allies, created during the pandemic to address the loss of job opportunities that particularly affected women. For her, Tecnolatinas represents a fresh, feminist, intergenerational, and community-based space, founded on collaboration, mutual learning, and collective action.
 
