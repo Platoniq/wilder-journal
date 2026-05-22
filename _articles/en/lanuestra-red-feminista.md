@@ -70,9 +70,7 @@ Control engineers work with complex systems. How? We want to make a better world
 
 Therefore, we need different perspectives to approach this system: artificial intelligence, computing, engineering. We must protect complexity. That is why we need a sociologist, a psychologist, a human rights specialist, a legal expert… who complement each other like pieces of a puzzle.
 
-Multidisciplinarity at La Nuestra is essential, and it is no coincidence; rather, it is an ethical imperative because if computational, mathematical, and technological design is not done with care, we risk oversimplifying human experiences—and that, at La Nuestra, is not an option.
-
-\    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra-despega" width="300px" scrolling="no"></iframe>                
+Multidisciplinarity at La Nuestra is essential, and it is no coincidence; rather, it is an ethical imperative because if computational, mathematical, and technological design is not done with care, we risk oversimplifying human experiences—and that, at La Nuestra, is not an option.            
 
 ### **You have worked with symbolic AI, automated reasoning, verification, and formal methods. What do these fields contribute to an AI that cannot afford to hallucinate, oversimplify, or invent anything regarding the testimonies?**
 

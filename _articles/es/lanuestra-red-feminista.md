@@ -34,7 +34,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/eva-navarro.jpg
 ---
-Hablamos con **Eva Navarro**, responsable de diseñar la arquitectura de inteligencia artificail que hay detrás de LaNuestra, la infraestructura feminista que transforma testimonios de violencias machistas en memoria colectiva combinando tecnología ética, supervisión humana y comunidad para devolver poder, dignidad y capacidad de decisión a quienes históricamente han sido silenciadas.
+Hablamos con **Eva Navarro**, responsable de diseñar la arquitectura de inteligencia artificial que hay detrás de LaNuestra, la infraestructura feminista que transforma testimonios de violencias machistas en memoria colectiva combinando tecnología ética, supervisión humana y comunidad para devolver poder, dignidad y capacidad de decisión a quienes históricamente han sido silenciadas.
 
 A partir de su experiencia, Navarro explica cómo el proyecto no solo aspira a anonimizar, categorizar y analizar millones de testimonios de violencia machista con rigor ético y supervisión humana, sino también a construir una comunidad capaz de devolver poder, dignidad y capacidades a quienes han sido históricamente reducidas al silencio. En ese horizonte aparece una de sus apuestas más potentes: la creación de una Academia de LaNuestra, un espacio donde la tecnología no sea una herramienta extractiva ni reservada a especialistas, sino una vía de aprendizaje, autonomía y reparación para mujeres que, desde la experiencia del dolor, puedan apropiarse del conocimiento técnico y transformar también sus propias vidas.
 
@@ -72,7 +72,7 @@ Por lo tanto, necesitamos distintas miradas para abordar este sistema: la inteli
 
 La multidisciplinariedad en La Nuestra es primordial y no es una casualidad, sino que es una condición ética porque si el diseño computacional, matemático y tecnológico no se hace con cuidado podemos simplificar las experiencias humanas y eso, en La Nuestra, no es posible.
 
-\    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra-despega" width="300px" scrolling="no"></iframe>                
+{% file { "title": "LaNuestra", "info": "Campaña de crowdfunding", "file": "", "image": "/media/photo-5931690620416101508-y.jpg", "button_text": "Colabora", "button_icon": "", "alt_color": true } %}
 
 ### **Has trabajado con IA simbólica, razonamiento automático, verificación y métodos formales. ¿Cual es la arquitectura que hay detrás de LaNuestra?**
 
