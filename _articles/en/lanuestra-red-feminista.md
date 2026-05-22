@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/eva-navarro.jpg
 ---
 **Eva Navarro** is a scientist, professor, and researcher specializing in artificial intelligence, computing, robotics, cybernetics, and control systems. She has served as a professor of Artificial Intelligence and Computing at the Rochester Institute of Technology, where she also directed the School of Information. Her work combines technological research, critical thinking, and social engagement. She is a member of the senior team at the International Panel on the Information Environment, a global organization founded in 2023 that works to promote information integrity and combat disinformation, algorithmic biases, and the negative impacts of artificial intelligence on democracy. In addition, she is a researcher at the NOVARS Innovation and Media Lab at the University of Manchester and collaborates with the Civic A.I. Lab at Northeastern University in Boston, which focuses on civic artificial intelligence, human-computer interaction, and new forms of digital work.
 

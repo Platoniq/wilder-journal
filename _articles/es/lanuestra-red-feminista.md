@@ -33,7 +33,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/eva-navarro.jpg
 ---
 **“Los algoritmos cambiarán cuando la sociedad cambie”. Sobre una academia de LaNuestra y la posibilidad de forjar comunidad más allá del extractivismo de datos**
 
