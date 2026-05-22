@@ -153,7 +153,7 @@ Yo no veo que el match feminista, ese poner juntos los pedacitos de dolor y de s
 
 Las plataformas tradicionales lo que potencian es la retención, la interacción, la monetización y la dependencia, en cambio un match feminista lo que debería potenciar es la disminución del aislamiento y de la soledad. El objetivo no es conectar perfiles compatibles sino romper la fragmentación del dolor y la soledad. Lo que intenta el match es romper esa fragmentación y poner juntas a las mujeres para que puedan sanar. Así que se trata de potenciar la acción colectiva, el acompañamiento, el reconocimiento mutuo, el vernos las unas a las otras y apoyarnos desde el consentimiento que tiene que ser un espacio seguro. Todo eso es lo que la reparación tiene que considerar.
 
-## **El consentimiento como punto de partida y final**
+## **El consentimiento como punto de partida**
 
 ### **En esta arquitectura de cajas que tienes prevista, ¿qué papel debería tener el consentimiento situado, es decir, que una mujer pueda decidir si su testimonio sirve para el archivo o quiere retirarlo? ¿Cómo vais a equilibrar el poder del individuo frente al de la propia plataforma?**
 
