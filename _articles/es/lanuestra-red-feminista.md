@@ -72,7 +72,7 @@ Por lo tanto, necesitamos distintas miradas para abordar este sistema: la inteli
 
 La multidisciplinariedad en La Nuestra es primordial y no es una casualidad, sino que es una condición ética porque si el diseño computacional, matemático y tecnológico no se hace con cuidado podemos simplificar las experiencias humanas y eso, en La Nuestra, no es posible.
 
-{% file { "title": "LaNuestra", "info": "Campaña de crowdfunding", "file": "https://www.goteo.org/project/la-nuestra-despega", "image": "/media/photo-5931690620416101508-y.jpg", "button_text": "Colabora", "button_icon": "", "alt_color": true } %}
+{% file { "title": "LaNuestra", "info": "Súmate a la campaña de crowdfunding", "file": "https://www.goteo.org/project/la-nuestra-despega", "image": "/media/photo-5931690620416101508-y.jpg", "button_text": "Colabora", "button_icon": "", "alt_color": true } %}
 
 ### **Has trabajado con IA simbólica, razonamiento automático, verificación y métodos formales. ¿Cual es la arquitectura que hay detrás de LaNuestra?**
 
