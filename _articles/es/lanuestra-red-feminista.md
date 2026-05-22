@@ -70,6 +70,8 @@ Por lo tanto, necesitamos distintas miradas para abordar este sistema: la inteli
 
 La multidisciplinariedad en La Nuestra es primordial y no es una casualidad, sino que es una condición ética porque si el diseño computacional, matemático y tecnológico no se hace con cuidado podemos simplificar las experiencias humanas y eso, en La Nuestra, no es posible.
 
+\    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra-despega" width="300px" scrolling="no"></iframe>                
+
 ### **Has trabajado con IA simbólica, razonamiento automático, verificación y métodos formales. ¿Cual es la arquitectura que hay detrás de LaNuestra?**
 
 En La Nuestra se van a utilizar distintas tecnologías, modelos computacionales matemáticos y modelos de inteligencia artificial, no solo generativas. Que, dicho sea de paso, no alucinan, como dice todo el mundo, sino que se equivocan, una media del 60% de las veces.

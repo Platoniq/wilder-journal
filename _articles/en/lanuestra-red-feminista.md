@@ -68,6 +68,8 @@ Therefore, we need different perspectives to approach this system: artificial in
 
 Multidisciplinarity at La Nuestra is essential, and it is no coincidence; rather, it is an ethical imperative because if computational, mathematical, and technological design is not done with care, we risk oversimplifying human experiences—and that, at La Nuestra, is not an option.
 
+\    <iframe frameborder="0" height="492px" src="//www.goteo.org/widget/project/la-nuestra-despega" width="300px" scrolling="no"></iframe>                
+
 ### **You have worked with symbolic AI, automated reasoning, verification, and formal methods. What do these fields contribute to an AI that cannot afford to hallucinate, oversimplify, or invent anything regarding the testimonies?**
 
 First, let’s be clear. ChatGPT and similar generative tools don’t “hallucinate”—they make mistakes, on average 60% of the time. This shift in language obscures the truth about these tools. At La Nuestra, we will use a variety of technologies, including mathematical computational models and artificial intelligence models—not just generative ones. 
