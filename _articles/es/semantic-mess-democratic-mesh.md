@@ -17,7 +17,7 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-05-25-a-las-20.29.02.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-05-25-a-las-20.29.02.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Diego Arredondo Ortiz
   credits: Diego Arredondo Ortiz
