@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-05-25-a-las-20.29.02.png
 ---
 **Diego Arredondo Ortiz** lleva más de una década moviéndose entre las asambleas de base, la tecnología cívica, la organización política y la investigación interdisciplinaria. Su trayectoria comenzó en México a través de las asambleas en red y la experiencia de Wiki Partido y Wiki Política, donde formas experimentales de organización democrática llegaron de forma inesperada a la política institucional gracias a una exitosa campaña electoral local. Más tarde, su trabajo se orientó cada vez más hacia el ámbito académico, los métodos digitales y la visualización de datos, sin dejar de mantener una estrecha relación con las cuestiones de la organización colectiva y la participación democrática.
 
