@@ -41,7 +41,7 @@ Throughout these experiences, Diego became interested in detecting emergent stru
 
 This frustration pushed him toward embeddings and topic modelling, not as neutral technical solutions, but as tools capable of navigating what he calls the “collective semantic mess” produced by participation. Using Python, BERTopic, and interactive systems such as Cosmos WebGL, Diego began experimenting with ways of flattening the ontological hierarchies. Rather than forcing contributions into predefined administrative categories, these systems attempt to surface emergent thematic proximities, allowing ideas, concerns, affects, and conflicts to cluster through semantic affinity rather than institutional design. 
 
-“What interests me about this technique is to flatten everything and see what emerges within the semantic space.”
+{% quote %}“What interests me about this technique is to flatten everything and see what emerges within the semantic space.”{% endquote %}
 
 As grassroots participation becomes institutionalized across platforms and years of accumulated civic data, questions of orientation and facilitation move increasingly to the center of democratic practice.
 
@@ -57,18 +57,19 @@ Certain themes returned persistently regardless of format, institutional cycle, 
 
 In this sense, **the platform begins to resemble less a repository of proposals and more a semantic mirror of Barcelona’s urban metabolism**. Participation does not appear as a sequence of disconnected consultations, but as an ongoing process through which urban publics repeatedly articulate unresolved tensions around space, infrastructure, visibility, and everyday life.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-05-25-a-las-20.30.50.png","alt":"Analysis of over 31,000 citizen proposals submitted to decidim.barcelona between 2016 and 2024","caption":"Analysis of over 31,000 citizen proposals submitted to decidim.barcelona between 2016 and 2024","credits":"Diego Arredondo Ortiz"}] } %}
 
 The recurrence of themes such as housing and mobility also reveals how digital participation platforms become entangled with the political geography of the city itself. Bike lanes are not simply transportation proposals. They are negotiations over street space, environmental transition, accessibility, tourism, and competing imaginaries of urban movement. Animal welfare debates similarly point toward moral and affective geographies embedded within parks, neighborhoods, domestic life, and public space.
 
 What interests Diego is precisely this capacity to move between scales. To flatten thousands of proposals into a shared semantic terrain while still allowing patterns, frictions, and civic obsessions to emerge collectively over time.
 
-“To place everything on equal ground and let the weight people gave to each issue emerge from there.”
+{% quote %}“To place everything on equal ground and let the weight people gave to each issue emerge from there.”{% endquote %}
 
 What Diego describes technically as “flattening ontological hierarchies” appears in this conversation in more situated terms. In both formulations, the objective is similar. To **move away from rigid institutional taxonomies and toward semantic constellations capable of revealing patterns that emerge collectively from participation itself**. Embeddings become important here because they allow texts, images, sounds, and multimodal materials to coexist within the same latent semantic space. Ideas appear close together not because a moderator manually categorized them, but because patterns emerge through relationships within the data itself.
 
 For Diego, this changes what can be brought back into collective discussion. Instead of only showing who occupies central positions in a network, facilitators can return with recurring concerns, resonant phrases, thematic clusters, and unexpected conceptual bridges that cut across meetings, platforms, neighborhoods, and moments in time.
 
-**“We should not delegate the production of meaning to the machine.”**
+{% quote %}“We should not delegate the production of meaning to the machine.”{% endquote %}
 
 Yet these systems are never neutral mirrors. Diego repeatedly insists that topic modelling and semantic clustering involve political choices at every level. Working with pre-trained models always means inheriting decisions made elsewhere about training data, linguistic norms, licenses, and worldviews. His preference for public digital infrastructure models, such as those developed by the Barcelona Supercomputing Center, reflects a broader concern with sovereignty, transparency, and collective ownership of technological infrastructures. Using a Catalan fine tuned model, for instance, becomes more than a technical optimization. It becomes part of a larger effort to preserve cultural specificity and linguistic plurality within computational systems.
 
@@ -106,11 +107,11 @@ At the same time, Diego remains cautious about the extractive logic surrounding 
 
 # **Facilitating Across Time**
 
- “Not always looking forward to capturing more and more data, but stopping for a moment and looking back at the past.”
-
 Underlying all this is a broader reflection on time. After years of intense militancy and political organizing, Diego describes returning to study as an opportunity to slow down and collectively process what happened across long trajectories of experimentation. AI systems, embeddings, visualizations, and archives become ways of facilitating delayed conversations with the past.
 
 In this temporal sense, facilitation extends far beyond individual workshops or consultation cycles. It involves caring for the conditions that allow participation to remain legible and revisitable over time. Cleaning datasets. Publishing notebooks. Documenting methodological choices. Negotiating consent around recordings. Leaving behind traces that others can reinterpret later.
+
+{% quote %} “Not always looking forward to capturing more and more data, but stopping for a moment and looking back at the past.”{% endquote %}
 
 Participation, from Diego’s perspective, is sustained not only through interface design, but through the continuous labor of translation, maintenance, accountability, and collective reflection across the uneven terrain between analogue life and digital representation.
 

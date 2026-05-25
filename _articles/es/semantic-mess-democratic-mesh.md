@@ -51,7 +51,7 @@ A lo largo de estas experiencias, Diego se interesó por la detección de estruc
 
 Esta frustración le empujó hacia las incrustaciones y el modelado de temas, no como soluciones técnicas neutras, sino como herramientas capaces de navegar por lo que él denomina el «caos semántico colectivo» producido por la participación. Utilizando Python, BERTopic y sistemas interactivos como Cosmos WebGL, Diego comenzó a experimentar con formas de aplanar las jerarquías ontológicas. En lugar de encasillar las contribuciones en categorías administrativas predefinidas, estos sistemas intentan sacar a la luz proximidades temáticas emergentes, permitiendo que las ideas, las preocupaciones, los afectos y los conflictos se agrupen a través de la afinidad semántica en lugar del diseño institucional.
 
-«Lo que me interesa de esta técnica es aplanar todo y ver qué surge dentro del espacio semántico».
+{% quote %}«Lo que me interesa de esta técnica es aplanar todo y ver qué surge dentro del espacio semántico».{% endquote %}
 
 A medida que la participación ciudadana se institucionaliza en todas las plataformas y se acumulan años de datos cívicos, las cuestiones relacionadas con la orientación y la facilitación cobran cada vez más protagonismo en la práctica democrática.
 
@@ -73,13 +73,13 @@ La recurrencia de temas como la vivienda y la movilidad también pone de manifie
 
 Lo que le interesa a Diego es precisamente esta capacidad de moverse entre escalas. Aplanar miles de propuestas en un terreno semántico compartido, al tiempo que se permite que los patrones, las fricciones y las obsesiones cívicas surjan colectivamente con el tiempo.
 
-«Ponerlo todo en pie de igualdad y dejar que el peso que la gente le da a cada tema surja a partir de ahí».
+{% quote %}«Ponerlo todo en pie de igualdad y dejar que el peso que la gente le da a cada tema surja a partir de ahí».{% endquote %}
 
 Lo que Diego describe técnicamente como «aplanamiento de las jerarquías ontológicas» se plantea en esta conversación en términos más concretos. En ambas formulaciones, el objetivo es similar: alejarse de las taxonomías institucionales rígidas y avanzar hacia constelaciones semánticas capaces de revelar patrones que surgen colectivamente de la propia participación. Las incrustaciones cobran importancia aquí porque permiten que textos, imágenes, sonidos y materiales multimodales coexistan dentro del mismo espacio semántico latente. Las ideas aparecen próximas entre sí no porque un moderador las haya categorizado manualmente, sino porque los patrones surgen a través de las relaciones dentro de los propios datos.
 
 Para Diego, esto cambia lo que se puede llevar de vuelta al debate colectivo. En lugar de limitarse a mostrar quién ocupa posiciones centrales en una red, los facilitadores pueden volver con preocupaciones recurrentes, frases resonantes, agrupaciones temáticas y puentes conceptuales inesperados que trascienden reuniones, plataformas, barrios y momentos en el tiempo.
 
-«No debemos delegar la producción de significado a la máquina».
+{% quote %}«No debemos delegar la producción de significado a la máquina».{% endquote %}
 
 Sin embargo, estos sistemas nunca son espejos neutrales. Diego insiste repetidamente en que el modelado de temas y la agrupación semántica implican decisiones políticas a todos los niveles. Trabajar con modelos preentrenados siempre significa heredar decisiones tomadas en otros lugares sobre los datos de entrenamiento, las normas lingüísticas, las licencias y las visiones del mundo. Su preferencia por los modelos de infraestructura digital pública, como los desarrollados por el Centro de Supercomputación de Barcelona, refleja una preocupación más amplia por la soberanía, la transparencia y la propiedad colectiva de las infraestructuras tecnológicas. El uso de un modelo catalán ajustado, por ejemplo, se convierte en algo más que una optimización técnica. Se convierte en parte de un esfuerzo más amplio por preservar la especificidad cultural y la pluralidad lingüística dentro de los sistemas computacionales.
 
@@ -117,11 +117,11 @@ Al mismo tiempo, Diego se muestra cauteloso ante la lógica extractiva que rodea
 
 # **Facilitar a lo largo del tiempo**
 
-«No siempre con la mirada puesta en recopilar más y más datos, sino deteniéndose un momento para mirar hacia atrás, al pasado».
-
 Detrás de todo esto hay una reflexión más amplia sobre el tiempo. Tras años de intensa militancia y organización política, Diego describe su vuelta a los estudios como una oportunidad para reducir el ritmo y procesar colectivamente lo ocurrido a lo largo de largas trayectorias de experimentación. Los sistemas de IA, las representaciones vectoriales, las visualizaciones y los archivos se convierten en formas de facilitar conversaciones diferidas con el pasado.
 
 En este sentido temporal, la facilitación va mucho más allá de los talleres individuales o los ciclos de consulta. Implica cuidar las condiciones que permiten que la participación siga siendo legible y revisitable a lo largo del tiempo. Limpiar conjuntos de datos. Publicar cuadernos. Documentar las elecciones metodológicas. Negociar el consentimiento en torno a las grabaciones. Dejar rastros que otros puedan reinterpretar más adelante.
+
+{% quote %}«No siempre con la mirada puesta en recopilar más y más datos, sino deteniéndose un momento para mirar hacia atrás, al pasado».{% endquote %}
 
 Desde la perspectiva de Diego, la participación se sustenta no solo a través del diseño de interfaces, sino también mediante el trabajo continuo de traducción, mantenimiento, rendición de cuentas y reflexión colectiva en el terreno irregular que se extiende entre la vida analógica y la representación digital.
 
