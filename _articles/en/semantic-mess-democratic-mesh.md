@@ -7,6 +7,15 @@ date: 2026-05-25T20:27:00.000+02:00
 date-updated: 2026-05-25T20:27:00.000+02:00
 article-order: 20
 uid: Semantic-Mess-Democratic-Mesh
+title: "From Semantic Mess to Democratic Mesh: facilitation accompanying data. A
+  conversation with Diego Arredondo Ortiz"
+description: Diego Arredondo Ortiz has spent more than a decade moving between
+  grassroots assemblies, civic technology, political organizing, and
+  interdisciplinary research.
+author: Nadia Nadesan & Olivier Schulbaum
+author_uids:
+  - nadia-nadesan
+  - olivier-schulbaum
 interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-05-25-a-las-20.29.02.png
