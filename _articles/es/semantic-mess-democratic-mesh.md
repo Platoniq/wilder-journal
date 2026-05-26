@@ -37,7 +37,7 @@ image:
 
 Facilitar, en el “mundo” de Diego, no es simplemente moderar una reunión o administrar una plataforma. Es cuidar las condiciones relacionales, emocionales e infraestructurales que permiten que la participación se produzca a través de realidades fragmentadas, tanto en línea como fuera de línea. Así, la facilitación tiene menos que ver con gestionar la participación que con acompañar las voces, las tensiones y las ideas inconclusas a medida que se mueven a través de plataformas, asambleas e infraestructuras. Significa caminar junto a los procesos en lugar de dirigirlos desde arriba, prestando atención a quienes no pueden, no quieren o simplemente nunca entrarán en los sistemas digitales, y encontrando formas de que sus ideas viajen de todos modos.
 
-# **Trasladar las ideas al entorno digital, no a las personas**
+## **Trasladar las ideas al entorno digital, no a las personas**
 
 Una de las ideas más acertadas de Diego es que siempre habrá personas que no se adentren en «lo digital», ya sea por falta de acceso, de interés, por la distancia cultural, por el nivel de alfabetización o por elección propia. En las comunidades rurales de Jalisco, recuerda cómo incluso pedir a los participantes una dirección de correo electrónico podía convertirse en un obstáculo. En esos contextos, la propia metáfora de la plataforma suele tener poco sentido. En lugar de considerar esto como un fallo que hay que corregir, Diego propone renunciar a la ambición de llevar a todo el mundo a Internet. El objetivo, en cambio, pasa a ser llevar las ideas a Internet, no a las personas.
 
@@ -51,7 +51,7 @@ La cuestión no es simplemente cómo digitalizar la participación, sino cómo a
 
 A lo largo de estas experiencias, Diego se interesó por la detección de estructuras de significado emergentes. Al principio, esto se materializó en proyectos de análisis de redes y visualización de redes sociales en **[Signa_Lab ITESO](<>)**, en Guadalajara. Los grandes gráficos de redes podían revelar quién estaba conectado con quién, quién amplificaba qué hashtag o cómo se agrupaban públicos polarizados en torno a acontecimientos políticos. Sin embargo, algo quedaba sin resolver. Las visualizaciones solían ser «grandes» y «bonitas», pero frustrantemente pobres a la hora de interpretar el significado en sí.. Se podía ver la interacción, pero no necesariamente entender lo que realmente se estaba diciendo.
 
-# **Los “embeddings” como herramientas de facilitación**
+## **Los “embeddings” como herramientas de facilitación**
 
 El interés de Diego por los embeddings, como formas de navegar lo que él denomina el «caos semántico colectivo» producido por la participación, surge precisamente de un problema de facilitación: cómo pasar de la intensidad de la militancia sobre el terreno a la abstracción del análisis de redes a gran escala sin perder a la gente por el camino. Las visualizaciones tradicionales le ofrecían mapas espectaculares de las interacciones en Twitter, pero seguían siendo limitadas a la hora de comprender realmente qué se estaba diciendo y qué preocupaciones colectivas estaban emergiendo. 
 
@@ -83,7 +83,7 @@ Para Diego, esto cambia lo que se puede llevar de vuelta al debate colectivo. En
 
 Sin embargo, estos sistemas nunca son espejos neutrales. Diego insiste repetidamente en que el modelado de temas y la agrupación semántica implican decisiones políticas a todos los niveles. Trabajar con modelos preentrenados siempre significa heredar decisiones tomadas en otros lugares sobre los datos de entrenamiento, las normas lingüísticas, las licencias y las visiones del mundo. Su preferencia por los modelos de infraestructura digital pública, como los desarrollados por el Centro de Supercomputación de Barcelona, refleja una preocupación más amplia por la soberanía, la transparencia y la propiedad colectiva de las infraestructuras tecnológicas. El uso de un modelo catalán ajustado, por ejemplo, se convierte en algo más que una optimización técnica. Se convierte en parte de un esfuerzo más amplio por preservar la especificidad cultural y la pluralidad lingüística dentro de los sistemas computacionales.
 
-# **Las sombras de la participación**
+## **Las sombras de la participación**
 
 Las reflexiones de Diego sobre la agrupación semántica revelan también otra capa de exclusión. Al utilizar BERTopic junto con métodos de agrupación más estrictos, como HDBScan (algoritmo para agrupaciones de datos con formas irregulares y densidades variables), muchas propuestas quedan fuera de agrupaciones semánticas estables. Estos valores atípicos pueden parecer ruido estadístico, pero también pueden revelar experiencias marginales, demandas aisladas o formas de expresión que no se repiten con la frecuencia suficiente como para resultar legibles desde el punto de vista computacional.
 
@@ -93,13 +93,13 @@ Esto cobra especial importancia porque el propio modelado semántico puede ser o
 
 Por esta razón, insiste en la transparencia, la replicabilidad y el escrutinio colectivo de las decisiones metodológicas. La cuestión política no es solo si los sistemas de IA funcionan con precisión, sino quién decide qué se considera coherencia, relevancia, ruido o consenso.
 
-# **Diseñar conjuntos, no solo plataformas**
+## **Diseñar conjuntos, no solo plataformas**
 
 Para Diego, la participación nunca se reduce a una simple plataforma. Es un conjunto compuesto por encuentros, interfaces, recuerdos, chats, facilitadores, infraestructuras, grabaciones, silencios, instituciones, cuerpos y conflictos que se reconfiguran constantemente entre sí. La facilitación inclusiva implica, por tanto, moverse entre distintos niveles, traducir los debates presenciales en registros digitales y, al mismo tiempo, sintetizar los debates digitales en formas que cobren sentido en los espacios físicos. Implica darse cuenta de quién desaparece en cada nivel. El vecino que está activo en WhatsApp pero ausente de la plataforma. El participante que habla en las asambleas pero nunca aparece en los conjuntos de datos. Los temas que se vuelven estadísticamente marginales a pesar de tener una profunda urgencia política.
 
 A Diego le interesan menos los espectaculares paneles de datos que la creación de imágenes, mapas y visualizaciones en las que las personas puedan reconocerse. Mapas donde los participantes identifiquen sus propios barrios. Constelaciones temáticas que hagan visibles luchas ya familiares para las comunidades. Visualizaciones semánticas que resulten intuitivas en lugar de alienantes. La facilitación, en este caso, implica acompañar la manera en que estas visualizaciones regresan al debate colectivo, en lugar de asumir que proyectar un gráfico en una pared democratiza automáticamente la interpretación.
 
-# **Democracia textual y expresión multimodal**
+## **Democracia textual y expresión multimodal**
 
 Detrás de muchas de las observaciones de Diego se esconde una crítica a las propias infraestructuras democráticas centradas en el texto. Las interfaces, los sistemas de propuestas, las normas lingüísticas y las arquitecturas de las plataformas privilegian ciertas formas de alfabetización mientras excluyen otras. Los migrantes, las comunidades multilingües, las personas con niveles más bajos de educación formal y los participantes acostumbrados a culturas orales o performativas a menudo se topan con barreras mucho antes de entrar en el propio debate político. La cuestión no es simplemente el acceso digital. Se trata del acceso a la gramática expresiva integrada en los sistemas de participación.
 
@@ -107,7 +107,7 @@ Por esta razón, Diego se alinea con las prácticas de Platoniq de desarrollar f
 
 Sus reflexiones guardan un estrecho vínculo con los enfoques de participación basados en las artes y multimodales que se han explorado a lo largo del proyecto INSPIRE, así como con la investigación de Platoniq sobre la experiencia política del usuario (PUX). La participación no es solo una cuestión de usabilidad de la interfaz. Se trata también de si los sistemas democráticos son capaces de reconocer las múltiples formas de expresar la experiencia política.
 
-# **La elección de las infraestructuras como medida de facilitación**
+## **La elección de las infraestructuras como medida de facilitación**
 
 Otro aspecto de la facilitación en el trabajo de Diego reside en la elección de las infraestructuras a través de las cuales se gestiona la participación. Trabajar con modelos preentrenados siempre implica aceptar las decisiones de otros en materia de datos, licencias y objetivos. Para él, optar por modelos públicos o desarrollados colectivamente, en lugar de API corporativas opacas, forma parte de un compromiso más amplio con la soberanía y la interpretabilidad compartida.
 
@@ -115,7 +115,7 @@ Esta elección no es puramente técnica. Determina quién puede auditar el siste
 
 Al mismo tiempo, Diego se muestra cauteloso ante la lógica extractiva que rodea a los datos en sí mismos. En lugar de avanzar sin cesar hacia una mayor captura, un mayor control y una mayor acumulación, se interesa cada vez más por revisar los archivos existentes. Los registros históricos, las colecciones de memoria y los documentos desclasificados sobre la represión en América Latina se convierten en espacios en los que el análisis asistido por IA podría ayudar a las comunidades a reflexionar colectivamente sobre historias sin resolver. La cuestión pasa de capturar más datos a reinterpretar los rastros heredados a través de formas de mediación tecnológica más responsables.
 
-# **Facilitar a lo largo del tiempo**
+## **Facilitar a lo largo del tiempo**
 
 Detrás de todo esto hay una reflexión más amplia sobre el tiempo. Tras años de intensa militancia y organización política, Diego describe su vuelta a los estudios como una oportunidad para reducir el ritmo y procesar colectivamente lo ocurrido a lo largo de largas trayectorias de experimentación. Los sistemas de IA, los embeddings, las visualizaciones y los archivos se convierten en formas de facilitar conversaciones diferidas con el pasado.
 
