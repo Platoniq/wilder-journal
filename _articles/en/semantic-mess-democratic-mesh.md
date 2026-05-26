@@ -84,7 +84,7 @@ Yet these systems are never neutral mirrors. Diego repeatedly insists that topic
 
 # **Shadows of Participation**
 
-Diego’s reflections on semantic clustering also reveal another layer of exclusion. Using BERTopic together with stricter clustering methods such as HDBScan, many proposals remain outside stable semantic groupings. These outliers may appear as statistical noise, but they may also reveal marginal experiences, isolated demands, or forms of expression that fail to repeat frequently enough to become computationally legible.
+Diego’s reflections on semantic clustering also reveal another layer of exclusion. Using BERTopic together with stricter clustering methods such as HDBScan (algorithm for clustering data with irregular shapes and varying densities), many proposals remain outside stable semantic groupings. These outliers may appear as statistical noise, but they may also reveal marginal experiences, isolated demands, or forms of expression that fail to repeat frequently enough to become computationally legible.
 
 Rather than dismissing these residual spaces, Diego suggests they may constitute shadows of participation. Traces of communities, experiences, territories, or political languages that remain structurally difficult to classify. In the absence of voluntarily shared sociodemographic data, exclusion often becomes visible only indirectly, through territorial patterns, interaction networks, or semantic absences. Certain neighborhoods repeatedly remain at the margins of participation datasets. Certain forms of speech appear disconnected from dominant thematic clusters. Some proposals circulate briefly before disappearing into what algorithms classify as irrelevance.
 
@@ -106,7 +106,7 @@ For this reason, Diego aligns with Platoniq's practices of developing forms of p
 
 In this sense, his reflections resonate strongly with the arts based and multimodal participation approaches explored throughout the INSPIRE project and with Platoniq’s research into political user experience (PUX). Participation is not only a question of interface usability. It is also a question of whether democratic systems are capable of recognizing multiple ways of expressing political experience.
 
-# **Choosing Infrastructures as a Facilitation Act**
+# **The use of infrastructure as a facilitation technique**
 
 Another layer of facilitation in Diego’s work lies in choosing the infrastructures through which participation is processed. Working with pre-trained models always means inheriting someone else’s decisions about data, licenses, and agendas. For him, selecting public or collectively developed models rather than opaque corporate APIs becomes part of a broader commitment to sovereignty and shared interpretability.
 
@@ -116,9 +116,9 @@ At the same time, Diego remains cautious about the extractive logic surrounding 
 
 # **Facilitating Across Time**
 
-Underlying all this is a broader reflection on time. After years of intense militancy and political organizing, Diego describes returning to study as an opportunity to slow down and collectively process what happened across long trajectories of experimentation. AI systems, embeddings, visualizations, and archives become ways of facilitating delayed conversations with the past.
+Underlying all this is a broader reflection on time. After years of intense militancy and political organizing, Diego describes returning to study as an opportunity to slow down and collectively process what happened across long trajectories of experimentation. AI systems, embeddings, visualizations, and archives become ways to facilitate deferred conversations with the past.
 
-In this temporal sense, facilitation extends far beyond individual workshops or consultation cycles. It involves caring for the conditions that allow participation to remain legible and revisitable over time. Cleaning datasets. Publishing notebooks. Documenting methodological choices. Negotiating consent around recordings. Leaving behind traces that others can reinterpret later.
+In this temporal sense, facilitation goes far beyond individual workshops or consultation cycles. It involves nurturing the conditions that allow participation to remain legible and open to reinterpretation over time. Cleaning datasets. Publishing notebooks. Documenting methodological choices. Negotiating consent regarding recordings. Leaving traces that others can reinterpret later.
 
 {% quote %} Not always looking forward to capturing more and more data, but stopping for a moment and looking back at the past.{% endquote %}
 
