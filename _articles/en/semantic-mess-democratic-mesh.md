@@ -64,9 +64,9 @@ It is precisely through this lens that Diego approached more than eight years of
 
 Certain themes returned persistently regardless of format, institutional cycle, or consultation type. Housing, bike lanes, public transportation, public space, and animal welfare repeatedly reappeared across the semantic landscape of the platform. What emerged was not simply a collection of isolated demands, but a longer civic rhythm through which the city continuously negotiates mobility, affordability, care, coexistence, and ecological transition.
 
-In this sense, **the platform begins to resemble less a repository of proposals and more a semantic mirror of Barcelona’s urban metabolism**. Participation does not appear as a sequence of disconnected consultations, but as an ongoing process through which urban publics repeatedly articulate unresolved tensions around space, infrastructure, visibility, and everyday life.
-
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-05-25-a-las-20.30.50.png","alt":"Analysis of over 31,000 citizen proposals submitted to decidim.barcelona between 2016 and 2024","caption":"Analysis of over 31,000 citizen proposals submitted to decidim.barcelona between 2016 and 2024","credits":"Diego Arredondo Ortiz"}] } %}
+
+In this sense, **the platform begins to resemble less a repository of proposals and more a semantic mirror of Barcelona’s urban metabolism**. Participation does not appear as a sequence of disconnected consultations, but as an ongoing process through which urban publics repeatedly articulate unresolved tensions around space, infrastructure, visibility, and everyday life.
 
 The recurrence of themes such as housing and mobility also reveals how digital participation platforms become entangled with the political geography of the city itself. Bike lanes are not simply transportation proposals. They are negotiations over street space, environmental transition, accessibility, tourism, and competing imaginaries of urban movement. Animal welfare debates similarly point toward moral and affective geographies embedded within parks, neighborhoods, domestic life, and public space.
 
