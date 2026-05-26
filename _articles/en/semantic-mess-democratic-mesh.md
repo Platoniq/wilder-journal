@@ -46,8 +46,6 @@ This requires hybrid infrastructures of translation. “We cannot allow what hap
 
 The question is not simply how to digitize participation, but how to accompany different forms of presence without forcing them into a single channel. Some participants may never appear on the screen. Others may remain active only through neighbors, facilitators, recordings, or translated summaries. Participation therefore becomes distributed across people, infrastructures, and acts of mediation rather than confined to direct platform interaction alone.
 
-{% quote %}“What interests me about this technique is to flatten everything and see what emerges within the semantic space.”{% endquote %}
-
 Throughout these experiences, Diego became interested in detecting emergent structures of meaning. At first, this emerged through network analysis and social media visualization projects at [Signa_Lab ITESO](<>) in Guadalajara. Large network diagrams could reveal who was connected to whom, who was amplifying which hashtag, or how polarized audiences clustered around political events. However, something remained unresolved. The visualizations were often “big” and “pretty,” but frustratingly poor at interpreting the actual meaning. You could see the interaction, but you couldn’t necessarily understand what was actually being said.
 
 ## **Embeddings as Tools for Facilitation**
@@ -126,7 +124,7 @@ Participation, from Diego’s perspective, is sustained not only through interfa
 
 Between semantic mess and democratic mesh, a tension remains unresolved. What happens to the people, experiences, and political languages that never stabilize into a recognizable cluster, yet continue insisting on being heard?
 
-*This article forms part of the* INSPIRE Project*, a Horizon Europe research initiative exploring intersectional inclusion, democratic participation, and participatory infrastructures across digital and physical spaces. Readers interested in the broader research context can explore the report* *Exploring the Intersection of* [*E-Democracy Platforms, Urban Development Models, and Political Cultures* *(June 2025)*](https://www.inspiredemocracy.eu/_files/ugd/a49cde_afb9ec9dba0e420cb86219ea7cec2b38.pdf)*, which offers a conceptual foundation for understanding digital participation platforms as civic infrastructures shaped by political cultures, urban assemblages, and spatial logics.*
+*This article forms part of the* INSPIRE Project*, a Horizon Europe research initiative exploring intersectional inclusion, democratic participation, and participatory infrastructures across digital and physical spaces. Readers interested in the broader research context can explore the report* [*Exploring the Intersection of* *E-Democracy Platforms, Urban Development Models, and Political Cultures* *(June 2025)*](https://www.inspiredemocracy.eu/_files/ugd/a49cde_afb9ec9dba0e420cb86219ea7cec2b38.pdf)*, which offers a conceptual foundation for understanding digital participation platforms as civic infrastructures shaped by political cultures, urban assemblages, and spatial logics.*
 
 **References**
 

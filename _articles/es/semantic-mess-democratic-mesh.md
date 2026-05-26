@@ -47,8 +47,6 @@ Esto requiere infraestructuras híbridas de traducción. «No podemos permitir q
 
 La cuestión no es simplemente cómo digitalizar la participación, sino cómo acompañar las diferentes formas de presencia sin forzarlas a un único canal. Es posible que algunos participantes nunca aparezcan en la pantalla. Otros pueden permanecer activos únicamente a través de vecinos, facilitadores, grabaciones o resúmenes traducidos. La participación, por lo tanto, se distribuye entre personas, infraestructuras y actos de mediación, en lugar de limitarse únicamente a la interacción directa en la plataforma.
 
-{% quote %}Lo que me interesa de esta técnica es aplanar todo y ver qué surge dentro del espacio semántico.{% endquote %}
-
 A lo largo de estas experiencias, Diego se interesó por la detección de estructuras de significado emergentes. Al principio, esto se materializó en proyectos de análisis de redes y visualización de redes sociales en **[Signa_Lab ITESO](<>)**, en Guadalajara. Los grandes gráficos de redes podían revelar quién estaba conectado con quién, quién amplificaba qué hashtag o cómo se agrupaban públicos polarizados en torno a acontecimientos políticos. Sin embargo, algo quedaba sin resolver. Las visualizaciones solían ser «grandes» y «bonitas», pero frustrantemente pobres a la hora de interpretar el significado en sí.. Se podía ver la interacción, pero no necesariamente entender lo que realmente se estaba diciendo.
 
 ## **Los “embeddings” como herramientas de facilitación**
@@ -127,7 +125,7 @@ Desde la perspectiva de Diego, la participación se sustenta no solo a través d
 
 Entre el caos semántico y la malla democrática, persiste una tensión sin resolver. ¿Qué ocurre con las personas, las experiencias y los lenguajes políticos que nunca se estabilizan en un conjunto reconocible, pero que siguen insistiendo en ser escuchados?
 
-*Este artículo forma parte del Proyecto INSPIRE, una iniciativa de investigación de Horizonte Europa que explora la inclusión interseccional, la participación democrática y las infraestructuras participativas en los espacios digitales y físicos. Los lectores interesados en el contexto de investigación más amplio pueden consultar el informe Exploring the Intersection of E-Democracy Platforms, Urban Development Models, and Political Cultures (junio de 2025), que ofrece una base conceptual para entender las plataformas de participación digital como infraestructuras cívicas moldeadas por las culturas políticas, los ensamblajes urbanos y las lógicas espaciales.*
+*Este artículo forma parte del Proyecto INSPIRE, una iniciativa de investigación de Horizonte Europa que explora la inclusión interseccional, la participación democrática y las infraestructuras participativas en los espacios digitales y físicos. Los lectores interesados en el contexto de investigación más amplio pueden consultar el informe [Exploring the Intersection of E-Democracy Platforms, Urban Development Models, and Political Cultures (junio de 2025)](https://www.inspiredemocracy.eu/_files/ugd/a49cde_afb9ec9dba0e420cb86219ea7cec2b38.pdf), que ofrece una base conceptual para entender las plataformas de participación digital como infraestructuras cívicas moldeadas por las culturas políticas, los ensamblajes urbanos y las lógicas espaciales.*
 
 ### **Referencias**
 
