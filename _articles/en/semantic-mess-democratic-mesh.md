@@ -18,7 +18,7 @@ author_uids:
   - olivier-schulbaum
 interviewee: null
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2026-05-25-a-las-20.29.02.png
+  path: /media/articles/heroes/photo_2026-05-26_09-24-26.jpg
   mobile: /media/articles/mobile/captura-de-pantalla-2026-05-25-a-las-20.29.02.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-05-25-a-las-20.30.50.png
 related_article_uids:
