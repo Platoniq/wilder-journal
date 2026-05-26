@@ -39,10 +39,10 @@ This is about a public administration refusing to show citizens the code of an a
 
 For months, and despite a landmark Supreme Court ruling, the source code of the automated system used to manage Spain’s social energy subsidy (popularly known as BOSCO) has [remained hidden](https://civio.es/novedades/2026/05/14/ocho-meses-desde-la-sentencia-de-bosco-y-seguimos-sin-tener-acceso-al-codigo/). The case driven by[ Civio](https://civio.es?utm_source=chatgpt.com) is no longer simply about access to public information: it has become one of the most important [debates on algorithmic democracy and institutional accountability in Spain](https://journal.platoniq.net/es/wilder-journal-2/futures/participatory-procurement-design-ai/).
 
-“Your file is still pending.”
-“Your request remains under review.”
-The answer dissolves in procedural fog,
-while the algorithm speaks like a hidden god.
+\    “Your file is still pending.”
+    “Your request remains under review.”
+    The answer dissolves in procedural fog,
+    while the algorithm speaks like a hidden god.
 
 The underlying question is profoundly political: can a democracy accept automated systems making decisions about social rights without allowing public auditing? Can public administration hide behind technicalities, procedural silence, or alleged technical complexity to avoid democratic scrutiny?
 
@@ -62,10 +62,10 @@ Because automated replies turn suffering into procedure.
 
 Poetry, instead, removes the mask.
 
-Behind each “technical issue” stamped in grey,
-there is a family told to wait another day.
-Behind each hidden line of public code,
-power walks disguised in a neutral robe.
+\    Behind each “technical issue” stamped in grey,
+    there is a family told to wait another day.
+    Behind each hidden line of public code,
+    power walks disguised in a neutral robe.
 
 Perhaps this is where algorithmic democracy truly begins: in recovering the collective capacity to read what power would prefer to keep unreadable.
 

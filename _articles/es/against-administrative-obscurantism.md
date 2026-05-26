@@ -42,10 +42,10 @@ Esto va de una administración pública que se niega a mostrar a la ciudadanía 
 
 Durante meses, y pese a una sentencia histórica del Tribunal Supremo, el código fuente del sistema automatizado utilizado para gestionar el bono social eléctrico, popularmente conocido como [BOSCO sigue oculto](https://civio.es/novedades/2026/05/14/ocho-meses-desde-la-sentencia-de-bosco-y-seguimos-sin-tener-acceso-al-codigo/). El caso impulsado por[ Civio](https://civio.es?utm_source=chatgpt.com) ya no trata únicamente sobre acceso a información pública: se ha convertido en uno de los [debates más importantes sobre democracia algorítmica](https://journal.platoniq.net/es/wilder-journal-2/futures/participatory-procurement-design-ai/) y rendición de cuentas institucional en España.
 
-“Su expediente sigue pendiente.”
-“Su solicitud continúa en revisión.”
-La respuesta se disuelve en niebla procedimental,
-mientras el algoritmo habla como un dios digital.
+\    “Su expediente sigue pendiente.”
+    “Su solicitud continúa en revisión.”
+    La respuesta se disuelve en niebla procedimental,
+    mientras el algoritmo habla como un dios digital.
 
 La cuestión de fondo es profundamente política: ¿puede una democracia aceptar que sistemas automatizados tomen decisiones sobre derechos sociales sin permitir auditoría pública? ¿Puede la administración esconderse detrás de tecnicismos, silencios procedimentales o supuestas complejidades técnicas para evitar el escrutinio ciudadano?
 
@@ -65,13 +65,13 @@ Porque las respuestas automáticas convierten el sufrimiento en trámite.
 
 La poesía, en cambio, vuelve a nombrar las cosas.
 
-Tras cada “incidencia técnica” en papel oficial,
-hay una familia esperando sin final.
-Tras cada línea de código escondida al mirar,
-hay poder fingiendo neutralidad.
+\    Tras cada “incidencia técnica” en papel oficial,
+    hay una familia esperando sin final.
+    Tras cada línea de código escondida al mirar,
+    hay poder fingiendo neutralidad.
 
 Tal vez ahí empiece también la democracia algorítmica: en recuperar la capacidad colectiva de leer aquello que el poder preferiría mantener ilegible.
 
-___
+- - -
 
 Créditos de la imagen © Yutong Liu / <https://betterimagesofai.org> / https://creativecommons.org/licenses/by/4.0/
