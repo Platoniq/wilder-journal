@@ -14,7 +14,7 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-05-26-a-las-16.40.28.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-05-26-a-las-16.40.28.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Yutong Liu / https://betterimagesofai.org /
     https://creativecommons.org/licenses/by/4.0/
