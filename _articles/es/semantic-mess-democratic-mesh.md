@@ -7,8 +7,8 @@ date: 2026-05-25T20:27:00.000+02:00
 date-updated: 2026-05-25T20:27:00.000+02:00
 article-order: 20
 uid: Semantic-Mess-Democratic-Mesh
-title: "Del caos semántico a la red democrática: la facilitación al servicio de
-  los datos. Una conversación con Diego Arredondo Ortiz"
+title: "Entre el caos semántico y el tejido democrático: la facilitación al
+  servicio de los datos. Una conversación con Diego Arredondo Ortiz"
 description: Una conversación con Diego Arredondo Ortiz, a cargo de Nadia
   Nadesan y Olivier Schulbaum
 author: Nadia Nadesan & Olivier Schulbaum
@@ -35,13 +35,13 @@ image:
 ---
 **Diego Arredondo Ortiz** lleva más de una década moviéndose entre las asambleas de base, la tecnología cívica, la organización política y la investigación interdisciplinaria. Su trayectoria comenzó en México a través de las asambleas en red y la experiencia de Wiki Partido y Wiki Política, donde formas experimentales de organización democrática llegaron de forma inesperada a la política institucional gracias a una exitosa campaña electoral local. Más tarde, su trabajo se orientó cada vez más hacia el ámbito académico, los métodos digitales y la visualización de datos, sin dejar de mantener una estrecha relación con las cuestiones de la organización colectiva y la participación democrática.
 
-Facilitar no es simplemente moderar una reunión o administrar una plataforma. Es cuidar las condiciones relacionales, emocionales e infraestructurales que permiten que la participación se produzca a través de realidades fragmentadas, tanto en línea como fuera de línea. La facilitación, en el mundo de Diego, tiene menos que ver con gestionar la participación que con acompañar las voces, las tensiones y las ideas inconclusas a medida que se mueven a través de plataformas, asambleas e infraestructuras. Significa caminar junto a los procesos en lugar de dirigirlos desde arriba, prestando atención a quienes no pueden, no quieren o simplemente nunca entrarán en los sistemas digitales, y encontrando formas de que sus ideas viajen de todos modos.
+Facilitar, en el “mundo” de Diego, no es simplemente moderar una reunión o administrar una plataforma. Es cuidar las condiciones relacionales, emocionales e infraestructurales que permiten que la participación se produzca a través de realidades fragmentadas, tanto en línea como fuera de línea. Así, la facilitación tiene menos que ver con gestionar la participación que con acompañar las voces, las tensiones y las ideas inconclusas a medida que se mueven a través de plataformas, asambleas e infraestructuras. Significa caminar junto a los procesos en lugar de dirigirlos desde arriba, prestando atención a quienes no pueden, no quieren o simplemente nunca entrarán en los sistemas digitales, y encontrando formas de que sus ideas viajen de todos modos.
 
-# **Llevar las ideas a Internet, no a las personas**
+# **Trasladar las ideas al entorno digital, no a las personas**
 
 Una de las ideas más acertadas de Diego es que siempre habrá personas que no se adentren en «lo digital», ya sea por falta de acceso, de interés, por la distancia cultural, por el nivel de alfabetización o por elección propia. En las comunidades rurales de Jalisco, recuerda cómo incluso pedir a los participantes una dirección de correo electrónico podía convertirse en un obstáculo. En esos contextos, la propia metáfora de la plataforma suele tener poco sentido. En lugar de considerar esto como un fallo que hay que corregir, Diego propone renunciar a la ambición de llevar a todo el mundo a Internet. El objetivo, en cambio, pasa a ser llevar las ideas a Internet, no a las personas.
 
-{% quote %}«En algún momento tendremos que dejar de lado el esfuerzo por llevar a las personas a Internet y centrarnos, en cambio, en llevar sus ideas a la red». {% endquote %}
+{% quote %}En algún momento tendremos que dejar de lado el esfuerzo por llevar a las personas a Internet y centrarnos, en cambio, en llevar sus ideas a la red. {% endquote %}
 
 Esto requiere infraestructuras híbridas de traducción. «No podemos permitir que lo que ocurre en la plataforma y lo que ocurre en los espacios físicos se conviertan en procesos desconectados». Los formularios de propuestas de plataformas participativas como Decidim pueden coexistir en papel. Los testimonios orales pueden transcribirse mediante sistemas de grabación de audio. Las notas manuscritas pueden incorporarse a archivos digitales mediante modelos de reconocimiento óptico de caracteres (OCR), capaces de leer y digitalizar notas manuscritas, páginas escaneadas y documentos fotografiados. En algunas asambleas, los micrófonos se activan solo en momentos acordados, lo que permite a los participantes negociar colectivamente el consentimiento en torno a la grabación y la transcripción. La facilitación, en este contexto, se convierte en la labor de trasladar ideas entre distintos medios, respetando al mismo tiempo las realidades desiguales en las que se produce la participación. 
 

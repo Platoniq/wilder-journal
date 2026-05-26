@@ -7,8 +7,8 @@ date: 2026-05-25T20:27:00.000+02:00
 date-updated: 2026-05-25T20:27:00.000+02:00
 article-order: 20
 uid: Semantic-Mess-Democratic-Mesh
-title: "From Semantic Mess to Democratic Mesh: facilitation accompanying data. A
-  conversation with Diego Arredondo Ortiz"
+title: "Between semantic chaos and the fabric of democracy: facilitation in the
+  service of data. A conversation with Diego Arredondo Ortiz"
 description: Diego Arredondo Ortiz has spent more than a decade moving between
   grassroots assemblies, civic technology, political organizing, and
   interdisciplinary research.
@@ -34,13 +34,13 @@ image:
 ---
 Diego Arredondo Ortiz has spent more than a decade moving between grassroots assemblies, civic technology, political organizing, and interdisciplinary research. His trajectory began in Mexico through networked assemblies and the experience of Wiki Partido and Wiki Política, where experimental forms of democratic organization unexpectedly reached institutional politics through a successful local election campaign. Later, his work shifted increasingly toward academia, digital methods, and data visualization, while maintaining a close relationship with questions of collective organization and democratic participation.
 
-To facilitate, in Diego’s world, is not simply to moderate a meeting or administer a platform. It is to care for the relational, emotional, and infrastructural conditions that allow participation to happen across fragmented realities, both online and offline. Facilitation, in Diego’s world, is less about managing participation than accompanying voices, tensions, and unfinished ideas as they move across platforms, assemblies, and infrastructures. It means walking alongside processes rather than directing them from above, paying attention to those who cannot, do not want to, or simply will never enter digital systems, and finding ways for their ideas to travel anyway.
+In Diego’s “world,” facilitating isn’t simply about moderating a meeting or administer a platform. It is to care for the relational, emotional, and infrastructural conditions that allow participation to happen across fragmented realities, both online and offline. Facilitation, in Diego’s world, is less about managing participation than accompanying voices, tensions, and unfinished ideas as they move across platforms, assemblies, and infrastructures. It means walking alongside processes rather than directing them from above, paying attention to those who cannot, do not want to, or simply will never enter digital systems, and finding ways for their ideas to travel anyway.
 
-# **Taking Ideas Online, Not Bodies**
-
-“At some point we will have to relinquish the effort of taking people online and instead focus on taking their ideas online.” 
+# **Bring ideas into the digital realm, not people**
 
 One of Diego’s strongest insights is that there will always be people who do not enter “the digital,” whether because of access, interest, cultural distance, literacy, or deliberate choice. In rural communities in Jalisco, he recalls how even asking participants for an email address could become an obstacle. In such contexts, the platform metaphor itself often carries little meaning. Rather than treating this as a failure to be corrected, Diego proposes relinquishing the ambition of bringing everybody online. The objective, instead, becomes taking ideas online, not bodies.
+
+{% quote %}At some point we will have to relinquish the effort of taking people online and instead focus on taking their ideas online.{% endquote %}
 
 This requires hybrid infrastructures of translation. “We cannot allow what happens on the platform and what happens in physical spaces to become disconnected processes.” Proposal forms from participatory platforms like Decidim may exist simultaneously on paper. Spoken testimonies may be transcribed through audio recording systems. Handwritten notes can enter digital archives through Optical Character Recognition models (OCR), that can read and digitize handwritten notes, scanned pages, and photographed documents. In some assemblies, microphones are activated only at agreed moments, allowing participants to negotiate consent around recording and transcription collectively. Facilitation, in this context, becomes the work of moving ideas across media while respecting the uneven realities through which participation happens. 
 
