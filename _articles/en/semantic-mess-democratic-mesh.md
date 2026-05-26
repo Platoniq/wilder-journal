@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/captura-de-pantalla-2026-05-25-a-las-20.29.02.png
+  path: /media/articles/social/photo_2026-05-26_09-24-26.jpg
 ---
 Diego Arredondo Ortiz has spent more than a decade moving between grassroots assemblies, civic technology, political organizing, and interdisciplinary research. His trajectory began in Mexico through networked assemblies and the experience of Wiki Partido and Wiki Política, where experimental forms of democratic organization unexpectedly reached institutional politics through a successful local election campaign. Later, his work shifted increasingly toward academia, digital methods, and data visualization, while maintaining a close relationship with questions of collective organization and democratic participation.
 
