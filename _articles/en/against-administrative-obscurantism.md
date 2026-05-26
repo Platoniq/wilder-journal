@@ -12,10 +12,14 @@ description: "A Raven Knocking at the Gate: BOSCO Remains Hidden"
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-05-26-a-las-16.40.28.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - ahmed
+  - AI-dialogue
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
