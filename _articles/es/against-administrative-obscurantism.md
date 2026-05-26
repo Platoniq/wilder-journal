@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-05-26-a-las-16.40.28.png
 ---
 Un cuervo golpeando el portal: BOSCO sigue oculto
 Esto no es un relato de Edgar Allan Poe,
