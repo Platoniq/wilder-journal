@@ -18,7 +18,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/photo_2026-05-26_09-24-26.jpg
   mobile: /media/articles/mobile/photo_2026-05-26_09-24-26.jpg
-  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-05-25-a-las-20.30.50.png
+  thumbnail: /media/articles/thumbnails/photo_2026-05-26_09-24-26.jpg
   alt: Diego Arredondo Ortiz
   credits: Diego Arredondo Ortiz
   caption: Diego Arredondo Ortiz
