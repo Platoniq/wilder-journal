@@ -80,7 +80,7 @@ El equipo de Lars configuró rápidamente una plataforma Decidim para ayudar a m
 
 Sin embargo, nunca llegó a ponerse realmente en marcha.
 
-Vista aérea del pueblo suizo de Blatten un día después de la enorme avalancha provocada por el desprendimiento del glaciar Birch. Michael Buholzer (AP/LaPresse)
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-05-27-a-las-12.59.16.png","credits":"Michael Buholzer (AP/LaPresse)","alt":"Vista aérea del pueblo suizo de Blatten un día después de la enorme avalancha provocada por el desprendimiento del glaciar Birch","caption":"Vista aérea del pueblo suizo de Blatten un día después de la enorme avalancha provocada por el desprendimiento del glaciar Birch"}] } %}
 
 Además de la solidaridad y las donaciones, la catástrofe atrajo a una avalancha de actores externos: estudios de planificación, arquitectos e inversores que llegaban con ofertas de «ayuda» que, a menudo, no eran más que propuestas para proyectos lucrativos. Una de las personas implicadas describió a estos actores como «buitres que se cebaban con la gente del valle», captando la sensación de que la afluencia de dinero y propuestas resultaba tan amenazante como solidaria.
 

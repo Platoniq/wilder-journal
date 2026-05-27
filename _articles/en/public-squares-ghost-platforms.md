@@ -73,7 +73,7 @@ Lars’s team rapidly configured a Decidim platform to help keep the displaced c
 
 Yet it never truly launched.
 
-Aerial view of the Swiss village of Blatten one day after the massive avalanche triggered by the collapse of the Birch Glacier. Michael Buholzer (AP/LaPresse)
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-05-27-a-las-12.59.16.png","alt":"Aerial view of the Swiss village of Blatten one day after the massive avalanche triggered by the collapse of the Birch Glacier. ","caption":"Aerial view of the Swiss village of Blatten one day after the massive avalanche triggered by the collapse of the Birch Glacier","credits":"Michael Buholzer (AP/LaPresse)"}] } %}
 
 Alongside solidarity and donations, the disaster attracted a rush of external actors: planning offices, architects, and investors arriving with offers to “help” that were often also bids for lucrative projects. One person involved described these actors as “vultures preying on the people in the valley,” capturing the sense that the influx of money and proposals was as threatening as it was supportive 
 
