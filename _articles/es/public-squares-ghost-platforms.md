@@ -36,13 +36,13 @@ Cada plaza pública tiene su propio ambiente, su propia mezcla de olores, sonido
 
 Los urbanistas rara vez hablan de estas dimensiones sensoriales de la infraestructura, pero cualquiera que haya vivido en diferentes ciudades, o haya pasado por diferentes crisis, las comprende instintivamente. Los espacios públicos nunca son neutrales. Acumulan hábitos, tensiones, rituales y formas de convivencia. Algunas plazas invitan a conversaciones prolongadas y a la imaginación colectiva. Otras comunican en silencio que la gente debe seguir adelante, permanecer en silencio o dejar las decisiones en manos de los expertos. Algunas plazas se perciben como de propiedad colectiva. Otras se perciben como vigiladas.
 
-Las infraestructuras democráticas digitales no son una excepción.
+**Las infraestructuras democráticas digitales no son una excepción.**
 
 Las plataformas como Decidim también tienen su propio «olor», en sentido figurado. Heredan culturas políticas, ritmos administrativos, inquietudes institucionales y supuestos sobre a quién va dirigida la participación. Sus interfaces pueden parecer limpias y universales, pero bajo los botones y los ensamblajes se esconden genealogías urbanas invisibles: el municipalismo barcelonés, el federalismo brasileño, las culturas de planificación suizas, las historias activistas, las tradiciones burocráticas e incluso las actitudes regionales hacia el conflicto y el consenso.
 
 Esto quedó sorprendentemente claro en dos conversaciones muy diferentes en el DecidimFest de este año. Una procedía de Brasil, donde Leonardo Mitchalski y el ecosistema Brasil Participativo están construyendo algo audaz: una infraestructura democrática pública capaz de extenderse a miles de municipios. La otra surgió de Suiza, donde Lars Kaiser reflexiona sobre una plataforma Decidim que estuvo técnicamente lista a los pocos días de que un catastrófico deslizamiento de tierra destruyera la localidad de Blatten, pero que nunca llegó a cobrar vida política.
 
-Brasil: Allanando el camino hacia los bienes comunes digitales
+### **Brasil: Allanando el camino hacia los bienes comunes digitales**
 
 Leonardo describe su misión en términos sencillos: la infraestructura está ahí para «facilitar la vida a los demás». Leonardo habla de la infraestructura casi como un ingeniero de carreteras habla de pavimentar vías: el objetivo es facilitar el desplazamiento de los demás. En Brasil, esto significa simplificar la implementación de Decidim de tal manera que los municipios ya no necesiten un ejército de ingenieros especializados solo para ponerse en marcha. El equipo condensa lo que solía ser una enredada «sopa de letras» de bases de datos, dependencias y configuraciones en implementaciones que se realizan prácticamente con un solo clic. La ambición política que se esconde tras esta simplificación técnica es enorme.
 
@@ -50,13 +50,13 @@ Porque cuando la infraestructura de participación es demasiado complicada, la p
 
 Picture by Gloria Mendoza Better Images of AI / CC BY 4.0 www.gloriamc.xyz
 
-De la «sopa de letras» a las implementaciones con un solo clic en Brasil
+### **De la «sopa de letras» a las implementaciones con un solo clic en Brasil**
 
 La instalación de Decidim suele requerir una serie de pasos, como la configuración de Redis, Postgres y otros componentes que Leonardo denomina en broma «sopa de letras». La pila SaaS brasileña los condensa en un único comando que instala todas las dependencias de una sola vez, convirtiendo lo que antes era un proceso de varios pasos y propenso a errores en algo más accesible para los administradores y los nuevos colaboradores.  
 
 Además, han creado una pequeña aplicación web que permite a un administrador del sistema poner en marcha una nueva instancia de Decidim para una ciudad o un estado a través de una interfaz de navegador. El flujo de trabajo es sencillo: descargar el proyecto, ejecutar un comando para instalar la aplicación web en Kubernetes, ejecutar otro comando para exponerla y, a continuación, configurar las organizaciones a través de una interfaz fácil de usar. Algunas personalizaciones aún deben ser realizadas manualmente por un administrador, pero se está trabajando para prellenar parte de esa configuración, de modo que los gobiernos locales puedan pasar de la «idea» a la «plataforma participativa en funcionamiento» mucho más rápidamente.  En este momento, once municipios están preparados para las pruebas beta, con el potencial de ampliarse a unos 5000 municipios y estados.
 
-Este es exactamente el tipo de accesibilidad e iteración que aboga el «Safe(r) Spaces Playbook» de Platoniq: ocultar la complejidad innecesaria, documentar las decisiones tomadas con criterio y dejar margen para la adaptación a diferentes contextos, en lugar de dar por sentada una configuración perfecta. Reconoce que lo que funciona en Brasil puede no ser aplicable en todas partes, pero ofrece una plantilla con un enfoque definido que otros pueden estudiar, adaptar y ajustar.   
+Este es exactamente el tipo de **accesibilidad** e **iteración** que aboga el «Safe(r) Spaces Playbook» de Platoniq: ocultar la complejidad innecesaria, documentar las decisiones tomadas con criterio y dejar margen para la adaptación a diferentes contextos, en lugar de dar por sentada una configuración perfecta. Reconoce que lo que funciona en Brasil puede no ser aplicable en todas partes, pero ofrece una plantilla con un enfoque definido que otros pueden estudiar, adaptar y ajustar.   
 
 La respuesta de Brasil no es solo software de código abierto, sino hospitalidad infraestructural. Su ecosistema, construido a través de una infraestructura de nube pública y una arquitectura Kubernetes portátil, intenta garantizar que las herramientas democráticas puedan viajar. Un municipio no debería depender de un único proveedor, consultora o experto técnico carismático. La infraestructura de participación debería comportarse más como un servicio público compartido que como un producto de lujo.
 
@@ -64,9 +64,9 @@ Se trata de una fascinante inversión de cómo muchos gobiernos siguen abordando
 
 Algunas infraestructuras digitales desprenden un aire de exclusividad. Puertas cerradas. Costosos contratos de mantenimiento. Dependencia. Otras desprenden un aire experimental y precario: repositorios de GitHub abandonados, agotamiento de los activistas, agotamiento de los voluntarios. El proyecto brasileño desprende un aire diferente. Desprende un aire institucional, pero en un sentido sorprendentemente esperanzador: como un comedor social que intenta alimentar a mucha gente con recursos limitados, al tiempo que mantiene la receta abierta para que otros puedan adaptarla.
 
-Cuando se le pregunta por qué es importante este trabajo, Leonardo señala a los países en desarrollo, donde no hay «tantos ingenieros de software altamente cualificados» y donde los beneficios de herramientas fáciles de usar y bien documentadas pueden ser enormes para las instituciones y las comunidades. Para él, cada documento, cada automatización que hace que el mantenimiento sea menos una cuestión de pánico y más un análisis tranquilo de las causas fundamentales, forma parte de hacer que las infraestructuras de participación sean más inclusivas.
+Cuando se le pregunta por qué es importante este trabajo, Leonardo señala a los países en desarrollo, donde no hay «tantos ingenieros de software altamente cualificados» y donde los beneficios de herramientas fáciles de usar y bien documentadas pueden ser enormes para las instituciones y las comunidades. Para él, cada documento, cada automatización que hace que el mantenimiento sea menos una cuestión de pánico y más un análisis tranquilo de las causas fundamentales, forma parte de hacer que las infraestructuras de participación sean más **inclusivas.**
 
-Sobrecarga, «buitres» y parálisis política
+### **Sobrecarga, «buitres» y parálisis política**
 
 Las plataformas como Decidim suelen imaginarse como navajas suizas democráticas: herramientas modulares que pueden desplegarse de forma diferente según la situación. Asambleas, propuestas, debates, mecanismos de rendición de cuentas: cada función promete adaptabilidad. En Blatten, Suiza, Lars Kaiser y su equipo se encontraron con el dilema contrario.
 
@@ -88,11 +88,11 @@ No porque el sistema fallara. No porque la gente rechazara participar. Sino porq
 
 Y en estas condiciones, mantener la conexión social pasó a clasificarse como «secundario». Opcional. De menor importancia. Pero cualquiera que haya vivido una catástrofe sabe que lo contrario es cierto.
 
-Tras un desastre, la cohesión social no es un adorno. Es infraestructura.
+**Tras un desastre, la cohesión social no es un adorno. Es infraestructura.**
 
 Sin espacios donde las personas puedan mantenerse conectadas, discutir, llorar, recordar e imaginar juntos el futuro, la reconstrucción se convierte en algo puramente técnico. Se reconstruyen las carreteras. Vuelven las casas. Pero la plaza pública desaparece.
 
-Participación subversiva, en lugar de métodos «plug-and-play»
+### **Participación subversiva, en lugar de métodos «plug-and-play»**
 
 Lars Kaiser tiene experiencia en ordenación del territorio en Suiza, donde la participación suele estar vinculada a la legislación urbanística y a las transformaciones urbanas, más que a grandes debates constitucionales. Describe la misión de UrbanEquip como la «democratización del desarrollo urbano», centrándose en proyectos que sean divertidos y capaces de tener un impacto real en quienes dan forma a las ciudades y pueblos. Esa mezcla de diversión, ingresos y efecto estructural encaja mal en un contexto de catástrofe, donde las administraciones eliminan instintivamente cualquier cosa que parezca experimental o emocional.
 
@@ -118,7 +118,7 @@ Las infraestructuras democráticas digitales están empezando a heredar este pap
 
 Algunas se parecerán a gigantescos sistemas de transporte federal, como el ecosistema brasileño. Otras pueden seguir siendo refugios temporales frágiles, como la plataforma no realizada en Blatten. Algunas olerán a burocracia; otras, a activismo; otras, a comedores de ayuda mutua montados durante emergencias.
 
-Ambas experiencias ponen de relieve cómo se perciben políticamente las plataformas de participación. En contextos altamente frágiles inundados de consultores, inversores y actores externos, Decidim corre el riesgo de ser visto como una oferta de servicios más, a menos que esté claramente arraigado en el valor público, la confianza local y el compromiso democrático a largo plazo.
+Ambas experiencias ponen de relieve cómo se perciben políticamente las plataformas de participación. **En contextos altamente frágiles inundados de consultores, inversores y actores externos, Decidim corre el riesgo de ser visto como una oferta de servicios más, a menos que esté claramente arraigado en el valor público, la confianza local y el compromiso democrático a largo plazo.**
 
 Pero quizás la lección más importante de ambas historias es esta:
 
@@ -128,4 +128,4 @@ Y, como todos los lugares, requieren mantenimiento, no solo de servidores e inte
 
 En DecidimFest, este trabajo se situó en la intersección entre el código, el cuidado y la política. Nos recuerda que los espacios digitales más seguros no surgen únicamente de las políticas de moderación o las directrices comunitarias, sino de cada decisión que facilita que el próximo ayuntamiento, el próximo estudiante o el próximo funcionario se incorpore, aprenda y mantenga los bienes comunes digitales de los que dependemos.
 
-Este artículo forma parte del Proyecto INSPIRE, una iniciativa de investigación de Horizonte Europa que explora la inclusión interseccional, la participación democrática y las infraestructuras participativas en los espacios digitales y físicos. Los lectores interesados en el contexto de investigación más amplio pueden consultar el informe Exploring the Intersection of E-Democracy Platforms, Urban Development Models, and Political Cultures (junio de 2025), que ofrece una base conceptual para entender las plataformas de participación digital como infraestructuras cívicas moldeadas por las culturas políticas, los ensamblajes urbanos y las lógicas espaciales.
+*Este artículo forma parte del Proyecto INSPIRE, una iniciativa de investigación de Horizonte Europa que explora la inclusión interseccional, la participación democrática y las infraestructuras participativas en los espacios digitales y físicos. Los lectores interesados en el contexto de investigación más amplio pueden consultar el informe Exploring the Intersection of E-Democracy Platforms, Urban Development Models, and Political Cultures (junio de 2025), que ofrece una base conceptual para entender las plataformas de participación digital como infraestructuras cívicas moldeadas por las culturas políticas, los ensamblajes urbanos y las lógicas espaciales.*
