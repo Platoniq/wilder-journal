@@ -24,15 +24,15 @@ Es además impulsora de la plataforma de crowdfunding cívico Goteo.org, a trav�
 
 La Fundación promueve la transparencia, la economía colaborativa y ética, la innovación democrática y la replicabilidad de las experiencias. Se financia a través de alianzas con instituciones públicas y privadas que comparten su misión y visión. Contamos con 23 personas contratadas distribuidas entre las oficinas de Barcelona, Madrid, Roma y Palma (sede social y fiscal) y un equipo de colaboradores en el estado español y en otros países europeos.
 
-{% author { "name": "Susana Noguero", "position": "Co-fundadora de la Fundación Platoniq", "image": { "path": "/media/susana.jpeg", "alt": "Susana Noguero, co-fundadora de la Fundación Platoniq" }, "description": "\"Desde que las sociedades entendieron que aprender es fundamental para progresar, existen los juegos con reglas. ¿Podemos aprender a participar en nuestra democracia mediante la gamificación? La democracia es divertida... ¡si nos la tomamos en serio!\"" } %}
+{% author { "name": "Susana Noguero", "position": "Co-fundadora de la Fundación Platoniq", "image": { "path": "/media/susana.jpeg", "alt": "Susana Noguero, co-fundadora de la Fundación Platoniq" }, "description": ""Desde que las sociedades entendieron que aprender es fundamental para progresar, existen los juegos con reglas. ¿Podemos aprender a participar en nuestra democracia mediante la gamificación? La democracia es divertida... ¡si nos la tomamos en serio!"" } %}
 
-{% author { "name": "Olivier Schulbaum", "position": "Co-fundador de la Fundación Platoniq", "image": { "path": "/media/olivier.jpg", "alt": "Olivier Schulbaum, co-fundador de la Fundación Platoniq" }, "description": "\"Las instituciones públicas y los responsables políticos están ávidos por una mayor participación (wider participation). La ciudadanía les reta con una participación más salvaje (wiLder participation). ¡La democracia deliberativa está solamente a una letra de distancia! ¡Debatamos, mezclemos, democraticemos!\"" } %}
+{% author { "name": "Olivier Schulbaum", "position": "Co-fundador de la Fundación Platoniq", "image": { "path": "/media/olivier.jpg", "alt": "Olivier Schulbaum, co-fundador de la Fundación Platoniq" }, "description": ""Las instituciones públicas y los responsables políticos están ávidos por una mayor participación (wider participation). La ciudadanía les reta con una participación más salvaje (wiLder participation). ¡La democracia deliberativa está solamente a una letra de distancia! ¡Debatamos, mezclemos, democraticemos!"" } %}
 
 ## ¿Cuál es nuestra misión?
 
 Impulsar una cultura democrática inclusiva y la economía cooperativa, social y solidaria, basadas en la gobernanza colaborativa, la sostenibilidad y la participación a través de las tecnologías cívicas abiertas, la innovación, el acceso a la financiación y la creatividad.
 
-## ¿Cuáles son nuestros valores?
+## ¿Cuáles son nuestros valores? 
 
 * Valentía, curiosidad y ambición en abordar retos difíciles o inexplorados.
 * Espíritu "hacker"
