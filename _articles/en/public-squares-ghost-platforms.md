@@ -53,6 +53,8 @@ On top of this, they have built a small web application that lets a system admin
 
 This is exactly the kind of **accessibility** and **iteration** Platoniq’s Safe(r) Spaces Playbook calls for: hiding unnecessary complexity, documenting opinionated choices, and leaving room for adaptation to different contexts, rather than assuming one perfect configuration. It acknowledges that what works for Brazil might not apply everywhere, but offers an opinionated template that others can study, fork, and adjust.   
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-05-27-a-las-12.58.25.png"}] } %}
+
 Brazil’s answer is not only open source software, but infrastructural hospitality. Their ecosystem; built through public cloud infrastructure and portable Kubernetes architecture, tries to ensure that democratic tools can travel. A municipality should not become dependent on a single vendor, consultancy, or charismatic technical expert. Participation infrastructure should behave more like a shared public utility than a luxury product.
 
 It is a fascinating inversion of how many governments still approach civic tech. Usually, digital participation arrives as a polished interface sold through procurement logic: a platform as a product. But Leonardo’s approach treats infrastructure itself as a commons. The important thing is not only the visible square where participation happens, but the hidden plumbing that allows the square to remain open, maintained, and collectively owned. And perhaps that is where the smell metaphor becomes useful again.
