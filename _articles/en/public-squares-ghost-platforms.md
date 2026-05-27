@@ -11,10 +11,14 @@ title: Public Squares, Ghost Platforms and the Smell of Digital Democracy
 description: Every public square has its own atmosphere, its own mixture of
   smells, sounds, and rhythms.
 author: Nadia Nadessan & Olivier Schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - Against-Administrative-Obscurantism
+  - consejo-ciudadano-congreso
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
