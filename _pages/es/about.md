@@ -32,7 +32,7 @@ La Fundación promueve la transparencia, la economía colaborativa y ética, l
 
 Impulsar una cultura democrática inclusiva y la economía cooperativa, social y solidaria, basadas en la gobernanza colaborativa, la sostenibilidad y la participación a través de las tecnologías cívicas abiertas, la innovación, el acceso a la financiación y la creatividad.
 
-## ¿Cuáles son nuestros valores? 
+## ¿Cuáles son nuestros valores?
 
 * Valentía, curiosidad y ambición en abordar retos difíciles o inexplorados.
 * Espíritu "hacker"
