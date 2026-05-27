@@ -43,7 +43,7 @@ Leonardo describes his mission in simple terms: infrastructure is there to “ma
 
 Because when participation infrastructure is too complicated, democracy itself becomes unevenly distributed. Wealthier institutions can afford expert teams; poorer municipalities cannot. Some cities get beautifully maintained civic spaces while others inherit abandoned digital ruins. Technical friction becomes political exclusion.
 
-Picture by Gloria Mendoza Better Images of AI / CC BY 4.0 www.gloriamc.xyz
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-05-27-a-las-12.58.12.png","credits":"CC BY 4.0 www.gloriamc.xyz","alt":"Picture by Gloria Mendoza Better Images of AI / CC BY 4.0 www.gloriamc.xyz","caption":"Picture by Gloria Mendoza Better Images of AI / CC BY 4.0 www.gloriamc.xyz"}] } %}
 
 ### **From “letter soup” to one‑click deployments in Brasil**
 

@@ -48,6 +48,8 @@ Leonardo describe su misión en términos sencillos: la infraestructura está ah
 
 Porque cuando la infraestructura de participación es demasiado complicada, la propia democracia se distribuye de forma desigual. Las instituciones más ricas pueden permitirse equipos de expertos; los municipios más pobres, no. Algunas ciudades cuentan con espacios cívicos magníficamente mantenidos, mientras que otras heredan ruinas digitales abandonadas. La fricción técnica se convierte en exclusión política.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-05-27-a-las-12.58.12.png","alt":"Picture by Gloria Mendoza Better Images of AI / ","caption":"Picture by Gloria Mendoza Better Images of AI / CC BY 4.0 www.gloriamc.xyz","credits":"CC BY 4.0 www.gloriamc.xyz"}] } %}
+
 Picture by Gloria Mendoza Better Images of AI / CC BY 4.0 www.gloriamc.xyz
 
 ### **De la «sopa de letras» a las implementaciones con un solo clic en Brasil**
