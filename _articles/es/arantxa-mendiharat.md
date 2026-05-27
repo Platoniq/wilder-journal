@@ -83,7 +83,7 @@ A mí me gusta el modelo de hacer una primera asamblea para decidir la agenda y 
 
 ### ¿Una Asamblea ciudadana siempre tiene que ser convocada desde el gobierno?
 
-No tiene por qué. La primera Asamblea ciudadana en Irlanda no se convocó desde el gobierno, sino desde la sociedad civil, desde una asociación que se creó llamada We The Citizens que hizo un primer proceso piloto que funcionó y por eso se trasladó a nivel gubernamental. Esto demuestra que no siempre hay que esperar a los gobiernos para que pongan en marcha estos procesos deliberativos; también puede hacerse desde la ciudadanía. Pero, evidentemente, cuando se hace desde los gobiernos con la premisa de que la decisión de la asamblea será después implementada, el mandato parte con más fuerza.
+No tiene por qué. La primera Asamblea ciudadana en Irlanda no se convocó desde el gobierno, sino desde la sociedad civil, desde una asociación que se creó llamada We The Citizens que hizo un **primer proceso piloto que funcionó** y por eso se trasladó a nivel gubernamental. Esto demuestra que no siempre hay que esperar a los gobiernos para que pongan en marcha estos procesos deliberativos; también puede hacerse desde la ciudadanía. Pero, evidentemente, cuando se hace desde los gobiernos con la premisa de que la decisión de la asamblea será después implementada, el mandato parte con más fuerza.
 
 ### ¿Hay algún manual con el que la ciudadanía pueda poner en marcha un proceso deliberativo?
 
