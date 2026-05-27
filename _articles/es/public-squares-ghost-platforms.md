@@ -96,6 +96,8 @@ Y en estas condiciones, mantener la conexión social pasó a clasificarse como �
 
 Sin espacios donde las personas puedan mantenerse conectadas, discutir, llorar, recordar e imaginar juntos el futuro, la reconstrucción se convierte en algo puramente técnico. Se reconstruyen las carreteras. Vuelven las casas. Pero la plaza pública desaparece.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-05-27-a-las-12.59.45.png"}] } %}
+
 ### **Participación subversiva, en lugar de métodos «plug-and-play»**
 
 Lars Kaiser tiene experiencia en ordenación del territorio en Suiza, donde la participación suele estar vinculada a la legislación urbanística y a las transformaciones urbanas, más que a grandes debates constitucionales. Describe la misión de UrbanEquip como la «democratización del desarrollo urbano», centrándose en proyectos que sean divertidos y capaces de tener un impacto real en quienes dan forma a las ciudades y pueblos. Esa mezcla de diversión, ingresos y efecto estructural encaja mal en un contexto de catástrofe, donde las administraciones eliminan instintivamente cualquier cosa que parezca experimental o emocional.
