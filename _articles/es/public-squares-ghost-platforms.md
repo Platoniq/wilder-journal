@@ -50,8 +50,6 @@ Porque cuando la infraestructura de participación es demasiado complicada, la p
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-05-27-a-las-12.58.12.png","alt":"Picture by Gloria Mendoza Better Images of AI / ","caption":"Picture by Gloria Mendoza Better Images of AI / CC BY 4.0 www.gloriamc.xyz","credits":"CC BY 4.0 www.gloriamc.xyz"}] } %}
 
-Picture by Gloria Mendoza Better Images of AI / CC BY 4.0 www.gloriamc.xyz
-
 ### **De la «sopa de letras» a las implementaciones con un solo clic en Brasil**
 
 La instalación de Decidim suele requerir una serie de pasos, como la configuración de Redis, Postgres y otros componentes que Leonardo denomina en broma «sopa de letras». La pila SaaS brasileña los condensa en un único comando que instala todas las dependencias de una sola vez, convirtiendo lo que antes era un proceso de varios pasos y propenso a errores en algo más accesible para los administradores y los nuevos colaboradores.  
