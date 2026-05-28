@@ -74,6 +74,8 @@ The relationship becomes increasingly emotionally intense, yet we are irrevocabl
 
 In contrast to this paradigm, the emerging approaches of SOReDi allow us to envision a radically different direction: a prosocial AI capable of strengthening autonomy and democratic capacities.
 
+{% gallery { "simple": false, "images": [{"path":"/media/danielazampieri-thesleep-of-autonomy-produces-monsters-1280x1935.png","alt":"Daniela Zampieri / https://betterimagesofai.org","caption":"Daniela Zampieri / https://betterimagesofai.org","credits":"https://creativecommons.org/licenses/by/4.0/"}] } %}
+
 Prosocial AI is not conceived as a “perfect emotional substitute,” but rather as an infrastructure for mediation and collective care. Its design is based on participatory methodologies inspired by Platoniq’s work on digital democracy, safe(r) spaces, technopolitics, and co-design with vulnerable communities. And this implies that the very people affected by anxiety, exclusion, precariousness, or discrimination participate in defining:
 
 → ethical boundaries

@@ -88,6 +88,8 @@ La relación se vuelve cada vez más intensa emocionalmente pero nos aislamos so
 
 Frente a este paradigma, las líneas emergentes de SOReDi permiten imaginar una dirección radicalmente distinta: una **IA prosocial** capaz de fortalecer la autonomía y las capacidades democráticas.
 
+{% gallery { "simple": false, "images": [{"path":"/media/danielazampieri-thesleep-of-autonomy-produces-monsters-1280x1935.png","alt":"Daniela Zampieri / https://betterimagesofai.org","caption":"Daniela Zampieri / https://betterimagesofai.org","credits":"https://creativecommons.org/licenses/by/4.0/"}] } %}
+
 La IA prosocial no se concibe como un “sustituto emocional perfecto”, sino como una infraestructura de mediación y cuidado colectivo. Su diseño parte de metodologías participativas inspiradas en el trabajo de Platoniq sobre democracia digital, safe(r) spaces, tecnopolítica y co-diseño con comunidades vulnerabilizadas. Y esto implica que las propias personas afectadas por la ansiedad, la exclusión, la precariedad o la discriminación participan en la definición de:
 
 → límites éticos
