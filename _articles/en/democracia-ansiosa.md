@@ -10,7 +10,7 @@ uid: democracia-ansiosa
 interviewee: null
 cover:
   path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/eliseracine-emotion_joy-1280x1840.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - AI-dialogue
