@@ -13,7 +13,7 @@ author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
 cover:
-  path: /media/articles/heroes/captura-de-pantalla-2026-05-26-a-las-16.40.28.png
+  path: /media/articles/heroes/yutongliu-joiningthe-table-1280x667.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-05-26-a-las-16.40.28.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-05-26-a-las-16.40.28.png
   alt: Yutong Liu / https://betterimagesofai.org /
