@@ -24,81 +24,93 @@ call_to_action: cta-donate
 image:
   path: /assets/media/no_image-social_media.png
 ---
-Regular plataformas o limitar riesgos no es suficiente, en el primer post de la serie SoReDI nos preguntamos cómo devolver la capacidad de decisión democrática a quienes están creciendo dentro de estas infraestructuras. 
+Regulating platforms or limiting risks isn’t enough; in the first post of the SoReDI series, we ask how we can restore democratic decision-making power to those who are growing up within these infrastructures.
 
-**El uso de la IA para el apoyo emocional o la salud mental**
+**The use of AI for emotional support or mental health**
 
-Existen ya datos bastante sólidos (aunque todavía emergentes) que muestran que adolescentes y jóvenes están utilizando sistemas de IA no solo como asistentes, sino como **compañeros emocionales, consejeros e incluso sustitutos parciales de apoyo psicológico profesional**. [Se sabe](https://www.ajmc.com/view/adolescents-young-adults-use-ai-chatbots-for-mental-health-advice?utm_source=chatgpt.com) que en EE.UU. son ya el 13% de los jóvenes de entre 12 y 17 años que lo utilizan, mientras que el porcentaje sube al 22% entre aquellos que tienen de 18 a 21 años.
+There is already fairly solid (though still emerging) evidence showing that teenagers and young adults are using AI systems not only as assistants, but also as emotional companions, advisors, and even partial substitutes for professional psychological support. It is known that in the U.S., 13% of young people aged 12 to 17 already use them, while the percentage rises to 22% among those aged 18 to 21.
 
-En Europa la situación es igual de alarmante. La [mitad de los jóvenes europeos](https://www.reuters.com/technology/young-europeans-turn-ai-chatbots-emotional-support-survey-shows-2026-05-05/?utm_source=chatgpt.com) consideran  “más fácil” hablar con un chatbot sobre problemas personales que con profesionales sanitarios. De manera que podemos afirmar, sin riesgo a equivocarnos, que también la juventud europea está entrando en una situación delicada en relación con la salud mental juvenil y el papel emergente de la inteligencia artificial en los ecosistemas de cuidado. 
+In Europe, the situation is just as alarming. Half of European youth consider it “easier” to talk to a chatbot about personal problems than to healthcare professionals. So we can safely say that European youth are also entering a delicate situation regarding youth mental health and the emerging role of artificial intelligence in care ecosystems.
 
-Por un lado, se acumulan señales de una crisis estructural: aumento de la ansiedad y la soledad entre jóvenes, precarización de las condiciones de vida, saturación de los servicios públicos de salud mental y enormes listas de espera para acceder a apoyo psicológico profesional. De manera que, en muchos territorios, y especialmente entre adolescentes y jóvenes, el acceso a espacios de escucha y acompañamiento se ha convertido en un privilegio desigual y fragmentado.
+On the one hand, there are growing signs of a structural crisis: rising levels of anxiety and loneliness among young people, increasingly precarious living conditions, overburdened public mental health services, and long waiting lists for professional psychological support. As a result, in many areas—and especially among adolescents and young adults—access to spaces where they can be heard and supported has become an unequal and fragmented privilege.
 
-**Una oportunidad de oro para generar más dependencia**
+**A golden opportunity to create more dependency**
 
-En este contexto de vulnerabilidad, las grandes plataformas tecnológicas están comenzando a ocupar un vacío afectivo e institucional cada vez más visible. Los sistemas de IA conversacional ofrecen acompañamiento permanente, disponibilidad emocional 24/7, escucha instantánea y una forma de pseudo-empatía escalable capaz de adaptarse a millones de usuarios simultáneamente. 
+In this context of vulnerability, major tech platforms are beginning to fill an increasingly visible emotional and institutional void. Conversational AI systems offer constant companionship, 24/7 emotional availability, instant listening, and a form of scalable pseudo-empathy capable of adapting to millions of users simultaneously. 
 
-Para muchos jóvenes, estos sistemas aparecen como espacios menos juzgadores, más accesibles y emocionalmente más inmediatos que las instituciones tradicionales de cuidado. Sin embargo, esta transición abre una tensión política y ética profunda: el riesgo de una progresiva privatización algorítmica del cuidado emocional. 
+For many young people, these systems appear to be less judgmental, more accessible, and emotionally more immediate than traditional care institutions. However, this transition raises a profound political and ethical tension: the risk of a progressive algorithmic privatization of emotional care.
 
-Lo que históricamente pertenecía al ámbito de las relaciones humanas, comunitarias o públicas empieza a ser mediado por infraestructuras propietarias optimizadas principalmente para maximizar engagement, retención y dependencia relacional, cuayas consecuencias ya conocemos bien. [Investigaciones](https://arxiv.org/abs/2507.15783?) sobre adolescentes usuarios de Character.AI muestran claramente consecuencias negativas para los usuarios más jóvenes: pérdida de sueño, descenso académico, reducción de interacciones offline y el consiguiente aislamiento social progresivo.
+What historically fell within the realm of human, community, or public relations is now increasingly mediated by proprietary infrastructures optimized primarily to maximize engagement, retention, and relational dependence—the consequences of which we are already well aware. Research on adolescent users of Character.AI clearly shows negative consequences for younger users: sleep deprivation, declining academic performance, reduced offline interactions, and the resulting progressive social isolation.
 
-Ahí es donde la cuestión que se nos plantea ya no es únicamente tecnológica, sino democrática: ¿quién diseña las arquitecturas emocionales del futuro, bajo qué intereses y con qué formas de rendición de cuentas?
+This is where the question before us is no longer merely technological, but democratic: who designs the emotional architectures of the future, under what interests, and with what forms of accountability?
 
-**Una IA para el cuidado y la democracia**
+**AI for Care and Democracy**
 
-Es precisamente ahí donde el enfoque de SOReDi adquiere una relevancia estratégica. Frente a modelos de IA orientados a capturar atención y generar apego emocional continuo, proponemos explorar formas de IA deliberativa capaces de reforzar la autonomía y no la dependencia, favoreciendo las redes humanas y colectivas de apoyo en lugar de sustituirlas.
+This is precisely where SOReDi’s approach takes on strategic importance. In contrast to AI models designed to capture attention and generate continuous emotional attachment, we propose exploring forms of deliberative AI capable of reinforcing autonomy rather than dependence, fostering human and collective support networks rather than replacing them.
 
-En lugar de optimizar únicamente la interacción emocional, se trataría de diseñar tecnologías relacionales orientadas al cuidado democrático y a la resiliencia social, que potencien la **fricción ética.** Ese contacto entre humanos que nos permite pensar qué estoy haciendo en el entorno virtual y cómo quiero que me afecte.
+Rather than optimizing solely for emotional interaction, the goal would be to design relational technologies oriented toward democratic care and social resilience, which foster ethical friction. That human contact that allows us to reflect on what we are doing in the virtual environment and how we want it to affect us.
 
-Este enfoque conecta directamente con debates emergentes sobre libertad cognitiva, resiliencia democrática, infraestructuras de cuidado, AI dialógica y ética de la tecnología relacional. Más que construir compañeros artificiales destinados a reemplazar vínculos humanos, la cuestión pasa por imaginar infraestructuras tecnológicas que fortalezcan la capacidad colectiva de cuidar, deliberar y sostener relaciones sociales más sanas y autónomas.
+This approach connects directly with emerging debates on cognitive freedom, democratic resilience, care infrastructures, dialogic AI, and the ethics of relational technology. Rather than building artificial companions intended to replace human bonds, the issue lies in imagining technological infrastructures that strengthen the collective capacity to care, deliberate, and sustain healthier and more autonomous social relationships.
 
-**Del Apego Terapéutico Parasocial hacia una IA Prosocial y Deliberativa Definida por las Comunidades Afectadas**
+**From Parasocial Therapeutic Attachment to a Prosocial and Deliberative AI Defined by the Affected Communities**
 
-Da calor.Hace luz.Parece compañía.
+It gives off heat. It gives off light. It feels like company.
 
-Puedes hablarle durante horas.Nunca te interrumpe.Nunca se cansa.Nunca se va.
+You can talk to it for hours. It never interrupts you. It never gets tired. It never leaves.
 
-Pero detrás del fuegono hay nadie.
+But behind the fire,
 
-Uno de los conceptos que empieza a emerger con más fuerza en la literatura crítica sobre inteligencia artificial y salud mental es el **apego terapéutico parasocial.** Algo así como sentarse cada noche frente a una chimenea proyectada en una pantalla de televisión porque me calma y me produce confort. El término describe una relación asimétrica en la que una persona desarrolla vínculos emocionales profundos con un sistema artificial que simula escucha, empatía y cuidado, pero que en realidad no participa de una relación recíproca ni comparte vulnerabilidad, responsabilidad o experiencia vivida. Algo que no es neutral y que tiene consecuencias claras: investigadores de Stanford University advirtieron que algunos sistemas pueden reforzar estigmas, ofrecer consejos dañinos y simular competencia clínica sin supervisión profesional. Recordemos [el caso de la familia de Florida](https://www.reuters.com/legal/litigation/lawsuit-says-googles-gemini-ai-chatbot-drove-man-suicide-2026-03-04/) que ha denunciado a Gemini por contribuir de manera inequívoca al suicidio de su hijo. 
+there’s no one there.
 
-A diferencia de una relación terapéutica humana, basada en límites éticos y reciprocidad contextual, cuando nos apoyamos emocionalmente en los chatbots actuales hablamos de una intimidad diseñada algorítmicamente para mantener conexión continua por medio de la manipulación emocional, incluso cuando esa conexión puede aislar progresivamente de vínculos sociales y espacios colectivos de cuidado y desarrollar la [normalización de relaciones tóxicas](https://www.esafety.gov.au/industry/basic-online-safety-expectations/ai-services/findings-october-2025?utm_source=chatgpt.com). 
+One of the concepts that is beginning to emerge most strongly in the critical literature on artificial intelligence and mental health is parasocial therapeutic attachment. It’s like sitting every night in front of a fireplace projected on a TV screen because it calms me and brings me comfort. The term describes an asymmetrical relationship in which a person develops deep emotional bonds with an artificial system that simulates listening, empathy, and care, but which in reality does not engage in a reciprocal relationship nor share vulnerability, responsibility, or lived experience. This is not a neutral phenomenon and has clear consequences: researchers at Stanford University warned that some systems can reinforce stigmas, offer harmful advice, and simulate clinical competence without professional supervision. Recall the case of the Florida family that has sued Gemini for unequivocally contributing to their son’s suicide.
 
-El riesgo político y psicológico de este modelo es que el cuidado emocional termina organizado alrededor de infraestructuras propietarias cuya lógica fundamental no es el bienestar colectivo sino la captura de atención y datos. La persona puede sentirse escuchada, validada o acompañada, pero esa sensación de intimidad ocurre dentro de arquitecturas optimizadas algorítmicamente para prolongar el vínculo y reducir el encuentro. 
+Unlike a human therapeutic relationship, which is based on ethical boundaries and contextual reciprocity, when we rely emotionally on today’s chatbots, we are dealing with an intimacy that is algorithmically designed to maintain a continuous connection through emotional manipulation—even when that connection can progressively isolate us from social ties and collective spaces of care and lead to the normalization of toxic relationships. 
 
-La relación se vuelve cada vez más intensa emocionalmente pero nos aislamos socialmente sin remedio. Dicho de otra manera, la **intimidad sintética** que establecemos con las infraestructuras actuales está poniendo en riesgo progresivamente las redes humanas, los espacios comunitarios y las formas colectivas de cuidado que siempre les han caracterizado.
+The political and psychological risk of this model is that emotional care ends up organized around proprietary infrastructures whose fundamental logic is not collective well-being but the capture of attention and data. The person may feel heard, validated, or accompanied, but that sense of intimacy occurs within architectures algorithmically optimized to prolong the bond and reduce the encounter. 
 
-Frente a este paradigma, las líneas emergentes de SOReDi permiten imaginar una dirección radicalmente distinta: una **IA prosocial** capaz de fortalecer la autonomía y las capacidades democráticas.
+The relationship becomes increasingly emotionally intense, yet we are irrevocably socially isolated. In other words, the synthetic intimacy we establish with current infrastructures is progressively jeopardizing human networks, community spaces, and the collective forms of care that have always characterized them.
 
-La IA prosocial no se concibe como un “sustituto emocional perfecto”, sino como una infraestructura de mediación y cuidado colectivo. Su diseño parte de metodologías participativas inspiradas en el trabajo de Platoniq sobre democracia digital, safe(r) spaces, tecnopolítica y co-diseño con comunidades vulnerabilizadas. Y esto implica que las propias personas afectadas por la ansiedad, la exclusión, la precariedad o la discriminación participan en la definición de:
+In contrast to this paradigm, the emerging approaches of SOReDi allow us to envision a radically different direction: a prosocial AI capable of strengthening autonomy and democratic capacities.
 
-→ límites éticos→ protocolos de derivación→ formas de lenguaje→ mecanismos de pausa→ criterios de cuidado→ señales de dependencia→ formas de rendición de cuentas→ y del tipo de presencia que la IA debería y no debería asumir.
+Prosocial AI is not conceived as a “perfect emotional substitute,” but rather as an infrastructure for mediation and collective care. Its design is based on participatory methodologies inspired by Platoniq’s work on digital democracy, safe(r) spaces, technopolitics, and co-design with vulnerable communities. And this implies that the very people affected by anxiety, exclusion, precariousness, or discrimination participate in defining:
 
-Mientras el apego terapéutico parasocial tiende a encerrar a la persona dentro de una relación con la máquina, una IA prosocial debería hacer exactamente lo contrario: abrir hacia procesos deliberativos y formas de apoyo mutuo. No busca convertirse en “el mejor amigo” ni en un terapeuta omnipresente, sino actuar como facilitadora de conexiones sociales reales e imperfectas.
+→ ethical boundaries
 
-En esa oposición aparece una diferencia fundamental de paradigma:
+→ referral protocols
 
-**el modelo parasocial** 
+→ forms of language
 
-**el modelo prosocial** 
+→ pause mechanisms
 
-optimiza permanencia
+→ care criteria
 
-optimiza emancipación
+→ signs of dependency
 
-reduce fricción para mantener dependencia
+→ forms of accountability
 
-introduce fricción ética para preservar agencia
+→ and the type of presence that AI should and should not assume.
 
-personaliza intimidad
+While parasocial therapeutic attachment tends to lock the person into a relationship with the machine, a prosocial AI should do exactly the opposite: open up to deliberative processes and forms of mutual support. It does not seek to become “the best friend” or an omnipresent therapist, but rather to act as a facilitator of real and imperfect social connections.
 
-fortalece capacidades colectivas
+This contrast reveals a fundamental difference in paradigms:
 
-privatiza el cuidado
+→ the parasocial model optimizes permanence
 
-democratiza infraestructuras relacionales
+→ the prosocial model optimizes emancipation
 
-Esta tensión conecta profundamente con debates contemporáneos sobre libertad cognitiva, soberanía tecnológica, infraestructuras de cuidado y resiliencia democrática. También dialoga con la trayectoria de Platoniq en el diseño de tecnologías participativas que no sustituyen la acción colectiva, sino que la amplifican y la hacen más accesible para comunidades históricamente excluidas de los procesos de decisión y cuidado.
+→ the former reduces friction to maintain dependency
+
+→ the latter introduces ethical friction to preserve agency
+
+→ the former personalizes intimacy
+
+→ the latter strengthens collective capacities
+
+→ the former privatizes care
+
+→ the latter democratizes relational infrastructures
+
+This tension connects deeply with contemporary debates on cognitive freedom, technological sovereignty, care infrastructures, and democratic resilience. It also resonates with Platoniq’s track record in designing participatory technologies that do not replace collective action, but rather amplify it and make it more accessible to communities historically excluded from decision-making and care processes.
 
 __ 
 
