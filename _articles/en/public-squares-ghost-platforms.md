@@ -127,4 +127,8 @@ And like all places, they require maintenance not only of servers and interfaces
 
 At DecidimFest, this work sat at the intersection of code, care, and politics. It reminds us that safer digital spaces do not appear only in moderation policies or community guidelines, but in every choice that makes it easier for the next municipality, the next student, or the next civil servant to join, learn, and maintain the digital commons we depend on.
 
-*This article forms part of the INSPIRE Project, a Horizon Europe research initiative exploring intersectional inclusion, democratic participation, and participatory infrastructures across digital and physical spaces. Readers interested in the broader research context can explore the report Exploring the Intersection of E-Democracy Platforms, Urban Development Models, and Political Cultures (June 2025), which offers a conceptual foundation for understanding digital participation platforms as civic infrastructures shaped by political cultures, urban assemblages, and spatial logics.*
+*This article forms part of the INSPIRE Project, a Horizon Europe research initiative exploring intersectional inclusion, democratic participation, and participatory infrastructures across digital and physical spaces. Readers interested in the broader research context can explore the report [Exploring the Intersection of E-Democracy Platforms, Urban Development Models, and Political Cultures (June 2025)](https://www.inspiredemocracy.eu/_files/ugd/a49cde_afb9ec9dba0e420cb86219ea7cec2b38.pdf), which offers a conceptual foundation for understanding digital participation platforms as civic infrastructures shaped by political cultures, urban assemblages, and spatial logics.*
+
+*__*
+
+Cover image inspired by the work of Elise Racine
