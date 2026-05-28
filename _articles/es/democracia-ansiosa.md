@@ -36,7 +36,7 @@ image:
 ---
 Regular plataformas o limitar riesgos no es suficiente, en el primer post de la serie SoReDI nos preguntamos cómo devolver la capacidad de decisión democrática a quienes están creciendo dentro de estas infraestructuras. 
 
-**El uso de la IA para el apoyo emocional o la salud mental**
+### **El uso de la IA para el apoyo emocional o la salud mental**
 
 Existen ya datos bastante sólidos (aunque todavía emergentes) que muestran que adolescentes y jóvenes están utilizando sistemas de IA no solo como asistentes, sino como **compañeros emocionales, consejeros e incluso sustitutos parciales de apoyo psicológico profesional**. [Se sabe](https://www.ajmc.com/view/adolescents-young-adults-use-ai-chatbots-for-mental-health-advice?utm_source=chatgpt.com) que en EE.UU. son ya el 13% de los jóvenes de entre 12 y 17 años que lo utilizan, mientras que el porcentaje sube al 22% entre aquellos que tienen de 18 a 21 años.
 
@@ -46,7 +46,7 @@ Por un lado, se acumulan señales de una crisis estructural: aumento de la ansie
 
 {% gallery { "simple": false, "images": [{"path":"/media/bartfish-powertools-of-aibraincontrol-ii-1280x642.jpg","alt":"Bart Fish & Power Tools of AI / https://betterimagesofai.org","caption":"Bart Fish & Power Tools of AI / https://betterimagesofai.org","credits":"https://creativecommons.org/licenses/by/4.0/"}] } %}
 
-**Una oportunidad de oro para generar más dependencia**
+### **Una oportunidad de oro para generar más dependencia**
 
 En este contexto de vulnerabilidad, las grandes plataformas tecnológicas están comenzando a ocupar un vacío afectivo e institucional cada vez más visible. Los sistemas de IA conversacional ofrecen acompañamiento permanente, disponibilidad emocional 24/7, escucha instantánea y una forma de pseudo-empatía escalable capaz de adaptarse a millones de usuarios simultáneamente. 
 
@@ -56,7 +56,7 @@ Lo que históricamente pertenecía al ámbito de las relaciones humanas, comunit
 
 Ahí es donde la cuestión que se nos plantea ya no es únicamente tecnológica, sino democrática: ¿quién diseña las arquitecturas emocionales del futuro, bajo qué intereses y con qué formas de rendición de cuentas?
 
-**Una IA para el cuidado y la democracia**
+### **Una IA para el cuidado y la democracia**
 
 Es precisamente ahí donde el enfoque de SOReDi adquiere una relevancia estratégica. Frente a modelos de IA orientados a capturar atención y generar apego emocional continuo, proponemos explorar formas de IA deliberativa capaces de reforzar la autonomía y no la dependencia, favoreciendo las redes humanas y colectivas de apoyo en lugar de sustituirlas.
 
@@ -64,7 +64,7 @@ En lugar de optimizar únicamente la interacción emocional, se trataría de dis
 
 Este enfoque conecta directamente con debates emergentes sobre libertad cognitiva, resiliencia democrática, infraestructuras de cuidado, AI dialógica y ética de la tecnología relacional. Más que construir compañeros artificiales destinados a reemplazar vínculos humanos, la cuestión pasa por imaginar infraestructuras tecnológicas que fortalezcan la capacidad colectiva de cuidar, deliberar y sostener relaciones sociales más sanas y autónomas.
 
-**Del Apego Terapéutico Parasocial hacia una IA Prosocial y Deliberativa Definida por las Comunidades Afectadas**
+### **Del Apego Terapéutico Parasocial hacia una IA Prosocial y Deliberativa Definida por las Comunidades Afectadas**
 
 Da calor.
 Hace luz.

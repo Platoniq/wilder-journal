@@ -26,7 +26,7 @@ image:
 ---
 Regulating platforms or limiting risks isn’t enough; in the first post of the SoReDI series, we ask how we can restore democratic decision-making power to those who are growing up within these infrastructures.
 
-**The use of AI for emotional support or mental health**
+### **The use of AI for emotional support or mental health**
 
 There is already fairly solid (though still emerging) evidence showing that teenagers and young adults are using AI systems not only as assistants, but also as emotional companions, advisors, and even partial substitutes for professional psychological support. It is known that in the U.S., 13% of young people aged 12 to 17 already use them, while the percentage rises to 22% among those aged 18 to 21.
 
@@ -36,7 +36,7 @@ On the one hand, there are growing signs of a structural crisis: rising levels o
 
 {% gallery { "simple": false, "images": [{"path":"/media/bartfish-powertools-of-aibraincontrol-ii-1280x642.jpg","alt":"Bart Fish & Power Tools of AI / https://betterimagesofai.org","caption":"Bart Fish & Power Tools of AI / https://betterimagesofai.org","credits":"https://creativecommons.org/licenses/by/4.0/"}] } %}
 
-**A golden opportunity to create more dependency**
+### **A golden opportunity to create more dependency**
 
 In this context of vulnerability, major tech platforms are beginning to fill an increasingly visible emotional and institutional void. Conversational AI systems offer constant companionship, 24/7 emotional availability, instant listening, and a form of scalable pseudo-empathy capable of adapting to millions of users simultaneously. 
 
@@ -46,7 +46,7 @@ What historically fell within the realm of human, community, or public relations
 
 This is where the question before us is no longer merely technological, but democratic: who designs the emotional architectures of the future, under what interests, and with what forms of accountability?
 
-**AI for Care and Democracy**
+### **AI for Care and Democracy**
 
 This is precisely where SOReDi’s approach takes on strategic importance. In contrast to AI models designed to capture attention and generate continuous emotional attachment, we propose exploring forms of deliberative AI capable of reinforcing autonomy rather than dependence, fostering human and collective support networks rather than replacing them.
 
@@ -54,7 +54,7 @@ Rather than optimizing solely for emotional interaction, the goal would be to de
 
 This approach connects directly with emerging debates on cognitive freedom, democratic resilience, care infrastructures, dialogic AI, and the ethics of relational technology. Rather than building artificial companions intended to replace human bonds, the issue lies in imagining technological infrastructures that strengthen the collective capacity to care, deliberate, and sustain healthier and more autonomous social relationships.
 
-**From Parasocial Therapeutic Attachment to a Prosocial and Deliberative AI Defined by the Affected Communities**
+### **From Parasocial Therapeutic Attachment to a Prosocial and Deliberative AI Defined by the Affected Communities**
 
 It gives off heat. It gives off light. It feels like company.
 
