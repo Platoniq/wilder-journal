@@ -13,9 +13,9 @@ author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
 cover:
-  path: /media/articles/heroes/yutongliu-joiningthe-table-1280x667.png
+  path: /media/articles/mobile/yutongliu-joiningthe-table-1280x667.png
   mobile: /media/articles/mobile/yutongliu-joiningthe-table-1280x667.png
-  thumbnail: /media/articles/thumbnails/yutongliu-joiningthe-table-1280x667.png
+  thumbnail: /media/articles/mobile/yutongliu-joiningthe-table-1280x667.png
   alt: Yutong Liu / https://betterimagesofai.org /
     https://creativecommons.org/licenses/by/4.0/
   credits: Yutong Liu / https://betterimagesofai.org /
@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/articles/social/yutongliu-joiningthe-table-1280x667.png
+  path: /media/articles/mobile/yutongliu-joiningthe-table-1280x667.png
 ---
 Un cuervo golpeando el portal: BOSCO sigue oculto
 Esto no es un relato de Edgar Allan Poe,

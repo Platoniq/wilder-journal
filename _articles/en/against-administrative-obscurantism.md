@@ -14,9 +14,9 @@ author_uids:
   - olivier-schulbaum
 interviewee: null
 cover:
-  path: /media/articles/heroes/yutongliu-joiningthe-table-1280x667.png
+  path: /media/articles/mobile/yutongliu-joiningthe-table-1280x667.png
   mobile: /media/articles/mobile/yutongliu-joiningthe-table-1280x667.png
-  thumbnail: /media/articles/thumbnails/yutongliu-joiningthe-table-1280x667.png
+  thumbnail: /media/articles/mobile/yutongliu-joiningthe-table-1280x667.png
 related_article_uids:
   - ahmed
   - AI-dialogue
@@ -26,7 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /media/articles/social/yutongliu-joiningthe-table-1280x667.png
+  path: /media/articles/mobile/yutongliu-joiningthe-table-1280x667.png
 ---
 ## A Raven Knocking at the Gate: BOSCO Remains Hidden
 
