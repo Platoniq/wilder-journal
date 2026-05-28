@@ -94,9 +94,9 @@ While parasocial therapeutic attachment tends to lock the person into a relation
 
 This contrast reveals a fundamental difference in paradigms:
 
-→ the parasocial model optimizes permanence
+→ the **parasocial model** optimizes permanence
 
-→ the prosocial model optimizes emancipation
+→ the **prosocial model** optimizes emancipation
 
 → the former reduces friction to maintain dependency
 
@@ -114,4 +114,4 @@ This tension connects deeply with contemporary debates on cognitive freedom, tec
 
 __ 
 
-Créditos de la imagen de portada © Elise Racine / https://betterimagesofai.org / https://creativecommons.org/licenses/by/4.0/
+Cover image credits © Elise Racine / https://betterimagesofai.org / https://creativecommons.org/licenses/by/4.0/
