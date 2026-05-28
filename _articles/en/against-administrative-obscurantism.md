@@ -16,7 +16,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/yutongliu-joiningthe-table-1280x667.png
   mobile: /media/articles/mobile/yutongliu-joiningthe-table-1280x667.png
-  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-05-26-a-las-16.40.28.png
+  thumbnail: /media/articles/thumbnails/yutongliu-joiningthe-table-1280x667.png
 related_article_uids:
   - ahmed
   - AI-dialogue
