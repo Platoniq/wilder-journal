@@ -17,7 +17,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
   alt: Inspirado en la obra de Elise Racine
   credits: Inspirado en la obra de Elise Racine
   caption: Inspirado en la obra de Elise Racine
