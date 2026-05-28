@@ -10,8 +10,8 @@ uid: democracia-ansiosa
 interviewee: null
 cover:
   path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
-  mobile: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
-  thumbnail: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
+  mobile: /assets/media/no_image-hero.png
+  thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - AI-dialogue
   - Against-Administrative-Obscurantism
@@ -22,7 +22,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
+  path: /assets/media/no_image-social_media.png
 ---
 Regulating platforms or limiting risks isn’t enough; in the first post of the SoReDI series, we ask how we can restore democratic decision-making power to those who are growing up within these infrastructures.
 
@@ -33,6 +33,8 @@ There is already fairly solid (though still emerging) evidence showing that teen
 In Europe, the situation is just as alarming. Half of European youth consider it “easier” to talk to a chatbot about personal problems than to healthcare professionals. So we can safely say that European youth are also entering a delicate situation regarding youth mental health and the emerging role of artificial intelligence in care ecosystems.
 
 On the one hand, there are growing signs of a structural crisis: rising levels of anxiety and loneliness among young people, increasingly precarious living conditions, overburdened public mental health services, and long waiting lists for professional psychological support. As a result, in many areas—and especially among adolescents and young adults—access to spaces where they can be heard and supported has become an unequal and fragmented privilege.
+
+{% gallery { "simple": false, "images": [{"path":"/media/bartfish-powertools-of-aibraincontrol-ii-1280x642.jpg","alt":"Bart Fish & Power Tools of AI / https://betterimagesofai.org","caption":"Bart Fish & Power Tools of AI / https://betterimagesofai.org","credits":"https://creativecommons.org/licenses/by/4.0/"}] } %}
 
 **A golden opportunity to create more dependency**
 

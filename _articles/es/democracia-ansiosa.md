@@ -17,8 +17,8 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
-  mobile: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
-  thumbnail: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
+  mobile: /assets/media/no_image-hero.png
+  thumbnail: /assets/media/no_image-thumbnail.png
   alt: "Emotion: Joy by Elise Racine"
   credits: "Emotion: Joy by Elise Racine"
   caption: "Emotion: Joy by Elise Racine"
@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
+  path: /assets/media/no_image-social_media.png
 ---
 Regular plataformas o limitar riesgos no es suficiente, en el primer post de la serie SoReDI nos preguntamos cómo devolver la capacidad de decisión democrática a quienes están creciendo dentro de estas infraestructuras. 
 
@@ -43,6 +43,8 @@ Existen ya datos bastante sólidos (aunque todavía emergentes) que muestran que
 En Europa la situación es igual de alarmante. La [mitad de los jóvenes europeos](https://www.reuters.com/technology/young-europeans-turn-ai-chatbots-emotional-support-survey-shows-2026-05-05/?utm_source=chatgpt.com) consideran  “más fácil” hablar con un chatbot sobre problemas personales que con profesionales sanitarios. De manera que podemos afirmar, sin riesgo a equivocarnos, que también la juventud europea está entrando en una situación delicada en relación con la salud mental juvenil y el papel emergente de la inteligencia artificial en los ecosistemas de cuidado. 
 
 Por un lado, se acumulan señales de una crisis estructural: aumento de la ansiedad y la soledad entre jóvenes, precarización de las condiciones de vida, saturación de los servicios públicos de salud mental y enormes listas de espera para acceder a apoyo psicológico profesional. De manera que, en muchos territorios, y especialmente entre adolescentes y jóvenes, el acceso a espacios de escucha y acompañamiento se ha convertido en un privilegio desigual y fragmentado.
+
+{% gallery { "simple": false, "images": [{"path":"/media/bartfish-powertools-of-aibraincontrol-ii-1280x642.jpg","alt":"Bart Fish & Power Tools of AI / https://betterimagesofai.org","caption":"Bart Fish & Power Tools of AI / https://betterimagesofai.org","credits":"https://creativecommons.org/licenses/by/4.0/"}] } %}
 
 **Una oportunidad de oro para generar más dependencia**
 
