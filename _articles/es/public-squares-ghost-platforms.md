@@ -94,7 +94,7 @@ Y en estas condiciones, mantener la conexión social pasó a clasificarse como �
 
 Sin espacios donde las personas puedan mantenerse conectadas, discutir, llorar, recordar e imaginar juntos el futuro, la reconstrucción se convierte en algo puramente técnico. Se reconstruyen las carreteras. Vuelven las casas. Pero la plaza pública desaparece.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-05-27-a-las-12.59.45.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-05-27-a-las-12.59.45.png"}] } %}
 
 ### **Participación subversiva, en lugar de métodos «plug-and-play»**
 
