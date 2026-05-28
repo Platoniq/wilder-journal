@@ -105,8 +105,8 @@ Mientras el apego terapéutico parasocial tiende a encerrar a la persona dentro 
 
 En esa oposición aparece una diferencia fundamental de paradigma:
 
-→ el modelo parasocial optimiza permanencia
-→ el modelo prosocial optimiza emancipación
+→ el **modelo parasocial** optimiza permanencia
+→ el **modelo prosocial** optimiza emancipación
 
 → el primero reduce fricción para mantener dependencia
 → el segundo introduce fricción ética para preservar agencia
