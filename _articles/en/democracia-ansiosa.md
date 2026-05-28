@@ -7,10 +7,15 @@ date: 2026-05-28T12:33:00.000+02:00
 date-updated: 2026-05-28T12:33:00.000+02:00
 article-order: 2
 uid: democracia-ansiosa
+interviewee: null
 cover:
   path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - AI-dialogue
+  - Against-Administrative-Obscurantism
+  - LaNuestra-Red-Feminista
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
