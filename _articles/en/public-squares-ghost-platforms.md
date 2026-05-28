@@ -25,7 +25,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
 ---
 Every public square has its own atmosphere, its own mixture of smells, sounds, and rhythms. Some “plazas” smell of coffee and cigarette smoke at seven in the morning, when municipal workers, café owners, and old neighbours exchange gossip before the day begins. Others carry the scent of fried food, sea salt, wet stone after summer rain, or bread arriving from nearby bakeries. In certain places, traces of bureaucracy linger in the air: printer ink, paper archives, overheated municipal offices, the hum of fluorescent lights. Elsewhere, the square fills with the energy of protest and celebration: drums, spray paint, fireworks, sweat, music, children running between demonstrations and market stalls.
 
