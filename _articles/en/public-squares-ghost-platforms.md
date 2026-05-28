@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: deep-dives
+category: learnings
 published: true
 date: 2026-05-27T12:29:00.000+02:00
 date-updated: 2026-05-27T12:29:00.000+02:00
-article-order: 9
+article-order: 20
 uid: Public-Squares-Ghost-Platforms
 title: Public Squares, Ghost Platforms and the Smell of Digital Democracy
 description: Every public square has its own atmosphere, its own mixture of
