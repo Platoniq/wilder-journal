@@ -14,7 +14,7 @@ author: Nadia Nadessan & Olivier Schulbaum
 interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - Against-Administrative-Obscurantism
