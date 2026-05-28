@@ -101,25 +101,17 @@ Mientras el apego terapéutico parasocial tiende a encerrar a la persona dentro 
 
 En esa oposición aparece una diferencia fundamental de paradigma:
 
-**el modelo parasocial** 
+→ el modelo parasocial optimiza permanencia
+→ el modelo prosocial optimiza emancipación
 
-**el modelo prosocial** 
+→ el primero reduce fricción para mantener dependencia
+→ el segundo introduce fricción ética para preservar agencia
 
-optimiza permanencia
+→ el primero personaliza intimidad
+→ el segundo fortalece capacidades colectivas
 
-optimiza emancipación
-
-reduce fricción para mantener dependencia
-
-introduce fricción ética para preservar agencia
-
-personaliza intimidad
-
-fortalece capacidades colectivas
-
-privatiza el cuidado
-
-democratiza infraestructuras relacionales
+→ el primero privatiza el cuidado
+→ el segundo democratiza infraestructuras relacionales
 
 Esta tensión conecta profundamente con debates contemporáneos sobre libertad cognitiva, soberanía tecnológica, infraestructuras de cuidado y resiliencia democrática. También dialoga con la trayectoria de Platoniq en el diseño de tecnologías participativas que no sustituyen la acción colectiva, sino que la amplifican y la hacen más accesible para comunidades históricamente excluidas de los procesos de decisión y cuidado.
 
