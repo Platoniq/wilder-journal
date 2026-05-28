@@ -17,8 +17,8 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
-  mobile: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  mobile: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
+  thumbnail: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
   alt: "Emotion: Joy by Elise Racine"
   credits: "Emotion: Joy by Elise Racine"
   caption: "Emotion: Joy by Elise Racine"
@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
 ---
 Regular plataformas o limitar riesgos no es suficiente, en el primer post de la serie SoReDI nos preguntamos cómo devolver la capacidad de decisión democrática a quienes están creciendo dentro de estas infraestructuras. 
 

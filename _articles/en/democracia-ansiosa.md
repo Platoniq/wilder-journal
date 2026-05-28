@@ -10,8 +10,8 @@ uid: democracia-ansiosa
 interviewee: null
 cover:
   path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
-  mobile: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  mobile: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
+  thumbnail: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
 related_article_uids:
   - AI-dialogue
   - Against-Administrative-Obscurantism
@@ -22,7 +22,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
 ---
 Regulating platforms or limiting risks isn’t enough; in the first post of the SoReDI series, we ask how we can restore democratic decision-making power to those who are growing up within these infrastructures.
 
