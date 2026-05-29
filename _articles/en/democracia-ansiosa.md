@@ -7,6 +7,14 @@ date: 2026-05-28T12:33:00.000+02:00
 date-updated: 2026-05-28T12:33:00.000+02:00
 article-order: 2
 uid: democracia-ansiosa
+title: "Anxious Democracies: Youth, AI, and the Privatization of Emotional Care "
+description: "Regulating platforms or limiting risks isn’t enough; in the first
+  post of the SoReDI series, we ask how we can restore democratic
+  decision-making power to those who are growing up within these
+  infrastructures. "
+author: Olivier Schulbaum
+author_uids:
+  - olivier-schulbaum
 interviewee: null
 cover:
   path: /media/articles/heroes/eliseracine-emotion_joy-1280x1840.png
