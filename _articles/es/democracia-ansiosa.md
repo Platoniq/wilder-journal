@@ -19,9 +19,10 @@ cover:
   path: /media/articles/heroes/photo_2026-06-02_11-30-33.jpg
   mobile: /media/articles/mobile/photo_2026-06-02_11-30-33.jpg
   thumbnail: /media/articles/thumbnails/photo_2026-06-02_11-30-33.jpg
-  alt: "Emotion: Joy by Elise Racine"
-  credits: "Emotion: Joy by Elise Racine"
-  caption: "Emotion: Joy by Elise Racine"
+  alt: Mirror B - Comuzi
+  credits: Mirror B - Comuzi
+  caption: Comuzi / https://betterimagesofai.org / © BBC /
+    https://creativecommons.org/licenses/by/4.0/
 related_article_uids:
   - AI-dialogue
   - Against-Administrative-Obscurantism
