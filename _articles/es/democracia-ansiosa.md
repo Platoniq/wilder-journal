@@ -18,7 +18,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/photo_2026-06-02_11-30-33.jpg
   mobile: /media/articles/mobile/photo_2026-06-02_11-30-33.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/photo_2026-06-02_11-30-33.jpg
   alt: "Emotion: Joy by Elise Racine"
   credits: "Emotion: Joy by Elise Racine"
   caption: "Emotion: Joy by Elise Racine"
