@@ -17,7 +17,7 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/photo_2026-06-02_11-30-33.jpg
-  mobile: /media/articles/mobile/eliseracine-emotion_joy-1280x1840.png
+  mobile: /media/articles/mobile/photo_2026-06-02_11-30-33.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: "Emotion: Joy by Elise Racine"
   credits: "Emotion: Joy by Elise Racine"
