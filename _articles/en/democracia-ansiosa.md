@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo_2026-06-02_11-30-33.jpg
 ---
 Regulating platforms or limiting risks isn’t enough; in the first post of the SoReDI series, we ask how we can restore democratic decision-making power to those who are growing up within these infrastructures.
 

@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/photo_2026-06-02_11-30-33.jpg
 ---
 Regular plataformas o limitar riesgos no es suficiente, en el primer post de la serie SoReDI nos preguntamos cómo devolver la capacidad de decisión democrática a quienes están creciendo dentro de estas infraestructuras. 
 
