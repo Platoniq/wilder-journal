@@ -17,7 +17,7 @@ author_uids:
 interviewee: Liliana Arroyo
 cover:
   path: /media/articles/heroes/1758434727242.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/1758434727242.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - Semantic-Mess-Democratic-Mesh
