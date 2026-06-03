@@ -31,9 +31,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/1758434727242.jpg
 ---
-### **What does it mean to you to be a techno-optimist today, at a time marked by both technological enthusiasm and mistrust of big platforms?**
+### **What does it mean to you to be a techno-optimist today at a time marked by both technological enthusiasm and mistrust of big platforms?**
 
-There is a very strong tension here, which I am always mindful of. I have sometimes been described as a critical techno-optimist, but if one thing is clear to me, it is that digital tools, digital environments, and also digital aggression do not come on their own; there is a whole process of innovation behind them, which we have chosen to adopt, and which needs to be studied closely. For me, it’s like a negotiation process between society and the market that provides them. I’ve always said that these tools are welcome, but that we need to govern them; we have to tame them a bit so that they truly serve us and not the other way around, as sometimes happens with these business models.
+I have sometimes been described as a critical techno-optimist, but if one thing is clear to me, it is that digital tools, digital environments, and also digital aggression do not come on their own; there is a whole process of innovation behind them, which we have chosen to adopt, and which needs to be studied closely. For me, it’s like a negotiation process between society and the market that provides them. I’ve always said that these tools are welcome, but that we need to govern them; we have to tame them a bit so that they truly serve us and not the other way around, as sometimes happens with these business models.
 
 It’s true that I would say that over the past two or three years, this radical optimism—as a vital instinct—has become harder to sustain, but at the same time, I believe it is more necessary than ever. I try to find the clues or signs that help me envision the future. I try to identify those signs that bring us closer to that horizon of digital environments that are livable on a human scale—digital environments where we want to grow, develop, connect, and interact…
 

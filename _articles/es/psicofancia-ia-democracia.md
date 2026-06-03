@@ -35,9 +35,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/1758434727242.jpg
 ---
-### **¿Qué significa para ti ser tecno-optimista hoy, en un momento marcado tanto por el entusiasmo tecnológico como por la desconfianza hacia las grandes plataformas?**
+### **¿Qué significa ser tecno-optimista hoy en un momento marcado tanto por el entusiasmo tecnológico como por la desconfianza hacia las grandes plataformas?**
 
-Aquí hay una tensión muy fuerte, que siempre tengo presente. Alguna vez me han definido como tecno-optimista crítica, pero si tengo algo claro es que las herramientas digitales, los entornos digitales y también las agresiones digitales no vienen solas, hay todo un proceso de innovación detrás, que decidimos adoptar, y que hace falta estudiar de cerca. Para mi es como un proceso de negociación entre la sociedad y el mercado que las provee. Siempre he dicho que bienvenidas sean estas herramientas, pero que nos falta gobernarlas; tenemos que domesticarlas un poco para que realmente estén a nuestro servicio y no a la inversa, como a veces ocurre con estos modelos de negocio. 
+Alguna vez me han definido como tecno-optimista crítica, pero tengo algo claro que las herramientas digitales, los entornos digitales y también las agresiones digitales no vienen solas. Hay todo un proceso de innovación que decidimos adoptar y que hace falta estudiar de cerca. Para mi es como un proceso de negociación entre la sociedad y el mercado que las provee. Siempre he dicho que bienvenidas sean estas herramientas, pero que nos falta gobernarlas; tenemos que domesticarlas un poco para que realmente estén a nuestro servicio y no a la inversa, como a veces ocurre con estos modelos de negocio. 
 
 Es verdad que diría que en los últimos dos o tres años este optimismo radical, como instinto vital, se está haciendo más difícil de sostener, pero al mismo tiempo creo que es más necesario que nunca. Yo intento encontrar las pistas o las señales, que me ayuden a pensar el futuro. Intento identificar aquellas señales que nos acercan a ese horizonte de unos entornos digitales habitables a escala humana, unos entornos digitales en los que nos apetezca crecer, desarrollarnos, conectar, relacionarnos…
 
