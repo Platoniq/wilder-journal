@@ -33,7 +33,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/1758434727242.jpg
 ---
 **Tu trayectoria proviene de la sociología y a día de hoy trabajas en innovación social y tecnología responsable: ¿cómo ha evolucionado tu mirada sobre lo digital a lo largo de ese recorrido?**
 

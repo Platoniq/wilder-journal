@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/1758434727242.jpg
 ---
 **Your background is in sociology, and today you work in social innovation and responsible technology: how has your perspective on the digital world evolved over the course of that journey?**
 
