@@ -67,7 +67,7 @@ En este sentido, creer que la tecnología es algo que me cae encima mágicamente
 
 La última palabra sobre cómo debe ser la tecnología y sobre cómo queremos usarla la hemos de tener nosotros y preferiblemente de forma colectiva. Porque si lo hacemos en clave individual quien tiene la capacidad de gobernar la tecnología es quien tiene dinero y poder, que es lo que está pasando ahora. En cambio, si lo hacemos de forma colegiada, de forma colectiva, la fiscalización sobre estos productos y servicios es mucho mayor y, por tanto, más justa y más inclusiva.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-06-03-a-las-17.48.44.png"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-06-03-a-las-17.48.44.png","credits":"Platoniq, 2026","alt":"1r Bootcamp de la Comunidad de Práctica SoReDI","caption":"1r Bootcamp de la Comunidad de Práctica SoReDI"}] } %}
 
 ### **¿Qué protagonismo les ves a los jóvenes? ¿Podrían tener algún tipo de papel en la transformación digital actual? Ellos son los principales usuarios: vulnerables y productores de cultura digital...**
 

@@ -63,7 +63,7 @@ In this sense, believing that technology is something that magically falls upon 
 
 We must have the final say on what technology should be like and how we want to use it, and preferably in a collective manner. Because if we approach this individually, those with the ability to govern technology are those with money and power—which is what is happening now. On the other hand, if we do so collaboratively, collectively, oversight of these products and services is much greater and, therefore, fairer and more inclusive.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-06-03-a-las-17.48.44.png"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-06-03-a-las-17.48.44.png","credits":"Platoniq, 2026","alt":"1r Bootcamp - COP SoReDI","caption":"1r Bootcamp - COP SoReDI"}] } %}
 
 ### **What role do you see young people playing? Could they play some kind of role in the current digital transformation? They are the most vulnerable users, but at the same time producers of digital culture...**
 
