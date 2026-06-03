@@ -7,8 +7,8 @@ date: 2026-06-03T16:36:00.000+02:00
 date-updated: 2026-06-03T16:36:00.000+02:00
 article-order: 18
 uid: psicofancia-ia-democracia
-title: "Psicofancia, apego y democracia digital: cómo imaginar una IA
-  socialmente responsable"
+title: Psicofancia, soledad y apego parasocial, ¿cómo imaginar una IA
+  socialmente responsable?
 description: "Tu trayectoria proviene de la sociología y a día de hoy trabajas
   en innovación social y tecnología responsable: ¿cómo ha evolucionado tu mirada
   sobre lo digital a lo largo de ese recorrido?"
@@ -149,7 +149,7 @@ Algo que me hace pensar en la importancia de la movilización social; podemos es
 
 Ahora que estamos leyendo literatura sobre estas cuestiones, vemos que hay dos cosas que funcionan muy bien. Una es que te genere más preguntas que respuestas, que te haga elaborar más sobre aquello que estás preguntando. Eso también quiere decir que no solo repregunte, sino que te invite a pensar hasta qué punto tienes afianzada una idea e incluso a cuestionarla. Y la otra es la tercera persona. Que el modelo no te diga “qué buena idea has tenido”, sino que “el usuario ha tenido una idea interesante”. Hacer preguntas y hablar en tercera persona es una forma de descorporeizarlo. Y eso es precisamente lo que se debería buscar. 
 
-**Nos interesa mucho la idea de la capacitación democrática. Y qué capacidades democráticas necesitamos ante nuevas realidades, como las que describes. ¿Qué capacidades democráticas crees que deberíamos cultivar para vivir en sociedades atravesadas por la inteligencia artificial?**
+**Qué capacidades democráticas necesitamos ante nuevas realidades, como las que describes. ¿Qué capacidades democráticas crees que deberíamos cultivar para vivir en sociedades atravesadas por la inteligencia artificial?**
 
 Pues mira, diré una individual y dos colectivas. Primero, el poder tener espacios de soledad y silencio, que son espacios donde construimos identidad también. Aquellos espacios en los que nos repensamos, en los que nos vemos desde fuera, en los que nos reflejamos, en los que reflexionamos... Por tanto, espacios de soledad y de escucha propia. 
 
