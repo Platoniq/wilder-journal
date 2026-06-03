@@ -31,14 +31,6 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/1758434727242.jpg
 ---
-### **Your background is in sociology, and today you work in social innovation and responsible technology: how has your perspective on the digital world evolved over the course of that journey?**
-
-It has evolved tremendously. I entered the world of the digital society around 2013, when I started working on a European project called IRISS, which stands for “Increasing Resilience in Surveillance Societies.” That’s where I discovered the fundamental right to privacy, how digital environments operate, and what happens when our data is collected. The moment when people started talking about the importance of privacy. It was the same year that Edward Snowden leaked information revealing that the NSA was indeed spying on communications between different countries, top-level leaders from various nations, and so on. After that leak, everyone started talking about it, and I gradually began working on projects and perspectives that would help me understand digital social innovation.
-
-On the one hand, we have traditional social innovation: providing different solutions to the same old problems, with a non-compassionate social perspective. And then we have social innovation, but in a digital context, which follows a logic similar to that of classic social innovation, but incorporates some new elements precisely because digital environments favor processes that are more conversational, more bidirectional, and more agile—in the sense of ubiquity and synchronicity. That is where I place digital social innovation.
-
-When I decided I wanted to study sociology, I entered college saying: I want to understand social reality in order to transform it, and what I want is to improve the lives of my neighbors. In this sense, I would say: let’s understand digital tools so we can put them to work for our individual and collective goals.
-
 ### **What does it mean to you to be a techno-optimist today, at a time marked by both technological enthusiasm and mistrust of big platforms?**
 
 There is a very strong tension here, which I am always mindful of. I have sometimes been described as a critical techno-optimist, but if one thing is clear to me, it is that digital tools, digital environments, and also digital aggression do not come on their own; there is a whole process of innovation behind them, which we have chosen to adopt, and which needs to be studied closely. For me, it’s like a negotiation process between society and the market that provides them. I’ve always said that these tools are welcome, but that we need to govern them; we have to tame them a bit so that they truly serve us and not the other way around, as sometimes happens with these business models.
