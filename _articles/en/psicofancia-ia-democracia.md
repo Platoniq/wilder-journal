@@ -2,7 +2,7 @@
 layout: article
 volume-uid: wilder-journal-2
 category: interviews
-published: true
+published: false
 date: 2026-06-03T16:36:00.000+02:00
 date-updated: 2026-06-03T16:36:00.000+02:00
 article-order: 18
