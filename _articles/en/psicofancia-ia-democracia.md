@@ -140,3 +140,5 @@ Then, on a collective level, the ability to sustain dissent. That is, that we ca
 And then I would say that there is nothing more democratic than empathy. Empathy is that ability to see the other person, and it connects to this second element I was talking about. And that is the seed of democracy.
 
 And perhaps I would add a fourth: the ability and potential to feel like we are part of the solution. In other words, I will participate in an improvement if I feel that it is a space where I am useful and that my concerns, at the very least, are heard. I can understand that they can’t always be met, because there are other people who also have other needs. But that’s what democracy is all about—the ability to make us feel that participation isn’t just a formality, but that it has meaning, as a bond. The sense of belonging is deeply democratic. A democratic need, I would say, of the highest order.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-06-03-a-las-17.45.20.png","alt":"Join SoReDI COP","caption":"Join SoReDI COP","credits":"ESADE"}] } %}
