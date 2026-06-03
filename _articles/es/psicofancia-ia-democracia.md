@@ -67,6 +67,8 @@ En este sentido, creer que la tecnología es algo que me cae encima mágicamente
 
 La última palabra sobre cómo debe ser la tecnología y sobre cómo queremos usarla la hemos de tener nosotros y preferiblemente de forma colectiva. Porque si lo hacemos en clave individual quien tiene la capacidad de gobernar la tecnología es quien tiene dinero y poder, que es lo que está pasando ahora. En cambio, si lo hacemos de forma colegiada, de forma colectiva, la fiscalización sobre estos productos y servicios es mucho mayor y, por tanto, más justa y más inclusiva.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-06-03-a-las-17.48.44.png"}] } %}
+
 ### **¿Qué protagonismo les ves a los jóvenes? ¿Podrían tener algún tipo de papel en la transformación digital actual? Ellos son los principales usuarios: vulnerables y productores de cultura digital...**
 
 Total. Yo estoy 100% convencida de que tienen que ser protagonistas. Quizá no protagonistas únicos, pero tienen que estar en esta conversación segurísimo. Y no necesariamente jóvenes mayores de edad. La participación infantil y juvenil es muy importante. Hay entidades que se dedican a esto y que establecen cuáles son los mecanismos para que la infancia y la adolescencia puedan participar de forma segura, protegida, pero también empoderadora. De hecho, ya lo estamos viendo: muchos movimientos liderados por jóvenes que piden ser escuchados y formar parte de diseños que entienden se desarrollan sin ellos, y de alguna manera, contra ellos. 

@@ -63,6 +63,8 @@ In this sense, believing that technology is something that magically falls upon 
 
 We must have the final say on what technology should be like and how we want to use it, and preferably in a collective manner. Because if we approach this individually, those with the ability to govern technology are those with money and power—which is what is happening now. On the other hand, if we do so collaboratively, collectively, oversight of these products and services is much greater and, therefore, fairer and more inclusive.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-06-03-a-las-17.48.44.png"}] } %}
+
 ### **What role do you see young people playing? Could they play some kind of role in the current digital transformation? They are the most vulnerable users, but at the same time producers of digital culture...**
 
 Absolutely. I am 100% convinced that they need to be key players. Maybe not the only ones, but they definitely need to be firmly part of this conversation. And not necessarily young adults. The participation of children and youth is very important. There are organizations dedicated to this that establish mechanisms so that children and adolescents can participate in a way that is safe, protected, but also empowering. In fact, we’re already seeing it: many youth-led movements demanding to be heard and to be part of processes they understand are being developed without them—and, in some ways, against them. 
