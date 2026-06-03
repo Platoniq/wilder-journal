@@ -1,0 +1,160 @@
+---
+layout: article
+volume-uid: wilder-journal-2
+category: interviews
+published: true
+date: 2026-06-03T16:36:00.000+02:00
+date-updated: 2026-06-03T16:36:00.000+02:00
+article-order: 18
+uid: psicofancia-ia-democracia
+title: "Psicofancia, apego y democracia digital: cómo imaginar una IA
+  socialmente responsable"
+description: "Tu trayectoria proviene de la sociología y a día de hoy trabajas
+  en innovación social y tecnología responsable: ¿cómo ha evolucionado tu mirada
+  sobre lo digital a lo largo de ese recorrido?"
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
+interviewee: Liliana Arroyo
+cover:
+  path: /media/articles/heroes/1758434727242.jpg
+  mobile: /assets/media/no_image-hero.png
+  thumbnail: /assets/media/no_image-thumbnail.png
+  alt: Liliana Arroyo
+  credits: Liliana Arroyo
+  caption: Liliana Arroyo
+related_article_uids:
+  - Semantic-Mess-Democratic-Mesh
+  - queer-digital-rights
+  - Against-Administrative-Obscurantism
+stickers:
+  layout: layout-none
+  sticker_one_animation: animation-none
+  sticker_two_animation: animation-none
+call_to_action: cta-donate
+image:
+  path: /assets/media/no_image-social_media.png
+---
+**Tu trayectoria proviene de la sociología y a día de hoy trabajas en innovación social y tecnología responsable: ¿cómo ha evolucionado tu mirada sobre lo digital a lo largo de ese recorrido?**
+
+Ha evolucionado muchísimo. Yo entro en el mundo de la sociedad digital más o menos en 2013, porque empiezo a trabajar en un proyecto europeo llamado IRISS, las siglas de “Increasing Resilience in Surveillance Societies”. Y ahí es donde descubro el derecho fundamental a la privacidad y cómo operan los entornos digitales y qué pasa cuando recogen nuestros datos. 
+
+Es ese momento en el que se empieza a hablar de la importancia de la privacidad. El mismo año en que Edward Snowden hizo una filtración y filtró que la NSA estaba efectivamente espiando las comunicaciones entre diferentes países, dirigentes de primer nivel de diferentes países y demás. A partir de esa filtración todo el mundo empezó a hablar de esto y yo, poco a poco, empecé a trabajar en proyectos y en miradas que me ayuden a entender la innovación social digital.
+
+Sobre esta última te diría que, por un lado, tenemos la innovación social de toda la vida: dar soluciones diferentes a los problemas de siempre, con una mirada social no compasiva. Y luego tenemos la innovación social, pero en clave digital, que tiene unas lógicas similares a la innovación social clásica, pero que incorpora algunas lógicas nuevas justamente porque los entornos digitales favorecen procesos más conversacionales, más bidireccionales, más ligeros, en el sentido de la ubicuidad y la sincronicidad. Ahí es donde yo sitúo la innovación social digital.
+
+Cuando yo decidí que quería estudiar sociología, entré en la facultad diciendo: yo quiero entender la realidad social para transformarla, y lo que quiero es mejorar la vida de mis vecinos. En este sentido diría: entendamos las herramientas digitales para ponerlas al servicio de nuestros propósitos individuales y colectivos.
+
+**¿Qué significa para ti ser tecno-optimista hoy, en un momento marcado tanto por el entusiasmo tecnológico como por la desconfianza hacia las grandes plataformas?**
+
+Aquí hay una tensión muy fuerte, que siempre tengo presente. Alguna vez me han definido como tecno-optimista crítica, per si tengo algo claro es que las herramientas digitales, los entornos digitales y también las agresiones digitales no vienen solas, hay todo un proceso de innovación detrás, que decidimos adoptar, y que hace falta estudiar de cerca. Para mi es como un proceso de negociación entre la sociedad y el mercado que las provee. Siempre he dicho que bienvenidas sean estas herramientas, pero que nos falta gobernarlas; tenemos que domesticarlas un poco para que realmente estén a nuestro servicio y no a la inversa, como a veces ocurre con estos modelos de negocio. 
+
+Es verdad que diría que en los últimos dos o tres años este optimismo radical, como instinto vital, se está haciendo más difícil de sostener, pero al mismo tiempo creo que es más necesario que nunca. Yo intento encontrar las pistas o las señales, que me ayuden a pensar el futuro. Intento identificar aquellas señales que nos acercan a ese horizonte de unos entornos digitales habitables a escala humana, unos entornos digitales en los que nos apetezca crecer, desarrollarnos, conectar, relacionarnos…
+
+**¿Y qué señales ves en este momento?**
+
+Si miramos a las plataformas predominantes y a sus modelos de negocio, ahí la esperanza se acaba rápido. Igual que la confianza de las personas usuarias, que cada vez es más baja; y no solo hablo de las plataformas, sino también de los esquemas de inversión que hay detrás: capital riesgo al que le da igual los impactos. Yo creo que hay que asumir que lo que en economía se entiende como externalidades negativas no son externalidades, sino impactos derivados de la actividad empresarial.
+
+Vivimos en una realidad que hace que estemos constantemente pidiendo regulación, pero lo que nos falta es poder hacerla cumplir, hemos de poder obligar a que se cumpla y, por tanto, denunciar y perseguir a quien no lo haga. 
+
+Venimos de unos años en que esta responsabilidad sobre lo que pasa en la red ha sido muy esquiva por parte de las grandes corporaciones, pero ahora cada vez menos. Meta y Google, por ejemplo, ya han tenido un juicio en el que ya no han podido decir que lo que pasa en sus canales no tiene nada que ver con ellos, o que no es parte de su responsabilidad, porque ellos solo ponen la plataforma y no les importa lo que contenga.
+
+También a nivel político ya ha llegado el momento en que los monopolios tecnológicos son un riesgo y una anomalía ante la que hay que plantarse. Por ejemplo, se habla mucho de la prohibición de redes sociales hasta los 16 años. Independientemente de lo que pienso sobre el tema en concreto, para mí es un ejemplo de que ya nos atrevemos a plantarnos y decirle al sector digital que hay que poner el freno y que así no podemos continuar. Los gobiernos parecen haber entendido que hemos de imponernos ante los gigantes tecnológicos.
+
+**¿Dónde situarías la frontera entre un tecno-optimismo crítico y el solucionismo tecnológico? Es decir, ¿cómo se relacionan esta idea de que todo se puede solucionar desde la tecnología, pero a la vez podemos mantener cierto espacio de crítica controlado?**
+
+Sí, claro. Yo diría que te lo acabaría resumiendo en dos puntos de vista que no sé si son reconciliables y no tengo claro que sean compatibles de una manera, y me explico. El solucionismo tecnológico es esta creencia de que con más tecnología lo solucionaré todo. Mientras que para mí el tecno-optimismo significa que siempre podremos gobernar la tecnología; es decir, que los humanos, que la comunidad, que la sociedad podrán tener siempre la última palabra sobre la tecnología, porque al final es un artefacto que nosotros creamos.
+
+Yo estoy muy en contra del solucionismo tecnológico y precisamente este es un relato que diría que la industria, principalmente, ha instalado: esta idea. Por otro lado, también se dice que el solucionismo tecnológico solo funciona si formas parte de esa minoría de gente privilegiada que tendrá acceso a esta tecnología que supuestamente lo resolverá todo. Yo creo que habría que poner muchos interrogantes, porque el “todo” es un absoluto muy amplio, muy ambicioso. Y, además, creo que también es positivo que haya esferas de nuestra vida y de nuestra existencia que estén liberadas de la tecnología. 
+
+Creer que la tecnología es algo que me cae encima, mágicamente, o que está gobernada por unas leyes naturales que no entiendo, perpetúa la desigualdad a nivel de asimetría de poder y de capacidad de agencia para gobernar esa tecnología. Olvidar que detrás hay una creación que está hecha por personas y que, por tanto, puede haber un proceso de negociación y de corrección social, eso es lo que reclamo desde el tecno-optimismo crítico: poder decir que la última palabra sobre cómo debe ser la tecnología y sobre cómo queremos usarla, cómo queremos apropiarnos de esta tecnología, debe ser humana y preferiblemente colectiva. Porque si lo hacemos en clave individual, quien tiene la capacidad de gobernar la tecnología es quien tiene dinero y poder, que es lo que está pasando ahora.
+
+En cambio, si lo hacemos de forma colegiada, de forma colectiva, la presión puede ser más fuerte y, además, la carga de estar atentos a estos productos y servicios que nos llegan también la tenemos distribuida, lo que me parece que al final es mucho más justo y mucho más inclusivo.
+
+**Cuando hablamos de innovación social digital, ¿qué condiciones debería cumplir una tecnología para ser realmente socialmente responsable?**
+
+Cuando hablamos de esta innovación social, o de esta innovación socialmente responsable, tiene que ver con que es una innovación que fomenta, o como mínimo, un aspecto de la cohesión social. Y me explico. Es tecnología, o son soluciones, que nos ayudan colectivamente. Nos ayudan a vincularnos mejor, nos ayudan a entendernos mejor, nos ayudan a convivir mejor, nos ayudan a gestionar mejor el disenso. 
+
+Y puedo poner contraejemplos. Es decir, para mí no son innovación social digital, o socialmente responsable, las plataformas de redes sociales, que nos atomizan, encapsulan y nos hacen vivir en cámaras de eco. Lejos de alimentar nuestros vínculos, aunque era la promesa original, lo que hacen es encapsularnos en cámaras de resonancia, en cajitas de resonancia, donde no solo estamos atrapados con nuestro yo de hace x tiempo, cuando nos recogieron los datos, y que es muy difícil actualizarlos, sino que, a la vez, estamos atrapadas en un paisaje muy homogéneo.
+
+Para mí, la innovación digital responsable es socialmente responsable no solo cuando cumple en temas de seguridad, en temas de privacidad. Es responsable en el momento en que merece, que cumple la carta de derechos humanos de 1948; por tanto, los derechos fundamentales están garantizados. Pero no solo eso, porque los derechos humanos fundamentales son de base individual, pero en realidad necesitamos la comunidad para existir. La hemos necesitado siempre y la seguiremos necesitando. Por tanto, esta responsabilidad social, que ahora queda como un término muy empresarial, que la empresa ha usado durante muchos años es la que pone el bien común en el centro del desarrollo de la tecnología.
+
+Y entiendo bien común entendido no solo como respeto por los recursos, sino también por esta necesidad humana de ser y de pertenecer; por tanto, espacios de pertenencia, espacios de encuentro, espacios de creación, espacios de tejido social, sobre todo. Por tanto, en resumen sería una tecnología que cuida los vínculos, o que nos ayuda a cuidarlos, que nos ayuda a entenderlos, o como mínimo que no los estropea.
+
+**¿Podrían tener algún tipo de papel en la transformación digital actual? Es decir, ellos son los principales usuarios vulnerables, pero a la vez productores de cultura digital, posibles agentes de cambio. ¿Qué protagonismo les ves a los jóvenes?**
+
+Total. Yo estoy 100% convencida de que tienen que ser protagonistas. Quizá no protagonistas únicos, pero tienen que estar en esta conversación segurísimo. Y no necesariamente jóvenes mayores de edad. La participación infantil y juvenil es muy importante. Hay entidades que se dedican a esto y que establecen cuáles son los mecanismos para que la infancia y la adolescencia puedan participar de forma segura, protegida, pero también empoderadora. De hecho, ya lo estamos viendo: muchos movimientos liderados por jóvenes que piden ser escuchados y formar parte de diseños que entienden se desarrollan sin ellos, y de alguna manera, contra ellos. 
+
+Hay una capa de la juventud que, igual que con el cambio climático, se ha dado cuenta de que han crecido en unos entornos que son tóxicos y que esto no tenía por qué hacerse así. Por apuntar un par de iniciativas muy interesantes al respecto:
+
+Una es Design It For Us, el título lo dice todo. Es una comunidad que nació en Estados Unidos, pero ahora está en 24 países, y son jóvenes que se atreven a presentarse delante de las sedes de estas empresas, llamar a la puerta y decir: “Hola, vengo aquí a explicarte cómo queremos que sean nuestros entornos digitales”. Y esto lo hacen no solo desde el enfado o desde la rabia, sino que se documentan en temas de regulación y cómo establecer marcos, estándares y buenas prácticas.
+
+Después hay otra que me parece muy interesante a nivel europeo que se llama Control Alt Delete, que funcionan de manera parecida: han hecho un informe identificando jóvenes que están creando herramientas concretas contra el ciberacoso y están creando dispositivos propios en los que tú puedes tener un teléfono inteligente, pero sin todas las capas de economía de la atención. Incluso aquí en Barcelona hay unos jóvenes emprendedores que han diseñado un teléfono en el que no puedes descargar redes sociales, ni plataformas de streaming, ni apuestas, ni espacios de consumo de contenido pornográfico.
+
+Cuando hablas con ellos y les preguntas: ¿cómo llegasteis a esta idea? Lo que te dicen es que no les gustaba lo que veían y que, a partir de allí, diseñaron un pequeño software y, al final, ¿qué ha pasado? que ahora consumen lo que ellos deciden. Y eso tiene un público y una audiencia.
+
+Recientemente hablábamos con una chica que usa la inteligencia artificial para acompañar el ciberacoso en entornos digitales. Acompañar en el sentido de que si lo padeces, si eres víctima o victimaria, te invita a repensar tus palabras antes de publicarlas. O incluso, una vez publicadas, te ayuda a revisarlas y a ver si puedes canalizar esa incomodidad, esa rabia, esa confrontación de otra manera. Y yo creo que son ejemplos muy inspiradores. Muy inspiradores, porque además recogen voces muy diversas, de perfiles muy variados. Me hacen creer que hay esperanza.
+
+Estábamos en un escenario en el que teníamos jóvenes tristes, pero no jóvenes enfadados. Y un poco el enfado, la incomodidad, es una condición del inconformismo. Sin querer decir rabia, el inconformismo es una condición necesaria y saludable en la juventud. Por tanto, yo creo que es fantástico que ellos mismos quieran dirigirse como protagonistas y como creadores.
+
+**A la vez, a los jóvenes se los describe como muy influenciados por todo lo que reciben de esta nueva ola tecnológica. ¿Cómo crees que los algoritmos y las plataformas modifican la manera que tienen los jóvenes de pensar?**
+
+La modifica totalmente. Aunque solo sea por la cantidad de exposición, información variada y mezclada que tienen. Se nos coloca permanentemente en un formato reactivo en el que ves mezclado un anuncio, una publicación de tu amiga, tu web o prescriptor digital de referencia, y entonces vuelves a ver otro anuncio, una noticia y el testimonio de un conflicto de no sé qué lugar del mundo, en primera persona… Es muy difícil construir criterio ante tanta información y tan diversa.
+
+Daniel Innerarity habla de un concepto que me parece muy interesante: el colapso de contextos. El hecho de que todo pase dentro de un mismo entorno hace que pierdas los contextos de dónde viene esta información, quién la está emitiendo y cuál es el propósito. Hay tal cantidad, volumen, velocidad y abundancia, en el mal sentido, que toda la experiencia acaba produciendo un chantaje emocional que no sabemos manejar.
+
+Lo sabemos, son herramientas que juegan con este FOMO, con esa sensación de estar perdiéndote algo y con toda la cuestión de la validación. Crecer en un entorno así favorece una fragilidad emocional muy flotante, porque hay momentos en que se vive hacia fuera, aparentando, demostrando, y no hay espacios hacia dentro. Hay pocos espacios para la reflexión, para la no reacción, y eso cambia muchísimo la manera de pensar, la manera de interactuar y de relacionarse. Por eso se habla de la individuación de la experiencia. Todas estas experiencias que se viven de forma rápida, de forma agradable o de forma desagradable, se viven en solitario. 
+
+Hacen falta espacios para digerir de forma colectiva cómo nos sentimos en los entornos digitales. Ahora se empieza a hablar de ello. Pero hasta ahora es como si no existieran. De hecho, la persona que se siente más libre, más conectada y con más recursos en el ámbito digital, es a la vez la persona que más acoso recibe. Por un lado, los jóvenes se pueden organizar y pueden tener altavoces, pero están expuestos a esta arma de doble filo. Hay un estudio muy interesante de Hopelab y de Common Sense Media que explica esto y te enseña datos sobre lo importante que es para una persona el colectivo, y los riesgos que conlleva a nivel digital. Hemos asumido que para tener una identidad digital hay un peaje que hay que pagar y este es el tipo de cosas a las que creo que es importante que les demos visibilidad.
+
+**Estás impulsando desde la cátedra SoReDI de ESADE-URL cómo impulsar una innovación digital socialmente responsable, liderada desde la conversación con estos jóvenes… ¿Qué temas estáis trabajando?**
+
+Pues mira, en primer lugar diría que se habla mucho de bienestar digital, pero poco de las responsabilidades corporativas. Este no es un proyecto que quiera hacer la enésima app de desconexión digital, sino que lo que queremos es crear un espacio de diálogo y de co-creación, para que haya resultados para la industria y con el sector digital. La parte de la demanda ya sabemos que existe, ya sabemos lo que necesitamos, por ejemplo, hay gente que trabaja en alfabetización mediática y lo están haciendo genial. O aquellos que trabajan en la regulación, que también la necesitamos. 
+
+Pero también creo que necesitamos espacios que tiendan puentes entre estas voces jóvenes y usuarias y empresas que construyen sus modelos asumiendo roles tóxicos, cada uno con variaciones dependiendo de la plataforma concreta, pero que en general lo único que persiguen es cumplir con sus modelos de negocio. En el caso de las redes sociales, por ejemplo, están directamente orientadas a la economía de la atención: se trata de que pases el máximo tiempo conmigo para servirte contenidos que te mantengan aquí enganchado o enganchada a tu pantalla.
+
+En segundo lugar, si hablamos de inteligencia artificial, ya estamos entrando en el ámbito en el que establecemos un vínculo y establecemos relaciones parasociales. Este concepto, el de **apego parasocial**, nace en los años 60 y tiene que ver con aquel vínculo más o menos afectivo de referencia que tú podrías construir con una celebridad. Por ejemplo, con tu actor o tu actriz de referencia, o con un cantante, o cuando la gente hace cola en el estadio antes del concierto porque tiene esta pasión. Hasta hace muy poco, las relaciones parasociales eran con personas desconocidas, pero personas. Relaciones imaginadas que nos producían emociones y sentimientos. Otras culturas, al tener una base más animista, las tenían también con objetos.Por ejemplo, pensemos en el Tamagotchi de los 90 y en cómo establecíamos vínculos con él.
+
+Esto que, visto desde lejos, podía parecer ridículo, no lo es. Tiene que ver con la capacidad de vincularse afectivamente con algo o con alguien, que no necesariamente tiene que corresponderte. Ahora **estamos entrando en una nueva fase: la que pasamos de la economía de la atención a la economía del apego.** Y es en esta en la que empezamos a construir vínculos parasociales con un programa informático, que puede ser nuestro chatbot de referencia o puede ser nuestro agente de IA. Ya sabemos que hay inteligencias artificiales generativas, GPT y modelos similares, y después tenemos programas específicos y empresas específicas en las que te puedes diseñar compañeros.
+
+Ahora tener un amigo imaginario es algo real. Ya no es imaginario, es un software que puedes diseñar con Character AI, Chai o Replika, por mencionar tres que son muy importantes. La cuestión aquí es que los vínculos que desarrollas con esos entes son clave, en el sentido de que pueden tener impacto real en tu vida, en tu forma de pensar e incluso, diría que esta es la parte más importante, en cómo tomas decisiones. Ese es el punto, el elemento que afecta a tu libertad: qué decisiones tomas y desde dónde las tomas. Hay una falsedad del marco de toma de decisiones que estableces y desde dónde tomas ese camino que quieres elegir. Y en esto la inteligencia artificial es muy buena. Es muy buena sirviendo, porque los modelos son muy hábiles.
+
+Y el problema de esto es que no tenemos quien audite la sostenibilidad de los modelos de negocio, ni cómo están ganando dinero. Y mientras tanto, se están cargando cosas. Tenemos una parte de la oferta que está en estas condiciones, así que una idea básica del proyecto también es esta: hacen falta puentes entre jóvenes e industria, y hacen falta por esto. 
+
+Y finalmente, en tercer lugar, creemos que nos falta acordar un marco que defina bien qué es precisamente la innovación responsable digital. Y para ello nos preguntamos sobre la influencia de la inteligencia artificial en la soledad juvenil.
+
+¿Qué pasaría si fuéramos capaces, con un grupo de gente muy convencida y muy determinada, todas juntas, en un tiempo muy concreto y muy corto, de plantear proyectos y soluciones que puedan ser compatibles con inteligencia artificial, pero que no sean antropomorfizadas? Que no te hagan creer que es una persona; que te puedan servir como asistente sintético, pero que tengas claro todo el tiempo que estás hablando con un programa, que al final son líneas de código, que, a la vez, tenga en cuenta la fragilidad humana y la vulnerabilidad. Es decir, que tengan responsabilidad afectiva, como cuando te acompañan terapéuticamente.
+
+Son parámetros que tienen que estar presentes. ¿Qué pasaría si no solo pusiéramos ética y responsabilidad, sino que lo que está bien también fuera aquello que es responsable con tu afectividad? Hay todo un campo que ahora está creciendo mucho, de computación afectiva, que nos puede parecer que está muy lejos, pero ChatGPT y compañía son buenos ejemplos de ello. Y vemos cómo la gente empieza preguntándole cosas como “conviérteme esta tabla”y acaba preguntando cómo hago para educar a mi hijo o cómo gestionar este conflicto que he tenido con una amistad.
+
+Se observa cada vez más uno de los tres usos más frecuentes en todas las edades es precisamente el de asistente personal, como coach personal, que a todos nos va bien, porque necesitamos un poco de oráculo y de orientación cuando estamos perdidos. En otros momentos de la historia hay personas que han recurrido a la religión; ahora tenemos este nuevo espacio, esta tercera agencia que está emergiendo, que son estos espacios de interacción con lo digital. 
+
+Por tanto, el proyecto pretende eso: poner responsabilidad afectiva en modelos con los que conversamos, hacerlo con la industria y hacerlo desde las voces de los jóvenes; y no solo porque se les llame a participar, sino porque los prototipos puedan partir, en la medida de lo posible, de proyectos que ya están liderados por jóvenes.
+
+**Antes de hablar, de entrar un poco más en estos riesgos que vemos en estas nuevas maneras de usar la inteligencia digital, me interesa mucho y no quiero olvidarme de preguntarlo. ¿Por qué pones tanto énfasis en que esta herramienta sea evidentemente no humana? ¿Por qué lo citas tanto así? ¿Por qué pones tanto énfasis en este “no humana”?**
+
+Sí, totalmente. Le pongo mucho énfasis porque se está estudiando este diseño antropomórfico y estas cualidades humanas: la IA piensa, la IA razona, la IA siente, la IA cree. Esto alimenta de una forma muy exagerada y tiene que ver con estas relaciones parasociales. Y es uno de los elementos de su diseño. Se han identificado tres: uno es el **diseño antropomórfico**; el otro es la **validación constante**, porque eso te genera una falsa sensación de seguridad emocional. Sabes que nunca te estás exponiendo a un juicio o a una crítica, sino que siempre te aplaudirá. La pregunta más tonta que quieras hacerle, la pregunta más simple, más llana y más prosaica que quieras hacerle, le parecerá una idea maravillosa. Y después está todo el tema de la **sicofancia**, que es que ya se superan estos límites de vinculación en los que confiamos más en la inteligencia artificial que en lo que digo, sin contrastarlo. A mí me trastorna como persona. Estos tres elementos de diseño, tal como están ahora, fomentan la dependencia emocional hacia estos modelos. Pero si lo diseñamos de otra manera, quizás estos modelos pueden ser capacitantes.
+
+Como dice Alison Lee, es importante usar la IA “antes del contacto humano” y nunca en lugar del contacto humano. Esto me parece un elemento clave. Está bien que nos preparemos para tener una conversación difícil, pero hay que tener claro que el contacto acabará definiendo la realidad, y no al contrario. Hemos de tener claro que esto es una herramienta, y que no es una persona. No nos está acompañando, no piensa en nosotros, no piensa en el contexto, no piensa en el colectivo. No hay una existencia. No es un ser vivo, ni un ser sintiente.
+
+Porque hay una cosa básica que nos separa, que nos distingue: que no tiene sentidos, no tiene cuerpo. Y el cuerpo es la puerta a la experiencia, a la experiencia del contexto y a las otras cosas. Por eso hago tanto énfasis. Y en esto, porque me parece que es el eslabón más básico que tenemos que revertir para poder convertirla en una aliada, y no convertirnos nosotros en esclavos de estos falsos oráculos.
+
+**Antes hablábamos de una dimensión muy delicada: cómo imaginar un asistente sintético que pueda acompañar o cuidar sin hacerse pasar por humano, sin generar confusión afectiva y sin ocupar un lugar que no le corresponde. Ahí aparecen muchos matices: responsabilidad, vínculo, límites, diseño, lenguaje. Me gustaría ahora desplazar la pregunta del plano más individual o afectivo hacia una dimensión más colectiva y democrática. ¿Qué responsabilidad tienen estas infraestructuras tecnológicas en la reproducción o transformación de desigualdades sociales, generacionales, de género, raciales o culturales?**
+
+**Lo pregunto porque llevamos décadas señalando estas desigualdades, pero muchas veces parece que no se han incorporado realmente al modo en que se diseñan y se entrenan estas tecnologías. Como me decía alguien hace poco: “tal como hablan algunas inteligencias artificiales, parece que estemos borrando 200 años de lucha social”. ¿Cómo lo ves tú? ¿La inteligencia artificial puede contribuir a reconocer esas luchas y ampliar derechos, o corremos el riesgo de que vuelva a naturalizar desigualdades que ya habíamos aprendido a nombrar?**
+
+Yo veo una lectura en tres niveles. Una es el reto de la representación: si tú estás fuera de la norma, si no estás en las bases de datos que han entrenado los modelos, ni siquiera saldrás en los resultados que arrojen. Hay una parte de muestra y de representación. Y aquí aparece el peligro de la homogeneización y pérdida de diversidad.
+
+Algo que me hace pensar en la importancia de la movilización social; podemos estar en desacuerdo, desde la creación de espacios de disenso. De hecho, podríamos estar hablando de un espacio de práctica de la deliberación y sería fantástico que nos pudiera ayudar. 
+
+Ahora que estamos leyendo literatura sobre estas cuestiones, vemos que hay dos cosas que funcionan muy bien. Una es que te genere más preguntas que respuestas, que te haga elaborar más sobre aquello que estás preguntando. Eso también quiere decir que no solo repregunte, sino que te invite a pensar hasta qué punto tienes afianzada una idea e incluso a cuestionarla. Y la otra es la tercera persona. Que el modelo no te diga “qué buena idea has tenido”, sino que “el usuario ha tenido una idea interesante”. Hacer preguntas y hablar en tercera persona es una forma de descorporeizarlo. Y eso es precisamente lo que se debería buscar. 
+
+**Nos interesa mucho la idea de la capacitación democrática. Y qué capacidades democráticas necesitamos ante nuevas realidades, como las que describes. ¿Qué capacidades democráticas crees que deberíamos cultivar para vivir en sociedades atravesadas por la inteligencia artificial?**
+
+Pues mira, diré una individual y dos colectivas. Primero, el poder tener espacios de soledad y silencio, que son espacios donde construimos identidad también. Aquellos espacios en los que nos repensamos, en los que nos vemos desde fuera, en los que nos reflejamos, en los que reflexionamos... Por tanto, espacios de soledad y de escucha propia. 
+
+Después, a nivel colectivo, la capacidad de sostener el disenso. Es decir, que podamos seguir en una conversación aunque no estemos de acuerdo. Que podamos ponernos de acuerdo en que estamos en desacuerdo. Y aun así buscar comunes o pensar si tenemos un horizonte compartido. En caso de que no lo tengamos, que no sea un problema, ni una semilla de confrontación. Trabajar desde el sostenimiento del disenso es importante.
+
+Y después yo diría que no hay nada más democrático que la empatía. La empatía es esa capacidad de ver a la otra persona y que conecta con este segundo elemento que decía. Y esa es la semilla de la democracia.
+
+Y quizá añadiría una cuarta: la capacidad y el potencial de sentirnos parte de la solución. Es decir, yo participaré en una mejora si siento que es un espacio donde soy útil y que mis demandas, como mínimo, son escuchadas. Puedo entender que no siempre se puedan llevar a cabo, porque hay otra gente que también tiene otras necesidades. Pero la democracia va de eso, de la capacidad de hacernos sentir que la participación no es un trámite, sino que tiene sentido, como vínculo. El sentimiento de pertenencia es profundamente democrático. Una necesidad democrática, diría yo, de primer orden.
