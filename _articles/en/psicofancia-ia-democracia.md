@@ -43,7 +43,7 @@ For me, responsible digital innovation is socially responsible not only when it 
 
 This is a very powerful tension that I’m always mindful of. I’ve sometimes been described as a critical techno-optimist, but if there’s one thing I’m certain of, it’s that digital tools, digital environments, and digital threats don’t just appear out of nowhere; there’s an entire process of innovation behind them that we’ve chosen to embrace and that we need to study closely.
 
-These technological tools are welcome, as long as we’re able to manage them. We must be able to tame them a bit so that they serve us and not the other way around.
+{% quote %}These technological tools are welcome, as long as we’re able to manage them. We must be able to tame them a bit so that they serve us and not the other way around{% endquote %}
 
 It’s true that radical optimism is becoming difficult to sustain, but at the same time I believe it’s more necessary than ever. I try to find the signs that help me envision the future—those that bring us closer to livable digital environments on a human scale where we feel like growing, developing, connecting, and interacting…
 

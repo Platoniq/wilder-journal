@@ -47,7 +47,7 @@ Para mí, la innovación digital responsable es socialmente responsable no solo 
 
 Esta es una tensión muy fuerte que siempre tengo presente. Alguna vez me han definido como tecno-optimista crítica, pero si tengo algo claro es que las herramientas digitales, los entornos digitales, y también las agresiones digitales, no vienen solas; hay todo un proceso de innovación detrás que decidimos adoptar y que hace falta que estudiemos de cerca. 
 
-Sean bienvenidas estas herramientas tecnológicas, siempre y cuando seamos capaces de gobernarlas. Hemos de poder domesticarlas un poco para que estén a nuestro servicio y no a la inversa.
+{% quote %}Sean bienvenidas las herramientas tecnológicas, siempre y cuando seamos capaces de gobernarlas. Hemos de poder domesticarlas un poco para que estén a nuestro servicio y no a la inversa{% endquote %}
 
 Es verdad que el optimismo radical se está haciendo difícil de sostener, pero al mismo tiempo creo que es más necesario que nunca. Intento encontrar las señales que me ayuden a pensar el futuro, esas que nos acercan a unos entornos digitales habitables a escala humana en los que nos apetezca crecer, desarrollarnos, conectar, relacionarnos…
 
