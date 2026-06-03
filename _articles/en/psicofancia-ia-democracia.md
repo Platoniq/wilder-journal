@@ -31,7 +31,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/1758434727242.jpg
 ---
-**Your background is in sociology, and today you work in social innovation and responsible technology: how has your perspective on the digital world evolved over the course of that journey?**
+### **Your background is in sociology, and today you work in social innovation and responsible technology: how has your perspective on the digital world evolved over the course of that journey?**
 
 It has evolved tremendously. I entered the world of the digital society around 2013, when I started working on a European project called IRISS, which stands for “Increasing Resilience in Surveillance Societies.” That’s where I discovered the fundamental right to privacy, how digital environments operate, and what happens when our data is collected. 
 
@@ -41,13 +41,13 @@ Regarding the latter, I would say that, on the one hand, we have traditional soc
 
 When I decided I wanted to study sociology, I entered college saying: I want to understand social reality in order to transform it, and what I want is to improve the lives of my neighbors. In this sense, I would say: let’s understand digital tools so we can put them to work for our individual and collective goals.
 
-**What does it mean to you to be a techno-optimist today, at a time marked by both technological enthusiasm and mistrust of big platforms?**
+### **What does it mean to you to be a techno-optimist today, at a time marked by both technological enthusiasm and mistrust of big platforms?**
 
 There is a very strong tension here, which I am always mindful of. I have sometimes been described as a critical techno-optimist, but if one thing is clear to me, it is that digital tools, digital environments, and also digital aggression do not come on their own; there is a whole process of innovation behind them, which we have chosen to adopt, and which needs to be studied closely. For me, it’s like a negotiation process between society and the market that provides them. I’ve always said that these tools are welcome, but that we need to govern them; we have to tame them a bit so that they truly serve us and not the other way around, as sometimes happens with these business models.
 
 It’s true that I would say that over the past two or three years, this radical optimism—as a vital instinct—has become harder to sustain, but at the same time, I believe it is more necessary than ever. I try to find the clues or signs that help me envision the future. I try to identify those signs that bring us closer to that horizon of digital environments that are livable on a human scale—digital environments where we want to grow, develop, connect, and interact…
 
-**And what signs do you see right now?**
+### **And what signs do you see right now?**
 
 If we look at the dominant platforms and their business models, that’s where hope quickly fades. Just like user trust, which is steadily declining; and I’m not just talking about the platforms, but also the investment schemes behind them: venture capital that couldn’t care less about the impacts. I believe we must accept that what is understood in economics as negative externalities are not externalities at all, but impacts resulting from business activity.
 
@@ -57,7 +57,7 @@ Venimos de unos años en que esta responsabilidad sobre lo que pasa en la red ha
 
 Politically speaking, too, the time has come to recognize that tech monopolies pose a risk and an anomaly that must be confronted. For example, there is a lot of talk about banning social media for those under 16. Regardless of my personal views on this specific issue, I see it as an example of how we are now daring to stand our ground and tell the digital sector that we need to hit the brakes and that we cannot continue this way. Governments seem to have realized that we must stand up to the tech giants.
 
-**Where would you draw the line between critical techno-optimism and technological solutionism? In other words, how do we reconcile the idea that everything can be solved through technology, while at the same time maintaining a certain space for controlled criticism?**
+### **Where would you draw the line between critical techno-optimism and technological solutionism? In other words, how do we reconcile the idea that everything can be solved through technology, while at the same time maintaining a certain space for controlled criticism?**
 
 Yes, of course. I’d say I’d end up summarizing it in two points of view that I’m not sure are reconcilable, and I’m not sure they’re compatible in any way—let me explain. Technological solutionism is this belief that more technology will solve everything. Whereas for me, techno-optimism means that we will always be able to govern technology; that is, that humans, the community, and society will always have the final say over technology, because in the end it is an artifact that we create.
 
@@ -67,7 +67,7 @@ Believing that technology is something that falls upon me, magically, or that it
 
 On the other hand, if we do this collaboratively, as a collective, the pressure can be stronger, and we also share the burden of staying vigilant about these products and services that come our way—which, in my view, is ultimately much fairer and much more inclusive.
 
-**When we talk about digital social innovation, what criteria must a technology meet to be truly socially responsible?**
+### **When we talk about digital social innovation, what criteria must a technology meet to be truly socially responsible?**
 
 When we talk about this social innovation, or this socially responsible innovation, it has to do with the fact that it is an innovation that fosters, or at the very least, one aspect of social cohesion. Let me explain. It is technology, or solutions, that help us collectively. They help us connect better, they help us understand each other better, they help us live together better, and they help us manage dissent better.
 
@@ -77,7 +77,7 @@ For me, responsible digital innovation is socially responsible not only when it 
 
 And by “common good,” I mean not only respect for resources, but also for this human need to exist and to belong; therefore, spaces of belonging, spaces for gathering, spaces for creation, and above all, spaces for building social fabric. In short, it would be a technology that nurtures these connections—or helps us nurture them—that helps us understand them, or at the very least, does not damage them.
 
-**Could they play some kind of role in the current digital transformation? That is to say, they are the most vulnerable users, but at the same time producers of digital culture, potential agents of change. What role do you see young people playing?**
+### **Could they play some kind of role in the current digital transformation? That is to say, they are the most vulnerable users, but at the same time producers of digital culture, potential agents of change. What role do you see young people playing?**
 
 Absolutely. I am 100% convinced that they need to be key players. Maybe not the only ones, but they definitely need to be firmly part of this conversation. And not necessarily young adults. The participation of children and youth is very important. There are organizations dedicated to this that establish mechanisms so that children and adolescents can participate in a way that is safe, protected, but also empowering. In fact, we’re already seeing it: many youth-led movements demanding to be heard and to be part of processes they understand are being developed without them—and, in some ways, against them. 
 
@@ -93,7 +93,7 @@ We recently spoke with a young woman who uses artificial intelligence to address
 
 We were in a situation where we had sad young people, but not angry young people. And to some extent, anger and discomfort are a condition of nonconformity. Without meaning to imply rage, nonconformity is a necessary and healthy condition in youth. Therefore, I think it’s fantastic that they themselves want to take the lead as protagonists and creators.
 
-**At the same time, young people are described as being heavily influenced by everything they encounter in this new wave of technology. How do you think algorithms and platforms are changing the way young people think?**
+### **At the same time, young people are described as being heavily influenced by everything they encounter in this new wave of technology. How do you think algorithms and platforms are changing the way young people think?**
 
 It completely changes it. If only because of the sheer volume of exposure and the diverse, mixed information we’re exposed to. We’re constantly placed in a reactive format where you see an ad mixed in with a post from a friend, your favorite website, or a go-to digital influencer, and then you see another ad, a news story, and a firsthand account of a conflict from some place in the world… It’s very difficult to develop discernment in the face of so much diverse information.
 
@@ -103,13 +103,11 @@ We know it—these are tools that play on FOMO, on that feeling of missing out, 
 
 We need spaces to collectively process how we feel in digital environments. People are just starting to talk about this now. But until now, it’s as if these spaces didn’t exist. In fact, the person who feels freer, more connected, and better equipped in the digital realm is also the person who faces the most harassment. On one hand, young people can organize and have a voice, but they’re exposed to this double-edged sword. There’s a very interesting study by Hopelab and Common Sense Media that explains this and provides data on how important the collective is to a person, and the risks it entails in the digital realm. We’ve assumed that having a digital identity comes with a price, and these are the kinds of things I think it’s important for us to bring to light.
 
-**Through the SoReDI Chair at ESADE-URL, you’re working to promote socially responsible digital innovation, driven by conversations with these young people… What topics are you focusing on?**
+### **Through the SoReDI Chair at ESADE-URL, you’re working to promote socially responsible digital innovation, driven by conversations with these young people… What topics are you focusing on?**
 
 Well, first of all, I’d say there’s a lot of talk about digital well-being, but not much about corporate responsibility. This isn’t a project aimed at creating yet another digital detox app; rather, we want to create a space for dialogue and co-creation, so that we can achieve results for the industry and in collaboration with the digital sector. We already know the demand is there; we already know what we need. For example, there are people working on media literacy, and they’re doing a great job. Or those working on regulation, which we also need. 
 
 But I also believe we need spaces that build bridges between these young voices and users and the companies that build their models by assuming toxic roles—each with variations depending on the specific platform—but which, in general, are solely focused on fulfilling their business models. In the case of social media, for example, they are directly geared toward the attention economy: the goal is for you to spend as much time as possible on the platform so they can serve you content that keeps you hooked to your screen.
-
-
 
 Second, when we talk about artificial intelligence, we’re already entering the realm where we form bonds and develop parasocial relationships. This concept—parasocial attachment—originated in the 1960s and refers to the somewhat emotional bond you might form with a celebrity. For example, with your favorite actor or actress, or with a singer, or when people line up at the stadium before a concert because they have this passion. Until very recently, parasocial relationships were with strangers, but still people. Imagined relationships that evoked emotions and feelings in us. Other cultures, having a more animistic foundation, also formed such bonds with objects. For example, think of the Tamagotchi from the ’90s and how we formed bonds with it.
 
@@ -129,7 +127,7 @@ We are increasingly seeing that one of the three most common uses across all age
 
 Therefore, the project aims to do just that: to instill emotional responsibility in the models we interact with, to do so in collaboration with the industry, and to do so through the voices of young people; and not just because they are invited to participate, but because the prototypes can, as much as possible, be based on projects that are already led by young people.
 
-**Before we dive a little deeper into the risks we see in these new ways of using digital intelligence, there’s something I’m very interested in and don’t want to forget to ask. Why do you place so much emphasis on the fact that this tool is clearly non-human? Why do you mention it so often? Why do you place so much emphasis on this “non-human” aspect?**
+### **Before we dive a little deeper into the risks we see in these new ways of using digital intelligence, there’s something I’m very interested in and don’t want to forget to ask. Why do you place so much emphasis on the fact that this tool is clearly non-human? Why do you mention it so often? Why do you place so much emphasis on this “non-human” aspect?**
 
 Yes, absolutely. I emphasize this a lot because this anthropomorphic design and these human qualities are being studied: AI thinks, AI reasons, AI feels, AI believes. This feeds into it in a very exaggerated way and has to do with these parasocial relationships. And it’s one of the elements of its design. Three have been identified: one is the anthropomorphic design; the other is constant validation, because that creates a false sense of emotional security. You know you’re never exposing yourself to judgment or criticism—it will always applaud you. The silliest question you want to ask it, the simplest, most mundane, and most prosaic question you want to ask it, will seem like a wonderful idea to it. And then there’s the whole issue of sycophancy, which is that we’re already crossing these boundaries of reliance where we trust artificial intelligence more than what I say, without verifying it. It upsets me as a person. These three design elements, as they stand now, foster emotional dependence on these models. But if we design them differently, perhaps these models can be empowering.
 
@@ -137,9 +135,9 @@ As Alison Lee says, it’s important to use AI “before human contact” and ne
 
 Because there is one fundamental thing that separates us, that distinguishes us: it has no senses, it has no body. And the body is the gateway to experience—to the experience of context and to other things. That is why I emphasize this so much. And in this regard, because I believe it is the most fundamental link we must address in order to turn it into an ally, rather than becoming slaves to these false oracles.
 
-**Earlier, we discussed a very delicate issue: how to envision a synthetic assistant that can accompany or care for us without pretending to be human, without causing emotional confusion, and without taking on a role that does not belong to it. This involves many nuances: responsibility, connection, boundaries, design, and language. I’d now like to shift the question from the more individual or emotional plane to a more collective and democratic dimension. What responsibility do these technological infrastructures bear in the reproduction or transformation of social, generational, gender, racial, or cultural inequalities?**
+### **Earlier, we discussed a very delicate issue: how to envision a synthetic assistant that can accompany or care for us without pretending to be human, without causing emotional confusion, and without taking on a role that does not belong to it. This involves many nuances: responsibility, connection, boundaries, design, and language. I’d now like to shift the question from the more individual or emotional plane to a more collective and democratic dimension. What responsibility do these technological infrastructures bear in the reproduction or transformation of social, generational, gender, racial, or cultural inequalities?**
 
-**I ask this because we’ve been pointing out these inequalities for decades, but it often seems they haven’t truly been incorporated into how these technologies are designed and trained. As someone told me recently: “The way some artificial intelligences speak makes it seem as though we’re erasing 200 years of social struggle.” How do you see it? Can artificial intelligence help acknowledge those struggles and expand rights, or do we run the risk of it once again normalizing inequalities that we had already learned to name?**
+### **I ask this because we’ve been pointing out these inequalities for decades, but it often seems they haven’t truly been incorporated into how these technologies are designed and trained. As someone told me recently: “The way some artificial intelligences speak makes it seem as though we’re erasing 200 years of social struggle.” How do you see it? Can artificial intelligence help acknowledge those struggles and expand rights, or do we run the risk of it once again normalizing inequalities that we had already learned to name?**
 
 I see three levels to this. One is the challenge of representation: if you fall outside the norm, if you aren’t in the databases used to train the models, you won’t even appear in the results they produce. There’s an issue of sampling and representation. And this is where the danger of homogenization and the loss of diversity comes in.
 
@@ -147,7 +145,7 @@ This makes me think about the importance of social mobilization; we can disagree
 
 Now that we’re reading literature on these issues, we see that there are two things that work very well. One is that it generates more questions than answers, that it makes you elaborate further on what you’re asking. That also means that it doesn’t just ask follow-up questions, but invites you to think about how firmly you hold an idea and even to question it. And the other is the third person. The model shouldn’t tell you “what a great idea you’ve had,” but rather “the user has had an interesting idea.” Asking questions and speaking in the third person is a way of disembodying it. And that is precisely what we should be aiming for.
 
-**What democratic skills do we need in the face of new realities, such as those you describe? What democratic skills do you think we should cultivate in order to live in societies shaped by artificial intelligence?**
+### **What democratic skills do we need in the face of new realities, such as those you describe? What democratic skills do you think we should cultivate in order to live in societies shaped by artificial intelligence?**
 
 Well, I’ll mention one individual aspect and two collective ones. First, the ability to have moments of solitude and silence—spaces where we also build our identity. Those moments when we rethink ourselves, when we view ourselves from the outside, when we reflect on ourselves, when we ponder… In short, moments of solitude and self-reflection. 
 
