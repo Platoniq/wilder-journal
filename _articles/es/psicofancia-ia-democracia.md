@@ -35,6 +35,10 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/1758434727242.jpg
 ---
+Entró en la facultad diciendo: yo quiero entender la realidad social para transformarla porque lo que quiero es mejorar la vida de mis vecinos. Años más tarde, y tras su paso como Directora General del Departamente de Sociedad Digital de la Generalitat de Cataluña, **Liliana Arroyo** dirige la Cátedra de Esade y Exea Impact para una Innovación Digital Socialmente Responsable (SoReDI) desde donde impulsa una Comunidad de Práctica de jóvenes de entre 16 y 25 años, con la vista puesta en proponer nuevas formas de experimentar la tecnología, sobre todo, en lo que a la soledad juvenil y la IA se refiere.
+
+{% quote %}Tenemos, prácticamente, dos años por delante, y es desde este lugar: a caballo entre la academia y la filantropía, desde el que queremos abrir nuevos espacios a la tecnología, porque la industria por si sola no lo ha conseguido.{% endquote %}
+
 ### **Tu trayectoria proviene de la sociología y a día de hoy trabajas en innovación social y tecnología responsable. Cuando hablamos de innovación social digital, ¿qué condiciones debería cumplir una tecnología para ser realmente socialmente responsable?**
 
 Cuando hablamos de innovación social y tecnología hablamos de soluciones que nos ayudan colectivamente: nos ayudan a vincularnos mejor, nos ayudan a entendernos mejor, nos ayudan a convivir mejor, nos ayudan a gestionar mejor el disenso. 
@@ -47,7 +51,7 @@ Para mí, la innovación digital responsable es socialmente responsable no solo 
 
 Esta es una tensión muy fuerte que siempre tengo presente. Alguna vez me han definido como tecno-optimista crítica, pero si tengo algo claro es que las herramientas digitales, los entornos digitales, y también las agresiones digitales, no vienen solas; hay todo un proceso de innovación detrás que decidimos adoptar y que hace falta que estudiemos de cerca. 
 
-{% quote %}Sean bienvenidas las herramientas tecnológicas, siempre y cuando seamos capaces de gobernarlas. Hemos de poder domesticarlas un poco para que estén a nuestro servicio y no a la inversa{% endquote %}
+{% quote %}Sean bienvenidas las herramientas tecnológicas, siempre y cuando seamos capaces de gobernarlas. Hemos de poder domesticarlas un poco para que estén a nuestro servicio y no a la inversa.{% endquote %}
 
 Es verdad que el optimismo radical se está haciendo difícil de sostener, pero al mismo tiempo creo que es más necesario que nunca. Intento encontrar las señales que me ayuden a pensar el futuro, esas que nos acercan a unos entornos digitales habitables a escala humana en los que nos apetezca crecer, desarrollarnos, conectar, relacionarnos…
 
@@ -93,7 +97,7 @@ Daniel Innerarity habla de un concepto que me parece muy interesante: el colapso
 
 Lo sabemos, son herramientas que juegan con este FOMO, con esa sensación de estar perdiéndote algo y con toda la cuestión de la validación. Crecer en un entorno así favorece una fragilidad emocional muy flotante, porque hay momentos en que se vive hacia fuera, aparentando, demostrando, y no hay espacios hacia dentro. Hay pocos espacios para la reflexión, para la no reacción, y eso cambia muchísimo la manera de pensar, la manera de interactuar y de relacionarse. Por eso se habla de la individuación de la experiencia. Todas estas experiencias que se viven de forma rápida, de forma agradable o de forma desagradable, se viven en solitario. 
 
-{% quote %}Hacen falta espacios para digerir de forma colectiva cómo nos sentimos en los entornos digitales{% endquote %}
+{% quote %}Hacen falta espacios para digerir de forma colectiva cómo nos sentimos en los entornos digitales.{% endquote %}
 
 Ahora se empieza a hablar de ello. Pero hasta ahora es como si no existieran. De hecho, la persona que se siente más libre, más conectada y con más recursos en el ámbito digital, es a la vez la persona que más acoso recibe. Por un lado, los jóvenes se pueden organizar y pueden tener altavoces, pero están expuestos a esta arma de doble filo. Hay un estudio muy interesante de Hopelab y de Common Sense Media que explica esto y te enseña datos sobre lo importante que es para una persona el colectivo, y los riesgos que conlleva a nivel digital. Hemos asumido que para tener una identidad digital hay un peaje que hay que pagar y este es el tipo de cosas a las que creo que es importante que les demos visibilidad.
 
@@ -129,9 +133,7 @@ Como dice Alison Lee, es importante usar la IA “antes del contacto humano” y
 
 Porque hay una cosa básica que nos separa, que nos distingue: que no tiene sentidos, no tiene cuerpo. Y el cuerpo es la puerta a la experiencia, a la experiencia del contexto y a las otras cosas. Por eso hago tanto énfasis. Y en esto, porque me parece que es el eslabón más básico que tenemos que revertir para poder convertirla en una aliada, y no convertirnos nosotros en esclavos de estos falsos oráculos.
 
-### **Antes hablábamos de una dimensión muy delicada: cómo imaginar un asistente sintético que pueda acompañar o cuidar sin hacerse pasar por humano, sin generar confusión afectiva y sin ocupar un lugar que no le corresponde. Ahí aparecen muchos matices: responsabilidad, vínculo, límites, diseño, lenguaje. Me gustaría ahora desplazar la pregunta del plano más individual o afectivo hacia una dimensión más colectiva y democrática. ¿Qué responsabilidad tienen estas infraestructuras tecnológicas en la reproducción o transformación de desigualdades sociales, generacionales, de género, raciales o culturales?**
-
-### **Lo pregunto porque llevamos décadas señalando estas desigualdades, pero muchas veces parece que no se han incorporado realmente al modo en que se diseñan y se entrenan estas tecnologías. Como me decía alguien hace poco: “tal como hablan algunas inteligencias artificiales, parece que estemos borrando 200 años de lucha social”. ¿Cómo lo ves tú? ¿La inteligencia artificial puede contribuir a reconocer esas luchas y ampliar derechos, o corremos el riesgo de que vuelva a naturalizar desigualdades que ya habíamos aprendido a nombrar?**
+### **Antes hablábamos de una dimensión muy delicada: cómo imaginar un asistente sintético que pueda acompañar sin ocupar un lugar que no le corresponde. Ahí aparecen muchos matices: responsabilidad, vínculo, límites, diseño, lenguaje. Me gustaría ahora desplazar la pregunta del plano más individual o afectivo hacia una dimensión más colectiva y democrática. ¿Qué responsabilidad tienen estas infraestructuras tecnológicas en la reproducción o transformación de desigualdades sociales, generacionales, de género, raciales o culturales? Como me decía Eva Navarro hace poco: “tal como hablan algunas inteligencias artificiales, parece que estemos borrando 200 años de lucha social”. ¿Cómo lo ves tú? ¿La inteligencia artificial puede contribuir a reconocer esas luchas y ampliar derechos, o corremos el riesgo de que vuelva a naturalizar desigualdades que ya habíamos aprendido a nombrar?**
 
 Yo veo una lectura en tres niveles. Una es el reto de la representación: si tú estás fuera de la norma, si no estás en las bases de datos que han entrenado los modelos, ni siquiera saldrás en los resultados que arrojen. Hay una parte de muestra y de representación. Y aquí aparece el peligro de la homogeneización y pérdida de diversidad.
 

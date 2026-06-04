@@ -31,6 +31,10 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/1758434727242.jpg
 ---
+She entered college saying, “I want to understand social reality in order to transform it, because what I want is to improve the lives of my neighbors.” Years later, and following her tenure as Director General of the Department of the Digital Society at the Government of Catalonia, **Liliana Arroyo** now heads the ESADE and Exea Chair for Socially Responsible Digital Innovation (SoReDI), where she fosters a Community of Practice for young people aged 16 to 25, with the goal of proposing new ways to experience technology, particularly as it relates to youth loneliness and AI.
+
+{% quote %}We have nearly two years ahead of us, and it is from this vantage point—straddling academia and philanthropy—that we aim to open new avenues for technology, because the industry alone has not succeeded in doing so.{% endquote %}
+
 ### **Your background is in sociology, and today you work in social innovation and responsible technology. When we talk about digital social innovation, what criteria must a technology meet to be truly socially responsible?**
 
 When we talk about social innovation and technology, we’re talking about solutions that help us collectively: they help us connect better, understand one another better, live together more harmoniously, and manage disagreement more effectively. 
@@ -125,9 +129,7 @@ As Alison Lee says, it’s important to use AI “before human contact” and ne
 
 Because there is one fundamental thing that separates us, that distinguishes us: it has no senses, it has no body. And the body is the gateway to experience—to the experience of context and to other things. That is why I emphasize this so much. And in this regard, because I believe it is the most fundamental link we must address in order to turn it into an ally, rather than becoming slaves to these false oracles.
 
-### **Earlier, we discussed a very delicate issue: how to envision a synthetic assistant that can accompany or care for us without pretending to be human, without causing emotional confusion, and without taking on a role that does not belong to it. This involves many nuances: responsibility, connection, boundaries, design, and language. I’d now like to shift the question from the more individual or emotional plane to a more collective and democratic dimension. What responsibility do these technological infrastructures bear in the reproduction or transformation of social, generational, gender, racial, or cultural inequalities?**
-
-### **I ask this because we’ve been pointing out these inequalities for decades, but it often seems they haven’t truly been incorporated into how these technologies are designed and trained. As someone told me recently: “The way some artificial intelligences speak makes it seem as though we’re erasing 200 years of social struggle.” How do you see it? Can artificial intelligence help acknowledge those struggles and expand rights, or do we run the risk of it once again normalizing inequalities that we had already learned to name?**
+### **Earlier, we discussed a very delicate issue: how to envision a synthetic assistant that can accompany or care for us without taking on a role that does not belong to it. This involves many nuances: responsibility, connection, boundaries, design, and language. I’d now like to shift the question from the more individual or emotional plane to a more collective and democratic dimension. What responsibility do these technological infrastructures bear in the reproduction or transformation of social, generational, gender, racial, or cultural inequalities? As Eva Navarro told me recently: “The way some artificial intelligences speak makes it seem as though we’re erasing 200 years of social struggle.” How do you see it? Can artificial intelligence help acknowledge those struggles and expand rights, or do we run the risk of it once again normalizing inequalities that we had already learned to name?**
 
 I see three levels to this. One is the challenge of representation: if you fall outside the norm, if you aren’t in the databases used to train the models, you won’t even appear in the results they produce. There’s an issue of sampling and representation. And this is where the danger of homogenization and the loss of diversity comes in.
 
