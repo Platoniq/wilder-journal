@@ -7,7 +7,7 @@ date: 2026-06-03T16:36:00.000+02:00
 date-updated: 2026-06-03T16:36:00.000+02:00
 article-order: 18
 uid: psicofancia-ia-democracia
-title: Psicofancia, soledad y apego parasocial, ¿cómo imaginar junto a la
+title: Sicofancia, soledad y apego parasocial, ¿cómo imaginar junto a la
   juventud una IA socialmente responsable?
 description: "Tu trayectoria proviene de la sociología y a día de hoy trabajas
   en innovación social y tecnología responsable: ¿cómo ha evolucionado tu mirada

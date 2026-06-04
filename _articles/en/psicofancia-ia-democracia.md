@@ -7,7 +7,7 @@ date: 2026-06-03T16:36:00.000+02:00
 date-updated: 2026-06-03T16:36:00.000+02:00
 article-order: 18
 uid: psicofancia-ia-democracia
-title: "Psychofancy, loneliness, and parasocial attachment: How can we work with
+title: "Sychofancy, loneliness, and parasocial attachment: How can we work with
   young people to envision a socially responsible AI?"
 description: Psicofancia, soledad y apego parasocial, ¿cómo imaginar una IA
   socialmente responsable?
