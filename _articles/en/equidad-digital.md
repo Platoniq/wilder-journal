@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: learnings
+category: futures
 published: true
 date: 2026-03-25T18:28:00.000+01:00
 date-updated: 2026-03-25T18:28:00.000+01:00
-article-order: 20
+article-order: 10
 uid: Equidad-Digital-Infancia-Adolescencia
 title: Using listening circles with children and teenagers to transform digital
   policies
