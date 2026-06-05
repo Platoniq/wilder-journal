@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: futures
+category: rethink
 published: true
 date: 2024-12-23T16:52:00.000Z
 date-updated: 2024-12-23T16:52:00.000Z
-article-order: 1
+article-order: 30
 uid: Goteo
 title: "Goteo 4.0: a crowdfunding network and crowdvocacy tool"
 description: Goteo.org is our civic crowdfunding platform, through which we fund
@@ -15,6 +15,7 @@ description: Goteo.org is our civic crowdfunding platform, through which we fund
 author: Platoniq Foundation
 author_uids:
   - platoniq
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-clouds-blue-sky.png
   mobile: /media/articles/mobile/esepe-clouds-blue-sky.png

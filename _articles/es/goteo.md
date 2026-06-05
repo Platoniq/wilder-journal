@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: futures
+category: rethink
 published: true
 date: 2024-12-23T16:52:00.000Z
 date-updated: 2024-12-23T16:52:00.000Z
-article-order: 1
+article-order: 30
 uid: Goteo
 title: "Goteo 4.0: red de financiación colectiva y herramienta de crowdvocacy"
 description: Goteo.org es nuestra plataforma de crowdfunding cívico, a través de
