@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: futures
+category: rethink
 published: true
 date: 2025-07-08T15:53:00.000Z
 date-updated: 2025-07-08T15:53:00.000Z
-article-order: 2
+article-order: 30
 uid: soiltribes
 title: "Return to Earth: A Glocal Mission to Regenerate the Soil"
 description: SoilTribes aims to establish, activate, and strengthen glocal
