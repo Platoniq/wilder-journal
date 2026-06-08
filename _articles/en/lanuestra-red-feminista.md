@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2026-05-22T15:34:00.000+02:00
 date-updated: 2026-05-22T15:34:00.000+02:00
-article-order: 14
+article-order: 17
 uid: LaNuestra-Red-Feminista
 title: “Algorithms will change as society changes.” Humanistic AI for the
   LaNuestra community
