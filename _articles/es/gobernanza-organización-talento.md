@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-03T17:50:00.000+01:00
 date-updated: 2024-11-03T17:50:00.000+01:00
-article-order: 15
+article-order: 26
 uid: Gobernanza-organización-talento
 title: "Gobernanza robusta, organización y talento: ingredientes necesarios para
   un cambio de cultura democrática"

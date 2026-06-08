@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-03T17:50:00.000+01:00
 date-updated: 2024-11-03T17:50:00.000+01:00
-article-order: 15
+article-order: 26
 uid: Gobernanza-organización-talento
 title: "Robust governance, organisation and talent: necessary ingredients for a
   democratic cultural shift"
