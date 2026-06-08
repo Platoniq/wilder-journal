@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2025-07-21T18:13:00.000+02:00
 date-updated: 2025-07-21T18:13:00.000+02:00
-article-order: 7
+article-order: 3
 uid: derecho-ciudad-juventud-migrante
 title: "Claiming recognition: the right to the city from migrant youth [Policy Brief]"
 description: Young migrants in Barcelona face multiple vulnerabilities,

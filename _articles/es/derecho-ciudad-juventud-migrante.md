@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2025-07-21T18:13:00.000+02:00
 date-updated: 2025-07-21T18:13:00.000+02:00
-article-order: 7
+article-order: 3
 uid: derecho-ciudad-juventud-migrante
 title: "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes
   migrantes [Policy Brief] "
