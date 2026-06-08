@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-11-17T15:09:00.000+01:00
 date-updated: 2025-11-17T15:09:00.000+01:00
-article-order: 16
+article-order: 14
 uid: disinformation-palestine-digital-rights
 title: '"Los derechos digitales son derechos humanos". La opinión pública
   palestina en la esfera digital'
