@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2024-01-09T11:57:46.087Z
 date-updated: 2024-01-09T11:57:46.130Z
-article-order: 105
+article-order: 5
 uid: neo-sindicalismo
 title: Welcome to platform neo-unionism. Kellys, day laborers, Manteros,
   Mensakas riders and organized tenants are leading the way.
