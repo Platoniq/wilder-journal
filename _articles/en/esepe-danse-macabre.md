@@ -5,7 +5,7 @@ category: stories
 published: true
 date: 2024-01-09T09:03:40.116Z
 date-updated: 2024-01-09T09:03:40.186Z
-article-order: 16
+article-order: 6
 uid: esepe-danse-macabre
 title: "Emotideath Dance. Infected emoticons in a macabre dance... "
 description: "Sticker Pack for Wilder Journal #2"
