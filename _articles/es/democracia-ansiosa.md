@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2026-05-28T12:33:00.000+02:00
 date-updated: 2026-05-28T12:33:00.000+02:00
-article-order: 2
+article-order: 4
 uid: democracia-ansiosa
 title: "DemocracIAs Ansiosas: Juventud, IA y la Privatización del Cuidado Emocional "
 description: "Regular plataformas o limitar riesgos no es suficiente, en el

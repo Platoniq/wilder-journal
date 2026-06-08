@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2026-05-28T12:33:00.000+02:00
 date-updated: 2026-05-28T12:33:00.000+02:00
-article-order: 2
+article-order: 4
 uid: democracia-ansiosa
 title: "Anxious Democracies: Youth, AI, and the Privatization of Emotional Care "
 description: "Regulating platforms or limiting risks isn’t enough; in the first
