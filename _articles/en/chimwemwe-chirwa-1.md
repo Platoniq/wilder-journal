@@ -5,11 +5,12 @@ category: stories
 published: true
 date: 2024-01-09T11:29:11.035Z
 date-updated: 2024-01-09T11:29:11.058Z
-article-order: 20
+article-order: 5
 uid: were_open
 title: Were open
 description: Soft warm and delicate in taste...
 author: Joan B. Cabot
+interviewee: null
 cover:
   path: /media/articles/heroes/late-legislation2.png
   mobile: /media/articles/mobile/late-legislation2.png
