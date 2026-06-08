@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2025-02-11T17:46:00.000Z
 date-updated: 2025-02-11T17:46:00.000Z
-article-order: 74
+article-order: 4
 uid: children-assemblies
 title: "Asambleas ciudadanas con infantes y jóvenes: una herramienta pedagógica
   única a favor de la democracia"
