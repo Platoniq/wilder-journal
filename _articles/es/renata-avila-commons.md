@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-01-30T11:41:00.000Z
 date-updated: 2025-01-30T11:41:00.000Z
-article-order: 11
+article-order: 4
 uid: renata-avila-commons
 title: "La gobernanza necesita fiesta: Reconectando con alegría el movimiento
   open con los movimientos de base"
