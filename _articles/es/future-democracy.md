@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-21T21:57:00.000+01:00
 date-updated: 2024-11-21T21:57:00.000+01:00
-article-order: 14
+article-order: 30
 uid: future-democracy
 title: La democracia está en peligro, ¡viva la democracia! Cinco tendencias que
   reafirman el auge de la democracia deliberativa en todo el mundo
