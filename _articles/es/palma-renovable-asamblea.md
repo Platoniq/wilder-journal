@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: interviews
+category: learnings
 published: true
 date: 2025-10-15T12:04:00.000+02:00
 date-updated: 2025-10-15T12:04:00.000+02:00
-article-order: 13
+article-order: 3
 uid: palma-renovable-asamblea
 title: “La transición energética en La Palma solo tiene sentido si la lidera la
   ciudadanía”. Cómo impulsar una asamblea ciudadana sobre el clima.

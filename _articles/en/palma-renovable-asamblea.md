@@ -1,11 +1,11 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: interviews
+category: learnings
 published: true
 date: 2025-10-15T12:04:00.000+02:00
 date-updated: 2025-10-15T12:04:00.000+02:00
-article-order: 13
+article-order: 3
 uid: palma-renovable-asamblea
 title: “The energy transition in La Palma only makes sense if it is led by the
   citizens.” How to promote a citizens’ assembly on climate change.
