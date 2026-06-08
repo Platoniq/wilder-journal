@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-02-20T09:06:59.101Z
 date-updated: 2024-02-20T09:07:01.000Z
-article-order: 17
+article-order: 36
 uid: crowdfunding-cinema
 title: "Crowdfunding: a key tool for cultural initiatives"
 description: "We present two initiatives that are changing the panorama of

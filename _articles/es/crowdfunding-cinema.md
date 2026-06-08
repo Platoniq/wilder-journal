@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-02-20T09:06:59.101Z
 date-updated: 2024-02-20T09:07:01.000Z
-article-order: 17
+article-order: 36
 uid: crowdfunding-cinema
 title: "Micromecenazgo: una herramienta clave para las iniciativas culturales"
 description: "Presentamos dos iniciativas que están cambiando el panorama del
