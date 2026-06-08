@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2026-03-10T15:50:00.000+01:00
 date-updated: 2026-03-10T15:50:00.000+01:00
-article-order: 14
+article-order: 13
 uid: herstory-archive
 title: "HerStory: a feminist memoir serving forgotten voices"
 description: "This conversation with Núria Ferran Ferrer takes place on that
