@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2025-07-28T11:41:00.000+02:00
 date-updated: 2025-07-28T11:41:00.000+02:00
-article-order: 10
+article-order: 9
 uid: escuela-democracia-incidencia
 title: The School of Creativity and Democracy as a laboratory for democratic
   experimentation and civic impact
