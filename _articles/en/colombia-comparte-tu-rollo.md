@@ -5,13 +5,14 @@ category: deep-dives
 published: true
 date: 2024-01-09T10:13:58.758Z
 date-updated: 2024-01-09T10:13:58.828Z
-article-order: 11
+article-order: 7
 uid: colombia-comparte-tu-rollo
 title: "Exploring Deliberative Memory Processes: crafting a Vision of the Past"
 description: Learning from the "comparte tu Rollo" case in Colombia
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-hamaca.png
   mobile: /media/articles/mobile/esepe-hamaca.png
@@ -21,7 +22,7 @@ cover:
   caption: Ésèpe, Hammock, 2023
 related_article_uids:
   - web-dubois-data
-  - decide-madrid
+  - crowdfunding-historical-memory-common-good
   - marea-deliberativa-manifiesto-asambleas
 stickers:
   layout: layout-none

@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2024-01-09T10:13:58.758Z
 date-updated: 2024-01-09T10:13:58.828Z
-article-order: 11
+article-order: 7
 uid: colombia-comparte-tu-rollo
 title: "Explorando los procesos deliberativos de la memoria: la elaboración de
   una visión del pasado"
