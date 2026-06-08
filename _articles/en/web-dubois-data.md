@@ -5,13 +5,14 @@ category: futures
 published: true
 date: 2024-01-09T10:47:00.355Z
 date-updated: 2024-01-09T10:47:00.433Z
-article-order: 5
+article-order: 52
 uid: web-dubois-data
 title: "The future of data visualization: in the footsteps of W.E.B. DuBois"
 description: Review of the exhibition "The Exhibit of American Negroes" by W.E.B. DuBois
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-yourdata-yourheritage.png
   mobile: /media/articles/mobile/esepe-yourdata-yourheritage.png
@@ -20,8 +21,9 @@ cover:
   credits: Ésèpe, Your data, 2023
   caption: Ésèpe, Your data, 2023
 related_article_uids:
-  - domesticdatastreamers
   - esepe-danse-macabre
+  - editorial2
+  - data-streamers
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
