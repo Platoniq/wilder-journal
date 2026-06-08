@@ -5,9 +5,9 @@ category: learnings
 published: true
 date: 2025-08-28T09:45:00.000+02:00
 date-updated: 2025-08-28T09:45:00.000+02:00
-article-order: 29
+article-order: 31
 uid: derecho-ciudad-migrante
-title: "[ECD1_LAB] Teatro Legislativo y Derecho a la ciudad"
+title: "Teatro Legislativo y Derecho a la ciudad [ECD1_LAB] "
 description: La juventud migrante en Barcelona enfrenta múltiples frentes de
   vulnerabilidad, combinando carencias en educación, empleo, vivienda y
   bienestar emocional.

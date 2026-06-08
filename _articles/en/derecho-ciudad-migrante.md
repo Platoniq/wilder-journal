@@ -5,9 +5,9 @@ category: learnings
 published: true
 date: 2025-08-28T09:45:00.000+02:00
 date-updated: 2025-08-28T09:45:00.000+02:00
-article-order: 29
+article-order: 31
 uid: derecho-ciudad-migrante
-title: "[ECD1_LAB] Legislative Theater and the Right to the City"
+title: "Legislative Theater and the Right to the City [ECD1_LAB] "
 description: Migrant youth in Barcelona face multiple fronts of vulnerability,
   combining deficiencies in education, employment, housing, and emotional
   well-being.
