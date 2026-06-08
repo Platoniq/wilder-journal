@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-13T16:38:00.000Z
 date-updated: 2024-11-13T16:38:00.000Z
-article-order: 11
+article-order: 6
 uid: yanina-welp
 title: Polarización, despolarización y el papel de la ciudadanía en la
   democracia moderna
