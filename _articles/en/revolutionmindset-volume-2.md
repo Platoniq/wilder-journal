@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-01-09T11:46:41.638Z
 date-updated: 2024-01-09T11:46:41.669Z
-article-order: 40
+article-order: 10
 uid: revolutionmindset
 title: "Mindset Revolution: Digital Environments for Care and Democracy"
 description: Redefining Mental Health Policies through the Voice of Youth
