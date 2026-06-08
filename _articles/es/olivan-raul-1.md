@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2023-10-23T14:43:00.000+02:00
 date-updated: 2023-10-23T14:43:00.000+02:00
-article-order: 15
+article-order: 28
 uid: olivan-raul
 title: "Cajas Negras de la Innovación Democrática: Abrir Instituciones desde Dentro"
 description: Olivier Schulbaum entrevista a Raúl Oliván, director general de

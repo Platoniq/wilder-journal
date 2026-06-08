@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2023-10-23T14:43:00.000+02:00
 date-updated: 2023-10-23T14:43:00.000+02:00
-article-order: 15
+article-order: 28
 uid: olivan-raul
 title: "Black Boxes of Democratic Innovation: Opening Institutions from Within"
 description: Olivier Schulbaum interviews Raúl Oliván, General Director of
