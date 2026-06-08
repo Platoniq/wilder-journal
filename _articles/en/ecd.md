@@ -5,9 +5,9 @@ category: learnings
 published: true
 date: 2025-07-28T16:15:00.000+02:00
 date-updated: 2025-07-28T16:15:00.000+02:00
-article-order: 24
+article-order: 32
 uid: ECD
-title: "[ECD1_M1] The Vertigo of Dialogue and Deliberation"
+title: "The Vertigo of Dialogue and Deliberation [ECD1_M1] "
 description: Dialogue-Deliberation
 author: Platoniq Foundation
 author_uids:
