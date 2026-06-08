@@ -5,10 +5,10 @@ category: learnings
 published: true
 date: 2025-07-29T15:02:00.000+02:00
 date-updated: 2025-07-29T15:02:00.000+02:00
-article-order: 25
+article-order: 33
 uid: facilitacion-politicas-publicas
-title: "[ECD1_M2] Facilitar la co-creación de agendas y políticas públicas con
-  los afectados"
+title: "Facilitar la co-creación de agendas y políticas públicas con los
+  afectados [ECD1_M2] "
 description: "Este segundo módulo, Facilitar la co-creación de agendas y
   políticas públicas con los afectados, se adentra en el poder transformador de
   las emociones en la vida pública, y exploramos cómo la facilitación puede
