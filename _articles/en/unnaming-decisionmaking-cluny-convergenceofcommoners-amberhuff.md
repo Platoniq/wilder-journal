@@ -5,13 +5,14 @@ category: stories
 published: true
 date: 2024-09-26T09:00:00.000Z
 date-updated: 2024-09-26T09:00:00.000Z
-article-order: 1
+article-order: 3
 uid: decisionmaking-unnaming-deliberative
 title: Gathering in the Starry Fields
 description: An Exercise in Unnaming to Imagine New Forms of Decision-Making
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/photo_2024-09-25_18-50-16-copia.jpg
   mobile: /media/articles/mobile/photo_2024-09-25_18-50-16-copia.jpg
