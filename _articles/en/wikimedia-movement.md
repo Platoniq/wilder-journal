@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-02-15T11:28:39.672Z
 date-updated: 2024-02-15T11:28:40.971Z
-article-order: 11
+article-order: 110
 uid: wikimedia-movement
 title: How to design Futures of Participation in the Wikimedia Movement
 description: "White paper about what a more participatory governance could look
@@ -13,6 +13,7 @@ description: "White paper about what a more participatory governance could look
 author: Nadia Nadesan
 author_uids:
   - nadia-nadesan
+interviewee: null
 cover:
   path: /media/articles/heroes/lost_in_translation.png
   mobile: /media/articles/mobile/lost_in_translation.png
@@ -22,6 +23,8 @@ cover:
   caption: Ésèpe, Blue Planet, 2023
 related_article_uids:
   - culture-creativity-and-deliberation-methodologies
+  - expo-desinformación
+  - dialogos-migrantes
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

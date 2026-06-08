@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-02-15T11:28:39.672Z
 date-updated: 2024-02-15T11:28:40.971Z
-article-order: 11
+article-order: 110
 uid: wikimedia-movement
 title: Cómo diseñar futuros de participación en el movimiento Wikimedia
 description: White paper sobre cómo podría ser una gobernanza más participativa
