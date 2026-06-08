@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-01-09T15:36:15.557Z
 date-updated: 2024-01-09T15:36:15.617Z
-article-order: 7
+article-order: 76
 uid: democratic-digital-infraestructure
 title: "Democratic and Robust Digital Infrastructures: call for the
   democratization of the digital transition in Europe."
@@ -18,6 +18,7 @@ author: Joan B. Cabot and Olivier Schulbaum
 author_uids:
   - joan-cabot
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-estrecho.jpg
   mobile: /media/articles/mobile/esepe-estrecho.jpg
@@ -28,7 +29,7 @@ cover:
 related_article_uids:
   - decide-madrid
   - plan-estrategico
-  - democratic-funding
+  - marea-deliberativa-manifiesto-asambleas
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
