@@ -5,10 +5,10 @@ category: learnings
 published: true
 date: 2025-08-05T09:24:00.000+02:00
 date-updated: 2025-08-05T09:24:00.000+02:00
-article-order: 28
+article-order: 36
 uid: incidencia-creativa-democracia
-title: "[ECD1_M5] Cuando la ciudadanía despierta: niveles de incidencia y
-  campañas exitosas de movilización social"
+title: "Cuando la ciudadanía despierta: niveles de incidencia y campañas
+  exitosas de movilización social [ECD1_M5] "
 description: "El quinto y último módulo de la Escuela de Creatividad y
   Democracia se adentró con intensidad en: la capacidad de la ciudadanía para
   transformar el mundo a través de la comunicación, la estrategia y la acción

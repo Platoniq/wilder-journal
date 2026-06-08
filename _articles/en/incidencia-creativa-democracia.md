@@ -5,10 +5,10 @@ category: learnings
 published: true
 date: 2025-08-05T09:24:00.000+02:00
 date-updated: 2025-08-05T09:24:00.000+02:00
-article-order: 28
+article-order: 36
 uid: incidencia-creativa-democracia
-title: "[ECD1_M5] When citizens wake up: levels of advocacy and successful
-  social mobilization campaigns"
+title: "When citizens wake up: levels of advocacy and successful social
+  mobilization campaigns [ECD1_M5] "
 description: "The fifth and final module of the School of Creativity and
   Democracy delved deeply into: the capacity of citizens to transform the world
   through communication, strategy and collective action."
