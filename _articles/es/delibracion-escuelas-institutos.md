@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-03-29T15:27:00.000+01:00
 date-updated: 2025-03-29T02:05:00.000+01:00
-article-order: 5
+article-order: 51
 uid: deliberacion-escuelas-institutos
 title: "¿Qué hace la democracia en mi mochila? Aprendiendo a deliberar en
   escuelas e institutos "
