@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2024-01-09T11:57:46.087Z
 date-updated: 2024-01-09T11:57:46.130Z
-article-order: 10
+article-order: 105
 uid: neo-sindicalismo
 title: Welcome to platform neo-unionism. Kellys, day laborers, Manteros,
   Mensakas riders and organized tenants are leading the way.
@@ -16,6 +16,7 @@ author_uids:
   - joan-cabot
   - xesca-sastre
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/shooting_star.png
   mobile: /media/articles/mobile/shooting_star.png
