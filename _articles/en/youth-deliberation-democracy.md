@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2026-03-12T13:29:00.000+01:00
 date-updated: 2026-03-12T13:29:00.000+01:00
-article-order: 14
+article-order: 23
 uid: youth-deliberation-democracy
 title: Can Youth Deliberation Inoculate Democracy? Youth deliberation,
   democratic learning, and the fragility of equal voice
