@@ -1,7 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: interviews
+category: stories
 published: true
 date: 2024-01-09T09:03:40.116Z
 date-updated: 2024-01-09T09:03:40.186Z

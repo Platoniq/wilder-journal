@@ -1,7 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-2
-category: interviews
+category: stories
 published: true
 date: 2024-01-09T09:03:40.116Z
 date-updated: 2024-01-09T09:03:40.186Z
@@ -20,6 +20,8 @@ cover:
   alt: Jean-Louis just stop wiggling
   credits: Ésèpe, 2023
   caption: Ésèpe, Jean-Louis just stop wiggling, 2023
+related_article_uids:
+  - data-streamers
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
