@@ -5,9 +5,9 @@ category: learnings
 published: true
 date: 2025-07-29T17:03:00.000+02:00
 date-updated: 2025-07-29T17:03:00.000+02:00
-article-order: 26
+article-order: 34
 uid: tecnologia-radical
-title: "[ECD1_M3] Radical Technologies: Digital Democracy for a Broken World"
+title: "Radical Technologies: Digital Democracy for a Broken World [ECD1_M3] "
 description: In a context increasingly influenced by digitalization, it is
   relevant to think about what the digital dimension implies in the development
   of deliberative processes.

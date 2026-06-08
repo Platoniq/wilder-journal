@@ -5,9 +5,9 @@ category: learnings
 published: true
 date: 2025-07-29T17:03:00.000+02:00
 date-updated: 2025-07-29T17:03:00.000+02:00
-article-order: 26
+article-order: 34
 uid: tecnologia-radical
-title: "[ECD1_M3] Tecnologías Radicales: Democracia digital para un mundo roto"
+title: "Tecnologías Radicales: Democracia digital para un mundo roto [ECD1_M3] "
 description: En un contexto cada vez más influenciado por la digitalización, es
   relevante pensar que implica la dimensión digital en el desarrollo de procesos
   deliberativos
