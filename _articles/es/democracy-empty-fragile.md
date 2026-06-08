@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2026-03-23T15:38:00.000+01:00
 date-updated: 2026-03-23T15:38:00.000+01:00
-article-order: 14
+article-order: 20
 uid: Democracy-Empty-Fragile
 title: La deliberación sin integridad carece de sentido, la democracia sin
   solidaridad es frágil

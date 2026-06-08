@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2026-03-23T15:38:00.000+01:00
 date-updated: 2026-03-23T15:38:00.000+01:00
-article-order: 14
+article-order: 20
 uid: Democracy-Empty-Fragile
 title: Deliberation without integrity is empty, democracy without care is fragile
 description: Deliberation Without Integrity Is Empty. Democracy Without Care Is Fragile.
@@ -20,6 +20,7 @@ cover:
 related_article_uids:
   - amber-huff
   - crowdfunding-historical-memory-common-good
+  - Democracia-deliberativa-cosmovisiones
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
