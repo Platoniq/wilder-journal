@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-13T11:05:00.000+01:00
 date-updated: 2024-11-13T11:05:00.000+01:00
-article-order: 14
+article-order: 21
 uid: Quim-Brugue-Participacio
 title: The need for citizen participation understood not as a requirement, but
   as dialogue
