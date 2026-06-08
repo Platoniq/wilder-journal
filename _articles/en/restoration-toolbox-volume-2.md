@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-01-09T10:01:44.397Z
 date-updated: 2024-01-09T10:01:44.426Z
-article-order: 20
+article-order: 9
 uid: Restoration-Toolbox
 title: "Discover the new participatory platform in New Delhi : The Restoration
   Toolbox"
@@ -15,6 +15,7 @@ description: Welcome to the participatory platform designed to help people
 author: Joan B Cabot
 author_uids:
   - joan-cabot
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-globetrotter.png
   mobile: /media/articles/mobile/esepe-globetrotter.png
@@ -23,7 +24,9 @@ cover:
   credits: Esepé, Globetrotter, 2023
   caption: Esepé, Globetrotter, 2023
 related_article_uids:
-  - open-heritage-financing
+  - dialogos-migrantes
+  - deliberative-assemblies
+  - wikimedia-movement
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

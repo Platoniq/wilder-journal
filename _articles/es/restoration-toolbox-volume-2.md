@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-01-09T10:01:44.397Z
 date-updated: 2024-01-09T10:01:44.426Z
-article-order: 20
+article-order: 9
 uid: Restoration-Toolbox
 title: "Descubre la nueva plataforma participativa en Nueva Delhi: The
   Restoration Toolbox"
