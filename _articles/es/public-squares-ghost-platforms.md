@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2026-05-27T12:29:00.000+02:00
 date-updated: 2026-05-27T12:29:00.000+02:00
-article-order: 20
+article-order: 2
 uid: Public-Squares-Ghost-Platforms
 title: Plazas públicas, andenes fantasma y el aroma de la democracia digital
 description: Cada plaza pública tiene su propio ambiente, su propia mezcla de

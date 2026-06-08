@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2026-05-27T12:29:00.000+02:00
 date-updated: 2026-05-27T12:29:00.000+02:00
-article-order: 20
+article-order: 2
 uid: Public-Squares-Ghost-Platforms
 title: Public Squares, Ghost Platforms and the Smell of Digital Democracy
 description: Every public square has its own atmosphere, its own mixture of
