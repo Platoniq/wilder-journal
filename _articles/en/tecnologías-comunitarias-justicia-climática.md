@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-11-17T20:35:00.000+01:00
 date-updated: 2025-11-17T20:35:00.000+01:00
-article-order: 16
+article-order: 22
 uid: "tecnologías-comunitarias-justicia-climática "
 title: "Between Dumsor and Sopala: community technologies for climate justice in
   West Africa"
