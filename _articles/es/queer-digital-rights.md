@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2026-05-19T10:06:00.000+02:00
 date-updated: 2026-05-19T10:06:00.000+02:00
-article-order: 14
+article-order: 1
 uid: queer-digital-rights
 title: '"La IA feminista es un proyecto democrático". Sobre desaprender para
   reivindicar otra forma de vivir y sentir la tecnología'
