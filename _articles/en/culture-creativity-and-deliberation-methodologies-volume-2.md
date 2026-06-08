@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2024-02-08T17:20:32.577Z
 date-updated: 2024-02-08T17:20:36.538Z
-article-order: 10
+article-order: 108
 uid: culture-creativity-and-deliberation-methodologies
 title: Culture, creativity, and deliberation methodologies
 description: Creating methodologies to improve and scale deliberative methods
@@ -15,6 +15,7 @@ author: Tayrine Dias
 author_uids:
   - tayrine-dias
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-ikea2.jpg
   mobile: /media/articles/mobile/esepe-ikea2.jpg
