@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2026-03-27T16:01:00.000+01:00
 date-updated: 2026-03-27T16:01:00.000+01:00
-article-order: 1
+article-order: 13
 uid: consejo-ciudadano-congreso
 title: Propuesta de Consejo Ciudadano permanente para reforzar la democracia a
   través de la participación
