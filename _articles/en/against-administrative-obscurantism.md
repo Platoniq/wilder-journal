@@ -5,7 +5,7 @@ category: stories
 published: true
 date: 2026-05-26T16:40:00.000+02:00
 date-updated: 2026-05-26T16:40:00.000+02:00
-article-order: 19
+article-order: 1
 uid: Against-Administrative-Obscurantism
 title: "The Algorithm and the Wall: Against Administrative Obscurantism"
 description: "A Raven Knocking at the Gate: BOSCO Remains Hidden"
