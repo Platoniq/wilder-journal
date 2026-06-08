@@ -5,13 +5,14 @@ category: learnings
 published: true
 date: 2024-02-15T14:35:24.019Z
 date-updated: 2024-02-15T14:35:37.507Z
-article-order: 20
+article-order: 7
 uid: decide-madrid
 title: How to gamify citizen advocacy. The case of Decide Madrid
 description: This article transfers the lessons learned from the case of the
   civic crowdfunding platform Goteo.org to the Citizen Proposals section of the
   Decide Madrid platform,
 author: Susana Noguero
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-lefttight-y-viceversa.png
   mobile: /media/articles/mobile/esepe-lefttight-y-viceversa.png
