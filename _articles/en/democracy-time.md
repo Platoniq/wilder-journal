@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-11-20T09:00:00.000Z
 date-updated: 2024-11-20T12:43:00.000Z
-article-order: 18
+article-order: 8
 uid: Democracy-Time
 title: "Deep Time and Citizen Participation: a pending challenge"
 description: Survey results combine elements of the Harmonized European Time Use
