@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-07-17T09:25:00.000+02:00
 date-updated: 2025-07-17T09:25:00.000+02:00
-article-order: 3
+article-order: 7
 uid: grimoire-democracy
 title: "Del Grimorio a la Calle: Materializar la política de juventud a través
   del podcast, la plataforma y la protesta"
