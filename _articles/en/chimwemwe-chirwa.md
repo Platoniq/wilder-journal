@@ -5,11 +5,12 @@ category: stories
 published: true
 date: 2024-01-09T11:13:44.943Z
 date-updated: 2024-01-09T11:13:44.995Z
-article-order: 19
+article-order: 4
 uid: late_legislation
 title: Late Legislation
 description: The liberating licks of tobacco can only linger for so long...
 author: Chimwemwe Chirwa
+interviewee: null
 cover:
   path: /media/articles/heroes/late-legislation.png
   mobile: /media/articles/mobile/late-legislation.png
