@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-01-09T14:21:10.514Z
 date-updated: 2024-01-09T14:21:10.542Z
-article-order: 15
+article-order: 18
 uid: patricia-lujan
 title: Feminist and transformative communication, marketing applied to activism
   and advocacy with the tools of advertising
