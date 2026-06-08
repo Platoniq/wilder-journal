@@ -5,9 +5,9 @@ category: futures
 published: true
 date: 2026-03-25T18:28:00.000+01:00
 date-updated: 2026-03-25T18:28:00.000+01:00
-article-order: 8
+article-order: 6
 uid: Equidad-Digital-Infancia-Adolescencia
-title: A plicar los círculos de escucha con infantes y adolescentes para
+title: Aplicar los círculos de escucha con infantes y adolescentes para
   transformar las políticas digitales
 description: Cómo Platoniq llevó la voz de la comunidad al corazón de la Agenda
   de Equidad Digital
