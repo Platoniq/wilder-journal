@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-02-08T17:07:17.437Z
 date-updated: 2024-02-08T17:07:18.572Z
-article-order: 21
+article-order: 6
 uid: expo-desinformación
 title: '"Ciudad de la desinformación": jóvenes, fake news y políticas digitales'
 description: Sobre como las escuelas aprendieron a implementar enfoques

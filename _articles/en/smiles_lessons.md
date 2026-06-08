@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-02-08T17:07:17.437Z
 date-updated: 2024-02-08T17:07:18.572Z
-article-order: 21
+article-order: 6
 uid: expo-desinformación
 title: '"City of disinformation": young people, fake news and digital policies.'
 description: On how schools learned to implement effective media and information
@@ -14,6 +14,7 @@ description: On how schools learned to implement effective media and information
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-footlitics.png
   mobile: /media/articles/mobile/esepe-footlitics.png
