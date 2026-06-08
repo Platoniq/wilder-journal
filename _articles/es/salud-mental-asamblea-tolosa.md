@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2025-05-15T10:00:00.000+02:00
 date-updated: 2025-05-15T10:00:00.000+02:00
-article-order: 14
+article-order: 29
 uid: salud-mental-asamblea-tolosa
 title: '"La democracia deliberativa y la representativa deben aprender a
   convivir". Experiencias desde la Asamblea Ciudana de Tolosa'
