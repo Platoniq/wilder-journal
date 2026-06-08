@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-20T10:46:00.000+01:00
 date-updated: 2024-11-20T10:46:00.000+01:00
-article-order: 13
+article-order: 34
 uid: Asamblea-Clima-Mallorca
 title: The Mallorca Climate Assembly, or how to get an island to engage with the
   climate crisis

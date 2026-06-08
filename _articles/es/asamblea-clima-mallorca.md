@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2024-11-20T10:46:00.000+01:00
 date-updated: 2024-11-20T10:46:00.000+01:00
-article-order: 13
+article-order: 34
 uid: Asamblea-Clima-Mallorca
 title: La Asamblea por el Clima de Mallorca o cómo hacer que una isla dialogue
   con la crisis climática
