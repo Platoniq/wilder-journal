@@ -5,10 +5,10 @@ category: learnings
 published: true
 date: 2025-08-04T10:13:00.000+02:00
 date-updated: 2025-08-04T10:13:00.000+02:00
-article-order: 27
+article-order: 35
 uid: Investigacion-democracia-creatividad
-title: "[ECD1_M4] Investigar para desarmar: creatividad y conocimiento al
-  servicio de la democracia"
+title: "Investigar para desarmar: creatividad y conocimiento al servicio de la
+  democracia [ECD1_M4] "
 description: "En este módulo, la Escuela de Creatividad y Democracia se lanzó
   con decisión a un terreno tan fascinante como complejo: la relación entre
   investigación, creatividad y participación política. Bajo la dirección

@@ -5,10 +5,10 @@ category: learnings
 published: true
 date: 2025-08-04T10:13:00.000+02:00
 date-updated: 2025-08-04T10:13:00.000+02:00
-article-order: 27
+article-order: 35
 uid: Investigacion-democracia-creatividad
-title: "[ECD1_M4] Investigating to dismantle: creativity and knowledge in the
-  service of democracy"
+title: "Investigating to dismantle: creativity and knowledge in the service of
+  democracy [ECD1_M4] "
 description: "In this module, the School of Creativity and Democracy boldly
   ventured into a field as fascinating as it is complex: the relationship
   between research, creativity and political participation. Under the conceptual
