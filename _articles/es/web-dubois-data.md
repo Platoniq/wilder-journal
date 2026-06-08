@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-01-09T10:47:00.355Z
 date-updated: 2024-01-09T10:47:00.433Z
-article-order: 52
+article-order: 12
 uid: web-dubois-data
 title: "El futuro de la visualización de datos: siguiendo los pasos de W.E.B DuBois"
 description: Repaso de la exposición "The Exhibit of American Negroes" de W.E.B. DuBois
