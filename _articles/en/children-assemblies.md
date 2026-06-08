@@ -5,7 +5,7 @@ category: deep-dives
 published: true
 date: 2025-02-11T17:46:00.000Z
 date-updated: 2025-02-11T17:46:00.000Z
-article-order: 7
+article-order: 74
 uid: children-assemblies
 title: "Citizens' assemblies with children and young people: a unique
   educational tool for democracy"
