@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-01-09T14:05:16.943Z
 date-updated: 2024-01-09T14:05:16.971Z
-article-order: 23
+article-order: 4
 uid: deliberative-assemblies
 title: Cómo llevar la deliberación ciudadana a escuelas e institutos [Guía práctica]
 description: La Guía LADA imprescindible para aprender a deliberar en colectivo
