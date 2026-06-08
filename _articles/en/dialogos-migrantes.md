@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2024-01-09T10:20:53.725Z
 date-updated: 2024-01-09T10:20:53.805Z
-article-order: 22
+article-order: 5
 uid: dialogos-migrantes
 title: How to create new narratives on polarization in migrants' lives
 description: Experience of creativity around new narratives that affect the
@@ -13,6 +13,7 @@ description: Experience of creativity around new narratives that affect the
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-selfies-a-gogo.jpg
   mobile: /media/articles/mobile/esepe-selfies-a-gogo.png
@@ -20,6 +21,10 @@ cover:
   alt: Ésèpe, Selfies a gogo, 2023
   credits: Ésèpe, Selfies a gogo, 2023
   caption: Ésèpe, Selfies a gogo, 2023
+related_article_uids:
+  - wikimedia-movement
+  - expo-desinformación
+  - Restoration-Toolbox
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
