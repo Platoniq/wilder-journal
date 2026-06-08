@@ -5,13 +5,14 @@ category: futures
 published: true
 date: 2024-01-09T11:46:41.638Z
 date-updated: 2024-01-09T11:46:41.669Z
-article-order: 4
+article-order: 40
 uid: revolutionmindset
 title: "Mindset Revolution: Digital Environments for Care and Democracy"
 description: Redefining Mental Health Policies through the Voice of Youth
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-pinkclouds.jpg
   mobile: /media/articles/mobile/esepe-pinkclouds.jpg
