@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-10-11T16:50:00.000Z
 date-updated: 2024-10-11T16:50:00.000Z
-article-order: 3
+article-order: 35
 uid: Escuela-Creatividad-Democracia
 title: "Escuela de Creatividad y Democracia: conectando afectos, reimaginando la
   democracia"
