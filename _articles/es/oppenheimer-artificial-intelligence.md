@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2025-07-30T10:13:00.000+02:00
 date-updated: 2025-07-30T10:14:00.000+02:00
-article-order: 3
+article-order: 39
 uid: Oppenheimer-Artificial-Intelligence
 title: "Podcast: ¿Estamos viviendo un “momento Oppenheimer” con la IA?"
 description: "Gobernanza de la IA y los Comunes en la Era de la Crisis "
