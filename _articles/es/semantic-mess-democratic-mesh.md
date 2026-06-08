@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2026-05-25T20:27:00.000+02:00
 date-updated: 2026-05-25T20:27:00.000+02:00
-article-order: 20
+article-order: 1
 uid: Semantic-Mess-Democratic-Mesh
 title: "Entre el caos semántico y el tejido democrático: la facilitación al
   servicio de los datos. Una conversación con Diego Arredondo Ortiz"

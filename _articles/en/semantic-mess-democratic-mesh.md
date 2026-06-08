@@ -5,7 +5,7 @@ category: learnings
 published: true
 date: 2026-05-25T20:27:00.000+02:00
 date-updated: 2026-05-25T20:27:00.000+02:00
-article-order: 20
+article-order: 1
 uid: Semantic-Mess-Democratic-Mesh
 title: "From Semantic Mess to Democratic Mesh: facilitation accompanying data"
 description: Diego Arredondo Ortiz has spent more than a decade moving between
