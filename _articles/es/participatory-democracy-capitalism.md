@@ -5,7 +5,7 @@ category: interviews
 published: true
 date: 2026-03-13T08:32:00.000+01:00
 date-updated: 2026-03-13T08:32:00.000+01:00
-article-order: 14
+article-order: 15
 uid: "Participatory-Democracy-Capitalism "
 title: "Un diálogo sobre democracia participativa, capitalismo y cooptación "
 description: "Un diálogo sobre democracia participativa, capitalismo y cooptación "
