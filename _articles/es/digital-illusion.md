@@ -5,7 +5,7 @@ category: stories
 published: true
 date: 2025-03-18T09:30:00.000Z
 date-updated: 2025-03-18T09:30:00.000Z
-article-order: 1
+article-order: 2
 uid: digital-illusion
 title: Afecto, comunes y los límites de los datos. Más allá de la ilusión digital
 description: ¿Podemos construir espacios—digitales y físicos—que realmente

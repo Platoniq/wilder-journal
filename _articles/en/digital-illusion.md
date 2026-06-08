@@ -5,13 +5,14 @@ category: stories
 published: true
 date: 2025-03-18T09:30:00.000Z
 date-updated: 2025-03-18T09:30:00.000Z
-article-order: 1
+article-order: 2
 uid: digital-illusion
 title: Beyond the Digital Illusion
 description: Can we build spaces - digital and physical - that truly sustain communities?
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/victoria-rovira_aldaia_2024.jpeg
   mobile: /media/articles/mobile/victoria-rovira_aldaia_2024.jpeg
