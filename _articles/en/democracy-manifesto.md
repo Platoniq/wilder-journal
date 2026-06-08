@@ -5,7 +5,7 @@ category: futures
 published: true
 date: 2024-02-29T10:07:46.718Z
 date-updated: 2024-02-29T10:07:46.718Z
-article-order: 4
+article-order: 13
 uid: democracy-manifesto
 title: Riding the deliberative wave to expand democracy
 description: "Manifesto for the expansion of democracy: riding the wave of
