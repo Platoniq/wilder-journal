@@ -120,3 +120,7 @@ A veces empieza de nuevo en tus manos:
 doblado como un folleto,
 pronunciado como un conjuro,
 en alto como una señal.
+
+\---
+
+*Este contenido ha sido posible gracias a la colaboración del Ayuntamiento de Barcelona*

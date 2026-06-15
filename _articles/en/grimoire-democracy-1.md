@@ -122,3 +122,7 @@ Sometimes it begins again in your hands
 folded like a zine,
 spoken like a spell,
 held high like a sign.
+
+\---
+
+*This content was made possible thanks to the collaboration of the Barcelona City Council*
