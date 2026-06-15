@@ -108,4 +108,4 @@ Pero por ahora, dejamos una pregunta sobre la mesa:
 
 \---
 
-*Con el apoyo del ayuntamiento de Barcelona*
+*Con el apoyo del Ayuntamiento de Barcelona*
