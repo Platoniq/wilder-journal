@@ -125,4 +125,4 @@ held high like a sign.
 
 \---
 
-*This content was made possible thanks to the collaboration of the Barcelona City Council*
+*With the support of the Barcelona City Council*
