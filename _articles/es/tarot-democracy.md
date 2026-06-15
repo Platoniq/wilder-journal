@@ -108,4 +108,4 @@ Pero por ahora, dejamos una pregunta sobre la mesa:
 
 \---
 
-*Este contenido ha sido posible gracias a la colaboración del Ayuntamiento de Barcelona*
+*Con el apoyo del ayuntamiento de Barcelona*

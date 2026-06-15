@@ -106,4 +106,4 @@ And would it know how to read it?**
 
 \---
 
-*This content was made possible thanks to the collaboration of the Barcelona City Council*
+*With the support of the Barcelona City Council*
