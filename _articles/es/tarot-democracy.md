@@ -105,3 +105,7 @@ Pero por ahora, dejamos una pregunta sobre la mesa:
 
 **¿Qué carta le tocaría a tu institución?
 ¿Y sabría cómo leerla?**
+
+\---
+
+*Este contenido ha sido posible gracias a la colaboración del Ayuntamiento de Barcelona*

@@ -103,3 +103,7 @@ But for now, we leave you with a question:
 
 **What card would your institution draw?
 And would it know how to read it?**
+
+\---
+
+*This content was made possible thanks to the collaboration of the Barcelona City Council*
