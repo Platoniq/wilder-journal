@@ -66,3 +66,7 @@ The second set of recommendations responds to the [digital administrative itiner
 The School's stance on this type of exercise is to prioritise those "affected", so that they are the ones who lay the foundations for social debate on the issues that concern them. This also includes the participants in the programme, who, after listening to more than 14 professionals from across Europe explain the essential concepts of participatory democracy, can put what they have learned into practice and add their own personal skills.
 
 If you would like to know more, please visit the [School's website](https://www.democraciacreativa.org/). And if you are interested in joining the second cohort, we are already preparing the second edition. Tell us who you are and why you are interested [here](https://openspaces.platoniq.net/assemblies/alumni/f/525/).
+
+\---
+
+*This content was made possible thanks to the collaboration of the Barcelona City Council*
