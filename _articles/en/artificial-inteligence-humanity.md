@@ -7,7 +7,7 @@ date: 2026-07-03T15:44:00.000+02:00
 date-updated: 2026-07-03T15:44:00.000+02:00
 article-order: 1
 uid: Artificial-Inteligence-Humanity
-title: The Humanity Behind Artificial Inteligence
+title: The Humankind Behind Artificial Inteligence
 description: "Artificial intelligence is often presented as something automatic,
   seamless and almost magical. "
 author: Olivier Schulbaum
