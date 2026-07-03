@@ -33,11 +33,11 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2026-07-03-a-las-16.07.31.png
 ---
-La inteligencia artificial suele presentarse como algo automático, fluido y casi mágico. Pero detrás de muchos sistemas de IA existe una fuerza de trabajo inmensa y en gran parte invisible que recopila, etiqueta, modera, limpia y clasifica los datos que permiten que estos sistemas funcionen. En esta conversación, Lucy y Michael, de la Data Labelers Association, hablan sobre las realidades del trabajo de datos en Kenia y en distintos lugares de África: salarios bajos, falta de transparencia, daños a la salud mental, vacíos legales y la necesidad urgente de reconocer a las personas trabajadoras de datos como actoras esenciales dentro de la cadena de suministro de la IA.
+La inteligencia artificial suele presentarse como algo automático, fluido y casi mágico. Pero detrás de muchos sistemas de IA existe una fuerza de trabajo inmensa y en gran parte invisible que recopila, etiqueta, modera, limpia y clasifica los datos que permiten que estos sistemas funcionen. En esta conversación, Lucy y Michael, de la **[Data Labelers Association](https://datalabelers.org/)**, hablan sobre las realidades del trabajo de datos en Kenia y en distintos lugares de África: salarios bajos, falta de transparencia, daños a la salud mental, vacíos legales y la necesidad urgente de reconocer a las personas trabajadoras de datos como actoras esenciales dentro de la cadena de suministro de la IA.
 
 ### **Olivier: Para empezar, ¿cómo describiríais el trabajo de datos a alguien que nunca ha oído hablar de él?**
 
-**Lucy:** El trabajo de datos es la fuerza laboral oculta detrás de los sistemas de IA. En términos sencillos, diría que representa quizá el 70% o más de lo que permite que la IA sea ajustada y entrenada.
+**Lucy:** El trabajo de datos es la fuerza laboral oculta detrás de los sistemas de IA. En términos sencillos, diría que representa quizá el 70% o más.
 
 Como trabajadoras de datos, recibimos datos en bruto: imágenes, vídeos, textos u otros materiales. Después se nos pide que los etiquetemos, marquemos o anotemos. Las distintas empresas usan diferentes nombres para este trabajo, pero básicamente etiquetamos los datos para que, más adelante, puedan utilizarse para entrenar un sistema de IA.
 
@@ -46,6 +46,8 @@ Por ejemplo, si estás entrenando un coche autónomo, tienes que etiquetar cosas
 **Michael:** El trabajo de datos gira en torno al entrenamiento de estos sistemas. Normalmente, las personas trabajadoras de datos reciben datos en bruto y un conjunto de instrucciones, o un manual, y tienen que etiquetar los datos de acuerdo con ese manual.
 
 Todo empieza con lo que se está construyendo. Una vez que quienes desarrollan el sistema tienen claro qué quieren crear, elaboran un conjunto de reglas. Después se forma a las personas trabajadoras, muchas veces mediante tareas de entrenamiento que tienen que aprender por su cuenta. Por ejemplo, si una empresa quiere datos para reconocimiento facial, puede tomar fotografías aleatorias de personas y pedir a las trabajadoras que dibujen recuadros alrededor de los rostros y los identifiquen.
+
+{% quote %}Se necesitan miles y miles de fotografías, porque las personas son diferentes: altas, bajas, niñas, personas en silla de ruedas, personas en bicicleta. Todo eso tiene que etiquetarse para que el sistema llegue a ser preciso{% endquote %}
 
 Lo mismo ocurre con los coches autónomos. Hay que ayudar al sistema a entender qué puede encontrarse en la carretera: una persona cruzando, un animal, una boca de incendios, otro coche, marcas viales, semáforos. Y esto no puede hacerse con unas pocas imágenes. Se necesitan miles y miles de fotografías, porque las personas son diferentes: altas, bajas, niñas, personas en silla de ruedas, personas en bicicleta. Todo eso tiene que etiquetarse para que el sistema llegue a ser preciso.
 
@@ -66,6 +68,8 @@ Esta fuerza laboral existe en muchas categorías distintas. Una persona puede es
 Hay muchos ejemplos. Un día etiquetas como humana a una persona que está de pie. Otro día, el sistema ve a una persona en silla de ruedas, o a una persona que se desplaza arrastrándose porque no tiene acceso a una silla de ruedas. El sistema puede confundir a esa persona con otra cosa si no ha sido entrenado correctamente. Hemos corregido casos así muchas veces.
 
 Así que si la IA no puede funcionar sin seres humanos, y si estos sistemas están generando miles de millones, entonces las personas trabajadoras deberían estar protegidas. Pero las empresas externalizan este trabajo a países donde hay menos protecciones, donde nadie comprueba si se paga el salario mínimo y donde las trabajadoras tienen muy poco poder.
+
+{% quote %}Muchas trabajadoras no tienen contratos. No tienen prestaciones sociales. Las condiciones laborales son muy malas{% endquote %}
 
 A veces nos pagan tan poco que ni siquiera podemos permitirnos ir al trabajo. No podemos pagar el transporte o la comida. Muchas trabajadoras no tienen contratos. No tienen prestaciones sociales. Las condiciones laborales son muy malas.
 
@@ -100,6 +104,8 @@ Con la aprobación del Convenio 193, necesitamos una campaña global para presio
 **Michael:** Hemos enfrentado muchos retos con la documentación. No todo el mundo quiere hablar públicamente porque teme represalias. Por eso intentamos recoger historias con cuidado y de forma discreta, asegurándonos de entender bien el espacio antes de hacer públicas ciertas cosas.
 
 También hay represalias. A veces, después de que se denuncian violaciones, las empresas cambian de jurisdicción. Eso dificulta emprender acciones legales porque ya no operan bajo la misma jurisdicción. Lo vimos con el caso de Meta en Kenia, cuando más de 1.100 trabajadoras fueron despedidas. Después de que salieran informes sobre el trabajo, la empresa cambió de jurisdicción.
+
+{% quote %}Algunas plataformas monitorizan a las trabajadoras con cámaras durante todo el turno. Si alguien pasa por detrás de ti, eso puede ser suficiente para que pierdas el trabajo{% endquote %}
 
 También tenemos que tener en cuenta los acuerdos de confidencialidad. A las trabajadoras se les dice que no hablen de su trabajo, a veces ni siquiera con sus parejas. Imagina trabajar desde casa, pero que tu pareja no deba saber lo que haces. Algunas plataformas monitorizan a las trabajadoras con cámaras durante todo el turno. Si alguien pasa por detrás de ti, eso puede ser suficiente para que pierdas el trabajo.
 
@@ -138,6 +144,8 @@ Estas empresas suelen dirigirse a grupos vulnerables. En algunas escuelas de for
 No puedo decirte cómo se ha utilizado ningún dato en el que haya trabajado. Las empresas no son transparentes sobre qué hacen con nuestra productividad.
 
 Por ejemplo, hubo un proyecto en el que teníamos que hacernos selfies. Los selfies tenían muchas especificaciones: en una habitación oscura, en una habitación bien iluminada, con casco, sin casco, mostrando las manos, desde distintos ángulos. Teníamos que enviar lotes de unas 15 fotos.
+
+{% quote %}No puedo decirte cómo se ha utilizado ningún dato en el que haya trabajado. Las empresas no son transparentes sobre qué hacen con nuestra productividad{% endquote %}
 
 En ese momento, nos dijeron que nos pagarían unos 10 dólares, lo que sonaba como mucho dinero solo por hacerse selfies. Así que la gente lo hizo. Algunas recomendamos el proyecto a amigas. Pero después de enviar las fotos, la empresa decía que una imagen no cumplía los requisitos, así que rechazaba toda la tarea. Ya tenían las fotos, pero nadie cobraba.
 
@@ -182,6 +190,8 @@ Estas empresas nos aíslan. Las trabajadoras firman acuerdos de confidencialidad
 **Michael:** Cuando hicimos nuestro mapeo, queríamos entender cuáles eran los temas más urgentes. La salud mental apareció con mucha fuerza. Por eso creamos DLA Health, que se centra en salud mental. También tenemos DLA Voice, que se centra en incidencia, y DLA Community, que se centra en la participación.
 
 Reunimos a trabajadoras para sesiones sobre salud mental, educación cívica, derechos y políticas públicas. También nos relacionamos con aliadas, organizaciones de la sociedad civil y actores gubernamentales, porque necesitamos cambios en las políticas y regulaciones.
+
+{% quote %} A veces sufrimos represalias. Nos dicen que estamos alejando a los inversores. Pero nuestra posición es sencilla: sentémonos y abordemos estos problemas{% endquote %}
 
 Ha sido un camino difícil. Somos una organización joven y la financiación es un reto. A veces sufrimos represalias. Nos dicen que estamos alejando a los inversores. Pero nuestra posición es sencilla: sentémonos y abordemos estos problemas.
 

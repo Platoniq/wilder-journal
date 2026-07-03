@@ -31,11 +31,11 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2026-07-03-a-las-16.07.31.png
 ---
-Artificial intelligence is often presented as something automatic, seamless and almost magical. But behind many AI systems there is a vast, largely invisible workforce that collects, labels, moderates, cleans and classifies the data that allows these systems to function. In this conversation, Lucy and Michael from the Data Labelers Association speak about the realities of data work in Kenya and across Africa: low pay, lack of transparency, mental health harms, legal gaps, and the urgent need to recognise data workers as essential actors in the AI supply chain.
+Artificial intelligence is often presented as something automatic, seamless and almost magical. But behind many AI systems there is a vast, largely invisible workforce that collects, labels, moderates, cleans and classifies the data that allows these systems to function. In this conversation, Lucy and Michael from the **[Data Labelers Association](https://datalabelers.org/)** speak about the realities of data work in Kenya and across Africa: low pay, lack of transparency, mental health harms, legal gaps, and the urgent need to recognise data workers as essential actors in the AI supply chain.
 
 ### **To begin, how would you describe data work to someone who has never heard of it?**
 
-**Lucy:** Data work is the hidden labour force behind AI systems. In simple terms, I would say it contributes maybe 70% or more of what allows AI to be fine-tuned and trained.
+**Lucy:** Data work is the hidden labour force behind AI systems. In simple terms, I would say it contributes maybe 70% or more.
 
 As data workers, we are given raw data: images, videos, text or other materials. We are then asked to label, tag or annotate them. Different companies use different names for the work, but basically we are labelling the data so that, later, it can be used to train an AI system.
 
@@ -44,6 +44,8 @@ For example, if you are training a self-driving car, you have to label things li
 **Michael:** Data work revolves around training these systems. Normally, data workers are given raw data and a set of instructions, or a manual, and they are supposed to label the data according to that manual.
 
 It begins with what is being built. Once the developers have a clear idea of what they want to develop, they create a set of rules. Then workers are trained, often by teaching themselves through training tasks. For instance, if a company wants facial recognition data, it may take random pictures of people and ask workers to draw boxes around faces and identify them.
+
+{% quote %}You need thousands and thousands of pictures, because people are different: tall, short, children, people in wheelchairs, people on bicycles. All of that has to be labelled so that the system becomes precise{% endquote %}
 
 The same applies to self-driving cars. You have to help the system understand what can be found on the road: a human being crossing, an animal, a fire hydrant, another car, road markings, traffic lights. And this cannot be done with just a few images. You need thousands and thousands of pictures, because people are different: tall, short, children, people in wheelchairs, people on bicycles. All of that has to be labelled so that the system becomes precise.
 
@@ -64,6 +66,8 @@ This workforce exists in many different categories. One person may be working on
 There are many examples. One day you label a person standing upright as a human. Another day, the system sees a person in a wheelchair, or a person crawling because they do not have access to a wheelchair. The system may mistake that person for something else if it has not been trained properly. We have corrected these kinds of cases many times.
 
 So if AI cannot function without human beings, and if these systems are making billions, then the workers should be taken care of. But companies outsource this work to countries where there are fewer protections, where no one checks whether minimum wage is being paid, and where workers have very little power.
+
+{% quote %}Many workers do not have contracts. They do not have social benefits. The working conditions are very poor{% endquote %}
 
 Sometimes we are paid so little that we cannot even afford to go to work. We cannot afford transport or food. Many workers do not have contracts. They do not have social benefits. The working conditions are very poor.
 
@@ -98,6 +102,8 @@ With the passing of Convention 193, we need a global campaign to push government
 **Michael:** We have faced many challenges with documentation. Not everyone wants to come out publicly because they fear victimisation. So we try to gather stories carefully and quietly, making sure we understand the space before making things public.
 
 There is also retaliation. Sometimes, after violations are raised, companies change jurisdictions. That makes it difficult to pursue legal action because they are no longer operating under the same jurisdiction. We saw this with the Meta case in Kenya, when more than 1,100 workers were laid off. After reports came out about the work, the company changed jurisdiction.
+
+{% quote %}Some platforms monitor workers through cameras during the entire shift. If someone passes behind you, that may be enough for you to lose your job{% endquote %}
 
 We also have to consider NDAs. Workers are told not to talk about their work, sometimes not even with their partners. Imagine working from home, but your partner is not supposed to know what you are doing. Some platforms monitor workers through cameras during the entire shift. If someone passes behind you, that may be enough for you to lose your job.
 
@@ -136,6 +142,8 @@ These companies often target vulnerable groups. In some training schools, worker
 I cannot tell you how any data I worked on has been used. Companies are not transparent about what they do with our productivity.
 
 For example, there was a project where we had to take selfies of ourselves. The selfies had many specifications: in a dark room, in a well-lit room, wearing a helmet, without a helmet, showing your hands, from different angles. We had to submit batches of around 15 photos.
+
+{% quote %}I cannot tell you how any data I worked on has been used. Companies are not transparent about what they do with our productivity{% endquote %}
 
 At the time, we were told we would be paid around $10, which sounded like a lot of money just for taking selfies. So people did it. Some of us recommended it to friends. But after submitting, the company would say that one image did not meet the requirements, so the whole task was rejected. They already had the photos, but nobody was paid.
 
@@ -180,6 +188,8 @@ These companies isolate us. Workers sign NDAs, and many people around them canno
 **Michael:** When we did our mapping, we wanted to understand what the most urgent issues were. Mental health came out very strongly. That is why we created DLA Health, which focuses on mental health. We also have DLA Voice, which focuses on advocacy, and DLA Community, which focuses on engagement.
 
 We bring workers together for sessions on mental health, civic education, rights and policy. We also engage partners, civil society organisations and government actors, because we need changes in policies and regulations.
+
+{% quote %}Sometimes we face retaliation. We are told that we are pushing investors away. But our point is simple: let us sit down and address these issues{% endquote %}
 
 It has been a difficult journey. We are a young organisation, and funding is a challenge. Sometimes we face retaliation. We are told that we are pushing investors away. But our point is simple: let us sit down and address these issues.
 
