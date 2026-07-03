@@ -17,7 +17,7 @@ interviewee: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-03-a-las-15.51.52.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-07-03-a-las-15.51.52.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-07-03-a-las-15.51.52.png
   alt: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
   credits: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
   caption: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
