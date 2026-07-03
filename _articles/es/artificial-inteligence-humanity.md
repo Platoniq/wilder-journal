@@ -22,9 +22,9 @@ cover:
   credits: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
   caption: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
 related_article_uids:
-  - olivan-raul
   - AI-dialogue
   - Against-Administrative-Obscurantism
+  - amber-huff
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
