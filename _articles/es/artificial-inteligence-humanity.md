@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-07-03-a-las-15.51.52.png
 ---
 La inteligencia artificial suele presentarse como algo automático, fluido y casi mágico. Pero detrás de muchos sistemas de IA existe una fuerza de trabajo inmensa y en gran parte invisible que recopila, etiqueta, modera, limpia y clasifica los datos que permiten que estos sistemas funcionen. En esta conversación, Lucy y Michael, de la Data Labelers Association, hablan sobre las realidades del trabajo de datos en Kenia y en distintos lugares de África: salarios bajos, falta de transparencia, daños a la salud mental, vacíos legales y la necesidad urgente de reconocer a las personas trabajadoras de datos como actoras esenciales dentro de la cadena de suministro de la IA.
 
