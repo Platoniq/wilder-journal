@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/captura-de-pantalla-2026-07-03-a-las-15.51.52.png
+  path: /media/articles/social/captura-de-pantalla-2026-07-03-a-las-16.07.31.png
 ---
 Artificial intelligence is often presented as something automatic, seamless and almost magical. But behind many AI systems there is a vast, largely invisible workforce that collects, labels, moderates, cleans and classifies the data that allows these systems to function. In this conversation, Lucy and Michael from the Data Labelers Association speak about the realities of data work in Kenya and across Africa: low pay, lack of transparency, mental health harms, legal gaps, and the urgent need to recognise data workers as essential actors in the AI supply chain.
 
