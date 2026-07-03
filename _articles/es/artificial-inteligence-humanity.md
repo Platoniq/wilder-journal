@@ -16,7 +16,7 @@ author_uids:
 interviewee: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-03-a-las-15.51.52.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-07-03-a-las-15.51.52.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
   credits: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
