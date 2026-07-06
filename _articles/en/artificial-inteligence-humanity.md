@@ -7,7 +7,7 @@ date: 2026-07-03T15:44:00.000+02:00
 date-updated: 2026-07-03T15:44:00.000+02:00
 article-order: 1
 uid: Artificial-Inteligence-Humanity
-title: The Humankind Behind Artificial Inteligence
+title: The human workforce behind Artificial Intelligence
 description: "Artificial intelligence is often presented as something automatic,
   seamless and almost magical. "
 author: Olivier Schulbaum
@@ -20,9 +20,9 @@ cover:
   credits: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
   caption: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
 related_article_uids:
-  - olivan-raul
   - AI-dialogue
   - Against-Administrative-Obscurantism
+  - amber-huff
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

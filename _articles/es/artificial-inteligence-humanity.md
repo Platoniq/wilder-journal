@@ -7,7 +7,7 @@ date: 2026-07-03T15:44:00.000+02:00
 date-updated: 2026-07-03T15:44:00.000+02:00
 article-order: 1
 uid: Artificial-Inteligence-Humanity
-title: La humanidad detrás de la Inteligencia Artificial
+title: La fuerza de trabajo humana que mueve la Inteligencia Artificial
 description: "La inteligencia artificial suele presentarse como algo automático,
   fluido y casi mágico. "
 author: Olivier Schulbaum
