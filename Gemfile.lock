@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: 60272378e3a5af08dcabe1d3eac1048cc8696941
+  revision: 953f7d1dc43619e966441da0a8c4e30cffcd0e33
   branch: feat/journal-videos-editions-featured
   specs:
     jekyll-theme-platoniq-journal (0.0.116)
