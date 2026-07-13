@@ -47,6 +47,8 @@ La expansión de estas infraestructuras en España está abriendo una nueva form
 
 En Aragón, en cambio, Ecologistas en Acción ha presentado un recurso contencioso administrativo ante el Tribunal Superior de Justicia de Aragón para frenar la ampliación de los centros de datos de Amazon Web Services, y lo ha planteado explícitamente como un litigio estratégico que busca impugnar el Plan de Interés General de Aragón que habilita cinco ampliaciones de AWS en la región.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZszSq47WFJs?si=ZGClT517YZjA5pqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Quienes apoyan el litigio oficialmente son Ecologistas en Acción Aragón, los movimientos vecinales TuNubeSecaMiRío y No a los centros de datos Aragón, investigadoras universitarias, la Cátedra UNESCO de Desarrollo Humano Sostenible y otras asociaciones. Y la principal reclamación que se hace es precisamente la falta de datos concretos sobre consumo hídrico. Lo que sí se sabe es que, en 2025, AWS soliccitó ampliar en un 48% la disponibilidad de agua para sus centros de datos en Aragón.
 
 {% quote { "author": "Luis García Valverde, miembro de Ecologistas en Acción" } %}El litigio busca crear un precedente para futuros centros de datos. Buscamos por supuesto paralizar el proyecto y frenar el abuso de figuras como el Plan de Interés General de Aragón (PIGA) que suponen un atropello a la participación pública y la planificación democrática. No se puede otorgar privilegios como los que otorga el PIGA a proyectos que adolecen de una falta de transparencia tan enorme como el de Amazon Web Services. El gobierno de Aragón está haciendo un bienvenido Mr. Marshall y regalando a una gran multinacional el territorio y sus recursos. Por todo ello y más motivos nos oponemos a este PIGA y deseamos que este proyecto, enormemente perjudicial para Aragón, no se materialice{% endquote %}
@@ -65,13 +67,17 @@ La demanda ecologista contra la ampliación de Amazon en Aragón ha llevado a ju
 
 Ahora bien, el litigio estratégico tiene límites claros. No reemplaza la deliberación, porque llega tarde, cuesta dinero y opera bajo asimetrías severas de información y capacidad. Las empresas cuentan con equipos técnicos y jurídicos especializados, mientras que las comunidades afectadas suelen reaccionar solo cuando el proyecto ya está muy avanzado. 
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-07-13-a-las-12.14.54.png"}] } %}
+
 La rapidez con que se financió la primera acción judicial contra la ampliación de AWS muestra precisamente esa lógica de reacción. 15.000 euros en 3 meses bajo el lema: *Frena a Amazon, defiende Aragón.* Es por ello, que añadir la deliberación informada al proceso solo puede mejorar los resultados.
 
 ## **Mini‑públicos como complementos necesarios**
 
 Como complemento a la lógica adversarial del proceso judicial, los mini‑públicos ofrecen una respuesta distinta. Sabemos, por los precedentes conocidos, como por ejemplo la [Asamblea Ciudadana por el Clima](https://reds-sdsn.es/las-recomendaciones-de-100-ciudadanos-y-ciudadanas-espanolas-seleccionadas-aleatoriamente-sobre-como-abordar-el-cambio-climatico/), que la ciudadanía, cuando dispone de tiempo e información, puede deliberar sobre asuntos técnicamente complejos sin reducirlos a eslóganes. Precisamente aquello que requiere este debate.
 
-¿Qué pesa más: el empleo prometido o el impacto energético? ¿La atracción de inversión o la presión sobre el agua? ¿La oportunidad fiscal o la ocupación del territorio? ¿La eficiencia de la infraestructura global o la carga local que deja en una comarca concreta? Los mini‑públicos no eliminan las tensiones, pero las vuelve explícitas y las someten a una discusión pública que obliga a argumentar, a comparar alternativas y a justificar por qué una opción es preferible a otra
+¿Qué pesa más: el empleo prometido o el impacto energético? ¿La atracción de inversión o la presión sobre el agua? ¿La oportunidad fiscal o la ocupación del territorio? ¿La eficiencia de la infraestructura global o la carga local que deja en una comarca concreta? Los mini‑públicos no eliminan las tensiones, pero las vuelve explícitas y las someten a una discusión pública que obliga a argumentar, a comparar alternativas y a justificar por qué una opción es preferible a otra.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-07-13-a-las-12.14.13.png"}] } %}
 
 El pleito trabaja sobre legalidades ya definidas; el mini‑público trabaja sobre la legitimidad de la decisión antes de que el conflicto cristalice. El primero pregunta si el procedimiento fue correcto; el segundo pregunta si la decisión, aun siendo legal, puede considerarse razonable y aceptable para quienes van a soportar sus efectos. En proyectos de gran escala, son perfectamente complementearios.
 
