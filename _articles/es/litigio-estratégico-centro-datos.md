@@ -16,7 +16,7 @@ author_uids:
   - cristian-palazzi
 cover:
   path: /media/articles/heroes/esepe-deadoralive.png
-  mobile: /media/articles/mobile/captura-de-pantalla-2026-07-13-a-las-11.07.29.png
+  mobile: /media/articles/mobile/esepe-deadoralive.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-07-13-a-las-11.07.29.png
   alt: Montaje Centros de Datos
   credits: Montaje Centros de Datos
