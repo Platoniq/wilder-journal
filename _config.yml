@@ -7,6 +7,7 @@ url: "https://journal.platoniq.net" # the base hostname & protocol for your site
 analytics_id: G-LLGWB6TLNS
 
 repository: "https://github.com/Platoniq/wilder-journal"
+youtube_channel: "https://www.youtube.com/@fundacionplatoniq"
 logo: media/logo-platoniq_xxss.png
 twitter:
   username: platoniq
@@ -46,6 +47,8 @@ collections:
     output: true
     custom_permalink_placeholders: ["locale", "volume-uid"]
     permalink: /:locale/:volume-uid/stickers/
+  videos:
+    output: false
 
 # Document defaults
 defaults:
@@ -81,6 +84,10 @@ defaults:
       type: pages
     values:
       layout: "page"
+      author: "Platoniq"
+  - scope:
+      type: videos
+    values:
       author: "Platoniq"
   - scope:
       path: "media"
