@@ -13,7 +13,7 @@ description: "La inteligencia artificial suele presentarse como algo automático
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
-interviewee: "Lucy Mugo & Michael Geoffrey Abuyabo Asia "
+interviewee: Lucy Mugo & Michael Geoffrey Abuyabo Asia (Data Labelers Association)
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-03-a-las-16.07.31.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-07-03-a-las-16.07.31.png
