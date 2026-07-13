@@ -39,6 +39,8 @@ Hay infraestructuras que nacen envueltas en una promesa. Los centros de datos y 
 
 Dentro de este contexto expansionista, mientras que en Catalunya se acaba de aprobar el último centro en Mora la Nova, en Aragón, la región europea que más tiene previsto crecer en número de centros de datos, Amazon ha terminado en el primer contencioso administrativo de este tipo en España. 
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-07-13-a-las-12.34.28.png","alt":"Ecosistema español de Data Centers","caption":"Ecosistema español de Data Centers","credits":"Asociación Española de Data Centers"}] } %}
+
 La expansión de estas infraestructuras en España está abriendo una nueva forma de conflicto político y jurídico, ya que no se trata solo de una disputa entre promotores y opositores, ni de un problema técnico que pueda resolverse con mejores memorias ambientales, sino del choque entre velocidad de implantación y capacidad democrática de absorción. 
 
 ¿Quién decide sobre la infraestructura digital, con qué información y bajo qué condiciones de legitimidad? Cuando la infraestructura avanza más rápido que la deliberación pública, el desacuerdo, y con él el litigio estratégico, está servido.
