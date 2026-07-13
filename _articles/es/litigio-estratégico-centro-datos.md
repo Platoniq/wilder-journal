@@ -67,7 +67,7 @@ Ahora bien, el litigio estratégico tiene límites claros. No reemplaza la delib
 
 La rapidez con que se financió la primera acción judicial contra la ampliación de AWS muestra precisamente esa lógica de reacción. 15.000 euros en 3 meses bajo el lema: *Frena a Amazon, defiende Aragón.* Es por ello, que añadir la deliberación informada al proceso solo puede mejorar los resultados.
 
-**Mini‑públicos como complementos necesarios**
+## **Mini‑públicos como complementos necesarios**
 
 Como complemento a la lógica adversarial del proceso judicial, los mini‑públicos ofrecen una respuesta distinta. Sabemos, por los precedentes conocidos, como por ejemplo la [Asamblea Ciudadana por el Clima](https://reds-sdsn.es/las-recomendaciones-de-100-ciudadanos-y-ciudadanas-espanolas-seleccionadas-aleatoriamente-sobre-como-abordar-el-cambio-climatico/), que la ciudadanía, cuando dispone de tiempo e información, puede deliberar sobre asuntos técnicamente complejos sin reducirlos a eslóganes. Precisamente aquello que requiere este debate.
 
