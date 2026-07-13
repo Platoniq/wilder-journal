@@ -77,9 +77,9 @@ La rapidez con que se financió la primera acción judicial contra la ampliació
 
 Como complemento a la lógica adversarial del proceso judicial, los mini‑públicos ofrecen una respuesta distinta. Sabemos, por los precedentes conocidos, como por ejemplo la [Asamblea Ciudadana por el Clima](https://reds-sdsn.es/las-recomendaciones-de-100-ciudadanos-y-ciudadanas-espanolas-seleccionadas-aleatoriamente-sobre-como-abordar-el-cambio-climatico/), que la ciudadanía, cuando dispone de tiempo e información, puede deliberar sobre asuntos técnicamente complejos sin reducirlos a eslóganes. Precisamente aquello que requiere este debate.
 
-¿Qué pesa más: el empleo prometido o el impacto energético? ¿La atracción de inversión o la presión sobre el agua? ¿La oportunidad fiscal o la ocupación del territorio? ¿La eficiencia de la infraestructura global o la carga local que deja en una comarca concreta? Los mini‑públicos no eliminan las tensiones, pero las vuelve explícitas y las someten a una discusión pública que obliga a argumentar, a comparar alternativas y a justificar por qué una opción es preferible a otra.
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2022-05-26-a-las-16.58.28.webp","credits":"Asamblea Ciudadana para el Clima (2022)","alt":"Momento de la votación","caption":"Momento de la votación"}] } %}
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-07-13-a-las-12.14.13.png"}] } %}
+¿Qué pesa más: el empleo prometido o el impacto energético? ¿La atracción de inversión o la presión sobre el agua? ¿La oportunidad fiscal o la ocupación del territorio? ¿La eficiencia de la infraestructura global o la carga local que deja en una comarca concreta? Los mini‑públicos no eliminan las tensiones, pero las vuelve explícitas y las someten a una discusión pública que obliga a argumentar, a comparar alternativas y a justificar por qué una opción es preferible a otra.
 
 El pleito trabaja sobre legalidades ya definidas; el mini‑público trabaja sobre la legitimidad de la decisión antes de que el conflicto cristalice. El primero pregunta si el procedimiento fue correcto; el segundo pregunta si la decisión, aun siendo legal, puede considerarse razonable y aceptable para quienes van a soportar sus efectos. En proyectos de gran escala, son perfectamente complementearios.
 
