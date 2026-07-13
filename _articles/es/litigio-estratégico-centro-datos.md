@@ -18,9 +18,9 @@ cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-13-a-las-11.36.05.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-07-13-a-las-11.36.05.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-07-13-a-las-11.36.05.png
-  alt: Montaje Centros de Datos
-  credits: Montaje Centros de Datos
-  caption: Montaje Centros de Datos
+  alt: Esepe 2024
+  credits: Esepe 2024
+  caption: Esepe 2024
 related_article_uids:
   - Against-Administrative-Obscurantism
   - AI-dialogue
