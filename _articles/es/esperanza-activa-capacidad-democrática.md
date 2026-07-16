@@ -35,7 +35,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2026-07-16-a-las-16.40.19.png
 ---
-**\*Cristina Monge es politóloga, socióloga, profesora universitaria y presidenta de la plataforma Más Democracia.** Especializada en **democracia, participación, gobernanza y transición ecológica**, combina la investigación académica con la divulgación y la incidencia. 
+**Cristina Monge es politóloga, socióloga, profesora universitaria y presidenta de la plataforma Más Democracia.** Especializada en **democracia, participación, gobernanza y transición ecológica**, combina la investigación académica con la divulgación y la incidencia. 
 En sus últimos libros, La gran oportunidad (2025) y Contra el descontento (2026) aborda, respectivamente, cómo hacer de la transición ecológica una oportunidad para **fortalecer la democracia desde la justicia socia**l; y cómo **recuperar la capacidad de agencia y la corresponsabilidad ciudadana** frente al descontento.*
 
 ### **En *Contra el descontento* planteas que debemos recuperar una “actitud activista” frente a la política. Sin embargo, hoy muchas personas se sienten abrumadas e impotentes ante la incertidumbre y la complejidad de los retos globales. ¿Qué le dirías a quienes sienten que no pueden influir en el rumbo de las cosas?** 
