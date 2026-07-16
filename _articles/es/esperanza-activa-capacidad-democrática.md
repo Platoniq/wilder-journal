@@ -35,8 +35,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2026-07-16-a-las-16.40.19.png
 ---
-**Cristina Monge** es politóloga, socióloga, profesora universitaria y presidenta de la plataforma Más Democracia. Especializada en democracia, participación, gobernanza y transición ecológica, combina la investigación académica con la divulgación y la incidencia. 
-En sus últimos libros, La gran oportunidad (2025) y Contra el descontento (2026) aborda, respectivamente, cómo hacer de la transición ecológica una oportunidad para fortalecer la democracia desde la justicia social; y cómo recuperar la capacidad de agencia y la corresponsabilidad ciudadana frente al descontento.
+**Cristina Monge** es politóloga, socióloga, profesora universitaria y presidenta de la plataforma Más Democracia. Especializada en democracia, participación, gobernanza y transición ecológica, combina la investigación académica con la divulgación y la incidencia. En sus últimos libros, La gran oportunidad (2025) y Contra el descontento (2026) aborda, respectivamente, cómo hacer de la transición ecológica una oportunidad para fortalecer la democracia desde la justicia social; y cómo recuperar la capacidad de agencia y la corresponsabilidad ciudadana frente al descontento.
 
 ### **En *Contra el descontento* planteas que debemos recuperar una “actitud activista” frente a la política. Sin embargo, hoy muchas personas se sienten abrumadas e impotentes ante la incertidumbre y la complejidad de los retos globales. ¿Qué le dirías a quienes sienten que no pueden influir en el rumbo de las cosas?** 
 
@@ -92,6 +91,7 @@ Esto demuestra que no basta con pedir más participación a la ciudadanía: tamb
 ### **Después de tantos años investigando sobre participación y calidad democrática, ¿hay alguna idea que hayas cambiado con el tiempo?**
 
 Durante muchos años dimos prácticamente por sentado que aumentar la participación ciudadana conduciría automáticamente a una mayor confianza en las instituciones y a una mejora de la calidad democrática. Hoy debemos reconocer que aquello era una hipótesis, no una certeza. En las últimas décadas se han multiplicado los procesos participativos y, sin embargo, los niveles de confianza institucional no han mejorado; en muchos casos incluso han empeorado.
+
 Eso no significa que la participación no sea importante, sino que todavía necesitamos comprender mejor qué tipo de participación funciona, en qué condiciones y con qué fines. Aquellos que trabajamos en este sector debemos seguir investigando y evaluando nuestras propias prácticas, en lugar de convertir determinadas ideas en verdades incuestionables
 
 ### **A lo largo de nuestra conversación has hablado de esperanza activa y de recuperar la capacidad de agencia. ¿Qué es lo que te hace a ti mantener esta esperanza?** 
