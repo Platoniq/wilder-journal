@@ -7,7 +7,8 @@ date: 2026-07-16T16:26:00.000+02:00
 date-updated: 2026-07-16T16:26:00.000+02:00
 article-order: 1
 uid: esperanza-activa-capacidad-democrática
-title: La esperanza activa como capacidad democrática
+title: "La esperanza activa como capacidad democrática: sobre participación,
+  gobernanza y transición ecológica"
 description: "Cristina Monge es politóloga, socióloga, profesora universitaria y
   presidenta de la plataforma Más Democracia. Especializada en democracia,
   participación, gobernanza y transición ecológica, combina la investigación

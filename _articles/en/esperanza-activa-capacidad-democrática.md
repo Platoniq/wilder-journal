@@ -7,6 +7,15 @@ date: 2026-07-16T16:26:00.000+02:00
 date-updated: 2026-07-16T16:26:00.000+02:00
 article-order: 1
 uid: esperanza-activa-capacidad-democrática
+title: "Active hope as a democratic capacity: on participation, governance, and
+  the ecological transition"
+description: Cristina Monge is a political scientist, sociologist, university
+  professor, and president of the Más Democracia platform. She specializes in
+  democracy, participation, governance, and ecological transition, and combines
+  academic research with outreach and advocacy.
+author: Victoria Ontiveros
+author_uids:
+  - Victoria-Ontiveros
 interviewee: Cristina Monge
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-16-a-las-16.40.19.png
@@ -14,6 +23,8 @@ cover:
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-07-16-a-las-16.40.19.png
 related_article_uids:
   - patricia-lujan
+  - amber-huff
+  - chayn-feminism-technology
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
