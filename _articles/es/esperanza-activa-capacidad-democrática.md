@@ -18,7 +18,7 @@ author_uids:
 interviewee: Cristina Monge
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-16-a-las-16.40.19.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-07-16-a-las-16.40.19.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Cristina Monge
   credits: Cristina Monge
