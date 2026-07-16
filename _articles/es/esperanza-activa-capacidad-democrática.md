@@ -31,9 +31,9 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-07-16-a-las-16.40.19.png
 ---
-***Cristina Monge es politóloga, socióloga, profesora universitaria y presidenta de la plataforma Más Democracia.** Especializada en **democracia, participación, gobernanza y transición ecológica**, combina la investigación académica con la divulgación y la incidencia. 
+**\*Cristina Monge es politóloga, socióloga, profesora universitaria y presidenta de la plataforma Más Democracia.** Especializada en **democracia, participación, gobernanza y transición ecológica**, combina la investigación académica con la divulgación y la incidencia. 
 En sus últimos libros, La gran oportunidad (2025) y Contra el descontento (2026) aborda, respectivamente, cómo hacer de la transición ecológica una oportunidad para **fortalecer la democracia desde la justicia socia**l; y cómo **recuperar la capacidad de agencia y la corresponsabilidad ciudadana** frente al descontento.*
 
 ### **En *Contra el descontento* planteas que debemos recuperar una “actitud activista” frente a la política. Sin embargo, hoy muchas personas se sienten abrumadas e impotentes ante la incertidumbre y la complejidad de los retos globales. ¿Qué le dirías a quienes sienten que no pueden influir en el rumbo de las cosas?** 
@@ -65,7 +65,6 @@ En otros países, en cambio, predominan modelos más neoliberales que impulsan l
 
 {% quote %}Desde mi punto de vista, no debemos preocuparnos tanto por equivocarnos como por evaluar continuamente lo que hacemos y corregir cuando sea necesario. Lo importante es avanzar, aprender y rectificar, porque el tiempo apremia.{% endquote %}
 
-### 
 **Al hablar de transición ecológica, algunas personas no terminan de comprender qué relación tiene con la democracia.  ¿Cómo explicarías esa conexión a alguien que nunca se la ha planteado?** 
 
 La crisis ambiental endurece las condiciones de vida en todo el planeta. Lo vemos con las olas de calor, las sequías, las inundaciones, los fenómenos meteorológicos extremos o el aumento de determinadas enfermedades. 
