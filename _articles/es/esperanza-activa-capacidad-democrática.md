@@ -25,6 +25,8 @@ cover:
   caption: Cristina Monge
 related_article_uids:
   - patricia-lujan
+  - amber-huff
+  - chayn-feminism-technology
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -65,7 +67,7 @@ En otros países, en cambio, predominan modelos más neoliberales que impulsan l
 
 {% quote %}Desde mi punto de vista, no debemos preocuparnos tanto por equivocarnos como por evaluar continuamente lo que hacemos y corregir cuando sea necesario. Lo importante es avanzar, aprender y rectificar, porque el tiempo apremia.{% endquote %}
 
-**Al hablar de transición ecológica, algunas personas no terminan de comprender qué relación tiene con la democracia.  ¿Cómo explicarías esa conexión a alguien que nunca se la ha planteado?** 
+### **Al hablar de transición ecológica, algunas personas no terminan de comprender qué relación tiene con la democracia.  ¿Cómo explicarías esa conexión a alguien que nunca se la ha planteado?** 
 
 La crisis ambiental endurece las condiciones de vida en todo el planeta. Lo vemos con las olas de calor, las sequías, las inundaciones, los fenómenos meteorológicos extremos o el aumento de determinadas enfermedades. 
 
