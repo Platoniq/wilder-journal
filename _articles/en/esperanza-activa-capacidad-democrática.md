@@ -12,6 +12,8 @@ cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-16-a-las-16.40.19.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - patricia-lujan
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
