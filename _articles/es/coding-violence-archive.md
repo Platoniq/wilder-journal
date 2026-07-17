@@ -38,7 +38,7 @@ image:
 ---
 **Juliana Souza** es investigadora posdoctoral en el Departamento de Ciencias Políticas y Sociales de la Universitat Pompeu Fabra, especializada en políticas de género y diversidad sexual, desigualdades y disputas discursivas en los ámbitos mediático, parlamentario y educativo. Con formación en artes escénicas, ciencias políticas y una amplia experiencia en análisis de contenido y metodologías feministas e interseccionales, es la responsable de codificar los testimonios de la comunidad de LaNuestra. En esta entrevista reflexiona sobre cómo transformar relatos profundamente personales en conocimiento estructurado sin descontextualizarlos ni traicionar las voces de quienes los comparten, abordando la codificación como un ejercicio de rigor analítico, cuidado, protección y reparación colectiva.
 
-# **Conocimiento situado y análisis de contenido feminista**
+## **Conocimiento situado y análisis de contenido feminista**
 
 ### **Te defines como especialista en análisis de contenido y metodologías feministas e interseccionales. ¿Qué implica esta especialización al trabajar con testimonios de violencia de género? ¿Cómo condiciona la forma en que se interpretan estos relatos?**
 
@@ -52,7 +52,7 @@ También participé en un grupo de investigación que realizó un análisis de c
 
 Esta trayectoria me ha resultado muy útil en el proyecto LaNuestra. Los testimonios contienen información emocional y política, además de conocimiento encarnado. Estas mujeres han vivido las experiencias que describen. Hablan de una realidad que conocen a través de sus propios cuerpos, y no desde la posición de alguien que estudia teóricamente la violencia de género sin haberla experimentado. Por eso no podemos abordar los testimonios simplemente como información en bruto de la que extraer cifras y porcentajes.
 
-# **Combinar el análisis cuantitativo y cualitativo**
+## **Combinar el análisis cuantitativo y cualitativo**
 
 ### **¿Qué métodos has aplicado específicamente en LaNuestra?**
 
@@ -62,7 +62,7 @@ Nuestro trabajo parte de la idea de que el conocimiento es situado y de que la r
 
 La perspectiva feminista está, por tanto, presente en las bases de la investigación, en la forma en que se toman las decisiones y en la organización del proceso de codificación, no simplemente en la aplicación de una herramienta concreta.
 
-# **Rigor analítico e impacto emocional del trabajo**
+## **Rigor analítico e impacto emocional del trabajo**
 
 ### Tú y tu equipo trabajáis con testimonios que contienen rabia, trauma, violencia y miedo. ¿Cómo mantenéis el rigor analítico al trabajar con un material tan explícito y emocionalmente exigente?
 
@@ -78,7 +78,7 @@ Cada persona tiene determinados temas que le afectan con mayor intensidad. En mi
 
 Todas las personas implicadas en la codificación estaban en terapia. Era importante por el riesgo de trauma vicario: el trauma que puede afectar a investigadores o profesionales que se relacionan repetidamente con las experiencias traumáticas de otras personas. Es imposible pasar días enteros leyendo testimonios de violencia de género sin verse afectada.
 
-# **Cuando los testimonios no encajan en las definiciones legales**
+## **Cuando los testimonios no encajan en las definiciones legales**
 
 ### **¿Qué ocurre cuando una experiencia no encaja en las definiciones legales existentes? ¿Encontrasteis situaciones que no podían describirse adecuadamente mediante categorías jurídicas?**
 
@@ -92,7 +92,7 @@ Habla mediante un lenguaje emocional, arraigado en cicatrices físicas y psicol�
 
 El reto consistía, por tanto, en articular tres estructuras: las definiciones legales, el conocimiento experto y el lenguaje utilizado en los testimonios.
 
-# **Qué permite hacer el libro de códigos**
+## **Qué permite hacer el libro de códigos**
 
 ### **Más allá de categorizar testimonios, ¿qué puede hacerse con el libro de códigos? ¿Por qué es importante?**
 
@@ -106,7 +106,7 @@ Los movimientos feministas explican a menudo que los agresores aíslan a las muj
 
 Estos patrones de violencia psicológica pueden terminar conectándose con la violencia física. Un mayor conocimiento sobre el proceso puede ayudar a las mujeres a reconocer antes las señales de alarma.
 
-# **Salvaguardas para las participantes y las investigadoras**
+## **Salvaguardas para las participantes y las investigadoras**
 
 ### **¿Qué salvaguardas son necesarias para proteger tanto los testimonios como a las investigadoras que trabajan con ellos?**
 
@@ -130,7 +130,7 @@ Por eso creamos espacios de debate colectivo, respetamos los ritmos individuales
 
 Cristina siempre dejó claro que cumplir un plazo era deseable, pero que las personas que participaban en el proceso eran más importantes. Ese es uno de los aspectos del proyecto que más admiro.
 
-# **LaNuestra como comunidad de cuidados y reparación**
+## **LaNuestra como comunidad de cuidados y reparación**
 
 ### **¿Qué esperas del futuro de LaNuestra? ¿Cómo puede contribuir el proyecto en un mundo cada vez más polarizado?**
 
