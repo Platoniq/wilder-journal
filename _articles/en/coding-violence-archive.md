@@ -130,7 +130,7 @@ We therefore created space for collective discussion, respected people’s indiv
 
 Cristina always made clear that meeting a deadline would be desirable, but that the people participating in the process were more important. That is one of the aspects of the project that I most admire.
 
-## **LaNuestra as a community of care and reparation**
+## **LaNuestra as a community of care and redress**
 
 ### **What do you expect from the future of LaNuestra? How can the project contribute in an increasingly polarised world?**
 
