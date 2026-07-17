@@ -19,7 +19,7 @@ interviewee: Juliana Souza
 cover:
   path: /media/articles/heroes/img_20260417_185419.jpg.jpeg
   mobile: /media/articles/mobile/img_20260417_185419.jpg.jpeg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/img_20260417_185419.jpg.jpeg
   alt: Juliana Souza
   credits: Juliana Souza
   caption: Juliana Souza
