@@ -10,8 +10,12 @@ uid: coding-violence-archive
 interviewee: Juliana Souza
 cover:
   path: /media/articles/heroes/img_20260417_185419.jpg.jpeg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/img_20260417_185419.jpg.jpeg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - nuestra-fallaras-mujeres
+  - patricia-lujan
+  - LaNuestra-Red-Feminista
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
