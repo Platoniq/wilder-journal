@@ -33,7 +33,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/img_20260417_185419.jpg.jpeg
 ---
 **Juliana Souza** es investigadora posdoctoral en el Departamento de Ciencias Políticas y Sociales de la Universitat Pompeu Fabra, especializada en políticas de género y diversidad sexual, desigualdades y disputas discursivas en los ámbitos mediático, parlamentario y educativo. Con formación en artes escénicas, ciencias políticas y una amplia experiencia en análisis de contenido y metodologías feministas e interseccionales, es la responsable de codificar los testimonios de la comunidad de LaNuestra. En esta entrevista reflexiona sobre cómo transformar relatos profundamente personales en conocimiento estructurado sin descontextualizarlos ni traicionar las voces de quienes los comparten, abordando la codificación como un ejercicio de rigor analítico, cuidado, protección y reparación colectiva.
 
