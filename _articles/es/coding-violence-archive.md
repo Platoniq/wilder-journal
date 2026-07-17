@@ -47,6 +47,8 @@ Trabajé durante catorce años en un sindicato en Brasil, donde impartía formac
 
 También participé en un grupo de investigación que realizó un análisis de contenido de la serie de Netflix Orange Is the New Black. Esa experiencia me enseñó que el análisis de contenido no tiene por qué limitarse a textos escritos formales. Puede utilizarse para identificar información sutil que se comunica de manera indirecta o que no aparece expresada explícitamente.
 
+{% quote %}La perspectiva feminista no reside en la herramienta en sí misma. No existe una única herramienta que sea inherentemente feminista o interseccional{% endquote %}
+
 Esta trayectoria me ha resultado muy útil en el proyecto LaNuestra. Los testimonios contienen información emocional y política, además de conocimiento encarnado. Estas mujeres han vivido las experiencias que describen. Hablan de una realidad que conocen a través de sus propios cuerpos, y no desde la posición de alguien que estudia teóricamente la violencia de género sin haberla experimentado. Por eso no podemos abordar los testimonios simplemente como información en bruto de la que extraer cifras y porcentajes.
 
 ## Combinar el análisis cuantitativo y cualitativo
@@ -69,6 +71,8 @@ La codificación añadió otra capa emocionalmente exigente. Un único testimoni
 
 Este proceso sistemático no significa convertir los testimonios en algo mecánico ni eliminar su contexto emocional. Es una forma de hacer explícito y coherente el procedimiento analítico. Aun así, la exposición repetida a relatos gráficos de violencia resulta muy difícil.
 
+{% quote %}Es imposible pasar días enteros leyendo testimonios de violencia de género sin verse afectada{% endquote %}
+
 Cada persona tiene determinados temas que le afectan con mayor intensidad. En mi caso, los testimonios relacionados con niños y niñas eran especialmente duros. A veces tenía que dejar de trabajar. Inicialmente, las rondas de codificación se planificaban para durar dos o tres semanas, pero a menudo necesitábamos más tiempo porque las personas tenían que parar y recuperarse.
 
 Todas las personas implicadas en la codificación estaban en terapia. Era importante por el riesgo de trauma vicario: el trauma que puede afectar a investigadores o profesionales que se relacionan repetidamente con las experiencias traumáticas de otras personas. Es imposible pasar días enteros leyendo testimonios de violencia de género sin verse afectada.
@@ -78,7 +82,10 @@ Todas las personas implicadas en la codificación estaban en terapia. Era import
 ### ¿Qué ocurre cuando una experiencia no encaja en las definiciones legales existentes? ¿Encontrasteis situaciones que no podían describirse adecuadamente mediante categorías jurídicas?
 
 Juliana: La primera etapa de construcción del libro de códigos consistió en revisar la legislación estatal española, la legislación de las comunidades autónomas y los marcos jurídicos europeos relevantes en materia de violencia de género.
+
 Esto requirió muchas horas de lectura y comparación, porque las distintas leyes separan, definen y nombran las formas de violencia de maneras ligeramente diferentes. También nos reunimos con expertas académicas que estudian la violencia de género para incorporar formas de conocimiento que normalmente no aparecen en la legislación.
+
+{% quote %}Cuando alguien habla de una violencia que ha sufrido, normalmente no utiliza lenguaje jurídico{% endquote %}
 
 Cuando alguien habla de una violencia que ha sufrido, normalmente no utiliza lenguaje jurídico. Habla mediante un lenguaje emocional, arraigado en cicatrices físicas y psicológicas. No necesariamente identifica una experiencia como acoso sexual, coacción u otra categoría jurídica concreta. Describe lo que sucedió de la manera que considera importante.
 
@@ -90,7 +97,8 @@ El reto consistía, por tanto, en articular tres estructuras: las definiciones l
 
 **Juliana:** Muchos testimonios de violencia institucional no solo describen el fracaso de las instituciones a la hora de tramitar una denuncia, sino también la forma en que son tratadas cuando buscan ayuda. Agentes de policía u otros profesionales pueden preguntarles qué ropa llevaban, por qué habían bebido o por qué se encontraban en un lugar determinado.
 
-El libro de códigos sitúa las voces de las mujeres en el centro y, al mismo tiempo, produce conocimiento que puede contribuir a la sensibilización y a la prevención.
+{% quote %}El libro de códigos sitúa las voces de las mujeres en el centro y, al mismo tiempo, produce conocimiento que puede contribuir a la sensibilización y a la prevención{% endquote %}
+
 Uno de los testimonios, por ejemplo, terminaba con una mujer advirtiendo a otras de que, si un hombre se comportaba de una determinada manera, debían prestar atención, hablar con alguien y no ignorarlo.
 
 Los movimientos feministas explican a menudo que los agresores aíslan a las mujeres de sus amistades y familiares. Sin embargo, también existen comportamientos más sutiles mediante los cuales ese aislamiento se construye gradualmente. La violencia no suele comenzar con un golpe. Se desarrolla lentamente. El agresor debilita la confianza de la persona, la hace dudar de sí misma y la lleva a pensar que es irracional, que está confundida o que no recuerda correctamente los acontecimientos.
@@ -109,7 +117,7 @@ El registro formal es importante porque una respuesta habitual frente a los rela
 
 La colección también funciona como contrapunto a la información oficial existente. Los informes oficiales pueden señalar que un determinado porcentaje de mujeres sufrió violencia de género durante la infancia, pero los testimonios sugieren que la prevalencia puede ser considerablemente mayor.
 
-Esta es una de las contribuciones más importantes del proyecto. Los testimonios pueden ayudar a las mujeres a identificar violencias que previamente habían naturalizado.
+{% quote %}Esta es una de las contribuciones más importantes del proyecto. Los testimonios pueden ayudar a las mujeres a identificar violencias que previamente habían naturalizado{% endquote %}
 
 Para las investigadoras, la protección no se limitaba a la terapia. Durante las reuniones destinadas a debatir desacuerdos en la codificación, también reservábamos tiempo para hablar sobre el impacto emocional de determinados testimonios. Alguien podía decir que un relato había sido especialmente difícil, que le había afectado personalmente o que había tenido que dejar de trabajar durante un tiempo.
 
