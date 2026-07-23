@@ -1,0 +1,46 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="jekyll-project-build" content="{% project_version %}">
+
+  {% seo %}
+
+  {% if page.collection == "pages" %}
+    <link rel="stylesheet" href="{{ '/assets/css/pages.css' | relative_url }}">
+  {% elsif page.collection == "volumes" %}
+    <link rel="stylesheet" href="{{ "/assets/css/" | append: page.uid | append: ".css" | relative_url }}">
+  {% elsif page.collection == "archives" %}
+    <link rel="stylesheet" href="{{ "/assets/css/" | append: page.volume-uid | append: ".css" | relative_url }}">
+  {% elsif page.collection == "articles" %}
+    {% if page.volume-uid == nil %}
+      <link rel="stylesheet" href="{{ "/assets/css/pages.css" | relative_url }}">
+    {% else %}
+      <link rel="stylesheet" href="{{ "/assets/css/" | append: page.volume-uid | append: ".css" | relative_url }}">
+    {% endif %}
+  {% elsif page.collection == "sticker_packs" %}
+    <link rel="stylesheet" href="{{ "/assets/css/" | append: page.volume-uid | append: ".css" | relative_url }}">
+  {% else %}
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+  {% endif %}
+
+  {% comment %}
+    Site-level override of the theme's default/head.liquid. Identical to the
+    theme version except for the three accessibility additions below (black &
+    white toggle). Keep in sync with the theme's head.liquid on theme bumps;
+    fold the a11y bits into the theme when it grows a global a11y control.
+  {% endcomment %}
+  {% comment %} a11y: black & white mode — render-blocking styles + pre-paint state + toggle logic {% endcomment %}
+  <link rel="stylesheet" href="{{ '/assets/css/a11y.css' | relative_url }}">
+  <script>try{if(localStorage.getItem('wj-contrast')==='bw'){document.documentElement.dataset.contrast='bw';}}catch(e){}</script>
+  <script defer src="{{ '/assets/js/a11y.js' | relative_url }}"></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+  {% include default/favicon.liquid %}
+
+  <script defer src="https://analytics.tools.platoniq.net/script.js" data-website-id="5c9badb4-88d7-4c77-ae00-27c632a23395"></script>
+  <script defer type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>

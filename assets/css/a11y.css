@@ -1,0 +1,71 @@
+/* Black & white accessibility mode + its toggle button.
+ *
+ * Site-level for now (the theme has no global a11y control yet); move into
+ * jekyll-theme-platoniq-journal when it does. Loaded on every page via the
+ * site override of _includes/default/head.liquid.
+ *
+ * Mechanism: a full-viewport overlay (body::after) with
+ * mix-blend-mode: saturation desaturates the whole page to grayscale WITHOUT a
+ * root `filter`, which would break the theme's position:fixed header, share bar
+ * and cookie banner. The overlay is a pseudo-element so it needs no extra DOM
+ * and applies the instant html[data-contrast="bw"] is set (pre-paint, no flash).
+ */
+
+html[data-contrast="bw"] body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 2147483000;
+  pointer-events: none;      /* clicks pass through to the page */
+  background: #fff;          /* white has zero saturation -> forces grayscale */
+  mix-blend-mode: saturation;
+}
+
+/* Toggle button — a fixed pill, injected into <body> by a11y.js.
+ * Sits above the overlay so it keeps its own black/white styling. */
+.a11y-toggle {
+  position: fixed;
+  left: 16px;
+  bottom: 16px;
+  z-index: 2147483001;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  min-height: 44px;          /* comfortable tap target */
+  padding: 0.5em 0.9em;
+  font-family: "Karla", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1;
+  color: #000;
+  background: #fff;
+  border: 2px solid #000;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.a11y-toggle::before {
+  content: "\25D1";          /* ◑ half-filled circle */
+  font-size: 1.15em;
+  line-height: 1;
+}
+
+.a11y-toggle:hover {
+  color: #fff;
+  background: #000;
+}
+
+.a11y-toggle:focus-visible {
+  outline: 3px solid #1a5fff;
+  outline-offset: 2px;
+}
+
+/* Active (black & white currently on): invert the pill so state is visible. */
+.a11y-toggle[aria-pressed="true"] {
+  color: #fff;
+  background: #000;
+}
+
+@media print {
+  .a11y-toggle { display: none; }
+}
