@@ -2,8 +2,80 @@
 ---
 @charset "utf-8";
 
-// Placeholder for the Volume 3 edition identity: reuses the Volume 2 styles
-// until a wilder-journal-3 partial exists in jekyll-theme-platoniq-journal.
-// Delete this file once the theme ships its own wilder-journal-3.scss.
+// Volume 3 edition stylesheet: "Deep time and safe(r) spaces 4 democracy".
+//
+// Mirrors the theme's wilder-journal-2.scss build but swaps in the volume-3
+// palette (see _sass/volumes/_variables_volume_3.scss). Built in the site repo
+// because the theme gem does not yet ship a wilder-journal-3 entry; fold both
+// files into the theme when it does.
 @import "slick";
-@import "wilder-journal-2";
+
+@import "utils/reset",
+        "utils/fonts",
+        "utils/media",
+
+        "base/variables",
+        "volumes/variables_volume_3",
+        "base/global",
+        "base/burger",
+        "base/buttons",
+        "base/links",
+
+        "partials/all",
+
+        "plugins/plugins";
+
+#main .highlighted h4, #rethink .highlighted h4, .pj-related-articles .pj-articles .highlighted h4 {
+    transform: unset;
+}
+
+header.pj-hero h1 span {
+    background-color: $color-bg-secondary;
+    color: $color-fg-secondary;
+}
+
+// Section -> colour map for Volume 3.
+// Two-colour scheme: Interviews and Learnings are magenta; every other band
+// (Futures, Deep Dives, Stories, Reconsider) plus the hero is blue. This
+// reproduces the design mock (Interviews pink -> Stories blue -> Learnings
+// pink). To recolour a section, move it between the two groups below.
+.category-futures,
+.category-deep-dives,
+.category-rethink {
+  background-color: $color-section-blue;
+}
+
+.category-interviews {
+  background-color: $color-section-magenta;
+}
+
+// Stories (#stories) inherits $color-bg-primary (blue); set it explicitly so
+// the intent is obvious and independent of the primary background.
+#stories {
+  background-color: $color-section-blue;
+}
+
+// Learnings (#reports) defaults to $color-bg-primary (blue); override to magenta.
+#reports {
+  background-color: $color-section-magenta;
+}
+
+.category-group {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding: 2rem 0;
+}
+
+// Collapse journal band sections that have no articles yet, so a sparsely
+// populated edition (e.g. Volume 3 at launch, with only Stories filled) does
+// not render empty full-width colour bands. Each section reappears
+// automatically once it gains an article.
+#main:not(:has(.highlighted)),
+#reports:not(:has(.highlighted)),
+#rethink:not(:has(.highlighted)) {
+  display: none;
+}
