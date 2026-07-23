@@ -34,6 +34,8 @@
   <link rel="stylesheet" href="{{ '/assets/css/a11y.css' | relative_url }}">
   <script>try{if(localStorage.getItem('wj-contrast')==='bw'){document.documentElement.dataset.contrast='bw';}}catch(e){}</script>
   <script defer src="{{ '/assets/js/a11y.js' | relative_url }}"></script>
+  {% comment %} a11y: read-aloud control (self-gates to article pages) {% endcomment %}
+  <script defer src="{{ '/assets/js/read-aloud.js' | relative_url }}"></script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
