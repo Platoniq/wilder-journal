@@ -18,5 +18,5 @@ date: 2026-08-03T11:28:00.000+02:00
 video-order: 1
 volume-uid: wilder-journal-2
 related_article_uid: consejo-ciudadano-congreso
-featured: false
+featured: true
 ---
