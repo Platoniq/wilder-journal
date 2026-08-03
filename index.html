@@ -1,0 +1,31 @@
+---
+permalink: /
+layout: null
+sitemap: false
+---
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Wilder Journal by Platoniq</title>
+<script>
+  (function () {
+    // Netlify Identity invite / email-confirmation / password-recovery links
+    // arrive at the site root as SiteURL/#<type>_token=... . A plain redirect
+    // to the default volume drops the hash and loses the token, so forward any
+    // identity token to the CMS admin (it loads the Identity widget and does
+    // not redirect). Everyone else continues to the current default volume.
+    var hash = window.location.hash || "";
+    if (/(?:invite_token|confirmation_token|recovery_token|email_change_token)=/.test(hash)) {
+      window.location.replace("/cms/" + hash);
+    } else {
+      window.location.replace("/es/wilder-journal-2/");
+    }
+  })();
+</script>
+<meta http-equiv="refresh" content="1; url=/es/wilder-journal-2/">
+</head>
+<body>
+  <p><a href="/es/wilder-journal-2/">Wilder Journal by Platoniq</a></p>
+</body>
+</html>
