@@ -35,7 +35,7 @@ image:
 ---
 ## **Hipótesis**
 
-Hay infraestructuras que nacen envueltas en una promesa. Los centros de datos y las nuevas gigafactorías de inteligencia artificial son algunas de ellas. España cuenta ya con más de 130 centros operativos, y las inversiones anunciadas por grandes compañías estadounidenses podrían multiplicar considerablemente esta cifra, convirtiendo al país en un nodo estratégico para el almacenamiento y procesamiento de datos en el sur de Europa.
+**Hay infraestructuras que nacen envueltas en una promesa.** Los centros de datos y las nuevas gigafactorías de inteligencia artificial son algunas de ellas. España cuenta ya con **más de 130 centros operativos**, y las inversiones anunciadas por grandes compañías estadounidenses podrían multiplicar considerablemente esta cifra, convirtiendo al país en un **nodo estratégico** para el almacenamiento y procesamiento de datos en el sur de Europa.
 
 {% questions { "items": [{"question":"Sobre quién recae la legitimidad para decidir la expansión de centros de datos en España"},{"question":"Cómo podemos tener en cuenta a las comunidades y los entornos afectados por la extracción masiva de recursos naturales"},{"question":"Cuánto estamos dispuestos a pagar por convertir España en un nodo estratégico para el almacenamiento y procesamiento de datos en el sur de Europa"}] } %}
 
