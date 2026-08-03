@@ -13,6 +13,7 @@ description: >-
 
   📽️ Congress TV: https://ow.ly/gac350YsQfW
 youtube_url: https://www.youtube.com/watch?v=DHGOTX1BT8o
+thumbnail: null
 date: 2026-08-03T11:28:00.000+02:00
 video-order: 1
 volume-uid: wilder-journal-2
