@@ -10,7 +10,7 @@ description: >-
 
   Stories connect us with social issues that often overwhelm us and, by enabling us to relate to other people’s experiences and motivations, they also help us to gain a much more comprehensive understanding of these issues.
 youtube_url: https://www.youtube.com/embed/Wmc7CNAafRM
-thumbnail: null
+thumbnail: /media/videos/thumbnails/storytelling.jpg
 date: 2022-04-01
 video-order: 2
 volume-uid: wilder-journal-1
