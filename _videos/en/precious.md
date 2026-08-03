@@ -9,7 +9,7 @@ description: "[Stories] Tiffany was in the kitchen too, heating up some milk.
   with drug dealers, but it also makes you feel a bit lonely. It’s best not to
   trust anyone."
 youtube_url: https://www.youtube.com/embed/JB5phI4KGA4
-thumbnail: null
+thumbnail: /media/videos/thumbnails/precious.png
 date: 2022-04-01
 video-order: 3
 volume-uid: wilder-journal-1

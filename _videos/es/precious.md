@@ -8,6 +8,7 @@ description: "[Storia] Tiffany también estaba en la cocina, calentando leche.
   Son traficantes. Ya sé que hay que llevarse bien con los traficantes, pero
   también te hace sentirte un poco sola. Es mejor no fiarse de nadie."
 youtube_url: https://www.youtube.com/embed/JB5phI4KGA4
+thumbnail: /media/videos/thumbnails/precious.png
 date: 2022-04-01
 video-order: 3
 volume-uid: wilder-journal-1
