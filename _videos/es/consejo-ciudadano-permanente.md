@@ -1,7 +1,8 @@
 ---
 published: true
 uid: Consejo-Ciudadano-Permanente
-title: " Por un Consejo Ciudadano Permanente en el Congreso de los Diputados "
+title: "[Futuros] Por un Consejo Ciudadano Permanente en el Congreso de los
+  Diputados "
 description: >-
   Comparecencia de Cristian Palazzi (Fundación Platoniq) en la Comisión para la
   auditoría de la calidad democrática, la lucha contra la corrupción y las

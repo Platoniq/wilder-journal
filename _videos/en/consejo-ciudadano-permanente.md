@@ -1,7 +1,7 @@
 ---
 published: true
 uid: Consejo-Ciudadano-Permanente
-title: " For a Permanent Citizens’ Council in the Congress of Deputies"
+title: "[Futures] For a Permanent Citizens’ Council in the Congress of Deputies"
 description: >-
   Testimony by Cristian Palazzi (Platoniq Foundation) before the Committee on
   the Audit of Democratic Quality, the Fight against Corruption, and
