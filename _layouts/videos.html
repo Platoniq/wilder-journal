@@ -20,12 +20,11 @@ layout: default
 
 {% assign t_visit_channel = site.data.i18n[page.locale].global.visit_channel %}
 
-<style>
-  .pj-videos-page .pj-videos--cat { color: #fff; padding: 3rem 0; }
-  .pj-videos-page .pj-videos--cat:nth-of-type(odd) { background-color: #2d34e6; }
-  .pj-videos-page .pj-videos--cat:nth-of-type(even) { background-color: #e6185f; }
-  .pj-videos-page .pj-videos--cat .pj-videos__title { color: #fff; }
-</style>
+{% comment %}
+  Colours/padding come from the theme's pages.css .pj-videos-page rules
+  (full-bleed bands, 72px 60px padding, purple/green/sky alternation with
+  readable text). We only change the grouping (by category), not the styling.
+{% endcomment %}
 
 <section class="pj-page pj-videos-page">
   <div class="container-fluid">
