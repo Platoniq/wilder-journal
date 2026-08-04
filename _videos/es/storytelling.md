@@ -1,7 +1,8 @@
 ---
 published: true
 uid: construir-narrativas-transformadoras
-title: " La importancia de contar historias para construir narrativas transformadoras"
+title: "[Repiénsate] La importancia de contar historias para construir
+  narrativas transformadoras"
 description: >-
   🗒️ Contar historias es algo que alberga un gran potencial para tender puentes
   entre las personas, ya que permite crear un vínculo emocional y establecer
