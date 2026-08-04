@@ -1,7 +1,7 @@
 ---
 published: true
 uid: Neo-Sindicalismo-Plataforma
-title: Welcome to Neo-Platform Unionism
+title: "[Deep dive] Welcome to Neo-Platform Unionism"
 description: >-
   ✊🏽A new form of collective organisation that tackles the increasing
   precariousness of life in order to improve conditions for the most vulnerable

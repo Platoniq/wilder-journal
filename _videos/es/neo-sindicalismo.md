@@ -1,7 +1,7 @@
 ---
 published: true
 uid: Neo-Sindicalismo-Plataforma
-title: Bienvenidas al Neo-Sindicalismo de Plataforma
+title: "[En profundidad] Bienvenidas al Neo-Sindicalismo de Plataforma"
 description: >-
   ✊🏽Una nueva forma de organización colectiva que se enfrenta a la
   precarización de la vida para mejorar las condiciones de los colectivos más
