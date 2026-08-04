@@ -25,7 +25,7 @@ html[data-contrast="bw"] body::after {
  * Sits above the overlay so it keeps its own black/white styling. */
 .a11y-toggle {
   position: fixed;
-  left: 16px;
+  right: 16px;
   bottom: 16px;
   z-index: 2147483001;
   display: inline-flex;
