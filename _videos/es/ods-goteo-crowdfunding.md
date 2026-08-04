@@ -1,8 +1,8 @@
 ---
 published: true
 uid: ODS-Goteo-crowdfunding
-title: Crowdfunding y datos abiertos ODS para la sostenibilidad y la
-  participación ciudadana
+title: "[Futuros] Crowdfunding y datos abiertos ODS para la sostenibilidad y la
+  participación ciudadana"
 description: Además de una herramienta de crowdfunding utilizada por miles de
   proyectos y cientos de comunidades desde su inicio (para lograr colaboraciones
   tanto monetarias como en otros recursos voluntarios), Goteo constituye de
