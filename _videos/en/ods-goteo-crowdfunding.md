@@ -1,7 +1,8 @@
 ---
+category: futures
 published: true
 uid: ODS-Goteo-crowdfunding
-title: "[Futures] Crowdfunding and open data on the SDGs for sustainability and
+title: "Crowdfunding and open data on the SDGs for sustainability and
   public participation"
 description: As well as being a crowdfunding platform used by thousands of
   projects and hundreds of communities since its inception (to secure both

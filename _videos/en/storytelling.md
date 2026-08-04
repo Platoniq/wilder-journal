@@ -1,7 +1,8 @@
 ---
+category: rethink
 published: true
 uid: construir-narrativas-transformadoras
-title: "[Reconsider] The importance of storytelling in building transformative
+title: "The importance of storytelling in building transformative
   narratives"
 description: >-
   🗒️ Storytelling has great potential to build bridges between people, as it

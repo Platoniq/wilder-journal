@@ -1,7 +1,8 @@
 ---
+category: interviews
 published: true
 uid: trampas-cognitivas-deliberación
-title: "[Entrevista] Ernesto Ganuza: las trampas cognitivas en la deliberación
+title: "Ernesto Ganuza: las trampas cognitivas en la deliberación
   ciudadana"
 description: En esta entrevista Ernesto Ganuza, investigador del CSIC, describe
   cuales son los riesgos de la deliberación conjunta, así como los supuestos,

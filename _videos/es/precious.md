@@ -1,7 +1,8 @@
 ---
+category: stories
 published: true
 uid: new-fictions
-title: "[Storias] Precious"
+title: "Precious"
 description: Tiffany también estaba en la cocina, calentando leche. Tenía cara
   de no haber dormido nada. Es nigeriana como yo y es buena gente, pero no
   hablamos mucho. Su marido conoce a otros nigerianos aquí en Ancona. Son

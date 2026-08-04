@@ -1,7 +1,8 @@
 ---
+category: futures
 published: true
 uid: ODS-Goteo-crowdfunding
-title: "[Futuros] Crowdfunding y datos abiertos ODS para la sostenibilidad y la
+title: "Crowdfunding y datos abiertos ODS para la sostenibilidad y la
   participación ciudadana"
 description: Además de una herramienta de crowdfunding utilizada por miles de
   proyectos y cientos de comunidades desde su inicio (para lograr colaboraciones

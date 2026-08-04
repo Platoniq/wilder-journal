@@ -1,0 +1,81 @@
+---
+layout: default
+---
+{% comment %}
+  Site-level override of the theme's videos page layout.
+  Groups videos by Journal CATEGORY (interviews, deep dives, futures, etc.)
+  instead of by volume, one alternating-colour section per non-empty category.
+  Keep in sync with the theme's videos.html on theme bumps; fold into the theme
+  when the videos feature there gains category grouping.
+{% endcomment %}
+{% include default/header.liquid %}
+
+{% assign all_videos = site.videos
+    | where: "locale", page.locale
+    | where: "published", true
+    | sort: "video-order" %}
+
+{% comment %} Journal section order (mirrors the volume pages). {% endcomment %}
+{% assign category_order = "futures,interviews,deep-dives,stories,learnings,rethink" | split: "," %}
+
+{% assign t_visit_channel = site.data.i18n[page.locale].global.visit_channel %}
+
+<style>
+  .pj-videos-page .pj-videos--cat { color: #fff; padding: 3rem 0; }
+  .pj-videos-page .pj-videos--cat:nth-of-type(odd) { background-color: #2d34e6; }
+  .pj-videos-page .pj-videos--cat:nth-of-type(even) { background-color: #e6185f; }
+  .pj-videos-page .pj-videos--cat .pj-videos__title { color: #fff; }
+</style>
+
+<section class="pj-page pj-videos-page">
+  <div class="container-fluid">
+    <header class="pj-header-simple">
+      <div class="header-page__text">
+        <h1>{{ page.title }}</h1>
+      </div>
+    </header>
+
+    {{ content }}
+
+    {% for cat in category_order %}
+      {% assign cat_videos = all_videos | where: "category", cat %}
+      {% unless cat_videos == empty %}
+        {% assign t_cat = site.data.i18n[page.locale].categories[cat] %}
+        <section class="pj-videos pj-videos--cat pj-videos--cat-{{ cat }}">
+          <h2 class="pj-videos__title">{{ t_cat }}</h2>
+
+          <div class="pj-videos__grid">
+            {% for video in cat_videos %}
+              {% include journal/video_card.liquid video=video %}
+            {% endfor %}
+          </div>
+        </section>
+      {% endunless %}
+    {% endfor %}
+
+    {% comment %} Videos without a category yet — shown last so nothing disappears. {% endcomment %}
+    {% assign untagged = all_videos | where_exp: "v", "v.category == nil" %}
+    {% unless untagged == empty %}
+      <section class="pj-videos pj-videos--cat pj-videos--cat-other">
+        <div class="pj-videos__grid">
+          {% for video in untagged %}
+            {% include journal/video_card.liquid video=video %}
+          {% endfor %}
+        </div>
+      </section>
+    {% endunless %}
+
+    {% if site.youtube_channel %}
+      <a href="{{ site.youtube_channel }}" class="link link-external pj-videos__channel"
+         target="_blank" rel="noopener noreferrer nofollow">
+        <span class="link__label">{{ t_visit_channel }}</span>
+
+        {% include svg/icon-external_link.liquid
+            class="link__icon link__icon-right"
+            alt=t_visit_channel %}
+      </a>
+    {% endif %}
+  </div>
+</section>
+
+{% include default/footer.liquid %}

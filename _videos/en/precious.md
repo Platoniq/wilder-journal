@@ -1,7 +1,8 @@
 ---
+category: stories
 published: true
 uid: new-fictions
-title: "[Stories] Precious"
+title: "Precious"
 description: Tiffany was in the kitchen too, heating up some milk. She looked as
   though she hadn’t slept a wink. She’s Nigerian, like me, and she’s a lovely
   person, but we don’t talk much. Her husband knows some other Nigerians here in

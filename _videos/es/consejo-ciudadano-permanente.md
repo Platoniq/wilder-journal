@@ -1,7 +1,8 @@
 ---
+category: futures
 published: true
 uid: Consejo-Ciudadano-Permanente
-title: "[Futuros] Por un Consejo Ciudadano Permanente en el Congreso de los
+title: "Por un Consejo Ciudadano Permanente en el Congreso de los
   Diputados "
 description: >-
   Comparecencia de Cristian Palazzi (Fundación Platoniq) en la Comisión para la

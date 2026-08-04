@@ -1,7 +1,8 @@
 ---
+category: rethink
 published: true
 uid: strategic-planning
-title: "[Repiénsate] Sembrando futuros deseables"
+title: "Sembrando futuros deseables"
 description: Implicar a la ciudadanía en los asuntos públicos, reivindicar el
   derecho a la participación como derecho fundamental o explorar nuevos espacios
   y metodologías que permitan practicar la empatía afectiva, son algunos de los

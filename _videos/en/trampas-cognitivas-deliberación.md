@@ -1,7 +1,8 @@
 ---
+category: interviews
 published: true
 uid: trampas-cognitivas-deliberación
-title: "[Interview] Cognitive biases in public deliberation"
+title: "Cognitive biases in public deliberation"
 description: In this interview, Ernesto Ganuza, a researcher at the CSIC,
   describes the risks involved in joint deliberation, as well as the
   assumptions, preconceptions and starting points we all have when it comes to

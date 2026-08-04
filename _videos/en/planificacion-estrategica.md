@@ -1,7 +1,8 @@
 ---
+category: rethink
 published: true
 uid: strategic-planning
-title: "[Reconsider] Projecting desirable futures"
+title: "Projecting desirable futures"
 description: Engaging citizens in public affairs, asserting the right to
   participation as a fundamental right, and exploring new spaces and
   methodologies that enable the practice of emotional empathy are some of the
