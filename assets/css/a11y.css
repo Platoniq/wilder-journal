@@ -117,6 +117,27 @@ html[data-contrast="bw"] body::after {
 
 .read-aloud__stop[hidden] { display: none; }
 
+/* Voice picker — shown only when the browser offers more than one voice. */
+.read-aloud__voice {
+  min-height: 44px;
+  padding: 0.4em 0.6em;
+  font-family: "Karla", sans-serif;
+  font-size: 14px;
+  color: inherit;
+  background: transparent;
+  border: 2px solid currentColor;
+  border-radius: 999px;
+  cursor: pointer;
+  max-width: 16em;
+}
+
+.read-aloud__voice[hidden] { display: none; }
+
+.read-aloud__voice:focus-visible {
+  outline: 3px solid #1a5fff;
+  outline-offset: 2px;
+}
+
 @media print {
   .read-aloud { display: none; }
 }
