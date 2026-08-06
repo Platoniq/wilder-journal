@@ -9,7 +9,7 @@ date-updated: 2026-08-06T10:11:00.000+02:00
 article-order: 1
 uid: demoracia-diven
 title: La democracia en el diván, con Miquel Joan Far Ferrer
-description: "un ejercicio inspirado en la filósofa y psicoanalista Cynthia Fleury "
+description: "Un ejercicio inspirado en la filósofa y psicoanalista Cynthia Fleury "
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
