@@ -57,7 +57,7 @@ Suena sólido e inevitable. Limpio. Despliegas el contrato inteligente y te vas,
 
 **Lo que de verdad se siente al "llegar al Home Base"**
 
-Mi primera sesión fue un taller con el Democratic Tech Fund sobre cómo gobernar tecnologías democráticas: nos lanzaron directamente a un juego de rol: *Running the Bases of Democratic Tech.*
+Mi primera sesión fue un taller con el [Democratic Tech Fund](https://democratictech.fund/) sobre cómo gobernar tecnologías democráticas: nos lanzaron directamente a un juego de rol: *Running the Bases of Democratic Tech.*
 
 {% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-07-26.jpg"}] } %}
 
@@ -68,6 +68,8 @@ Todo el mundo pasó a formar parte de un ecosistema vivo: comunidades, mantenedo
 La gobernanza empezó a sentirse como una coreografía: del tipo que hay que seguir bailando, no del tipo que se puede congelar en un gráfico, plastificar y colgar en un documento de Notion que nadie vuelve a abrir.
 
 Ese es todo el argumento. Todo lo demás es solo evidencia.
+
+{% gallery { "simple": false, "images": [{"path":"/media/photo_2026-08-06_13-43-23.jpg"}] } %}
 
 ## **La fantasía del común que se gestiona solo**
 

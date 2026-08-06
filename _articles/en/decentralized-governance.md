@@ -56,7 +56,7 @@ It's also a trap, and DWeb Camp is exactly the place to say so out loud. I spent
 
 ## **What "Reaching Home Base" Actually Feels Like**
 
-My first session was a workshop with the Democratic Tech Fund on governing democratic technologies. We didn't open with governance models or org charts. Mercifully, because nothing kills a room faster than a slide titled "Stakeholder Matrix." We dropped people straight into a role-playing game instead: *Running the Bases of Democratic Tech.*
+My first session was a workshop with the [Democratic Tech Fund](https://democratictech.fund/) on governing democratic technologies. We didn't open with governance models or org charts. Mercifully, because nothing kills a room faster than a slide titled "Stakeholder Matrix." We dropped people straight into a role-playing game instead: *Running the Bases of Democratic Tech.*
 
 {% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-07-26.jpg"}] } %}
 
@@ -67,6 +67,8 @@ Everyone became part of a living ecosystem: communities, maintainers, developers
 Governance stopped looking like a diagram. It started to feel like choreography: the kind you have to keep dancing, not the kind you can freeze into a chart, laminate, and hang in a Notion doc no one opens again.
 
 That's the whole argument. Everything else is just evidence.
+
+{% gallery { "simple": false, "images": [{"path":"/media/photo_2026-08-06_13-43-23.jpg"}] } %}
 
 ## **The Fantasy of the Self-Running Commons**
 
