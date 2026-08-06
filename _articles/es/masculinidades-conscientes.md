@@ -41,7 +41,7 @@ Inspirados por la filósofa y psicoanalista Cynthia Fleury y su reflexión sobre
 
 Las respuestas de Miquel componen así un segundo relato que atraviesa toda la conversación: el retrato de una democracia cansada, desorientada y necesitada de cuidados, cuyos síntomas no son tan distintos de algunos de los malestares que observamos hoy entre los jóvenes.
 
-### **Navegar hacia otras masculinidades**
+## **Navegar hacia otras masculinidades**
 
 **Pregunta:** En *Manuscrito para tripulantes que surcan hacia la igualdad* utilizas constantemente la metáfora del viaje y del cuaderno de bitácora. Antes de entrar en el fondo de la cuestión, ¿por qué decidiste utilizar precisamente la imagen del viaje para hablar de masculinidad?
 
@@ -51,7 +51,7 @@ Me parecía una imagen muy útil porque los procesos de transformación personal
 
 La idea era precisamente jugar con un universo que me era ajeno, el mundo de la navegación. Si yo era capaz de aproximarme a ese lenguaje y familiarizarme con él, cualquier hombre podría también acercarse a aquello que llamamos masculinidades alternativas, disidentes o igualitarias. De ahí surge la metáfora del viaje.
 
-**Construir una cultura alternativa**
+## **Construir una cultura alternativa**
 
 **Pregunta:** ¿Cuáles son los principales obstáculos que encuentran los hombres cuando intentan cuestionar los modelos masculinos heredados?
 
@@ -79,7 +79,7 @@ El problema es que seguimos funcionando con una lógica de suma cero: si otro ga
 
 Pero eso es una falacia profundamente arraigada en la cultura machista. Que otras personas tengan más derechos no implica que tú pierdas derechos. Lo que puede ocurrir es que pierdas privilegios. Y no es lo mismo.
 
-# **Vulnerabilidad, salud mental e intimidades congeladas**
+## **Vulnerabilidad, salud mental e intimidades congeladas**
 
 **Pregunta:** ¿Qué tabúes siguen existiendo entre los hombres cuando hablamos de salud mental?
 
@@ -117,9 +117,9 @@ Son esos espacios los que nos permiten, simbólicamente, desenchufar el frigorí
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.31.26.png"}] } %}
 
-# **Diferencias generacionales, manosfera y jóvenes atrapados entre discursos**
+## **Diferencias generacionales, manosfera y jóvenes atrapados entre discursos**
 
-## **Una generación más diversa de lo que creemos**
+### **Una generación más diversa de lo que creemos**
 
 **Pregunta:** A menudo se habla de una juventud cada vez más polarizada. Sin embargo, tú trabajas diariamente con adolescentes y jóvenes. ¿Qué diferencias observas respecto a generaciones anteriores cuando hablamos de salud mental y masculinidades?
 
@@ -155,7 +155,7 @@ Y cuando una persona siente que está siendo juzgada, difícilmente se abre a la
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.31.53.png"}] } %}
 
-# **Entender antes que juzgar**
+## **Entender antes que juzgar**
 
 **Pregunta:** ¿Qué crees que hemos aprendido trabajando con hombres y jóvenes que puede ayudarnos a responder a este fenómeno?
 
@@ -179,7 +179,7 @@ Por eso creo tanto en la creación de espacios seguros. Espacios donde un chico 
 
 No porque todo lo que diga sea correcto, sino porque sólo desde ahí puede comenzar una reflexión significativa.
 
-# **La manosfera y los "mensajes hamburguesa"**
+## **La manosfera y los "mensajes hamburguesa"**
 
 **Pregunta:** ¿Qué hace tan atractivos estos discursos para algunos jóvenes?
 
@@ -193,7 +193,7 @@ Por eso el reto no consiste únicamente en desmontar esos discursos. También co
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.32.24.png"}] } %}
 
-# **Construir antifragilidad democrática**
+## **Construir antifragilidad democrática**
 
 **Pregunta:** Si pensamos en jóvenes que quieren resistir esa presión de la manosfera, ¿cómo se construye esa capacidad crítica o esa especie de antifragilidad?
 

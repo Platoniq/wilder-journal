@@ -33,7 +33,7 @@ Inspired by philosopher and psychoanalyst Cynthia Fleury and her reflections on 
 
 Las respuestas de Miquel componen así un segundo relato que atraviesa toda la conversación: el retrato de una democracia cansada, desorientada y necesitada de cuidados, cuyos síntomas no son tan distintos de algunos de los malestares que observamos hoy entre los jóvenes.
 
-### **Sailing Toward Other Masculinities**
+## **Sailing Toward Other Masculinities**
 
 **Question:** In *Manuscript for Crew Members Sailing Toward Equality*, you constantly use the metaphor of a journey and a logbook. Before getting into the heart of the matter, why did you decide to use the image of a journey specifically to talk about masculinity?
 
@@ -70,7 +70,7 @@ The problem is that we continue to operate under a zero-sum mindset: if someone 
 
 But that is a fallacy deeply rooted in macho culture. The fact that other people have more rights does not mean that you lose rights. What might happen is that you lose privileges. And that’s not the same thing.
 
-# **Vulnerability, Mental Health, and Frozen Intimacy**
+## **Vulnerability, Mental Health, and Frozen Intimacy**
 
 **Question:** What taboos still exist among men when it comes to mental health?
 
@@ -108,9 +108,9 @@ It is these spaces that allow us, symbolically, to unplug the refrigerator.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.42.01.png"}] } %}
 
-# **Generational Differences, the "Manosphere," and Young People Caught Between Discourses**
+## **Generational Differences, the "Manosphere," and Young People Caught Between Discourses**
 
-## **A More Diverse Generation Than We Realize**
+### **A More Diverse Generation Than We Realize**
 
 **Question:** There’s often talk of an increasingly polarized youth. However, you work with teenagers and young adults every day. What differences do you observe compared to previous generations when it comes to mental health and masculinities?
 
@@ -146,7 +146,7 @@ And when a person feels they are being judged, they are unlikely to be open to r
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.42.29.png"}] } %}
 
-# **Understand Before Judging**
+## **Understand Before Judging**
 
 **Question:** What do you think we’ve learned from working with men and young people that can help us address this phenomenon?
 
@@ -170,7 +170,7 @@ That’s why I believe so strongly in creating safe spaces—spaces where a youn
 
 Not because everything he says is correct, but because only from that starting point can meaningful reflection begin.
 
-# **The “manosphere” and “hamburger messages”**
+## **The “manosphere” and “hamburger messages”**
 
 **Question:** What makes this kind of discourse so appealing to some young people?
 
@@ -184,7 +184,7 @@ That’s why the challenge isn’t just about debunking those narratives. It’s
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.42.57.png"}] } %}
 
-# **Building Democratic Antifragility**
+## **Building Democratic Antifragility**
 
 **Question:** If we think about young people who want to resist that pressure from the manosphere, how do we build that critical capacity or that kind of antifragility?
 
