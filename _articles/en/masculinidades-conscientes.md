@@ -21,3 +21,293 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/chatgpt-image-6-ago-2026-10_08_22.png
 ---
+What’s Happening to Young Men?
+
+
+As loneliness, anxiety, and a sense of uncertainty grow among many young people, a digital ecosystem is also gaining ground—one that offers quick answers, prefabricated identities, and easy scapegoats. The so-called “manosphere” presents itself as a space of belonging for some young men who feel that no one is listening to their doubts, fears, or confusion in the face of a rapidly changing world.
+
+
+To explore these questions, we spoke with Miquel Joan Far Ferrer, a psychologist, educator, and leading expert on egalitarian masculinities. We discussed men’s mental health, vulnerability, frozen intimacies, the “manosphere,” a culture of care, and how to create spaces where young people can reflect on who they want to be without getting trapped between guilt and resentment.
+
+The interview also engages with another parallel conversation held with playwright and facilitator Tony Cealy on masculinity, mental health, and democratic participation. Together, these two perspectives raise a question that runs through all of our work at INSPIRE: if we want healthier democracies, what kind of men do we need to nurture?
+
+
+Inspired by philosopher and psychoanalyst Cynthia Fleury and her reflections on the pathologies of democracy, we proposed an additional experiment to Miquel. We asked him to imagine that democracy itself was knocking on the door of his office seeking professional help. Rather than presenting that conversation as a separate section, we’ve woven in short vignettes throughout the interview, following the flow of the topics as they emerged. It’s as if democracy were sitting discreetly on the couch while we discuss vulnerability, care, polarization, trust, or male loneliness.
+
+Las respuestas de Miquel componen así un segundo relato que atraviesa toda la conversación: el retrato de una democracia cansada, desorientada y necesitada de cuidados, cuyos síntomas no son tan distintos de algunos de los malestares que observamos hoy entre los jóvenes.
+
+### **Navegar hacia otras masculinidades**
+
+**Pregunta:** En *Manuscrito para tripulantes que surcan hacia la igualdad* utilizas constantemente la metáfora del viaje y del cuaderno de bitácora. Antes de entrar en el fondo de la cuestión, ¿por qué decidiste utilizar precisamente la imagen del viaje para hablar de masculinidad?
+
+**MJFF:** Hay un concepto del mundo de la náutica que siempre me ha parecido muy sugerente: la circunnavegación. Hace referencia a un doble viaje. Por un lado, al trayecto que realizas hacia un destino; por otro, al viaje interior que ocurre mientras recorres esa ruta.
+
+Me parecía una imagen muy útil porque los procesos de transformación personal funcionan de una manera parecida. Podemos tener unas coordenadas, unos objetivos o unas referencias, pero al mismo tiempo cada persona desarrolla un recorrido propio, íntimo y singular. Ambos viajes suceden simultáneamente.
+
+La idea era precisamente jugar con un universo que me era ajeno, el mundo de la navegación. Si yo era capaz de aproximarme a ese lenguaje y familiarizarme con él, cualquier hombre podría también acercarse a aquello que llamamos masculinidades alternativas, disidentes o igualitarias. De ahí surge la metáfora del viaje.
+
+**Construir una cultura alternativa**
+
+**Pregunta:** ¿Cuáles son los principales obstáculos que encuentran los hombres cuando intentan cuestionar los modelos masculinos heredados?
+
+**MJFF:** Creo que el gran obstáculo sigue siendo la falta de una cultura alternativa suficientemente consolidada. Lo que llamamos masculinidad hegemónica no es únicamente una suma de comportamientos individuales; es una cultura completa, con sus referentes, sus modelos de éxito, sus expectativas y sus recompensas.
+
+El gran reto consiste precisamente en construir una contracultura capaz de ofrecer otros guiones de vida. El feminismo ha realizado una labor extraordinaria en este sentido, generando marcos alternativos y ampliando las posibilidades de ser mujer. Los hombres, en cambio, todavía estamos en una fase mucho más incipiente. Estamos poniendo los cimientos.
+
+Necesitamos referencias, relatos, prácticas y modelos que permitan imaginar otras formas de ser hombre. Sin esa infraestructura cultural resulta muy difícil sostener cambios individuales.
+
+De hecho, parte del auge actual del neomachismo puede entenderse como una reacción a la aparición de esos relatos alternativos. Cuando una cultura dominante percibe que surgen otras posibilidades, tiende a replegarse y a defender sus privilegios.
+
+## **¿Pérdida de derechos o pérdida de privilegios?**
+
+**Pregunta:** ¿Existe el riesgo de que algunos hombres perciban los discursos sobre igualdad más como una pérdida que como una oportunidad?
+
+**MJFF:** Sí, totalmente.
+
+Vivimos en una sociedad marcada por la incertidumbre, la precariedad y la sensación de que muchas de las promesas de bienestar ya no están garantizadas. Ante esa inseguridad, determinados discursos ofrecen explicaciones sencillas y señalan culpables concretos.
+
+Lo vemos con la inmigración, pero también con el feminismo. Se construyen chivos expiatorios sobre los que proyectar frustraciones que en realidad tienen causas mucho más complejas.
+
+El problema es que seguimos funcionando con una lógica de suma cero: si otro gana, yo pierdo. Bajo esa mirada, cuando las mujeres o determinados colectivos amplían sus derechos, algunos hombres interpretan que necesariamente están perdiendo algo.
+
+Pero eso es una falacia profundamente arraigada en la cultura machista. Que otras personas tengan más derechos no implica que tú pierdas derechos. Lo que puede ocurrir es que pierdas privilegios. Y no es lo mismo.
+
+# **Vulnerabilidad, salud mental e intimidades congeladas**
+
+**Pregunta:** ¿Qué tabúes siguen existiendo entre los hombres cuando hablamos de salud mental?
+
+**MJFF:** Creo que todo gira alrededor de la vulnerabilidad.
+
+Uno de los grandes mandatos de la masculinidad tradicional es la autosuficiencia. La idea de que un hombre debe poder resolver cualquier problema por sí mismo, sin ayuda de nadie.
+
+Cuando interiorizas ese mandato, pedir ayuda se convierte fácilmente en una experiencia de fracaso. Reconocer que no puedes más, acudir a un profesional o apoyarte en otras personas puede vivirse como una prueba de incapacidad.
+
+Por eso muchos hombres llegan tarde a los espacios de ayuda. No porque no sufran, sino porque sienten que no deberían necesitar apoyo.
+
+A eso se suma otro elemento importante: el lenguaje emocional no ha sido históricamente un territorio donde los hombres hayan sido socializados. Cuando una persona intenta poner palabras a lo que le ocurre y nunca ha entrenado ese registro, además de vulnerable puede sentirse torpe, perdida o incapaz.
+
+Durante mucho tiempo hablar de emociones se ha asociado a un espacio considerado femenino. Y eso también ha generado distancia.
+
+**Pregunta:** ¿Por qué tantos hombres consiguen hablar durante horas de trabajo, deporte o política, pero les cuesta hablar de miedo, tristeza o soledad?
+
+**MJFF:** Porque hemos sido educados para mirar hacia fuera.
+
+Desde muy pequeños aprendemos a relacionarnos a través de la acción, la productividad, el rendimiento, la competición o el logro. Son espacios donde adquirimos vocabulario, experiencia y seguridad.
+
+En cambio, el mundo interior queda mucho menos desarrollado. La intimidad, la fragilidad o la dependencia aparecen como territorios desconocidos.
+
+Por eso me gusta utilizar una idea que toma Paco Abril: la existencia de "intimidades congeladas".
+
+Los hombres tenemos una enorme dificultad para acceder a determinados espacios de intimidad. A veces digo que a los hombres nos intimida la intimidad.
+
+Pero esas intimidades pueden descongelarse.
+
+La experiencia demuestra que cuando aparecen espacios seguros, relaciones cálidas o redes de apoyo, muchas de esas barreras empiezan a caer. Por eso reivindico tanto la ternura como valor político y relacional.
+
+Las mujeres han construido históricamente espacios de sororidad. Quizás nosotros necesitamos construir más fraternas: espacios donde la cercanía, el cuidado y la vulnerabilidad tengan legitimidad.
+
+Son esos espacios los que nos permiten, simbólicamente, desenchufar el frigorífico.
+
+# **Diferencias generacionales, manosfera y jóvenes atrapados entre discursos**
+
+## **Una generación más diversa de lo que creemos**
+
+**Pregunta:** A menudo se habla de una juventud cada vez más polarizada. Sin embargo, tú trabajas diariamente con adolescentes y jóvenes. ¿Qué diferencias observas respecto a generaciones anteriores cuando hablamos de salud mental y masculinidades?
+
+**MJFF:** Yo, en contra de algunos discursos predominantes, soy bastante optimista.
+
+Lo que encuentro cuando trabajo con jóvenes es, sobre todo, diversidad. Hay jóvenes que reproducen discursos profundamente misóginos, pero también hay muchos otros que hablan con naturalidad de salud mental, que entienden la diversidad afectivo-sexual como algo normal y que muestran una sensibilidad social que difícilmente encontrábamos hace unas décadas.
+
+A veces las posiciones más extremas hacen mucho ruido y parecen representar a toda una generación, pero mi experiencia cotidiana no refleja eso.
+
+Lo digo también desde una experiencia personal. Cuando yo era adolescente sufrí una depresión y tuve que vivirla prácticamente en la clandestinidad. No hablaba de ello en el instituto. No podía decir con normalidad que acudía a un psiquiatra. Existía una sensación de vergüenza asociada al hecho de necesitar ayuda.
+
+Hoy veo a muchos jóvenes que hablan con mucha más naturalidad sobre estas cuestiones. Ir al psicólogo o a la psicóloga ya no se percibe necesariamente como algo excepcional o estigmatizante.
+
+Por supuesto siguen existiendo dificultades y contradicciones, pero hay cambios culturales importantes que no deberíamos ignorar.
+
+Tampoco recuerdo haber escuchado en mi adolescencia conversaciones sobre género, desigualdad o masculinidades. Yo llegué a estas cuestiones mucho más tarde, prácticamente en la universidad.
+
+Por eso hablo de optimismo. No porque los problemas hayan desaparecido, sino porque veo más herramientas, más lenguajes y más posibilidades de reflexión que las que existían cuando yo era joven.
+
+En nuestro trabajo reciente con jóvenes dentro del proyecto SoReDi, centrado en bienestar juvenil, inteligencia artificial y entornos digitales, nos hemos encontrado con una preocupación recurrente. Solemos analizar la manosfera por sus efectos sobre las mujeres o sobre la convivencia democrática, pero hablamos mucho menos de cómo puede afectar a los propios chicos que habitan esos espacios. ¿Reconoces en tu trabajo situaciones en las que jóvenes se sientan presionados por determinados modelos de masculinidad promovidos por la manosfera? ¿Qué formas de malestar, inseguridad o sufrimiento pueden generar estos discursos en quienes intentan encajar en ellos?
+
+**MJFF:** Sí, absolutamente. Y creo que es una realidad bastante transversal en buena parte de Occidente. Lo primero que debemos reconocer es que existe una dimensión estructural del problema. Estamos hablando de entornos digitales gobernados por algoritmos extremadamente eficaces para captar atención y reforzar determinadas narrativas.
+
+Es muy fácil encontrarse con contenidos vinculados a la manosfera. No hace falta buscarlos activamente. El algoritmo funciona muy bien. Ahí existe una responsabilidad que excede a los individuos. Estamos hablando de grandes plataformas tecnológicas y de decisiones empresariales que tienen efectos profundos sobre la socialización de los jóvenes.
+
+Pero también creo que debemos ser capaces de hacer autocrítica. Quizás algunas estrategias educativas o igualitarias no siempre han sido las más acertadas. Tal vez en ocasiones no hemos medido bien los tiempos o las formas.
+
+Durante los últimos años se han intentado impulsar cambios culturales muy profundos en relativamente poco tiempo. Mientras tanto, los discursos neomachistas se han organizado rápidamente y han construido relatos simples, emocionalmente eficaces y muy atractivos para determinados jóvenes.
+
+Eso ha provocado que algunos chicos vivan ciertos espacios educativos como lugares donde se les acusa antes de escucharles.
+
+Y cuando una persona siente que está siendo juzgada, difícilmente se abre a la reflexión.
+
+# **Entender antes que juzgar**
+
+**Pregunta:** ¿Qué crees que hemos aprendido trabajando con hombres y jóvenes que puede ayudarnos a responder a este fenómeno?
+
+**MJFF:** Hay una lección muy importante que aprendimos trabajando con hombres que ejercen violencia.
+
+Nosotros no justificamos la violencia. Pero intentamos comprenderla.
+
+Comprender no significa excusar. Significa entender los procesos que han llevado a una persona a actuar de determinada manera para poder intervenir sobre ellos.
+
+Si no entendemos cómo se construyen determinadas conductas, difícilmente podremos transformarlas.
+
+Creo que algo parecido ocurre con muchos jóvenes que hoy se sienten atraídos por discursos de la manosfera.
+
+Antes de señalar o responsabilizar, necesitamos comprender qué necesidades están intentando cubrir, qué malestares están expresando y qué preguntas están intentando responder.
+
+Después podremos trabajar la responsabilidad.
+
+Pero si invertimos el orden, el diálogo se vuelve mucho más difícil.
+
+Por eso creo tanto en la creación de espacios seguros. Espacios donde un chico pueda expresar su malestar sin sentirse inmediatamente etiquetado o juzgado.
+
+No porque todo lo que diga sea correcto, sino porque sólo desde ahí puede comenzar una reflexión significativa.
+
+# **La manosfera y los "mensajes hamburguesa"**
+
+**Pregunta:** ¿Qué hace tan atractivos estos discursos para algunos jóvenes?
+
+**MJFF:** Porque ofrecen soluciones sencillas a problemas muy complejos. La manosfera funciona muy bien emocionalmente. Construye espacios donde muchos chicos sienten que alguien les escucha, les entiende y no les cuestiona de entrada. Además ofrece explicaciones rápidas y fácilmente consumibles. La periodista Carmen Ruiz utiliza una expresión que me parece muy acertada: los llama "mensajes hamburguesa". Son mensajes fáciles de consumir, rápidos, inmediatos y emocionalmente eficaces.
+
+La reflexión crítica funciona de otra manera. Necesita tiempo.Necesita contexto. Necesita complejidad. Necesita contradicciones.
+
+Y eso resulta mucho menos atractivo en un ecosistema digital diseñado para premiar la inmediatez.
+
+Por eso el reto no consiste únicamente en desmontar esos discursos. También consiste en construir espacios alternativos que resulten significativos, acogedores y emocionalmente relevantes para los jóvenes.
+
+# **Construir antifragilidad democrática**
+
+**Pregunta:** Si pensamos en jóvenes que quieren resistir esa presión de la manosfera, ¿cómo se construye esa capacidad crítica o esa especie de antifragilidad?
+
+**MJFF:** Yo parto de una idea bastante sencilla: la mayoría de los jóvenes quieren ser buenas personas. A veces olvidamos eso.
+
+La inmensa mayoría no desea hacer daño deliberadamente ni construir relaciones basadas en la violencia o la dominación. Lo que ocurre es que necesitan espacios donde poder explorar sus dudas y contradicciones. Por eso es tan importante generar comunidades de confianza.
+
+Hay experiencias muy interesantes que trabajan precisamente en esa dirección. Pienso, por ejemplo, en iniciativas como [Broders](https://broders.es/), impulsada por Leonel Delgado, que crea espacios seguros donde los chicos pueden hablar de sus experiencias sin sentirse permanentemente examinados.
+
+Desde ahí se puede construir reflexión.
+
+Y después vienen las herramientas: la educación emocional, la comunicación, la gestión de conflictos, la construcción de identidades más flexibles o la cultura de los cuidados. No estamos inventando algo completamente nuevo. Disponemos de décadas de experiencia sobre cómo fortalecer personas y comunidades. La cuestión es cómo hacer que esas herramientas resulten tan accesibles y emocionalmente atractivas como los discursos simplificados que circulan hoy por las redes.
+
+### **Los músculos que se están atrofiando**
+
+**Pregunta:** ¿Qué músculos emocionales y democráticos se atrofian cuando predominan modelos basados en la competición, la dominación o el individualismo?
+
+**MJFF:** Creo que se atrofian precisamente aquellos músculos que nos permiten reconocer nuestra interdependencia. La confianza, la cooperación, la capacidad de pedir ayuda, la capacidad de ofrecerla, la empatía, la escucha y la posibilidad de vernos reflejados en los demás. Cuando todo se reduce a competir o a sobrevivir individualmente, esos músculos dejan de ejercitarse. Y una sociedad donde predomina la desconfianza es también una sociedad mucho más fácil de manipular.
+
+Por eso me preocupa que las respuestas a problemas profundamente colectivos se formulen cada vez más en términos individuales. Parece que todas las soluciones pasan por el trabajo personal, por la mejora individual o por la autooptimización. Sin embargo, los grandes desafíos que enfrentamos requieren precisamente aquello que estamos dejando de practicar: la capacidad de construir comunidad, generar confianza mutua y sostener espacios compartidos.
+
+### **El músculo del cuidado**
+
+**Pregunta:** Has hablado de cuidados y confianza. ¿Cómo se traduce eso en una musculatura democrática concreta?
+
+**MJFF:** Hace pocas semanas estaba trabajando con jóvenes en un instituto de Calvià y les pregunté qué significaba para ellos sentirse cuidados. Un chico respondió algo muy sencillo: “Me siento cuidado cuando alguien me dedica tiempo”. Me pareció una respuesta muy potente porque nos recuerda que el cuidado no es únicamente protección. También es presencia, atención y disponibilidad.
+
+Vivimos en una sociedad acelerada que nos empuja constantemente a producir, correr y pasar a la siguiente tarea. En ese contexto, dedicar tiempo a otra persona se convierte en un acto profundamente contracultural. Por eso creo que una parte fundamental de la musculatura democrática tiene que ver con recuperar la capacidad de dedicar tiempo: tiempo para escuchar, para comprender, para encontrarnos y para construir vínculos duraderos.
+
+—-
+
+# **La democracia en el diván**
+
+En la parte final de la conversación propusimos a Miquel Joan Far Ferrer un ejercicio inspirado en la filósofa y psicoanalista Cynthia Fleury y en su reflexión sobre las patologías de la democracia. Le pedimos que imaginara que la democracia misma llamaba a la puerta de su consulta buscando ayuda profesional.
+
+## **Si la democracia entrara en tu consulta...**
+
+**Pregunta:** Imagina que un día llaman a la puerta de tu consulta y quien entra no es una persona cualquiera, sino la propia democracia. ¿Qué impresión te causaría al verla?
+
+**MJFF:** Lo primero que me surge es que probablemente no la vería como una figura femenina, como solemos representarla habitualmente. Tengo la sensación de que la democracia ha ido incorporando muchos mandatos tradicionalmente asociados a la masculinidad. Me la imagino como alguien que ha intentado sostener determinadas expectativas, determinados roles y determinadas responsabilidades durante mucho tiempo y que ahora ya no sabe muy bien dónde situarse.
+
+La sensación principal sería la de una persona profundamente desubicada. Alguien que ya no tiene claro cuál es su papel, qué esperan de ella o cómo puede seguir contribuyendo a la sociedad. Y eso inevitablemente genera sufrimiento.
+
+La percibo razonablemente perdida, con una enorme sensación de incertidumbre respecto a su lugar en el mundo.
+
+**Pregunta:** ¿Cómo la verías físicamente?
+
+**MJFF:** Curiosamente me la imagino con la espalda encorvada.
+
+Como alguien que se va cerrando poco a poco sobre sí mismo. Una postura corporal que transmite cansancio, desgaste y cierta pérdida de confianza.
+
+No veo una democracia erguida o segura de sí misma. La veo más bien intentando protegerse.
+
+## **Un diagnóstico provisional**
+
+**Pregunta:** Si tuvieras que hacer una primera evaluación psicológica de la democracia contemporánea, ¿qué observarías?
+
+**MJFF:** Observaría sobre todo una gran desorientación.
+
+También una profunda sensación de desconfianza. Da la impresión de que haga lo que haga, una parte importante de la sociedad ya no confía en ella. Como si cualquier intento de intervención fuera recibido con sospecha.
+
+Eso genera una especie de indefensión aprendida. La sensación de que nada de lo que haga va a resultar suficiente.
+
+La percibo cansada, confundida y con dificultades para encontrar espacios donde poder reconstruirse.
+
+No sé si hablaría exactamente de una depresión, pero sí de una combinación de desorientación, pesimismo y agotamiento.
+
+## **La terapia: volver a encontrarse**
+
+**Pregunta:** ¿Qué tratamiento recomendarías?
+
+**MJFF:** Lo primero sería generar espacios de encuentro.
+
+Y no me refiero a encuentros superficiales o apresurados, sino a espacios construidos sobre determinadas condiciones: escucha, respeto, comprensión, alteridad y capacidad para convivir con perspectivas diferentes.
+
+Creo que la democracia necesita volver a experimentar la posibilidad del encuentro.
+
+Porque una parte importante de su sufrimiento tiene que ver con la fragmentación y con la imposibilidad de sostener conversaciones significativas entre personas que piensan distinto.
+
+También creo que necesitaría alejarse parcialmente de algunos ritmos que hoy parecen inevitables.
+
+Vivimos bajo una lógica de aceleración permanente. Todo tiene que ser inmediato. Todo tiene que producir resultados visibles rápidamente. Y eso es profundamente incompatible con muchos procesos democráticos.
+
+## **La cuestión del tiempo**
+
+**Pregunta:** Has mencionado varias veces el tiempo. ¿Crees que la democracia necesita más tiempo?
+
+**MJFF:** Sin duda.
+
+Y además ocurre algo paradójico: cuando concedemos el tiempo necesario a los procesos, muchas veces terminamos llegando antes.
+
+La obsesión por acelerar suele generar más ruido, más conflictos y más errores.
+
+La democracia necesita tiempo para escuchar, para comprender, para deliberar y para construir confianza. Sin esos tiempos, los procesos se vacían de contenido y terminan convirtiéndose en procedimientos.
+
+Por eso me parece tan importante recuperar una relación más sana con el tiempo.
+
+## **Relaciones tóxicas**
+
+**Pregunta:** Si la democracia estuviera en una relación de pareja, ¿dirías que mantiene actualmente relaciones tóxicas con los medios, las redes sociales o las grandes plataformas tecnológicas?
+
+**MJFF:** Sí, porque existe un desequilibrio enorme de poder.
+
+La democracia ya no ocupa necesariamente el centro de la conversación pública. Tiene que competir constantemente con actores que disponen de más recursos, más velocidad y, en muchos casos, más capacidad de influencia emocional.
+
+Cuando hablamos de plataformas digitales o de determinados liderazgos autoritarios, da la sensación de que la democracia juega siempre en desventaja.
+
+No dispone del mismo tiempo, ni de la misma capacidad de captar atención, ni de la misma facilidad para construir relatos simples.
+
+Por eso la relación me parece profundamente desigual.
+
+En ocasiones incluso parece que la democracia tenga que pedir permiso para existir dentro de espacios que antes le pertenecían.
+
+## **¿Puede recuperarse?**
+
+**Pregunta:** Después de todo lo que hemos hablado, ¿eres optimista respecto a su recuperación?
+
+**MJFF:** Sí.
+
+Porque si no fuera optimista probablemente no podría dedicarme a esto.
+
+La democracia sigue teniendo una enorme capacidad de transformación. Lo que ocurre es que necesita recuperar algunas cosas que ha ido perdiendo por el camino: confianza, tiempo, espacios de encuentro y cultura de los cuidados.
+
+Creo que seguimos necesitando más democracia, no menos.
+
+Pero probablemente una democracia más capaz de escuchar, de cuidarse y de reconocer su propia vulnerabilidad.
+
+Quizá el primer paso para recuperarse sea precisamente aceptar que también puede sentirse perdida.
+
+Este bloque funciona especialmente bien porque conecta tres temas que atraviesan toda la entrevista: la vulnerabilidad masculina, la cultura de los cuidados y la salud democrática. La imagen de la democracia con la espalda encorvada y desubicada es probablemente una de las metáforas más potentes que aparecieron en la conversación.

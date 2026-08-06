@@ -63,6 +63,8 @@ Necesitamos referencias, relatos, prácticas y modelos que permitan imaginar otr
 
 De hecho, parte del auge actual del neomachismo puede entenderse como una reacción a la aparición de esos relatos alternativos. Cuando una cultura dominante percibe que surgen otras posibilidades, tiende a replegarse y a defender sus privilegios.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.30.35.png"}] } %}
+
 ## **¿Pérdida de derechos o pérdida de privilegios?**
 
 **Pregunta:** ¿Existe el riesgo de que algunos hombres perciban los discursos sobre igualdad más como una pérdida que como una oportunidad?
@@ -113,6 +115,8 @@ Las mujeres han construido históricamente espacios de sororidad. Quizás nosotr
 
 Son esos espacios los que nos permiten, simbólicamente, desenchufar el frigorífico.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.31.26.png"}] } %}
+
 # **Diferencias generacionales, manosfera y jóvenes atrapados entre discursos**
 
 ## **Una generación más diversa de lo que creemos**
@@ -148,6 +152,8 @@ Durante los últimos años se han intentado impulsar cambios culturales muy prof
 Eso ha provocado que algunos chicos vivan ciertos espacios educativos como lugares donde se les acusa antes de escucharles.
 
 Y cuando una persona siente que está siendo juzgada, difícilmente se abre a la reflexión.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.31.53.png"}] } %}
 
 # **Entender antes que juzgar**
 
@@ -185,6 +191,8 @@ Y eso resulta mucho menos atractivo en un ecosistema digital diseñado para prem
 
 Por eso el reto no consiste únicamente en desmontar esos discursos. También consiste en construir espacios alternativos que resulten significativos, acogedores y emocionalmente relevantes para los jóvenes.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.32.24.png"}] } %}
+
 # **Construir antifragilidad democrática**
 
 **Pregunta:** Si pensamos en jóvenes que quieren resistir esa presión de la manosfera, ¿cómo se construye esa capacidad crítica o esa especie de antifragilidad?
@@ -198,6 +206,8 @@ Hay experiencias muy interesantes que trabajan precisamente en esa dirección. P
 Desde ahí se puede construir reflexión.
 
 Y después vienen las herramientas: la educación emocional, la comunicación, la gestión de conflictos, la construcción de identidades más flexibles o la cultura de los cuidados. No estamos inventando algo completamente nuevo. Disponemos de décadas de experiencia sobre cómo fortalecer personas y comunidades. La cuestión es cómo hacer que esas herramientas resulten tan accesibles y emocionalmente atractivas como los discursos simplificados que circulan hoy por las redes.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.32.55.png"}] } %}
 
 ### **Los músculos que se están atrofiando**
 
@@ -214,105 +224,3 @@ Por eso me preocupa que las respuestas a problemas profundamente colectivos se f
 **MJFF:** Hace pocas semanas estaba trabajando con jóvenes en un instituto de Calvià y les pregunté qué significaba para ellos sentirse cuidados. Un chico respondió algo muy sencillo: “Me siento cuidado cuando alguien me dedica tiempo”. Me pareció una respuesta muy potente porque nos recuerda que el cuidado no es únicamente protección. También es presencia, atención y disponibilidad.
 
 Vivimos en una sociedad acelerada que nos empuja constantemente a producir, correr y pasar a la siguiente tarea. En ese contexto, dedicar tiempo a otra persona se convierte en un acto profundamente contracultural. Por eso creo que una parte fundamental de la musculatura democrática tiene que ver con recuperar la capacidad de dedicar tiempo: tiempo para escuchar, para comprender, para encontrarnos y para construir vínculos duraderos.
-
-—-
-
-# **La democracia en el diván**
-
-En la parte final de la conversación propusimos a Miquel Joan Far Ferrer un ejercicio inspirado en la filósofa y psicoanalista Cynthia Fleury y en su reflexión sobre las patologías de la democracia. Le pedimos que imaginara que la democracia misma llamaba a la puerta de su consulta buscando ayuda profesional.
-
-## **Si la democracia entrara en tu consulta...**
-
-**Pregunta:** Imagina que un día llaman a la puerta de tu consulta y quien entra no es una persona cualquiera, sino la propia democracia. ¿Qué impresión te causaría al verla?
-
-**MJFF:** Lo primero que me surge es que probablemente no la vería como una figura femenina, como solemos representarla habitualmente. Tengo la sensación de que la democracia ha ido incorporando muchos mandatos tradicionalmente asociados a la masculinidad. Me la imagino como alguien que ha intentado sostener determinadas expectativas, determinados roles y determinadas responsabilidades durante mucho tiempo y que ahora ya no sabe muy bien dónde situarse.
-
-La sensación principal sería la de una persona profundamente desubicada. Alguien que ya no tiene claro cuál es su papel, qué esperan de ella o cómo puede seguir contribuyendo a la sociedad. Y eso inevitablemente genera sufrimiento.
-
-La percibo razonablemente perdida, con una enorme sensación de incertidumbre respecto a su lugar en el mundo.
-
-**Pregunta:** ¿Cómo la verías físicamente?
-
-**MJFF:** Curiosamente me la imagino con la espalda encorvada.
-
-Como alguien que se va cerrando poco a poco sobre sí mismo. Una postura corporal que transmite cansancio, desgaste y cierta pérdida de confianza.
-
-No veo una democracia erguida o segura de sí misma. La veo más bien intentando protegerse.
-
-## **Un diagnóstico provisional**
-
-**Pregunta:** Si tuvieras que hacer una primera evaluación psicológica de la democracia contemporánea, ¿qué observarías?
-
-**MJFF:** Observaría sobre todo una gran desorientación.
-
-También una profunda sensación de desconfianza. Da la impresión de que haga lo que haga, una parte importante de la sociedad ya no confía en ella. Como si cualquier intento de intervención fuera recibido con sospecha.
-
-Eso genera una especie de indefensión aprendida. La sensación de que nada de lo que haga va a resultar suficiente.
-
-La percibo cansada, confundida y con dificultades para encontrar espacios donde poder reconstruirse.
-
-No sé si hablaría exactamente de una depresión, pero sí de una combinación de desorientación, pesimismo y agotamiento.
-
-## **La terapia: volver a encontrarse**
-
-**Pregunta:** ¿Qué tratamiento recomendarías?
-
-**MJFF:** Lo primero sería generar espacios de encuentro.
-
-Y no me refiero a encuentros superficiales o apresurados, sino a espacios construidos sobre determinadas condiciones: escucha, respeto, comprensión, alteridad y capacidad para convivir con perspectivas diferentes.
-
-Creo que la democracia necesita volver a experimentar la posibilidad del encuentro.
-
-Porque una parte importante de su sufrimiento tiene que ver con la fragmentación y con la imposibilidad de sostener conversaciones significativas entre personas que piensan distinto.
-
-También creo que necesitaría alejarse parcialmente de algunos ritmos que hoy parecen inevitables.
-
-Vivimos bajo una lógica de aceleración permanente. Todo tiene que ser inmediato. Todo tiene que producir resultados visibles rápidamente. Y eso es profundamente incompatible con muchos procesos democráticos.
-
-## **La cuestión del tiempo**
-
-**Pregunta:** Has mencionado varias veces el tiempo. ¿Crees que la democracia necesita más tiempo?
-
-**MJFF:** Sin duda.
-
-Y además ocurre algo paradójico: cuando concedemos el tiempo necesario a los procesos, muchas veces terminamos llegando antes.
-
-La obsesión por acelerar suele generar más ruido, más conflictos y más errores.
-
-La democracia necesita tiempo para escuchar, para comprender, para deliberar y para construir confianza. Sin esos tiempos, los procesos se vacían de contenido y terminan convirtiéndose en procedimientos.
-
-Por eso me parece tan importante recuperar una relación más sana con el tiempo.
-
-## **Relaciones tóxicas**
-
-**Pregunta:** Si la democracia estuviera en una relación de pareja, ¿dirías que mantiene actualmente relaciones tóxicas con los medios, las redes sociales o las grandes plataformas tecnológicas?
-
-**MJFF:** Sí, porque existe un desequilibrio enorme de poder.
-
-La democracia ya no ocupa necesariamente el centro de la conversación pública. Tiene que competir constantemente con actores que disponen de más recursos, más velocidad y, en muchos casos, más capacidad de influencia emocional.
-
-Cuando hablamos de plataformas digitales o de determinados liderazgos autoritarios, da la sensación de que la democracia juega siempre en desventaja.
-
-No dispone del mismo tiempo, ni de la misma capacidad de captar atención, ni de la misma facilidad para construir relatos simples.
-
-Por eso la relación me parece profundamente desigual.
-
-En ocasiones incluso parece que la democracia tenga que pedir permiso para existir dentro de espacios que antes le pertenecían.
-
-## **¿Puede recuperarse?**
-
-**Pregunta:** Después de todo lo que hemos hablado, ¿eres optimista respecto a su recuperación?
-
-**MJFF:** Sí.
-
-Porque si no fuera optimista probablemente no podría dedicarme a esto.
-
-La democracia sigue teniendo una enorme capacidad de transformación. Lo que ocurre es que necesita recuperar algunas cosas que ha ido perdiendo por el camino: confianza, tiempo, espacios de encuentro y cultura de los cuidados.
-
-Creo que seguimos necesitando más democracia, no menos.
-
-Pero probablemente una democracia más capaz de escuchar, de cuidarse y de reconocer su propia vulnerabilidad.
-
-Quizá el primer paso para recuperarse sea precisamente aceptar que también puede sentirse perdida.
-
-Este bloque funciona especialmente bien porque conecta tres temas que atraviesan toda la entrevista: la vulnerabilidad masculina, la cultura de los cuidados y la salud democrática. La imagen de la democracia con la espalda encorvada y desubicada es probablemente una de las metáforas más potentes que aparecieron en la conversación.
