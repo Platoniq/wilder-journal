@@ -79,3 +79,36 @@ header.pj-hero h1 span {
 #rethink:not(:has(.highlighted)) {
   display: none;
 }
+
+// Volume 3 article pages render on the magenta page background, where the
+// theme's default dark-navy body text fails WCAG AA (~4.0:1). Make the reading
+// text white (white on magenta ~4.5:1, passes AA). Scoped to .pj-article so it
+// only affects article pages — not the volume landing, archives or other pages.
+// (The .pj-page prefix matches the theme's own selectors' specificity so these
+// win, including the larger lead paragraph.)
+.pj-page .pj-article > p,
+.pj-page .pj-article > p:first-of-type,
+.pj-page .pj-article > ul,
+.pj-page .pj-article > ol,
+.pj-page .pj-article > ul li,
+.pj-page .pj-article > ol li,
+.pj-page .pj-article > h2,
+.pj-page .pj-article > h3,
+.pj-page .pj-article > h4,
+.pj-page .pj-article > h5,
+.pj-page .pj-article > blockquote {
+  color: #fff;
+}
+
+// Share bar labels sit on the same magenta background — keep them legible too.
+#pj-article-share .social-share__container figcaption,
+#pj-article-share .social-share__container a {
+  color: #fff;
+}
+
+// The read-aloud control (uses currentColor) is in the article body — match the
+// now-white text so it stays legible on the magenta background.
+.pj-article .read-aloud__btn,
+.pj-article .read-aloud__voice {
+  color: #fff;
+}
