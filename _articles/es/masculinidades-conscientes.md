@@ -17,7 +17,7 @@ interviewee: Miquel Joan Far Ferrer
 cover:
   path: /media/articles/heroes/chatgpt-image-6-ago-2026-10_08_22.png
   mobile: /media/articles/mobile/chatgpt-image-6-ago-2026-10_08_22.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/chatgpt-image-6-ago-2026-10_08_22.png
   alt: Miquel Joan Far Ferrer
   credits: Miquel Joan Far Ferrer
   caption: Miquel Joan Far Ferrer
