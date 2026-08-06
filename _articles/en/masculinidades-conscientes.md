@@ -43,7 +43,7 @@ I found it a very useful image because processes of personal transformation work
 
 The idea was precisely to play with a world that was foreign to me: the world of sailing. If I was able to approach that language and familiarize myself with it, any man could also approach what we call alternative, dissident, or egalitarian masculinities. That’s where the metaphor of the journey comes from.
 
-**Building an Alternative Culture**
+## **Building an Alternative Culture**
 
 **Question:** What are the main obstacles men face when they try to challenge traditional models of masculinity?
 **MJFF:** Creo que el gran obstáculo sigue siendo la falta de una cultura alternativa suficientemente consolidada. Lo que llamamos masculinidad hegemónica no es únicamente una suma de comportamientos individuales; es una cultura completa, con sus referentes, sus modelos de éxito, sus expectativas y sus recompensas.
@@ -74,37 +74,23 @@ But that is a fallacy deeply rooted in macho culture. The fact that other people
 
 **Question:** What taboos still exist among men when it comes to mental health?
 
-**MJFF:** I think it all revolves around vulnerability.
+**MJFF:** I think it all revolves around vulnerability. One of the key tenets of traditional masculinity is self-sufficiency—the idea that a man must be able to solve any problem on his own, without anyone’s help.
 
-One of the key tenets of traditional masculinity is self-sufficiency—the idea that a man must be able to solve any problem on his own, without anyone’s help.
+When you internalize that expectation, asking for help can easily feel like a failure. Admitting that you’ve reached your limit, seeking professional help, or relying on others can feel like a sign of weakness. That’s why many men wait too long to seek help. Not because they aren’t suffering, but because they feel they shouldn’t need support.
 
-When you internalize that expectation, asking for help can easily feel like a failure. Admitting that you’ve reached your limit, seeking professional help, or relying on others can feel like a sign of weakness.
-
-That’s why many men wait too long to seek help. Not because they aren’t suffering, but because they feel they shouldn’t need support.
-
-Added to this is another important factor: emotional language has not historically been an area in which men have been socialized. When a person tries to put into words what is happening to them and has never practiced that skill, they may feel not only vulnerable but also awkward, lost, or incapable.
-
-For a long time, talking about emotions has been associated with a realm considered feminine. And that, too, has created distance.
+Added to this is another important factor: emotional language has not historically been an area in which men have been socialized. When a person tries to put into words what is happening to them and has never practiced that skill, they may feel not only vulnerable but also awkward, lost, or incapable. For a long time, talking about emotions has been associated with a realm considered feminine. And that, too, has created distance.
 
 **Question:** Why are so many men able to talk for hours about work, sports, or politics, but find it hard to talk about fear, sadness, or loneliness?
 
 **MJFF:** Because we’ve been raised to look outward.
 
-From a very young age, we learn to relate to others through action, productivity, performance, competition, or achievement. These are the areas where we acquire vocabulary, experience, and confidence.
+From a very young age, we learn to relate to others through action, productivity, performance, competition, or achievement. These are the areas where we acquire vocabulary, experience, and confidence. In contrast, our inner world remains much less developed. Intimacy, vulnerability, and dependence seem like uncharted territory.
 
-In contrast, our inner world remains much less developed. Intimacy, vulnerability, and dependence seem like uncharted territory.
-
-That’s why I like to use an idea put forward by Paco Abril: the existence of “frozen intimacies.”
-
-We men have enormous difficulty accessing certain spaces of intimacy. I sometimes say that men are intimidated by intimacy.
-
-But those intimacies can be thawed.
+That’s why I like to use an idea put forward by Paco Abril: the existence of “frozen intimacies.” We men have enormous difficulty accessing certain spaces of intimacy. I sometimes say that men are intimidated by intimacy. But those intimacies can be thawed.
 
 Experience shows that when safe spaces, warm relationships, or support networks emerge, many of those barriers begin to fall. That is why I so strongly advocate for tenderness as a political and relational value.
 
-Women have historically created spaces of sisterhood. Perhaps we need to create more spaces of brotherhood: places where closeness, care, and vulnerability are legitimate.
-
-It is these spaces that allow us, symbolically, to unplug the refrigerator.
+Women have historically created spaces of sisterhood. Perhaps we need to create more spaces of brotherhood: places where closeness, care, and vulnerability are legitimate. It is these spaces that allow us, symbolically, to unplug the refrigerator.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.42.01.png"}] } %}
 
@@ -150,23 +136,9 @@ And when a person feels they are being judged, they are unlikely to be open to r
 
 **Question:** What do you think we’ve learned from working with men and young people that can help us address this phenomenon?
 
-**MJFF:** There’s a very important lesson we learned from working with men who commit acts of violence.
+**MJFF:** There’s a very important lesson we learned from working with men who commit acts of violence. We don’t justify violence. But we try to understand it. Understanding doesn’t mean excusing. It means understanding the processes that have led a person to act in a certain way so that we can address them. If we don’t understand how certain behaviors are formed, we’ll have a hard time changing them.
 
-We don’t justify violence. But we try to understand it.
-
-Understanding doesn’t mean excusing. It means understanding the processes that have led a person to act in a certain way so that we can address them.
-
-If we don’t understand how certain behaviors are formed, we’ll have a hard time changing them.
-
-I think something similar happens with many young people today who are drawn to the rhetoric of the manosphere.
-
-Before pointing fingers or assigning blame, we need to understand what needs they’re trying to meet, what discomforts they’re expressing, and what questions they’re trying to answer.
-
-Then we can address the issue of responsibility.
-
-But if we reverse the order, dialogue becomes much more difficult.
-
-That’s why I believe so strongly in creating safe spaces—spaces where a young man can express his discomfort without immediately feeling labeled or judged.
+I think something similar happens with many young people today who are drawn to the rhetoric of the manosphere. Before pointing fingers or assigning blame, we need to understand what needs they’re trying to meet, what discomforts they’re expressing, and what questions they’re trying to answer. Then we can address the issue of responsibility. But if we reverse the order, dialogue becomes much more difficult. That’s why I believe so strongly in creating safe spaces—spaces where a young man can express his discomfort without immediately feeling labeled or judged.
 
 Not because everything he says is correct, but because only from that starting point can meaningful reflection begin.
 
@@ -176,9 +148,7 @@ Not because everything he says is correct, but because only from that starting p
 
 **MJFF:** Because it offers simple solutions to very complex problems. The manosphere works very well on an emotional level. It creates spaces where many young men feel that someone is listening to them, understands them, and doesn’t question them right off the bat. It also offers quick, easily digestible explanations. Journalist Carmen Ruiz uses an expression that I find very apt: she calls them “hamburger messages.” They’re messages that are easy to consume—quick, immediate, and emotionally effective.
 
-Critical reflection works differently. It takes time. It requires context. It requires complexity. It requires contradictions.
-
-And that’s much less appealing in a digital ecosystem designed to reward immediacy.
+Critical reflection works differently. It takes time. It requires context. It requires complexity. It requires contradictions. And that’s much less appealing in a digital ecosystem designed to reward immediacy.
 
 That’s why the challenge isn’t just about debunking those narratives. It’s also about building alternative spaces that are meaningful, welcoming, and emotionally relevant to young people.
 

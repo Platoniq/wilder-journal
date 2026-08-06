@@ -83,37 +83,23 @@ Pero eso es una falacia profundamente arraigada en la cultura machista. Que otra
 
 **Pregunta:** ¿Qué tabúes siguen existiendo entre los hombres cuando hablamos de salud mental?
 
-**MJFF:** Creo que todo gira alrededor de la vulnerabilidad.
+**MJFF:** Creo que todo gira alrededor de la vulnerabilidad. Uno de los grandes mandatos de la masculinidad tradicional es la autosuficiencia. La idea de que un hombre debe poder resolver cualquier problema por sí mismo, sin ayuda de nadie.
 
-Uno de los grandes mandatos de la masculinidad tradicional es la autosuficiencia. La idea de que un hombre debe poder resolver cualquier problema por sí mismo, sin ayuda de nadie.
+Cuando interiorizas ese mandato, pedir ayuda se convierte fácilmente en una experiencia de fracaso. Reconocer que no puedes más, acudir a un profesional o apoyarte en otras personas puede vivirse como una prueba de incapacidad. Por eso muchos hombres llegan tarde a los espacios de ayuda. No porque no sufran, sino porque sienten que no deberían necesitar apoyo.
 
-Cuando interiorizas ese mandato, pedir ayuda se convierte fácilmente en una experiencia de fracaso. Reconocer que no puedes más, acudir a un profesional o apoyarte en otras personas puede vivirse como una prueba de incapacidad.
-
-Por eso muchos hombres llegan tarde a los espacios de ayuda. No porque no sufran, sino porque sienten que no deberían necesitar apoyo.
-
-A eso se suma otro elemento importante: el lenguaje emocional no ha sido históricamente un territorio donde los hombres hayan sido socializados. Cuando una persona intenta poner palabras a lo que le ocurre y nunca ha entrenado ese registro, además de vulnerable puede sentirse torpe, perdida o incapaz.
-
-Durante mucho tiempo hablar de emociones se ha asociado a un espacio considerado femenino. Y eso también ha generado distancia.
+A eso se suma otro elemento importante: el lenguaje emocional no ha sido históricamente un territorio donde los hombres hayan sido socializados. Cuando una persona intenta poner palabras a lo que le ocurre y nunca ha entrenado ese registro, además de vulnerable puede sentirse torpe, perdida o incapaz. Durante mucho tiempo hablar de emociones se ha asociado a un espacio considerado femenino. Y eso también ha generado distancia.
 
 **Pregunta:** ¿Por qué tantos hombres consiguen hablar durante horas de trabajo, deporte o política, pero les cuesta hablar de miedo, tristeza o soledad?
 
 **MJFF:** Porque hemos sido educados para mirar hacia fuera.
 
-Desde muy pequeños aprendemos a relacionarnos a través de la acción, la productividad, el rendimiento, la competición o el logro. Son espacios donde adquirimos vocabulario, experiencia y seguridad.
+Desde muy pequeños aprendemos a relacionarnos a través de la acción, la productividad, el rendimiento, la competición o el logro. Son espacios donde adquirimos vocabulario, experiencia y seguridad. En cambio, el mundo interior queda mucho menos desarrollado. La intimidad, la fragilidad o la dependencia aparecen como territorios desconocidos. Por eso me gusta utilizar una idea que toma Paco Abril: la existencia de "intimidades congeladas".
 
-En cambio, el mundo interior queda mucho menos desarrollado. La intimidad, la fragilidad o la dependencia aparecen como territorios desconocidos.
-
-Por eso me gusta utilizar una idea que toma Paco Abril: la existencia de "intimidades congeladas".
-
-Los hombres tenemos una enorme dificultad para acceder a determinados espacios de intimidad. A veces digo que a los hombres nos intimida la intimidad.
-
-Pero esas intimidades pueden descongelarse.
+Los hombres tenemos una enorme dificultad para acceder a determinados espacios de intimidad. A veces digo que a los hombres nos intimida la intimidad. Pero esas intimidades pueden descongelarse.
 
 La experiencia demuestra que cuando aparecen espacios seguros, relaciones cálidas o redes de apoyo, muchas de esas barreras empiezan a caer. Por eso reivindico tanto la ternura como valor político y relacional.
 
-Las mujeres han construido históricamente espacios de sororidad. Quizás nosotros necesitamos construir más fraternas: espacios donde la cercanía, el cuidado y la vulnerabilidad tengan legitimidad.
-
-Son esos espacios los que nos permiten, simbólicamente, desenchufar el frigorífico.
+Las mujeres han construido históricamente espacios de sororidad. Quizás nosotros necesitamos construir más fraternas: espacios donde la cercanía, el cuidado y la vulnerabilidad tengan legitimidad. Son esos espacios los que nos permiten, simbólicamente, desenchufar el frigorífico.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.31.26.png"}] } %}
 
@@ -159,23 +145,9 @@ Y cuando una persona siente que está siendo juzgada, difícilmente se abre a la
 
 **Pregunta:** ¿Qué crees que hemos aprendido trabajando con hombres y jóvenes que puede ayudarnos a responder a este fenómeno?
 
-**MJFF:** Hay una lección muy importante que aprendimos trabajando con hombres que ejercen violencia.
+**MJFF:** Hay una lección muy importante que aprendimos trabajando con hombres que ejercen violencia. Nosotros no justificamos la violencia. Pero intentamos comprenderla. Comprender no significa excusar. Significa entender los procesos que han llevado a una persona a actuar de determinada manera para poder intervenir sobre ellos. Si no entendemos cómo se construyen determinadas conductas, difícilmente podremos transformarlas.
 
-Nosotros no justificamos la violencia. Pero intentamos comprenderla.
-
-Comprender no significa excusar. Significa entender los procesos que han llevado a una persona a actuar de determinada manera para poder intervenir sobre ellos.
-
-Si no entendemos cómo se construyen determinadas conductas, difícilmente podremos transformarlas.
-
-Creo que algo parecido ocurre con muchos jóvenes que hoy se sienten atraídos por discursos de la manosfera.
-
-Antes de señalar o responsabilizar, necesitamos comprender qué necesidades están intentando cubrir, qué malestares están expresando y qué preguntas están intentando responder.
-
-Después podremos trabajar la responsabilidad.
-
-Pero si invertimos el orden, el diálogo se vuelve mucho más difícil.
-
-Por eso creo tanto en la creación de espacios seguros. Espacios donde un chico pueda expresar su malestar sin sentirse inmediatamente etiquetado o juzgado.
+Creo que algo parecido ocurre con muchos jóvenes que hoy se sienten atraídos por discursos de la manosfera. Antes de señalar o responsabilizar, necesitamos comprender qué necesidades están intentando cubrir, qué malestares están expresando y qué preguntas están intentando responder. Después podremos trabajar la responsabilidad. Pero si invertimos el orden, el diálogo se vuelve mucho más difícil. Por eso creo tanto en la creación de espacios seguros. Espacios donde un chico pueda expresar su malestar sin sentirse inmediatamente etiquetado o juzgado.
 
 No porque todo lo que diga sea correcto, sino porque sólo desde ahí puede comenzar una reflexión significativa.
 
@@ -185,9 +157,7 @@ No porque todo lo que diga sea correcto, sino porque sólo desde ahí puede come
 
 **MJFF:** Porque ofrecen soluciones sencillas a problemas muy complejos. La manosfera funciona muy bien emocionalmente. Construye espacios donde muchos chicos sienten que alguien les escucha, les entiende y no les cuestiona de entrada. Además ofrece explicaciones rápidas y fácilmente consumibles. La periodista Carmen Ruiz utiliza una expresión que me parece muy acertada: los llama "mensajes hamburguesa". Son mensajes fáciles de consumir, rápidos, inmediatos y emocionalmente eficaces.
 
-La reflexión crítica funciona de otra manera. Necesita tiempo.Necesita contexto. Necesita complejidad. Necesita contradicciones.
-
-Y eso resulta mucho menos atractivo en un ecosistema digital diseñado para premiar la inmediatez.
+La reflexión crítica funciona de otra manera. Necesita tiempo.Necesita contexto. Necesita complejidad. Necesita contradicciones. Y eso resulta mucho menos atractivo en un ecosistema digital diseñado para premiar la inmediatez.
 
 Por eso el reto no consiste únicamente en desmontar esos discursos. También consiste en construir espacios alternativos que resulten significativos, acogedores y emocionalmente relevantes para los jóvenes.
 
