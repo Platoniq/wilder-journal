@@ -15,6 +15,7 @@ description: It's also a trap, and DWeb Camp is exactly the place to say so out
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-08-06-a-las-9.16.09.png
   mobile: /assets/media/no_image-hero.png
