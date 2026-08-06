@@ -19,7 +19,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-08-06-a-las-9.16.09.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-08-06-a-las-9.16.09.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-08-06-a-las-9.16.09.png
   alt: Dweb camp 2026
   credits: Dweb camp 2026
   caption: Dweb camp 2026
