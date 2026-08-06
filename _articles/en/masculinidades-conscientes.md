@@ -11,7 +11,7 @@ uid: masculinidades-conscientes
 interviewee: Miquel Joan Far Ferrer
 cover:
   path: /media/articles/heroes/chatgpt-image-6-ago-2026-10_08_22.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/chatgpt-image-6-ago-2026-10_08_22.png
   thumbnail: /assets/media/no_image-thumbnail.png
 stickers:
   layout: layout-none
