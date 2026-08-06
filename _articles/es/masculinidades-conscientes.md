@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/chatgpt-image-6-ago-2026-10_08_22.png
 ---
 ¿Qué les está pasando a los chicos?
 
