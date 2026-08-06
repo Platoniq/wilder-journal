@@ -36,278 +36,213 @@ Inspired by philosopher and psychoanalyst Cynthia Fleury and her reflections on 
 
 Las respuestas de Miquel componen así un segundo relato que atraviesa toda la conversación: el retrato de una democracia cansada, desorientada y necesitada de cuidados, cuyos síntomas no son tan distintos de algunos de los malestares que observamos hoy entre los jóvenes.
 
-### **Navegar hacia otras masculinidades**
+### **Sailing Toward Other Masculinities**
 
-**Pregunta:** En *Manuscrito para tripulantes que surcan hacia la igualdad* utilizas constantemente la metáfora del viaje y del cuaderno de bitácora. Antes de entrar en el fondo de la cuestión, ¿por qué decidiste utilizar precisamente la imagen del viaje para hablar de masculinidad?
+**Question:** In *Manuscript for Crew Members Sailing Toward Equality*, you constantly use the metaphor of a journey and a logbook. Before getting into the heart of the matter, why did you decide to use the image of a journey specifically to talk about masculinity?
 
-**MJFF:** Hay un concepto del mundo de la náutica que siempre me ha parecido muy sugerente: la circunnavegación. Hace referencia a un doble viaje. Por un lado, al trayecto que realizas hacia un destino; por otro, al viaje interior que ocurre mientras recorres esa ruta.
+**MJFF:** There’s a concept from the world of sailing that I’ve always found very evocative: circumnavigation. It refers to a twofold journey. On the one hand, the journey you take toward a destination; on the other, the inner journey that takes place as you travel that route.
 
-Me parecía una imagen muy útil porque los procesos de transformación personal funcionan de una manera parecida. Podemos tener unas coordenadas, unos objetivos o unas referencias, pero al mismo tiempo cada persona desarrolla un recorrido propio, íntimo y singular. Ambos viajes suceden simultáneamente.
 
-La idea era precisamente jugar con un universo que me era ajeno, el mundo de la navegación. Si yo era capaz de aproximarme a ese lenguaje y familiarizarme con él, cualquier hombre podría también acercarse a aquello que llamamos masculinidades alternativas, disidentes o igualitarias. De ahí surge la metáfora del viaje.
+I found it a very useful image because processes of personal transformation work in a similar way. We may have certain coordinates, goals, or points of reference, but at the same time, each person follows their own intimate and unique path. Both journeys take place simultaneously.
 
-**Construir una cultura alternativa**
 
-**Pregunta:** ¿Cuáles son los principales obstáculos que encuentran los hombres cuando intentan cuestionar los modelos masculinos heredados?
+The idea was precisely to play with a world that was foreign to me: the world of sailing. If I was able to approach that language and familiarize myself with it, any man could also approach what we call alternative, dissident, or egalitarian masculinities. That’s where the metaphor of the journey comes from.
 
+**Building an Alternative Culture**
+
+**Question:** What are the main obstacles men face when they try to challenge traditional models of masculinity?
 **MJFF:** Creo que el gran obstáculo sigue siendo la falta de una cultura alternativa suficientemente consolidada. Lo que llamamos masculinidad hegemónica no es únicamente una suma de comportamientos individuales; es una cultura completa, con sus referentes, sus modelos de éxito, sus expectativas y sus recompensas.
 
-El gran reto consiste precisamente en construir una contracultura capaz de ofrecer otros guiones de vida. El feminismo ha realizado una labor extraordinaria en este sentido, generando marcos alternativos y ampliando las posibilidades de ser mujer. Los hombres, en cambio, todavía estamos en una fase mucho más incipiente. Estamos poniendo los cimientos.
+The great challenge lies precisely in building a counterculture capable of offering alternative life scripts. Feminism has done extraordinary work in this regard, creating alternative frameworks and expanding the possibilities of what it means to be a woman. Men, on the other hand, are still in a much earlier stage. We are laying the groundwork.
 
-Necesitamos referencias, relatos, prácticas y modelos que permitan imaginar otras formas de ser hombre. Sin esa infraestructura cultural resulta muy difícil sostener cambios individuales.
+We need references, narratives, practices, and role models that allow us to imagine other ways of being a man. Without that cultural infrastructure, it is very difficult to sustain individual changes.
 
-De hecho, parte del auge actual del neomachismo puede entenderse como una reacción a la aparición de esos relatos alternativos. Cuando una cultura dominante percibe que surgen otras posibilidades, tiende a replegarse y a defender sus privilegios.
+In fact, part of the current rise of neo-machismo can be understood as a reaction to the emergence of these alternative narratives. When a dominant culture perceives that other possibilities are emerging, it tends to retreat and defend its privileges.
 
-## **¿Pérdida de derechos o pérdida de privilegios?**
+## **Loss of Rights or Loss of Privileges?**
 
-**Pregunta:** ¿Existe el riesgo de que algunos hombres perciban los discursos sobre igualdad más como una pérdida que como una oportunidad?
+**Question:** Is there a risk that some men might perceive discourses on equality more as a loss than as an opportunity?
 
-**MJFF:** Sí, totalmente.
+**MJFF:** Yes, absolutely.
 
-Vivimos en una sociedad marcada por la incertidumbre, la precariedad y la sensación de que muchas de las promesas de bienestar ya no están garantizadas. Ante esa inseguridad, determinados discursos ofrecen explicaciones sencillas y señalan culpables concretos.
+We live in a society marked by uncertainty, precariousness, and the feeling that many of the promises of well-being are no longer guaranteed. In the face of this insecurity, certain discourses offer simple explanations and point to specific culprits.
 
-Lo vemos con la inmigración, pero también con el feminismo. Se construyen chivos expiatorios sobre los que proyectar frustraciones que en realidad tienen causas mucho más complejas.
+We see this with immigration, but also with feminism. Scapegoats are created onto whom people can project frustrations that actually have much more complex causes.
 
-El problema es que seguimos funcionando con una lógica de suma cero: si otro gana, yo pierdo. Bajo esa mirada, cuando las mujeres o determinados colectivos amplían sus derechos, algunos hombres interpretan que necesariamente están perdiendo algo.
+The problem is that we continue to operate under a zero-sum mindset: if someone else wins, I lose. From that perspective, when women or certain groups expand their rights, some men interpret this as meaning they are necessarily losing something.
 
-Pero eso es una falacia profundamente arraigada en la cultura machista. Que otras personas tengan más derechos no implica que tú pierdas derechos. Lo que puede ocurrir es que pierdas privilegios. Y no es lo mismo.
+But that is a fallacy deeply rooted in macho culture. The fact that other people have more rights does not mean that you lose rights. What might happen is that you lose privileges. And that’s not the same thing.
 
-# **Vulnerabilidad, salud mental e intimidades congeladas**
 
-**Pregunta:** ¿Qué tabúes siguen existiendo entre los hombres cuando hablamos de salud mental?
+# **Vulnerability, Mental Health, and Frozen Intimacy**
 
-**MJFF:** Creo que todo gira alrededor de la vulnerabilidad.
+**Question:** What taboos still exist among men when it comes to mental health?
 
-Uno de los grandes mandatos de la masculinidad tradicional es la autosuficiencia. La idea de que un hombre debe poder resolver cualquier problema por sí mismo, sin ayuda de nadie.
+**MJFF:** I think it all revolves around vulnerability.
 
-Cuando interiorizas ese mandato, pedir ayuda se convierte fácilmente en una experiencia de fracaso. Reconocer que no puedes más, acudir a un profesional o apoyarte en otras personas puede vivirse como una prueba de incapacidad.
+One of the key tenets of traditional masculinity is self-sufficiency—the idea that a man must be able to solve any problem on his own, without anyone’s help.
 
-Por eso muchos hombres llegan tarde a los espacios de ayuda. No porque no sufran, sino porque sienten que no deberían necesitar apoyo.
+When you internalize that expectation, asking for help can easily feel like a failure. Admitting that you’ve reached your limit, seeking professional help, or relying on others can feel like a sign of weakness.
 
-A eso se suma otro elemento importante: el lenguaje emocional no ha sido históricamente un territorio donde los hombres hayan sido socializados. Cuando una persona intenta poner palabras a lo que le ocurre y nunca ha entrenado ese registro, además de vulnerable puede sentirse torpe, perdida o incapaz.
+That’s why many men wait too long to seek help. Not because they aren’t suffering, but because they feel they shouldn’t need support.
 
-Durante mucho tiempo hablar de emociones se ha asociado a un espacio considerado femenino. Y eso también ha generado distancia.
+Added to this is another important factor: emotional language has not historically been an area in which men have been socialized. When a person tries to put into words what is happening to them and has never practiced that skill, they may feel not only vulnerable but also awkward, lost, or incapable.
 
-**Pregunta:** ¿Por qué tantos hombres consiguen hablar durante horas de trabajo, deporte o política, pero les cuesta hablar de miedo, tristeza o soledad?
+For a long time, talking about emotions has been associated with a realm considered feminine. And that, too, has created distance.
 
-**MJFF:** Porque hemos sido educados para mirar hacia fuera.
+**Question:** Why are so many men able to talk for hours about work, sports, or politics, but find it hard to talk about fear, sadness, or loneliness?
 
-Desde muy pequeños aprendemos a relacionarnos a través de la acción, la productividad, el rendimiento, la competición o el logro. Son espacios donde adquirimos vocabulario, experiencia y seguridad.
 
-En cambio, el mundo interior queda mucho menos desarrollado. La intimidad, la fragilidad o la dependencia aparecen como territorios desconocidos.
+**MJFF:** Because we’ve been raised to look outward.
 
-Por eso me gusta utilizar una idea que toma Paco Abril: la existencia de "intimidades congeladas".
 
-Los hombres tenemos una enorme dificultad para acceder a determinados espacios de intimidad. A veces digo que a los hombres nos intimida la intimidad.
+From a very young age, we learn to relate to others through action, productivity, performance, competition, or achievement. These are the areas where we acquire vocabulary, experience, and confidence.
 
-Pero esas intimidades pueden descongelarse.
+In contrast, our inner world remains much less developed. Intimacy, vulnerability, and dependence seem like uncharted territory.
 
-La experiencia demuestra que cuando aparecen espacios seguros, relaciones cálidas o redes de apoyo, muchas de esas barreras empiezan a caer. Por eso reivindico tanto la ternura como valor político y relacional.
+That’s why I like to use an idea put forward by Paco Abril: the existence of “frozen intimacies.”
 
-Las mujeres han construido históricamente espacios de sororidad. Quizás nosotros necesitamos construir más fraternas: espacios donde la cercanía, el cuidado y la vulnerabilidad tengan legitimidad.
+We men have enormous difficulty accessing certain spaces of intimacy. I sometimes say that men are intimidated by intimacy.
 
-Son esos espacios los que nos permiten, simbólicamente, desenchufar el frigorífico.
+But those intimacies can be thawed.
 
-# **Diferencias generacionales, manosfera y jóvenes atrapados entre discursos**
+Experience shows that when safe spaces, warm relationships, or support networks emerge, many of those barriers begin to fall. That is why I so strongly advocate for tenderness as a political and relational value.
 
-## **Una generación más diversa de lo que creemos**
 
-**Pregunta:** A menudo se habla de una juventud cada vez más polarizada. Sin embargo, tú trabajas diariamente con adolescentes y jóvenes. ¿Qué diferencias observas respecto a generaciones anteriores cuando hablamos de salud mental y masculinidades?
+Women have historically created spaces of sisterhood. Perhaps we need to create more spaces of brotherhood: places where closeness, care, and vulnerability are legitimate.
 
-**MJFF:** Yo, en contra de algunos discursos predominantes, soy bastante optimista.
 
-Lo que encuentro cuando trabajo con jóvenes es, sobre todo, diversidad. Hay jóvenes que reproducen discursos profundamente misóginos, pero también hay muchos otros que hablan con naturalidad de salud mental, que entienden la diversidad afectivo-sexual como algo normal y que muestran una sensibilidad social que difícilmente encontrábamos hace unas décadas.
+It is these spaces that allow us, symbolically, to unplug the refrigerator.
 
-A veces las posiciones más extremas hacen mucho ruido y parecen representar a toda una generación, pero mi experiencia cotidiana no refleja eso.
 
-Lo digo también desde una experiencia personal. Cuando yo era adolescente sufrí una depresión y tuve que vivirla prácticamente en la clandestinidad. No hablaba de ello en el instituto. No podía decir con normalidad que acudía a un psiquiatra. Existía una sensación de vergüenza asociada al hecho de necesitar ayuda.
+# **Generational Differences, the "Manosphere," and Young People Caught Between Discourses**
 
-Hoy veo a muchos jóvenes que hablan con mucha más naturalidad sobre estas cuestiones. Ir al psicólogo o a la psicóloga ya no se percibe necesariamente como algo excepcional o estigmatizante.
 
-Por supuesto siguen existiendo dificultades y contradicciones, pero hay cambios culturales importantes que no deberíamos ignorar.
+## **A More Diverse Generation Than We Realize**
 
-Tampoco recuerdo haber escuchado en mi adolescencia conversaciones sobre género, desigualdad o masculinidades. Yo llegué a estas cuestiones mucho más tarde, prácticamente en la universidad.
 
-Por eso hablo de optimismo. No porque los problemas hayan desaparecido, sino porque veo más herramientas, más lenguajes y más posibilidades de reflexión que las que existían cuando yo era joven.
+**Question:** There’s often talk of an increasingly polarized youth. However, you work with teenagers and young adults every day. What differences do you observe compared to previous generations when it comes to mental health and masculinities?
 
-En nuestro trabajo reciente con jóvenes dentro del proyecto SoReDi, centrado en bienestar juvenil, inteligencia artificial y entornos digitales, nos hemos encontrado con una preocupación recurrente. Solemos analizar la manosfera por sus efectos sobre las mujeres o sobre la convivencia democrática, pero hablamos mucho menos de cómo puede afectar a los propios chicos que habitan esos espacios. ¿Reconoces en tu trabajo situaciones en las que jóvenes se sientan presionados por determinados modelos de masculinidad promovidos por la manosfera? ¿Qué formas de malestar, inseguridad o sufrimiento pueden generar estos discursos en quienes intentan encajar en ellos?
 
-**MJFF:** Sí, absolutamente. Y creo que es una realidad bastante transversal en buena parte de Occidente. Lo primero que debemos reconocer es que existe una dimensión estructural del problema. Estamos hablando de entornos digitales gobernados por algoritmos extremadamente eficaces para captar atención y reforzar determinadas narrativas.
+**MJFF:** Contrary to some prevailing narratives, I’m actually quite optimistic.
 
-Es muy fácil encontrarse con contenidos vinculados a la manosfera. No hace falta buscarlos activamente. El algoritmo funciona muy bien. Ahí existe una responsabilidad que excede a los individuos. Estamos hablando de grandes plataformas tecnológicas y de decisiones empresariales que tienen efectos profundos sobre la socialización de los jóvenes.
 
-Pero también creo que debemos ser capaces de hacer autocrítica. Quizás algunas estrategias educativas o igualitarias no siempre han sido las más acertadas. Tal vez en ocasiones no hemos medido bien los tiempos o las formas.
+What I find when working with young people is, above all, diversity. There are young people who perpetuate deeply misogynistic narratives, but there are also many others who speak naturally about mental health, who view affective and sexual diversity as normal, and who demonstrate a social sensitivity that was hard to find a few decades ago.
 
-Durante los últimos años se han intentado impulsar cambios culturales muy profundos en relativamente poco tiempo. Mientras tanto, los discursos neomachistas se han organizado rápidamente y han construido relatos simples, emocionalmente eficaces y muy atractivos para determinados jóvenes.
+Sometimes the most extreme positions make a lot of noise and seem to represent an entire generation, but my day-to-day experience doesn’t reflect that.
 
-Eso ha provocado que algunos chicos vivan ciertos espacios educativos como lugares donde se les acusa antes de escucharles.
 
-Y cuando una persona siente que está siendo juzgada, difícilmente se abre a la reflexión.
+I’m also speaking from personal experience. When I was a teenager, I suffered from depression and had to live with it practically in secret. I didn’t talk about it in high school. I couldn’t just casually say that I was seeing a psychiatrist. There was a sense of shame associated with needing help.
 
-# **Entender antes que juzgar**
 
-**Pregunta:** ¿Qué crees que hemos aprendido trabajando con hombres y jóvenes que puede ayudarnos a responder a este fenómeno?
+Today, I see many young people talking much more naturally about these issues. Seeing a psychologist is no longer necessarily seen as something unusual or stigmatizing.
 
-**MJFF:** Hay una lección muy importante que aprendimos trabajando con hombres que ejercen violencia.
 
-Nosotros no justificamos la violencia. Pero intentamos comprenderla.
+Of course, difficulties and contradictions still exist, but there are significant cultural shifts that we shouldn’t ignore.
 
-Comprender no significa excusar. Significa entender los procesos que han llevado a una persona a actuar de determinada manera para poder intervenir sobre ellos.
 
-Si no entendemos cómo se construyen determinadas conductas, difícilmente podremos transformarlas.
+Nor do I recall hearing conversations about gender, inequality, or masculinities during my adolescence. I didn’t come to these issues until much later, practically in college.
 
-Creo que algo parecido ocurre con muchos jóvenes que hoy se sienten atraídos por discursos de la manosfera.
 
-Antes de señalar o responsabilizar, necesitamos comprender qué necesidades están intentando cubrir, qué malestares están expresando y qué preguntas están intentando responder.
+That’s why I speak of optimism. Not because the problems have disappeared, but because I see more tools, more ways of expressing ourselves, and more opportunities for reflection than there were when I was young.
 
-Después podremos trabajar la responsabilidad.
+In our recent work with young people as part of the SoReDi project—which focuses on youth well-being, artificial intelligence, and digital environments—we have encountered a recurring concern. We often analyze the manosphere for its effects on women or on democratic coexistence, but we talk much less about how it might affect the young men who inhabit those spaces themselves. Do you recognize situations in your work where young men feel pressured by certain models of masculinity promoted by the manosphere? What forms of distress, insecurity, or suffering can these discourses generate in those who try to conform to them?
 
-Pero si invertimos el orden, el diálogo se vuelve mucho más difícil.
 
-Por eso creo tanto en la creación de espacios seguros. Espacios donde un chico pueda expresar su malestar sin sentirse inmediatamente etiquetado o juzgado.
+**MJFF:** Yes, absolutely. And I think this is a reality that cuts across much of the Western world. The first thing we must acknowledge is that there is a structural dimension to the problem. We’re talking about digital environments governed by algorithms that are extremely effective at capturing attention and reinforcing certain narratives.
 
-No porque todo lo que diga sea correcto, sino porque sólo desde ahí puede comenzar una reflexión significativa.
+It’s very easy to come across content linked to the manosphere. You don’t even have to actively search for it. The algorithm works very well. There’s a responsibility here that goes beyond individuals. We’re talking about major tech platforms and business decisions that have profound effects on the socialization of young people.
 
-# **La manosfera y los "mensajes hamburguesa"**
+But I also believe we must be capable of self-criticism. Perhaps some educational or egalitarian strategies have not always been the most effective. Maybe at times we haven’t judged the timing or the approach correctly.
 
-**Pregunta:** ¿Qué hace tan atractivos estos discursos para algunos jóvenes?
 
-**MJFF:** Porque ofrecen soluciones sencillas a problemas muy complejos. La manosfera funciona muy bien emocionalmente. Construye espacios donde muchos chicos sienten que alguien les escucha, les entiende y no les cuestiona de entrada. Además ofrece explicaciones rápidas y fácilmente consumibles. La periodista Carmen Ruiz utiliza una expresión que me parece muy acertada: los llama "mensajes hamburguesa". Son mensajes fáciles de consumir, rápidos, inmediatos y emocionalmente eficaces.
+In recent years, there have been attempts to drive very profound cultural changes in a relatively short period of time. Meanwhile, neo-macho discourses have rapidly gained traction and constructed simple, emotionally compelling narratives that are highly appealing to certain young people.
 
-La reflexión crítica funciona de otra manera. Necesita tiempo.Necesita contexto. Necesita complejidad. Necesita contradicciones.
+This has led some young men to experience certain educational settings as places where they are accused before they are even heard.
 
-Y eso resulta mucho menos atractivo en un ecosistema digital diseñado para premiar la inmediatez.
+And when a person feels they are being judged, they are unlikely to be open to reflection.
 
-Por eso el reto no consiste únicamente en desmontar esos discursos. También consiste en construir espacios alternativos que resulten significativos, acogedores y emocionalmente relevantes para los jóvenes.
+# **Understand Before Judging**
 
-# **Construir antifragilidad democrática**
+**Question:** What do you think we’ve learned from working with men and young people that can help us address this phenomenon?
 
-**Pregunta:** Si pensamos en jóvenes que quieren resistir esa presión de la manosfera, ¿cómo se construye esa capacidad crítica o esa especie de antifragilidad?
+**MJFF:** There’s a very important lesson we learned from working with men who commit acts of violence.
 
-**MJFF:** Yo parto de una idea bastante sencilla: la mayoría de los jóvenes quieren ser buenas personas. A veces olvidamos eso.
+We don’t justify violence. But we try to understand it.
 
-La inmensa mayoría no desea hacer daño deliberadamente ni construir relaciones basadas en la violencia o la dominación. Lo que ocurre es que necesitan espacios donde poder explorar sus dudas y contradicciones. Por eso es tan importante generar comunidades de confianza.
+Understanding doesn’t mean excusing. It means understanding the processes that have led a person to act in a certain way so that we can address them.
 
-Hay experiencias muy interesantes que trabajan precisamente en esa dirección. Pienso, por ejemplo, en iniciativas como [Broders](https://broders.es/), impulsada por Leonel Delgado, que crea espacios seguros donde los chicos pueden hablar de sus experiencias sin sentirse permanentemente examinados.
+If we don’t understand how certain behaviors are formed, we’ll have a hard time changing them.
 
-Desde ahí se puede construir reflexión.
+I think something similar happens with many young people today who are drawn to the rhetoric of the manosphere.
 
-Y después vienen las herramientas: la educación emocional, la comunicación, la gestión de conflictos, la construcción de identidades más flexibles o la cultura de los cuidados. No estamos inventando algo completamente nuevo. Disponemos de décadas de experiencia sobre cómo fortalecer personas y comunidades. La cuestión es cómo hacer que esas herramientas resulten tan accesibles y emocionalmente atractivas como los discursos simplificados que circulan hoy por las redes.
 
-### **Los músculos que se están atrofiando**
+Before pointing fingers or assigning blame, we need to understand what needs they’re trying to meet, what discomforts they’re expressing, and what questions they’re trying to answer.
 
-**Pregunta:** ¿Qué músculos emocionales y democráticos se atrofian cuando predominan modelos basados en la competición, la dominación o el individualismo?
 
-**MJFF:** Creo que se atrofian precisamente aquellos músculos que nos permiten reconocer nuestra interdependencia. La confianza, la cooperación, la capacidad de pedir ayuda, la capacidad de ofrecerla, la empatía, la escucha y la posibilidad de vernos reflejados en los demás. Cuando todo se reduce a competir o a sobrevivir individualmente, esos músculos dejan de ejercitarse. Y una sociedad donde predomina la desconfianza es también una sociedad mucho más fácil de manipular.
+Then we can address the issue of responsibility.
 
-Por eso me preocupa que las respuestas a problemas profundamente colectivos se formulen cada vez más en términos individuales. Parece que todas las soluciones pasan por el trabajo personal, por la mejora individual o por la autooptimización. Sin embargo, los grandes desafíos que enfrentamos requieren precisamente aquello que estamos dejando de practicar: la capacidad de construir comunidad, generar confianza mutua y sostener espacios compartidos.
 
-### **El músculo del cuidado**
+But if we reverse the order, dialogue becomes much more difficult.
 
-**Pregunta:** Has hablado de cuidados y confianza. ¿Cómo se traduce eso en una musculatura democrática concreta?
 
-**MJFF:** Hace pocas semanas estaba trabajando con jóvenes en un instituto de Calvià y les pregunté qué significaba para ellos sentirse cuidados. Un chico respondió algo muy sencillo: “Me siento cuidado cuando alguien me dedica tiempo”. Me pareció una respuesta muy potente porque nos recuerda que el cuidado no es únicamente protección. También es presencia, atención y disponibilidad.
+That’s why I believe so strongly in creating safe spaces—spaces where a young man can express his discomfort without immediately feeling labeled or judged.
 
-Vivimos en una sociedad acelerada que nos empuja constantemente a producir, correr y pasar a la siguiente tarea. En ese contexto, dedicar tiempo a otra persona se convierte en un acto profundamente contracultural. Por eso creo que una parte fundamental de la musculatura democrática tiene que ver con recuperar la capacidad de dedicar tiempo: tiempo para escuchar, para comprender, para encontrarnos y para construir vínculos duraderos.
 
-—-
+Not because everything he says is correct, but because only from that starting point can meaningful reflection begin.
 
-# **La democracia en el diván**
 
-En la parte final de la conversación propusimos a Miquel Joan Far Ferrer un ejercicio inspirado en la filósofa y psicoanalista Cynthia Fleury y en su reflexión sobre las patologías de la democracia. Le pedimos que imaginara que la democracia misma llamaba a la puerta de su consulta buscando ayuda profesional.
+# **The “manosphere” and “hamburger messages”**
 
-## **Si la democracia entrara en tu consulta...**
 
-**Pregunta:** Imagina que un día llaman a la puerta de tu consulta y quien entra no es una persona cualquiera, sino la propia democracia. ¿Qué impresión te causaría al verla?
+**Question:** What makes this kind of discourse so appealing to some young people?
 
-**MJFF:** Lo primero que me surge es que probablemente no la vería como una figura femenina, como solemos representarla habitualmente. Tengo la sensación de que la democracia ha ido incorporando muchos mandatos tradicionalmente asociados a la masculinidad. Me la imagino como alguien que ha intentado sostener determinadas expectativas, determinados roles y determinadas responsabilidades durante mucho tiempo y que ahora ya no sabe muy bien dónde situarse.
 
-La sensación principal sería la de una persona profundamente desubicada. Alguien que ya no tiene claro cuál es su papel, qué esperan de ella o cómo puede seguir contribuyendo a la sociedad. Y eso inevitablemente genera sufrimiento.
+**MJFF:** Because it offers simple solutions to very complex problems. The manosphere works very well on an emotional level. It creates spaces where many young men feel that someone is listening to them, understands them, and doesn’t question them right off the bat. It also offers quick, easily digestible explanations. Journalist Carmen Ruiz uses an expression that I find very apt: she calls them “hamburger messages.” They’re messages that are easy to consume—quick, immediate, and emotionally effective.
 
-La percibo razonablemente perdida, con una enorme sensación de incertidumbre respecto a su lugar en el mundo.
+Critical reflection works differently. It takes time. It requires context. It requires complexity. It requires contradictions.
 
-**Pregunta:** ¿Cómo la verías físicamente?
 
-**MJFF:** Curiosamente me la imagino con la espalda encorvada.
+And that’s much less appealing in a digital ecosystem designed to reward immediacy.
 
-Como alguien que se va cerrando poco a poco sobre sí mismo. Una postura corporal que transmite cansancio, desgaste y cierta pérdida de confianza.
 
-No veo una democracia erguida o segura de sí misma. La veo más bien intentando protegerse.
+That’s why the challenge isn’t just about debunking those narratives. It’s also about building alternative spaces that are meaningful, welcoming, and emotionally relevant to young people.
 
-## **Un diagnóstico provisional**
 
-**Pregunta:** Si tuvieras que hacer una primera evaluación psicológica de la democracia contemporánea, ¿qué observarías?
+# **Building Democratic Antifragility**
 
-**MJFF:** Observaría sobre todo una gran desorientación.
 
-También una profunda sensación de desconfianza. Da la impresión de que haga lo que haga, una parte importante de la sociedad ya no confía en ella. Como si cualquier intento de intervención fuera recibido con sospecha.
+**Question:** If we think about young people who want to resist that pressure from the manosphere, how do we build that critical capacity or that kind of antifragility?
 
-Eso genera una especie de indefensión aprendida. La sensación de que nada de lo que haga va a resultar suficiente.
 
-La percibo cansada, confundida y con dificultades para encontrar espacios donde poder reconstruirse.
+**MJFF:** I start from a fairly simple idea: most young people want to be good people. Sometimes we forget that.
 
-No sé si hablaría exactamente de una depresión, pero sí de una combinación de desorientación, pesimismo y agotamiento.
 
-## **La terapia: volver a encontrarse**
+The vast majority do not want to deliberately cause harm or build relationships based on violence or domination. What happens is that they need spaces where they can explore their doubts and contradictions. That’s why it’s so important to build communities of trust.
 
-**Pregunta:** ¿Qué tratamiento recomendarías?
+There are some very interesting initiatives that are moving precisely in that direction. I’m thinking, for example, of initiatives like [Broders](https://broders.es/), led by Leonel Delgado, which creates safe spaces where young people can talk about their experiences without feeling constantly scrutinized.
 
-**MJFF:** Lo primero sería generar espacios de encuentro.
 
-Y no me refiero a encuentros superficiales o apresurados, sino a espacios construidos sobre determinadas condiciones: escucha, respeto, comprensión, alteridad y capacidad para convivir con perspectivas diferentes.
+From there, reflection can take root.
 
-Creo que la democracia necesita volver a experimentar la posibilidad del encuentro.
 
-Porque una parte importante de su sufrimiento tiene que ver con la fragmentación y con la imposibilidad de sostener conversaciones significativas entre personas que piensan distinto.
+And then come the tools: emotional education, communication, conflict management, the development of more flexible identities, and a culture of care. We aren’t inventing something completely new. We have decades of experience in how to strengthen people and communities. The question is how to make those tools as accessible and emotionally appealing as the simplified narratives circulating on social media today.
 
-También creo que necesitaría alejarse parcialmente de algunos ritmos que hoy parecen inevitables.
+### **The Muscles That Are Atrophying**
 
-Vivimos bajo una lógica de aceleración permanente. Todo tiene que ser inmediato. Todo tiene que producir resultados visibles rápidamente. Y eso es profundamente incompatible con muchos procesos democráticos.
+**Question:** Which emotional and democratic muscles atrophy when models based on competition, domination, or individualism predominate?
 
-## **La cuestión del tiempo**
+**MJFF:** I believe that the very muscles that allow us to recognize our interdependence are atrophying. Trust, cooperation, the ability to ask for help, the ability to offer it, empathy, listening, and the ability to see ourselves reflected in others. When everything boils down to competing or surviving as individuals, those muscles stop getting exercised. And a society where mistrust prevails is also a society that’s much easier to manipulate.
 
-**Pregunta:** Has mencionado varias veces el tiempo. ¿Crees que la democracia necesita más tiempo?
 
-**MJFF:** Sin duda.
+That’s why I’m concerned that responses to deeply collective problems are increasingly framed in individual terms. It seems that all solutions revolve around personal work, individual improvement, or self-optimization. However, the major challenges we face require precisely what we’re failing to practice: the ability to build community, foster mutual trust, and sustain shared spaces.
 
-Y además ocurre algo paradójico: cuando concedemos el tiempo necesario a los procesos, muchas veces terminamos llegando antes.
+### **The Muscle of Care**
 
-La obsesión por acelerar suele generar más ruido, más conflictos y más errores.
+**Question:** You’ve spoken about care and trust. How does that translate into concrete democratic muscles?
 
-La democracia necesita tiempo para escuchar, para comprender, para deliberar y para construir confianza. Sin esos tiempos, los procesos se vacían de contenido y terminan convirtiéndose en procedimientos.
 
-Por eso me parece tan importante recuperar una relación más sana con el tiempo.
+**MJFF:** A few weeks ago, I was working with young people at a high school in Calvià, and I asked them what it meant to them to feel cared for. One boy gave a very simple answer: “I feel cared for when someone spends time with me.” I found that to be a very powerful response because it reminds us that care isn’t just about protection. It’s also about presence, attention, and availability.
 
-## **Relaciones tóxicas**
 
-**Pregunta:** Si la democracia estuviera en una relación de pareja, ¿dirías que mantiene actualmente relaciones tóxicas con los medios, las redes sociales o las grandes plataformas tecnológicas?
-
-**MJFF:** Sí, porque existe un desequilibrio enorme de poder.
-
-La democracia ya no ocupa necesariamente el centro de la conversación pública. Tiene que competir constantemente con actores que disponen de más recursos, más velocidad y, en muchos casos, más capacidad de influencia emocional.
-
-Cuando hablamos de plataformas digitales o de determinados liderazgos autoritarios, da la sensación de que la democracia juega siempre en desventaja.
-
-No dispone del mismo tiempo, ni de la misma capacidad de captar atención, ni de la misma facilidad para construir relatos simples.
-
-Por eso la relación me parece profundamente desigual.
-
-En ocasiones incluso parece que la democracia tenga que pedir permiso para existir dentro de espacios que antes le pertenecían.
-
-## **¿Puede recuperarse?**
-
-**Pregunta:** Después de todo lo que hemos hablado, ¿eres optimista respecto a su recuperación?
-
-**MJFF:** Sí.
-
-Porque si no fuera optimista probablemente no podría dedicarme a esto.
-
-La democracia sigue teniendo una enorme capacidad de transformación. Lo que ocurre es que necesita recuperar algunas cosas que ha ido perdiendo por el camino: confianza, tiempo, espacios de encuentro y cultura de los cuidados.
-
-Creo que seguimos necesitando más democracia, no menos.
-
-Pero probablemente una democracia más capaz de escuchar, de cuidarse y de reconocer su propia vulnerabilidad.
-
-Quizá el primer paso para recuperarse sea precisamente aceptar que también puede sentirse perdida.
-
-Este bloque funciona especialmente bien porque conecta tres temas que atraviesan toda la entrevista: la vulnerabilidad masculina, la cultura de los cuidados y la salud democrática. La imagen de la democracia con la espalda encorvada y desubicada es probablemente una de las metáforas más potentes que aparecieron en la conversación.
+We live in a fast-paced society that constantly pushes us to produce, rush, and move on to the next task. In that context, dedicating time to another person becomes a profoundly countercultural act. That’s why I believe that a fundamental part of building democratic strength has to do with regaining the ability to dedicate time: time to listen, to understand, to connect with one another, and to build lasting bonds.
