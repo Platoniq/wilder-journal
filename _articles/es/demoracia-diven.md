@@ -1,7 +1,7 @@
 ---
 layout: article
 volume-uid: wilder-journal-3
-category: futures
+category: stories
 published: true
 featured: false
 date: 2026-08-06T10:11:00.000+02:00
@@ -26,7 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-08-06-a-las-10.16.06.png
 ---
 En la parte final de la conversación con Miquel Joan Far Ferrer (LINK A LA ENTREVISTA) un ejercicio inspirado en la filósofa y psicoanalista Cynthia Fleury y en su reflexión sobre las patologías de la democracia. Le pedimos que imaginara que la democracia misma llamaba a la puerta de su consulta buscando ayuda profesional.
 
