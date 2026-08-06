@@ -59,6 +59,8 @@ Suena sólido e inevitable. Limpio. Despliegas el contrato inteligente y te vas,
 
 Mi primera sesión fue un taller con el Democratic Tech Fund sobre cómo gobernar tecnologías democráticas: nos lanzaron directamente a un juego de rol: *Running the Bases of Democratic Tech.*
 
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-07-26.jpg"}] } %}
+
 Todo el mundo pasó a formar parte de un ecosistema vivo: comunidades, mantenedores, desarrolladores, financiadores, instituciones, cuidadores. A medida que la gente avanzaba de base en base, las crisis llegaban sin avisar: burnout, una subvención que desaparecía, una institución opaca que no respondía, una comunidad cuyas necesidades cambiaban de la noche a la mañana, colaboradores que dejaban de hablarse. Nadie "ganaba" por llegar a home. Si acaso, quienes llegaban antes solían ser justo los que acababan de abandonar a alguien en segunda base. La idea era sentir, en el cuerpo, que sostener infraestructura democrática no es un problema de optimización técnica. Es una negociación continua de cuidado.
 
 La gobernanza empezó a sentirse como una coreografía: del tipo que hay que seguir bailando, no del tipo que se puede congelar en un gráfico, plastificar y colgar en un documento de Notion que nadie vuelve a abrir.
@@ -74,6 +76,8 @@ Pero basta con pararse en cualquier DAO que haya sobrevivido a su primer vaciado
 El código no resuelve el desacuerdo, solo lo traslada a un lugar menos visible: a quién escribió el contrato, quién tiene las llaves de administrador, quién decide si un resultado es un "bug" o una "feature" según a quién favorezca. Qué casualidad que el bug siempre parezca favorecer a quien tiene las llaves. Eso no es ley. Eso es política con sudadera con capucha que se hace llamar "sin confianza".
 
 ## **Goteo ya nos enseñó esto antes que cualquier DAO**
+
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-05-43.jpg"}] } %}
 
 En Platoniq llevamos años viendo esto. Goteo parece, desde fuera, la misma fantasía de automatización: publicas un objetivo, pones un plazo, dejas que la plataforma reparta los fondos cuando se supera el umbral. El código como ley, en formato barra de progreso.
 
@@ -103,6 +107,8 @@ Este no es solo un argumento de Platoniq ni un ejercicio de taller. También est
 
 **PolicyKit** es la réplica a "el código simplemente ejecuta las reglas". Sustituye las jerarquías bruscas de admin y usuario por políticas que las propias comunidades redactan: votos por mayoría, procedimientos de voto clasificatorio, juntas designadas, incluso una opción de "dictador benevolente" elegida deliberadamente, lo cual resulta refrescantemente honesto comparado con las DAO que instalan uno por accidente y lo llaman descentralización. Inspirado en el trabajo de Ostrom sobre gobernanza policéntrica, PolicyKit trata la gobernanza como algo que se escribe, se discute y se reescribe en pequeños scripts, no como algo que deja de ser un objeto político en el momento en que se despliega y todo el mundo vuelve a discutir sobre las comisiones de gas.
 
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-04-40.jpg"}] } %}
+
 **El Metagov Gateway** es la plomería poco glamurosa que hace que todo esto sea portátil: una capa de API abierta que conecta herramientas de toma de decisiones (sistemas de voto, jurados, puntuaciones de reputación, tesorerías) con las plataformas donde realmente viven las comunidades. Existe porque la interoperabilidad, no el encierro en una sola cadena o un solo estándar de contrato, es lo que permite que un común sobreviva a la muerte de una plataforma, y las plataformas mueren mucho más a menudo de lo que a los manifiestos les gustaría admitir.
 
 **CollectiveVoice**, construido sobre PolicyKit y enrutado a través del Gateway, ataca la parte que todo pitch de DAO finge tener ya resuelta: el dinero. Permite que las comunidades de Open Collective vinculen procesos de gobernanza reales (jurados, límites de mandato, asambleas deliberativas, consenso rotativo) a decisiones financieras que de otro modo quedarían detrás del inicio de sesión de un solo administrador, que es una forma bonita de decir "el portátil de una persona". Transparencia automatizada, sí. Rendición de cuentas automatizada, sí. Pero no toma de decisiones automatizada. El desembolso no lo determina una curva de bonos; es el resultado de un proceso que una comunidad eligió y puede revisar. Ese es todo el argumento, metido en un plugin que todavía nadie ha puesto en un vídeo de hype.
@@ -131,6 +137,8 @@ Ben Cerveny es presidente de la Foundation for Public Code, y su charla en DWeb,
 
 Ese bucle es su réplica a "el código es ley", planteada con más elegancia de la que este manifiesto entero ha logrado: si el software no deja de convertirse en política y la política no deja de convertirse en software, no existe ninguna versión de "despliégalo y márchate" que sobreviva al contacto con la realidad. Alguien tiene que seguir cuidando la costura donde ambos intercambian su lugar, y la respuesta de Cerveny a "quién" es refrescantemente poco glamurosa. La llama Organización de Producto Público, o PPO por sus siglas en inglés, un vehículo sin ánimo de lucro construido específicamente para custodiar un bien público digital abierto, el tipo de entidad que se convierte en centro de una constelación de socios públicos y privados en lugar de un protocolo que finge no necesitar ninguno.
 
+{% gallery { "simple": false, "images": [{"path":"/media/photo_2026-08-06_11-05-55.jpg","alt":"Ben Cerveny","caption":"Ben Cerveny","credits":"Dweb Camp 2026"}] } %}
+
 Sus diapositivas dibujaban la PPO (Organización de Producto Público,) como un hexágono, que es la forma más o menos emocionante que ha tomado jamás un diagrama de gobernanza, según tu tolerancia a las formas geométricas. Los seis lados: un modelo de gobernanza (una asamblea general de miembros que marca la hoja de ruta), un modelo financiero (cuotas de membresía más una relación con fondos estructurales de la UE y nacionales, porque alguien tiene que pagar la factura de la luz del común), una comunidad de práctica (formación de capacidades y certificación de proveedores, es decir, enseñar a la gente a usar realmente la herramienta), custodia del código (integración continua y una licencia abierta, la parte que a los ingenieros de verdad les gusta), una estructura organizativa (directores electos y un equipo central lo bastante estable como para responder correos) y sensibilización y comunicación (branding y coordinación con oficinas de contratación pública, la parte que todo el mundo olvida hasta que la ronda de financiación depende de ella). En el diagrama de red de Cerveny, la PPO se sitúa en el centro de una pequeña constelación: la Agencia Europea de Tecnología Soberana a un lado, las OSPO y las oficinas de contratación pública a otro, los EDIC como el Digital Commons EDIC a un tercero, y Horizon y otros marcos de financiación de la UE completando el resto. Es, estructuralmente, el diagrama menos "sin confianza" imaginable. Cada línea representa una relación que alguien tiene que mantener activamente, que es toda la tesis de este manifiesto convertida en un organigrama que nadie quería dibujar y que ahora todo el mundo necesita.
 
 Aquí viene la parte que me hizo enderezarme en mi silla plegable de DWeb Camp: Cerveny está describiendo, en lenguaje de política europea y con un acrónimo recién estrenado, algo que Platoniq y sus vecinos europeos llevan una década operando sin esperar a que ningún programa de subvenciones les diera su bendición.
@@ -148,6 +156,8 @@ Si tu sistema está diseñado para que nadie tenga que volver a presentarse nunc
 Pregúntate qué pasa en tu sistema cuando las reglas resultan estar equivocadas. No hackeadas. Equivocadas. Escritas de buena fe para unas condiciones que ya no se sostienen. Si la respuesta honesta es "hacemos un fork y empezamos de cero", no has construido gobernanza. Has construido un dispensador de reglas con pasos extra, externalizando el trabajo político real a la facción que esté dispuesta a hacer el trabajo sucio de coordinar un fork mientras todos los demás lo comentan en redes desde la barrera.
 
 ## **La Frontera Real**
+
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-04-55.jpg"}] } %}
 
 Lo cual me lleva a mi segunda sesión en DWeb, que abrió con su propia provocación: ¿qué tecnología puede proteger la democracia, o desmantelarla, y sin embargo está casi ausente de las conversaciones en DWeb?
 

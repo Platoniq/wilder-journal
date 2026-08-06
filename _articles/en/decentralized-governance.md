@@ -58,6 +58,8 @@ It's also a trap, and DWeb Camp is exactly the place to say so out loud. I spent
 
 My first session was a workshop with the Democratic Tech Fund on governing democratic technologies. We didn't open with governance models or org charts. Mercifully, because nothing kills a room faster than a slide titled "Stakeholder Matrix." We dropped people straight into a role-playing game instead: *Running the Bases of Democratic Tech.*
 
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-07-26.jpg"}] } %}
+
 Everyone became part of a living ecosystem: communities, maintainers, developers, funders, institutions, stewards. As they moved from base to base, crises hit without warning: burnout, a grant that vanished, an opaque institution stonewalling, a community whose needs shifted overnight, contributors who stopped speaking to each other. Nobody "won" by reaching home. If anything, the people who reached home fastest were usually the ones who'd just abandoned someone at second base. The point was to feel, in your body, that sustaining democratic infrastructure isn't a technical optimization problem. It's a continuous negotiation of care, legitimacy, responsibility, ownership, and trust, and also, occasionally, of who forgot to pass the funding memo.
 
 Governance stopped looking like a diagram. It started to feel like choreography: the kind you have to keep dancing, not the kind you can freeze into a chart, laminate, and hang in a Notion doc no one opens again.
@@ -77,6 +79,8 @@ Code doesn't resolve disagreement. It moves the disagreement somewhere less visi
 That's not law. That's politics wearing a hoodie and calling itself trustless.
 
 ## **Goteo Taught Us This Before Any DAO Did**
+
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-05-43.jpg"}] } %}
 
 At Platoniq, we've watched this play out with money, not just governance theater, and we got there years before anyone had minted a governance token to argue about. A civic crowdfunding campaign on Goteo looks, from the outside, like the same automation fantasy: post a goal, set a deadline, let the platform disburse funds when the threshold clears. Code is law, deployed as a progress bar.
 
@@ -105,6 +109,8 @@ This isn't only a Platoniq argument or a workshop exercise. It's showing up in w
 **D20 Governance** takes the least sacred format imaginable, a Discord bot, a tabletop-style "quest," and uses it to force communities to *feel* modular decision-making before they encode it. Groups embark on quests deciding their name, purpose, and way of speaking, using "culture modules" that scramble the default admin-user hierarchy Metagov researchers call "implicit feudalism," a term that should honestly be printed on a T-shirt and worn to every "flat hierarchy" startup all-hands. It's the same instinct as Running the Bases: rehearse the governance before you calcify it into code, ideally with dice involved.
 
 **PolicyKit** is the rebuttal to "the code just executes the rules." It replaces blunt admin/user hierarchies with policies communities author themselves: majority votes, ranked-choice procedures, designated boards, even a deliberately chosen "benevolent dictator" option, which is refreshingly honest compared to the DAOs that install one by accident and call it decentralization. Inspired by Ostrom's polycentric governance work, PolicyKit treats governance as something written, contested, and rewritten in short scripts, not something that gets to stop being a political object the moment it's deployed and everyone goes back to arguing about gas fees instead.
+
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-04-40.jpg"}] } %}
 
 **The Metagov Gateway** is the unglamorous plumbing that makes any of this portable: an open API layer connecting decision-making tools (voting systems, juries, reputation scores, treasuries) to the platforms where communities actually live. It exists because interoperability, not lock-in to one chain or one contract standard, is what lets a commons survive a platform's death, and platforms die a lot more often than manifestos would like to admit.
 
@@ -140,6 +146,8 @@ His framing is disarmingly simple: humans invent things, and for the first thirt
 
 That loop is his rebuttal to "code is law" stated more elegantly than this entire manifesto has managed: if software keeps turning into policy and policy keeps turning back into software, there is no version of "deploy it and walk away" that survives contact with reality. Somebody has to keep stewarding the seam where the two keep swapping places, and Cerveny's answer to "who" is refreshingly unglamorous. He calls it a Public Product Organization, or PPO, a nonprofit vehicle built specifically to steward an open digital public asset, the kind of entity that becomes a hub for a constellation of public and private partners instead of a protocol that pretends it doesn't need any.
 
+{% gallery { "simple": false, "images": [{"path":"/media/photo_2026-08-06_11-05-55.jpg","alt":"Ben Cerveny","caption":"Ben Cerveny","credits":"Dweb Camp 2026"}] } %}
+
 His slides drew the PPO as a hexagon, which is either the most or least exciting shape a governance diagram has ever taken, depending on your tolerance for shapes. The six sides: a governance model (a general assembly of members setting a roadmap), a financial model (membership fees plus a relationship with EU and national structural funding, because somebody has to pay the electricity bill for the commons), a community of practice (capacity building and vendor certification, i.e., teaching people how to actually use the thing), codebase stewardship (continuous integration and an open license, the part engineers actually enjoy), an organizational structure (elected directors and a core team stable enough to answer email), and awareness and communications (branding and coordination with public procurement offices, the part everyone forgets until the funding round depends on it). Notice how little of this hexagon is code. Most of it is paperwork with opinions, which is exactly the point.
 
 And there's a rule that should be tattooed on every "one chain to rule them all" roadmap: a PPO needs at least three implementing public administrations, plus their local dev vendors, before it counts. Not one visionary mayor. Not one captured agency. Three, minimum, so that no single institution's political mood swing can take the whole thing down. In Cerveny's network diagram, the PPO sits at the center of a small constellation: the European Sovereign Tech Agency on one side, OSPOs and public procurement offices on another, EDICs like the Digital Commons EDIC on a third, and Horizon and other EU funding frameworks filling out the rest. It is, structurally, the least "trustless" diagram imaginable. Every line on it is a relationship somebody has to actively maintain, which is the entire thesis of this manifesto rendered as an org chart nobody wanted to draw and everybody now needs.
@@ -159,6 +167,8 @@ So here's the uncomfortable question for every DAO tokenomics deck and every "go
 Ask what happens in your system when the rules turn out to be wrong. Not hacked. Wrong. Written in good faith for conditions that no longer hold. If the honest answer is "we fork and start over," you haven't built governance. You've built a rules dispenser with extra steps, outsourcing the actual political labor to whichever faction is willing to do the ugly work of coordinating a fork while everyone else tweets about it from the sidelines.
 
 ## **The Actual Frontier**
+
+{% gallery { "simple": true, "images": [{"path":"/media/photo_2026-08-06_11-04-55.jpg"}] } %}
 
 Which brings me to my second DWeb session, which opened with a provocation of its own: which technology can protect democracy, or dismantle it, yet is almost absent from DWeb conversations?
 
