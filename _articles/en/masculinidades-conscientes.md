@@ -8,6 +8,11 @@ date: 2026-08-06T10:08:00.000+02:00
 date-updated: 2026-08-06T10:08:00.000+02:00
 article-order: 1
 uid: masculinidades-conscientes
+title: Egalitarian Masculinities, Mental Health, Loneliness, and Democracy
+description: Interview with Miquel Joan Far Ferrer
+author: Olivier Schulbaum
+author_uids:
+  - olivier-schulbaum
 interviewee: Miquel Joan Far Ferrer
 cover:
   path: /media/articles/heroes/chatgpt-image-6-ago-2026-10_08_22.png
