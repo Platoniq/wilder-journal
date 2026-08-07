@@ -141,6 +141,8 @@ Y, sobre todo, cuando se empieza a hablar de algo como la democracia europea, la
 
 La dificultad radica en que la interseccionalidad no nos indica necesariamente cómo poner en práctica cada una de esas dimensiones. Se puede crear un conjunto de datos en el que el género se reduzca a «mujer/hombre», la raza a «negro/blanco» y la discapacidad a «sin discapacidad/con discapacidad», combinar esas categorías y calificar el resultado de interseccional. Técnicamente, se están cruzando múltiples dimensiones, pero cada dimensión individual sigue siendo completamente binaria. Así pues, el problema no ha desaparecido realmente.
 
+{% quote %}Mi argumento es que cada ámbito necesita su propia operacionalización situada y relevante en su contexto. A veces eso podría adoptar la forma de un diamante, pero no creo que el diamante sea de aplicación universal.{% endquote %}
+
 Mi argumento es que cada ámbito necesita su propia operacionalización situada y relevante en su contexto. A veces eso podría adoptar la forma de un diamante, pero no creo que el diamante sea de aplicación universal.
 
 En el caso del sexo biológico, por ejemplo, ¿podría realmente construir exactamente la misma estructura de dos ejes? No lo sé. No soy médico y no sé lo suficiente sobre la intersexualidad como para afirmarlo.

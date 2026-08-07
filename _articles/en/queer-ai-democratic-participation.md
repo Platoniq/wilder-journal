@@ -139,6 +139,8 @@ You need some kind of framework that allows those nuances to exist.
 
 The difficulty is that intersectionality does not necessarily tell us how to operationalise each of those dimensions. You can create a dataset where gender is reduced to “woman/man”, race to “Black/white”, disability to “able/disabled”, combine those categories and call the result intersectional. Technically, you are crossing multiple dimensions, but each individual dimension remains completely binary. So the problem has not really disappeared.
 
+{% quote %}My argument is that each realm needs its own situated and contextually relevant operationalisation. Sometimes that might take the form of a diamond, but I don’t think the diamond is universally applicable.{% endquote %}
+
 My argument is that each realm needs its own situated and contextually relevant operationalisation. Sometimes that might take the form of a diamond, but I don’t think the diamond is universally applicable.
 
 For biological sex, for example, could I really build exactly the same two-axis structure? I don’t know. I’m not a medical doctor, and I don’t know enough about intersexuality to claim that.
