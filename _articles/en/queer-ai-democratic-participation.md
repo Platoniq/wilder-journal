@@ -225,6 +225,8 @@ But it is not necessarily a comfortable moment. Sometimes there is guilt. You ma
 
 Sometimes there is also rejection. I have had exhibitions where people interfered with the work, almost vandalised it, although sometimes in more subtle ways. So perhaps I have some enemies. But maybe that also means the message is strong enough to provoke something.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.44.54.png","alt":"Visualisation of four gender spectra from diferent cultures","caption":"Visualisation of four gender spectra from diferent cultures","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
 ### **And not every kind of hybridity seems to generate the same resistance.**
 
 **Fe:** Exactly. The mixing of linguistic identities is relatively easy for many people to accept. You can say somebody is bilingual and people generally understand that.
