@@ -93,7 +93,7 @@ There, you have this very strong conversation around being an Italian speaker or
 
 And there are also horrible bureaucratic situations. Perhaps your degree is in German and, because of that, you cannot do something within the Italian part of the system, or vice versa. So what appears to be a stable category starts to become unstable once you actually listen to people.
 
-**Most of that development happened through one-to-one interviews. Have you also used these visualisations collectively?**
+### **Most of that development happened through one-to-one interviews. Have you also used these visualisations collectively?**
 
 **Fe:**When I’m developing the tools themselves, I tend to prefer one-to-one interviews. You have more control over the conversation, you can really follow one person’s perspective, and with the transcription you can understand more clearly why somebody is reacting in a particular way. 
 
@@ -103,7 +103,7 @@ I also did a similar workshop with a delegation of minority activists connected 
 
 In both cases, though, people were still working mainly on their own. And I think that matters, because if you want people to develop one of these structures collectively, they need enough shared knowledge around the same issue. They probably also need a certain degree of common ground and trust.
 
-**That brings me to deliberation. I’m interested in what non-standard data visualisation could do inside citizen assemblies or other democratic spaces. Could a model like the diamond become part of a collective deliberative process?**
+### **That brings me to deliberation. I’m interested in what non-standard data visualisation could do inside citizen assemblies or other democratic spaces. Could a model like the diamond become part of a collective deliberative process?**
 
 **Fe:** I think you have to distinguish between collectively using a diamond and collectively creating the entire system from scratch. Creating one of these systems takes a lot of time.
 
@@ -111,9 +111,9 @@ Finding the right labels, understanding how the concepts relate, deciding where 
 
 The process would probably become too chaotic. But using a visual structure that has already been developed through a participatory process could be very interesting.
 
-**That is closer to what I imagine. Citizen assemblies usually rely on sortition and try to create some kind of representative microcosm of the population. But representation there is already complicated. People without papers may not appear in the sampling frame. Migration, identity and other dimensions of difference are often treated weakly.**
+### **Citizen assemblies usually rely on sortition and try to create some kind of representative microcosm of the population. But representation there is already complicated. People without papers may not appear in the sampling frame. Migration, identity and other dimensions of difference are often treated weakly.**
 
-**Assemblies also tend to work on subjects that can supposedly be discussed by everyone: climate, mobility, urban policy. But imagine an assembly around something more difficult: sexual harassment, identity, youth mental health in relation to AI. In those cases, perhaps you first work with the people most affected, develop situated visualisations from their experiences, and then bring those structures into a wider assembly.**
+### **Assemblies also tend to work on subjects that can supposedly be discussed by everyone: climate, mobility, urban policy. But imagine an assembly around something more difficult: sexual harassment, identity, youth mental health in relation to AI. In those cases, perhaps you first work with the people most affected, develop situated visualisations from their experiences, and then bring those structures into a wider assembly.**
 
 **Fe:** Yes, that makes much more sense to me. I would not ask the assembly to create the diamond collectively. Instead, you could have a diamond that has already been designed—perhaps through interviews, workshops or other participatory methods—and then bring it into the assembly.
 
@@ -123,7 +123,7 @@ And especially when you start talking about something like European democracy, c
 
 You need some kind of framework that allows those nuances to exist.
 
-**This connects directly to intersectionality. We often say that deliberative processes should be intersectional, but once you reach data collection or actual institutional design, it becomes much more difficult.**
+### **This connects directly to intersectionality. We often say that deliberative processes should be intersectional, but once you reach data collection or actual institutional design, it becomes much more difficult.**
 
 **Fe:** This is one of the arguments behind my PhD. Intersectionality made an extremely important intervention by showing that you cannot understand power through a single dimension of identity. You need to consider gender, race, religion, disability and other dimensions together, because power operates through their combination.
 
@@ -135,13 +135,13 @@ For biological sex, for example, could I really build exactly the same two-axis 
 
 So the point is not to impose one universal visual model onto every aspect of identity. The model itself has to remain situated.
 
-**And there is another paradox. Many digital participation platforms deliberately use high levels of anonymisation, which is important for privacy. But that also means you cannot gather very meaningful intersectional information. So to understand inequality you need data, but gathering the data can itself produce vulnerability.**
+### **And there is another paradox. Many digital participation platforms deliberately use high levels of anonymisation, which is important for privacy. But that also means you cannot gather very meaningful intersectional information. So to understand inequality you need data, but gathering the data can itself produce vulnerability.**
 
 **Fe:** Exactly. This problem becomes even more serious once you move into AI.
 
 Because there is always this tension between being visible enough to be represented and being visible enough to be targeted.
 
-**Before going into AI, I want to stay with queer visual culture for a moment. Your work suggests that identity is never simply represented. It is designed, negotiated and performed. What could democratic participation learn from queer approaches to representation?**
+### **Before going into AI, I want to stay with queer visual culture for a moment. Your work suggests that identity is never simply represented. It is designed, negotiated and performed. What could democratic participation learn from queer approaches to representation?**
 
 **Fe:** My relationship with the idea of queer knowledge is quite complicated. Queerness often means taking a system of meanings and escaping it, subverting it, destroying it or destabilising it in some way. My diamonds do that: they take an older system—the binary—and subvert it.
 
@@ -155,7 +155,7 @@ But the label also provides visibility, and visibility can produce political pow
 
 So for me, the important question is not simply: *Are categories good or bad?* It is: *Who is using the category? For what purpose? With what intention?*
 
-**So even a queer visualisation can become a device of control.**
+### **So even a queer visualisation can become a device of control.**
 
 **Fe:** Absolutely. Radical queer people sometimes criticise my work because they see a system and immediately reject the idea of the system. And I understand that criticism.
 
@@ -165,7 +165,7 @@ If we use it to expose gender biases in artificial intelligence, I think that ca
 
 If it is used to research bullying in schools, perhaps it becomes interesting again. The politics depends entirely on the context in which the visualisation is used.
 
-**One thing I find particularly interesting is that your model moves away from two opposing camps.**
+### **One thing I find particularly interesting is that your model moves away from two opposing camps.**
 
 **Fe:** Yes. If you only have two options, the boundary between them becomes incredibly strong. Look at US elections: you basically have two dominant parties, and the tension between those two sides becomes extreme. When a structure only allows two positions, the border itself starts to become the most important thing.
 
@@ -177,7 +177,7 @@ And I think that changes the possibilities for interaction. If democratic debate
 
 If you have a semantic plane of mixed possibilities, you might create more room for collaboration and for temporary communities.
 
-**So rather than consensus, you could have positive tensions. The diamond becomes a sort of prism through which you can look at somebody else’s position.**
+### **So rather than consensus, you could have positive tensions. The diamond becomes a sort of prism through which you can look at somebody else’s position.**
 
 **Fe:** Yes. And I think this becomes particularly important in the current conversation around gender.
 
@@ -189,7 +189,7 @@ We can be on opposite sides of the map and still have something in between. Ther
 
 Not because the political differences disappear. They do not. But because femininity and masculinity can also be brought back into queer thinking rather than treated only as concepts that queerness must destroy.
 
-**What changes when the people who are normally represented by others become the authors of the representation themselves? What do people learn when they actually construct or work through these maps?**
+### **What changes when the people who are normally represented by others become the authors of the representation themselves? What do people learn when they actually construct or work through these maps?**
 
 **Fe:** I think there are two quite different experiences. On one side, you have people with what we could call more unitary identities—binary identities, for example. On the other, you have people who already experience their identity as complex.
 
@@ -201,7 +201,7 @@ And this brings me back to cartography. When you see a map, one of the first thi
 
 People do the same thing with the diamond. And for somebody who has spent years without finding themselves inside the dominant categories, finally being able to locate themselves can create a real sense of belonging.
 
-**You saw that with language identity too?**
+### **You saw that with language identity too?**
 
 **Fe:** Very strongly. In South Tyrol, you may have somebody who is bilingual and was bullied at school because in one environment they were considered too Italian and in another too German. Or someone from South Tyrol goes to Rome and suddenly experiences being treated as not Italian enough.
 
@@ -209,7 +209,7 @@ Those situations can resonate surprisingly strongly with non-binary experiences.
 
 Then suddenly you see a map where that in-between position exists. That does not solve the political or social problem, of course. But it produces a sense of place. It tells you that your experience has meaning within the map.
 
-**And what happens to people whose identity already corresponds quite comfortably to the dominant categories?**
+### **And what happens to people whose identity already corresponds quite comfortably to the dominant categories?**
 
 **Fe:** For them, the effect can be almost the opposite. Instead of producing a sense of belonging, the visualisation can be destabilising. They suddenly realise that reality is much more complex than they had assumed, and I think that can become a moment of learning.
 
@@ -217,7 +217,7 @@ But it is not necessarily a comfortable moment. Sometimes there is guilt. You ma
 
 Sometimes there is also rejection. I have had exhibitions where people interfered with the work, almost vandalised it, although sometimes in more subtle ways. So perhaps I have some enemies. But maybe that also means the message is strong enough to provoke something.
 
-**And not every kind of hybridity seems to generate the same resistance.**
+### **And not every kind of hybridity seems to generate the same resistance.**
 
 **Fe:** Exactly. The mixing of linguistic identities is relatively easy for many people to accept. You can say somebody is bilingual and people generally understand that.
 
@@ -229,7 +229,7 @@ But I have also had the opposite experience many times. People come to me after 
 
 ## **AI, visibility and the paradox of exposure**
 
-**Let’s move into AI. Most AI systems classify people before they understand them. You have worked on bias and identity classification. What would a queer AI do differently? Would it refuse classification?**
+### **Let’s move into AI. Most AI systems classify people before they understand them. You have worked on bias and identity classification. What would a queer AI do differently? Would it refuse classification?**
 
 **Fe:**I think the answer has to be context-based. There are situations where I might want an AI system to understand something about my identity, and others where I absolutely do not want that.
 
@@ -237,13 +237,13 @@ Maybe I want Netflix to understand some of my preferences because I want better 
 
 This is what I describe as the paradox of exposure. When an identity is included, recognised and validated, that can be empowering. But the same information can later be used against the community it was supposed to empower. Visibility is never automatically good.
 
-**Invisibility itself can therefore become a form of power.**
+### **Invisibility itself can therefore become a form of power.**
 
 **Fe:** Sometimes invisibility is power, and sometimes it is a weakness. It depends on where the source of power is, what its intentions are, and how those intentions relate to the values and interests of the minoritised community.
 
 That is why I don’t think there can be one single answer. There is not one AI, but an ecology of AI systems, and each of those systems creates a different relationship with visibility, classification and power.
 
-**Are grassroots or community-controlled AI systems potentially safer?**
+### **Are grassroots or community-controlled AI systems potentially safer?**
 
 **Fe:** They can be interesting, but I would still be cautious. Here in Turin there is a group working around grassroots AI models, and I think that is a very interesting initiative.
 
@@ -251,7 +251,7 @@ But even with micro-projects, you immediately have to ask: who is actually invol
 
 A project does not automatically become safe because it is small or because it calls itself grassroots, the political questions remain.
 
-**There is a very difficult dilemma here. LGBTQ+, racialised and trans communities are frequently underrepresented in training datasets. So one response is: collect more diverse data. But more data can also mean more surveillance and exposure. If you had to choose between collecting more data to improve representation, only collecting data under community control, or collecting less data even if the model becomes less accurate, how would you approach it?**
+### **There is a very difficult dilemma here. LGBTQ+, racialised and trans communities are frequently underrepresented in training datasets. So one response is: collect more diverse data. But more data can also mean more surveillance and exposure. If you had to choose between collecting more data to improve representation, only collecting data under community control, or collecting less data even if the model becomes less accurate, how would you approach it?**
 
 **Fe:** This is almost exactly the problem I’m dealing with in a paper I’m revising. There is a very interesting feminist approach to bias that describes a tension between accuracy and discrimination.
 
@@ -261,7 +261,7 @@ Imagine that we prioritise non-discrimination. Perhaps the objective is not to t
 
 In that case, I might actually want the AI to give me random answers in relation to gender. If gender should be irrelevant to the question, randomness might be more ethical than accuracy. The system would effectively be saying: *This category should not determine the answer.* That was actually one of the results that emerged from my study.
 
-**And what happens if accuracy is what you want?**
+### **And what happens if accuracy is what you want?**
 
 **Fe:** Then another problem appears. Perhaps you want the system to accurately reflect the stereotypes that exist in society.
 
@@ -271,7 +271,7 @@ So what would accuracy even mean? You cannot perfectly reproduce a social stereo
 
 Maybe then accuracy becomes useful in a different way. Perhaps I want to see the AI’s biases because I want to understand how biased the internet is. In that case, the disturbing answer itself becomes evidence.
 
-**So perhaps the most interesting AI would not necessarily give an answer.**
+### **So perhaps the most interesting AI would not necessarily give an answer.**
 
 **Fe:** Exactly. Perhaps the most interesting option is an AI that prompts critical questions, an AI that sparks discussion rather than giving you a definitive answer.
 
@@ -279,12 +279,12 @@ Instead of presenting itself as the machine that knows, it could make the assump
 
 But I find this idea much more interesting: AI not simply as an answer machine, but as something capable of creating critical discussion.
 
-**That connects with an experiment we are developing. We have an AI agent with three different personalities, one of which we call the Joker, borrowing the role from Legislative Theatre. The Joker is essentially a facilitator who avoids simply answering. It may force people to reformulate a prompt, introduce humour, create silence or destabilise the assumptions behind the question.**
+### **That connects with an experiment we are developing. We have an AI agent with three different personalities, one of which we call the Joker, borrowing the role from Legislative Theatre. The Joker is essentially a facilitator who avoids simply answering. It may force people to reformulate a prompt, introduce humour, create silence or destabilise the assumptions behind the question.**
 
-**I can imagine something similar with your diamonds: put one physically on the floor, remove the devices, and ask people to move through it. Perhaps people who appear to be on opposite sides discover an intermediate space where dialogue becomes possible.**
+### **I can imagine something similar with your diamonds: put one physically on the floor, remove the devices, and ask people to move through it. Perhaps people who appear to be on opposite sides discover an intermediate space where dialogue becomes possible.**
 
-**We are exploring these setups especially around youth mental health, and also thinking about the right not to speak, not to appear physically or even temporarily to disappear from the process.**
+### **We are exploring these setups especially around youth mental health, and also thinking about the right not to speak, not to appear physically or even temporarily to disappear from the process.**
 
-**The difficulty is that AI models continuously try to become agreeable. Even when you design the agent to behave as a Joker, it suddenly starts flattering the participants or retreating into safe generic answers. Have you experimented with anything similar?**
+### **The difficulty is that AI models continuously try to become agreeable. Even when you design the agent to behave as a Joker, it suddenly starts flattering the participants or retreating into safe generic answers. Have you experimented with anything similar?**
 
 **Fe:** Unfortunately, not really. I’m already overwhelmed by the projects I’m working on. But conceptually I think there is a strong connection. Especially the idea that the system does not need to resolve the problem. It can instead help people remain with the complexity of the problem.
