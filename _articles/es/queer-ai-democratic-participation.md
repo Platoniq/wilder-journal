@@ -111,7 +111,7 @@ También impartí un taller similar con una delegación de activistas de minorí
 
 Sin embargo, en ambos casos, la gente seguía trabajando principalmente por su cuenta. Y creo que eso es importante, porque si quieres que la gente desarrolle una de estas estructuras de forma colectiva, necesitan tener suficientes conocimientos compartidos sobre el mismo tema. Probablemente también necesiten un cierto grado de puntos en común y de confianza.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.42.20.png","alt":"Visualisations of the gender spectrum, adapted from sources","caption":"Visualisations of the gender spectrum, adapted from sources","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.42.20.png","alt":"Visualisations of the gender spectrum","caption":"Visualisations of the gender spectrum","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
 
 ### **Esto me lleva al tema de la deliberación. Me interesa saber qué podría aportar una visualización de datos no convencional en el seno de las asambleas ciudadanas u otros espacios democráticos. ¿Podría un modelo como el «diamante» formar parte de un proceso deliberativo colectivo?**
 

@@ -107,6 +107,8 @@ I also did a similar workshop with a delegation of minority activists connected 
 
 In both cases, though, people were still working mainly on their own. And I think that matters, because if you want people to develop one of these structures collectively, they need enough shared knowledge around the same issue. They probably also need a certain degree of common ground and trust.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.42.20.png","alt":"Visualisations of the gender spectrum","caption":"Visualisations of the gender spectrum","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
 ### **That brings me to deliberation. I’m interested in what non-standard data visualisation could do inside citizen assemblies or other democratic spaces. Could a model like the diamond become part of a collective deliberative process?**
 
 **Fe:** I think you have to distinguish between collectively using a diamond and collectively creating the entire system from scratch. Creating one of these systems takes a lot of time.
