@@ -39,6 +39,8 @@ Las respuestas de Miquel componen así un segundo relato que atraviesa toda la c
 
 I found it a very useful image because processes of personal transformation work in a similar way. We may have certain coordinates, goals, or points of reference, but at the same time, each person follows their own intimate and unique path. Both journeys take place simultaneously.
 
+{% quote %}Feminism has done extraordinary work in this regard, creating alternative frameworks and expanding the possibilities of what it means to be a woman. Men, on the other hand, are still in a much earlier stage. {% endquote %}
+
 The idea was precisely to play with a world that was foreign to me: the world of sailing. If I was able to approach that language and familiarize myself with it, any man could also approach what we call alternative, dissident, or egalitarian masculinities. That’s where the metaphor of the journey comes from.
 
 ## **Building an Alternative Culture**

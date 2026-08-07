@@ -47,6 +47,8 @@ Las respuestas de Miquel componen así un segundo relato que atraviesa toda la c
 
 Me parecía una imagen muy útil porque los procesos de transformación personal funcionan de una manera parecida. Podemos tener unas coordenadas, unos objetivos o unas referencias, pero al mismo tiempo cada persona desarrolla un recorrido propio, íntimo y singular. Ambos viajes suceden simultáneamente.
 
+{% quote %}El feminismo ha realizado una labor extraordinaria en este sentido, generando marcos alternativos y ampliando las posibilidades de ser mujer. Los hombres, en cambio, todavía estamos en una fase mucho más incipiente.{% endquote %}
+
 La idea era precisamente jugar con un universo que me era ajeno, el mundo de la navegación. Si yo era capaz de aproximarme a ese lenguaje y familiarizarme con él, cualquier hombre podría también acercarse a aquello que llamamos masculinidades alternativas, disidentes o igualitarias. De ahí surge la metáfora del viaje.
 
 ## **Construir una cultura alternativa**
