@@ -93,7 +93,7 @@ Experience shows that when safe spaces, warm relationships, or support networks 
 
 Women have historically created spaces of sisterhood. Perhaps we need to create more spaces of brotherhood: places where closeness, care, and vulnerability are legitimate. It is these spaces that allow us, symbolically, to unplug the refrigerator.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.42.01.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/7.png"}] } %}
 
 ## **Generational Differences, the "Manosphere," and Young People Caught Between Discourses. A More Diverse Generation Than We Realize**
 
