@@ -29,9 +29,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/chatgpt-image-6-ago-2026-10_08_22.png
 ---
-¿Qué les está pasando a los chicos?
-
-Mientras crecen la soledad, la ansiedad y la sensación de incertidumbre entre muchos jóvenes, también gana terreno un ecosistema digital que ofrece respuestas rápidas, identidades prefabricadas y culpables fáciles. La llamada manosfera se presenta como un espacio de pertenencia para algunos chicos que sienten que nadie escucha sus dudas, sus miedos o su desconcierto ante un mundo que cambia rápidamente.
+¿Qué les está pasando a los chicos? Mientras crecen la soledad, la ansiedad y la sensación de incertidumbre entre muchos jóvenes, también gana terreno un ecosistema digital que ofrece respuestas rápidas, identidades prefabricadas y culpables fáciles. La llamada manosfera se presenta como un espacio de pertenencia para algunos chicos que sienten que nadie escucha sus dudas, sus miedos o su desconcierto ante un mundo que cambia rápidamente.
 
 Para explorar estas preguntas conversamos con Miquel Joan Far Ferrer, psicólogo, educador y referente en masculinidades igualitarias. Hablamos de salud mental masculina, vulnerabilidad, intimidades congeladas, manosfera, cultura de los cuidados y de cómo construir espacios donde los jóvenes puedan reflexionar sobre quiénes quieren ser sin quedar atrapados entre la culpa y el resentimiento.
 

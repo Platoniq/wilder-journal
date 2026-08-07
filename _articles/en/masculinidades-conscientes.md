@@ -21,9 +21,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/chatgpt-image-6-ago-2026-10_08_22.png
 ---
-What’s Happening to Young Men?
-
-As loneliness, anxiety, and a sense of uncertainty grow among many young people, a digital ecosystem is also gaining ground—one that offers quick answers, prefabricated identities, and easy scapegoats. The so-called “manosphere” presents itself as a space of belonging for some young men who feel that no one is listening to their doubts, fears, or confusion in the face of a rapidly changing world.
+What’s Happening to Young Men? As loneliness, anxiety, and a sense of uncertainty grow among many young people, a digital ecosystem is also gaining ground—one that offers quick answers, prefabricated identities, and easy scapegoats. The so-called “manosphere” presents itself as a space of belonging for some young men who feel that no one is listening to their doubts, fears, or confusion in the face of a rapidly changing world.
 
 To explore these questions, we spoke with Miquel Joan Far Ferrer, a psychologist, educator, and leading expert on egalitarian masculinities. We discussed men’s mental health, vulnerability, frozen intimacies, the “manosphere,” a culture of care, and how to create spaces where young people can reflect on who they want to be without getting trapped between guilt and resentment.
 
