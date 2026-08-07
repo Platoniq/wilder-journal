@@ -129,7 +129,7 @@ This has led some young men to experience certain educational settings as places
 
 And when a person feels they are being judged, they are unlikely to be open to reflection.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.42.29.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/8.png"}] } %}
 
 ## **Understand Before Judging**
 
