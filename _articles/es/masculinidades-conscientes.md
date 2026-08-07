@@ -61,6 +61,8 @@ Necesitamos referencias, relatos, prácticas y modelos que permitan imaginar otr
 
 De hecho, parte del auge actual del neomachismo puede entenderse como una reacción a la aparición de esos relatos alternativos. Cuando una cultura dominante percibe que surgen otras posibilidades, tiende a replegarse y a defender sus privilegios.
 
+{% gallery { "simple": false, "images": [{"path":"/media/1.png"}] } %}
+
 ## **¿Pérdida de derechos o pérdida de privilegios?**
 
 **Pregunta:** ¿Existe el riesgo de que algunos hombres perciban los discursos sobre igualdad más como una pérdida que como una oportunidad?
