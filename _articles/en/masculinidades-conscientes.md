@@ -105,13 +105,13 @@ What I find when working with young people is, above all, diversity. There are y
 
 Sometimes the most extreme positions make a lot of noise and seem to represent an entire generation, but my day-to-day experience doesn’t reflect that.
 
+{% quote %}When I was a teenager, I suffered from depression and had to live with it practically in secret. I didn’t talk about it in high school. I couldn’t just casually say that I was seeing a psychiatrist. There was a sense of shame associated with needing help.{% endquote %}
+
 I’m also speaking from personal experience. When I was a teenager, I suffered from depression and had to live with it practically in secret. I didn’t talk about it in high school. I couldn’t just casually say that I was seeing a psychiatrist. There was a sense of shame associated with needing help.
 
 Today, I see many young people talking much more naturally about these issues. Seeing a psychologist is no longer necessarily seen as something unusual or stigmatizing.
 
-Of course, difficulties and contradictions still exist, but there are significant cultural shifts that we shouldn’t ignore.
-
-Nor do I recall hearing conversations about gender, inequality, or masculinities during my adolescence. I didn’t come to these issues until much later, practically in college.
+Of course, difficulties and contradictions still exist, but there are significant cultural shifts that we shouldn’t ignore. Nor do I recall hearing conversations about gender, inequality, or masculinities during my adolescence. I didn’t come to these issues until much later, practically in college.
 
 That’s why I speak of optimism. Not because the problems have disappeared, but because I see more tools, more ways of expressing ourselves, and more opportunities for reflection than there were when I was young.
 

@@ -113,13 +113,13 @@ Lo que encuentro cuando trabajo con jóvenes es, sobre todo, diversidad. Hay jó
 
 A veces las posiciones más extremas hacen mucho ruido y parecen representar a toda una generación, pero mi experiencia cotidiana no refleja eso.
 
+{% quote %}Cuando yo era adolescente sufrí una depresión y tuve que vivirla prácticamente en la clandestinidad. No hablaba de ello en el instituto. No podía decir con normalidad que acudía a un psiquiatra. Existía una sensación de vergüenza asociada al hecho de necesitar ayuda.{% endquote %}
+
 Lo digo también desde una experiencia personal. Cuando yo era adolescente sufrí una depresión y tuve que vivirla prácticamente en la clandestinidad. No hablaba de ello en el instituto. No podía decir con normalidad que acudía a un psiquiatra. Existía una sensación de vergüenza asociada al hecho de necesitar ayuda.
 
 Hoy veo a muchos jóvenes que hablan con mucha más naturalidad sobre estas cuestiones. Ir al psicólogo o a la psicóloga ya no se percibe necesariamente como algo excepcional o estigmatizante.
 
-Por supuesto siguen existiendo dificultades y contradicciones, pero hay cambios culturales importantes que no deberíamos ignorar.
-
-Tampoco recuerdo haber escuchado en mi adolescencia conversaciones sobre género, desigualdad o masculinidades. Yo llegué a estas cuestiones mucho más tarde, prácticamente en la universidad.
+Por supuesto siguen existiendo dificultades y contradicciones, pero hay cambios culturales importantes que no deberíamos ignorar. No recuerdo haber escuchado en mi adolescencia conversaciones sobre género, desigualdad o masculinidades. Yo llegué a estas cuestiones mucho más tarde, prácticamente en la universidad.
 
 Por eso hablo de optimismo. No porque los problemas hayan desaparecido, sino porque veo más herramientas, más lenguajes y más posibilidades de reflexión que las que existían cuando yo era joven.
 
