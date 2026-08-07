@@ -22,7 +22,7 @@ interviewee: Federico Simeoni
 cover:
   path: /media/articles/heroes/images.jpg
   mobile: /assets/media/no_image-hero.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/images.jpg
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
