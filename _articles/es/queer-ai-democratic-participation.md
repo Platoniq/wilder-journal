@@ -35,284 +35,260 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/images.jpg
 ---
-Federico (Fe) Simeoni’s work sits somewhere between information design, cartography, critical research and queer visual culture. At the centre of it is a deceptively simple question: what happens when the categories we use to represent people no longer correspond to the complexity of their lived experience?
+La obra de Federico (Fe) Simeoni se sitúa en un punto intermedio entre el diseño de la información, la cartografía, la investigación crítica y la cultura visual queer. En el centro de la misma se encuentra una pregunta aparentemente sencilla: ¿qué ocurre cuando las categorías que utilizamos para representar a las personas ya no se corresponden con la complejidad de su experiencia vital?
 
-Over the years, this question has led him from maps and geopolitical visualisation to gender, linguistic identity, intersectionality and artificial intelligence. His “diamonds”—visual systems designed to map positions across a field rather than force people into binary categories—have become both research tools and spaces for conversation.
+A lo largo de los años, esta pregunta le ha llevado desde los mapas y la visualización geopolítica hasta el género, la identidad lingüística, la interseccionalidad y la inteligencia artificial. Sus «diamantes», los sistemas visuales diseñados para cartografiar posiciones en un campo en lugar de encasillar a las personas en categorías binarias, se han convertido tanto en herramientas de investigación como en espacios de diálogo.
 
-In this interview, we talk about how visualisation can help people locate themselves, how categories can simultaneously constrain and empower, what democratic deliberation might learn from queer visual cultures, and why sometimes the most interesting AI is not the one that provides the answer, but the one that makes the question more difficult.
+En esta entrevista, hablamos de cómo la visualización puede ayudar a las personas a situarse a sí mismas, de cómo las categorías pueden, al mismo tiempo, limitar y empoderar, de lo que la deliberación democrática podría aprender de las culturas visuales queer, y de por qué, a veces, la IA más interesante no es la que da la respuesta, sino la que complica la pregunta.
 
-**Let’s start from the beginning. How did you develop this relationship with data visualisation and data more broadly?**
+**Empecemos por el principio. ¿Cómo se fue desarrollando tu relación con la visualización de datos y con los datos en general?**
 
-**Fe:** I’ve always been fascinated by data visualisation, maps and cartography. Really since I was a child. That fascination was one of the things that eventually pushed me towards art school for my bachelor’s.
+**Fe:** Siempre me ha fascinado la visualización de datos, los mapas y la cartografía. De hecho, desde que era niña. Esa fascinación fue una de las cosas que, al final, me llevó a estudiar la carrera de Bellas Artes.
 
-The funny thing is that when I studied at the Academy of Fine Arts in Milan, there wasn’t actually a proper course on information design. So when I started working on these things for my bachelor’s thesis, much of it was self-taught. I was learning by doing, experimenting, figuring things out independently. And for me that was extremely enjoyable.
+Lo curioso es que, cuando estudiaba en la Academia de Bellas Artes de Milán, en realidad no había un curso propiamente dicho sobre diseño de la información. Así que, cuando empecé a trabajar en estos temas para mi trabajo de fin de grado, gran parte de lo que aprendí fue de forma autodidacta. Aprendía haciendo, experimentando, descubriendo las cosas por mi cuenta. Y para mí eso fue muy gratificante.
 
-Later, I started collaborating with Sapienza University of Rome, with a study group working around geopolitics. That was important because suddenly the maps were not abstract exercises. I was drawing ongoing wars, geopolitical conflicts, very real and very human situations. You are taking something incredibly complicated and consequential and deciding how it is placed on a map.
+Más tarde, empecé a colaborar con la Universidad Sapienza de Roma, con un grupo de estudio dedicado a la geopolítica. Eso fue importante porque, de repente, los mapas dejaron de ser ejercicios abstractos. Dibujaba guerras en curso, conflictos geopolíticos, situaciones muy reales y muy humanas. Estás tomando algo increíblemente complicado y trascendental y decidiendo cómo plasmarlo en un mapa.
 
-After that I also worked for some years on visual design and cartography for Italian schoolbooks.
+Después de eso, también trabajé durante algunos años en diseño visual y cartografía para libros de texto italianos.
 
-Then I moved to Aalto University, where there was a much more developed environment around information design. But there was something missing there too. In visual communication design you had, on one side, information designers, who often had this relatively positivist relationship to data and technology, and on the other side people working through much more critical and narrative approaches to communication.
+Luego me trasladé a la Universidad de Aalto, donde había un entorno mucho más desarrollado en torno al diseño de la información. Pero allí también faltaba algo. En el diseño de comunicación visual había, por un lado, diseñadores de la información, que a menudo tenían una relación relativamente positivista con los datos y la tecnología, y, por otro lado, personas que trabajaban con enfoques mucho más críticos y narrativos de la comunicación.
 
-And I was thinking: *Okay, I want to be in both worlds.*
+Y yo pensaba: *«Vale, quiero estar en ambos mundos».*
 
-At the same time, something was happening personally. When I started at Aalto, I thought of myself as a cis man. In Italy at that point there was also much less public discussion about non-binary identities. Then, gradually, I became this non-binary person who was simultaneously working on questions of representation and information design.
+Al mismo tiempo, algo estaba sucediendo a nivel personal. Cuando empecé en Aalto, me consideraba un hombre cis. En Italia, por aquel entonces, también había mucho menos debate público sobre las identidades no binarias. Luego, poco a poco, me convertí en esta persona no binaria que trabajaba simultáneamente en cuestiones de representación y diseño de la información.
 
-So information design became a way of understanding myself.
+Así que el diseño de la información se convirtió en una forma de comprenderme a mí mismo.
 
-I sometimes say that I was literally doing psychotherapy on myself through information design. Because my information-designer brain was asking: *Okay, but what is the gender spectrum? How does this actually work?*
+A veces digo que, literalmente, me estaba haciendo psicoterapia a mí mismo a través del diseño de la información. Porque mi mente de diseñador de la información se preguntaba: *«Vale, pero ¿qué es el espectro de género? ¿Cómo funciona esto realmente?».*
 
-And when I spoke with people, I encountered all these very messy, sometimes contradictory ideas about gender.
+Y cuando hablaba con la gente, me encontraba con todo tipo de ideas muy confusas, a veces contradictorias, sobre el género. Por supuesto que el género es confuso. El género es complejo. Eso es cierto. Pero si también existe la necesidad de crear algún tipo de entendimiento común, entonces hay que preguntarse: ¿cómo lo hacemos sin fingir que esa complejidad desaparece? Eso se convirtió en mi obsesión durante el máster y, finalmente, se convirtió en mi tesis.
 
-Of course gender is messy. Gender is complex. That’s true.
+**En esa historia, la visualización casi se convierte en un objeto vivo. Empieza como una forma de comprenderse a uno mismo y luego se convierte en algo que otras personas pueden utilizar. ¿Con qué herramientas trabajas exactamente?**
 
-But if there is also a need to create some sort of shared understanding, then you have to ask: how do we do that without pretending that the complexity disappears?
+Fe: La verdad es que no soy una persona muy manitas ni con habilidades manuales. Soy más bien una criatura digital, así que, técnicamente, trabajo con programación, D3, entornos digitales y visualización interactiva. Obviamente, esas son herramientas. Pero cuando pienso en las herramientas que realmente importan más en mi trabajo, la primera es probablemente la gente.
 
-That became my obsession during my master’s, and eventually it became the thesis.
+Las visualizaciones que he estado desarrollando tratan sobre conceptos intersubjetivos. El género es un ejemplo, la identidad lingüística es otro. Son cuestiones que no se pueden medir simplemente como si existiera una realidad externa completamente objetiva a la espera de ser capturada. Si quieres trazar mapas de este tipo de conceptos, tienes que tener en cuenta múltiples perspectivas, perspectivas situadas y experiencias vividas. Eso significa que las entrevistas son una de mis herramientas de diseño fundamentales.
 
-**In that story, the visualisation almost becomes a living object. It begins as a way of understanding yourself and then develops into something that other people can use. What tools do you actually work with?**
+Con el tiempo, también me di cuenta de que quizá la visualización en sí misma nunca fue realmente el resultado que deseaba. Lo que en última instancia me interesaba era la estructura de datos subyacente: la ontología que sustenta la visualización. La visualización se convirtió en un medio a través del cual podía hablar de ontología con la gente.
 
-**Fe:** I’m not really a hands-on, crafty person. I’m very much a digital creature, so technically I work with coding, D3, digital environments and interactive visualisation. Those are obviously tools. But when I think about the tools that actually matter most in my work, the first one is probably people.
+Porque si me siento con alguien y le pregunto: «¿Cómo conceptualizas el espectro de género?», esa es una pregunta increíblemente difícil. Es abstracta, casi imposible de responder directamente.
 
-The visualisations I’ve been developing deal with intersubjective concepts. Gender is one example, language identity is another. These are things that cannot simply be measured as if there were a completely objective external reality waiting to be captured. If you want to draw maps of these kinds of concepts, you need to engage with multiple perspectives, situated perspectives and lived experiences. That means interviews are one of my central design tools.
+Pero si te pongo delante un pequeño modelo visual y te pregunto: «¿Tiene sentido esto? ¿Qué falta? ¿Dónde te situarías tú? ¿Podrías situar a algunos de tus amigos? ¿Hay algo aquí que te parezca discriminatorio?», de repente tienes algo concreto ante lo que reaccionar.
 
-Over time, I also realised that perhaps the visualisation itself was never really my desired output. What I was ultimately interested in was the underlying data structure—the ontology that supports the visualisation. The visualisation became a means through which I could talk about ontology with people.
+La conversación se desarrolla a través de la visualización. Y luego, entrevista tras entrevista, tanto la visualización como la estructura que hay detrás de ella evolucionan. Así que la imagen no es necesariamente el producto final. También es una interfaz de conversación.
 
-Because if I sit down with someone and ask, *How do you conceptualise the gender spectrum?*, that is an incredibly difficult question. It is abstract, almost impossible to answer directly.
+**Así que no te limitabas a entrevistar a la gente sobre la visualización. Utilizabas la propia visualización como parte del método de entrevista.**
 
-But if I put a small visual model in front of you and ask, *Does this make sense? What is missing? Where would you place yourself? Could you place some of your friends? Is there something here that feels discriminatory?*, then suddenly you have something concrete to react to.
+**Fe:** Exacto. Así fue básicamente como desarrollé el «diamante de género». Empezaba leyendo algo de bibliografía y elaborando una estructura inicial; después, creaba un posible diseño y lo llevaba a las entrevistas.
 
-The conversation unfolds through the visualisation. And then, interview after interview, both the visualisation and the structure beneath it evolve. So the image is not necessarily the end product. It is also a conversational interface.
+Les preguntaba a las personas: *¿Estás de acuerdo con esto? ¿Qué falta? ¿Te parece que esta estructura tiene sentido? ¿Hay algo aquí que te parezca problemático? ¿Dónde te situarías tú? ¿Dónde situarías a las personas que conoces?*
 
-**So you were not simply interviewing people about the visualisation. You were using the visualisation itself as part of the interview method.**
+Las reacciones eran fascinantes y, a menudo, muy diferentes. Las personas queer tendían a criticar el modelo: *«Vale, aquí falta esto. Esto no funciona. Esta parte tiene que ser más compleja».* Se sentían muy cómodas cuestionando la estructura.
 
-**Fe:** Exactly. That was basically how I developed the gender diamond. I would start by reading some literature and developing an initial structure, then create a possible design and take it into interviews.
+Los hombres cis, ya fueran heterosexuales u homosexuales, solían reaccionar de forma bastante diferente. Algunos decían algo así como: *«Dios mío, Fe, esto es precioso, pero deberías hacer esta entrevista junto con un psicólogo porque me está traumatizando».*
 
-I would ask people: *Do you agree with this? What is missing? Does this structure make sense to you? Is there something here that you think is problematic? Where would you place yourself? Where would you place people you know?*
+Y yo pensé: *«Venga ya».*
 
-The reactions were fascinating, and they were often very different. Queer people tended to criticise the model: *Okay, this is missing. This doesn’t work. This part needs to be more complex.* They were very comfortable interrogating the structure.
+Obviamente, «traumatizante» es una palabra demasiado fuerte. Pero lo que me pareció interesante fue qué era lo que provocaba esa incomodidad. A menudo se trataba simplemente de ver cómo la feminidad y la masculinidad coexistían de formas a las que no estaban acostumbrados. Y, curiosamente, observé esa reacción sobre todo entre los hombres. Esa representación desestabilizaba algo que antes había parecido natural.
 
-Cis men, whether heterosexual or homosexual, often reacted quite differently. Some would say something like: *Oh my God, Fe, this is beautiful, but you should really conduct this interview together with a psychologist because this is traumatising me.*
+Algo similar ocurrió más tarde, cuando desarrollé un «diamante» en torno a la identidad lingüística en el Tirol del Sur. Las categorías eran diferentes, pero la dinámica subyacente resultaba sorprendentemente similar.
 
-And I was like: *Come on.*
+Allí existe un debate muy intenso sobre si se es italoparlante o germanoparlante, y sobre los privilegios y las formas de discriminación asociados a esas identidades. Pero también hay personas bilingües, extranjeros, personas que se mueven entre estas categorías, cuyas experiencias vividas son mucho más complicadas que la clasificación administrativa.
 
-Obviously, “traumatising” is too strong a word. But what I found interesting was what created that discomfort. It was often simply seeing femininity and masculinity coexisting in ways they were not accustomed to seeing. And interestingly, I encountered that reaction particularly among men. The visualisation was destabilising something that had previously seemed natural.
+Y también hay situaciones burocráticas terribles. Quizás tengas tu título en alemán y, por eso, no puedas hacer algo dentro de la parte italiana del sistema, o viceversa. Así que lo que parece ser una categoría estable empieza a volverse inestable en cuanto escuchas realmente a la gente.
 
-Something similar happened later when I developed a diamond around linguistic identity in South Tyrol. The categories were different, but the underlying dynamic was surprisingly similar.
+**La mayor parte de ese desarrollo se llevó a cabo a través de entrevistas individuales. ¿También has utilizado estas visualizaciones de forma colectiva?**
 
-There, you have this very strong conversation around being an Italian speaker or a German speaker, and around the privileges and forms of discrimination associated with those identities. But then you also have bilingual people, foreigners, people moving between these categories, whose lived experiences are much more complicated than the administrative classification.
+Fe: Cuando desarrollo las herramientas en sí, suelo preferir las entrevistas individuales. Tienes más control sobre la conversación, puedes seguir realmente la perspectiva de una sola persona y, gracias a la transcripción, puedes entender con mayor claridad por qué alguien reacciona de una manera concreta.
 
-And there are also horrible bureaucratic situations. Perhaps your degree is in German and, because of that, you cannot do something within the Italian part of the system, or vice versa. So what appears to be a stable category starts to become unstable once you actually listen to people.
+También he impartido talleres. Hace poco organicé uno en Utrecht, por ejemplo, en el que mostré algunos de mis «diamantes» y luego pedí a los participantes que desarrollaran los suyos propios, basándose en su experiencia vital. Ese taller fue con diseñadores de información, por lo que la formalización en sí misma no fue realmente la parte difícil. El reto para ellos solía ser elegir el tema adecuado.
 
-**Most of that development happened through one-to-one interviews. Have you also used these visualisations collectively?**
+También impartí un taller similar con una delegación de activistas de minorías vinculados a la ONU, y allí la situación fue casi la contraria. Cada activista ya tenía un conocimiento muy profundo de su propia minoría o cuestión política, por lo que encontrar el tema fue fácil. Crearon sus propios «diamantes» y representaron en ellos las formas de discriminación. La dificultad radicaba más bien en plasmar ese conocimiento en un sistema visual formal.
 
-**Fe:**When I’m developing the tools themselves, I tend to prefer one-to-one interviews. You have more control over the conversation, you can really follow one person’s perspective, and with the transcription you can understand more clearly why somebody is reacting in a particular way.
+Sin embargo, en ambos casos, la gente seguía trabajando principalmente por su cuenta. Y creo que eso es importante, porque si quieres que la gente desarrolle una de estas estructuras de forma colectiva, necesitan tener suficientes conocimientos compartidos sobre el mismo tema. Probablemente también necesiten un cierto grado de puntos en común y de confianza.
 
-But I have also conducted workshops.
+**Esto me lleva al tema de la deliberación. Me interesa saber qué podría aportar una visualización de datos no convencional en el seno de las asambleas ciudadanas u otros espacios democráticos. ¿Podría un modelo como el «diamante» formar parte de un proceso deliberativo colectivo?**
 
-I did one recently in Utrecht, for example, where I showed some of my diamonds and then asked participants to develop their own, based on their lived experience. That workshop was with information designers, so the formalisation itself was not really the difficult part. The challenge for them was often choosing the right topic.
+**Fe:** Creo que hay que distinguir entre utilizar colectivamente un «diamante» y crear colectivamente todo el sistema desde cero. Crear uno de estos sistemas lleva mucho tiempo.
 
-I also did a similar workshop with a delegation of minority activists connected to the UN, and there the situation was almost reversed. Each activist already had a very deep knowledge of their own minority or political issue, so finding the subject was easy. They created their own diamonds and mapped forms of discrimination onto them. The difficulty was more in translating that knowledge into a formal visual system.
+Encontrar las etiquetas adecuadas, comprender cómo se relacionan los conceptos, decidir dónde encaja cada cosa… Todo esto puede llevar años. Así que si reúnes a veinte personas en un taller y les dices: *«Vale, construyamos colectivamente una ontología en una tarde»,* no estoy seguro de que funcionara.
 
-In both cases, though, people were still working mainly on their own. And I think that matters, because if you want people to develop one of these structures collectively, they need enough shared knowledge around the same issue. They probably also need a certain degree of common ground and trust.
+Probablemente, el proceso se volvería demasiado caótico. Pero utilizar una estructura visual que ya se haya desarrollado mediante un proceso participativo podría resultar muy interesante.
 
-**That brings me to deliberation. I’m interested in what non-standard data visualisation could do inside citizen assemblies or other democratic spaces. Could a model like the diamond become part of a collective deliberative process?**
+**Eso se acerca más a lo que imagino. Las asambleas ciudadanas suelen basarse en el sorteo y tratan de crear una especie de microcosmos representativo de la población. Pero la representación ya es complicada en ese contexto. Es posible que las personas indocumentadas no aparezcan en el marco de muestreo. La migración, la identidad y otras dimensiones de la diferencia suelen tratarse de forma superficial.**
 
-**Fe:** I think you have to distinguish between collectively using a diamond and collectively creating the entire system from scratch. Creating one of these systems takes a lot of time.
+**Las asambleas también tienden a abordar temas que, en teoría, pueden ser debatidos por todo el mundo: el clima, la movilidad, la política urbana. Pero imagina una asamblea sobre algo más complejo: el acoso sexual, la identidad o la salud mental de los jóvenes en relación con la inteligencia artificial. En esos casos, quizá lo mejor sea trabajar primero con las personas más afectadas, desarrollar representaciones concretas a partir de sus experiencias y, después, llevar esas estructuras a una asamblea más amplia.**
 
-Finding the right labels, understanding how the concepts relate, deciding where something belongs. These things can take years. So if you put twenty people in a workshop and say, *Okay, let’s collectively build an ontology in an afternoon*, I’m not sure that would work.
+Fe: Sí, eso me parece mucho más lógico. Yo no pediría a la asamblea que creara el diamante de forma colectiva. En su lugar, se podría partir de un diamante ya diseñado quizá mediante entrevistas, talleres u otros métodos participativos, y luego presentarlo en la asamblea.
 
-The process would probably become too chaotic. But using a visual structure that has already been developed through a participatory process could be very interesting.
+La gente podría utilizarlo para debatir posibles formas de discriminación, situando sesgos de información, experiencias o problemas en el diamante. El modelo ya estaría ahí, pero el significado que surgiera en torno a él seguiría abierto.
 
-**That is closer to what I imagine. Citizen assemblies usually rely on sortition and try to create some kind of representative microcosm of the population. But representation there is already complicated. People without papers may not appear in the sampling frame. Migration, identity and other dimensions of difference are often treated weakly.**
+Y, sobre todo, cuando se empieza a hablar de algo como la democracia europea, la complejidad está presente desde el principio. El objetivo del diamante es, en parte, reconocer la coexistencia de opuestos, pero también dar cabida a aquellas personas que, sencillamente, no se identifican con los grupos mayoritarios dominantes que ostentan el poder.
 
-And assemblies also tend to work on subjects that can supposedly be discussed by everyone—climate, mobility, urban policy.
+Se necesita algún tipo de marco que permita que esos matices existan.
 
-But imagine an assembly around something more difficult: sexual harassment, identity, youth mental health in relation to AI.
+**Esto se relaciona directamente con la interseccionalidad. A menudo decimos que los procesos deliberativos deberían ser interseccionales, pero en cuanto se llega a la recopilación de datos o al diseño institucional propiamente dicho, la cosa se complica mucho más.**
 
-In those cases, perhaps you first work with the people most affected, develop situated visualisations from their experiences, and then bring those structures into a wider assembly.
+**Fe:** Este es uno de los argumentos en los que se basa mi tesis doctoral. La interseccionalidad supuso una aportación extremadamente importante al demostrar que no se puede comprender el poder a través de una única dimensión de la identidad. Es necesario tener en cuenta el género, la raza, la religión, la discapacidad y otras dimensiones de forma conjunta, porque el poder opera a través de su combinación.
 
-**Fe:** Yes, that makes much more sense to me. I would not ask the assembly to create the diamond collectively. Instead, you could have a diamond that has already been designed—perhaps through interviews, workshops or other participatory methods—and then bring it into the assembly.
+La dificultad radica en que la interseccionalidad no nos indica necesariamente cómo poner en práctica cada una de esas dimensiones. Se puede crear un conjunto de datos en el que el género se reduzca a «mujer/hombre», la raza a «negro/blanco» y la discapacidad a «sin discapacidad/con discapacidad», combinar esas categorías y calificar el resultado de interseccional. Técnicamente, se están cruzando múltiples dimensiones, pero cada dimensión individual sigue siendo completamente binaria. Así pues, el problema no ha desaparecido realmente.
 
-People could use it to discuss possible forms of discrimination, placing information biases, experiences or problems onto the diamond. The model would already be there, but the meaning emerging around it would remain open.
+Mi argumento es que cada ámbito necesita su propia operacionalización situada y relevante en su contexto. A veces eso podría adoptar la forma de un diamante, pero no creo que el diamante sea de aplicación universal.
 
-And especially when you start talking about something like European democracy, complexity is there from the beginning. The point of the diamond is partly to acknowledge the coexistence of opposites, but also to make space for people who simply do not relate to the dominant majority groups that hold the power.
+En el caso del sexo biológico, por ejemplo, ¿podría realmente construir exactamente la misma estructura de dos ejes? No lo sé. No soy médico y no sé lo suficiente sobre la intersexualidad como para afirmarlo.
 
-You need some kind of framework that allows those nuances to exist.
+Así pues, la cuestión no es imponer un único modelo visual universal a todos los aspectos de la identidad. El modelo en sí mismo debe seguir estando contextualizado.
 
-**This connects directly to intersectionality. We often say that deliberative processes should be intersectional, but once you reach data collection or actual institutional design, it becomes much more difficult.**
+**Y hay otra paradoja. Muchas plataformas de participación digital utilizan deliberadamente altos niveles de anonimización, lo cual es importante para la privacidad. Pero eso también significa que no se puede recopilar información interseccional muy significativa. Así pues, para comprender la desigualdad se necesitan datos, pero la recopilación de esos datos puede, en sí misma, generar vulnerabilidad.**
 
-**Fe:** This is one of the arguments behind my PhD. Intersectionality made an extremely important intervention by showing that you cannot understand power through a single dimension of identity. You need to consider gender, race, religion, disability and other dimensions together, because power operates through their combination.
+**Fe:** Exacto. Este problema se agrava aún más cuando se entra en el ámbito de la IA.
 
-The difficulty is that intersectionality does not necessarily tell us how to operationalise each of those dimensions. You can create a dataset where gender is reduced to “woman/man”, race to “Black/white”, disability to “able/disabled”, combine those categories and call the result intersectional. Technically, you are crossing multiple dimensions, but each individual dimension remains completely binary. So the problem has not really disappeared.
+Porque siempre existe esa tensión entre ser lo suficientemente visible como para estar representado y ser lo suficientemente visible como para convertirse en blanco de ataques.
 
-My argument is that each realm needs its own situated and contextually relevant operationalisation. Sometimes that might take the form of a diamond, but I don’t think the diamond is universally applicable.
+**Antes de pasar a la IA, quiero quedarme un momento en la cultura visual queer. Tu trabajo sugiere que la identidad nunca se representa de forma simple. Se diseña, se negocia y se representa. ¿Qué podría aprender la participación democrática de los enfoques queer sobre la representación?**
 
-For biological sex, for example, could I really build exactly the same two-axis structure? I don’t know. I’m not a medical doctor, and I don’t know enough about intersexuality to claim that.
+**Fe:** Mi relación con la idea del conocimiento queer es bastante complicada. Lo queer a menudo significa tomar un sistema de significados y escapar de él, subvertirlo, destruirlo o desestabilizarlo de alguna manera. Mis diamantes hacen eso: toman un sistema más antiguo: el binario, y lo subvierten.
 
-So the point is not to impose one universal visual model onto every aspect of identity. The model itself has to remain situated.
+Pero, al mismo tiempo, crean otro sistema. Introducen otra simplificación y establecen otras categorías. Por eso, a veces describo mi trabajo como simultáneamente queer y anti-queer, y creo que, como investigadora, tengo que aceptar esa contradicción.
 
-**And there is another paradox. Many digital participation platforms deliberately use high levels of anonymisation, which is important for privacy. But that also means you cannot gather very meaningful intersectional information.**
+Al fin y al cabo, sigo estableciendo límites. Sigo decidiendo que existen ciertas posiciones y ciertas relaciones. Pero no creo que eso sea automáticamente negativo.
 
-So to understand inequality you need data, but gathering the data can itself produce vulnerability.
+Si nos fijamos en la teoría de la identidad social, los grupos sociales se definen en parte a través de estereotipos. Las categorías sociales se construyen mediante asociaciones semánticas, y representamos continuamente esas asociaciones a través de los roles sociales, la estética y el comportamiento. Cada vez que asignamos una etiqueta a un grupo, activamos una serie de asociaciones estereotípicas.
 
-**Fe:** Exactly.
+Pero la etiqueta también aporta visibilidad, y la visibilidad puede generar poder político.
 
-This problem becomes even more serious once you move into AI.
+Así que, para mí, la pregunta importante no es simplemente: *¿Son buenas o malas las categorías? Es: ¿Quién utiliza la categoría? ¿Con qué propósito? ¿Con qué intención?*
 
-Because there is always this tension between being visible enough to be represented and being visible enough to be targeted.
+**Así que incluso una representación queer puede convertirse en un instrumento de control.**
 
-**Before going into AI, I want to stay with queer visual culture for a moment. Your work suggests that identity is never simply represented. It is designed, negotiated and performed. What could democratic participation learn from queer approaches to representation?**
+**Fe:** Por supuesto. Las personas queer radicales a veces critican mi trabajo porque ven un sistema y rechazan de inmediato la idea misma del sistema. Y entiendo esa crítica.
 
-**Fe:** My relationship with the idea of queer knowledge is quite complicated. Queerness often means taking a system of meanings and escaping it, subverting it, destroying it or destabilising it in some way. My diamonds do that: they take an older system—the binary—and subvert it.
+Si mañana alguien dijera que deberíamos incluir mi «diamante de género» en los pasaportes, me daría mucho miedo. No querría eso en absoluto. Cuando utilizamos esta visualización queer o anti-queer, la pregunta tiene que ser: *¿para qué?*
 
-But at the same time, they create another system. They introduce another simplification and establish other categories. So I sometimes describe my work as simultaneously queer and anti-queer, and I think I have to accept that contradiction as a researcher.
+Si la utilizamos para poner de manifiesto los sesgos de género en la inteligencia artificial, creo que puede resultar muy valiosa. Si alguien la utiliza para decir: *«Genial, ahora tenemos nueve identidades de consumidor y podemos crear una colección de moda para cada una de ellas y ganar más dinero»*, entonces quizá sea algo muy diferente.
 
-In the end, I am still drawing boundaries. I am still deciding that there are certain positions and certain relationships. But I don’t think that is automatically negative.
+Si se utiliza para investigar el acoso escolar, quizá vuelva a resultar interesante. La dimensión política depende por completo del contexto en el que se utilice la visualización.
 
-If we look at social identity theory, social groups are partly defined through stereotypes. Social categories are built through semantic associations, and we continuously perform those associations through social roles, aesthetics and behaviour. Whenever we provide a label for a group, we activate a series of stereotypical associations.
+**Una cosa que me parece especialmente interesante es que tu modelo se aleja de dos bandos opuestos.**
 
-But the label also provides visibility, and visibility can produce political power.
+**Fe:** Sí. Si solo tienes dos opciones, la frontera entre ellas se vuelve increíblemente marcada. Fíjate en las elecciones estadounidenses: básicamente hay dos partidos dominantes, y la tensión entre esos dos bandos se vuelve extrema. Cuando una estructura solo permite dos posiciones, la frontera en sí misma empieza a convertirse en lo más importante.
 
-So for me, the important question is not simply: *Are categories good or bad?* It is: *Who is using the category? For what purpose? With what intention?*
+Pero si, en cambio, tienes un plano semántico con nueve posiciones, o veinticinco, dependiendo del tema, puedes desarrollar una relación mucho más relajada con las categorías. Quizá hoy esté aquí, mañana un poco más allá. Da igual. No tienes que aferrarte tan en serio a una única posición.
 
-**So even a queer visualisation can become a device of control.**
+Incluso puedes burlarte un poco de las categorías, porque entiendes que esos nueve puntos no son verdades que existan de forma natural. Elegí nueve en parte por razones pragmáticas. Son simplemente posiciones dentro de un espacio abierto.
 
-**Fe:** Absolutely. Radical queer people sometimes criticise my work because they see a system and immediately reject the idea of the system. And I understand that criticism.
+Y creo que eso cambia las posibilidades de interacción. Si el debate democrático solo te ofrece dos categorías, crea una estructura ideal para el conflicto antagónico: hay dos bandos y tienen que enfrentarse.
 
-If someone said tomorrow that we should put my gender diamond into passports, I would be terrified. I would not want that at all.
+Si tienes un plano semántico de posibilidades mixtas, podrías crear más espacio para la colaboración y para comunidades temporales.
 
-So when we use this queer—or anti-queer—visualisation, the question has to be: *for what?*
+**Así que, en lugar de consenso, podrían darse tensiones positivas. El diamante se convierte en una especie de prisma a través del cual se puede observar la posición de otra persona.**
 
-If we use it to expose gender biases in artificial intelligence, I think that can be very valuable. If someone uses it to say, *Great, now we have nine consumer identities and we can create a fashion collection for each of them and make more money*, then perhaps that is very different.
+**Fe:** Sí. Y creo que esto cobra especial importancia en el debate actual sobre el género.
 
-If it is used to research bullying in schools, perhaps it becomes interesting again.
+El discurso queer, especialmente algunas de sus versiones más radicales,  puede llegar a desconectarse por completo del debate dominante, incluido el muy problemático discurso de extrema derecha sobre el género.
 
-So the politics depends entirely on the context in which the visualisation is used.
+La idea que subyace a mi «diamante de género», pero también al «diamante del Tirol del Sur», es, en parte, decir: «Oye, en realidad convivimos en el mismo espacio».
 
-**One thing I find particularly interesting is that your model moves away from two opposing camps.**
+Podemos estar en lados opuestos del mapa y, aun así, tener algo en medio. Puede que aún haya margen para el diálogo. Uno de los mensajes de un artículo en el que he estado trabajando es que el diamante podría propiciar cierto diálogo entre las posiciones queer y las concepciones más tradicionales del género, ya sean cristianas, islámicas o de otro tipo.
 
-**Fe:** Yes. If you only have two options, the boundary between them becomes incredibly strong. Look at US elections: you basically have two dominant parties, and the tension between those two sides becomes extreme. When a structure only allows two positions, the border itself starts to become the most important thing.
+No porque las diferencias políticas desaparezcan. No es así. Sino porque la feminidad y la masculinidad también pueden reintegrarse en el pensamiento queer, en lugar de ser tratadas únicamente como conceptos que lo queer debe destruir.
 
-But if instead you have a semantic plane with nine positions—or twenty-five, depending on the issue—you can develop a much more relaxed relationship with the categories. Maybe today I am here, tomorrow I am slightly over there. Whatever. You do not have to attach yourself so seriously to a single position.
+**¿Qué cambia cuando las personas que normalmente son representadas por otros se convierten ellas mismas en las autoras de esa representación? ¿Qué aprenden las personas cuando realmente construyen o trabajan con estos mapas?**
 
-You can even mock the categories a little, because you understand that those nine points are not naturally existing truths. I chose nine partly for pragmatic reasons. They are simply positions inside an open space.
+**Fe:** Creo que hay dos experiencias bastante diferentes. Por un lado, están las personas con lo que podríamos llamar identidades más unitarias —identidades binarias, por ejemplo—. Por otro lado, están las personas que ya experimentan su identidad como algo complejo.
 
-And I think that changes the possibilities for interaction. If democratic debate gives you only two categories, it creates an ideal structure for antagonistic conflict: there are two sides and they have to fight.
+Para las personas de ese segundo grupo, el proceso puede generar la sensación de haber encontrado por fin un lugar. Si has pasado años, quizá toda tu vida, sintiéndote excluido o incomprendido, ver de repente un lugar en el que puedes situarte puede ser algo extremadamente poderoso.
 
-If you have a semantic plane of mixed possibilities, you might create more room for collaboration and for temporary communities.
+Eso formó parte de mi propia experiencia cuando diseñé el «diamante de género». Pensaba: *«Vale, si soy no binario, ¿dónde estoy exactamente?».*
 
-**So rather than consensus, you could have positive tensions. The diamond becomes a sort of prism through which you can look at somebody else’s position.**
+Y esto me lleva de nuevo a la cartografía. Cuando ves un mapa, una de las primeras cosas que sueles hacer es localizarte a ti mismo. Soy de Treviso, así que si miro un mapa de Italia, busco Treviso. *¿Dónde estoy?*
 
-**Fe:** Yes. And I think this becomes particularly important in the current conversation around gender.
+La gente hace lo mismo con el diamante. Y para alguien que ha pasado años sin encontrarse a sí mismo dentro de las categorías dominantes, poder por fin ubicarse puede crear un verdadero sentido de pertenencia.
 
-Queer discourse—especially some of the more radical versions of it—can become completely disconnected from the mainstream conversation, including from the very problematic far-right conversation around gender.
+**¿También lo has visto en lo que respecta a la identidad lingüística?**
 
-The idea behind my gender diamond, but also the South Tyrolean diamond, is partly to say: *Hey, we actually live together in the same space.*
+**Fe:** Muy claramente. En el Tirol del Sur, puede haber alguien que sea bilingüe y que haya sufrido acoso escolar porque, en un entorno, se le consideraba demasiado italiano y, en otro, demasiado alemán. O alguien del Tirol del Sur que va a Roma y, de repente, se encuentra con que le tratan como si no fuera lo suficientemente italiano.
 
-We can be on opposite sides of the map and still have something in between. There may still be room for conversation. One of the messages in a paper I’ve been working on is that the diamond might create some dialogue between queer positions and more traditional Christian, Islamic or other understandings of gender.
+Esas situaciones pueden tener un eco sorprendentemente fuerte en las experiencias no binarias. Te repiten constantemente que no eres del todo una cosa ni del todo la otra.
 
-Not because the political differences disappear. They do not. But because femininity and masculinity can also be brought back into queer thinking rather than treated only as concepts that queerness must destroy.
+Entonces, de repente, ves un mapa en el que existe esa posición intermedia. Eso no resuelve el problema político ni social, por supuesto. Pero te da un sentido de pertenencia. Te dice que tu experiencia tiene sentido dentro de ese mapa.
 
-**What changes when the people who are normally represented by others become the authors of the representation themselves? What do people learn when they actually construct or work through these maps?**
+**¿Y qué ocurre con las personas cuya identidad ya se ajusta bastante bien a las categorías dominantes?**
 
-**Fe:** I think there are two quite different experiences. On one side, you have people with what we could call more unitary identities—binary identities, for example. On the other, you have people who already experience their identity as complex.
+**Fe:** Para ellas, el efecto puede ser casi el contrario. En lugar de generar un sentimiento de pertenencia, la visualización puede resultar desestabilizadora. De repente se dan cuenta de que la realidad es mucho más compleja de lo que habían supuesto, y creo que eso puede convertirse en un momento de aprendizaje.
 
-For people in that second group, the process can produce a feeling of finally finding a place. If you have spent years, perhaps your entire life, feeling excluded or misunderstood, suddenly seeing a position where you can locate yourself can be extremely powerful.
+Pero no es necesariamente un momento agradable. A veces surge la culpa. Puedes darte cuenta de que quizá discriminaste a otras personas simplemente porque tu propia comprensión de la realidad era binaria, y dabas por sentado que todos los demás experimentaban el mundo de la misma manera.
 
-That was part of my own experience when I was designing the gender diamond. I was thinking: *Okay, if I am non-binary, where exactly am I?*
+A veces también surge el rechazo. He tenido exposiciones en las que la gente ha interferido con la obra, casi la ha vandalizado, aunque a veces de formas más sutiles. Así que quizá tenga algunos enemigos. Pero tal vez eso también signifique que el mensaje es lo suficientemente fuerte como para provocar algo.
 
-And this brings me back to cartography. When you see a map, one of the first things you often do is locate yourself. I’m from Treviso, so if I look at a map of Italy, I look for Treviso. *Where am I?*
+**Y no todo tipo de hibridación parece generar la misma resistencia.**
 
-People do the same thing with the diamond. And for somebody who has spent years without finding themselves inside the dominant categories, finally being able to locate themselves can create a real sense of belonging.
+Fe: Exacto. Para mucha gente, la mezcla de identidades lingüísticas es relativamente fácil de aceptar. Se puede decir que alguien es bilingüe y, por lo general, la gente lo entiende.
 
-**You saw that with language identity too?**
+Pero cuando se habla de mezclar o desestabilizar las categorías de género, sobre todo cuando el género está entrelazado con las tradiciones religiosas, la reacción puede ser mucho más negativa. Uno puede encontrarse con un rechazo muy fuerte incluso a la hora de comprender la propuesta.
 
-**Fe:** Very strongly. In South Tyrol, you may have somebody who is bilingual and was bullied at school because in one environment they were considered too Italian and in another too German. Or someone from South Tyrol goes to Rome and suddenly experiences being treated as not Italian enough.
+Y, por supuesto, no siempre me encuentro con esas respuestas de forma directa porque yo también vivo en mi propia burbuja. Si presento la obra en público, es posible que alguien que la rechace por completo no se acerque a mí para explicarme su postura.
 
-Those situations can resonate surprisingly strongly with non-binary experiences. You are continuously told that you are not fully one thing and not fully the other.
+Pero también he tenido la experiencia contraria muchas veces. La gente se me acerca después de ver el diamante y me dice: *«Dios mío, mi hijo está pasando por algo así. Tengo que enseñárselo».* Así que la visualización también puede convertirse en un puente.
 
-Then suddenly you see a map where that in-between position exists. That does not solve the political or social problem, of course. But it produces a sense of place. It tells you that your experience has meaning within the map.
+## **La IA, la visibilidad y la paradoja de la exposición**
 
-**And what happens to people whose identity already corresponds quite comfortably to the dominant categories?**
+**Pasemos a la IA. La mayoría de los sistemas de IA clasifican a las personas antes de comprenderlas. Tú has trabajado en el sesgo y la clasificación de identidades. ¿Qué haría de forma diferente una IA queer? ¿Rechazaría la clasificación?**
 
-**Fe:** For them, the effect can be almost the opposite. Instead of producing a sense of belonging, the visualisation can be destabilising. They suddenly realise that reality is much more complex than they had assumed, and I think that can become a moment of learning.
+**Fe:** Creo que la respuesta tiene que basarse en el contexto. Hay situaciones en las que quizá quiera que un sistema de IA comprenda algo sobre mi identidad, y otras en las que no quiero eso en absoluto.
 
-But it is not necessarily a comfortable moment. Sometimes there is guilt. You may realise that perhaps you discriminated against people simply because your own understanding of reality was binary, and you assumed that everyone else experienced the world in the same way.
+Quizá quiera que Netflix comprenda algunas de mis preferencias porque quiero mejores recomendaciones. De acuerdo. Pero si Arabia Saudí implanta un sistema de reconocimiento facial basado en el género, probablemente no quiera que ese sistema comprenda mi identidad en absoluto.
 
-Sometimes there is also rejection. I have had exhibitions where people interfered with the work, almost vandalised it, although sometimes in more subtle ways. So perhaps I have some enemies. But maybe that also means the message is strong enough to provoke something.
+Esto es lo que describo como la paradoja de la exposición. Cuando una identidad se incluye, se reconoce y se valida, eso puede ser empoderador. Pero esa misma información puede utilizarse más tarde en contra de la comunidad a la que se suponía que debía empoderar. La visibilidad nunca es automáticamente positiva.
 
-**And not every kind of hybridity seems to generate the same resistance.**
+**Por lo tanto, la invisibilidad en sí misma puede convertirse en una forma de poder.**
 
-**Fe:** Exactly. The mixing of linguistic identities is relatively easy for many people to accept. You can say somebody is bilingual and people generally understand that.
+**Fe:** A veces la invisibilidad es poder, y otras veces es una debilidad. Depende de dónde se encuentre la fuente de poder, cuáles sean sus intenciones y cómo se relacionen esas intenciones con los valores e intereses de la comunidad minoritaria.
 
-But when you talk about mixing or destabilising gender categories, especially when gender is intertwined with religious traditions, the reaction can be much more negative. You can encounter a very strong refusal even to understand the proposition.
+Por eso no creo que pueda haber una única respuesta. No existe una única IA, sino una ecología de sistemas de IA, y cada uno de esos sistemas establece una relación diferente con la visibilidad, la clasificación y el poder.
 
-And of course, I don’t always encounter those responses directly because I also live in my own bubble. If I present the work publicly, somebody who completely rejects it may not come to me and explain their position.
+**¿Son potencialmente más seguros los sistemas de IA de base o controlados por la comunidad?**
 
-But I have also had the opposite experience many times. People come to me after seeing the diamond and say: *Oh my God, my son is going through something like this. I need to show this to him.* So the visualisation can also become a bridge.
+**Fe:** Pueden resultar interesantes, pero yo seguiría siendo cauteloso. Aquí en Turín hay un grupo que trabaja en modelos de IA de base, y creo que es una iniciativa muy interesante.
 
-## **AI, visibility and the paradox of exposure**
+Pero incluso con los microproyectos, hay que preguntarse inmediatamente: ¿quién participa realmente? ¿Quién controla la infraestructura? ¿Cómo se va a utilizar la información? ¿En qué momento entrarán las empresas? ¿Dónde entra en juego el beneficio económico?
 
-**Let’s move into AI. Most AI systems classify people before they understand them. You have worked on bias and identity classification. What would a queer AI do differently? Would it refuse classification?**
+Un proyecto no se convierte automáticamente en seguro por el mero hecho de ser pequeño o de autodenominarse «de base»; las cuestiones políticas siguen estando ahí.
 
-**Fe:**I think the answer has to be context-based. There are situations where I might want an AI system to understand something about my identity, and others where I absolutely do not want that.
+**Aquí nos encontramos ante un dilema muy complicado. Las comunidades LGBTQ+, racializadas y trans suelen estar infrarrepresentadas en los conjuntos de datos de entrenamiento. Por lo tanto, una respuesta posible es: recopilar datos más diversos. Pero más datos también pueden significar más vigilancia y exposición. Si tuvieras que elegir entre recopilar más datos para mejorar la representación, recopilar solo datos bajo el control de la comunidad o recopilar menos datos aunque el modelo pierda precisión, ¿cómo lo abordarías?**
 
-Maybe I want Netflix to understand some of my preferences because I want better recommendations. Fine. But if Saudi Arabia implements a facial-recognition system based on gender, I probably do not want that system to understand my identity at all.
+**Fe:** Este es casi exactamente el problema que estoy abordando en un artículo que estoy revisando. Existe un enfoque feminista muy interesante sobre el sesgo que describe una tensión entre la precisión y la discriminación.
 
-This is what I describe as the paradox of exposure. When an identity is included, recognised and validated, that can be empowering. But the same information can later be used against the community it was supposed to empower. Visibility is never automatically good.
+La precisión, en este contexto, se refiere a en qué medida el modelo refleja la realidad, incluso cuando esa realidad es imperfecta o injusta. La discriminación, por otro lado, se refiere a si el modelo produce resultados que son problemáticos para las comunidades minoritarias. Dependiendo de cuál de los dos se priorice, se puede llegar a respuestas completamente diferentes.
 
-**Invisibility itself can therefore become a form of power.**
+Imaginemos que damos prioridad a la no discriminación. Quizá el objetivo no sea enseñar a la IA los estereotipos de género más precisos desde el punto de vista estadístico. Quizá el objetivo sea transmitir que el género es una construcción social y no debería determinar ciertos resultados.
 
-**Fe:** Sometimes invisibility is power, and sometimes it is a weakness. It depends on where the source of power is, what its intentions are, and how those intentions relate to the values and interests of the minoritised community.
+En ese caso, podría incluso querer que la IA me diera respuestas aleatorias en relación con el género. Si el género no debe ser relevante para la pregunta, la aleatoriedad podría ser más ética que la precisión. El sistema estaría diciendo, en la práctica: *«Esta categoría no debe determinar la respuesta».* De hecho, ese fue uno de los resultados que se desprendieron de mi estudio.
 
-That is why I don’t think there can be one single answer. There is not one AI, but an ecology of AI systems, and each of those systems creates a different relationship with visibility, classification and power.
+**¿Y qué ocurre si lo que buscas es la precisión?**
 
-**Are grassroots or community-controlled AI systems potentially safer?**
+**Fe:** Entonces surge otro problema. Quizá quieras que el sistema refleje con precisión los estereotipos que existen en la sociedad.
 
-**Fe:** They can be interesting, but I would still be cautious. Here in Turin there is a group working around grassroots AI models, and I think that is a very interesting initiative.
+Tenemos una idea cultural generalizada y compartida de quién se percibe como hombre, quién como mujer y, quizá cada vez más, quién como no binario. Pero en cuanto te adentras en todos los matices que hay entre esas posiciones, el propio estereotipo social se vuelve mucho menos estable. La gente no comparte necesariamente una comprensión precisa de esas identidades.
 
-But even with micro-projects, you immediately have to ask: who is actually involved? Who controls the infrastructure? How is the information going to be used? Where will companies enter later? Where does profit enter?
+Entonces, ¿qué significaría siquiera la precisión? No se puede reproducir a la perfección un estereotipo social que no existe de forma coherente.
 
-A project does not automatically become safe because it is small or because it calls itself grassroots, the political questions remain.
+Quizá entonces la precisión resulte útil de otra manera. Tal vez quiera ver los sesgos de la IA porque quiero entender hasta qué punto es sesgado Internet. En ese caso, la propia respuesta inquietante se convierte en una prueba.
 
-**There is a very difficult dilemma here. LGBTQ+, racialised and trans communities are frequently underrepresented in training datasets. So one response is: collect more diverse data. But more data can also mean more surveillance and exposure.**
+**Así que quizá la IA más interesante no tendría por qué dar una respuesta.**
 
-If you had to choose between collecting more data to improve representation, only collecting data under community control, or collecting less data even if the model becomes less accurate, how would you approach it?
+**Fe:** Exacto. Quizá la opción más interesante sea una IA que plantee preguntas críticas, una IA que suscite el debate en lugar de dar una respuesta definitiva.
 
-**Fe:** This is almost exactly the problem I’m dealing with in a paper I’m revising. There is a very interesting feminist approach to bias that describes a tension between accuracy and discrimination.
+En lugar de presentarse como la máquina que lo sabe todo, podría poner de manifiesto los supuestos que subyacen a la pregunta. Por supuesto, a veces se necesita realmente una respuesta, así que, una vez más, el contexto es importante.
 
-Accuracy, in this context, is about how much the model reflects reality, even when that reality is imperfect or unfair. Discrimination, on the other hand, is about whether the model produces outcomes that are problematic for minoritised communities. Depending on which one you prioritise, you can arrive at completely different answers.
+Pero esta idea me parece mucho más interesante: la IA no como una simple máquina de respuestas, sino como algo capaz de generar un debate crítico.
 
-Imagine that we prioritise non-discrimination. Perhaps the objective is not to teach the AI the most statistically accurate gender stereotypes. Perhaps the objective is to communicate that gender is socially constructed and should not determine certain outcomes.
+**Esto guarda relación con un experimento que estamos desarrollando. Contamos con un agente de IA con tres personalidades diferentes, a una de las cuales llamamos «el Joker», tomando prestado el papel del Teatro Legislativo. El Joker es, en esencia, un facilitador que evita limitarse a dar respuestas. Puede obligar a las personas a reformular una pregunta, introducir humor, crear silencio o desestabilizar los supuestos que subyacen a la pregunta.**
 
-In that case, I might actually want the AI to give me random answers in relation to gender. If gender should be irrelevant to the question, randomness might be more ethical than accuracy. The system would effectively be saying: *This category should not determine the answer.* That was actually one of the results that emerged from my study.
+**Me imagino algo similar con tus diamantes: colocar uno físicamente en el suelo, retirar los dispositivos y pedir a la gente que se mueva a su alrededor. Quizá las personas que parecen estar en bandos opuestos descubran un espacio intermedio donde el diálogo sea posible.**
 
-**And what happens if accuracy is what you want?**
+**Estamos explorando estas configuraciones, especialmente en torno a la salud mental de los jóvenes, y también reflexionando sobre el derecho a no hablar, a no aparecer físicamente o incluso a desaparecer temporalmente del proceso.**
 
-**Fe:** Then another problem appears. Perhaps you want the system to accurately reflect the stereotypes that exist in society.
+**La dificultad radica en que los modelos de IA intentan continuamente mostrarse complacientes. Incluso cuando se diseña al agente para que se comporte como un «Joker», de repente empieza a halagar a los participantes o a refugiarse en respuestas genéricas y seguras. ¿Has probado algo parecido?**
 
-We have some broad shared cultural idea of who is perceived as a man, who is perceived as a woman, and perhaps increasingly who is perceived as non-binary. But once you move into all the shades between those positions, the social stereotype itself becomes much less stable. People do not necessarily share a precise understanding of those identities.
-
-So what would accuracy even mean? You cannot perfectly reproduce a social stereotype that does not exist in a coherent form.
-
-Maybe then accuracy becomes useful in a different way. Perhaps I want to see the AI’s biases because I want to understand how biased the internet is. In that case, the disturbing answer itself becomes evidence.
-
-**So perhaps the most interesting AI would not necessarily give an answer.**
-
-**Fe:** Exactly. Perhaps the most interesting option is an AI that prompts critical questions, an AI that sparks discussion rather than giving you a definitive answer.
-
-Instead of presenting itself as the machine that knows, it could make the assumptions behind the question visible. Of course, sometimes you genuinely need an answer, so again, context matters.
-
-But I find this idea much more interesting: AI not simply as an answer machine, but as something capable of creating critical discussion.
-
-**That connects with an experiment we are developing. We have an AI agent with three different personalities, one of which we call the Joker, borrowing the role from Legislative Theatre. The Joker is essentially a facilitator who avoids simply answering. It may force people to reformulate a prompt, introduce humour, create silence or destabilise the assumptions behind the question.**
-
-**I can imagine something similar with your diamonds: put one physically on the floor, remove the devices, and ask people to move through it. Perhaps people who appear to be on opposite sides discover an intermediate space where dialogue becomes possible.**
-
-**We are exploring these setups especially around youth mental health, and also thinking about the right not to speak, not to appear physically or even temporarily to disappear from the process.**
-
-**The difficulty is that AI models continuously try to become agreeable. Even when you design the agent to behave as a Joker, it suddenly starts flattering the participants or retreating into safe generic answers.**
-
-**Have you experimented with anything similar?**
-
-**Fe:** Unfortunately, not really. I’m already overwhelmed by the projects I’m working on. But conceptually I think there is a strong connection. Especially the idea that the system does not need to resolve the problem. It can instead help people remain with the complexity of the problem.
+**Fe:** Por desgracia, la verdad es que no. Ya estoy desbordado con los proyectos en los que estoy trabajando. Pero, desde un punto de vista conceptual, creo que hay una fuerte conexión. Sobre todo la idea de que el sistema no tiene por qué resolver el problema. En cambio, puede ayudar a las personas a aceptar la complejidad del problema.

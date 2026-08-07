@@ -33,7 +33,7 @@ image:
 ---
 Federico (Fe) Simeoni’s work sits somewhere between information design, cartography, critical research and queer visual culture. At the centre of it is a deceptively simple question: what happens when the categories we use to represent people no longer correspond to the complexity of their lived experience?
 
-Over the years, this question has led him from maps and geopolitical visualisation to gender, linguistic identity, intersectionality and artificial intelligence. His “diamonds”—visual systems designed to map positions across a field rather than force people into binary categories—have become both research tools and spaces for conversation.
+Over the years, this question has led him from maps and geopolitical visualisation to gender, linguistic identity, intersectionality and artificial intelligence. His “diamonds", the visual systems designed to map positions across a field rather than force people into binary categories, have become both research tools and spaces for conversation.
 
 In this interview, we talk about how visualisation can help people locate themselves, how categories can simultaneously constrain and empower, what democratic deliberation might learn from queer visual cultures, and why sometimes the most interesting AI is not the one that provides the answer, but the one that makes the question more difficult.
 
@@ -57,13 +57,7 @@ So information design became a way of understanding myself.
 
 I sometimes say that I was literally doing psychotherapy on myself through information design. Because my information-designer brain was asking: *Okay, but what is the gender spectrum? How does this actually work?*
 
-And when I spoke with people, I encountered all these very messy, sometimes contradictory ideas about gender.
-
-Of course gender is messy. Gender is complex. That’s true.
-
-But if there is also a need to create some sort of shared understanding, then you have to ask: how do we do that without pretending that the complexity disappears?
-
-That became my obsession during my master’s, and eventually it became the thesis.
+And when I spoke with people, I encountered all these very messy, sometimes contradictory ideas about gender. Of course gender is messy. Gender is complex. That’s true. But if there is also a need to create some sort of shared understanding, then you have to ask: how do we do that without pretending that the complexity disappears? That became my obsession during my master’s, and eventually it became the thesis.
 
 **In that story, the visualisation almost becomes a living object. It begins as a way of understanding yourself and then develops into something that other people can use. What tools do you actually work with?**
 
@@ -101,11 +95,9 @@ And there are also horrible bureaucratic situations. Perhaps your degree is in G
 
 **Most of that development happened through one-to-one interviews. Have you also used these visualisations collectively?**
 
-**Fe:**When I’m developing the tools themselves, I tend to prefer one-to-one interviews. You have more control over the conversation, you can really follow one person’s perspective, and with the transcription you can understand more clearly why somebody is reacting in a particular way.
+**Fe:**When I’m developing the tools themselves, I tend to prefer one-to-one interviews. You have more control over the conversation, you can really follow one person’s perspective, and with the transcription you can understand more clearly why somebody is reacting in a particular way. 
 
-But I have also conducted workshops.
-
-I did one recently in Utrecht, for example, where I showed some of my diamonds and then asked participants to develop their own, based on their lived experience. That workshop was with information designers, so the formalisation itself was not really the difficult part. The challenge for them was often choosing the right topic.
+I have also conducted workshops. I did one recently in Utrecht, for example, where I showed some of my diamonds and then asked participants to develop their own, based on their lived experience. That workshop was with information designers, so the formalisation itself was not really the difficult part. The challenge for them was often choosing the right topic.
 
 I also did a similar workshop with a delegation of minority activists connected to the UN, and there the situation was almost reversed. Each activist already had a very deep knowledge of their own minority or political issue, so finding the subject was easy. They created their own diamonds and mapped forms of discrimination onto them. The difficulty was more in translating that knowledge into a formal visual system.
 
@@ -121,11 +113,7 @@ The process would probably become too chaotic. But using a visual structure that
 
 **That is closer to what I imagine. Citizen assemblies usually rely on sortition and try to create some kind of representative microcosm of the population. But representation there is already complicated. People without papers may not appear in the sampling frame. Migration, identity and other dimensions of difference are often treated weakly.**
 
-And assemblies also tend to work on subjects that can supposedly be discussed by everyone—climate, mobility, urban policy.
-
-But imagine an assembly around something more difficult: sexual harassment, identity, youth mental health in relation to AI.
-
-In those cases, perhaps you first work with the people most affected, develop situated visualisations from their experiences, and then bring those structures into a wider assembly.
+**Assemblies also tend to work on subjects that can supposedly be discussed by everyone: climate, mobility, urban policy. But imagine an assembly around something more difficult: sexual harassment, identity, youth mental health in relation to AI. In those cases, perhaps you first work with the people most affected, develop situated visualisations from their experiences, and then bring those structures into a wider assembly.**
 
 **Fe:** Yes, that makes much more sense to me. I would not ask the assembly to create the diamond collectively. Instead, you could have a diamond that has already been designed—perhaps through interviews, workshops or other participatory methods—and then bring it into the assembly.
 
@@ -147,13 +135,9 @@ For biological sex, for example, could I really build exactly the same two-axis 
 
 So the point is not to impose one universal visual model onto every aspect of identity. The model itself has to remain situated.
 
-**And there is another paradox. Many digital participation platforms deliberately use high levels of anonymisation, which is important for privacy. But that also means you cannot gather very meaningful intersectional information.**
+**And there is another paradox. Many digital participation platforms deliberately use high levels of anonymisation, which is important for privacy. But that also means you cannot gather very meaningful intersectional information. So to understand inequality you need data, but gathering the data can itself produce vulnerability.**
 
-So to understand inequality you need data, but gathering the data can itself produce vulnerability.
-
-**Fe:** Exactly.
-
-This problem becomes even more serious once you move into AI.
+**Fe:** Exactly. This problem becomes even more serious once you move into AI.
 
 Because there is always this tension between being visible enough to be represented and being visible enough to be targeted.
 
@@ -175,21 +159,17 @@ So for me, the important question is not simply: *Are categories good or bad?* I
 
 **Fe:** Absolutely. Radical queer people sometimes criticise my work because they see a system and immediately reject the idea of the system. And I understand that criticism.
 
-If someone said tomorrow that we should put my gender diamond into passports, I would be terrified. I would not want that at all.
-
-So when we use this queer—or anti-queer—visualisation, the question has to be: *for what?*
+If someone said tomorrow that we should put my gender diamond into passports, I would be terrified. I would not want that at all. So when we use this queer or anti-queer visualisation, the question has to be: *for what?*
 
 If we use it to expose gender biases in artificial intelligence, I think that can be very valuable. If someone uses it to say, *Great, now we have nine consumer identities and we can create a fashion collection for each of them and make more money*, then perhaps that is very different.
 
-If it is used to research bullying in schools, perhaps it becomes interesting again.
-
-So the politics depends entirely on the context in which the visualisation is used.
+If it is used to research bullying in schools, perhaps it becomes interesting again. The politics depends entirely on the context in which the visualisation is used.
 
 **One thing I find particularly interesting is that your model moves away from two opposing camps.**
 
 **Fe:** Yes. If you only have two options, the boundary between them becomes incredibly strong. Look at US elections: you basically have two dominant parties, and the tension between those two sides becomes extreme. When a structure only allows two positions, the border itself starts to become the most important thing.
 
-But if instead you have a semantic plane with nine positions—or twenty-five, depending on the issue—you can develop a much more relaxed relationship with the categories. Maybe today I am here, tomorrow I am slightly over there. Whatever. You do not have to attach yourself so seriously to a single position.
+But if instead you have a semantic plane with nine positions, or twenty-five, depending on the issue, you can develop a much more relaxed relationship with the categories. Maybe today I am here, tomorrow I am slightly over there. Whatever. You do not have to attach yourself so seriously to a single position.
 
 You can even mock the categories a little, because you understand that those nine points are not naturally existing truths. I chose nine partly for pragmatic reasons. They are simply positions inside an open space.
 
@@ -201,7 +181,7 @@ If you have a semantic plane of mixed possibilities, you might create more room 
 
 **Fe:** Yes. And I think this becomes particularly important in the current conversation around gender.
 
-Queer discourse—especially some of the more radical versions of it—can become completely disconnected from the mainstream conversation, including from the very problematic far-right conversation around gender.
+Queer discourse, especially some of the more radical versions of it, can become completely disconnected from the mainstream conversation, including from the very problematic far-right conversation around gender.
 
 The idea behind my gender diamond, but also the South Tyrolean diamond, is partly to say: *Hey, we actually live together in the same space.*
 
@@ -271,9 +251,7 @@ But even with micro-projects, you immediately have to ask: who is actually invol
 
 A project does not automatically become safe because it is small or because it calls itself grassroots, the political questions remain.
 
-**There is a very difficult dilemma here. LGBTQ+, racialised and trans communities are frequently underrepresented in training datasets. So one response is: collect more diverse data. But more data can also mean more surveillance and exposure.**
-
-If you had to choose between collecting more data to improve representation, only collecting data under community control, or collecting less data even if the model becomes less accurate, how would you approach it?
+**There is a very difficult dilemma here. LGBTQ+, racialised and trans communities are frequently underrepresented in training datasets. So one response is: collect more diverse data. But more data can also mean more surveillance and exposure. If you had to choose between collecting more data to improve representation, only collecting data under community control, or collecting less data even if the model becomes less accurate, how would you approach it?**
 
 **Fe:** This is almost exactly the problem I’m dealing with in a paper I’m revising. There is a very interesting feminist approach to bias that describes a tension between accuracy and discrimination.
 
@@ -307,8 +285,6 @@ But I find this idea much more interesting: AI not simply as an answer machine, 
 
 **We are exploring these setups especially around youth mental health, and also thinking about the right not to speak, not to appear physically or even temporarily to disappear from the process.**
 
-**The difficulty is that AI models continuously try to become agreeable. Even when you design the agent to behave as a Joker, it suddenly starts flattering the participants or retreating into safe generic answers.**
-
-**Have you experimented with anything similar?**
+**The difficulty is that AI models continuously try to become agreeable. Even when you design the agent to behave as a Joker, it suddenly starts flattering the participants or retreating into safe generic answers. Have you experimented with anything similar?**
 
 **Fe:** Unfortunately, not really. I’m already overwhelmed by the projects I’m working on. But conceptually I think there is a strong connection. Especially the idea that the system does not need to resolve the problem. It can instead help people remain with the complexity of the problem.
