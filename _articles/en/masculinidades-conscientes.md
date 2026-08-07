@@ -169,7 +169,7 @@ From there, reflection can take root.
 
 And then come the tools: emotional education, communication, conflict management, the development of more flexible identities, and a culture of care. We aren’t inventing something completely new. We have decades of experience in how to strengthen people and communities. The question is how to make those tools as accessible and emotionally appealing as the simplified narratives circulating on social media today.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.43.31.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/10.png"}] } %}
 
 ### **The Muscles That Are Atrophying**
 
