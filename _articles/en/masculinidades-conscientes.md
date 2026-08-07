@@ -33,7 +33,7 @@ Las respuestas de Miquel componen así un segundo relato que atraviesa toda la c
 
 ## **Sailing Toward Other Masculinities**
 
-**Question:** In *Manuscript for Crew Members Sailing Toward Equality*, you constantly use the metaphor of a journey and a logbook. Before getting into the heart of the matter, why did you decide to use the image of a journey specifically to talk about masculinity?
+### **In *Manuscript for Crew Members Sailing Toward Equality*, you constantly use the metaphor of a journey and a logbook. Before getting into the heart of the matter, why did you decide to use the image of a journey specifically to talk about masculinity?**
 
 **MJFF:** There’s a concept from the world of sailing that I’ve always found very evocative: circumnavigation. It refers to a twofold journey. On the one hand, the journey you take toward a destination; on the other, the inner journey that takes place as you travel that route.
 
@@ -43,7 +43,8 @@ The idea was precisely to play with a world that was foreign to me: the world of
 
 ## **Building an Alternative Culture**
 
-**Question:** What are the main obstacles men face when they try to challenge traditional models of masculinity?
+### **What are the main obstacles men face when they try to challenge traditional models of masculinity?**
+
 **MJFF:** Creo que el gran obstáculo sigue siendo la falta de una cultura alternativa suficientemente consolidada. Lo que llamamos masculinidad hegemónica no es únicamente una suma de comportamientos individuales; es una cultura completa, con sus referentes, sus modelos de éxito, sus expectativas y sus recompensas.
 
 The great challenge lies precisely in building a counterculture capable of offering alternative life scripts. Feminism has done extraordinary work in this regard, creating alternative frameworks and expanding the possibilities of what it means to be a woman. Men, on the other hand, are still in a much earlier stage. We are laying the groundwork.
@@ -56,7 +57,7 @@ In fact, part of the current rise of neo-machismo can be understood as a reactio
 
 ## **Loss of Rights or Loss of Privileges?**
 
-**Question:** Is there a risk that some men might perceive discourses on equality more as a loss than as an opportunity?
+### **Is there a risk that some men might perceive discourses on equality more as a loss than as an opportunity?**
 
 **MJFF:** Yes, absolutely. We live in a society marked by uncertainty, precariousness, and the feeling that many of the promises of well-being are no longer guaranteed. In the face of this insecurity, certain discourses offer simple explanations and point to specific culprits.
 
@@ -68,7 +69,7 @@ But that is a fallacy deeply rooted in macho culture. The fact that other people
 
 ## **Vulnerability, Mental Health, and Frozen Intimacy**
 
-**Question:** What taboos still exist among men when it comes to mental health?
+### **What taboos still exist among men when it comes to mental health?**
 
 **MJFF:** I think it all revolves around vulnerability. One of the key tenets of traditional masculinity is self-sufficiency—the idea that a man must be able to solve any problem on his own, without anyone’s help.
 
@@ -76,7 +77,7 @@ When you internalize that expectation, asking for help can easily feel like a fa
 
 Added to this is another important factor: emotional language has not historically been an area in which men have been socialized. When a person tries to put into words what is happening to them and has never practiced that skill, they may feel not only vulnerable but also awkward, lost, or incapable. For a long time, talking about emotions has been associated with a realm considered feminine. And that, too, has created distance.
 
-**Question:** Why are so many men able to talk for hours about work, sports, or politics, but find it hard to talk about fear, sadness, or loneliness?
+### **Why are so many men able to talk for hours about work, sports, or politics, but find it hard to talk about fear, sadness, or loneliness?**
 
 **MJFF:** Because we’ve been raised to look outward.
 
@@ -90,11 +91,9 @@ Women have historically created spaces of sisterhood. Perhaps we need to create 
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.42.01.png"}] } %}
 
-## **Generational Differences, the "Manosphere," and Young People Caught Between Discourses**
+## **Generational Differences, the "Manosphere," and Young People Caught Between Discourses. A More Diverse Generation Than We Realize**
 
-### **A More Diverse Generation Than We Realize**
-
-**Question:** There’s often talk of an increasingly polarized youth. However, you work with teenagers and young adults every day. What differences do you observe compared to previous generations when it comes to mental health and masculinities?
+### **There’s often talk of an increasingly polarized youth. However, you work with teenagers and young adults every day. What differences do you observe compared to previous generations when it comes to mental health and masculinities?**
 
 **MJFF:** Contrary to some prevailing narratives, I’m actually quite optimistic.
 
@@ -112,7 +111,7 @@ Nor do I recall hearing conversations about gender, inequality, or masculinities
 
 That’s why I speak of optimism. Not because the problems have disappeared, but because I see more tools, more ways of expressing ourselves, and more opportunities for reflection than there were when I was young.
 
-In our recent work with young people as part of the SoReDi project—which focuses on youth well-being, artificial intelligence, and digital environments—we have encountered a recurring concern. We often analyze the manosphere for its effects on women or on democratic coexistence, but we talk much less about how it might affect the young men who inhabit those spaces themselves. Do you recognize situations in your work where young men feel pressured by certain models of masculinity promoted by the manosphere? What forms of distress, insecurity, or suffering can these discourses generate in those who try to conform to them?
+### **In our recent work with young people as part of the SoReDi project—which focuses on youth well-being, artificial intelligence, and digital environments—we have encountered a recurring concern. We often analyze the manosphere for its effects on women or on democratic coexistence, but we talk much less about how it might affect the young men who inhabit those spaces themselves. Do you recognize situations in your work where young men feel pressured by certain models of masculinity promoted by the manosphere? What forms of distress, insecurity, or suffering can these discourses generate in those who try to conform to them?**
 
 **MJFF:** Yes, absolutely. And I think this is a reality that cuts across much of the Western world. The first thing we must acknowledge is that there is a structural dimension to the problem. We’re talking about digital environments governed by algorithms that are extremely effective at capturing attention and reinforcing certain narratives.
 
@@ -130,7 +129,7 @@ And when a person feels they are being judged, they are unlikely to be open to r
 
 ## **Understand Before Judging**
 
-**Question:** What do you think we’ve learned from working with men and young people that can help us address this phenomenon?
+### **What do you think we’ve learned from working with men and young people that can help us address this phenomenon?**
 
 **MJFF:** There’s a very important lesson we learned from working with men who commit acts of violence. We don’t justify violence. But we try to understand it. Understanding doesn’t mean excusing. It means understanding the processes that have led a person to act in a certain way so that we can address them. If we don’t understand how certain behaviors are formed, we’ll have a hard time changing them.
 
@@ -140,7 +139,7 @@ Not because everything he says is correct, but because only from that starting p
 
 ## **The “manosphere” and “hamburger messages”**
 
-**Question:** What makes this kind of discourse so appealing to some young people?
+### **What makes this kind of discourse so appealing to some young people?**
 
 **MJFF:** Because it offers simple solutions to very complex problems. The manosphere works very well on an emotional level. It creates spaces where many young men feel that someone is listening to them, understands them, and doesn’t question them right off the bat. It also offers quick, easily digestible explanations. Journalist Carmen Ruiz uses an expression that I find very apt: she calls them “hamburger messages.” They’re messages that are easy to consume—quick, immediate, and emotionally effective.
 
@@ -152,7 +151,7 @@ That’s why the challenge isn’t just about debunking those narratives. It’s
 
 ## **Building Democratic Antifragility**
 
-**Question:** If we think about young people who want to resist that pressure from the manosphere, how do we build that critical capacity or that kind of antifragility?
+### **If we think about young people who want to resist that pressure from the manosphere, how do we build that critical capacity or that kind of antifragility?**
 
 **MJFF:** I start from a fairly simple idea: most young people want to be good people. Sometimes we forget that.
 
@@ -168,7 +167,7 @@ And then come the tools: emotional education, communication, conflict management
 
 ### **The Muscles That Are Atrophying**
 
-**Question:** Which emotional and democratic muscles atrophy when models based on competition, domination, or individualism predominate?
+### **Which emotional and democratic muscles atrophy when models based on competition, domination, or individualism predominate?**
 
 **MJFF:** I believe that the very muscles that allow us to recognize our interdependence are atrophying. Trust, cooperation, the ability to ask for help, the ability to offer it, empathy, listening, and the ability to see ourselves reflected in others. When everything boils down to competing or surviving as individuals, those muscles stop getting exercised. And a society where mistrust prevails is also a society that’s much easier to manipulate.
 
@@ -176,7 +175,7 @@ That’s why I’m concerned that responses to deeply collective problems are in
 
 ### **The Muscle of Care**
 
-**Question:** You’ve spoken about care and trust. How does that translate into concrete democratic muscles?
+### **You’ve spoken about care and trust. How does that translate into concrete democratic muscles?**
 
 **MJFF:** A few weeks ago, I was working with young people at a high school in Calvià, and I asked them what it meant to them to feel cared for. One boy gave a very simple answer: “I feel cared for when someone spends time with me.” I found that to be a very powerful response because it reminds us that care isn’t just about protection. It’s also about presence, attention, and availability.
 
