@@ -175,6 +175,8 @@ Desde ahí se puede construir reflexión.
 
 Y después vienen las herramientas: la educación emocional, la comunicación, la gestión de conflictos, la construcción de identidades más flexibles o la cultura de los cuidados. No estamos inventando algo completamente nuevo. Disponemos de décadas de experiencia sobre cómo fortalecer personas y comunidades. La cuestión es cómo hacer que esas herramientas resulten tan accesibles y emocionalmente atractivas como los discursos simplificados que circulan hoy por las redes.
 
+{% gallery { "simple": true, "images": [{"path":"/media/5.png"}] } %}
+
 ### **Los músculos que se están atrofiando**
 
 **Pregunta:** ¿Qué músculos emocionales y democráticos se atrofian cuando predominan modelos basados en la competición, la dominación o el individualismo?
