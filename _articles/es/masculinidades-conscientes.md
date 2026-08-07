@@ -85,6 +85,8 @@ Pero eso es una falacia profundamente arraigada en la cultura machista. Que otra
 
 Cuando interiorizas ese mandato, pedir ayuda se convierte fácilmente en una experiencia de fracaso. Reconocer que no puedes más, acudir a un profesional o apoyarte en otras personas puede vivirse como una prueba de incapacidad. Por eso muchos hombres llegan tarde a los espacios de ayuda. No porque no sufran, sino porque sienten que no deberían necesitar apoyo.
 
+{% quote %}El lenguaje emocional no ha sido históricamente un territorio donde los hombres hayan sido socializados. Cuando una persona intenta poner palabras a lo que le ocurre y nunca ha entrenado ese registro, además de vulnerable puede sentirse torpe, perdida o incapaz.{% endquote %}
+
 A eso se suma otro elemento importante: el lenguaje emocional no ha sido históricamente un territorio donde los hombres hayan sido socializados. Cuando una persona intenta poner palabras a lo que le ocurre y nunca ha entrenado ese registro, además de vulnerable puede sentirse torpe, perdida o incapaz. Durante mucho tiempo hablar de emociones se ha asociado a un espacio considerado femenino. Y eso también ha generado distancia.
 
 ### **¿Por qué tantos hombres consiguen hablar durante horas de trabajo, deporte o política, pero les cuesta hablar de miedo, tristeza o soledad?**

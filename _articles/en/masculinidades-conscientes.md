@@ -77,6 +77,8 @@ But that is a fallacy deeply rooted in macho culture. The fact that other people
 
 When you internalize that expectation, asking for help can easily feel like a failure. Admitting that you’ve reached your limit, seeking professional help, or relying on others can feel like a sign of weakness. That’s why many men wait too long to seek help. Not because they aren’t suffering, but because they feel they shouldn’t need support.
 
+{% quote %}Emotional language has not historically been an area in which men have been socialized. When a person tries to put into words what is happening to them and has never practiced that skill, they may feel not only vulnerable but also awkward, lost, or incapable. {% endquote %}
+
 Added to this is another important factor: emotional language has not historically been an area in which men have been socialized. When a person tries to put into words what is happening to them and has never practiced that skill, they may feel not only vulnerable but also awkward, lost, or incapable. For a long time, talking about emotions has been associated with a realm considered feminine. And that, too, has created distance.
 
 ### **Why are so many men able to talk for hours about work, sports, or politics, but find it hard to talk about fear, sadness, or loneliness?**
