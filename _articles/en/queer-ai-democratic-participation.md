@@ -75,6 +75,8 @@ But if I put a small visual model in front of you and ask, *Does this make sense
 
 The conversation unfolds through the visualisation. And then, interview after interview, both the visualisation and the structure beneath it evolve. So the image is not necessarily the end product. It is also a conversational interface.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.41.17.png","alt":"Schematisation of the Genderbread Person and the Gender Unicorn","caption":"Schematisation of the Genderbread Person and the Gender Unicorn","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
 ### **So you were not simply interviewing people about the visualisation. You were using the visualisation itself as part of the interview method.**
 
 **Fe:** Exactly. That was basically how I developed the gender diamond. I would start by reading some literature and developing an initial structure, then create a possible design and take it into interviews.
