@@ -229,6 +229,8 @@ Pero no es necesariamente un momento agradable. A veces surge la culpa. Puedes d
 
 A veces también surge el rechazo. He tenido exposiciones en las que la gente ha interferido con la obra, casi la ha vandalizado, aunque a veces de formas más sutiles. Así que quizá tenga algunos enemigos. Pero tal vez eso también signifique que el mensaje es lo suficientemente fuerte como para provocar algo.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.44.54.png","alt":"Visualisation of four gender spectra from diferent cultures","caption":"Visualisation of four gender spectra from diferent cultures","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
 **Y no todo tipo de hibridación parece generar la misma resistencia.**
 
 Fe: Exacto. Para mucha gente, la mezcla de identidades lingüísticas es relativamente fácil de aceptar. Se puede decir que alguien es bilingüe y, por lo general, la gente lo entiende.
