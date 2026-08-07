@@ -41,7 +41,7 @@ A lo largo de los años, esta pregunta le ha llevado desde los mapas y la visual
 
 En esta entrevista, hablamos de cómo la visualización puede ayudar a las personas a situarse a sí mismas, de cómo las categorías pueden, al mismo tiempo, limitar y empoderar, de lo que la deliberación democrática podría aprender de las culturas visuales queer, y de por qué, a veces, la IA más interesante no es la que da la respuesta, sino la que complica la pregunta.
 
-**Empecemos por el principio. ¿Cómo se fue desarrollando tu relación con la visualización de datos y con los datos en general?**
+### **Empecemos por el principio. ¿Cómo se fue desarrollando tu relación con la visualización de datos y con los datos en general?**
 
 **Fe:** Siempre me ha fascinado la visualización de datos, los mapas y la cartografía. De hecho, desde que era niña. Esa fascinación fue una de las cosas que, al final, me llevó a estudiar la carrera de Bellas Artes.
 
@@ -65,7 +65,7 @@ Y cuando hablaba con la gente, me encontraba con todo tipo de ideas muy confusas
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.38.29.png","alt":"The Gender Diamond and Flower","caption":"The Gender Diamond and Flower","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
 
-**En esa historia, la visualización casi se convierte en un objeto vivo. Empieza como una forma de comprenderse a uno mismo y luego se convierte en algo que otras personas pueden utilizar. ¿Con qué herramientas trabajas exactamente?**
+### **En esa historia, la visualización casi se convierte en un objeto vivo. Empieza como una forma de comprenderse a uno mismo y luego se convierte en algo que otras personas pueden utilizar. ¿Con qué herramientas trabajas exactamente?**
 
 Fe: La verdad es que no soy una persona muy manitas ni con habilidades manuales. Soy más bien una criatura digital, así que, técnicamente, trabajo con programación, D3, entornos digitales y visualización interactiva. Obviamente, esas son herramientas. Pero cuando pienso en las herramientas que realmente importan más en mi trabajo, la primera es probablemente la gente.
 
@@ -81,7 +81,7 @@ La conversación se desarrolla a través de la visualización. Y luego, entrevis
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.41.17.png","alt":"Schematisation of the Genderbread Person and the Gender Unicorn","caption":"Schematisation of the Genderbread Person and the Gender Unicorn","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
 
-**Así que no te limitabas a entrevistar a la gente sobre la visualización. Utilizabas la propia visualización como parte del método de entrevista.**
+### **Así que no te limitabas a entrevistar a la gente sobre la visualización. Utilizabas la propia visualización como parte del método de entrevista.**
 
 **Fe:** Exacto. Así fue básicamente como desarrollé el «diamante de género». Empezaba leyendo algo de bibliografía y elaborando una estructura inicial; después, creaba un posible diseño y lo llevaba a las entrevistas.
 
@@ -101,7 +101,7 @@ Allí existe un debate muy intenso sobre si se es italoparlante o germanoparlant
 
 Y también hay situaciones burocráticas terribles. Quizás tengas tu título en alemán y, por eso, no puedas hacer algo dentro de la parte italiana del sistema, o viceversa. Así que lo que parece ser una categoría estable empieza a volverse inestable en cuanto escuchas realmente a la gente.
 
-**La mayor parte de ese desarrollo se llevó a cabo a través de entrevistas individuales. ¿También has utilizado estas visualizaciones de forma colectiva?**
+### **La mayor parte de ese desarrollo se llevó a cabo a través de entrevistas individuales. ¿También has utilizado estas visualizaciones de forma colectiva?**
 
 Fe: Cuando desarrollo las herramientas en sí, suelo preferir las entrevistas individuales. Tienes más control sobre la conversación, puedes seguir realmente la perspectiva de una sola persona y, gracias a la transcripción, puedes entender con mayor claridad por qué alguien reacciona de una manera concreta.
 
@@ -113,7 +113,7 @@ Sin embargo, en ambos casos, la gente seguía trabajando principalmente por su c
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.42.20.png","alt":"Visualisations of the gender spectrum, adapted from sources","caption":"Visualisations of the gender spectrum, adapted from sources","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
 
-**Esto me lleva al tema de la deliberación. Me interesa saber qué podría aportar una visualización de datos no convencional en el seno de las asambleas ciudadanas u otros espacios democráticos. ¿Podría un modelo como el «diamante» formar parte de un proceso deliberativo colectivo?**
+### **Esto me lleva al tema de la deliberación. Me interesa saber qué podría aportar una visualización de datos no convencional en el seno de las asambleas ciudadanas u otros espacios democráticos. ¿Podría un modelo como el «diamante» formar parte de un proceso deliberativo colectivo?**
 
 **Fe:** Creo que hay que distinguir entre utilizar colectivamente un «diamante» y crear colectivamente todo el sistema desde cero. Crear uno de estos sistemas lleva mucho tiempo.
 
@@ -121,19 +121,17 @@ Encontrar las etiquetas adecuadas, comprender cómo se relacionan los conceptos,
 
 Probablemente, el proceso se volvería demasiado caótico. Pero utilizar una estructura visual que ya se haya desarrollado mediante un proceso participativo podría resultar muy interesante.
 
-**Eso se acerca más a lo que imagino. Las asambleas ciudadanas suelen basarse en el sorteo y tratan de crear una especie de microcosmos representativo de la población. Pero la representación ya es complicada en ese contexto. Es posible que las personas indocumentadas no aparezcan en el marco de muestreo. La migración, la identidad y otras dimensiones de la diferencia suelen tratarse de forma superficial.**
+### **Las asambleas ciudadanas suelen basarse en el sorteo y tratan de crear una especie de microcosmos representativo de la población. Pero la representación ya es complicada en ese contexto. Es posible que las personas indocumentadas no aparezcan en el marco de muestreo. La migración, la identidad y otras dimensiones de la diferencia suelen tratarse de forma superficial.**
 
-**Las asambleas también tienden a abordar temas que, en teoría, pueden ser debatidos por todo el mundo: el clima, la movilidad, la política urbana. Pero imagina una asamblea sobre algo más complejo: el acoso sexual, la identidad o la salud mental de los jóvenes en relación con la inteligencia artificial. En esos casos, quizá lo mejor sea trabajar primero con las personas más afectadas, desarrollar representaciones concretas a partir de sus experiencias y, después, llevar esas estructuras a una asamblea más amplia.**
+### **Las asambleas también tienden a abordar temas que, en teoría, pueden ser debatidos por todo el mundo: el clima, la movilidad, la política urbana. Pero imagina una asamblea sobre algo más complejo: el acoso sexual, la identidad o la salud mental de los jóvenes en relación con la inteligencia artificial. En esos casos, quizá lo mejor sea trabajar primero con las personas más afectadas, desarrollar representaciones concretas a partir de sus experiencias y, después, llevar esas estructuras a una asamblea más amplia.**
 
 Fe: Sí, eso me parece mucho más lógico. Yo no pediría a la asamblea que creara el diamante de forma colectiva. En su lugar, se podría partir de un diamante ya diseñado quizá mediante entrevistas, talleres u otros métodos participativos, y luego presentarlo en la asamblea.
 
 La gente podría utilizarlo para debatir posibles formas de discriminación, situando sesgos de información, experiencias o problemas en el diamante. El modelo ya estaría ahí, pero el significado que surgiera en torno a él seguiría abierto.
 
-Y, sobre todo, cuando se empieza a hablar de algo como la democracia europea, la complejidad está presente desde el principio. El objetivo del diamante es, en parte, reconocer la coexistencia de opuestos, pero también dar cabida a aquellas personas que, sencillamente, no se identifican con los grupos mayoritarios dominantes que ostentan el poder.
+Y, sobre todo, cuando se empieza a hablar de algo como la democracia europea, la complejidad está presente desde el principio. El objetivo del diamante es, en parte, reconocer la coexistencia de opuestos, pero también dar cabida a aquellas personas que, sencillamente, no se identifican con los grupos mayoritarios dominantes que ostentan el poder. Se necesita algún tipo de marco que permita que esos matices existan.
 
-Se necesita algún tipo de marco que permita que esos matices existan.
-
-**Esto se relaciona directamente con la interseccionalidad. A menudo decimos que los procesos deliberativos deberían ser interseccionales, pero en cuanto se llega a la recopilación de datos o al diseño institucional propiamente dicho, la cosa se complica mucho más.**
+### **Esto se relaciona directamente con la interseccionalidad. A menudo decimos que los procesos deliberativos deberían ser interseccionales, pero en cuanto se llega a la recopilación de datos o al diseño institucional propiamente dicho, la cosa se complica mucho más.**
 
 **Fe:** Este es uno de los argumentos en los que se basa mi tesis doctoral. La interseccionalidad supuso una aportación extremadamente importante al demostrar que no se puede comprender el poder a través de una única dimensión de la identidad. Es necesario tener en cuenta el género, la raza, la religión, la discapacidad y otras dimensiones de forma conjunta, porque el poder opera a través de su combinación.
 
@@ -145,13 +143,13 @@ En el caso del sexo biológico, por ejemplo, ¿podría realmente construir exact
 
 Así pues, la cuestión no es imponer un único modelo visual universal a todos los aspectos de la identidad. El modelo en sí mismo debe seguir estando contextualizado.
 
-**Y hay otra paradoja. Muchas plataformas de participación digital utilizan deliberadamente altos niveles de anonimización, lo cual es importante para la privacidad. Pero eso también significa que no se puede recopilar información interseccional muy significativa. Así pues, para comprender la desigualdad se necesitan datos, pero la recopilación de esos datos puede, en sí misma, generar vulnerabilidad.**
+### **Y hay otra paradoja. Muchas plataformas de participación digital utilizan deliberadamente altos niveles de anonimización, lo cual es importante para la privacidad. Pero eso también significa que no se puede recopilar información interseccional muy significativa. Así pues, para comprender la desigualdad se necesitan datos, pero la recopilación de esos datos puede, en sí misma, generar vulnerabilidad.**
 
 **Fe:** Exacto. Este problema se agrava aún más cuando se entra en el ámbito de la IA.
 
 Porque siempre existe esa tensión entre ser lo suficientemente visible como para estar representado y ser lo suficientemente visible como para convertirse en blanco de ataques.
 
-**Antes de pasar a la IA, quiero quedarme un momento en la cultura visual queer. Tu trabajo sugiere que la identidad nunca se representa de forma simple. Se diseña, se negocia y se representa. ¿Qué podría aprender la participación democrática de los enfoques queer sobre la representación?**
+### **Antes de pasar a la IA, quiero quedarme un momento en la cultura visual queer. Tu trabajo sugiere que la identidad nunca se representa de forma simple. Se diseña, se negocia y se representa. ¿Qué podría aprender la participación democrática de los enfoques queer sobre la representación?**
 
 **Fe:** Mi relación con la idea del conocimiento queer es bastante complicada. Lo queer a menudo significa tomar un sistema de significados y escapar de él, subvertirlo, destruirlo o desestabilizarlo de alguna manera. Mis diamantes hacen eso: toman un sistema más antiguo: el binario, y lo subvierten.
 
@@ -165,7 +163,7 @@ Pero la etiqueta también aporta visibilidad, y la visibilidad puede generar pod
 
 Así que, para mí, la pregunta importante no es simplemente: *¿Son buenas o malas las categorías? Es: ¿Quién utiliza la categoría? ¿Con qué propósito? ¿Con qué intención?*
 
-**Así que incluso una representación queer puede convertirse en un instrumento de control.**
+### **Así que incluso una representación queer puede convertirse en un instrumento de control.**
 
 **Fe:** Por supuesto. Las personas queer radicales a veces critican mi trabajo porque ven un sistema y rechazan de inmediato la idea misma del sistema. Y entiendo esa crítica.
 
@@ -177,7 +175,7 @@ Si se utiliza para investigar el acoso escolar, quizá vuelva a resultar interes
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.43.26.png","alt":"Example list of sex/gender identities","caption":"Example list of sex/gender identities","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
 
-**Una cosa que me parece especialmente interesante es que tu modelo se aleja de dos bandos opuestos.**
+### **Una cosa que me parece especialmente interesante es que tu modelo se aleja de dos bandos opuestos.**
 
 **Fe:** Sí. Si solo tienes dos opciones, la frontera entre ellas se vuelve increíblemente marcada. Fíjate en las elecciones estadounidenses: básicamente hay dos partidos dominantes, y la tensión entre esos dos bandos se vuelve extrema. Cuando una estructura solo permite dos posiciones, la frontera en sí misma empieza a convertirse en lo más importante.
 
@@ -189,7 +187,7 @@ Y creo que eso cambia las posibilidades de interacción. Si el debate democráti
 
 Si tienes un plano semántico de posibilidades mixtas, podrías crear más espacio para la colaboración y para comunidades temporales.
 
-**Así que, en lugar de consenso, podrían darse tensiones positivas. El diamante se convierte en una especie de prisma a través del cual se puede observar la posición de otra persona.**
+### **Así que, en lugar de consenso, podrían darse tensiones positivas. El diamante se convierte en una especie de prisma a través del cual se puede observar la posición de otra persona.**
 
 **Fe:** Sí. Y creo que esto cobra especial importancia en el debate actual sobre el género.
 
@@ -201,7 +199,7 @@ Podemos estar en lados opuestos del mapa y, aun así, tener algo en medio. Puede
 
 No porque las diferencias políticas desaparezcan. No es así. Sino porque la feminidad y la masculinidad también pueden reintegrarse en el pensamiento queer, en lugar de ser tratadas únicamente como conceptos que lo queer debe destruir.
 
-**¿Qué cambia cuando las personas que normalmente son representadas por otros se convierten ellas mismas en las autoras de esa representación? ¿Qué aprenden las personas cuando realmente construyen o trabajan con estos mapas?**
+### **¿Qué cambia cuando las personas que normalmente son representadas por otros se convierten ellas mismas en las autoras de esa representación? ¿Qué aprenden las personas cuando realmente construyen o trabajan con estos mapas?**
 
 **Fe:** Creo que hay dos experiencias bastante diferentes. Por un lado, están las personas con lo que podríamos llamar identidades más unitarias —identidades binarias, por ejemplo—. Por otro lado, están las personas que ya experimentan su identidad como algo complejo.
 
@@ -213,7 +211,7 @@ Y esto me lleva de nuevo a la cartografía. Cuando ves un mapa, una de las prime
 
 La gente hace lo mismo con el diamante. Y para alguien que ha pasado años sin encontrarse a sí mismo dentro de las categorías dominantes, poder por fin ubicarse puede crear un verdadero sentido de pertenencia.
 
-**¿También lo has visto en lo que respecta a la identidad lingüística?**
+### **¿También lo has visto en lo que respecta a la identidad lingüística?**
 
 **Fe:** Muy claramente. En el Tirol del Sur, puede haber alguien que sea bilingüe y que haya sufrido acoso escolar porque, en un entorno, se le consideraba demasiado italiano y, en otro, demasiado alemán. O alguien del Tirol del Sur que va a Roma y, de repente, se encuentra con que le tratan como si no fuera lo suficientemente italiano.
 
@@ -221,7 +219,7 @@ Esas situaciones pueden tener un eco sorprendentemente fuerte en las experiencia
 
 Entonces, de repente, ves un mapa en el que existe esa posición intermedia. Eso no resuelve el problema político ni social, por supuesto. Pero te da un sentido de pertenencia. Te dice que tu experiencia tiene sentido dentro de ese mapa.
 
-**¿Y qué ocurre con las personas cuya identidad ya se ajusta bastante bien a las categorías dominantes?**
+### **¿Y qué ocurre con las personas cuya identidad ya se ajusta bastante bien a las categorías dominantes?**
 
 **Fe:** Para ellas, el efecto puede ser casi el contrario. En lugar de generar un sentimiento de pertenencia, la visualización puede resultar desestabilizadora. De repente se dan cuenta de que la realidad es mucho más compleja de lo que habían supuesto, y creo que eso puede convertirse en un momento de aprendizaje.
 
@@ -231,7 +229,7 @@ A veces también surge el rechazo. He tenido exposiciones en las que la gente ha
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.44.54.png","alt":"Visualisation of four gender spectra from diferent cultures","caption":"Visualisation of four gender spectra from diferent cultures","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
 
-**Y no todo tipo de hibridación parece generar la misma resistencia.**
+### **Y no todo tipo de hibridación parece generar la misma resistencia.**
 
 Fe: Exacto. Para mucha gente, la mezcla de identidades lingüísticas es relativamente fácil de aceptar. Se puede decir que alguien es bilingüe y, por lo general, la gente lo entiende.
 
@@ -243,7 +241,7 @@ Pero también he tenido la experiencia contraria muchas veces. La gente se me ac
 
 ## **La IA, la visibilidad y la paradoja de la exposición**
 
-**Pasemos a la IA. La mayoría de los sistemas de IA clasifican a las personas antes de comprenderlas. Tú has trabajado en el sesgo y la clasificación de identidades. ¿Qué haría de forma diferente una IA queer? ¿Rechazaría la clasificación?**
+### **Pasemos a la IA. La mayoría de los sistemas de IA clasifican a las personas antes de comprenderlas. Tú has trabajado en el sesgo y la clasificación de identidades. ¿Qué haría de forma diferente una IA queer? ¿Rechazaría la clasificación?**
 
 **Fe:** Creo que la respuesta tiene que basarse en el contexto. Hay situaciones en las que quizá quiera que un sistema de IA comprenda algo sobre mi identidad, y otras en las que no quiero eso en absoluto.
 
@@ -251,13 +249,13 @@ Quizá quiera que Netflix comprenda algunas de mis preferencias porque quiero me
 
 Esto es lo que describo como la paradoja de la exposición. Cuando una identidad se incluye, se reconoce y se valida, eso puede ser empoderador. Pero esa misma información puede utilizarse más tarde en contra de la comunidad a la que se suponía que debía empoderar. La visibilidad nunca es automáticamente positiva.
 
-**Por lo tanto, la invisibilidad en sí misma puede convertirse en una forma de poder.**
+### **Por lo tanto, la invisibilidad en sí misma puede convertirse en una forma de poder.**
 
 **Fe:** A veces la invisibilidad es poder, y otras veces es una debilidad. Depende de dónde se encuentre la fuente de poder, cuáles sean sus intenciones y cómo se relacionen esas intenciones con los valores e intereses de la comunidad minoritaria.
 
 Por eso no creo que pueda haber una única respuesta. No existe una única IA, sino una ecología de sistemas de IA, y cada uno de esos sistemas establece una relación diferente con la visibilidad, la clasificación y el poder.
 
-**¿Son potencialmente más seguros los sistemas de IA de base o controlados por la comunidad?**
+### **¿Son potencialmente más seguros los sistemas de IA de base o controlados por la comunidad?**
 
 **Fe:** Pueden resultar interesantes, pero yo seguiría siendo cauteloso. Aquí en Turín hay un grupo que trabaja en modelos de IA de base, y creo que es una iniciativa muy interesante.
 
@@ -265,7 +263,7 @@ Pero incluso con los microproyectos, hay que preguntarse inmediatamente: ¿quié
 
 Un proyecto no se convierte automáticamente en seguro por el mero hecho de ser pequeño o de autodenominarse «de base»; las cuestiones políticas siguen estando ahí.
 
-**Aquí nos encontramos ante un dilema muy complicado. Las comunidades LGBTQ+, racializadas y trans suelen estar infrarrepresentadas en los conjuntos de datos de entrenamiento. Por lo tanto, una respuesta posible es: recopilar datos más diversos. Pero más datos también pueden significar más vigilancia y exposición. Si tuvieras que elegir entre recopilar más datos para mejorar la representación, recopilar solo datos bajo el control de la comunidad o recopilar menos datos aunque el modelo pierda precisión, ¿cómo lo abordarías?**
+### **Aquí nos encontramos ante un dilema muy complicado. Las comunidades LGBTQ+, racializadas y trans suelen estar infrarrepresentadas en los conjuntos de datos de entrenamiento. Por lo tanto, una respuesta posible es: recopilar datos más diversos. Pero más datos también pueden significar más vigilancia y exposición. Si tuvieras que elegir entre recopilar más datos para mejorar la representación, recopilar solo datos bajo el control de la comunidad o recopilar menos datos aunque el modelo pierda precisión, ¿cómo lo abordarías?**
 
 **Fe:** Este es casi exactamente el problema que estoy abordando en un artículo que estoy revisando. Existe un enfoque feminista muy interesante sobre el sesgo que describe una tensión entre la precisión y la discriminación.
 
@@ -275,7 +273,7 @@ Imaginemos que damos prioridad a la no discriminación. Quizá el objetivo no se
 
 En ese caso, podría incluso querer que la IA me diera respuestas aleatorias en relación con el género. Si el género no debe ser relevante para la pregunta, la aleatoriedad podría ser más ética que la precisión. El sistema estaría diciendo, en la práctica: *«Esta categoría no debe determinar la respuesta».* De hecho, ese fue uno de los resultados que se desprendieron de mi estudio.
 
-**¿Y qué ocurre si lo que buscas es la precisión?**
+### **¿Y qué ocurre si lo que buscas es la precisión?**
 
 **Fe:** Entonces surge otro problema. Quizá quieras que el sistema refleje con precisión los estereotipos que existen en la sociedad.
 
@@ -285,7 +283,7 @@ Entonces, ¿qué significaría siquiera la precisión? No se puede reproducir a 
 
 Quizá entonces la precisión resulte útil de otra manera. Tal vez quiera ver los sesgos de la IA porque quiero entender hasta qué punto es sesgado Internet. En ese caso, la propia respuesta inquietante se convierte en una prueba.
 
-**Así que quizá la IA más interesante no tendría por qué dar una respuesta.**
+### **Así que quizá la IA más interesante no tendría por qué dar una respuesta.**
 
 **Fe:** Exacto. Quizá la opción más interesante sea una IA que plantee preguntas críticas, una IA que suscite el debate en lugar de dar una respuesta definitiva.
 
@@ -293,12 +291,12 @@ En lugar de presentarse como la máquina que lo sabe todo, podría poner de mani
 
 Pero esta idea me parece mucho más interesante: la IA no como una simple máquina de respuestas, sino como algo capaz de generar un debate crítico.
 
-**Esto guarda relación con un experimento que estamos desarrollando. Contamos con un agente de IA con tres personalidades diferentes, a una de las cuales llamamos «el Joker», tomando prestado el papel del Teatro Legislativo. El Joker es, en esencia, un facilitador que evita limitarse a dar respuestas. Puede obligar a las personas a reformular una pregunta, introducir humor, crear silencio o desestabilizar los supuestos que subyacen a la pregunta.**
+### **Esto guarda relación con un experimento que estamos desarrollando. Contamos con un agente de IA con tres personalidades diferentes, a una de las cuales llamamos «el Joker», tomando prestado el papel del Teatro Legislativo. El Joker es, en esencia, un facilitador que evita limitarse a dar respuestas. Puede obligar a las personas a reformular una pregunta, introducir humor, crear silencio o desestabilizar los supuestos que subyacen a la pregunta.**
 
-**Me imagino algo similar con tus diamantes: colocar uno físicamente en el suelo, retirar los dispositivos y pedir a la gente que se mueva a su alrededor. Quizá las personas que parecen estar en bandos opuestos descubran un espacio intermedio donde el diálogo sea posible.**
+### **Me imagino algo similar con tus diamantes: colocar uno físicamente en el suelo, retirar los dispositivos y pedir a la gente que se mueva a su alrededor. Quizá las personas que parecen estar en bandos opuestos descubran un espacio intermedio donde el diálogo sea posible.**
 
-**Estamos explorando estas configuraciones, especialmente en torno a la salud mental de los jóvenes, y también reflexionando sobre el derecho a no hablar, a no aparecer físicamente o incluso a desaparecer temporalmente del proceso.**
+### **Estamos explorando estas configuraciones, especialmente en torno a la salud mental de los jóvenes, y también reflexionando sobre el derecho a no hablar, a no aparecer físicamente o incluso a desaparecer temporalmente del proceso.**
 
-**La dificultad radica en que los modelos de IA intentan continuamente mostrarse complacientes. Incluso cuando se diseña al agente para que se comporte como un «Joker», de repente empieza a halagar a los participantes o a refugiarse en respuestas genéricas y seguras. ¿Has probado algo parecido?**
+### **La dificultad radica en que los modelos de IA intentan continuamente mostrarse complacientes. Incluso cuando se diseña al agente para que se comporte como un «Joker», de repente empieza a halagar a los participantes o a refugiarse en respuestas genéricas y seguras. ¿Has probado algo parecido?**
 
 **Fe:** Por desgracia, la verdad es que no. Ya estoy desbordado con los proyectos en los que estoy trabajando. Pero, desde un punto de vista conceptual, creo que hay una fuerte conexión. Sobre todo la idea de que el sistema no tiene por qué resolver el problema. En cambio, puede ayudar a las personas a aceptar la complejidad del problema.

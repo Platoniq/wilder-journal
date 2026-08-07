@@ -37,7 +37,7 @@ Over the years, this question has led him from maps and geopolitical visualisati
 
 In this interview, we talk about how visualisation can help people locate themselves, how categories can simultaneously constrain and empower, what democratic deliberation might learn from queer visual cultures, and why sometimes the most interesting AI is not the one that provides the answer, but the one that makes the question more difficult.
 
-**Let’s start from the beginning. How did you develop this relationship with data visualisation and data more broadly?**
+### **Let’s start from the beginning. How did you develop this relationship with data visualisation and data more broadly?**
 
 **Fe:** I’ve always been fascinated by data visualisation, maps and cartography. Really since I was a child. That fascination was one of the things that eventually pushed me towards art school for my bachelor’s.
 
@@ -59,7 +59,7 @@ I sometimes say that I was literally doing psychotherapy on myself through infor
 
 And when I spoke with people, I encountered all these very messy, sometimes contradictory ideas about gender. Of course gender is messy. Gender is complex. That’s true. But if there is also a need to create some sort of shared understanding, then you have to ask: how do we do that without pretending that the complexity disappears? That became my obsession during my master’s, and eventually it became the thesis.
 
-**In that story, the visualisation almost becomes a living object. It begins as a way of understanding yourself and then develops into something that other people can use. What tools do you actually work with?**
+### **In that story, the visualisation almost becomes a living object. It begins as a way of understanding yourself and then develops into something that other people can use. What tools do you actually work with?**
 
 **Fe:** I’m not really a hands-on, crafty person. I’m very much a digital creature, so technically I work with coding, D3, digital environments and interactive visualisation. Those are obviously tools. But when I think about the tools that actually matter most in my work, the first one is probably people.
 
@@ -73,7 +73,7 @@ But if I put a small visual model in front of you and ask, *Does this make sense
 
 The conversation unfolds through the visualisation. And then, interview after interview, both the visualisation and the structure beneath it evolve. So the image is not necessarily the end product. It is also a conversational interface.
 
-**So you were not simply interviewing people about the visualisation. You were using the visualisation itself as part of the interview method.**
+### **So you were not simply interviewing people about the visualisation. You were using the visualisation itself as part of the interview method.**
 
 **Fe:** Exactly. That was basically how I developed the gender diamond. I would start by reading some literature and developing an initial structure, then create a possible design and take it into interviews.
 
