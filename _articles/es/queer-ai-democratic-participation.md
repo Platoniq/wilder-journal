@@ -175,6 +175,8 @@ Si la utilizamos para poner de manifiesto los sesgos de género en la inteligenc
 
 Si se utiliza para investigar el acoso escolar, quizá vuelva a resultar interesante. La dimensión política depende por completo del contexto en el que se utilice la visualización.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.43.26.png","alt":"Example list of sex/gender identities","caption":"Example list of sex/gender identities","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
 **Una cosa que me parece especialmente interesante es que tu modelo se aleja de dos bandos opuestos.**
 
 **Fe:** Sí. Si solo tienes dos opciones, la frontera entre ellas se vuelve increíblemente marcada. Fíjate en las elecciones estadounidenses: básicamente hay dos partidos dominantes, y la tensión entre esos dos bandos se vuelve extrema. Cuando una estructura solo permite dos posiciones, la frontera en sí misma empieza a convertirse en lo más importante.
