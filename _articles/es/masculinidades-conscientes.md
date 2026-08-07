@@ -137,6 +137,8 @@ Eso ha provocado que algunos chicos vivan ciertos espacios educativos como lugar
 
 Y cuando una persona siente que está siendo juzgada, difícilmente se abre a la reflexión.
 
+{% gallery { "simple": false, "images": [{"path":"/media/3.png"}] } %}
+
 ## **Entender antes que juzgar**
 
 **Pregunta:** ¿Qué crees que hemos aprendido trabajando con hombres y jóvenes que puede ayudarnos a responder a este fenómeno?
