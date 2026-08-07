@@ -58,9 +58,7 @@ In fact, part of the current rise of neo-machismo can be understood as a reactio
 
 **Question:** Is there a risk that some men might perceive discourses on equality more as a loss than as an opportunity?
 
-**MJFF:** Yes, absolutely.
-
-We live in a society marked by uncertainty, precariousness, and the feeling that many of the promises of well-being are no longer guaranteed. In the face of this insecurity, certain discourses offer simple explanations and point to specific culprits.
+**MJFF:** Yes, absolutely. We live in a society marked by uncertainty, precariousness, and the feeling that many of the promises of well-being are no longer guaranteed. In the face of this insecurity, certain discourses offer simple explanations and point to specific culprits.
 
 We see this with immigration, but also with feminism. Scapegoats are created onto whom people can project frustrations that actually have much more complex causes.
 

@@ -41,7 +41,7 @@ Las respuestas de Miquel componen así un segundo relato que atraviesa toda la c
 
 ## **Navegar hacia otras masculinidades**
 
-**Pregunta:** En *Manuscrito para tripulantes que surcan hacia la igualdad* utilizas constantemente la metáfora del viaje y del cuaderno de bitácora. Antes de entrar en el fondo de la cuestión, ¿por qué decidiste utilizar precisamente la imagen del viaje para hablar de masculinidad?
+### **En *Manuscrito para tripulantes que surcan hacia la igualdad* utilizas constantemente la metáfora del viaje y del cuaderno de bitácora. Antes de entrar en el fondo de la cuestión, ¿por qué decidiste utilizar precisamente la imagen del viaje para hablar de masculinidad?**
 
 **MJFF:** Hay un concepto del mundo de la náutica que siempre me ha parecido muy sugerente: la circunnavegación. Hace referencia a un doble viaje. Por un lado, al trayecto que realizas hacia un destino; por otro, al viaje interior que ocurre mientras recorres esa ruta.
 
@@ -51,7 +51,7 @@ La idea era precisamente jugar con un universo que me era ajeno, el mundo de la 
 
 ## **Construir una cultura alternativa**
 
-**Pregunta:** ¿Cuáles son los principales obstáculos que encuentran los hombres cuando intentan cuestionar los modelos masculinos heredados?
+### **¿Cuáles son los principales obstáculos que encuentran los hombres cuando intentan cuestionar los modelos masculinos heredados?**
 
 **MJFF:** Creo que el gran obstáculo sigue siendo la falta de una cultura alternativa suficientemente consolidada. Lo que llamamos masculinidad hegemónica no es únicamente una suma de comportamientos individuales; es una cultura completa, con sus referentes, sus modelos de éxito, sus expectativas y sus recompensas.
 
@@ -65,11 +65,9 @@ De hecho, parte del auge actual del neomachismo puede entenderse como una reacci
 
 ## **¿Pérdida de derechos o pérdida de privilegios?**
 
-**Pregunta:** ¿Existe el riesgo de que algunos hombres perciban los discursos sobre igualdad más como una pérdida que como una oportunidad?
+### **¿Existe el riesgo de que algunos hombres perciban los discursos sobre igualdad más como una pérdida que como una oportunidad?**
 
-**MJFF:** Sí, totalmente.
-
-Vivimos en una sociedad marcada por la incertidumbre, la precariedad y la sensación de que muchas de las promesas de bienestar ya no están garantizadas. Ante esa inseguridad, determinados discursos ofrecen explicaciones sencillas y señalan culpables concretos.
+**MJFF:** Sí, totalmente. Vivimos en una sociedad marcada por la incertidumbre, la precariedad y la sensación de que muchas de las promesas de bienestar ya no están garantizadas. Ante esa inseguridad, determinados discursos ofrecen explicaciones sencillas y señalan culpables concretos.
 
 Lo vemos con la inmigración, pero también con el feminismo. Se construyen chivos expiatorios sobre los que proyectar frustraciones que en realidad tienen causas mucho más complejas.
 
@@ -79,7 +77,7 @@ Pero eso es una falacia profundamente arraigada en la cultura machista. Que otra
 
 ## **Vulnerabilidad, salud mental e intimidades congeladas**
 
-**Pregunta:** ¿Qué tabúes siguen existiendo entre los hombres cuando hablamos de salud mental?
+### **¿Qué tabúes siguen existiendo entre los hombres cuando hablamos de salud mental?**
 
 **MJFF:** Creo que todo gira alrededor de la vulnerabilidad. Uno de los grandes mandatos de la masculinidad tradicional es la autosuficiencia. La idea de que un hombre debe poder resolver cualquier problema por sí mismo, sin ayuda de nadie.
 
@@ -87,7 +85,7 @@ Cuando interiorizas ese mandato, pedir ayuda se convierte fácilmente en una exp
 
 A eso se suma otro elemento importante: el lenguaje emocional no ha sido históricamente un territorio donde los hombres hayan sido socializados. Cuando una persona intenta poner palabras a lo que le ocurre y nunca ha entrenado ese registro, además de vulnerable puede sentirse torpe, perdida o incapaz. Durante mucho tiempo hablar de emociones se ha asociado a un espacio considerado femenino. Y eso también ha generado distancia.
 
-**Pregunta:** ¿Por qué tantos hombres consiguen hablar durante horas de trabajo, deporte o política, pero les cuesta hablar de miedo, tristeza o soledad?
+### **¿Por qué tantos hombres consiguen hablar durante horas de trabajo, deporte o política, pero les cuesta hablar de miedo, tristeza o soledad?**
 
 **MJFF:** Porque hemos sido educados para mirar hacia fuera.
 
@@ -101,11 +99,9 @@ Las mujeres han construido históricamente espacios de sororidad. Quizás nosotr
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-12.00.14.png"}] } %}
 
-## **Diferencias generacionales, manosfera y jóvenes atrapados entre discursos**
+## **Diferencias generacionales, manosfera y jóvenes atrapados entre discursos. Una generación más diversa de lo que creemos**
 
-### **Una generación más diversa de lo que creemos**
-
-**Pregunta:** A menudo se habla de una juventud cada vez más polarizada. Sin embargo, tú trabajas diariamente con adolescentes y jóvenes. ¿Qué diferencias observas respecto a generaciones anteriores cuando hablamos de salud mental y masculinidades?
+### **A menudo se habla de una juventud cada vez más polarizada. Sin embargo, tú trabajas diariamente con adolescentes y jóvenes. ¿Qué diferencias observas respecto a generaciones anteriores cuando hablamos de salud mental y masculinidades?**
 
 **MJFF:** Yo, en contra de algunos discursos predominantes, soy bastante optimista.
 
@@ -123,7 +119,7 @@ Tampoco recuerdo haber escuchado en mi adolescencia conversaciones sobre género
 
 Por eso hablo de optimismo. No porque los problemas hayan desaparecido, sino porque veo más herramientas, más lenguajes y más posibilidades de reflexión que las que existían cuando yo era joven.
 
-En nuestro trabajo reciente con jóvenes dentro del proyecto SoReDi, centrado en bienestar juvenil, inteligencia artificial y entornos digitales, nos hemos encontrado con una preocupación recurrente. Solemos analizar la manosfera por sus efectos sobre las mujeres o sobre la convivencia democrática, pero hablamos mucho menos de cómo puede afectar a los propios chicos que habitan esos espacios. ¿Reconoces en tu trabajo situaciones en las que jóvenes se sientan presionados por determinados modelos de masculinidad promovidos por la manosfera? ¿Qué formas de malestar, inseguridad o sufrimiento pueden generar estos discursos en quienes intentan encajar en ellos?
+### **En nuestro trabajo reciente con jóvenes dentro del proyecto SoReDi, centrado en bienestar juvenil, inteligencia artificial y entornos digitales, nos hemos encontrado con una preocupación recurrente. Solemos analizar la manosfera por sus efectos sobre las mujeres o sobre la convivencia democrática, pero hablamos mucho menos de cómo puede afectar a los propios chicos que habitan esos espacios. ¿Reconoces en tu trabajo situaciones en las que jóvenes se sientan presionados por determinados modelos de masculinidad promovidos por la manosfera? ¿Qué formas de malestar, inseguridad o sufrimiento pueden generar estos discursos en quienes intentan encajar en ellos?**
 
 **MJFF:** Sí, absolutamente. Y creo que es una realidad bastante transversal en buena parte de Occidente. Lo primero que debemos reconocer es que existe una dimensión estructural del problema. Estamos hablando de entornos digitales gobernados por algoritmos extremadamente eficaces para captar atención y reforzar determinadas narrativas.
 
@@ -141,7 +137,7 @@ Y cuando una persona siente que está siendo juzgada, difícilmente se abre a la
 
 ## **Entender antes que juzgar**
 
-**Pregunta:** ¿Qué crees que hemos aprendido trabajando con hombres y jóvenes que puede ayudarnos a responder a este fenómeno?
+### **¿Qué crees que hemos aprendido trabajando con hombres y jóvenes que puede ayudarnos a responder a este fenómeno?**
 
 **MJFF:** Hay una lección muy importante que aprendimos trabajando con hombres que ejercen violencia. Nosotros no justificamos la violencia. Pero intentamos comprenderla. Comprender no significa excusar. Significa entender los procesos que han llevado a una persona a actuar de determinada manera para poder intervenir sobre ellos. Si no entendemos cómo se construyen determinadas conductas, difícilmente podremos transformarlas.
 
@@ -151,7 +147,7 @@ No porque todo lo que diga sea correcto, sino porque sólo desde ahí puede come
 
 ## **La manosfera y los "mensajes hamburguesa"**
 
-**Pregunta:** ¿Qué hace tan atractivos estos discursos para algunos jóvenes?
+### **¿Qué hace tan atractivos estos discursos para algunos jóvenes?**
 
 **MJFF:** Porque ofrecen soluciones sencillas a problemas muy complejos. La manosfera funciona muy bien emocionalmente. Construye espacios donde muchos chicos sienten que alguien les escucha, les entiende y no les cuestiona de entrada. Además ofrece explicaciones rápidas y fácilmente consumibles. La periodista Carmen Ruiz utiliza una expresión que me parece muy acertada: los llama "mensajes hamburguesa". Son mensajes fáciles de consumir, rápidos, inmediatos y emocionalmente eficaces.
 
@@ -163,7 +159,7 @@ Por eso el reto no consiste únicamente en desmontar esos discursos. También co
 
 ## **Construir antifragilidad democrática**
 
-**Pregunta:** Si pensamos en jóvenes que quieren resistir esa presión de la manosfera, ¿cómo se construye esa capacidad crítica o esa especie de antifragilidad?
+### **Si pensamos en jóvenes que quieren resistir esa presión de la manosfera, ¿cómo se construye esa capacidad crítica o esa especie de antifragilidad?**
 
 **MJFF:** Yo parto de una idea bastante sencilla: la mayoría de los jóvenes quieren ser buenas personas. A veces olvidamos eso.
 
@@ -179,7 +175,7 @@ Y después vienen las herramientas: la educación emocional, la comunicación, l
 
 ### **Los músculos que se están atrofiando**
 
-**Pregunta:** ¿Qué músculos emocionales y democráticos se atrofian cuando predominan modelos basados en la competición, la dominación o el individualismo?
+### **¿Qué músculos emocionales y democráticos se atrofian cuando predominan modelos basados en la competición, la dominación o el individualismo?**
 
 **MJFF:** Creo que se atrofian precisamente aquellos músculos que nos permiten reconocer nuestra interdependencia. La confianza, la cooperación, la capacidad de pedir ayuda, la capacidad de ofrecerla, la empatía, la escucha y la posibilidad de vernos reflejados en los demás. Cuando todo se reduce a competir o a sobrevivir individualmente, esos músculos dejan de ejercitarse. Y una sociedad donde predomina la desconfianza es también una sociedad mucho más fácil de manipular.
 
@@ -187,7 +183,7 @@ Por eso me preocupa que las respuestas a problemas profundamente colectivos se f
 
 ### **El músculo del cuidado**
 
-**Pregunta:** Has hablado de cuidados y confianza. ¿Cómo se traduce eso en una musculatura democrática concreta?
+### **Has hablado de cuidados y confianza. ¿Cómo se traduce eso en una musculatura democrática concreta?**
 
 **MJFF:** Hace pocas semanas estaba trabajando con jóvenes en un instituto de Calvià y les pregunté qué significaba para ellos sentirse cuidados. Un chico respondió algo muy sencillo: “Me siento cuidado cuando alguien me dedica tiempo”. Me pareció una respuesta muy potente porque nos recuerda que el cuidado no es únicamente protección. También es presencia, atención y disponibilidad.
 
