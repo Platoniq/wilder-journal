@@ -53,6 +53,8 @@ Después de eso, también trabajé durante algunos años en diseño visual y car
 
 Luego me trasladé a la Universidad de Aalto, donde había un entorno mucho más desarrollado en torno al diseño de la información. Pero allí también faltaba algo. En el diseño de comunicación visual había, por un lado, diseñadores de la información, que a menudo tenían una relación relativamente positivista con los datos y la tecnología, y, por otro lado, personas que trabajaban con enfoques mucho más críticos y narrativos de la comunicación.
 
+{% quote %}El género es confuso. El género es complejo. Eso es cierto. Pero si también existe la necesidad de crear algún tipo de entendimiento común, entonces hay que preguntarse: ¿cómo lo hacemos sin fingir que esa complejidad desaparece?{% endquote %}
+
 Y yo pensaba: *«Vale, quiero estar en ambos mundos».*
 
 Al mismo tiempo, algo estaba sucediendo a nivel personal. Cuando empecé en Aalto, me consideraba un hombre cis. En Italia, por aquel entonces, también había mucho menos debate público sobre las identidades no binarias. Luego, poco a poco, me convertí en esta persona no binaria que trabajaba simultáneamente en cuestiones de representación y diseño de la información.

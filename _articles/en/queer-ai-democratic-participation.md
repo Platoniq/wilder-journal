@@ -49,6 +49,8 @@ After that I also worked for some years on visual design and cartography for Ita
 
 Then I moved to Aalto University, where there was a much more developed environment around information design. But there was something missing there too. In visual communication design you had, on one side, information designers, who often had this relatively positivist relationship to data and technology, and on the other side people working through much more critical and narrative approaches to communication.
 
+{% quote %}Gender is complex. That’s true. But if there is also a need to create some sort of shared understanding, then you have to ask: how do we do that without pretending that the complexity disappears? {% endquote %}
+
 And I was thinking: *Okay, I want to be in both worlds.*
 
 At the same time, something was happening personally. When I started at Aalto, I thought of myself as a cis man. In Italy at that point there was also much less public discussion about non-binary identities. Then, gradually, I became this non-binary person who was simultaneously working on questions of representation and information design.
