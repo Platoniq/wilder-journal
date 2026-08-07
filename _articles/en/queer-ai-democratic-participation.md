@@ -253,6 +253,8 @@ But I have also had the opposite experience many times. People come to me after 
 
 Maybe I want Netflix to understand some of my preferences because I want better recommendations. Fine. But if Saudi Arabia implements a facial-recognition system based on gender, I probably do not want that system to understand my identity at all.
 
+{% quote %}When an identity is included, recognised and validated, that can be empowering. But the same information can later be used against the community it was supposed to empower. {% endquote %}
+
 This is what I describe as the paradox of exposure. When an identity is included, recognised and validated, that can be empowering. But the same information can later be used against the community it was supposed to empower. Visibility is never automatically good.
 
 ### **Invisibility itself can therefore become a form of power.**

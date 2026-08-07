@@ -255,6 +255,8 @@ Pero también he tenido la experiencia contraria muchas veces. La gente se me ac
 
 Quizá quiera que Netflix comprenda algunas de mis preferencias porque quiero mejores recomendaciones. De acuerdo. Pero si Arabia Saudí implanta un sistema de reconocimiento facial basado en el género, probablemente no quiera que ese sistema comprenda mi identidad en absoluto.
 
+{% quote %}Cuando una identidad se incluye, se reconoce y se valida, eso puede ser empoderador. Pero esa misma información puede utilizarse más tarde en contra de la comunidad a la que se suponía que debía empoderar.{% endquote %}
+
 Esto es lo que describo como la paradoja de la exposición. Cuando una identidad se incluye, se reconoce y se valida, eso puede ser empoderador. Pero esa misma información puede utilizarse más tarde en contra de la comunidad a la que se suponía que debía empoderar. La visibilidad nunca es automáticamente positiva.
 
 ### **Por lo tanto, la invisibilidad en sí misma puede convertirse en una forma de poder.**
