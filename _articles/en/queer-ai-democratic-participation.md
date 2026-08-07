@@ -171,6 +171,8 @@ If we use it to expose gender biases in artificial intelligence, I think that ca
 
 If it is used to research bullying in schools, perhaps it becomes interesting again. The politics depends entirely on the context in which the visualisation is used.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.43.26.png","alt":"Example list of sex/gender identities","caption":"Example list of sex/gender identities","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
 ### **One thing I find particularly interesting is that your model moves away from two opposing camps.**
 
 **Fe:** Yes. If you only have two options, the boundary between them becomes incredibly strong. Look at US elections: you basically have two dominant parties, and the tension between those two sides becomes extreme. When a structure only allows two positions, the border itself starts to become the most important thing.
