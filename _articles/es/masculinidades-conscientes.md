@@ -101,7 +101,7 @@ La experiencia demuestra que cuando aparecen espacios seguros, relaciones cálid
 
 Las mujeres han construido históricamente espacios de sororidad. Quizás nosotros necesitamos construir más fraternas: espacios donde la cercanía, el cuidado y la vulnerabilidad tengan legitimidad. Son esos espacios los que nos permiten, simbólicamente, desenchufar el frigorífico.
 
-{% gallery { "simple": true, "images": [{"path":"/media/2.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-12.35.18.png"}] } %}
 
 ## **Diferencias generacionales, manosfera y jóvenes atrapados entre discursos. Una generación más diversa de lo que creemos**
 
