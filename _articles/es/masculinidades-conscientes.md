@@ -145,6 +145,8 @@ Y cuando una persona siente que está siendo juzgada, difícilmente se abre a la
 
 **MJFF:** Hay una lección muy importante que aprendimos trabajando con hombres que ejercen violencia. Nosotros no justificamos la violencia. Pero intentamos comprenderla. Comprender no significa excusar. Significa entender los procesos que han llevado a una persona a actuar de determinada manera para poder intervenir sobre ellos. Si no entendemos cómo se construyen determinadas conductas, difícilmente podremos transformarlas.
 
+{% quote %}La reflexión crítica necesita tiempo. Necesita contexto. Necesita complejidad. Necesita contradicciones. Y eso resulta mucho menos atractivo en un ecosistema digital diseñado para premiar la inmediatez.{% endquote %}
+
 Creo que algo parecido ocurre con muchos jóvenes que hoy se sienten atraídos por discursos de la manosfera. Antes de señalar o responsabilizar, necesitamos comprender qué necesidades están intentando cubrir, qué malestares están expresando y qué preguntas están intentando responder. Después podremos trabajar la responsabilidad. Pero si invertimos el orden, el diálogo se vuelve mucho más difícil. Por eso creo tanto en la creación de espacios seguros. Espacios donde un chico pueda expresar su malestar sin sentirse inmediatamente etiquetado o juzgado.
 
 No porque todo lo que diga sea correcto, sino porque sólo desde ahí puede comenzar una reflexión significativa.
@@ -155,7 +157,7 @@ No porque todo lo que diga sea correcto, sino porque sólo desde ahí puede come
 
 **MJFF:** Porque ofrecen soluciones sencillas a problemas muy complejos. La manosfera funciona muy bien emocionalmente. Construye espacios donde muchos chicos sienten que alguien les escucha, les entiende y no les cuestiona de entrada. Además ofrece explicaciones rápidas y fácilmente consumibles. La periodista Carmen Ruiz utiliza una expresión que me parece muy acertada: los llama "mensajes hamburguesa". Son mensajes fáciles de consumir, rápidos, inmediatos y emocionalmente eficaces.
 
-La reflexión crítica funciona de otra manera. Necesita tiempo.Necesita contexto. Necesita complejidad. Necesita contradicciones. Y eso resulta mucho menos atractivo en un ecosistema digital diseñado para premiar la inmediatez.
+La reflexión crítica necesita tiempo. Necesita contexto. Necesita complejidad. Necesita contradicciones. Y eso resulta mucho menos atractivo en un ecosistema digital diseñado para premiar la inmediatez.
 
 Por eso el reto no consiste únicamente en desmontar esos discursos. También consiste en construir espacios alternativos que resulten significativos, acogedores y emocionalmente relevantes para los jóvenes.
 

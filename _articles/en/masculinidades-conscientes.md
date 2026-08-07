@@ -137,6 +137,8 @@ And when a person feels they are being judged, they are unlikely to be open to r
 
 **MJFF:** There’s a very important lesson we learned from working with men who commit acts of violence. We don’t justify violence. But we try to understand it. Understanding doesn’t mean excusing. It means understanding the processes that have led a person to act in a certain way so that we can address them. If we don’t understand how certain behaviors are formed, we’ll have a hard time changing them.
 
+{% quote %}Critical reflection takes time. It requires context. It requires complexity. It requires contradictions. And that’s much less appealing in a digital ecosystem designed to reward immediacy.{% endquote %}
+
 I think something similar happens with many young people today who are drawn to the rhetoric of the manosphere. Before pointing fingers or assigning blame, we need to understand what needs they’re trying to meet, what discomforts they’re expressing, and what questions they’re trying to answer. Then we can address the issue of responsibility. But if we reverse the order, dialogue becomes much more difficult. That’s why I believe so strongly in creating safe spaces—spaces where a young man can express his discomfort without immediately feeling labeled or judged.
 
 Not because everything he says is correct, but because only from that starting point can meaningful reflection begin.
@@ -147,7 +149,7 @@ Not because everything he says is correct, but because only from that starting p
 
 **MJFF:** Because it offers simple solutions to very complex problems. The manosphere works very well on an emotional level. It creates spaces where many young men feel that someone is listening to them, understands them, and doesn’t question them right off the bat. It also offers quick, easily digestible explanations. Journalist Carmen Ruiz uses an expression that I find very apt: she calls them “hamburger messages.” They’re messages that are easy to consume—quick, immediate, and emotionally effective.
 
-Critical reflection works differently. It takes time. It requires context. It requires complexity. It requires contradictions. And that’s much less appealing in a digital ecosystem designed to reward immediacy.
+Critical reflection takes time. It requires context. It requires complexity. It requires contradictions. And that’s much less appealing in a digital ecosystem designed to reward immediacy.
 
 That’s why the challenge isn’t just about debunking those narratives. It’s also about building alternative spaces that are meaningful, welcoming, and emotionally relevant to young people.
 
