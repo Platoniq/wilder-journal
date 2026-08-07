@@ -159,6 +159,8 @@ La reflexión crítica funciona de otra manera. Necesita tiempo.Necesita context
 
 Por eso el reto no consiste únicamente en desmontar esos discursos. También consiste en construir espacios alternativos que resulten significativos, acogedores y emocionalmente relevantes para los jóvenes.
 
+{% gallery { "simple": true, "images": [{"path":"/media/4.png"}] } %}
+
 ## **Construir antifragilidad democrática**
 
 **Pregunta:** Si pensamos en jóvenes que quieren resistir esa presión de la manosfera, ¿cómo se construye esa capacidad crítica o esa especie de antifragilidad?
