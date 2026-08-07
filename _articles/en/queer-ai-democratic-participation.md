@@ -199,13 +199,15 @@ Queer discourse, especially some of the more radical versions of it, can become 
 
 The idea behind my gender diamond, but also the South Tyrolean diamond, is partly to say: *Hey, we actually live together in the same space.*
 
+{% quote %}Femininity and masculinity can also be brought back into queer thinking rather than treated only as concepts that queerness must destroy.{% endquote %}
+
 We can be on opposite sides of the map and still have something in between. There may still be room for conversation. One of the messages in a paper I’ve been working on is that the diamond might create some dialogue between queer positions and more traditional Christian, Islamic or other understandings of gender.
 
 Not because the political differences disappear. They do not. But because femininity and masculinity can also be brought back into queer thinking rather than treated only as concepts that queerness must destroy.
 
 ### **What changes when the people who are normally represented by others become the authors of the representation themselves? What do people learn when they actually construct or work through these maps?**
 
-**Fe:** I think there are two quite different experiences. On one side, you have people with what we could call more unitary identities—binary identities, for example. On the other, you have people who already experience their identity as complex.
+**Fe:** I think there are two quite different experiences. On one side, you have people with what we could call more unitary identities, binary identities, for example. On the other, you have people who already experience their identity as complex.
 
 For people in that second group, the process can produce a feeling of finally finding a place. If you have spent years, perhaps your entire life, feeling excluded or misunderstood, suddenly seeing a position where you can locate yourself can be extremely powerful.
 

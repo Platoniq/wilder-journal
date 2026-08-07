@@ -201,13 +201,15 @@ El discurso queer, especialmente algunas de sus versiones más radicales,  puede
 
 La idea que subyace a mi «diamante de género», pero también al «diamante del Tirol del Sur», es, en parte, decir: «Oye, en realidad convivimos en el mismo espacio».
 
+{% quote %}La feminidad y la masculinidad también pueden reintegrarse en el pensamiento queer, en lugar de ser tratadas únicamente como conceptos que lo queer debe destruir.{% endquote %}
+
 Podemos estar en lados opuestos del mapa y, aun así, tener algo en medio. Puede que aún haya margen para el diálogo. Uno de los mensajes de un artículo en el que he estado trabajando es que el diamante podría propiciar cierto diálogo entre las posiciones queer y las concepciones más tradicionales del género, ya sean cristianas, islámicas o de otro tipo.
 
 No porque las diferencias políticas desaparezcan. No es así. Sino porque la feminidad y la masculinidad también pueden reintegrarse en el pensamiento queer, en lugar de ser tratadas únicamente como conceptos que lo queer debe destruir.
 
 ### **¿Qué cambia cuando las personas que normalmente son representadas por otros se convierten ellas mismas en las autoras de esa representación? ¿Qué aprenden las personas cuando realmente construyen o trabajan con estos mapas?**
 
-**Fe:** Creo que hay dos experiencias bastante diferentes. Por un lado, están las personas con lo que podríamos llamar identidades más unitarias —identidades binarias, por ejemplo—. Por otro lado, están las personas que ya experimentan su identidad como algo complejo.
+**Fe:** Creo que hay dos experiencias bastante diferentes. Por un lado, están las personas con lo que podríamos llamar identidades más unitarias, identidades binarias, por ejemplo. Por otro lado, están las personas que ya experimentan su identidad como algo complejo.
 
 Para las personas de ese segundo grupo, el proceso puede generar la sensación de haber encontrado por fin un lugar. Si has pasado años, quizá toda tu vida, sintiéndote excluido o incomprendido, ver de repente un lugar en el que puedes situarte puede ser algo extremadamente poderoso.
 
