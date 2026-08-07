@@ -59,6 +59,8 @@ I sometimes say that I was literally doing psychotherapy on myself through infor
 
 And when I spoke with people, I encountered all these very messy, sometimes contradictory ideas about gender. Of course gender is messy. Gender is complex. That’s true. But if there is also a need to create some sort of shared understanding, then you have to ask: how do we do that without pretending that the complexity disappears? That became my obsession during my master’s, and eventually it became the thesis.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.38.29.png","alt":"The Gender Diamond and Flower","caption":"The Gender Diamond and Flower","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
 ### **In that story, the visualisation almost becomes a living object. It begins as a way of understanding yourself and then develops into something that other people can use. What tools do you actually work with?**
 
 **Fe:** I’m not really a hands-on, crafty person. I’m very much a digital creature, so technically I work with coding, D3, digital environments and interactive visualisation. Those are obviously tools. But when I think about the tools that actually matter most in my work, the first one is probably people.
