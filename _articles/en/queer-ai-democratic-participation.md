@@ -289,12 +289,8 @@ Instead of presenting itself as the machine that knows, it could make the assump
 
 But I find this idea much more interesting: AI not simply as an answer machine, but as something capable of creating critical discussion.
 
-### **That connects with an experiment we are developing. We have an AI agent with three different personalities, one of which we call the Joker, borrowing the role from Legislative Theatre. The Joker is essentially a facilitator who avoids simply answering. It may force people to reformulate a prompt, introduce humour, create silence or destabilise the assumptions behind the question.**
+### **That connects with an experiment we are developing. We have an AI agent with three different personalities, one of which we call the Joker, borrowing the role from Legislative Theatre. The Joker is essentially a facilitator who avoids simply answering. It may force people to reformulate a prompt, introduce humour, create silence or destabilise the assumptions behind the question. I can imagine something similar with your diamonds: put one physically on the floor, remove the devices, and ask people to move through it. Perhaps people who appear to be on opposite sides discover an intermediate space where dialogue becomes possible.**
 
-### **I can imagine something similar with your diamonds: put one physically on the floor, remove the devices, and ask people to move through it. Perhaps people who appear to be on opposite sides discover an intermediate space where dialogue becomes possible.**
-
-### **We are exploring these setups especially around youth mental health, and also thinking about the right not to speak, not to appear physically or even temporarily to disappear from the process.**
-
-### **The difficulty is that AI models continuously try to become agreeable. Even when you design the agent to behave as a Joker, it suddenly starts flattering the participants or retreating into safe generic answers. Have you experimented with anything similar?**
+### **We are exploring these setups especially around youth mental health, and also thinking about the right not to speak, not to appear physically or even temporarily to disappear from the process. The difficulty is that AI models continuously try to become agreeable. Even when you design the agent to behave as a Joker, it suddenly starts flattering the participants or retreating into safe generic answers. Have you experimented with anything similar?**
 
 **Fe:** Unfortunately, not really. I’m already overwhelmed by the projects I’m working on. But conceptually I think there is a strong connection. Especially the idea that the system does not need to resolve the problem. It can instead help people remain with the complexity of the problem.
