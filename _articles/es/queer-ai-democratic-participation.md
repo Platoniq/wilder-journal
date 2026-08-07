@@ -63,6 +63,8 @@ A veces digo que, literalmente, me estaba haciendo psicoterapia a mí mismo a tr
 
 Y cuando hablaba con la gente, me encontraba con todo tipo de ideas muy confusas, a veces contradictorias, sobre el género. Por supuesto que el género es confuso. El género es complejo. Eso es cierto. Pero si también existe la necesidad de crear algún tipo de entendimiento común, entonces hay que preguntarse: ¿cómo lo hacemos sin fingir que esa complejidad desaparece? Eso se convirtió en mi obsesión durante el máster y, finalmente, se convirtió en mi tesis.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.38.29.png","alt":"The Gender Diamond and Flower","caption":"The Gender Diamond and Flower","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
 **En esa historia, la visualización casi se convierte en un objeto vivo. Empieza como una forma de comprenderse a uno mismo y luego se convierte en algo que otras personas pueden utilizar. ¿Con qué herramientas trabajas exactamente?**
 
 Fe: La verdad es que no soy una persona muy manitas ni con habilidades manuales. Soy más bien una criatura digital, así que, técnicamente, trabajo con programación, D3, entornos digitales y visualización interactiva. Obviamente, esas son herramientas. Pero cuando pienso en las herramientas que realmente importan más en mi trabajo, la primera es probablemente la gente.
