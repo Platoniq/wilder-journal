@@ -63,7 +63,16 @@ Necesitamos referencias, relatos, prácticas y modelos que permitan imaginar otr
 
 De hecho, parte del auge actual del neomachismo puede entenderse como una reacción a la aparición de esos relatos alternativos. Cuando una cultura dominante percibe que surgen otras posibilidades, tiende a replegarse y a defender sus privilegios.
 
-{% gallery { "simple": true, "images": [{"path":"/media/1.png"}] } %}
+{% couch %}
+### La democracia en el diván (I)
+#### Una paciente desorientada
+
+**Pregunta:** Vamos a hacer un pequeño ejercicio inspirado en Cynthia Fleury. Imagina que un día llaman a la puerta de tu consulta y quien entra no es una persona cualquiera, sino la propia democracia. ¿Cuál sería tu primera impresión?
+
+**MJFF:** Lo primero que me surge es una sensación de desubicación. Como alguien que ya no tiene claro cuál es su papel, qué esperan de ella o cómo puede seguir contribuyendo a la sociedad. La percibo razonablemente perdida, con mucha incertidumbre respecto a su lugar en el mundo.
+
+Curiosamente, tampoco me aparece como la figura femenina con la que solemos representarla. Tengo la sensación de que ha ido incorporando muchos mandatos tradicionalmente asociados a la masculinidad: la necesidad de sostenerlo todo, de responder a todas las expectativas, de cargar con responsabilidades constantes. Y todo eso termina pasando factura.
+{% endcouch %}
 
 ## **¿Pérdida de derechos o pérdida de privilegios?**
 

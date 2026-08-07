@@ -112,3 +112,48 @@ header.pj-hero h1 span {
 .pj-article .read-aloud__voice {
   color: #fff;
 }
+
+// "Democracy on the couch" vignette callout (the couch Liquid tag) — accessible
+// live-text replacement for the old baked-in PNG boxes. Magenta interior with a
+// dark navy border and white text, sitting in the reading column.
+.pj-couch {
+  grid-column: 7 / span 13;
+  margin: 2.5rem 0;
+  padding: clamp(1.25rem, 3vw, 2rem);
+  border: 3px solid $color-base; // dark navy
+  background: transparent;       // shows the magenta page background
+}
+
+.pj-couch,
+.pj-couch p,
+.pj-couch h3,
+.pj-couch h4,
+.pj-couch strong,
+.pj-couch li,
+.pj-couch a {
+  color: #fff;
+}
+
+.pj-couch h3 {
+  font-family: "gt_cinetypebold", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.15;
+  margin: 0 0 0.5rem;
+}
+
+.pj-couch h4 {
+  font-family: "Karla", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  margin: 0 0 1.25rem;
+}
+
+.pj-couch p {
+  font-family: "Karla", sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+  margin: 0 0 1rem;
+}
+
+.pj-couch p:last-child { margin-bottom: 0; }

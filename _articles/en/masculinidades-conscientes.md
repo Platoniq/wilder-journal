@@ -60,7 +60,16 @@ We need references, narratives, practices, and role models that allow us to imag
 
 In fact, part of the current rise of neo-machismo can be understood as a reaction to the emergence of these alternative narratives. When a dominant culture perceives that other possibilities are emerging, it tends to retreat and defend its privileges.
 
-{% gallery { "simple": true, "images": [{"path":"/media/6.png"}] } %}
+{% couch %}
+### Democracy on the Couch (I)
+#### A Disoriented Patient
+
+**Question:** Let's do a little exercise inspired by Cynthia Fleury. Imagine that one day there's a knock at the door of your office, and the person who walks in isn't just anyone, but Democracy herself. What would be your first impression?
+
+**MJFF:** The first thing that comes to mind is a sense of disorientation. Like someone who is no longer sure of her role, what is expected of her, or how she can continue to contribute to society. I perceive her as quite lost, with a great deal of uncertainty regarding her place in the world.
+
+Interestingly, she doesn't strike me as the female figure we usually associate with democracy either. I get the sense that she has gradually taken on many traits traditionally associated with masculinity: the need to hold everything together, to meet every expectation, to shoulder constant responsibilities. And all of that eventually takes its toll.
+{% endcouch %}
 
 ## **Loss of Rights or Loss of Privileges?**
 
