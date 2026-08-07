@@ -55,7 +55,7 @@ We need references, narratives, practices, and role models that allow us to imag
 
 In fact, part of the current rise of neo-machismo can be understood as a reaction to the emergence of these alternative narratives. When a dominant culture perceives that other possibilities are emerging, it tends to retreat and defend its privileges.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.41.14.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/6.png"}] } %}
 
 ## **Loss of Rights or Loss of Privileges?**
 
