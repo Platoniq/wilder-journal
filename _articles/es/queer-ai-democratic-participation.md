@@ -8,8 +8,8 @@ date: 2026-08-07T10:06:00.000+02:00
 date-updated: 2026-08-07T10:06:00.000+02:00
 article-order: 2
 uid: queer-ai-democratic-participation
-title: "Trazando los espacios entre categorías: sobre la visualización de datos,
-  el conocimiento queer, la participación democrática y la IA"
+title: "Trazando espacios entre categorías: sobre la visualización de datos, el
+  conocimiento queer, la participación democrática y la IA"
 description: "La obra de Federico (Fe) Simeoni se sitúa en un punto intermedio
   entre el diseño de la información, la cartografía, la investigación crítica y
   la cultura visual queer. En el centro de la misma se encuentra una pregunta
