@@ -97,6 +97,8 @@ Y yo pensé: *«Venga ya».*
 
 Obviamente, «traumatizante» es una palabra demasiado fuerte. Pero lo que me pareció interesante fue qué era lo que provocaba esa incomodidad. A menudo se trataba simplemente de ver cómo la feminidad y la masculinidad coexistían de formas a las que no estaban acostumbrados. Y, curiosamente, observé esa reacción sobre todo entre los hombres. Esa representación desestabilizaba algo que antes había parecido natural.
 
+{% quote %}Cuando desarrollé un «diamante» en torno a la identidad lingüística en el Tirol del Sur. Las categorías eran diferentes, pero la dinámica subyacente resultaba sorprendentemente similar.{% endquote %}
+
 Algo similar ocurrió más tarde, cuando desarrollé un «diamante» en torno a la identidad lingüística en el Tirol del Sur. Las categorías eran diferentes, pero la dinámica subyacente resultaba sorprendentemente similar.
 
 Allí existe un debate muy intenso sobre si se es italoparlante o germanoparlante, y sobre los privilegios y las formas de discriminación asociados a esas identidades. Pero también hay personas bilingües, extranjeros, personas que se mueven entre estas categorías, cuyas experiencias vividas son mucho más complicadas que la clasificación administrativa.

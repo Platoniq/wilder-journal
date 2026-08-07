@@ -93,6 +93,8 @@ And I was like: *Come on.*
 
 Obviously, “traumatising” is too strong a word. But what I found interesting was what created that discomfort. It was often simply seeing femininity and masculinity coexisting in ways they were not accustomed to seeing. And interestingly, I encountered that reaction particularly among men. The visualisation was destabilising something that had previously seemed natural.
 
+{% quote %}Something similar happened later when I developed a diamond around linguistic identity in South Tyrol. The categories were different, but the underlying dynamic was surprisingly similar.{% endquote %}
+
 Something similar happened later when I developed a diamond around linguistic identity in South Tyrol. The categories were different, but the underlying dynamic was surprisingly similar.
 
 There, you have this very strong conversation around being an Italian speaker or a German speaker, and around the privileges and forms of discrimination associated with those identities. But then you also have bilingual people, foreigners, people moving between these categories, whose lived experiences are much more complicated than the administrative classification.
