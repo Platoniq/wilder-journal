@@ -63,8 +63,6 @@ Necesitamos referencias, relatos, prácticas y modelos que permitan imaginar otr
 
 De hecho, parte del auge actual del neomachismo puede entenderse como una reacción a la aparición de esos relatos alternativos. Cuando una cultura dominante percibe que surgen otras posibilidades, tiende a replegarse y a defender sus privilegios.
 
-{% gallery { "simple": true, "images": [{"path":"/media/1.png"}] } %}
-
 ## **¿Pérdida de derechos o pérdida de privilegios?**
 
 **Pregunta:** ¿Existe el riesgo de que algunos hombres perciban los discursos sobre igualdad más como una pérdida que como una oportunidad?
@@ -137,8 +135,6 @@ Eso ha provocado que algunos chicos vivan ciertos espacios educativos como lugar
 
 Y cuando una persona siente que está siendo juzgada, difícilmente se abre a la reflexión.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.31.53.png"}] } %}
-
 ## **Entender antes que juzgar**
 
 **Pregunta:** ¿Qué crees que hemos aprendido trabajando con hombres y jóvenes que puede ayudarnos a responder a este fenómeno?
@@ -159,8 +155,6 @@ La reflexión crítica funciona de otra manera. Necesita tiempo.Necesita context
 
 Por eso el reto no consiste únicamente en desmontar esos discursos. También consiste en construir espacios alternativos que resulten significativos, acogedores y emocionalmente relevantes para los jóvenes.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.32.24.png"}] } %}
-
 ## **Construir antifragilidad democrática**
 
 **Pregunta:** Si pensamos en jóvenes que quieren resistir esa presión de la manosfera, ¿cómo se construye esa capacidad crítica o esa especie de antifragilidad?
@@ -174,8 +168,6 @@ Hay experiencias muy interesantes que trabajan precisamente en esa dirección. P
 Desde ahí se puede construir reflexión.
 
 Y después vienen las herramientas: la educación emocional, la comunicación, la gestión de conflictos, la construcción de identidades más flexibles o la cultura de los cuidados. No estamos inventando algo completamente nuevo. Disponemos de décadas de experiencia sobre cómo fortalecer personas y comunidades. La cuestión es cómo hacer que esas herramientas resulten tan accesibles y emocionalmente atractivas como los discursos simplificados que circulan hoy por las redes.
-
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.32.55.png"}] } %}
 
 ### **Los músculos que se están atrofiando**
 
