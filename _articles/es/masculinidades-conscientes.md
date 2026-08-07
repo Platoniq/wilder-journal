@@ -161,7 +161,7 @@ La reflexión crítica necesita tiempo. Necesita contexto. Necesita complejidad.
 
 Por eso el reto no consiste únicamente en desmontar esos discursos. También consiste en construir espacios alternativos que resulten significativos, acogedores y emocionalmente relevantes para los jóvenes.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-12.02.38.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/4.png"}] } %}
 
 ## **Construir antifragilidad democrática**
 
