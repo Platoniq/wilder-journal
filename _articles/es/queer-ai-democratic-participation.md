@@ -33,7 +33,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/images.jpg
 ---
 Federico (Fe) Simeoni’s work sits somewhere between information design, cartography, critical research and queer visual culture. At the centre of it is a deceptively simple question: what happens when the categories we use to represent people no longer correspond to the complexity of their lived experience?
 
