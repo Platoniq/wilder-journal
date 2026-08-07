@@ -153,7 +153,7 @@ Critical reflection takes time. It requires context. It requires complexity. It 
 
 That’s why the challenge isn’t just about debunking those narratives. It’s also about building alternative spaces that are meaningful, welcoming, and emotionally relevant to young people.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-06-a-las-16.42.57.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/9.png"}] } %}
 
 ## **Building Democratic Antifragility**
 
