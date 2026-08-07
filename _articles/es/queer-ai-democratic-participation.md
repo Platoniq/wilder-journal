@@ -75,9 +75,11 @@ Con el tiempo, también me di cuenta de que quizá la visualización en sí mism
 
 Porque si me siento con alguien y le pregunto: «¿Cómo conceptualizas el espectro de género?», esa es una pregunta increíblemente difícil. Es abstracta, casi imposible de responder directamente.
 
-Pero si te pongo delante un pequeño modelo visual y te pregunto: «¿Tiene sentido esto? ¿Qué falta? ¿Dónde te situarías tú? ¿Podrías situar a algunos de tus amigos? ¿Hay algo aquí que te parezca discriminatorio?», de repente tienes algo concreto ante lo que reaccionar.
+Pero si te pongo delante un pequeño modelo visual y te pregunto: *«¿Tiene sentido esto? ¿Qué falta? ¿Dónde te situarías tú? ¿Podrías situar a algunos de tus amigos? ¿Hay algo aquí que te parezca discriminatorio?»*, de repente tienes algo concreto ante lo que reaccionar.
 
 La conversación se desarrolla a través de la visualización. Y luego, entrevista tras entrevista, tanto la visualización como la estructura que hay detrás de ella evolucionan. Así que la imagen no es necesariamente el producto final. También es una interfaz de conversación.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.41.17.png","alt":"Schematisation of the Genderbread Person and the Gender Unicorn","caption":"Schematisation of the Genderbread Person and the Gender Unicorn","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
 
 **Así que no te limitabas a entrevistar a la gente sobre la visualización. Utilizabas la propia visualización como parte del método de entrevista.**
 
