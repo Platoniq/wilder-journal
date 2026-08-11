@@ -184,6 +184,8 @@ Pero es muy importante analizar estas cuestiones en profundidad. Si nos fijamos 
 
 Y esto no ayuda, porque a las personas que están convencidas de esas creencias racistas no se les da la oportunidad, como seres humanos, de analizarlo en profundidad. Al fin y al cabo, son personas, y puede que tengan buen corazón. Si les ayudamos a través de una conversación, quizá lleguemos a alguna parte. Quizá no, pero podría ser.
 
+{% quote %}Creo que es nuestra responsabilidad como artistas, o como personas que trabajamos con estas cuestiones, sentarnos de vez en cuando y ofrecer ese tipo de explicación individual sobre el racismo. Y me gustaría que las personas que ocupan posiciones más privilegiadas entendieran que esa es su tarea, no la nuestra{% endquote %}
+
 Creo que es nuestra responsabilidad como artistas, o como personas que trabajamos con estas cuestiones, sentarnos de vez en cuando y ofrecer ese tipo de explicación individual sobre el racismo. Y me gustaría que las personas que ocupan posiciones más privilegiadas entendieran que esa es su tarea, no la nuestra.
 
 Desentrañar el racismo no es tarea de la persona oprimida por él. Es tarea de quien proviene de una historia que ha permitido que el racismo exista. No puedo ser oprimida por el racismo y que luego me paguen una miseria por limpiarlo. Eso no funciona.

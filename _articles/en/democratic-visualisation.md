@@ -180,6 +180,8 @@ But these questions are so important to unpack. If you look at political discour
 
 And this does not help, because people who are convinced by those racist beliefs are not given a chance, as humans, to unpack that. They are humans at the end of the day, and they might have a good heart. If we help them through a conversation, we might get somewhere. We might not, but we might.
 
+{% quote %}I think it is our responsibility as artists, or as people who work with these questions, to sometimes sit and do that kind of one-on-one explanation of racism. And I wish that people with more privileged positions understood that this is their homework, not our homework{% endquote %}
+
 I think it is our responsibility as artists, or as people who work with these questions, to sometimes sit and do that kind of one-on-one explanation of racism. And I wish that people with more privileged positions understood that this is their homework, not our homework.
 
 It is not the homework of the person oppressed by racism to unpack racism. It is the homework of the person who comes from a history that has enabled racism to unpack racism. I cannot be oppressed by racism and then be paid pennies to clean it up. It doesn’t work.
