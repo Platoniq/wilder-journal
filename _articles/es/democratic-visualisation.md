@@ -32,6 +32,12 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/haifaa-portr.jpg
 ---
+**Hayfaa Chalabi** is an illustrator and educator whose practice explores the role of illustration in uncovering, questioning and re-contextualising histories that have been silenced or marginalised. As Senior Lecturer and Coordinator for Critical Practice at the University of the Arts London, she approaches illustration through a feminist and decolonial lens, challenging the idea that visual communication can ever be neutral or detached from politics.
+
+Her work invites us to think about illustration not simply as a way of representing or explaining the world, but as a means of questioning how that world is made visible in the first place: whose stories are told, whose experiences are recognised, and which forms of knowledge are granted authority. Across subjects including migration, gender, colonialism, borders and power, illustration becomes a way of reconnecting evidence with lived experience and of challenging the supposedly neutral visual languages of expert knowledge.
+
+In this conversation, we explore illustration as a democratic practice: its capacity to transform perception, make hidden structures visible, and create spaces in which people can collectively interpret complex realities. We also discuss what happens when drawing moves beyond representation and becomes part of participation itself, not merely documenting a conversation, but actively shaping what people notice, question, imagine and understand together.
+
 ## **Illustration as Democratic Practice**
 
 ### **I’d like to start with the idea of you presenting yourself and your relationship to visual work. I’d also like you to touch a little on the techniques you usually use, and then your role in visual studies or visual literacy. Maybe also, if you have worked with data visualization in the more classical sense, like charts. I know some of your work is somehow in conversation with that. As an introduction, that would be very helpful.**
