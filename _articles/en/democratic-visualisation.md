@@ -46,6 +46,8 @@ It’s important to know that in that journey there are lots of mistakes that ha
 
 I think one of the most important methods for me is asking whether or not the community you’re working with wants that work. Sometimes we are arrogant enough to think that we’re making work that is important, but sometimes not.
 
+{% quote %}Positionality is very important: to understand your position, but also to understand the position of the people who might be impacted by the work. {% endquote %}
+
 So positionality is very important: to understand your position, but also to understand the position of the people who might be impacted by the work. And the people who might be impacted by the work are not necessarily just the people being visualized.
 
 There are a lot of stakes. It is about understanding context, understanding everybody at stake, and understanding how to exist within that, or not exist, which is also a decision that we sometimes make.
@@ -96,6 +98,8 @@ I think a lot of people who work with numbers and numbers alone forget this cate
 
 If it doesn’t, then how can I create a visualization that looks even at the lack of that information? Can we visualize this lack? For example, if I am not getting information about how men are impacted by war, can I visualize that lack in that way?
 
+{% quote %}It is dehumanizing to put different lives into one number. Visualization sometimes gives us access to looking at one story, even if it is just one story. It tells us something about the human experience{% endquote %}
+
 But also, bringing people into the data means we need to understand that the visualization looks at the human experience. If you have numbers about how people are impacted by war, what does that really tell us? If a person who does not live in that war zone gets that information, how much are they moved to act towards that cause?
 
 If they are just getting a number. If I tell you 1,500 people are killed a day, how is that different from telling you, or visualizing, the story of every person and what they went through, their journey?
@@ -121,6 +125,8 @@ One case comes to mind. I don’t know if you know about this or remember, but d
 People were being killed without anything being reported about them. Nobody was seeing them. Nobody in the world was able to report what was happening because the media was monopolized by the army that was in charge, and still is in charge.
 
 So people started to draw the faces of all the people killed, and their stories, on the walls in the streets. There was a movement of street art that was collaborative. It was initiated by street artists. I know their names, but you would never find a signature on any of the murals, because that was not the point. It was not about the ego of the artist, although now when I see the style, I can recognize which artist it was. It was a collaboration between people.
+
+{% quote %}Participation is so important because the street witnesses{% endquote %}
 
 People witnessed things that maybe not all the artists witnessed. There were walls in the square where the revolution was happening that were filled with the names and faces of martyrs. The official line was: “This is just a lie. They’re not dying. These are just people lying.”
 

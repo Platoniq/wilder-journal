@@ -50,6 +50,8 @@ Es importante saber que en ese camino se cometen muchos errores, y es importante
 
 Creo que uno de los métodos más importantes para mí es preguntarme si la comunidad con la que trabajas quiere ese trabajo o no. A veces somos tan arrogantes como para pensar que estamos haciendo un trabajo importante, pero otras veces no es así.
 
+{% quote %}La posicionalidad es muy importante: comprender tu propia posición, pero también comprender la posición de las personas a las que el trabajo podría afectar. {% endquote %}
+
 Por eso, la posicionalidad es muy importante: comprender tu propia posición, pero también comprender la posición de las personas a las que el trabajo podría afectar. Y las personas a las que el trabajo podría afectar no son necesariamente solo aquellas que aparecen representadas.
 
 Hay mucho en juego. Se trata de comprender el contexto, comprender a todas las personas implicadas y comprender cómo existir dentro de ese contexto, o no existir, lo cual es también una decisión que a veces tomamos.
@@ -100,6 +102,8 @@ Creo que mucha gente que trabaja con números, y solo con números, olvida esta 
 
 Si no es así, ¿cómo puedo crear una visualización que tenga en cuenta incluso la falta de esa información? ¿Podemos visualizar esa carencia? Por ejemplo, si no dispongo de información sobre cómo afecta la guerra a los hombres, ¿puedo visualizar esa carencia de esa manera?
 
+{% quote %}Es deshumanizador reducir vidas diferentes a una sola cifra. La visualización a veces nos permite conocer una historia, aunque solo sea una. Nos dice algo sobre la experiencia humana{% endquote %}
+
 Pero además, incorporar a las personas a los datos significa que debemos comprender que la visualización se centra en la experiencia humana. Si dispones de cifras sobre cómo afecta la guerra a las personas, ¿qué nos dicen realmente? Si una persona que no vive en esa zona de guerra recibe esa información, ¿en qué medida se siente impulsada a actuar en favor de esa causa?
 
 Si solo se trata de una cifra. Si te digo que mueren 1.500 personas al día, ¿en qué se diferencia eso de contarte, o visualizar, la historia de cada persona y lo que ha vivido, su trayectoria?
@@ -114,7 +118,7 @@ En este caso, la importancia de aportar empatía a los datos radica en hacer que
 
 ## **La visualización como infraestructura deliberativa**
 
-### **Es muy interesante retomar dos cosas que has mencionado: la idea de permitir que el silencio se visualice. En la mayoría de los procesos deliberativos, las instituciones están obsesionadas con los hechos. Esto se sale un poco del ámbito de la entrevista, pero en las asambleas ciudadanas, por ejemplo, se recurre al sorteo, a la selección aleatoria, que nunca es perfecta porque nunca se llega a las personas más marginadas. En España, si se lleva a cabo cualquier proceso constructivo sobre migración, la mayoría de los migrantes no podrían ser seleccionados al azar porque carecen de documentación. ¿Cómo se expresa ese silencio? Ese es un problema real y un obstáculo para nosotros.** 
+### **Es muy interesante retomar dos cosas que has mencionado: la idea de permitir que el silencio se visualice. En la mayoría de los procesos deliberativos, las instituciones están obsesionadas con los hechos. Esto se sale un poco del ámbito de la entrevista, pero en las asambleas ciudadanas, por ejemplo, se recurre al sorteo, a la selección aleatoria, que nunca es perfecta porque nunca se llega a las personas más marginadas. En España, si se lleva a cabo cualquier proceso constructivo sobre migración, la mayoría de los migrantes no podrían ser seleccionados al azar porque carecen de documentación. ¿Cómo se expresa ese silencio? Ese es un problema real y un obstáculo para nosotros.**
 
 ### **Y luego está la imitación del lenguaje de los expertos. Lo que se observa al final del proceso es que las propuestas presentadas por los ciudadanos suelen parecerse mucho a las ponencias de los expertos del principio. No hay espacio para la interpretación ni para el conflicto. Por eso creo que la visualización de datos podría ser muy poderosa. Obligaría a la gente a dejar de hablar o de limitarse a escuchar a los expertos, a sentir e interpretar emocionalmente los datos, y luego se les preguntaría de nuevo qué es lo que no está presente en los datos y debería estarlo en sus recomendaciones. ¿Crees que el lenguaje visual debería aplicarse en la deliberación ciudadana, que normalmente se limita al lenguaje discursivo?**
 
@@ -125,6 +129,8 @@ Me viene a la mente un caso. No sé si lo conoces o lo recuerdas, pero durante l
 Se estaba matando a gente sin que se informara de nada al respecto. Nadie los veía. Nadie en el mundo podía informar de lo que estaba ocurriendo porque los medios de comunicación estaban monopolizados por el ejército que estaba al mando, y que sigue estándolo.
 
 Así que la gente empezó a dibujar los rostros de todas las personas asesinadas, y sus historias, en las paredes de las calles. Hubo un movimiento de arte urbano que fue colaborativo. Lo iniciaron los artistas callejeros. Sé sus nombres, pero nunca encontrarías una firma en ninguno de los murales, porque esa no era la intención. No se trataba del ego del artista, aunque ahora, cuando veo el estilo, puedo reconocer de qué artista se trata. Era una colaboración entre la gente.
+
+{% quote %}La participación es tan importante porque la calle es testigo{% endquote %}
 
 La gente fue testigo de cosas que quizá no todos los artistas presenciaron. En la plaza donde se desarrollaba la revolución había muros cubiertos de los nombres y rostros de los mártires. La versión oficial era: «Esto no es más que una mentira. No están muriendo. Solo son gente mintiendo».
 
