@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/haifaa-portr.jpg
 ---
 **I’d like to start with the idea of you presenting yourself and your relationship to visual work. I’d also like you to touch a little on the techniques you usually use, and then your role in visual studies or visual literacy. Maybe also, if you have worked with data visualization in the more classical sense, like charts. I know some of your work is somehow in conversation with that. As an introduction, that would be very helpful.**
 
