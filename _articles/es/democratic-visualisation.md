@@ -58,6 +58,8 @@ One of the answers it gave me, for example, was when I was in Sweden. The far-ri
 
 So this data told me something about how people think about refugees, and how they would rather be ruled by a neo-Nazi party than have refugees enter. This is something very difficult to extract from people through conversation, but easier to see through data. So, yeah, that’s what I do. It’s a bit of a balance.
 
+{% gallery { "simple": false, "images": [{"path":"/media/hayfaa.png","alt":"Transition (Sketch)","caption":"Transition (Sketch)","credits":"Hayfaa Chalabi"}] } %}
+
 ## **Data visualization as a political statement**
 
 ### **Actually, that was part of one of my blocks, but let’s jump into it, because I remember you presented the “Refugees Welcome” series, right? So I’ll jump straight into it. As you mentioned, the project is placing statistics. If I remember well, asylum applications and political opinion on one side, if you categorize it like that alongside intimate illustrations of refugee experiences. My question would be: what can illustration communicate that data alone cannot? And what is the role of each of these different prisms?**
@@ -101,6 +103,8 @@ It is dehumanizing to put different lives into one number. Visualization sometim
 It’s a bit selfish, how we access information and how we act. But I think the more distant a cause is from us, the more distant a visualization is for us, the less motivation we have to act towards it.
 
 Here, the importance of bringing empathy into data is to make a story really relatable. It is basically saying: this person is struggling just because of geographical luck. That’s it. But at the end of the day, we are all human.
+
+{% gallery { "simple": false, "images": [{"path":"/media/terr.webp","alt":"A Terrorist Diary? (visual series)","caption":"A Terrorist Diary? (visual series)","credits":"Hayfaa Chalabi"}] } %}
 
 ## **Visualisation as Deliberative Infrastructure**
 
@@ -149,6 +153,8 @@ Bringing the body into illustration reminds people, first of all, that it is con
 It is also exposing. If policy does not change, we have a visualized record of human suffering. If politicians refuse to change whatever is happening, whatever the suffering is, we have a visual record of that history and of the failure of politicians.
 
 This is important for historical documents, and for us to build up a case against whatever oppressor we are speaking about. That is how I see its importance.
+
+{% gallery { "simple": false, "images": [{"path":"/media/modes.webp","alt":"In The Name Of Modesty (illustrated series)","caption":"In The Name Of Modesty (illustrated series)","credits":"Hayfaa Chalabi"}] } %}
 
 ### **In your work you tend not to illustrate isolated events. Your work often creates visual landscapes, I would say, or spatial stories. Do you consciously design your illustrations as spaces for exploration? Could you also tell us a bit more about how you display your work? If you think about verticality, horizontality, whether people can feel safe to discuss and interpret, have you had any experience where you had a conversation with the public?**
 
@@ -207,6 +213,8 @@ How can we be inclusive in that conversation and make people understand that the
 The format of the fanzine is super relevant here. It is an alternative way of reporting. I definitely think that, maybe, young people are not able to look at all the statistics. But, as I said, taking one story from the statistics and unpacking it in a fanzine humanizes whatever statistics we are looking at.
 
 This way of visualizing, writing about or drawing in a fanzine — looking at stories out of numbers, or creating a narrative about the numbers — comes from a very rebellious history of refusing normative formats of storytelling, going against the norm, going against the government and the rule in power. So, yes, absolutely. It is very humanizing of the data.
+
+{% gallery { "simple": false, "images": [{"path":"/media/obs.webp","alt":"Obsessive consumption (illustrated series)","caption":"Obsessive consumption (illustrated series)","credits":"Hayfaa Chalabi"}] } %}
 
 ## **Counter-Visualisation**
 
