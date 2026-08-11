@@ -19,7 +19,7 @@ interviewee: Hayfaa Chalabi
 cover:
   path: /media/articles/heroes/haifaa-portr.jpg
   mobile: /media/articles/mobile/haifaa-portr.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/haifaa-portr.jpg
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
