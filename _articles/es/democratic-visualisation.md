@@ -18,7 +18,7 @@ author_uids:
 interviewee: Hayfaa Chalabi
 cover:
   path: /media/articles/heroes/haifaa-portr.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/haifaa-portr.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Hayfaa Chalabi
   credits: Hayfaa Chalabi
