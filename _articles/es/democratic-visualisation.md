@@ -202,7 +202,7 @@ Pero, además, no solo los jóvenes son racistas.
 
 ## **Los talleres como visualización colectiva**
 
-### **Hablando de esto, ¿cómo pueden los talleres creativos, los talleres presenciales, ayudar a las personas a pasar de ser meros consumidores de imágenes —o de los mensajes que contienen las imágenes, o de mensajes simples— a convertirse en autores de sus propias interpretaciones de las narrativas públicas? ¿Cómo sería eso?**
+### **Hablando de esto, ¿cómo pueden los talleres creativos, los talleres presenciales ([como nuestra colaboración en inDICEs](https://indices-culture.eu/dispatches-from-the-indices-bootcamp/)), ayudar a las personas a pasar de ser meros consumidores de imágenes, o de los mensajes que contienen las imágenes, o de mensajes simples, a convertirse en autores de sus propias interpretaciones de las narrativas públicas? ¿Cómo sería eso?**
 
 **Hayfaa:** Hay muchísimos factores que influyen en esto. En primer lugar: ¿con qué grupos de personas estamos trabajando, en qué contexto y en qué idioma?
 

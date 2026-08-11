@@ -198,7 +198,7 @@ But also, it is not only young people who are racist.
 
 ## **Workshops as Collective Visualisation**
 
-### **Talking about this, how can creative workshops, physical workshops, help people move from being consumers of images, or messages inside images, or simple messages, towards being authors of their own interpretations of public narratives? How would that look?**
+### **Talking about this, how can creative workshops ([as our collaboration ar inDICEs)](https://indices-culture.eu/dispatches-from-the-indices-bootcamp/), physical workshops, help people move from being consumers of images, or messages inside images, or simple messages, towards being authors of their own interpretations of public narratives? How would that look?**
 
 **Hayfaa:** There are so many factors that go into this. First of all: what groups of people are we working with, in what context, and in what language?
 
