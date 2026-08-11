@@ -212,11 +212,7 @@ It records history. It records what actually happens on the ground, even more th
 
 How can we be inclusive in that conversation and make people understand that their power of witnessing and recording back on that witnessing is the most important human participation we can have in policymaking?
 
-### **I have that impression too. We use lots of fanzines, for example. We have been working on a project on mindset evolution with young people under 18 from Manchester and Barcelona, using theatre, which is another very interesting scope. We also use the idea of visualizing a picture of oppression without words, which is very related to visualizing with your own body.**
-
-### **Once we have a policy recommendation for policymakers, which is technically difficult for them to consume, we start creating fanzines, very visual ones. We also developed some kind of tarot for envisioning the future of these recommendations if they are not adopted. The tarot victim was the policymaker who was acquiring the commitment.**
-
-### **Do you think drawing and other non-discursive forms could be a bridge to data literacy? Could illustration become a gateway to data literacy?**
+### **I have that impression too. We use lots of fanzines, for example. We have been working on a project on mindset evolution with young people under 18 from Manchester and Barcelona, using theatre, which is another very interesting scope. We also use the idea of visualizing a picture of oppression without words, which is very related to visualizing with your own body. Once we have a policy recommendation for policymakers, which is technically difficult for them to consume, we start creating fanzines, very visual ones. We also developed some kind of tarot for envisioning the future of these recommendations if they are not adopted. The tarot victim was the policymaker who was acquiring the commitment. Do you think drawing and other non-discursive forms could be a bridge to data literacy? Could illustration become a gateway to data literacy?**
 
 **Hayfaa:** Absolutely. Especially fanzines. Their history is rebellious. It is an alternative form of magazine. A lot of people think it was developed by queer people in the US, but actually it was developed before that by Black people. I think even in the 1920s, Black people felt they were never represented as successful, artistic or sophisticated. They were always represented as criminals, or through other racist frames.
 
