@@ -28,7 +28,9 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/haifaa-portr.jpg
 ---
-**I’d like to start with the idea of you presenting yourself and your relationship to visual work. I’d also like you to touch a little on the techniques you usually use, and then your role in visual studies or visual literacy. Maybe also, if you have worked with data visualization in the more classical sense, like charts. I know some of your work is somehow in conversation with that. As an introduction, that would be very helpful.**
+## **Illustration as Democratic Practice**
+
+### **I’d like to start with the idea of you presenting yourself and your relationship to visual work. I’d also like you to touch a little on the techniques you usually use, and then your role in visual studies or visual literacy. Maybe also, if you have worked with data visualization in the more classical sense, like charts. I know some of your work is somehow in conversation with that. As an introduction, that would be very helpful.**
 
 **Hayfaa:** Yeah. I’m an illustrator and I’m also an educator. I’m a senior lecturer and coordinator for something called Critical Practice at UAL, University of the Arts London.
 
@@ -52,11 +54,9 @@ One of the answers it gave me, for example, was when I was in Sweden. The far-ri
 
 So this data told me something about how people think about refugees, and how they would rather be ruled by a neo-Nazi party than have refugees enter. This is something very difficult to extract from people through conversation, but easier to see through data. So, yeah, that’s what I do. It’s a bit of a balance.
 
-**Actually, that was part of one of my blocks, but let’s jump into it, because I remember you presented the “Refugees Welcome” series, right?**
+## **Data visualization as a political statement**
 
-**Hayfaa:** Yeah.
-
-**So I’ll jump straight into it. As you mentioned, the project is placing statistics. If I remember well, asylum applications and political opinion on one side, if you categorize it like that alongside intimate illustrations of refugee experiences. My question would be: what can illustration communicate that data alone cannot? And what is the role of each of these different prisms?**
+### **Actually, that was part of one of my blocks, but let’s jump into it, because I remember you presented the “Refugees Welcome” series, right? So I’ll jump straight into it. As you mentioned, the project is placing statistics. If I remember well, asylum applications and political opinion on one side, if you categorize it like that alongside intimate illustrations of refugee experiences. My question would be: what can illustration communicate that data alone cannot? And what is the role of each of these different prisms?**
 
 Hayfaa: Visualization makes data accessible, which is very important, because people should be able to access data in order to be informed about what is happening in the world, and then to inform back.
 
@@ -72,7 +72,7 @@ So, again, it is about how we humanize. How do we bring people in without just l
 
 From this Eurocentric perspective, it is often the case that we forget that people outside Europe or North America are humans with feelings, experiences, families, lives, and hopes.
 
-**Talking about feelings and emotions, many public debates, because the paper we are writing is in the context of a broader deliberation, this wave of citizens’ assemblies that expose people to a topic, really depend on experts presenting statistics. Most of them are typical charts. They are understandable, but many public debates separate facts from emotions.**
+### **Talking about feelings and emotions, many public debates, because the paper we are writing is in the context of a broader deliberation, this wave of citizens’ assemblies that expose people to a topic, really depend on experts presenting statistics. Most of them are typical charts. They are understandable, but many public debates separate facts from emotions.**
 
 In a citizens’ assembly, you are not supposed to feel any emotion looking at data. I remember in your illustration you redrew some typical charts, integrating a more emotional visual language using the data itself. It offers another reading.
 
@@ -98,9 +98,11 @@ It’s a bit selfish, how we access information and how we act. But I think the 
 
 Here, the importance of bringing empathy into data is to make a story really relatable. It is basically saying: this person is struggling just because of geographical luck. That’s it. But at the end of the day, we are all human.
 
-**It is very interesting to catch up on two things you said: the idea of letting silence be visualized. In most deliberation processes, institutions are obsessed with facts. This is a bit outside the scope of the interview, but in citizens’ assemblies, for example, they use sortition, random selection, which is never perfect because you never reach the most marginalized people. In Spain, if you do any positive process on migration, most migrants could not be randomly selected because they have no papers. How do you express that silence? That is a real issue and blockage for us.** 
+## **Visualisation as Deliberative Infrastructure**
 
-**And then there is the imitation of expert language. What you see at the end of the chain is that the proposals made by citizens often look a lot like the expert presentations at the beginning. There is no space for interpretation or conflict. That’s why I think visualizing data could be very powerful. It would force people to stop talking or simply listening to experts, to emotionally feel and interpret the data, and then be asked again what is not present in the data and should be present in their recommendations. Do you think visual language should be applicable in citizen deliberation, which is usually only about discursive language?**
+### **It is very interesting to catch up on two things you said: the idea of letting silence be visualized. In most deliberation processes, institutions are obsessed with facts. This is a bit outside the scope of the interview, but in citizens’ assemblies, for example, they use sortition, random selection, which is never perfect because you never reach the most marginalized people. In Spain, if you do any positive process on migration, most migrants could not be randomly selected because they have no papers. How do you express that silence? That is a real issue and blockage for us.** 
+
+### **And then there is the imitation of expert language. What you see at the end of the chain is that the proposals made by citizens often look a lot like the expert presentations at the beginning. There is no space for interpretation or conflict. That’s why I think visualizing data could be very powerful. It would force people to stop talking or simply listening to experts, to emotionally feel and interpret the data, and then be asked again what is not present in the data and should be present in their recommendations. Do you think visual language should be applicable in citizen deliberation, which is usually only about discursive language?**
 
 **Hayfaa:** Yeah, absolutely. Collaboration is all about that.
 
@@ -116,7 +118,7 @@ But then the government was faced with these walls. There was an election happen
 
 So what the current president did back then was start to destroy the walls. Painting over them would also expose him, because it was during the election and it would be so obvious. So some of the walls were demolished.
 
-**Not even painted white?**
+### **Not even painted white?**
 
 **Hayfaa:** No, because painting over them would expose him. He said, basically: “Actually, we need to reconstruct this place. There are some reconstruction problems here.” I went to Egypt recently, and there were only one or two murals left of martyrs who died during that time.
 
@@ -124,7 +126,9 @@ Participation is so important because the street witnesses. Citizen journalism i
 
 We’ve had this genocide since 1948, and the public opinion was different. But citizen journalism, citizen collaboration in visualizing shapes public opinion, and thus shapes how we move, how we create laws, policies, and everything. So collaboration is everything.
 
-**Let’s open up a block around bodies, space and embodiment. Many of your illustrations involve bodies, movements and relationships, rather than abstract diagrams. How important is embodiment in political illustration? And further on, how can political illustration help people deliberate better, or help politicians take decisions?**
+## **Bodies, Space and Embodiment**
+
+### **Let’s open up a block around bodies, space and embodiment. Many of your illustrations involve bodies, movements and relationships, rather than abstract diagrams. How important is embodiment in political illustration? And further on, how can political illustration help people deliberate better, or help politicians take decisions?**
 
 **Hayfaa:** It does many things.
 
@@ -142,7 +146,7 @@ It is also exposing. If policy does not change, we have a visualized record of h
 
 This is important for historical documents, and for us to build up a case against whatever oppressor we are speaking about. That is how I see its importance.
 
-**In your work you tend not to illustrate isolated events. Your work often creates visual landscapes, I would say, or spatial stories. Do you consciously design your illustrations as spaces for exploration? Could you also tell us a bit more about how you display your work? If you think about verticality, horizontality, whether people can feel safe to discuss and interpret, have you had any experience where you had a conversation with the public?**
+### **In your work you tend not to illustrate isolated events. Your work often creates visual landscapes, I would say, or spatial stories. Do you consciously design your illustrations as spaces for exploration? Could you also tell us a bit more about how you display your work? If you think about verticality, horizontality, whether people can feel safe to discuss and interpret, have you had any experience where you had a conversation with the public?**
 
 **Hayfaa:** Yeah, I did. Sometimes it’s good, sometimes it’s bad. But I think that’s good as well.
 
@@ -162,7 +166,7 @@ I think it is our responsibility as artists, or as people who work with these qu
 
 It is not the homework of the person oppressed by racism to unpack racism. It is the homework of the person who comes from a history that has enabled racism to unpack racism. I cannot be oppressed by racism and then be paid pennies to clean it up. It doesn’t work.
 
-**So how would this unpacking process look? Specifically thinking of visual literacy as a democratic capability for young people who are under the influence of simple messages from the extreme: how would this unpacking happen?**
+### **So how would this unpacking process look? Specifically thinking of visual literacy as a democratic capability for young people who are under the influence of simple messages from the extreme: how would this unpacking happen?**
 
 **Hayfaa:** One of the things is making visual data accessible. Lots of data visualization is super complex. Nobody can read it. I look at it and I’m dizzy already, as an artist myself.
 
@@ -172,17 +176,9 @@ There is something about the importance of beauty in data, in making data access
 
 But also, it is not only young people who are racist.
 
-**No, no. I mean because we have been working intensively with young people from 16 onwards, and this is basically... My daughter is in that age group, and if I look at your TikTok, some messages appear very easily.**
+## **Workshops as Collective Visualisation**
 
-**When you are exposed to data from the manosphere talking with a youth group working on these issues, that is something I had never realized. Because I have a daughter, I am always feeling like probably 90% of boys could have a tendency to be violent against someone like my daughter.**
-
-**But what is worth remembering is that it is a minority of young men. Some young men are under pressure from the manosphere to act like this. They are also feeling pressed between two different worlds. You never have the complete overview.**
-
-**That is why your work, and the work of other people doing performance, critical performance or theatre, can make you say: “Well, I never thought about that precise story.” It flips my idea that the majority is not “the bad boys.” It is basically...**
-
-Hayfaa: Yeah. But even those boys, they are young. Most of them are minors who are reproducing the manosphere as well. It is important to understand how to approach them, what is being delivered to them, and who is running this manosphere as well. They are also just little boys who need some love and some hugs.
-
-**Talking about this, how can creative workshops, physical workshops, help people move from being consumers of images, or messages inside images, or simple messages, towards being authors of their own interpretations of public narratives? How would that look?**
+### **Talking about this, how can creative workshops, physical workshops, help people move from being consumers of images, or messages inside images, or simple messages, towards being authors of their own interpretations of public narratives? How would that look?**
 
 **Hayfaa:** There are so many factors that go into this. First of all: what groups of people are we working with, in what context, and in what language?
 
@@ -196,11 +192,11 @@ It records history. It records what actually happens on the ground, even more th
 
 How can we be inclusive in that conversation and make people understand that their power of witnessing and recording back on that witnessing is the most important human participation we can have in policymaking?
 
-**I have that impression too. We use lots of fanzines, for example. We have been working on a project on mindset evolution with young people under 18 from Manchester and Barcelona, using theatre, which is another very interesting scope. We also use the idea of visualizing a picture of oppression without words, which is very related to visualizing with your own body.**
+### **I have that impression too. We use lots of fanzines, for example. We have been working on a project on mindset evolution with young people under 18 from Manchester and Barcelona, using theatre, which is another very interesting scope. We also use the idea of visualizing a picture of oppression without words, which is very related to visualizing with your own body.**
 
-**Once we have a policy recommendation for policymakers, which is technically difficult for them to consume, we start creating fanzines, very visual ones. We also developed some kind of tarot for envisioning the future of these recommendations if they are not adopted. The tarot victim was the policymaker who was acquiring the commitment.**
+### **Once we have a policy recommendation for policymakers, which is technically difficult for them to consume, we start creating fanzines, very visual ones. We also developed some kind of tarot for envisioning the future of these recommendations if they are not adopted. The tarot victim was the policymaker who was acquiring the commitment.**
 
-**Do you think drawing and other non-discursive forms could be a bridge to data literacy? Could illustration become a gateway to data literacy?**
+### **Do you think drawing and other non-discursive forms could be a bridge to data literacy? Could illustration become a gateway to data literacy?**
 
 **Hayfaa:** Absolutely. Especially fanzines. Their history is rebellious. It is an alternative form of magazine. A lot of people think it was developed by queer people in the US, but actually it was developed before that by Black people. I think even in the 1920s, Black people felt they were never represented as successful, artistic or sophisticated. They were always represented as criminals, or through other racist frames.
 
@@ -208,7 +204,9 @@ The format of the fanzine is super relevant here. It is an alternative way of re
 
 This way of visualizing, writing about or drawing in a fanzine — looking at stories out of numbers, or creating a narrative about the numbers — comes from a very rebellious history of refusing normative formats of storytelling, going against the norm, going against the government and the rule in power. So, yes, absolutely. It is very humanizing of the data.
 
-**Talking about that, sometimes I think your work, and the work of other more visual or political artists, is about competing with expert authority. Usually, when governments, international organizations or even NGOs publish reports, their authority often comes from numbers and graphs. Illustration does not usually claim the same kind of authority. So what kind of authority does illustration have? Is it a counter-power?**
+## **Counter-Visualisation**
+
+### **Sometimes I think your work, and the work of other more visual or political artists, is about competing with expert authority. Usually, when governments, international organizations or even NGOs publish reports, their authority often comes from numbers and graphs. Illustration does not usually claim the same kind of authority. So what kind of authority does illustration have? Is it a counter-power?**
 
 **Hayfaa:** Yeah, it is a counter-power, but it also recontextualizes power.
 
@@ -222,13 +220,13 @@ When there is a lack of that report, you are also reinforcing a narrative by not
 
 So sometimes I go against the report. Sometimes I reject the data coming from authorities above me, or the information that is coming from them. I feel that an illustrator has the power to reject, to counter, to recontextualize, to re-explore — all of this together, but mostly to reject.
 
-**Have you worked with other media or with artists in a collective, so that your illustrations were part of a more collective agenda, as sound, theatre, or other techniques?**
+### **Have you worked with other media or with artists in a collective, so that your illustrations were part of a more collective agenda, as sound, theatre, or other techniques?**
 
 **Hayfaa:** I have mostly worked with text, to be honest. But yes, mural and film. I worked with film. I have worked with music before as well, but not other media so much.
 
 I do not only work independently. I work with magazines that have agendas, but agendas that I agree with. So I do work with the collective, but mostly with text.
 
-**I was also checking your illustrations for The Shadow Map. Which one of these do you think would potentially work best in a citizen-like space, where people could, instead of listening to experts and looking at data, encounter one of your illustrations as a trigger for conversation?**
+### **I was also checking your illustrations for The Shadow Map. Which one of these do you think would potentially work best in a citizen-like space, where people could, instead of listening to experts and looking at data, encounter one of your illustrations as a trigger for conversation?**
 
 **Hayfaa:** There was one article about an organization that works with accessibility in Palestine. I did not take stories from the text. The illustration was not based on stories from the text. The text was about accessibility in general, and analyzing what that means, but I picked different stories that had actually happened and that I wanted to visualize because not a lot of people had talked about them.
 
@@ -240,7 +238,7 @@ They were not all stories of oppression, and that was important for me, because 
 
 So, yeah, I feel that could maybe start some conversation in public.
 
-**Yes. By bringing in stories that are not in the text, as you mentioned, you are opening up, or forcing, a space to be created. That is very impressive. Do you remember the Du Bois illustrations from the international exhibition?**
+### **Yes. By bringing in stories that are not in the text, as you mentioned, you are opening up, or forcing, a space to be created. That is very impressive. Do you remember the Du Bois illustrations from the international exhibition?**
 
 **Hayfaa:** Du Bois, the graphic artist?
 
