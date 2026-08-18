@@ -31,23 +31,11 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/captura-de-pantalla-2026-08-06-a-las-9.16.09.png
 ---
-*Las comunidades marginadas no se despiertan pensando en la identidad descentralizada.*
+*Las comunidades marginadas no se despiertan pensando en la identidad descentralizada. Una camarera de piso que termina de limpiar treinta habitaciones al día no se pregunta si sus credenciales son soberanas. Un vendedor ambulante migrante que huye de la policía no está pensando en protocolos de federación. Una mujer que decide si compartir su testimonio sobre la violencia de género no está pidiendo una nueva cadena de bloques. Se despiertan haciéndose otras preguntas.* 
 
-*Una camarera de piso que termina de limpiar treinta habitaciones al día no se pregunta si sus credenciales son soberanas.*
+{% questions { "items": [{"question":"¿Me escucharán?"},{"question":" ¿Estaré a salvo?"},{"question":" ¿Podré conservar mi casa?"},{"question":"¿Sobrevivirá nuestro movimiento?"}] } %}
 
-*Un vendedor ambulante migrante que huye de la policía no está pensando en protocolos de federación.*
 
-*Una mujer que decide si compartir su testimonio sobre la violencia de género no está pidiendo una nueva cadena de bloques.*
-
-*Se despiertan haciéndose otras preguntas.*
-
-*¿Me escucharán?*
-
-*¿Estaré a salvo?*
-
-*¿Podré conservar mi casa?*
-
-*¿Sobrevivirá nuestro movimiento?*
 
 ## **Un manifiesto sobre gobernanza descentralizada, escrito después de DWeb Camp***
 
