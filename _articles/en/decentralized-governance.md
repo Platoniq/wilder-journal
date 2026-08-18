@@ -28,23 +28,9 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/captura-de-pantalla-2026-08-06-a-las-9.16.09.png
 ---
-*Marginalised communities don't wake up thinking about decentralised identity.*
+*Marginalised communities don't wake up thinking about decentralised identity. A hotel cleaner finishing thirty rooms in a day doesn't wonder whether her credentials are self-sovereign. A migrant street vendor running from the police isn't thinking about federation protocols. A woman deciding whether to share her testimony of gender-based violence isn't asking for a new blockchain. They wake up asking different questions.*
 
-*A hotel cleaner finishing thirty rooms in a day doesn't wonder whether her credentials are self-sovereign.*
-
-*A migrant street vendor running from the police isn't thinking about federation protocols.*
-
-*A woman deciding whether to share her testimony of gender-based violence isn't asking for a new blockchain.*
-
-*They wake up asking different questions.*
-
-*Will I be heard?*
-
-*Will I be safe?*
-
-*Will I keep my home?*
-
-*Will our movement survive?*
+{% questions { "items": [{"question":"Will I be heard?"},{"question":"Will I be safe?"},{"question":"Will I keep my home?"},{"question":"Will our movement survive?"}] } %}
 
 ## **A manifesto on decentralized governance, written after DWeb Camp**
 
