@@ -7,7 +7,7 @@ date: 2026-08-06T10:39:00.000+02:00
 date-updated: 2026-08-06T10:39:00.000+02:00
 article-order: 1
 uid: decentralized-governance
-title: El Código No Es Ley. Alguien Tiene Que Seguir Apareciendo.
+title: El código no es ley. Alguien tiene que seguir apareciendo.
 description: También es una trampa, y el DWeb Camp es precisamente el lugar
   ideal para decirlo en voz alta. Pasé mis dos sesiones allí viendo cómo la
   gente descubría, en tiempo real, que la gobernanza se niega a seguir siendo un

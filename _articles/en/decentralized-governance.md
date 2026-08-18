@@ -7,7 +7,7 @@ date: 2026-08-06T10:39:00.000+02:00
 date-updated: 2026-08-06T10:39:00.000+02:00
 article-order: 1
 uid: decentralized-governance
-title: Code Is Not Law. Someone Still Has to Show Up.
+title: Code is not law. Someone still has to show up.
 description: It's also a trap, and DWeb Camp is exactly the place to say so out
   loud. I spent my two sessions there watching people discover, in real time,
   that governance refuses to stay automated, no matter how earnestly the pitch
