@@ -37,6 +37,8 @@ This interview is particularly valuable because it catches that thinking in moti
 
 ## ***Thinking like a commoner*, ten years later**
 
+{% gallery { "simple": true, "images": [{"path":"/media/think.jpg"}] } %}
+
 **Olivier Schulbaum:** Let's talk about revisiting *Think Like a Commoner*, right? So if someone read the first edition ten years ago and picks up the second edition today, what has fundamentally changed, not only in the world, but in your own thinking?
 
 **David Bollier:** It's both. I got an invitation from my editor at New Society Publishers to do a second edition. The first edition came out in 2014. This one came out in 2025. And when I went back and read it, I said, Oh, man, this feels old. This feels dated.

@@ -40,6 +40,8 @@ Esta entrevista resulta especialmente valiosa porque permite observar ese pensam
 
 ## ***Thinking like a commoner*, diez años después**
 
+{% gallery { "simple": true, "images": [{"path":"/media/think.jpg"}] } %}
+
 **Olivier Schulbaum:** Bien. Hablemos de volver a *Think Like a Commoner*, ¿no? Si alguien leyó la primera edición hace diez años y hoy toma la segunda, ¿qué ha cambiado fundamentalmente, no solo en el mundo, sino también en tu propia manera de pensar?
 
 **David Bollier:** Ambas cosas. Mi editor en New Society Publishers me invitó a hacer una segunda edición. La primera salió en 2014. Esta salió en 2025. Y cuando volví a leerla dije: Dios, esto se siente viejo. Se siente anticuado.
