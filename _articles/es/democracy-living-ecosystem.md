@@ -165,9 +165,9 @@ Así que, con cada ejemplo que analizo, lo que intento hacer, simplemente para r
 
 Así que creo que quizá lo más popular en este momento —y esto puede ser una buena puerta de entrada para aquellos lectores que quizá no estén tan familiarizados con este ámbito de debate— es lo entrelazado que está un bosque. Realmente lo damos por sentado.
 
-Vamos a dar un paseo por el bosque, sobre todo por bosques antiguos o por aquellos que han vuelto a crecer y se han dejado más o menos a su aire durante 30 o 40 años. Es increíble. Y estamos tan insensibles. Tan insensibles que ni siquiera podemos entender o aceptar ideas que los neurobiólogos —o, bueno, yo diría que los neurobiólogos vegetales— están demostrando empíricamente.
+Vamos a dar un paseo por el bosque, sobre todo por bosques antiguos o por aquellos que han vuelto a crecer y se han dejado más o menos a su aire durante 30 o 40 años. Es increíble. Y estamos tan insensibles. Tan insensibles que ni siquiera podemos entender o aceptar ideas que los neurobiólogos, los neurobiólogos vegetales, están demostrando empíricamente.
 
-No se trata de esos trabajos excéntricos de los años sesenta del tipo: «Voy a soplar humo de cigarrillo sobre una planta, le voy a conectar un polígrafo y veré si reacciona con alguna descarga eléctrica». Ya sabes, eso apareció en ese movimiento llamado «La vida secreta de las plantas». La mayor parte era una farsa, simples tonterías hippies. Pero sí que inspiró a mucha gente a darse cuenta de que, bueno, quizá, ya sabes, las plantas no son tan tontas como muchos de nosotros pensamos.
+No se trata de esos trabajos excéntricos de los años sesenta del tipo: «Voy a soplar humo de cigarrillo sobre una planta, le voy a conectar un polígrafo y veré si reacciona con alguna descarga eléctrica». Ya sabes, eso apareció en ese movimiento llamado *La vida secreta de las plantas*. La mayor parte era una farsa, simples tonterías hippies. Pero sí que inspiró a mucha gente a darse cuenta de que, bueno, quizá, ya sabes, las plantas no son tan tontas como muchos de nosotros pensamos.
 
 {% quote %}La gente ve cada vez más los bosques como democracias multiespecíficas, donde hay colaboración, hay intercambio de recursos, no hay jefe, rey ni mandamás. Hay una situación compartida.{% endquote %}
 
