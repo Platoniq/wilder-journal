@@ -18,7 +18,7 @@ author_uids:
 interviewee: Jean-Paul Gagnon
 cover:
   path: /media/articles/heroes/gagnon.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/gagnon.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Gagnon
   credits: Gagnon
