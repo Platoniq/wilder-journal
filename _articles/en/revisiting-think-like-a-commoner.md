@@ -18,7 +18,7 @@ author_uids:
 interviewee: David Bollier
 cover:
   path: /media/articles/heroes/screen_shot_2021-08-06_at_11.18.39_am.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/screen_shot_2021-08-06_at_11.18.39_am.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - queer-ai-democratic-participation
