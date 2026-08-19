@@ -141,7 +141,7 @@ Pues bien, hacen lo mismo con la vivienda. Y sabemos, gracias a estudios sistem�
 
 {% gallery { "simple": true, "images": [{"path":"/media/images.jpg"}] } %}
 
-**Olivier:** Imagínate que la literatura sobre las abejas melíferas se aplicara así a las políticas públicas. ¿Hacerías esos pasos de baile en el Parlamento? Sería genial. Así que hoy no se te permite hablar ni usar palabras, solo bailar para expresar tus políticas, ya sabes.
+**Olivier:** Imagínate que la literatura sobre las abejas melíferas se aplicara así a las políticas públicas. ¿Cómo sería el Parlamento? Sería genial. 
 
 **Jean-Paul:** Bueno, más bien se trata de la mimesis. Mi libro empieza así. Dice que tenemos una arrogancia antropocéntrica en lo que respecta a la democracia. Creemos que es un invento de nuestra especie. Eso es falso.
 
