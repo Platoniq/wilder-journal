@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/screen_shot_2021-08-06_at_11.18.39_am.png
 ---
 Few thinkers have done as much as **[David Bollier](https://www.bollier.org/)** to move the commons from the margins of political and economic thought into a living framework for understanding how communities can govern resources, create value, and organize life beyond the conventional binaries of market and state. An author, activist, strategist, and long-standing international voice on the commons, Bollier has spent decades documenting and connecting forms of commoning across culture, technology, land, finance, governance, and ecology, while helping to build an intellectual and practical vocabulary around them. 
 

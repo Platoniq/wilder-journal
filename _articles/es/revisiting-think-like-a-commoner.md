@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/screen_shot_2021-08-06_at_11.18.39_am.png
 ---
 Pocos pensadores han hecho tanto como **[David Bollier](https://www.bollier.org/)** para sacar los comunes de los márgenes del pensamiento político y económico y convertirlos en un marco vivo desde el que comprender cómo las comunidades pueden gobernar recursos, crear valor y organizar la vida más allá de los binarismos convencionales entre mercado y Estado. Autor, activista, estratega y desde hace décadas una de las voces internacionales de referencia sobre los comunes, Bollier ha dedicado buena parte de su trayectoria a documentar y conectar formas de hacer común en ámbitos como la cultura, la tecnología, la tierra, las finanzas, la gobernanza y la ecología, contribuyendo al mismo tiempo a construir un vocabulario intelectual y práctico en torno a ellas.
 
