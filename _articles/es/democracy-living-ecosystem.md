@@ -71,17 +71,17 @@ Pero eso es precisamente lo que Arnais vino a diagnosticar. Y eso es lo que yo c
 
 Entonces, ¿en qué punto estamos ahora? Si, en el idioma inglés, adoptaras un enfoque lingüístico muy sencillo para analizar los adjetivos, obviamente, usaríamos las palabras de forma diferente. Atribuimos significado a eso que llamamos democracia sin siquiera utilizar la palabra. Y eso es una forma muy, muy limitada de abordar la diversidad conceptual.
 
-Basta con fijarse en las posiciones prenominales o posnominales. «Democracia negra» es prenominal; «democracia desnuda», por decirlo así, es posnominal. Vale. Bueno, ¿qué significan estas cosas?
+Basta con fijarse en las posiciones prenominales o posnominales. «Democracia negra» es prenominal; «democracia desnuda», por decirlo así, es posnominal. Vale, ¿qué significan estas cosas?
 
-Si empiezas a hacerte esa pregunta y empiezas a recopilar esos nombres y, como diría un buen taoísta practicante, un nombre no es más que un invitado, un marcador de posición de lo auténtico. Así que nunca es más que un signo, ¿verdad? ¿Y a qué apunta? En nuestro caso, apunta a los archivos. Apunta al arte, apunta al sonido, apunta a lo que sea, a un montón de cosas diferentes que tú puedes encontrar, que otras personas pueden encontrar, a las que tú puedes contribuir.
+Si empiezas a hacerte esa pregunta y empiezas a recopilar esos nombres y, como diría un buen taoísta practicante, un nombre no es más que un invitado, un marcador de posición de lo auténtico. Así que nunca es más que un signo, ¿verdad? ¿Y a qué apunta? En nuestro caso, apunta a los archivos. Apunta al arte, apunta al sonido, apunta a lo que sea, a un montón de cosas diferentes que tú puedes encontrar, que otras personas pueden encontrar, a las que tú puedes contribuir. Puedes ayudar a orientar a otras personas también. 
 
-Puedes ayudar a orientar a otras personas también. Es curioso, y voy a terminar aquí porque no quiero enumerar cuatro o cinco de estos objetivos. La limitación, una vez más, de este trabajo es que solo se ha realizado en inglés. ¿Qué pasa con otros idiomas? ¿Y con los medios no textuales? Todavía no lo hacemos.
+Es curioso, y voy a terminar aquí, que la limitación, una vez más, de este trabajo es que solo se ha realizado en inglés. ¿Qué pasa con otros idiomas? ¿Y con los medios no textuales? Todavía no lo hacemos.
 
 {% quote %}Hay una gran cantidad de otras palabras en el mundo que significan «democracia». Y creo que, literalmente, ni siquiera estamos rascando la superficie, mirándolo desde la distancia.{% endquote %}
 
 Hay una gran cantidad de otras palabras en el mundo que significan «democracia». Y creo que, literalmente, ni siquiera estamos rascando la superficie, mirándolo desde la distancia. Me atrevo a decir que creo que ahí hay algo. Por lo que podemos ver, se trata de una cantidad catastrófica de datos que nosotros, como estudiosos de la democracia, hemos dejado de tomar en serio de forma fundamental, sistemática y constante. ¿A qué se debe eso?
 
-Bueno, creo que, por ejemplo, nuestro amigo Ramón van der Dohe probablemente tiene el diagnóstico correcto en este caso. Y Ramón diría que simplemente somos muy pocos. No hay suficientes teóricos de la democracia de este tipo en el mundo, ni siquiera de ese tipo. Tampoco somos tan numerosos.
+Bueno, creo que, por ejemplo, nuestro amigo Ramón van der Dohe probablemente tiene el diagnóstico correcto en este caso. Y Ramón diría que simplemente somos muy pocos. No hay suficientes teóricos de la democracia de este tipo en el mundo, ni siquiera de ese tipo.
 
 **Olivier:** ¿Podríamos profundizar un poco más, ya sabes, centrándonos en los profesionales o incluso en las comunidades afectadas por ciertos términos, o revisando los propios términos? Eso también tiene que ver con cómo recopilar estas epistemologías, estas expresiones. Se trata, ya sabes, a un nivel meta, también de una especie de creación democrática de archivos, ¿o es la ontología un bien común? Me encantaría saber más sobre eso.
 

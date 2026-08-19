@@ -64,17 +64,17 @@ But that's what Arnais came to diagnose. And that's what I picked up on: that we
 
 So where are we at now? If, in English, you were to take a very simple linguistic approach to analyzing adjectives, we would obviously use the words differently. We ascribe meaning to this thing called democracy without even using the word. And this is a very, very limited way of looking at conceptual diversity.
 
-You just look at prenominal or postnominal positions. “Black democracy” is prenominal; “democracy undressed,” let's just say, is postnominal. Okay. Well, what do these things mean?
+You just look at prenominal or postnominal positions. “Black democracy” is prenominal; “democracy undressed,” let's just say, is postnominal. Well, what do these things mean?
 
-If you start asking that question and you start collecting those names and, as a good, okay, practicing Taoist would say, a name is but a guest, a placeholder for the real thing. So it's only ever a sign, right? And what does it point to? In our case, it points to archives. It points to art, it points to sound, it points to whatever, lots of different things that you can find, that other people can find, that you can help.
+If you start asking that question and you start collecting those names and, as a good, okay, practicing Taoist would say, a name is but a guest, a placeholder for the real thing. So it's only ever a sign, right? And what does it point to? In our case, it points to archives. It points to art, it points to sound, it points to whatever, lots of different things that you can find, that other people can find, that you can help. You can help guide other people to. 
 
-You can help guide other people to. Funny, and I'll wrap up here because I don't want to do four or five of these goals. The limitation, again, of this work is that's just done in English. What about other languages? What about across non-textual media? We don't do that yet.
+Is Funny, and I'll wrap up here that the limitation, again, of this work is that's just done in English. What about other languages? What about across non-textual media? We don't do that yet.
 
 {% quote %}There’s a great amount of other words in the world that mean democracy. And I think we're literally just not even scratching the surface, looking at it from a distance.{% endquote %}
 
 There’s a great amount of other words in the world that mean democracy. And I think we're literally just not even scratching the surface, looking at it from a distance. I dare say I think there's something there. As far as we can see, it's a catastrophic amount of data that we, as students of democracy, have fundamentally, systematically and consistently failed to take seriously. Why is that?
 
-Well, I think, for example, our friend Ramon van der Dohe's has probably the correct diagnostic here. And Ramon would say there are just too few of us. There aren't enough democratic theorists of this sort in the world, and even not of that sort. We aren't that numerous either.
+Well, I think, for example, our friend Ramon van der Dohe's has probably the correct diagnostic here. And Ramon would say there are just too few of us. There aren't enough democratic theorists of this sort in the world, and even not of that sort. 
 
 **Olivier:** Could we bridge a bit more, you know, looking at practitioners or even, like, affected communities by certain terms, or revising terms by themselves? So that has also to do with how to do the collecting of these epistemologies, of these expressions. It's at, you know, in a meta level, also some kind of a democratic archive-making, or is the ontology a common? So I would love to know about that.
 
