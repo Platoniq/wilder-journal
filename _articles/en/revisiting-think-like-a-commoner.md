@@ -93,6 +93,8 @@ And so the idea of transvestment is to identify and name the alternative ontolog
 
 And this doesn't mean we can't, as human beings, benefit from some of what nature's creating or the rest. It's just that we need to understand that nature is not a thing or object, or there's not natural capital that we can just exploit the way we exploit other capital. So I don't know if that answers your question, but that's my...
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-19-a-las-19.13.33.png"}] } %}
+
 **Olivier Schulbaum:** Could you give a practical example where transvestment becomes clear and easy to apply to specific commons?
 
 **David Bollier:** Well, I think that... I think we see that right now in certain ways, but it's just not named transvestment. You see institutional philanthropy helping certain ecosystems. Is that an investment? Is that do-gooding for volunteerism or something? I don't think they have a theory of value that properly understands what they're doing when they give money to ecosystem restoration or rejuvenation.

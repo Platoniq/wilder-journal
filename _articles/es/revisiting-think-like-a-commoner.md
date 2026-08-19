@@ -96,6 +96,8 @@ Y en parte es filantropía, en parte es una inversión a largo plazo en la estab
 
 Y esto no significa que nosotros, como seres humanos, no podamos beneficiarnos de parte de lo que crea la naturaleza o de todo lo demás. Simplemente significa que tenemos que entender que la naturaleza no es una cosa ni un objeto, y que tampoco existe un “capital natural” que podamos explotar sin más de la misma forma que explotamos otras formas de capital. Así que no sé si eso responde a tu pregunta, pero esa es mi...
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-19-a-las-19.13.33.png"}] } %}
+
 **Olivier Schulbaum:** ¿Podrías dar un ejemplo práctico en el que la transinversión quede clara y sea fácil de aplicar a unos comunes concretos?
 
 **David Bollier:** Bueno, creo que... creo que ahora mismo ya lo vemos de determinadas maneras, solo que no lo llamamos transinversión. Ves a la filantropía institucional ayudando a determinados ecosistemas. ¿Eso es una inversión? ¿Es hacer el bien como una especie de voluntariado o algo así? No creo que tengan una teoría del valor que les permita entender adecuadamente qué están haciendo cuando destinan dinero a la restauración o rejuvenecimiento de ecosistemas.
