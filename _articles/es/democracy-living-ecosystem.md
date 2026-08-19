@@ -71,9 +71,9 @@ Pero eso es precisamente lo que Arnais vino a diagnosticar. Y eso es lo que yo c
 
 Entonces, ¿en qué punto estamos ahora? Si, en el idioma inglés, adoptaras un enfoque lingüístico muy sencillo para analizar los adjetivos, obviamente, usaríamos las palabras de forma diferente. Atribuimos significado a eso que llamamos democracia sin siquiera utilizar la palabra. Y eso es una forma muy, muy limitada de abordar la diversidad conceptual.
 
-La forma en que lo he abordado desde un punto de vista lingüístico: basta con fijarse en las posiciones prenominales o posnominales. Así, «democracia negra» es prenominal; «democracia desnuda», por decirlo así, es posnominal. Vale. Bueno, ¿qué significan estas cosas?
+Basta con fijarse en las posiciones prenominales o posnominales. «Democracia negra» es prenominal; «democracia desnuda», por decirlo así, es posnominal. Vale. Bueno, ¿qué significan estas cosas?
 
-Y si empiezas a hacerte esa pregunta y empiezas a recopilar esos nombres y, como diría un buen taoísta practicante, un nombre no es más que un invitado, un marcador de posición de lo auténtico. Así que nunca es más que un signo, ¿verdad? ¿Y a qué apunta? En nuestro caso, apunta a los archivos. Apunta al arte, apunta al sonido, apunta a lo que sea, a un montón de cosas diferentes que tú puedes encontrar, que otras personas pueden encontrar, a las que tú puedes contribuir.
+Si empiezas a hacerte esa pregunta y empiezas a recopilar esos nombres y, como diría un buen taoísta practicante, un nombre no es más que un invitado, un marcador de posición de lo auténtico. Así que nunca es más que un signo, ¿verdad? ¿Y a qué apunta? En nuestro caso, apunta a los archivos. Apunta al arte, apunta al sonido, apunta a lo que sea, a un montón de cosas diferentes que tú puedes encontrar, que otras personas pueden encontrar, a las que tú puedes contribuir.
 
 Puedes ayudar a orientar a otras personas también. Es curioso, y voy a terminar aquí porque no quiero enumerar cuatro o cinco de estos objetivos. La limitación, una vez más, de este trabajo es que solo se ha realizado en inglés. ¿Qué pasa con otros idiomas? ¿Y con los medios no textuales? Todavía no lo hacemos.
 

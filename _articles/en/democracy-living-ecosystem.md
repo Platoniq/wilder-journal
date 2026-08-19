@@ -64,9 +64,9 @@ But that's what Arnais came to diagnose. And that's what I picked up on: that we
 
 So where are we at now? If, in English, you were to take a very simple linguistic approach to analyzing adjectives, we would obviously use the words differently. We ascribe meaning to this thing called democracy without even using the word. And this is a very, very limited way of looking at conceptual diversity.
 
-The way I've done it in a linguistic manner: so you just look at prenominal or postnominal positions. So “black democracy” is prenominal; “democracy undressed,” let's just say, is postnominal. Okay. Well, what do these things mean?
+You just look at prenominal or postnominal positions. “Black democracy” is prenominal; “democracy undressed,” let's just say, is postnominal. Okay. Well, what do these things mean?
 
-And if you start asking that question and you start collecting those names and, as a good, okay, practicing Taoist would say, a name is but a guest, a placeholder for the real thing. So it's only ever a sign, right? And what does it point to? In our case, it points to archives. It points to art, it points to sound, it points to whatever, lots of different things that you can find, that other people can find, that you can help.
+If you start asking that question and you start collecting those names and, as a good, okay, practicing Taoist would say, a name is but a guest, a placeholder for the real thing. So it's only ever a sign, right? And what does it point to? In our case, it points to archives. It points to art, it points to sound, it points to whatever, lots of different things that you can find, that other people can find, that you can help.
 
 You can help guide other people to. Funny, and I'll wrap up here because I don't want to do four or five of these goals. The limitation, again, of this work is that's just done in English. What about other languages? What about across non-textual media? We don't do that yet.
 
