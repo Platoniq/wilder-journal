@@ -36,13 +36,13 @@ call_to_action: cta-newsletter
 image:
   path: /assets/media/no_image-social_media.png
 ---
-**Olivier Schulbaum:** Vamos allá. Bien, tengo unos cuantos puntos en mi agenda. Uno es, por supuesto, el libro. También me gustaría hacerte algunas preguntas sobre economías regenerativas y comunes relacionales. Mencionaste algunos casos a los que podríamos volver con más detalle. Y después tengo algunas preguntas o dilemas de la sesión de trabajo sobre dilemas de los que me gustaría hablar contigo.
+Pocos pensadores han hecho tanto como **[David Bollier](https://www.bollier.org/)** para sacar los comunes de los márgenes del pensamiento político y económico y convertirlos en un marco vivo desde el que comprender cómo las comunidades pueden gobernar recursos, crear valor y organizar la vida más allá de los binarismos convencionales entre mercado y Estado. Autor, activista, estratega y desde hace décadas una de las voces internacionales de referencia sobre los comunes, Bollier ha dedicado buena parte de su trayectoria a documentar y conectar formas de hacer común en ámbitos como la cultura, la tecnología, la tierra, las finanzas, la gobernanza y la ecología, contribuyendo al mismo tiempo a construir un vocabulario intelectual y práctico en torno a ellas.
 
-Y, en cualquier caso, cualquiera de estas preguntas podría tener un seguimiento por correo electrónico. Así que, cuando nos parezca, simplemente puedo enviarte el resto de las preguntas. De acuerdo.
+Esta entrevista resulta especialmente valiosa porque permite observar ese pensamiento en movimiento: en lugar de limitarse a revisar las ideas que hicieron influyente *Think Like a Commoner*, Bollier las lleva hacia nuevos territorios, reflexionando sobre la relacionalidad, el biorregionalismo, la «transinversión» y las finanzas relacionalizadas, la difícil relación entre los comunes y el poder estatal, y las promesas y los peligros de la inteligencia artificial. Lo que hace especialmente relevante hoy una conversación con Bollier es precisamente esta combinación de perspectiva histórica e inquietud conceptual: no presenta los comunes como un modelo acabado ni como un programa ideológico, sino como una práctica social en evolución capaz de ayudarnos a repensar el valor, el poder, la tecnología, las relaciones ecológicas y las infraestructuras a través de las cuales damos forma colectivamente a nuestros futuros.
 
-**David Bollier:** Me parece bien.
+## ***Thinking like a commoner*, diez años después**
 
-**Olivier Schulbaum:** Bien. Hablemos entonces de volver a *Think Like a Commoner*, ¿no? Si alguien leyó la primera edición hace diez años y hoy toma la segunda, ¿qué ha cambiado fundamentalmente, no solo en el mundo, sino también en tu propia manera de pensar?
+**Olivier Schulbaum:** Bien. Hablemos de volver a *Think Like a Commoner*, ¿no? Si alguien leyó la primera edición hace diez años y hoy toma la segunda, ¿qué ha cambiado fundamentalmente, no solo en el mundo, sino también en tu propia manera de pensar?
 
 **David Bollier:** Ambas cosas. Mi editor en New Society Publishers me invitó a hacer una segunda edición. La primera salió en 2014. Esta salió en 2025. Y cuando volví a leerla dije: Dios, esto se siente viejo. Se siente anticuado.
 
@@ -58,6 +58,8 @@ Desarrollé mucho más las secciones que tenía sobre la naturaleza como algo re
 
 En otras palabras, se trata de la difícil relación entre los comunes y el Estado. Profundicé más en esas tensiones y en cómo, en última instancia, todo pasa por encontrar algunos rodeos, nuevas zonas de amortiguación, intermediarios entre el Estado y los comunes, o nuevas maneras de reconfigurar el poder estatal, porque al final todo vuelve al Estado y a su alianza con el capital. Y eso hay que abordarlo.
 
+## **Comunes, Estado y capital: una relación incómoda**
+
 **Olivier Schulbaum:** Hablando de eso, lo has mencionado un poco. ¿Podemos profundizar algo más en la relación entre instituciones, mercados y comunes? Y si algunos de los casos que identificaste hace años se han privatizado por el camino, ¿hay lecciones que podamos extraer? O, ya sabes, ¿ha cambiado fundamentalmente la relación entre comunes, mercados e instituciones, o seguimos sometidos al mismo tipo de fuerzas?
 
 **David Bollier:** No ha cambiado fundamentalmente. Pero digamos que cuando Silke, Michel Bauwens y yo hicimos un taller intensivo —creo que fue en 2016 o 2017— sobre el poder del Estado y los comunes, en algún lugar de Alemania, para mí fue realmente revelador. Fue como: ah, vaya, de acuerdo, esto me ayuda a situar mi comprensión de una manera más profunda. Pero, ya sabes, el poder estatal está tan atrincherado como siempre, aunque creo que las disfunciones de su alianza política con el capital son cada vez más claras, y las perturbaciones y el sufrimiento social y ecológico son más evidentes. Si acaso, abordar esta cuestión se ha vuelto más urgente. Y, de hecho, hay algunas ciudades que están trabajando con alianzas público-comunes, como bien sabes en Barcelona, y creo que eso tiene un importante valor como prototipo a escala regional, no a escala nacional. Creo que el Estado nacional sigue estando demasiado atrincherado y demasiado impulsado por la ideología y por alianzas políticas muy directas con el capitalismo global. Así que lo último que diría, dentro de mi manera de entender todo esto, es que tenemos que reconocer la profunda tensión entre las visiones del mundo y los compromisos ontológicos que tienen el Estado y sus socios capitalistas, por un lado, y los comuneros, por otro, y enfrentarnos a ella, en lugar de mantener una especie de visión feliz, feliz, según la cual basta con que establezcamos una alianza. Por eso escribí un ensayo para un libro, una antología que todavía no se ha publicado, editada por unos académicos belgas, sobre las alianzas público-comunes y la experimentación que se está dando en ese ámbito.
@@ -65,6 +67,8 @@ En otras palabras, se trata de la difícil relación entre los comunes y el Esta
 Y mi idea es que necesitamos ciertas zonas de amortiguación u organizaciones intermediarias, de la misma manera que las embajadas y la diplomacia son espacios intermedios entre naciones, en los que se reduce el poder de los actores grandes y se respeta a todo el mundo, incluidos los actores pequeños. Para eso existen esos protocolos y esas formas de comportarse que permiten mantener interacciones significativas. Y creo que necesitamos alguna versión de eso entre el Estado y los comunes para permitir una colaboración algo más fructífera, sin que el Estado simplemente dicte: nosotros tenemos el dinero, tenemos la ley, tenemos la legalidad de nuestro lado, que os den. Y el Estado tiene que empezar a darse cuenta de que su crisis de legitimidad y la desconfianza podrían abordarse de manera fructífera mediante alianzas con los comuneros. Y si los comuneros tuvieran, por ejemplo, el equivalente a los estatutos societarios que tienen las corporaciones, algo que permitiera un reconocimiento estatal de los comunes y quizá incluso apoyo económico u otro tipo de apoyo —jurídico, administrativo, validación cultural—, eso sería beneficioso para todas las partes implicadas. Si el Estado pudiera reconocer que las burocracias impersonales e inhumanas no pueden lograr determinadas cosas, aunque obviamente haya otras cosas importantes que sí pueden conseguir.
 
 Así que tengo una visión más rica de las relaciones entre el Estado y los comunes, pero seguimos estando muy lejos de mantener conversaciones constructivas o de desarrollar innovaciones en este ámbito.
+
+## **Quién manda en el mundo digital?**
 
 **Olivier Schulbaum:** Volviendo a los comunes digitales: antes de empezar la entrevista mencionabas por qué serían necesarios unos comunes digitales en las redes sociales, frente a dejar que la derecha tome la iniciativa. Sé que ya has hablado de esto antes, pero ¿podrías enmarcarlo para nosotros? ¿Cómo podemos abordarlo y cuál sería su importancia?
 
@@ -75,6 +79,8 @@ El Estado solo llegará hasta cierto punto, pero déjame añadir, sin entrar dem
 Los están fastidiando por todas partes, e incluso los partidos políticos son incapaces de responder por ellos. Así que creo que tenemos que reimaginar las formas políticas de relación con el Estado. No van a ser los partidos, porque hemos visto lo que pasó en Grecia, vimos lo que pasó en Bolivia; ya sabes, al final el capital internacional se impone a todo. Así que, de algún modo, el Estado necesita encontrar una base diferente en su relación con la gente, sea como sea que la definamos. Y lo que está realmente en juego ahora es: ¿cómo imaginamos “al pueblo”? Bueno, el Estado se imagina a sí mismo como el único órgano representativo legítimo del pueblo, mientras que yo creo que los comunes hacen un trabajo mucho mejor a la hora de satisfacer realmente necesidades y representar a las personas de lo que hace el Estado. Lo digo en un sentido general y un poco tosco, porque, por supuesto, hay determinadas cosas que hace el Estado que sí sirven a la gente.
 
 Así que supongo que lo que estoy diciendo es que todo esto se encuentra en un espacio de interregno: cómo reimaginamos la satisfacción de las necesidades de la gente de maneras duraderas, sin las veleidades de los partidos políticos y sin que el gran dinero corrompa todo el sistema.
+
+## **Más allá de la sostenibilidad: regeneración, valor y reinversión**
 
 **Olivier Schulbaum:** Vayamos entonces a la parte positiva. Me gustaría profundizar en el concepto de transinversión y también en cómo encaja dentro del marco de las finanzas relacionales y las economías regenerativas, que ahora está básicamente por todas partes, ¿no? La gente habla hoy más de economías regenerativas que de comunes. Así que, si pudieras definir y enmarcar un poco el concepto de transinversión, también me gustaría aprovecharlo para preguntarte: ¿cómo distingues regeneración de sostenibilidad? ¿La regeneración es simplemente un modelo ambiental mejor o implica una ontología distinta del valor?
 
@@ -100,6 +106,8 @@ Así que creo que ya existen tipos de transinversión que están ocurriendo. Sim
 
 Y creo que ese es el problema. Los problemas están en nuestras cabezas: en cómo pensamos sobre estos fenómenos, cómo nos comportamos respecto a ellos y cómo nos relacionamos con ellos. Y todavía no tenemos del todo los vocabularios ni los ejemplos vivos a los que poder remitirnos. Y por eso parecen una locura. Pero creo que son reales.
 
+## **Del biorregionalismo a la polis paralela**
+
 **Olivier Schulbaum:** No has mencionado la dimensión o la mirada biorregional. ¿Podrías desarrollar también esa cuestión?
 
 **David Bollier:** Sí. Quiero decir, recientemente, como muchas otras personas, me he interesado más por el biorregionalismo como marco para hablar de todo esto, porque, en primer lugar, aborda esas realidades ecológicas dentro de nuestras relaciones humanas con la naturaleza y con su enorme diversidad, y nos sitúa dentro de la naturaleza, en lugar de separados de ella, algo que creo que constituye una necesidad profunda e importante que los humanos modernos y el capitalismo sencillamente no quieren admitir o reconocer. Así que creo que el biorregionalismo nos ayuda a llegar ahí. Y además es compatible con todo lo que acabo de comentar. Por eso veo la necesidad de reconceptualizar la actividad humana dentro de un marco biorregional, con todos los cambios ontológicos que eso exige.
@@ -124,11 +132,9 @@ Y, por supuesto, intentarán cooptarlo—
 
 Así que, ya sabes, cuando encontré esta expresión de Václav Havel, de cuando era un disidente checo en la década de 1970 y le preguntaron cómo te enfrentas a un sistema totalizante que no responde a la acción cívica ni a la persuasión racional, él dijo: construyes una polis paralela. Y la idea es que mantienes relaciones horizontales con personas que comparten tu visión y tus valores, puedes perseguir fines saludables sin comprometerte desde el principio ni ser cooptado.
 
-Y haces valientemente lo que sientes que debes hacer y esperas a que aparezcan aperturas históricas o disfunciones o perturbaciones dentro del sistema existente, que aparecerán porque el cambio climático es la gran perturbación, la perturbación real. Así que, ya sabes, creo que en algunos sentidos desarrollar esta estrategia puede parecer utópico, pero creo que a largo plazo constituye una red de seguridad para la humanidad: desarrollar estos sistemas sobre una lógica distinta, en lugar de intentar simplemente conseguir cambios incrementales sin alterar la lógica fundamental del sistema dominante.
+Y haces valientemente lo que sientes que debes hacer y esperas a que aparezcan aperturas históricas o disfunciones o perturbaciones dentro del sistema existente, que aparecerán porque el cambio climático es la gran perturbación, la perturbación real. Así que, ya sabes, creo que en algunos sentidos desarrollar esta estrategia puede parecer utópico, pero creo que a largo plazo constituye una red de seguridad para la humanidad: desarrollar estos sistemas sobre una lógica distinta, en lugar de intentar simplemente conseguir cambios incrementales sin alterar la lógica fundamental del sistema dominante. Esa es simplemente la manera en que veo el camino estratégico hacia adelante.
 
-**Olivier Schulbaum:** Has mencionado—
-
-**David Bollier:** Esa es simplemente la manera en que veo el camino estratégico hacia adelante.
+## **Trucos legales: cómo proteger los bienes comunes frente al poder**
 
 **Olivier Schulbaum:** Quizá abramos un pequeño paréntesis, que además es una obsesión mía. Has hablado de la relación de poder entre los proyectos o movimientos de los comunes y el poder estatal, ¿no? Y mi mecanismo de participación favorito es litigar contra los gobiernos. Así que, ¿conoces algún caso concreto relacionado con la protección o defensa de unos comunes frente a su explotación por parte del Estado? ¿Existe algún caso de litigio o algún movimiento que haya detenido algún tipo de privatización o una ley concreta sobre la gestión de activos en una ciudad? ¿Tienes algún caso?
 
@@ -136,13 +142,9 @@ Y haces valientemente lo que sientes que debes hacer y esperas a que aparezcan a
 
 Dicho eso, estos rodeos jurídicos te permiten reunir a una comunidad de personas alrededor de un conjunto distinto de valores. Del mismo modo que mucha gente decía: ya sabes, Creative Commons sigue basándose en los derechos de propiedad y, por tanto, es impuro según mis estándares marxistas. Pero, por supuesto, creó todo un universo global de personas que comparten y entienden esto, lo cual podría decirse que es tan importante como la pureza intelectual de encontrar alguna otra base para las licencias. Así que, ya sabes, la pureza no va a ganar esta batalla. Y, sin embargo, tampoco queremos que las soluciones incrementales acaben siendo cooptadas.
 
-**David Bollier:** ¿Me das solo un segundo?
+## **¿Puede la IA estar al servicio de los comunes?**
 
-**Olivier Schulbaum:** Sí.
-
-**David Bollier:** Espera.
-
-**Olivier Schulbaum:** Sí, solo para abrir la conversación, y después te enviaré más preguntas sobre dilemas para la sesión. No voy a entrar en la extracción y en todos esos minerales que alimentan la industria de la IA y demás. Pero mi pregunta es: si la IA reduce potencialmente y de forma drástica el coste de coordinación, ¿eso fortalece —o podría fortalecer de algún modo— el hacer común o los movimientos de los comunes? ¿O podría sustituir silenciosamente, o convertirse en una amenaza clara para, las relaciones sociales que hacen posibles los comunes?
+**Olivier Schulbaum:** No voy a entrar en la extracción y en todos esos minerales que alimentan la industria de la IA y demás. Pero mi pregunta es: si la IA reduce potencialmente y de forma drástica el coste de coordinación, ¿eso fortalece —o podría fortalecer de algún modo— el hacer común o los movimientos de los comunes? ¿O podría sustituir silenciosamente, o convertirse en una amenaza clara para, las relaciones sociales que hacen posibles los comunes?
 
 **David Bollier:** Es, sin duda, un riesgo. Creo que ahora mismo realmente no lo sabemos, porque la IA todavía no se ha desplegado suficientemente sobre el terreno con suficiente autonomía para quienes participan en ella. Creo que es concebible que pueda cumplir esa función. Pero creo que hay muchísimas trampas. La IA privilegia el conocimiento cognitivo y el conocimiento orientado hacia el pasado, frente a la creatividad orientada hacia el futuro, el juicio humano y el contexto. Ya sabes, es como si estuviéramos privilegiando un tipo de conocimiento muy arcano frente a algo más humanista, relacional, significativo.
 
