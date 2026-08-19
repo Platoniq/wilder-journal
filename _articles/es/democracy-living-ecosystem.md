@@ -107,15 +107,15 @@ Así que, cuando observamos cómo expresan algún tipo de acción democrática, 
 
 Por eso, cuando llevan a cabo su trabajo, vemos, por ejemplo, que prestan atención y cuidado a cómo se comportan las diferentes personas en determinados espacios de acción. Y, como era de esperar, dada la atención que recibieron, los movimientos Occupy fueron descritos con gran detalle, creo, por el tipo de investigadores que se centran en el posicionamiento corporal.
 
-Y a partir de esto también nos hicimos una idea de cómo los anarquistas tienen sus propias culturas, y de cómo, al parecer, a los anarquistas estadounidenses o norteamericanos les gusta mucho tocarse entre sí. Son muy táctiles: masajes, abrazos. Y otros, en diferentes partes del mundo, ya sabes, se centran mucho más en, digamos, compartir el espacio juntos, estar abiertos a una diversidad de «tipos de personas»… ¡Qué expresión más rara, oye, «tipos de personas»!
+Y a partir de esto también nos hicimos una idea de cómo los anarquistas tienen sus propias culturas, y de cómo, al parecer, a los anarquistas estadounidenses o norteamericanos les gusta mucho tocarse entre sí. Son muy táctiles: masajes, abrazos. Y otros, en diferentes partes del mundo, ya sabes, se centran mucho más en, digamos, compartir el espacio juntos, estar abiertos a la diversidad de «tipos de personas»… ¡Qué expresión más rara, oye, «tipos de personas»!
 
 **Olivier:** No te preocupes.
 
-Jean-Paul: Existe una ilusión sobre quién está dentro y quién fuera de la sala. Así que hoy en día nos centramos mucho, por supuesto, en las personas transgénero, en las personas muy jóvenes y también en aquellas que tienen, digamos, algún tipo de neurodiversidad o una discapacidad muy grave... Dudo en utilizar la palabra «discapacitado». Algunas personas se identifican como tales. Otras hablan de «capacidades diferentes», así que digamos simplemente «capacidades diferentes», para ser muy inclusivos.
+**Jean-Paul:** Existe una ilusión sobre quién está dentro y quién fuera de la sala. Así que hoy en día nos centramos mucho, por supuesto, en las personas transgénero, en las personas muy jóvenes y también en aquellas que tienen, digamos, algún tipo de neurodiversidad o una discapacidad muy grave... Dudo en utilizar la palabra «discapacitado». Algunas personas se identifican como tales. Otras hablan de «capacidades diferentes», así que digamos simplemente «capacidades diferentes», para ser muy inclusivos.
 
-Pero, de nuevo, si nos fijamos en la obra de Habermas —que es una fuente tan celebrada de la teoría deliberativa en los intentos actuales de ponerla en práctica—, a pesar de tener él mismo un labio leporino, cerró la puerta en su obra formal. Así que tenemos ese problema real de intentar encontrar formas de volver a abrir espacios deliberativos, de intentar democratizarlos más.
+Pero, de nuevo, si nos fijamos en la obra de Habermas, que es una fuente tan celebrada de la teoría deliberativa en los intentos actuales de ponerla en práctica, a pesar de tener él mismo un labio leporino, cerró la puerta en su obra formal. Así que tenemos ese problema real de intentar encontrar formas de volver a abrir espacios deliberativos, de intentar democratizarlos más.
 
-Así que sí, ese es un ejemplo concreto de la encarnación. Dejo este tema en manos de muchas otras personas, sobre todo porque en estos momentos estoy trabajando en un manuscrito para Princeton titulado \*Non-Human Democracies\* (Democracias no humanas). Y esto, para mí, es un gran espacio para ese espacio visual y verbal no humano de los demás, de otros animales como nosotros con los que compartimos el espacio. También las plantas, los microbios y los hongos, que, bajo una observación minuciosa, están demostrando no solo un tipo de práctica democrática, sino muchos tipos diferentes.
+Así que sí, ese es un ejemplo concreto de la encarnación. Dejo este tema en manos de muchas otras personas, sobre todo porque en estos momentos estoy trabajando en un manuscrito para Princeton titulado *Non-Human Democracies* (Democracias no humanas). Y esto, para mí, es un gran espacio para ese espacio visual y verbal no humano de los demás, de otros animales como nosotros con los que compartimos el espacio. También las plantas, los microbios y los hongos, que, bajo una observación minuciosa, están demostrando no solo un tipo de práctica democrática, sino muchos tipos diferentes.
 
 ## **Democracias no humanas: abejas, bosques y plantas**
 
@@ -169,6 +169,8 @@ Vamos a dar un paseo por el bosque, sobre todo por bosques antiguos o por aquell
 
 No se trata de esos trabajos excéntricos de los años sesenta del tipo: «Voy a soplar humo de cigarrillo sobre una planta, le voy a conectar un polígrafo y veré si reacciona con alguna descarga eléctrica». Ya sabes, eso apareció en ese movimiento llamado «La vida secreta de las plantas». La mayor parte era una farsa, simples tonterías hippies. Pero sí que inspiró a mucha gente a darse cuenta de que, bueno, quizá, ya sabes, las plantas no son tan tontas como muchos de nosotros pensamos.
 
+{% quote %}La gente ve cada vez más los bosques como democracias multiespecíficas, donde hay colaboración, hay intercambio de recursos, no hay jefe, rey ni mandamás. Hay una situación compartida.{% endquote %}
+
 Y cuando les das crédito, ves que funcionan dentro de un panorama informativo del tiempo diferente. Tienen, a nivel celular, distintos tipos de receptores. Uno de ellos es para sustancias químicas. Y ahora sabemos, con muchos tipos diferentes de plantas, que sí utilizan estas señales químicas, ya sea a través de sus raíces o de la estructura de sus hojas, y las utilizan para comunicarse entre sí.
 
 Así que, por ejemplo, si tú y yo fuéramos, digamos, unos abedules bonitos, o lo que sea, y resultara que estuvieras más cerca del lugar donde una jirafa se ha escapado del zoológico y está empezando a comerse tus hojas. No sé si los abedules reconocen a las jirafas. Es un ejemplo bastante descabellado.
@@ -197,7 +199,7 @@ Así que tenemos diferentes agentes trabajando juntos, como un filósofo; tenemo
 
 Hacemos una adaptación de todo esto que, ya sabes, evita la universalización y la programación, y propone una reflexión crítica con, ya sabes, un mayor silencio; así que, básicamente, rompemos la lógica y la forma en que la IA, ya sabes, se nos impone.
 
-Así pues, echando la vista atrás a tu experimento de IA democrática —te enviaré algunas preguntas al respecto—, ¿qué harías hoy de forma diferente o qué evitarías hacer? ¿Y qué peligros surgen cuando le pedimos a la IA no solo que informe a la democracia, sino que participe en el razonamiento democrático?
+Así pues, echando la vista atrás a tu experimento de IA democrática. Te enviaré algunas preguntas al respecto: ¿qué harías hoy de forma diferente o qué evitarías hacer? ¿Y qué peligros surgen cuando le pedimos a la IA no solo que informe a la democracia, sino que participe en el razonamiento democrático?
 
 **Jean-Paul:** De acuerdo, intentaré ser breve. En primer lugar, se trataba de algo lúdico. Y lo que haría de otra manera, ahora que hemos aprendido mucho más sobre las circunstancias que rodean la creación de la IA: si realmente queremos evitar reproducir exclusiones intencionadas, incluso —diría yo— patrones de trabajo coloniales e imperialistas, si queremos tomarnos eso en serio, entonces tenemos que embarcarnos en un proyecto más amplio de lo que algunos han denominado la «democratización de la inteligencia artificial».
 

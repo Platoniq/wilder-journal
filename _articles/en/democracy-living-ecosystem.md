@@ -162,6 +162,8 @@ We go for a walk in the woods, especially old growth or something that has regro
 
 It's not the kooky 1960s, “I'm going to blow cigarette smoke on a plant and put a polygraph to it and see if it reacts with some electricity” work. You know, that appeared in this movement called *The Secret Life of Plants*. Most of it was sham stuff, just hippie nonsense. But it did inspire a lot of people to see, well, maybe, you know, plants aren't as dumb as a lot of us think.
 
+{% quote %}In short, people do see forests more and more now as multi-species democracies, where there is a working together, there is an exchange of resources, there is no chief or king or boss. There's a shared circumstance. {% endquote %}
+
 And when you give them credence, you see that they work within a different informational landscape of time. They have, at the cellular level, different sorts of receptors. One of them is for chemicals. And we know now, with many different types of plants, that they do use these chemical signals, either through their roots or through their leaf structures, they use that to communicate with one another.
 
 So if, say, again, you and I were nice, whatever, tasty birch trees, and you happen to be closer to where a giraffe may have escaped the zoo and is starting to munch on your leaves. I don't know if birch knows giraffes. This is a pretty wild example.
