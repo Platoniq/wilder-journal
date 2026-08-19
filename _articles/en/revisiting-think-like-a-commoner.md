@@ -91,7 +91,7 @@ And yet, we see how all sorts of things in nature appear as if by magic through 
 
 And so the idea of transvestment is to identify and name the alternative ontology of that living system, or ecosystem. And to note that the money is transferred under a different set of social expectations. And it's partly philanthropy, it's partly a long-term investment for the stability of the system. It's partly you could even argue like a potlatch donation by the big players for their own prestige. It's partly investment in common. And I don't think we fully understand what the transvestment would be to make investments in these larger systems. I suppose conventionalists would say, oh, it's a public good, but that doesn't begin to capture it either. So I guess my larger point is that we need to rethink the parameters of finance itself, and embed it in various types of long-term relationships.
 
-And this doesn't mean we can't, as human beings, benefit from some of what nature's creating or the rest. It's just that we need to understand that nature is not a thing or object, or there's not natural capital that we can just exploit the way we exploit other capital. So I don't know if that answers your question, but that's my...
+And this doesn't mean we can't, as human beings, benefit from some of what nature's creating or the rest. It's just that we need to understand that nature is not a thing or object, or there's not natural capital that we can just exploit the way we exploit other capital. 
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-19-a-las-19.13.33.png"}] } %}
 

@@ -94,7 +94,7 @@ Y, sin embargo, vemos cómo todo tipo de cosas en la naturaleza aparecen como po
 
 Y en parte es filantropía, en parte es una inversión a largo plazo en la estabilidad del sistema. En parte incluso podrías decir que es como una donación potlatch de los grandes actores en beneficio de su propio prestigio. En parte es inversión en común. Y no creo que entendamos todavía del todo qué sería la transinversión cuando se trata de invertir en estos sistemas más amplios. Supongo que desde posiciones convencionales se diría: ah, es un bien público. Pero eso tampoco empieza siquiera a captar lo que es. Así que supongo que mi argumento más general es que necesitamos repensar los parámetros de las propias finanzas e insertarlas dentro de distintos tipos de relaciones a largo plazo.
 
-Y esto no significa que nosotros, como seres humanos, no podamos beneficiarnos de parte de lo que crea la naturaleza o de todo lo demás. Simplemente significa que tenemos que entender que la naturaleza no es una cosa ni un objeto, y que tampoco existe un “capital natural” que podamos explotar sin más de la misma forma que explotamos otras formas de capital. Así que no sé si eso responde a tu pregunta, pero esa es mi...
+Y esto no significa que nosotros, como seres humanos, no podamos beneficiarnos de parte de lo que crea la naturaleza o de todo lo demás. Simplemente significa que tenemos que entender que la naturaleza no es una cosa ni un objeto, y que tampoco existe un “capital natural” que podamos explotar sin más de la misma forma que explotamos otras formas de capital. 
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-19-a-las-19.13.33.png"}] } %}
 
