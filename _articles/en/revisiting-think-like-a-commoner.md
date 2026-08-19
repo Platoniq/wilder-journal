@@ -19,7 +19,7 @@ interviewee: David Bollier
 cover:
   path: /media/articles/heroes/screen_shot_2021-08-06_at_11.18.39_am.png
   mobile: /media/articles/mobile/screen_shot_2021-08-06_at_11.18.39_am.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/screen_shot_2021-08-06_at_11.18.39_am.png
 related_article_uids:
   - queer-ai-democratic-participation
   - amber-huff
