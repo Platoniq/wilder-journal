@@ -8,10 +8,10 @@ date: 2026-08-19T11:14:00.000+02:00
 date-updated: 2026-08-19T11:14:00.000+02:00
 article-order: 3
 uid: democracy-living-ecosystem
-title: "The river has a vote: a conversation on languages, landscapes and
-  futures of democracy"
-description: "The river has a vote: a conversation on languages, landscapes and
-  futures of democracy"
+title: "El río tiene voz y voto: una conversación sobre lenguajes, paisajes y el
+  futuro de la democracia"
+description: "El río tiene voz y voto: una conversación sobre lenguajes,
+  paisajes y el futuro de la democracia"
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
