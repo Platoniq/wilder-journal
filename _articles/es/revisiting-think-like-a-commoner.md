@@ -9,9 +9,7 @@ date-updated: 2026-08-19T18:46:00.000+02:00
 article-order: 4
 uid: revisiting-think-like-a-commoner
 title: '"El problema no es la relación del ser humano con la naturaleza, sino la
-  relación del capitalismo con la naturaleza». David Bollier habla sobre los
-  bienes comunes relacionales, el biorregionalismo, la «transvestment", la
-  inteligencia artificial y los límites del Estado'
+  relación del capitalismo con la naturaleza"'
 description: '"Think like a commoner", revisitado'
 author: Olivier Schulbaum
 author_uids:

@@ -9,8 +9,7 @@ date-updated: 2026-08-19T18:46:00.000+02:00
 article-order: 4
 uid: revisiting-think-like-a-commoner
 title: “The problem isn't human engagement with nature, it's capitalist
-  engagement with nature”. David Bollier on relational commons, bioregionalism,
-  transvestment, AI and the limits of the state
+  engagement with nature”
 description: Revisiting Think Like a Commoner
 author: Olivier Schulbaum
 author_uids:
