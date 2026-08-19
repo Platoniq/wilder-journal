@@ -40,19 +40,17 @@ In this conversation with **Olivier Schulbaum**, strategic director of Platoniq,
 
 These grad programs still are fixated on this idea that democracy seems to have always meant something coherent for the vast majority of people. In fact, a lot of people have that strange attachment to universalism, which, as we know from Castro-Gómez and others, this is very hard to maintain as a defensible position if you're, you know, taking an honest and open approach to what democracy is, has been and could be across time and space.
 
-It's even more complicated if you start thinking of the meanings of democracy across individuals and groups, indeed, species. So, in short, you know, I think we're still very much training in that manner that works quite well to serve, for example, interests of—and it's not necessarily all bad. We've got some evil cabal or cohort of states or billionaires or Moldbugs or whatever that are trying to control narratives. It's not like that at all. It's just that, you know, we have a number of countries that do like to designate themselves as procedurally fair, institutionally robust, etc., quote-unquote liberal democracies, and they want people to protect that, to defend that, but perhaps not too robustly.
+It's even more complicated if you start thinking of the meanings of democracy across individuals and groups, indeed, species. So, in short, you know, I think we're still very much training in that manner that works quite well to serve, for example, interests of—and it's not necessarily all bad. Some say there’s some kind of evil cabal or clique of states, billionaires, or whatever, trying to control the narrative. And that’s not the case at all. In fact, there are a number of countries that like to call themselves “procedurally fair” and “institutionally sound” liberal democracies, and so on, and they want people to protect that, to defend it, even if they lack the resolve to do so. We're seeing quite a lot of this sensitivity in major grant programs, within NGOs, within IGOs. 
 
-So we're seeing quite a lot of this sensitivity in major grant programs, within NGOs, within IGOs. We have that long-standing tension. I do think it's overplayed, this tension between, for instance, theorists—and I use the quotation marks—on one side and empiricists or statisticians on the other. We are always learning from each other. Theorists, for example, are constantly grousing over the limitations of variables. Empiricists are constantly grousing over the fact that a variable can't include everything, or there cannot be 10,000 variables. So we're trying in that space, but that's all background.
-
-{% quote %}I think it's no wonder more people find depth in Monkey D. Luffy than in John Rawls's theory of justice.{% endquote %}
+{% quote %}I think it's no surprise that more people appreciate, for example, the depth of, say, Monkey D. Luffy from *One Piece*, rather than, for example, John Rawls's theory of justice{% endquote %}
 
 When I came to this, it wouldn't even be a realization. It was genuinely just, I think, the rewards that one gets from trying to be quiet and trying to read as well as they can. And I must admit to being quite a poor student in this regard. When you're so time-poor, there are many others that are just tremendously sensitive to existing literature.
 
-And importantly, this came up just the other day, that we're talking about these questions of why are there such dominant figures that keep coming up again and again and again in the so-called archive of democracy, right? Marx, Arendt, Rawls, Habermas. It's pretty difficult to keep revisiting these people and upholding them because, in many ways, they created theories that were very exclusive and exclusionary, very self-referential.
+Beyond that we're talking about these questions of why are there such dominant figures that keep coming up again and again and again in the so-called archive of democracy, right? Marx, Arendt, Rawls, Habermas. It's pretty difficult to keep revisiting these people and upholding them because, in many ways, they created theories that were very exclusive and exclusionary, very self-referential.
 
-I think it's no wonder more people find depth in Monkey D. Luffy than in John Rawls's theory of justice.
+I think it's no surprise that more people appreciate, for example, the depth of, say, Monkey D. Luffy from *One Piece*, rather than, for example, John Rawls's theory of justice, not to mention other books.
 
-**Olivier:** They both have horror tyranny. They both have comics about the Marx comics, you know, *The Capital*, but it's a comic one with, like, Mangas style. I'll send it over.
+**Olivier:** They both have horror tyranny. And both have comics about them.
 
 **Jean-Paul:** I like that. But you see, if you bring this up in certain places, people will think: “are you ridiculous?”
 
@@ -60,11 +58,11 @@ You know, Rawls was such a tremendous intellect and made so many great contribut
 
 Well, it was the civil rights movement in his colonial country. And yet, he makes at best a cursory motion toward race. Does not address whatsoever the extremely tense position of racial abuses historically and contemporaneously to his time. We can think of just the amount of Americans that rely on cheap labor from South and Central America to this day.
 
-So we have that realization that at some point, I'd say Arnais maybe puts it better, that in the 60s or 70s or so, numeracy, statistics, tight and closed variables, questions at work. How, you know, you can't dare change a question in a survey. I mean, gosh, try doing that in something Pippa Norris is involved in. Drives them crazy.
+So we realize that, at some point in the 1960s or 1970s or thereabouts, arithmetic, statistics, variables, and the questions at stake became rigid and closed-ended. You can't dare change a question in a survey. I mean, gosh, try doing that in something Pippa Norris is involved in. Drives them crazy.
 
-But that's what Arnais, you know, came to diagnose. And that's what I picked up on: that we lost somehow an interest in the meaning of words. And we started adopting the strange, simple narratives that really do strengthen the hand of particular empires and particular capitalist interests.
+But that's what Arnais came to diagnose. And that's what I picked up on: that we lost somehow an interest in the meaning of words. And we started adopting the strange, simple narratives that really do strengthen the hand of particular empires and particular capitalist interests.
 
-Okay. So where are we at now? If, in the English language, you were to take even a very simple, and I would say perhaps stupid because it's so simple, linguistic approach to looking at adjectives, right? Obviously, we modify words differently. We ascribe meaning to this thing called democracy without even using the word. So it's a very, very limited way of looking at conceptual diversity.
+So where are we at now? If, in English, you were to take a very simple linguistic approach to analyzing adjectives, we would obviously use the words differently. We ascribe meaning to this thing called democracy without even using the word. And this is a very, very limited way of looking at conceptual diversity.
 
 The way I've done it in a linguistic manner: so you just look at prenominal or postnominal positions. So “black democracy” is prenominal; “democracy undressed,” let's just say, is postnominal. Okay. Well, what do these things mean?
 
