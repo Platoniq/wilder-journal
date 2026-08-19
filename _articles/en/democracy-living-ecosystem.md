@@ -132,6 +132,8 @@ They don't trust each other. It's too dangerous. It is too dangerous. So I go an
 
 So they do the same thing with housing. And we know from systematic studies that this does in fact yield something like a nine out of ten times success rate in developing a policy. Okay. And if we agree that policy is just direction, right, we decide to go there. Well, if that's a successful outcome nine out of ten times...
 
+{% gallery { "simple": true, "images": [{"path":"/media/images.jpg"}] } %}
+
 **Olivier:** Imagine honeybee literature in public policy like this. Would you do the dance moves in the parliament? That would be cool. So you're not allowed to talk and use words today, just dance about your policies, you know.
 
 **Jean-Paul:** Well, more to the point of mimesis. So this, my book, it starts that way. It says that we have an anthropocentric arrogance when it comes to democracy. We think it is the invention of our species. This is false.

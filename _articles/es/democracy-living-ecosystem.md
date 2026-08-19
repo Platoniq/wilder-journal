@@ -139,6 +139,8 @@ No confían unas en otras. Es demasiado peligroso. Es demasiado peligroso. Así 
 
 Pues bien, hacen lo mismo con la vivienda. Y sabemos, gracias a estudios sistemáticos, que esto, de hecho, da lugar a una tasa de éxito de nueve de cada diez veces a la hora de desarrollar una política. Vale. Y si estamos de acuerdo en que la política es simplemente una dirección, ¿no?, decidimos ir por ahí. Bueno, si ese es un resultado satisfactorio nueve de cada diez veces...
 
+{% gallery { "simple": true, "images": [{"path":"/media/images.jpg"}] } %}
+
 **Olivier:** Imagínate que la literatura sobre las abejas melíferas se aplicara así a las políticas públicas. ¿Hacerías esos pasos de baile en el Parlamento? Sería genial. Así que hoy no se te permite hablar ni usar palabras, solo bailar para expresar tus políticas, ya sabes.
 
 **Jean-Paul:** Bueno, más bien se trata de la mimesis. Mi libro empieza así. Dice que tenemos una arrogancia antropocéntrica en lo que respecta a la democracia. Creemos que es un invento de nuestra especie. Eso es falso.
