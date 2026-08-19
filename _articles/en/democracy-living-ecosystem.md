@@ -88,29 +88,23 @@ We're treating them like pot shards, and then trying to build archives around th
 
 ## **Linguistic artifacts and non-verbal democratic practices**
 
-**Olivier:** Let me come back to something I think is very interesting. You mentioned also data around democracies. I'm not talking about the definitions, but also, like, the data that may be associated to these definitions. But I'd like to come back to the idea of what you call the linguistic artifacts, right, like to dig about that.
+**Olivier:** Let me come back to something I think is very interesting. You mentioned also data around democracies. I'm not talking about the definitions, but also, like, the data that may be associated to these definitions. But I'd like to come back to the idea of what you call "the linguistic artifacts". What democratic practices become visible when we stop translating everything through English political vocabulary? And that would also: is there any artifact you would think of that would be non-discursive? So some kind of a translation of these phenomenologies or terms or glossaries into visual languages that could be associated more with community practices. 
 
-So what democratic practices become visible when we stop translating everything through English political vocabulary? And that would also: is there any artifact you would think of that would be non-discursive? So some kind of a translation of these phenomenologies or terms or glossaries into visual languages that could be associated more with community practices. So not expressing our will or desires or frustration with words, but with any kind of other art-based or artifacts.
+**Jean-Paul:** Given your question, I think you know the answer of this. I follow other anthropologists, especially those that are more in political sociology or radical and activist critical theory work. So when you look at how they express some sort of democratic action, usually this has more to do with that Luffy style of pursuing freedom, embracing anarchy, pursuing joy. Right? We know that hope and joy are big themes in democratic theory these days, and for good reason.
 
-**Jean-Paul:** Yes. I, given your question, I think you know the answer of this. I swear, I swear. But I follow other anthropologists, especially those that are more in political sociology or radical and activist critical theory work.
+When they carry out their work, we see, for example, that they pay close attention to how different people behave in specific spaces of action. That is why the Occupy movements were described in great detail by researchers who focus on embodiment positioning.
 
-So when you look at how they express some sort of democratic action, usually this has more to do with that Luffy style of pursuing freedom, embracing anarchy, pursuing joy. Right? We know that hope and joy are big themes in democratic theory these days, and for good reason.
+Apparently American anarchists or North American anarchists really like to touch each other. They're very tactile: massages, hugs. And others in different parts of the world, you know, are far more just about sharing space together, being open to a diversity of people types.
 
-So, when they do their work, we see, for instance, attention and care paid to how different people hold themselves in particular spaces of action. And unsurprisingly, given the amount of focus it got, the Occupy movements were really, really well detailed, I think, by the sorts of scholars that focus on embodiment positioning.
+There's an illusion about who is in and out of the room. Nowadays we have a lot, of course, of focus on people that are transgendered, people that are very young, and also people that have, let's say, some form of neurodiversity or very deep... I hesitate to use the word disabled. Some people identify as such. Others say differently abled, so let's just say differently abled, to be very inclusive. But again, if you look at Habermas' work, which is such a celebrated root of deliberative theory in attempts at practice today, despite having a cleft lip himself, he shut the door to that in his formal work. So we have that real problem of trying to find ways of opening deliberative spaces, trying to democratize that more.
 
-And from this we also got a sense of how anarchists have their own cultures, and how apparently American anarchists or North American anarchists really like to touch each other. They're very tactile: massages, hugs. And others in different parts of the world, you know, are far more just about, say, sharing space together, being open to a diversity of people types and what a weird saying, hey, “people types.”
+That's one example of just the embodiment. 
 
-**Olivier:** No worries.
-
-**Jean-Paul:** There's an illusion about who is in and out of the room. So nowadays we have a lot, of course, of focus on people that are transgendered, people that are very young, and also people that have, let's say, some form of neurodiversity or very deep... I hesitate to use the word disabled. Some people identify as such. Others say differently abled, so let's just say differently abled, to be very inclusive.
-
-But again, if you look at Habermas' work, which is such a celebrated root of deliberative theory in attempts at practice today, despite having a cleft lip himself, he shut the door in his formal work. So we have that real problem of trying to find ways of opening deliberative spaces again, trying to democratize that more.
-
-So yeah, that's one example of just the embodiment. I leave this to a lot of other people, namely as I'm working on a manuscript at the moment for Princeton called *Non-Human Democracies*. And this, for me, is a great space for that visual, non-human verbal space of others, other animals like us who we share space with. Plants as well, microbes, fungi, who under careful observation are demonstrating not just one type of democratic practice, but many different types.
+But I’ll leave this topic to others, especially since I’m currently working on a manuscript for Princeton titled *Non-Human Democracies*, which is based on that vast visual and verbal, non-human space that we share with animals. Plants, microbes, and fungi, when observed closely, reveal not just one type of democratic practice, but many different types.
 
 ## **Non-human democracies: bees, forests and plants**
 
-**Olivier:** Can you dig into the decision-making process of bees?
+**Olivier:** Could you go into a little more detail on that topic: the decision-making process of bees, for example?
 
 **Jean-Paul:** Everybody loves bees.
 
@@ -118,51 +112,39 @@ So yeah, that's one example of just the embodiment. I leave this to a lot of oth
 
 **Jean-Paul:** So I'm happy to, but only if I can encourage your lovely readers to understand that this is literally too exclusionary. The Western honeybee is not the alpha and omega of the bees or the arthropods that do these things. But bless Tom Seeley, bless his book, *Honeybee Democracy*. If you don't have it, from Princeton, it's like a coffee table thing to have. It's beautiful. And Tom is a really nice guy.
 
-That book kicked off so much more work in, particularly, engineering, of all things, to try to communicate directly with honeybees.
+That book led to a great many other projects, especially those aimed at communicating directly with honeybees. They’ve created something called a “robobee.” It doesn’t look like a bee. It’s like a small piece of plastic mounted on a sort of metal shaft, and it’s placed on top of a real beehive. The device moves in a way that mimics the bees’ so-called “waggle dance.” And if you’re able to understand this dance the way Tom Seeley does, he can tell you, in broad terms, what the different dancers are “signaling”—though perhaps “signaling” is too strong a term; they’re more likely sharing where they’ve found a potential new home. Or, for exemple, if the hive has reached saturation and it's time to create space for more bees. Or if it's time to look for food.
 
-And there's one group. I don't... To memory, they might be in Spain. I think it was somewhere in Europe, or it might have been the East Coast US. You'll have to forgive my memory. But they have created something that is called a robobee. It doesn't look like a bee. It's like a little piece of plastic on a metal spindle of sorts, but it is placed in such a way over an existing and active hive, for instance, in a lab.
+If, for example, you and I were bees, and you came across an incredible field of sunflowers, like the ones I saw near Geneva when I was there. Huge, mind-blowing, still in bud, with no other bees around. You’d go back to the hive and would say, “Man, have I struck gold?” And you would do this huge, vigorous, energetic dance. In that moment, apparently, the energy, the enthusiasm, would draws the attention of others in your society. And they say, “Wow, Olivier is really freaking out about something. This is incredible.This must be good.” So, you know, I'd look at your instructions and fly there myself, wherever you tell me to go. 
 
-And it will move in such a way as to replicate a bee's, quote-unquote, waggle dance. And if you can understand this dance like Tom Seeley can, he can roughly tell you where different waggle dancers are instructing, although maybe “instructing” is too strong, or sharing where they found a potential new home.
-
-So if the hive has reached saturation and it's time to create space for more bees, a whole bunch have to go: 20, 30, 40,000. They need to go find a new home. Or if it's time to look for food.
-
-If, say, you and I were bees, Olivier, and you went and found an insane pile of sunflowers, as, you know, I recall they had around Geneva when I was there. Huge, amazing, untapped, no other bees. You come back to the hive and you're like, “Oh man, did I find gold?”
-
-And you do this huge, vigorous, energetic dance. Apparently the energy, the enthusiasm, draws the attention of others in your society. And they go, “Wow, Olivier is really freaking out about something. This is incredible.”
-
-So I come along and go, “This must be good.” So I, you know, look at your instructions and I myself fly to where you're pointing to. And if I believe—people might object to the use of that word—but there is a process, a very strong process, I'd say it's the strength of honeybee democracy, of independent verification.
-
-They don't trust each other. It's too dangerous. It is too dangerous. So I go and have a look. And if this wasn't the field, you know, mown by tractors or full of limp flowers, then I would come back and also join your dance, likely with the same amount of vigor and excitement.
-
-So they do the same thing with housing. And we know from systematic studies that this does in fact yield something like a nine out of ten times success rate in developing a policy. Okay. And if we agree that policy is just direction, right, we decide to go there. Well, if that's a successful outcome nine out of ten times...
+Here I believe, and people might object to the use of that word, that there is a process, a very strong process, I'd say it's the strength of honeybee democracy, of independent verification.
 
 {% gallery { "simple": true, "images": [{"path":"/media/images.jpg"}] } %}
 
-**Olivier:** Imagine honeybee literature in public policy like this. Would you do the dance moves in the parliament? That would be cool. So you're not allowed to talk and use words today, just dance about your policies, you know.
+**Olivier:** Imagine honeybee literature in public policy like this. Would you do the dance moves in the parliament? That would be cool. 
 
-**Jean-Paul:** Well, more to the point of mimesis. So this, my book, it starts that way. It says that we have an anthropocentric arrogance when it comes to democracy. We think it is the invention of our species. This is false.
+**Jean-Paul:** Well, more to the point of mimesis. So this, my book, it starts that way. We have an anthropocentric arrogance when it comes to democracy. We think it is the invention of our species. This is false.
 
-But I think because of that we have not done what many, many other colleagues in different disciplines have done for a long time and continue to do, which is to pay very close attention to what other animals are doing, and to see if there's anything that we can learn from them. Right? It is mimetic. Simply.
+I think because of that we have not done what many other colleagues in different disciplines have done for a long time and continue to do, which is to pay very close attention to what other animals are doing, and to see if there's anything that we can learn from them. Simply.
 
-So I do think that if we carefully look at the way others, like *Apis mellifera*, the Western European honeybee, and particularly their emphasis on independent verification—if we ramp that up inside our parliaments, if we ramp that up inside our echo chambers, our social media, and went, “Wow, this toilet brush.” You know, verify our—a lot of our problems, I do believe, will plummet in number, and I think we'll see a dramatic reduction in policy failure.
+I do think that if we carefully look at the way others, like *Apis mellifera*, the Western European honeybee, and particularly their emphasis on independent verification, and if we ramp that up inside our parliaments, if we ramp that up inside our echo chambers, our social media, and went, “Wow, this or that” You know, verify a lot of our problems I think we'll see a dramatic reduction in policy failure.
 
 Sadly, I do think that we trust each other too much, or we show too much deference to people that say they know better.
 
-**Olivier:** So you meant, you like to talk about the bee case, but it was probably not the best example of the most, you know, horizontal democracy we could have, or whatever. What's a good example of a non-human agent that would be even more relevant than the bee one?
+**Olivier:** So you meant, you like to talk about the bee case, but it was probably not the best example of the horizontal democracy we could have. What's a good example of a non-human agent that would be even more relevant than the bee one?
 
 **Jean-Paul:** Look, I think they’re all, in their own way, relevant, because they each don't do a universal democracy thing. They all live so close to, in many ways, on the brink of starvation. It is such a fine-tuned requirement to be sensitive to the land they're on, to the context they're in.
 
-So, with each example I look at, what I try to do, just to be convincing, is to pick one from each major, let's say, part of the family tree, bacteria included.
+So, with each example I look at, what I try to do, just to be convincing, is to pick one from each major part of the family tree, bacteria included.
 
 So I think perhaps the most popular at the moment, and this may be a nice entryway for those readers that might not be so familiar with this body of discussion, is how intertwined a forest is. We really take that for granted.
 
-We go for a walk in the woods, especially old growth or something that has regrown and been left more or less to its own devices for 30 or 40 years. It's incredible. And we are so blunted. So blunted, we can't even understand or permit ideas that neurobiologists, or, well, I would say neuro-plant biologists, are demonstrating empirically.
+We go for a walk in the woods, especially old growth or something that has regrown and been left more or less to its own devices for 30 or 40 years. It's incredible. And we are so insensitive that we cannot even understand or accept the ideas that neurobiologists, plant neurobiologists, are empirically demonstrating.
 
-It's not the kooky 1960s, “I'm going to blow cigarette smoke on a plant and put a polygraph to it and see if it reacts with some electricity” work. You know, that appeared in this movement called *The Secret Life of Plants*. Most of it was sham stuff, just hippie nonsense. But it did inspire a lot of people to see, well, maybe, you know, plants aren't as dumb as a lot of us think.
+It's not the kooky 1960s, “I'm going to blow cigarette smoke on a plant and put a polygraph to it and see if it reacts with some electricity” work. You know, that appeared in this movement called *The Secret Life of Plants*. Most of it was sham stuff, just hippie nonsense. But it did inspire a lot of people to see thant plants, maybe, aren't as dumb as a lot of us think.
 
 {% quote %}In short, people do see forests more and more now as multi-species democracies, where there is a working together, there is an exchange of resources, there is no chief or king or boss. There's a shared circumstance. {% endquote %}
 
-And when you give them credence, you see that they work within a different informational landscape of time. They have, at the cellular level, different sorts of receptors. One of them is for chemicals. And we know now, with many different types of plants, that they do use these chemical signals, either through their roots or through their leaf structures, they use that to communicate with one another.
+When you give them credence, you see that they work within a different informational landscape of time. They have, at the cellular level, different sorts of receptors. One of them is for chemicals. And we know now, with many different types of plants, that they do use these chemical signals, either through their roots or through their leaf structures, they use that to communicate with one another.
 
 So if, say, again, you and I were nice, whatever, tasty birch trees, and you happen to be closer to where a giraffe may have escaped the zoo and is starting to munch on your leaves. I don't know if birch knows giraffes. This is a pretty wild example.
 

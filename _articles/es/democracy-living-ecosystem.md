@@ -95,29 +95,23 @@ Los tratamos como si fueran fragmentos de cerámica, y luego intentamos crear ar
 
 ## **Artefactos lingüísticos y prácticas democráticas no verbales**
 
-**Olivier:** Permíteme volver sobre algo que me parece muy interesante. También has mencionado datos relacionados con las democracias. No me refiero a las definiciones, sino a los datos que pueden estar asociados a esas definiciones. Pero me gustaría volver a la idea de lo que llamas «artefactos lingüísticos», ¿verdad? Me gustaría profundizar en eso.
+**Olivier:** Permíteme volver sobre algo que me parece muy interesante. También has mencionado datos relacionados con las democracias. No me refiero a las definiciones, sino a los datos que pueden estar asociados a esas definiciones. Pero me gustaría volver a la idea de lo que llamas «artefactos lingüísticos». ¿Qué prácticas democráticas se hacen visibles cuando dejamos de traducirlo todo a través del vocabulario político inglés? Y eso también implicaría: ¿se te ocurre algún artefacto que no sea discursivo? Es decir, algún tipo de traducción de estas fenomenologías, términos o glosarios a lenguajes visuales que pudieran asociarse más con las prácticas comunitarias. 
 
-Entonces, ¿qué prácticas democráticas se hacen visibles cuando dejamos de traducirlo todo a través del vocabulario político inglés? Y eso también implicaría: ¿se te ocurre algún artefacto que no sea discursivo? Es decir, algún tipo de traducción de estas fenomenologías, términos o glosarios a lenguajes visuales que pudieran asociarse más con las prácticas comunitarias. Así pues, no expresar nuestra voluntad, nuestros deseos o nuestra frustración con palabras, sino con cualquier otro tipo de arte o artefacto.
+**Jean-Paul:** Dada tu pregunta, creo que ya sabes la respuesta. Yo sigo a otros antropólogos, especialmente a aquellos que se dedican más a la sociología política o al trabajo de teoría crítica radical y activista. Así que, cuando observamos cómo expresan algún tipo de acción democrática, normalmente esto tiene más que ver con ese estilo «Luffy» de perseguir la libertad, abrazar la anarquía y buscar la alegría. ¿Verdad? Sabemos que la esperanza y la alegría son temas importantes en la teoría democrática actual, y con razón.
 
-**Jean-Paul:** Sí. Yo, dada tu pregunta, creo que ya sabes la respuesta. Te lo juro, te lo juro. Pero sigo a otros antropólogos, especialmente a aquellos que se dedican más a la sociología política o al trabajo de teoría crítica radical y activista.
+Cuando llevan a cabo su trabajo, vemos, por ejemplo, que prestan atención y cuidado a cómo se comportan las diferentes personas en determinados espacios de acción. Y, como era de esperar, dada la atención que recibieron, los movimientos Occupy fueron descritos con gran detalle, creo, por el tipo de investigadores que se centran en el posicionamiento corporal.
 
-Así que, cuando observamos cómo expresan algún tipo de acción democrática, normalmente esto tiene más que ver con ese estilo «Luffy» de perseguir la libertad, abrazar la anarquía y buscar la alegría. ¿Verdad? Sabemos que la esperanza y la alegría son temas importantes en la teoría democrática actual, y con razón.
+Al parecer, a los anarquistas estadounidenses o norteamericanos les gusta mucho tocarse entre sí. Son muy táctiles: masajes, abrazos. Y otros, en diferentes partes del mundo, ya sabes, se centran mucho más en compartir el espacio juntos, estar abiertos a la diversidad de «tipos de personas».
 
-Por eso, cuando llevan a cabo su trabajo, vemos, por ejemplo, que prestan atención y cuidado a cómo se comportan las diferentes personas en determinados espacios de acción. Y, como era de esperar, dada la atención que recibieron, los movimientos Occupy fueron descritos con gran detalle, creo, por el tipo de investigadores que se centran en el posicionamiento corporal.
+Existe una ilusión sobre quién está dentro y quién fuera de la sala. Hoy en día nos centramos mucho, por supuesto, en las personas transgénero, en las personas muy jóvenes y también en aquellas que tienen, digamos, algún tipo de neurodiversidad o una discapacidad muy grave... Dudo en utilizar la palabra «discapacitado». Algunas personas se identifican como tales. Otras hablan de «capacidades diferentes», así que digamos simplemente «capacidades diferentes», para ser muy inclusivos. Pero, de nuevo, si nos fijamos en la obra de Habermas, que es una fuente tan celebrada de la teoría deliberativa en los intentos actuales de ponerla en práctica, a pesar de tener él mismo un labio leporino, le cerró la puerta en su obra formal. Así que tenemos ese problema real de intentar encontrar formas de abrir espacios deliberativos, de intentar democratizarlos más.
 
-Y a partir de esto también nos hicimos una idea de cómo los anarquistas tienen sus propias culturas, y de cómo, al parecer, a los anarquistas estadounidenses o norteamericanos les gusta mucho tocarse entre sí. Son muy táctiles: masajes, abrazos. Y otros, en diferentes partes del mundo, ya sabes, se centran mucho más en, digamos, compartir el espacio juntos, estar abiertos a la diversidad de «tipos de personas»… ¡Qué expresión más rara, oye, «tipos de personas»!
+Ese es un ejemplo concreto de la encarnación. 
 
-**Olivier:** No te preocupes.
-
-**Jean-Paul:** Existe una ilusión sobre quién está dentro y quién fuera de la sala. Así que hoy en día nos centramos mucho, por supuesto, en las personas transgénero, en las personas muy jóvenes y también en aquellas que tienen, digamos, algún tipo de neurodiversidad o una discapacidad muy grave... Dudo en utilizar la palabra «discapacitado». Algunas personas se identifican como tales. Otras hablan de «capacidades diferentes», así que digamos simplemente «capacidades diferentes», para ser muy inclusivos.
-
-Pero, de nuevo, si nos fijamos en la obra de Habermas, que es una fuente tan celebrada de la teoría deliberativa en los intentos actuales de ponerla en práctica, a pesar de tener él mismo un labio leporino, cerró la puerta en su obra formal. Así que tenemos ese problema real de intentar encontrar formas de volver a abrir espacios deliberativos, de intentar democratizarlos más.
-
-Así que sí, ese es un ejemplo concreto de la encarnación. Dejo este tema en manos de muchas otras personas, sobre todo porque en estos momentos estoy trabajando en un manuscrito para Princeton titulado *Non-Human Democracies* (Democracias no humanas). Y esto, para mí, es un gran espacio para ese espacio visual y verbal no humano de los demás, de otros animales como nosotros con los que compartimos el espacio. También las plantas, los microbios y los hongos, que, bajo una observación minuciosa, están demostrando no solo un tipo de práctica democrática, sino muchos tipos diferentes.
+Pero dejo este tema en manos de otras personas, sobre todo porque en estos momentos estoy trabajando en un manuscrito para Princeton titulado *Non-Human Democracies* (Democracias no humanas) que se basa en ese gran espacio visual y verbal, no humano, que compartimos con animales. Las plantas, los microbios o los hongos, bajo una observación minuciosa, nos demuestran no solo un tipo de práctica democrática, sino muchos tipos diferentes.
 
 ## **Democracias no humanas: abejas, bosques y plantas**
 
-**Olivier:** ¿Podrías profundizar un poco en el proceso de toma de decisiones de las abejas?
+**Olivier:** ¿Podrías profundizar un poco en ese tema, en el proceso de toma de decisiones de las abejas, por ejemplo?
 
 **Jean-Paul:** A todo el mundo le encantan las abejas.
 
@@ -125,51 +119,39 @@ Así que sí, ese es un ejemplo concreto de la encarnación. Dejo este tema en m
 
 **Jean-Paul:** Me encantaría hacerlo, pero solo si puedo animar a tus encantadores lectores a comprender que esto es, literalmente, demasiado excluyente. La abeja melífera occidental no es el alfa y el omega de las abejas ni de los artrópodos que realizan estas funciones. Pero bendito sea Tom Seeley, bendito sea su libro, *Honeybee Democracy*. Si no lo tienes, publicado por Princeton, es como uno de esos libros que se tienen en la mesita del salón. Es precioso. Y Tom es un tipo realmente simpático.
 
-Ese libro dio pie a muchísimos más trabajos, sobre todo en ingeniería, de entre todas las cosas, para intentar comunicarse directamente con las abejas melíferas.
+Ese libro dio pie a muchísimos más trabajos, sobre todo para intentar comunicarse directamente con las abejas melíferas. Han creado algo que se llama «robobee». No se parece a una abeja. Es como un trocito de plástico sobre una especie de eje metálico y se coloca sobre una colmena real. La pieza se mueve de tal forma que imita la llamada «danza del meneo» de las abejas. Y si eres capaz de entender esta danza como lo hace Tom Seeley, él podrá indicarte, a grandes rasgos, que están «indicando» las diferentes bailarinas, aunque quizá «indicando» sea un término demasiado fuerte, o más bien compartiendo dónde han encontrado un posible nuevo hogar. O, por ejemplo, si la colmena ha llegado a su límite y es hora de hacer espacio para más abejas. O si es hora de buscar comida.
 
-Y hay un grupo… No… Por lo que recuerdo, puede que estén en España. Creo que era en algún lugar de Europa, o quizá fuera en la costa este de EE. UU. Tendrás que perdonar mi memoria. Pero han creado algo que se llama «robobee». No se parece a una abeja. Es como un trocito de plástico sobre una especie de eje metálico, pero se coloca de tal manera sobre una colmena real y activa, por ejemplo, en un laboratorio.
+Si, por ejemplo, tú y yo fuéramos abejas,  y encontraras un montón increíble de girasoles, como los que vi cerca de Ginebra cuando estuve allí. Enormes, alucinantes, sin explotar, sin otras abejas. Volverías a la colmena y dirías: «Tío, ¿he encontrado oro?». Y harías esta danza enorme, vigorosa y enérgica. En ese momento, al parecer, la energía y el entusiasmo llamaría la atención de las demás abejas de tu colmena. Y ellas dicen: «Vaya, Olivier está realmente alucinando con algo. Esto es increíble. Esto tiene que estar bien». Entonces, ya sabes, miraría tus instrucciones y yo mismo volaría hasta donde me indicas. 
 
-Y se moverá de tal forma que imitará la llamada «danza del meneo» de las abejas. Y si eres capaz de entender esta danza como lo hace Tom Seeley, él podrá indicarte, a grandes rasgos, adónde están «indicando» las diferentes bailarinas, aunque quizá «indicando» sea un término demasiado fuerte, o más bien compartiendo dónde han encontrado un posible nuevo hogar.
-
-Así que, si la colmena ha llegado a su límite y es hora de hacer espacio para más abejas, un montón de ellas tienen que marcharse: 20, 30, 40 000. Tienen que irse a buscar un nuevo hogar. O si es hora de buscar comida.
-
-Si, por ejemplo, tú y yo fuéramos abejas,  y encontraras un montón increíble de girasoles, como, ya sabes, recuerdo que había cerca de Ginebra cuando estuve allí. Enormes, alucinantes, sin explotar, sin otras abejas. Vuelves a la colmena y dices: «Tío, ¿he encontrado oro?».
-
-Y haces esta danza enorme, vigorosa y enérgica. Al parecer, la energía y el entusiasmo llaman la atención de las demás abejas de tu colmena. Y ellas dicen: «Vaya, Olivier está realmente alucinando con algo. Esto es increíble».
-
-Así que me acerco y pienso: «Esto tiene que estar bien». Entonces, ya sabes, miro tus instrucciones y yo mismo vuelo hasta donde me indicas. Y si creo —quizá haya quien se oponga al uso de esa palabra—, pero hay un proceso, un proceso muy sólido; yo diría que es la fuerza de la democracia de las abejas, de la verificación independiente.
-
-No confían unas en otras. Es demasiado peligroso. Es demasiado peligroso. Así que voy a echar un vistazo. Y si este no fuera el campo, ya sabes, segado por tractores o lleno de flores mustias, entonces volvería y también me uniría a tu baile, probablemente con el mismo vigor y entusiasmo.
-
-Pues bien, hacen lo mismo con la vivienda. Y sabemos, gracias a estudios sistemáticos, que esto, de hecho, da lugar a una tasa de éxito de nueve de cada diez veces a la hora de desarrollar una política. Vale. Y si estamos de acuerdo en que la política es simplemente una dirección, ¿no?, decidimos ir por ahí. Bueno, si ese es un resultado satisfactorio nueve de cada diez veces...
+Aquí yo si creo, quizá haya quien se oponga al uso de esa palabra, que hay un proceso, un proceso muy sólido; yo diría que es la fuerza de la democracia de las abejas, de la verificación independiente.
 
 {% gallery { "simple": true, "images": [{"path":"/media/images.jpg"}] } %}
 
-**Olivier:** Imagínate que la literatura sobre las abejas melíferas se aplicara así a las políticas públicas. ¿Cómo sería el Parlamento? Sería genial. 
+**Olivier:** Imagínate que la literatura sobre las abejas melíferas se aplicara así a las políticas públicas. ¿Cómo bailaría el Parlamento? Sería genial. 
 
-**Jean-Paul:** Bueno, más bien se trata de la mimesis. Mi libro empieza así. Dice que tenemos una arrogancia antropocéntrica en lo que respecta a la democracia. Creemos que es un invento de nuestra especie. Eso es falso.
+**Jean-Paul:** Bueno, más bien se trata de la mimesis. Mi libro empieza así. Tenemos una arrogancia antropocéntrica en lo que respecta a la democracia. Creemos que es un invento de nuestra especie. Eso es falso.
 
-Pero creo que, debido a eso, no hemos hecho lo que muchos, muchos otros colegas de diferentes disciplinas llevan haciendo desde hace mucho tiempo y siguen haciendo, que es prestar mucha atención a lo que hacen otros animales y ver si hay algo que podamos aprender de ellos. ¿Verdad? Es mimético. Sencillamente.
+Creo que, debido a eso, no hemos hecho lo que muchos otros colegas de diferentes disciplinas llevan haciendo desde hace mucho tiempo y siguen haciendo, que es prestar mucha atención a lo que hacen otros animales y ver si hay algo que podamos aprender de ellos. Sencillamente.
 
-Así que sí creo que si observamos con atención la forma de actuar de otros, como la Apis mellifera, la abeja melífera de Europa occidental, y en particular su énfasis en la verificación independiente —si potenciáramos eso dentro de nuestros parlamentos, si lo potenciáramos dentro de nuestras cámaras de eco, nuestras redes sociales, y dijéramos: «Vaya, este escobillo de baño»— Ya sabes, si verificáramos nuestros… Creo que muchos de nuestros problemas se reducirían drásticamente, y creo que veríamos una reducción espectacular de los fracasos políticos.
+Creo que si observamos con atención la forma de actuar de otros, como la Apis mellifera, la abeja melífera de Europa occidental, y en particular su énfasis en la verificación independiente, y potenciáramos eso dentro de nuestros parlamentos, si lo potenciáramos dentro de nuestras cámaras de eco, nuestras redes sociales, y dijéramos: «Vaya, esto o aquello», ya sabes, si verificáramos muchos de nuestros problemas creo que veríamos una reducción espectacular de los fracasos políticos.
 
 Por desgracia, creo que confiamos demasiado los unos en los otros, o mostramos demasiada deferencia hacia quienes dicen saber más que nosotros.
 
-**Olivier:** Entonces, lo que querías decir es que te gusta hablar del caso de las abejas, pero que probablemente no fuera el mejor ejemplo de la democracia más, ya sabes, horizontal que podríamos tener, o lo que sea. ¿Cuál sería un buen ejemplo de un agente no humano que resultara aún más relevante que el de las abejas?
+**Olivier:** Entonces, lo que querías decir es que te gusta hablar del caso de las abejas, pero que probablemente no fuera el mejor ejemplo de la democracia. ¿Cuál sería un buen ejemplo de un agente no humano que resultara aún más relevante que el de las abejas?
 
 **Jean-Paul:** Mira, creo que todos son, a su manera, relevantes, porque ninguno de ellos practica una democracia universal. Todos viven, en muchos sentidos, al borde de la inanición. Es un requisito tan preciso el de ser sensibles al terreno en el que se encuentran, al contexto en el que viven.
 
-Así que, con cada ejemplo que analizo, lo que intento hacer, simplemente para resultar convincente, es elegir uno de cada grupo principal —digamos— del árbol genealógico, incluidas las bacterias.
+Así que, con cada ejemplo que analizo, lo que intento hacer, simplemente para resultar convincente, es elegir uno de cada grupo principal del árbol genealógico, incluidas las bacterias.
 
-Así que creo que quizá lo más popular en este momento —y esto puede ser una buena puerta de entrada para aquellos lectores que quizá no estén tan familiarizados con este ámbito de debate— es lo entrelazado que está un bosque. Realmente lo damos por sentado.
+Quizá lo más popular en este momento, y esto puede ser una buena puerta de entrada para aquellos lectores que quizá no estén tan familiarizados con este ámbito de debate, es lo entrelazado que está un bosque. Realmente lo damos por sentado.
 
-Vamos a dar un paseo por el bosque, sobre todo por bosques antiguos o por aquellos que han vuelto a crecer y se han dejado más o menos a su aire durante 30 o 40 años. Es increíble. Y estamos tan insensibles. Tan insensibles que ni siquiera podemos entender o aceptar ideas que los neurobiólogos, los neurobiólogos vegetales, están demostrando empíricamente.
+Vamos a dar un paseo por el bosque, sobre todo por bosques antiguos o por aquellos que han vuelto a crecer y se han dejado más o menos a su aire durante 30 o 40 años. Es increíble. Y somos tan insensibles, que ni siquiera podemos entender o aceptar las ideas que los neurobiólogos, los neurobiólogos vegetales, están demostrando empíricamente.
 
-No se trata de esos trabajos excéntricos de los años sesenta del tipo: «Voy a soplar humo de cigarrillo sobre una planta, le voy a conectar un polígrafo y veré si reacciona con alguna descarga eléctrica». Ya sabes, eso apareció en ese movimiento llamado *La vida secreta de las plantas*. La mayor parte era una farsa, simples tonterías hippies. Pero sí que inspiró a mucha gente a darse cuenta de que, bueno, quizá, ya sabes, las plantas no son tan tontas como muchos de nosotros pensamos.
+No se trata de esos trabajos excéntricos de los años sesenta del tipo: «Voy a soplar humo de cigarrillo sobre una planta, le voy a conectar un polígrafo y veré si reacciona con alguna descarga eléctrica». Ya sabes, eso apareció en ese movimiento llamado *La vida secreta de las plantas*. La mayor parte era una farsa, simples tonterías hippies. Pero sí que inspiró a mucha gente a darse cuenta de que, quizá, las plantas no son tan tontas como muchos de nosotros pensamos.
 
 {% quote %}La gente ve cada vez más los bosques como democracias multiespecíficas, donde hay colaboración, hay intercambio de recursos, no hay jefe, rey ni mandamás. Hay una situación compartida.{% endquote %}
 
-Y cuando les das crédito, ves que funcionan dentro de un panorama informativo del tiempo diferente. Tienen, a nivel celular, distintos tipos de receptores. Uno de ellos es para sustancias químicas. Y ahora sabemos, con muchos tipos diferentes de plantas, que sí utilizan estas señales químicas, ya sea a través de sus raíces o de la estructura de sus hojas, y las utilizan para comunicarse entre sí.
+Cuando les das crédito, ves que funcionan dentro de un panorama informativo del tiempo diferente. Tienen, a nivel celular, distintos tipos de receptores. Uno de ellos es para sustancias químicas. Y ahora sabemos, con muchos tipos diferentes de plantas, que sí utilizan estas señales químicas, ya sea a través de sus raíces o de la estructura de sus hojas, y las utilizan para comunicarse entre sí.
 
 Así que, por ejemplo, si tú y yo fuéramos, digamos, unos abedules bonitos, o lo que sea, y resultara que estuvieras más cerca del lugar donde una jirafa se ha escapado del zoológico y está empezando a comerse tus hojas. No sé si los abedules reconocen a las jirafas. Es un ejemplo bastante descabellado.
 
