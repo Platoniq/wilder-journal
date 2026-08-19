@@ -23,6 +23,10 @@ cover:
   alt: Gagnon
   credits: Gagnon
   caption: Gagnon
+related_article_uids:
+  - youth-deliberation-democracy
+  - democratic-visualisation
+  - queer-ai-democratic-participation
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
