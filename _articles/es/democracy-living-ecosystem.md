@@ -19,7 +19,7 @@ interviewee: Jean-Paul Gagnon
 cover:
   path: /media/articles/heroes/gagnon.jpg
   mobile: /media/articles/mobile/gagnon.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/gagnon.jpg
   alt: Gagnon
   credits: Gagnon
   caption: Gagnon
