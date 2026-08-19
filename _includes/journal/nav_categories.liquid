@@ -1,0 +1,35 @@
+{% comment %}
+  Site-level override of the theme's vertical category menu.
+  Identical to the theme version, plus a "Vídeos" entry after the categories so
+  videos appear as their own section next to Stories/Interviews/etc. in every
+  volume. Videos are shared across all volumes (same content), so the entry
+  links to the global Videos page rather than a per-volume view.
+  Keep in sync with the theme's nav_categories.liquid on theme bumps.
+{% endcomment %}
+<nav class="pj-nav-vertical">
+  <ul>
+  {% assign volume_archives = site.archives | where: "locale", page.locale | where: "volume-uid", current_volume.uid | sort: "order" %}
+  {% for archive in volume_archives %}
+    {% assign t_category_name = site.data.i18n[page.locale].categories[archive.category] %}
+
+    <li>
+      <a href="{{ archive.url  | relative_url }}" class="{% if page.category == archive.category %}select{% endif %}">
+        <strong>
+          {{ t_category_name }}
+        </strong>
+      </a>
+    </li>
+  {% endfor %}
+
+  {% assign videos_page = site.pages | where: "uid", "videos" | where: "locale", page.locale | first %}
+  {% if videos_page %}
+    <li>
+      <a href="{{ videos_page.url | relative_url }}" class="{% if page.uid == 'videos' %}select{% endif %}">
+        <strong>
+          {{ site.data.i18n[page.locale].global.videos_menu }}
+        </strong>
+      </a>
+    </li>
+  {% endif %}
+  </ul>
+</nav>
