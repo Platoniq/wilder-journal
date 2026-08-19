@@ -1,0 +1,144 @@
+{% comment %}
+  Site-level override of the theme's "..." sitemap menu.
+  Identical to the theme version EXCEPT the videos_page entry is removed
+  (Cristian, 2026-08-19): videos now live in the vertical category menu, not the
+  main menu. To revert: delete this file (theme original returns). The removed
+  block is recorded in the memory note "wilder-journal-video-menu-removals".
+  Keep in sync with the theme's header_sitemap_selector.liquid on theme bumps.
+{% endcomment %}
+<div class="header__sitemap">
+  <button type="button" class="burger" title="{{ t_sitemap_menu }}">
+    {% include svg/icon-close.liquid
+        class="burger__icon-close burger__icon-close-left"
+        alt=t_close %}
+
+    {% include svg/icon-dots.liquid
+        class="burger__icon-open burger__icon-open-left"
+        alt=t_sitemap_menu %}
+  </button>
+
+  <ul class="pj-sitemap-menu">
+    {% if about_page.published %}
+      <li>
+        <a href="{{ about_page.url | relative_url }}" class="{% if page.uid == "about" %}select{% endif%}">
+          <h3 class="pj-sitemap-menu__title">{{ about_page.title }}</h3>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if wilder_committee_page.published  %}
+      <li>
+        <a href="{{ wilder_committee_page.url | relative_url }}" class="{% if page.uid == "together" %}select{% endif%}">
+          <h3 class="pj-sitemap-menu__title">{{ wilder_committee_page.title }}</h3>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if together_page.published %}
+      <li>
+        <a href="{{ together_page.url | relative_url }}" class="{% if page.uid == "together" %}select{% endif%}">
+          <h3 class="pj-sitemap-menu__title">{{ together_page.title }}</h3>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if services_page.published %}
+      <li>
+        <a href="{{ services_page.url | relative_url }}" class="{% if page.uid == "services" %}select{% endif%}">
+          <h3 class="pj-sitemap-menu__title">{{ services_page.title }}</h3>
+        </a>
+      </li>
+    {% endif %}
+
+    {% comment %} videos_page entry intentionally removed — see comment above. {% endcomment %}
+
+    {% if sticker_pack_page %}
+      <li>
+        <a href="{{ sticker_pack_page.url | relative_url }}">
+          <h3 class="pj-sitemap-menu__title">{{ sticker_pack_page.title_menu }}</h3>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if terms_page.published %}
+      <li>
+        <a href="{{ terms_page.url | relative_url }}">
+          <h3 class="pj-sitemap-menu__title">{{ terms_page.title }}</h3>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if privacy_page.published %}
+      <li>
+        <a href="{{ privacy_page.url | relative_url }}">
+          <h3 class="pj-sitemap-menu__title">{{ privacy_page.title }}</h3>
+        </a>
+      </li>
+    {% endif %}
+
+    <hr>
+    {% assign volume_archives = site.archives | where: "locale", page.locale | where: "volume-uid", current_volume.uid | sort: "order" %}
+
+    {% for archive in volume_archives %}
+      {% assign category_articles = site.articles | where: "published", true | where: "category", archive.category | where: "locale", page.locale | where: "volume-uid", current_volume.uid %}
+      {% assign t_category_name = site.data.i18n[page.locale].categories[archive.category] %}
+
+      {% unless category_articles == empty %}
+        <li>
+          {% capture category_url %}{{ category_key }}{% endcapture %}
+
+          <div class="pj-sitemap-menu__text">
+            <a href="{{ archive.url | relative_url }}" class="{% if page.category == archive.category %}select{% endif%}">
+              <h3 class="pj-sitemap-menu__category">
+                {{ t_category_name }}
+              </h3>
+            </a>
+          </div>
+
+          <ul>
+            {% for article in category_articles %}
+              <li>
+                <a href="{{ article.url | relative_url }}" class="{% if page.uid == article.uid %}select{% endif%}">
+                  <h4 class="pj-sitemap-menu__article">
+                    {{ article.title }}
+                  </h4>
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endunless %}
+    {% endfor %}
+
+    {% for global_archive in global_archives %}
+      {% assign category_articles = site.articles | where: "published", true | where: "category", global_archive.category | where: "locale", page.locale | where: "volume-uid", nil %}
+      {% assign t_category_name = site.data.i18n[page.locale].categories[global_archive.category] %}
+
+      {% unless category_articles == empty %}
+        <li>
+          {% capture category_url %}{{ category_key }}{% endcapture %}
+
+          <div class="pj-sitemap-menu__text">
+            <a href="{{ global_archive.url | relative_url }}" class="{% if page.category == global_archive.category %}select{% endif%}">
+              <h3 class="pj-sitemap-menu__category">
+                {{ t_category_name }}
+              </h3>
+            </a>
+          </div>
+
+          <ul>
+            {% for article in category_articles %}
+              <li>
+                <a href="{{ article.url | relative_url }}" class="{% if page.uid == article.uid %}select{% endif%}">
+                  <h4 class="pj-sitemap-menu__article">
+                    {{ article.title }}
+                  </h4>
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
