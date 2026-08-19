@@ -202,6 +202,8 @@ Young people, especially poor families with children, pull out of school to try 
 
 There are different Indigenous nations that are interested in extractivism. They're not a problem. They don't see a problem with that. So maybe they could lead here, and that could then create a first foundation for fighting the middle people.
 
+{% quote %}That's my concern, the small language model. Do we know that if it's working off of an unfiltered large language model that it won't start dog-whistling in ways that we can't possibly understand?{% endquote %}
+
 So we know that artisanal miners make next to nothing and take so much risk. So if they have a stronger co-op, maybe Mondragon can take this on and help with this, they can then get a fairer, much higher sale rate for these minerals.
 
 Okay, well, let's leave the hardware behind very briefly and move to the software and training side. We know that in the companies, these are the playgrounds of oligarchs. They have, as we all know, vast amounts of power.

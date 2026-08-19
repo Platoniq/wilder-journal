@@ -209,11 +209,13 @@ Los jóvenes, sobre todo de familias pobres con hijos, abandonan los estudios pa
 
 Hay diferentes naciones indígenas interesadas en el extractivismo. No suponen un problema. No ven ningún problema en ello. Así que quizá podrían tomar la iniciativa en este ámbito, y eso podría sentar las primeras bases para luchar contra los intermediarios.
 
-Sabemos que los mineros artesanales ganan casi nada y asumen un riesgo enorme. Por lo tanto, si contaran con una cooperativa más sólida —quizá Mondragón podría encargarse de ello y ayudar—, podrían obtener un precio de venta más justo y mucho más alto por estos minerales.
+{% quote %}Esta es mi preocupación: el modelo de lenguaje pequeño. ¿Sabemos que, si funciona a partir de un modelo de lenguaje grande sin filtrar, no empezará a enviar mensajes subliminales de formas que nos resulten imposibles de entender?{% endquote %}
+
+Sabemos que los mineros artesanales ganan casi nada y asumen un riesgo enorme. Por lo tanto, si contaran con una cooperativa más sólida, quizá Mondragón podría encargarse de ello y ayudar, podrían obtener un precio de venta más justo y mucho más alto por estos minerales.
 
 Vale, pues dejemos a un lado el hardware por un momento y pasemos al software y a la formación. Sabemos que, en las empresas, estos son los terrenos de juego de los oligarcas. Tienen, como todos sabemos, un poder enorme.
 
-Sabemos que, dentro de la empresa, hay personas que han adquirido ciertas habilidades —y no pretendo menospreciar su experiencia, ya que han trabajado duro—. Han estudiado mucho. Se han enfrentado a exámenes muy exigentes en diferentes partes del mundo para destacar, y han superado con éxito las entrevistas para llegar a los niveles más altos, a las esferas técnicas más elevadas de Google, Anthropic, etc.
+Sabemos que, dentro de la empresa, hay personas que han adquirido ciertas habilidades,y no pretendo menospreciar su experiencia, ya que han trabajado duro. Han estudiado mucho. Se han enfrentado a exámenes muy exigentes en diferentes partes del mundo para destacar, y han superado con éxito las entrevistas para llegar a los niveles más altos, a las esferas técnicas más elevadas de Google, Anthropic, etc.
 
 Pero ellos se llevan la mayor parte del dinero, y necesitan colaboradores que se encarguen en gran medida de esta tarea de comprobar el sentido común y la humanización de los contenidos. ¿Y qué es lo que vemos?
 
@@ -225,7 +227,7 @@ Esto no está bien.
 
 Así que, como ves, cuando accedes, digamos desde el punto de vista del usuario, si estamos utilizando una IA para la deliberación: ¿es de código abierto? ¿Se ha entrenado a partir de, por ejemplo, un modelo de lenguaje pequeño que sea más adecuado para lo que estás haciendo?
 
-Esa es mi preocupación: el modelo de lenguaje pequeño. ¿Sabemos que, si funciona a partir de un modelo de lenguaje grande sin filtrar, no empezará a enviar mensajes subliminales de formas que nos resulten imposibles de entender?
+Esta es mi preocupación: el modelo de lenguaje pequeño. ¿Sabemos que, si funciona a partir de un modelo de lenguaje grande sin filtrar, no empezará a enviar mensajes subliminales de formas que nos resulten imposibles de entender?
 
 Esa es la respuesta breve a la primera pregunta.
 
