@@ -151,9 +151,9 @@ Así que sí creo que si observamos con atención la forma de actuar de otros, c
 
 Por desgracia, creo que confiamos demasiado los unos en los otros, o mostramos demasiada deferencia hacia quienes dicen saber más que nosotros.
 
-Olivier: Entonces, lo que querías decir es que te gusta hablar del caso de las abejas, pero que probablemente no fuera el mejor ejemplo de la democracia más, ya sabes, horizontal que podríamos tener, o lo que sea. ¿Cuál sería un buen ejemplo de un agente no humano que resultara aún más relevante que el de las abejas?
+**Olivier:** Entonces, lo que querías decir es que te gusta hablar del caso de las abejas, pero que probablemente no fuera el mejor ejemplo de la democracia más, ya sabes, horizontal que podríamos tener, o lo que sea. ¿Cuál sería un buen ejemplo de un agente no humano que resultara aún más relevante que el de las abejas?
 
-Jean-Paul Gagnon: Mira, creo que todos son, a su manera, relevantes, porque ninguno de ellos practica una democracia universal. Todos viven, en muchos sentidos, al borde de la inanición. Es un requisito tan preciso el de ser sensibles al terreno en el que se encuentran, al contexto en el que viven.
+**Jean-Paul:** Mira, creo que todos son, a su manera, relevantes, porque ninguno de ellos practica una democracia universal. Todos viven, en muchos sentidos, al borde de la inanición. Es un requisito tan preciso el de ser sensibles al terreno en el que se encuentran, al contexto en el que viven.
 
 Así que, con cada ejemplo que analizo, lo que intento hacer, simplemente para resultar convincente, es elegir uno de cada grupo principal —digamos— del árbol genealógico, incluidas las bacterias.
 
@@ -225,17 +225,15 @@ Segunda pregunta: en cuanto a cómo utilizar esta IA en la deliberación, creo q
 
 ## **La extinción lingüística y la imaginación democrática**
 
-Olivier: Vale. Déjame terminar con una pregunta provocadora y volver al primer capítulo de la entrevista. No tienes por qué responder, pero me gustaría quizá empezar el artículo con este tipo de pregunta: ¿y si la mayor crisis de la democracia no fuera la disminución de la participación, sino la extinción lingüística?
+**Olivier:** Vale. Déjame terminar con una pregunta provocadora y volver al primer capítulo de la entrevista. No tienes por qué responder, pero me gustaría quizá empezar el artículo con este tipo de pregunta: ¿y si la mayor crisis de la democracia no fuera la disminución de la participación, sino la extinción lingüística?
 
-Jean-Paul Gagnon: Has estado leyendo a Michael Saward.
+**Jean-Paul:** Has estado leyendo a Michael Saward.
 
-Olivier: Y a ti.
+**Olivier:** Y a ti.
 
-Jean-Paul Gagnon: Ah, solo estaban sacando frases de Mike o de otros antropólogos. Es que me gusta abrir el debate.
+**Jean-Paul:** Ah, solo estaban sacando frases de Mike o de otros antropólogos. Es que me gusta abrir el debate.
 
 Sí, bueno, yo creo que son muy convincentes. Wade Davis, en particular, tiene una opinión muy firme al respecto. No pretende en absoluto restar atención a las crisis ecológicas. Lo que intenta decir es que, en realidad, se está produciendo una forma de extinción mucho más rápida. Es una forma de extinción humana. No estoy seguro de si las estadísticas son las mismas, pero es más o menos uno de esos dichos muy deprimentes, como, ya sabes, que cada semana muere el último hablante superviviente de una lengua, y esa lengua muere con él.
-
-
 
 Y cuando pensamos en el lenguaje, nos referimos al conjunto de todos aquellos que hablamos de esta manera. Por ejemplo, existen los lenguajes de signos, el Blissymbolics y otras formas de comunicación. Todo eso sigue siendo lenguaje, ¿verdad? No estoy excluyendo las formas no verbales.
 
