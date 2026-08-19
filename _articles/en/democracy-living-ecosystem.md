@@ -228,7 +228,7 @@ Question two, in terms of how to use this AI in the deliberation, I think it's c
 
 ## **Linguistic extinction and democratic imagination**
 
-**Olivier:** Okay. Let me just end with a provocation and come back to the first chapter of the interview. You don't have to answer, but I would like to maybe open the article with this kind of provocation: what if democracy's biggest crisis is not declining participation, but linguistic extinction?
+**Olivier:** Let me just end with a provocation: what if democracy's biggest crisis is not declining participation, but linguistic extinction?
 
 **Jean-Paul:** You’ve been reading Michael Saward.
 
@@ -250,4 +250,4 @@ So when they do go extinct, it's just as, let's say, engineers or medical scient
 
 I think that one of the greatest crises that we have is not simply the extinction of languages. It's that we are really so dramatically impoverished when it comes to our understanding of what democracy can be. That, I think, is a huge limiting factor because, as Benjamin Studebaker, David Runciman's former PhD student, says in a recent piece, it ruins our imagination.
 
-Literally, the tools in our toolbox are too few. But I should leave it there. I have to run out the door.
+Literally, the tools in our toolbox are too few.

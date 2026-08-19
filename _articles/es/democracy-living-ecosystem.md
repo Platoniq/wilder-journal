@@ -235,7 +235,7 @@ Segunda pregunta: en cuanto a cómo utilizar esta IA en la deliberación, creo q
 
 ## **La extinción lingüística y la imaginación democrática**
 
-**Olivier:** Vale. Déjame terminar con una pregunta provocadora y volver al primer capítulo de la entrevista. No tienes por qué responder, pero me gustaría quizá empezar el artículo con este tipo de pregunta: ¿y si la mayor crisis de la democracia no fuera la disminución de la participación, sino la extinción lingüística?
+**Olivier:** Déjame terminar con una pregunta provocadora: ¿y si la mayor crisis de la democracia no fuera la disminución de la participación, sino la extinción lingüística?
 
 **Jean-Paul:** Has estado leyendo a Michael Saward.
 
@@ -255,4 +255,4 @@ Así que, cuando se extinguen, es igual que, digamos, cuando los ingenieros o lo
 
 Creo que una de las mayores crisis que tenemos no es simplemente la extinción de las lenguas. Es que estamos realmente tan dramáticamente empobrecidos en lo que respecta a nuestra comprensión de lo que puede ser la democracia. Eso, creo, es un enorme factor limitante porque, como dice Benjamin Studebaker, antiguo doctorando de David Runciman, en un artículo reciente, arruina nuestra imaginación.
 
-Literalmente, las herramientas de nuestra caja de herramientas son demasiado escasas. Pero voy a dejarlo aquí. Tengo que salir corriendo.
+Literalmente, las herramientas de nuestra caja de herramientas son demasiado escasas.
