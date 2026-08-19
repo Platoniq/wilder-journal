@@ -72,7 +72,9 @@ And if you start asking that question and you start collecting those names and, 
 
 You can help guide other people to. Funny, and I'll wrap up here because I don't want to do four or five of these goals. The limitation, again, of this work is that's just done in English. What about other languages? What about across non-textual media? We don't do that yet.
 
-Yeah. So there’s a great amount of other words in the world that mean democracy. And I think we're literally just not even scratching the surface, looking at it from a distance. I dare say I think there's something there. As far as we can see, it's a catastrophic amount of data that we, as students of democracy, have fundamentally, systematically and consistently failed to take seriously. Why is that?
+{% quote %}There’s a great amount of other words in the world that mean democracy. And I think we're literally just not even scratching the surface, looking at it from a distance.{% endquote %}
+
+There’s a great amount of other words in the world that mean democracy. And I think we're literally just not even scratching the surface, looking at it from a distance. I dare say I think there's something there. As far as we can see, it's a catastrophic amount of data that we, as students of democracy, have fundamentally, systematically and consistently failed to take seriously. Why is that?
 
 Well, I think, for example, our friend Ramon van der Dohe's has probably the correct diagnostic here. And Ramon would say there are just too few of us. There aren't enough democratic theorists of this sort in the world, and even not of that sort. We aren't that numerous either.
 

@@ -61,9 +61,9 @@ Creo que no es de extrañar que haya más gente que celebre, por ejemplo, la pro
 
 **Olivier:** Ambos tienen una tiranía de terror. Ambos tienen cómics sobre las obras de Marx, ya sabes, «El Capital», pero es un cómic al estilo manga. Te lo enviaré.
 
-Jean-Paul: Me gusta eso. Pero verás, si sacas este tema en ciertos círculos, la gente pensará: «¿Pero qué tontería es esa?».
+Jean-Paul: Me gusta. Pero verás, si sacas este tema en ciertos círculos, la gente pensará: «¿Pero qué tontería es esa?».
 
-Ya sabes, Rawls era un intelectual extraordinario e hizo muchísimas aportaciones importantes. Pero también las hicieron muchas otras personas. Y el libro de Rawls, al menos el más importante, se publicó en 1971. ¿Qué ocurrió en los años previos a esa fecha?
+Rawls era un intelectual extraordinario e hizo muchísimas aportaciones importantes. Pero también las hicieron muchas otras personas. Y el libro de Rawls, al menos el más importante, se publicó en 1971. ¿Qué ocurrió en los años previos a esa fecha?
 
 Pues bien, fue el movimiento por los derechos civiles en su país de origen. Y, sin embargo, como mucho, hace una breve alusión a la cuestión racial. No aborda en absoluto la situación extremadamente tensa de los abusos raciales, tanto históricos como contemporáneos a su época. Basta con pensar en la cantidad de estadounidenses que, a día de hoy, dependen de la mano de obra barata procedente de América del Sur y Central.
 
@@ -79,7 +79,9 @@ Y si empiezas a hacerte esa pregunta y empiezas a recopilar esos nombres y, como
 
 Puedes ayudar a orientar a otras personas también. Es curioso, y voy a terminar aquí porque no quiero enumerar cuatro o cinco de estos objetivos. La limitación, una vez más, de este trabajo es que solo se ha realizado en inglés. ¿Qué pasa con otros idiomas? ¿Y con los medios no textuales? Todavía no lo hacemos.
 
-Sí. Hay una gran cantidad de otras palabras en el mundo que significan «democracia». Y creo que, literalmente, ni siquiera estamos rascando la superficie, mirándolo desde la distancia. Me atrevo a decir que creo que ahí hay algo. Por lo que podemos ver, se trata de una cantidad catastrófica de datos que nosotros, como estudiosos de la democracia, hemos dejado de tomar en serio de forma fundamental, sistemática y constante. ¿A qué se debe eso?
+{% quote %}Hay una gran cantidad de otras palabras en el mundo que significan «democracia». Y creo que, literalmente, ni siquiera estamos rascando la superficie, mirándolo desde la distancia.{% endquote %}
+
+Hay una gran cantidad de otras palabras en el mundo que significan «democracia». Y creo que, literalmente, ni siquiera estamos rascando la superficie, mirándolo desde la distancia. Me atrevo a decir que creo que ahí hay algo. Por lo que podemos ver, se trata de una cantidad catastrófica de datos que nosotros, como estudiosos de la democracia, hemos dejado de tomar en serio de forma fundamental, sistemática y constante. ¿A qué se debe eso?
 
 Bueno, creo que, por ejemplo, nuestro amigo Ramón van der Dohe probablemente tiene el diagnóstico correcto en este caso. Y Ramón diría que simplemente somos muy pocos. No hay suficientes teóricos de la democracia de este tipo en el mundo, ni siquiera de ese tipo. Tampoco somos tan numerosos.
 
