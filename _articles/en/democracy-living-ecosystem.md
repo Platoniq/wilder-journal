@@ -44,11 +44,13 @@ And it's even more complicated if you start thinking of the meanings of democrac
 
 So we're seeing quite a lot of this sensitivity in major grant programs, within NGOs, within IGOs. We have that long-standing tension. I do think it's overplayed, this tension between, for instance, theorists—and I use the quotation marks—on one side and empiricists or statisticians on the other. We are always learning from each other. Theorists, for example, are constantly grousing over the limitations of variables. Empiricists are constantly grousing over the fact that a variable can't include everything, or there cannot be 10,000 variables. So we're trying in that space, but that's all background.
 
+{% quote %}I think it's no wonder more people find depth in Monkey D. Luffy than in John Rawls's theory of justice.{% endquote %}
+
 When I came to this, it wouldn't even be a realization. It was genuinely just, I think, the rewards that one gets from trying to be quiet and trying to read as well as they can. And I must admit to being quite a poor student in this regard. When you're so time-poor, there are many others that are just tremendously sensitive to existing literature.
 
-And importantly, this came up just the other day, that we're talking about these questions of why are there such dominant people, dominant figures, that keep coming up again and again and again in the so-called archive of democracy, right? Marx, Arendt, Rawls, Habermas. It's pretty difficult to keep revisiting these people and upholding them because, in many ways, they created theories that were very exclusive and exclusionary, very self-referential.
+And importantly, this came up just the other day, that we're talking about these questions of why are there such dominant figures that keep coming up again and again and again in the so-called archive of democracy, right? Marx, Arendt, Rawls, Habermas. It's pretty difficult to keep revisiting these people and upholding them because, in many ways, they created theories that were very exclusive and exclusionary, very self-referential.
 
-I think it's no wonder that more people celebrate, for example, the depth of, let's say, Monkey D. Luffy from One Piece, you know, let's say John Rawls's theory of justice, not to mention the other books.
+I think it's no wonder more people find depth in Monkey D. Luffy than in John Rawls's theory of justice.
 
 **Olivier:** They both have horror tyranny. They both have comics about the Marx comics, you know, *The Capital*, but it's a comic one with, like, Mangas style. I'll send it over.
 
