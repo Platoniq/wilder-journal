@@ -146,13 +146,11 @@ It's not the kooky 1960s, “I'm going to blow cigarette smoke on a plant and pu
 
 When you give them credence, you see that they work within a different informational landscape of time. They have, at the cellular level, different sorts of receptors. One of them is for chemicals. And we know now, with many different types of plants, that they do use these chemical signals, either through their roots or through their leaf structures, they use that to communicate with one another.
 
-So if, say, again, you and I were nice, whatever, tasty birch trees, and you happen to be closer to where a giraffe may have escaped the zoo and is starting to munch on your leaves. I don't know if birch knows giraffes. This is a pretty wild example.
+For example, if you and I were pretty birch trees, and it turned out that you were closer to the spot where a giraffe had escaped from the zoo and was starting to eat your leaves. I don’t know if birch trees recognize giraffes. It’s a pretty far-fetched example. But let’s suppose they recognize the sound of chewing. It’s almost certain that the birch would release a hormone to other birches—and possibly even to other plant species—to signal that a herbivore is present. And then I, further away, upon receiving your message carried by the wind, might start producing, as quickly as I can, bitter substances—something that would simply make me less appetizing.
 
-But let's just say they know munching. It will almost certainly release a hormone to other birch, possibly even other species of plants, that there is a herbivore present. And then I, further along, getting your message on the wind, may start to produce, as fast as I can, bitters, something that would just make me less tasty.
+We know that they talk to each other. More to that, there are things at the cellular level that suggest that they have an auditory capacity, that plants can receive sound and emit sound. Like the potato plant, which makes a sort of snapping sound.
 
-So we know that they talk to each other. More to that, there are things at the cellular level that suggest that they have an auditory capacity, that plants can receive sound and emit sound. And one, I think it was a potato plant to memory, it was a clicking noise to our ears.
-
-But there's all of these things you can dig into and see various forms of plant intelligence. And there's all these people working through, you know, whether plants can actually be intelligent. And the evidence seems to show yes, they have their own forms of this and we're not so special.
+There's all of these things you can dig into and see various forms of plant intelligence. And there's all these people working through whether plants can actually be intelligent. And the evidence seems to show yes, they have their own forms of this and we're not so special.
 
 It gets more exciting. I'll end just by saying that you can see the interrelationship, very well documented now, between fungi and plants, and how there is a lot of information exchange, that there are compromises, that there are signals, and that there is a reduction of mistakes that can be made in terms of having a friendly exchange.
 
@@ -162,31 +160,25 @@ So, in short, people do see forests more and more now as multi-species democraci
 
 **Olivier:** So we do need to do the forest of humans too, you know, if the threat is authoritarianism and extreme right, we probably need to learn from these, you know, almost invisible communication channels we could raise.
 
-But anyway, I'd like to open up, I know we don't have that much time, the AI debate around, like, can we do better deliberation with AI, which is a big, you know...
+But, anyway, I'd like to open up the discussion on AI, specifically, on whether we can improve deliberation with AI.
 
-So just to let you know, as part of the inspired project, which I'm sharing with Sonia, she just mentioned some years ago, Jean-Paul made this experiment and I had fun with it, and she even sent me some WhatsApp screenshots because he kept the conversation with your democratic agent.
+Just so you know, as part of the “Inspire” project, which I’m working on with Sonia Bussu, we’re building something that’s really about trying to avoid the “Habermas machine”, and that obsession with consensus, and opening ourselves up to conflict. To that end, we have different people working together, such as a philosopher; a deliberative practitioner—which I suppose is more along the lines of what you started out doing; and we have the Joker, which is basically the legislative theater from Boal’s “Theater of the Oppressed.”
 
-Just to let you know, we're building something as part of the inspiration some are responsible for, which is more like trying to avoid the Habermas machine, you know, obsession with consensus, and open up with conflicts.
+What dangers emerge when we ask AI not merely to inform democracy, but to participate in democratic reasoning?
 
-And so we have different agents working together, like a philosopher; we have the deliberative practitioner, which I guess would be more what you started working with; and we have the Joker, which is basically the theater of legislative theater from a Theater of the Oppressed, from Boal.
+**Jean-Paul:** I’ll try to be brief. If we do really want to avoid reproducing intentional exclusions, even, I would say, colonial and imperialist working patterns, if we want to take that seriously, then we have to embark on a broader project of what some called the democratizing artificial intelligence.
 
-We do an adaptation of these that, you know, it avoids universalizing and program and offers to problematize with, you know, added silency, so basically break the reason and the way AI is, you know, imposing itself on us.
-
-So, looking back at your democratic AI experiment, and I will send you a few questions about it, what would you do differently today, or avoid doing? And what dangers emerge when we ask AI not merely to inform democracy, but to participate in democratic reasoning?
-
-**Jean-Paul:** Okay, I’ll try to be brief. So for the first, this was a playful thing. And what I would do differently, now that we've learned so much more about the circumstances for the production of AI: if we do really want to avoid reproducing intentional exclusions, even, I would say, colonial and imperialist working patterns, if we want to take that seriously, then we have to embark on a broader project of what some called the democratizing artificial intelligence.
-
-And it starts in the ground, literally. So who in the world is digging, and where? Do they have the right to dig there? Are they abusing Indigenous sovereignty? Are they taking huge risks?
+And it starts in the ground, literally. Who in the world is digging, and where? Do they have the right to dig there? Are they abusing Indigenous sovereignty? Are they taking huge risks?
 
 Young people, especially poor families with children, pull out of school to try to get out of poverty with artisanal mining. Then, okay, you look at that. Can you democratize that? Can you make, say, a workers' cooperative? Can you have this somehow?
 
-There are different Indigenous nations that are interested in extractivism. They're not a problem. They don't see a problem with that. So maybe they could lead here, and that could then create a first foundation for fighting the middle people.
+There are different Indigenous nations that are interested in extractivism. They don't see a problem with that. So maybe they could lead here, and that could then create a first foundation for fighting the middle people.
 
 {% quote %}That's my concern, the small language model. Do we know that if it's working off of an unfiltered large language model that it won't start dog-whistling in ways that we can't possibly understand?{% endquote %}
 
-So we know that artisanal miners make next to nothing and take so much risk. So if they have a stronger co-op, maybe Mondragon can take this on and help with this, they can then get a fairer, much higher sale rate for these minerals.
+So we know that artisanal miners make next to nothing and take so much risk. So if they have a stronger co-op, maybe they can then get a fairer, much higher sale rate for these minerals.
 
-Okay, well, let's leave the hardware behind very briefly and move to the software and training side. We know that in the companies, these are the playgrounds of oligarchs. They have, as we all know, vast amounts of power.
+Okay, let's leave the hardware behind very briefly and move to the software and training side. We know that in the companies, these are the playgrounds of oligarchs. They have, as we all know, vast amounts of power.
 
 We know that inside the company, there are those who have skills that are obtained—and this is not to cheapen their experience because they have worked hard. They've studied hard. They've fought massive exams in different parts of the world to come out on top, and they've put themselves successfully through interviews to go to the very highest, the highest technical echelons of Google, Anthropic, etc.
 
@@ -200,7 +192,7 @@ This is not okay.
 
 So you see, then you go through to access, let's say on the user side, if we're using an AI for deliberation: is it an open source? Is it trained off of, say, a small language model that is more appropriate to what you are doing?
 
-That's my concern, the small language model. Do we know that if it's working off of an unfiltered large language model that it won't start dog-whistling in ways that we can't possibly understand?
+That's my concern, the small language model. How do we know that if it's working off of an unfiltered large language model that it won't start dog-whistling in ways that we can't possibly understand?
 
 That's the brief answer to question one.
 
@@ -220,14 +212,10 @@ Yeah, well, I do think that they're very convincing. Wade Davis in particular is
 
 And when we think about language, it is the entirety of those of us who speak this way. Like, there are sign languages, there are Blissymbolics, whatever, there's other ways of communicating. Those are still languages, right? I'm not excluding nonverbal forms.
 
-But whatever it is, it is a whole codex that typically takes years or even a lifetime to get close to mastery. It's all about trying to use whatever—our bodies, our words, our symbols that we can draw—to express what's happening, to express things that are generating on the inside, that we're feeling from the outside, that we can feel and make alone or together.
+But whatever it is, it is a whole codex that typically takes years or even a lifetime to get close to mastery. It's all about trying to use whatever: our bodies, our words, our symbols that we can draw, to express what's happening, to express things that are generating on the inside, that we're feeling from the outside, that we can feel and make alone or together.
 
 And you see this in countless cultures, and also in non-human species groups, a distaste for tyranny. Right? Nobody likes a tyrant. Even monkeys don't like tyrants. Chimpanzees do not like tyrants. It's an interesting thing to look at.
 
-So you have all of these different languages that are filled with concepts that we, who don't know these languages, can try to go and learn about and to consider.
+We have all these different languages, full of concepts we don't know. So when engineers or medical scientists lament the extinction of a species, we should lament the fact that those genetic technologies and that expertise are no longer in the world for us to interact with, try to understand, support, and build a relationship with.
 
-So when they do go extinct, it's just as, let's say, engineers or medical scientists lament when a species goes extinct. Those technologies of genetics and experience are no longer in the world for us to engage with, not simply to extract from, because that's the wrong way of looking at it, but to try to understand, to support, and to build a relationship with.
-
-I think that one of the greatest crises that we have is not simply the extinction of languages. It's that we are really so dramatically impoverished when it comes to our understanding of what democracy can be. That, I think, is a huge limiting factor because, as Benjamin Studebaker, David Runciman's former PhD student, says in a recent piece, it ruins our imagination.
-
-Literally, the tools in our toolbox are too few.
+I believe that one of the greatest crises we face is not simply the extinction of languages, but rather that we are dramatically impoverished in terms of our understanding of what democracy can be. And that is a huge limiting factor because, as Benjamin Studebaker, a former doctoral student of David Runciman, says in a recent article, it stifles our imagination.

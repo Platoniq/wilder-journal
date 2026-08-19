@@ -153,13 +153,11 @@ No se trata de esos trabajos excéntricos de los años sesenta del tipo: «Voy a
 
 Cuando les das crédito, ves que funcionan dentro de un panorama informativo del tiempo diferente. Tienen, a nivel celular, distintos tipos de receptores. Uno de ellos es para sustancias químicas. Y ahora sabemos, con muchos tipos diferentes de plantas, que sí utilizan estas señales químicas, ya sea a través de sus raíces o de la estructura de sus hojas, y las utilizan para comunicarse entre sí.
 
-Así que, por ejemplo, si tú y yo fuéramos, digamos, unos abedules bonitos, o lo que sea, y resultara que estuvieras más cerca del lugar donde una jirafa se ha escapado del zoológico y está empezando a comerse tus hojas. No sé si los abedules reconocen a las jirafas. Es un ejemplo bastante descabellado.
+Por ejemplo, si tú y yo fuéramos unos abedules bonitos, y resultara que estuvieras más cerca del lugar donde una jirafa se ha escapado del zoológico y está empezando a comerse tus hojas. No sé si los abedules reconocen a las jirafas. Es un ejemplo bastante descabellado. Pero supongamos que reconocen el ruido de masticar. Es casi seguro que liberará una hormona hacia otros abedules, y posiblemente incluso hacia otras especies de plantas, para indicar que hay un herbívoro presente. Y entonces yo, más allá, al recibir tu mensaje llevado por el viento, podría empezar a producir, tan rápido como pueda, sustancias amargas, algo que simplemente me haría menos apetecible.
 
-Pero supongamos que reconocen el ruido de masticar. Es casi seguro que liberará una hormona hacia otros abedules, y posiblemente incluso hacia otras especies de plantas, para indicar que hay un herbívoro presente. Y entonces yo, más allá, al recibir tu mensaje llevado por el viento, podría empezar a producir, tan rápido como pueda, sustancias amargas, algo que simplemente me haría menos apetecible.
+Sabemos que se comunican entre sí. Es más, hay indicios a nivel celular que sugieren que tienen capacidad auditiva, que las plantas pueden recibir y emitir sonido. Como la planta de patata, que emite una especie de chasquido.
 
-Así que sabemos que se comunican entre sí. Es más, hay indicios a nivel celular que sugieren que tienen capacidad auditiva, que las plantas pueden recibir y emitir sonido. Y en un caso, creo que fue una planta de patata, según recuerdo, se trataba de un chasquido para nuestros oídos.
-
-Pero hay un montón de cosas en las que puedes profundizar y ver diversas formas de inteligencia vegetal. Y hay mucha gente investigando, ya sabes, si las plantas pueden ser realmente inteligentes. Y las pruebas parecen indicar que sí, que tienen sus propias formas de inteligencia y que nosotros no somos tan especiales.
+Hay un montón de cosas en las que puedes profundizar y ver diversas formas de inteligencia vegetal. Y hay mucha gente investigando si las plantas pueden ser realmente inteligentes. Y las pruebas parecen indicar que sí, que tienen sus propias formas de inteligencia y que nosotros no somos tan especiales.
 
 La cosa se pone aún más interesante. Terminaré diciendo simplemente que se puede observar la interrelación, ya muy bien documentada, entre los hongos y las plantas, y cómo existe un gran intercambio de información, cómo hay concesiones mutuas, cómo hay señales y cómo se reducen los errores que pueden cometerse gracias a ese intercambio amistoso.
 
@@ -169,33 +167,27 @@ Así pues, en resumen, la gente ve cada vez más los bosques como democracias mu
 
 **Olivier:** Así que también tenemos que abordar el «bosque de los humanos», ya sabes, si la amenaza es el autoritarismo y la extrema derecha, probablemente tengamos que aprender de esos canales de comunicación casi invisibles que podríamos poner en marcha.
 
-Pero, en fin, me gustaría abrir el debate —sé que no tenemos mucho tiempo— sobre la IA, en concreto sobre si podemos mejorar la deliberación con la IA, que es un tema importante, ya sabes...
+Pero, en fin, me gustaría abrir el debate sobre la IA, en concreto sobre si podemos mejorar la deliberación con la IA.
 
-Solo para que lo sepáis, como parte del proyecto «Inspired», que comparto con Sonia —y que ella acaba de mencionar—, hace unos años Jean-Paul llevó a cabo este experimento y yo me lo pasé muy bien con él; de hecho, ella incluso me envió algunas capturas de pantalla de WhatsApp porque él mantuvo la conversación con vuestro agente democrático.
+Solo para que lo sepas, como parte del proyecto «Inspire», que comparto con Sonia Bussu, estamos construyendo algo que consiste más bien en intentar evitar la «máquina de Habermas», ya sabes, esa obsesión por el consenso, y abrirnos a los conflictos. Para eso, tenemos diferentes agentes trabajando juntos, como un filósofo; un profesional deliberativo, que supongo que sería más bien con lo que tú empezaste a trabajar; y tenemos al Joker, que es básicamente el teatro legislativo del «Teatro del Oprimido», de Boal.
 
-Solo para que lo sepáis, estamos construyendo algo como parte de la iniciativa de la que algunos son responsables, que consiste más bien en intentar evitar la «máquina de Habermas», ya sabéis, esa obsesión por el consenso, y abrirnos a los conflictos.
+¿Qué peligros surgen cuando le pedimos a la IA no solo que informe a la democracia, sino que participe en el razonamiento democrático?
 
-Así que tenemos diferentes agentes trabajando juntos, como un filósofo; tenemos al profesional deliberativo, que supongo que sería más bien con lo que tú empezaste a trabajar; y tenemos al Joker, que es básicamente el teatro legislativo del «Teatro del Oprimido», de Boal.
+**Jean-Paul:** Intentaré ser breve. Si realmente queremos evitar reproducir exclusiones intencionadas, incluso patrones de trabajo coloniales e imperialistas, si queremos tomarnos eso en serio, entonces tenemos que embarcarnos en un proyecto más amplio de lo que algunos han denominado la «democratización de la inteligencia artificial».
 
-Hacemos una adaptación de todo esto que, ya sabes, evita la universalización y la programación, y propone una reflexión crítica con, ya sabes, un mayor silencio; así que, básicamente, rompemos la lógica y la forma en que la IA, ya sabes, se nos impone.
+Y empieza desde la base, literalmente. ¿Quién está excavando y dónde? ¿Tienen derecho a excavar allí? ¿Están abusando de la soberanía indígena? ¿Están asumiendo riesgos enormes?
 
-Así pues, echando la vista atrás a tu experimento de IA democrática. Te enviaré algunas preguntas al respecto: ¿qué harías hoy de forma diferente o qué evitarías hacer? ¿Y qué peligros surgen cuando le pedimos a la IA no solo que informe a la democracia, sino que participe en el razonamiento democrático?
+Los jóvenes, sobre todo de familias pobres con hijos, abandonan los estudios para intentar salir de la pobreza dedicándose a la minería artesanal. Entonces, fíjate en eso. ¿Se puede democratizar eso? ¿Se puede crear, por ejemplo, una cooperativa de trabajadores? ¿Se puede conseguir de alguna manera?
 
-**Jean-Paul:** De acuerdo, intentaré ser breve. En primer lugar, se trataba de algo lúdico. Y lo que haría de otra manera, ahora que hemos aprendido mucho más sobre las circunstancias que rodean la creación de la IA: si realmente queremos evitar reproducir exclusiones intencionadas, incluso —diría yo— patrones de trabajo coloniales e imperialistas, si queremos tomarnos eso en serio, entonces tenemos que embarcarnos en un proyecto más amplio de lo que algunos han denominado la «democratización de la inteligencia artificial».
-
-Y empieza desde la base, literalmente. Entonces, ¿quién está excavando y dónde? ¿Tienen derecho a excavar allí? ¿Están abusando de la soberanía indígena? ¿Están asumiendo riesgos enormes?
-
-Los jóvenes, sobre todo de familias pobres con hijos, abandonan los estudios para intentar salir de la pobreza dedicándose a la minería artesanal. Entonces, vale, fíjate en eso. ¿Se puede democratizar eso? ¿Se puede crear, por ejemplo, una cooperativa de trabajadores? ¿Se puede conseguir de alguna manera?
-
-Hay diferentes naciones indígenas interesadas en el extractivismo. No suponen un problema. No ven ningún problema en ello. Así que quizá podrían tomar la iniciativa en este ámbito, y eso podría sentar las primeras bases para luchar contra los intermediarios.
+Hay diferentes naciones indígenas interesadas en el extractivismo. No ven ningún problema en ello. Así que quizá podrían tomar la iniciativa en este ámbito, y eso podría sentar las primeras bases para luchar contra los intermediarios.
 
 {% quote %}Esta es mi preocupación: el modelo de lenguaje pequeño. ¿Sabemos que, si funciona a partir de un modelo de lenguaje grande sin filtrar, no empezará a enviar mensajes subliminales de formas que nos resulten imposibles de entender?{% endquote %}
 
-Sabemos que los mineros artesanales ganan casi nada y asumen un riesgo enorme. Por lo tanto, si contaran con una cooperativa más sólida, quizá Mondragón podría encargarse de ello y ayudar, podrían obtener un precio de venta más justo y mucho más alto por estos minerales.
+Sabemos que los mineros artesanales ganan casi nada y asumen un riesgo enorme. Por lo tanto, si contaran con una cooperativa más sólida, quizá podrían obtener un precio de venta más justo y mucho más alto por estos minerales.
 
 Vale, pues dejemos a un lado el hardware por un momento y pasemos al software y a la formación. Sabemos que, en las empresas, estos son los terrenos de juego de los oligarcas. Tienen, como todos sabemos, un poder enorme.
 
-Sabemos que, dentro de la empresa, hay personas que han adquirido ciertas habilidades,y no pretendo menospreciar su experiencia, ya que han trabajado duro. Han estudiado mucho. Se han enfrentado a exámenes muy exigentes en diferentes partes del mundo para destacar, y han superado con éxito las entrevistas para llegar a los niveles más altos, a las esferas técnicas más elevadas de Google, Anthropic, etc.
+Sabemos que, dentro de la empresa, hay personas que han adquirido ciertas habilidades, y no pretendo menospreciar su experiencia, ya que han trabajado duro. Han estudiado mucho. Se han enfrentado a exámenes muy exigentes en diferentes partes del mundo para destacar, y han superado con éxito las entrevistas para llegar a los niveles más altos, a las esferas técnicas más elevadas de Google, Anthropic, etc.
 
 Pero ellos se llevan la mayor parte del dinero, y necesitan colaboradores que se encarguen en gran medida de esta tarea de comprobar el sentido común y la humanización de los contenidos. ¿Y qué es lo que vemos?
 
@@ -207,11 +199,11 @@ Esto no está bien.
 
 Así que, como ves, cuando accedes, digamos desde el punto de vista del usuario, si estamos utilizando una IA para la deliberación: ¿es de código abierto? ¿Se ha entrenado a partir de, por ejemplo, un modelo de lenguaje pequeño que sea más adecuado para lo que estás haciendo?
 
-Esta es mi preocupación: el modelo de lenguaje pequeño. ¿Sabemos que, si funciona a partir de un modelo de lenguaje grande sin filtrar, no empezará a enviar mensajes subliminales de formas que nos resulten imposibles de entender?
+Esta es mi preocupación: el modelo de lenguaje pequeño. ¿Cómo sabemos que, si funciona a partir de un modelo de lenguaje grande sin filtrar, no empezará a enviar mensajes subliminales de formas que nos resulten imposibles de entender?
 
-Esa es la respuesta breve a la primera pregunta.
+Esa es la respuesta breve a la primera cuestión.
 
-Segunda pregunta: en cuanto a cómo utilizar esta IA en la deliberación, creo que es fundamental que la máquina sepa que está ahí para apoyar a nuestros «ángeles». Como personas que dirigimos ONG, como personas que tenemos laboratorios ajetreados, como personas cuyos decanos nos someten a cambios anuales y nos sacuden para ver qué dinero se nos cae de los bolsillos y de las publicaciones, los demonios que se nos suben a los hombros no son amigos del tiempo, no son amigos de los problemas metodológicos, no son amigos de nada que pueda perturbar de forma irrazonable lo que se supone que debemos producir. Eso es un problema.
+Segunda cuestión: en cuanto a cómo utilizar esta IA en la deliberación, creo que es fundamental que la máquina sepa que está ahí para apoyar a nuestros «ángeles». Como personas que dirigimos ONG, como personas que tenemos laboratorios, como personas cuyos decanos nos someten a cambios anuales y nos sacuden para ver qué dinero se nos cae de los bolsillos y de las publicaciones, los demonios que se nos suben a los hombros no son amigos del tiempo, no son amigos de los problemas metodológicos, no son amigos de nada que pueda perturbar de forma irrazonable lo que se supone que debemos producir. Eso es un problema.
 
 ## **La extinción lingüística y la imaginación democrática**
 
@@ -227,12 +219,10 @@ Sí, bueno, yo creo que son muy convincentes. Wade Davis, en particular, tiene u
 
 Y cuando pensamos en el lenguaje, nos referimos al conjunto de todos aquellos que hablamos de esta manera. Por ejemplo, existen los lenguajes de signos, el Blissymbolics y otras formas de comunicación. Todo eso sigue siendo lenguaje, ¿verdad? No estoy excluyendo las formas no verbales.
 
-Pero sea lo que sea, se trata de todo un código que, por lo general, lleva años o incluso toda una vida dominar. Se trata de intentar utilizar cualquier cosa —nuestros cuerpos, nuestras palabras, los símbolos que podamos dibujar— para expresar lo que está sucediendo, para expresar aquello que surge en nuestro interior, lo que percibimos desde el exterior, lo que podemos sentir y crear solos o juntos.
+Pero sea lo que sea, se trata de todo un código que, por lo general, lleva años o incluso toda una vida dominar. Se trata de intentar utilizar cualquier cosa: nuestros cuerpos, nuestras palabras, los símbolos que podamos dibujar, para expresar lo que está sucediendo, para expresar aquello que surge en nuestro interior, lo que percibimos desde el exterior, lo que podemos sentir y crear solos o juntos.
 
-Y esto se ve en innumerables culturas, y también en grupos de especies no humanas: un rechazo a la tiranía. ¿Verdad? A nadie le gusta un tirano. Ni siquiera a los monos les gustan los tiranos. A los chimpancés no les gustan los tiranos. Es algo interesante de observar.So you have all of these different languages that are filled with concepts that we, who don't know these languages, can try to go and learn about and to consider.
+Y esto se ve en innumerables culturas, y también en grupos de especies no humanas: un rechazo a la tiranía. ¿Verdad? A nadie le gusta un tirano. Ni siquiera a los monos les gustan los tiranos. A los chimpancés no les gustan los tiranos. Es algo interesante de observar. 
 
-Así que, cuando se extinguen, es igual que, digamos, cuando los ingenieros o los científicos médicos lamentan la extinción de una especie. Esas tecnologías genéticas y esa experiencia ya no están en el mundo para que podamos interactuar con ellas, no simplemente para extraer de ellas —porque esa es una forma errónea de verlo—, sino para intentar comprenderlas, apoyarlas y establecer una relación con ellas.
+Tenemos todos estos idiomas diferentes, repletos de conceptos que no conocemos. Así que cuando los ingenieros o los científicos médicos lamentan la extinción de una especie, debemos lamentarnos de que esas tecnologías genéticas y esa experiencia ya no están en el mundo para que podamos interactuar con ellas e intentar comprenderlas, apoyarlas y establecer una relación con ellas.
 
-Creo que una de las mayores crisis que tenemos no es simplemente la extinción de las lenguas. Es que estamos realmente tan dramáticamente empobrecidos en lo que respecta a nuestra comprensión de lo que puede ser la democracia. Eso, creo, es un enorme factor limitante porque, como dice Benjamin Studebaker, antiguo doctorando de David Runciman, en un artículo reciente, arruina nuestra imaginación.
-
-Literalmente, las herramientas de nuestra caja de herramientas son demasiado escasas.
+Creo que una de las mayores crisis que tenemos no es simplemente la extinción de las lenguas, sino que estamos dramáticamente empobrecidos en lo que respecta a nuestra comprensión de lo que puede ser la democracia. Y eso, es un enorme factor limitante porque, como dice Benjamin Studebaker, antiguo doctorando de David Runciman, en un artículo reciente, arruina nuestra imaginación.
