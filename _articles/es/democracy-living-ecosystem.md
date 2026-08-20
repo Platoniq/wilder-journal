@@ -41,7 +41,7 @@ En esta conversación con **Olivier Schulbaum**, director estratégico de Platon
 
 ## **La democracia como un ecosistema vivo de significados**
 
-**Olivier:** Hablas de ríos: esos vastos mares de significados en disputa cuando hablamos de qué es exactamente la democracia. Así que empecemos por ahí. Me gustaría llamar a la democracia de mil maneras diferentes. Tú has recopilado 5.000 descripciones o epistemologías de la democracia. ¿En qué momento dejaste de pensar que la democracia era un concepto y empezaste a verla como un ecosistema vivo de significados?
+**Olivier:** **Hablas de ríos: esos vastos mares de significados en disputa cuando hablamos de qué es exactamente la democracia. Así que empecemos por ahí. Me gustaría llamar a la democracia de mil maneras diferentes. Tú has recopilado 5.000 descripciones o epistemologías de la democracia. ¿En qué momento dejaste de pensar que la democracia era un concepto y empezaste a verla como un ecosistema vivo de significados?**
 
 **Jean-Paul:** Oh, fue vergonzosamente tarde. Me cuesta mucho pensar en programas de posgrado, en cualquier tradición de estudios sobre la democracia, que ofrezcan un estudio tan abierto y programático que podamos llamar un enfoque lingüístico, un enfoque epistemológicamente incierto o uno que celebra las diferencias ontológicas y, en particular, las difusiones. Pero ya llegaremos a eso.
 
@@ -57,7 +57,7 @@ Y lo que es más importante: estamos hablando de estas cuestiones sobre por qué
 
 Creo que no es de extrañar que haya más gente que celebre, por ejemplo, la profundidad de, digamos, Monkey D. Luffy de One Piece, en lugar de, por ejemplo, la teoría de la justicia de John Rawls, por no hablar de los demás libros.
 
-**Olivier:** Ambos tienen una tiranía de terror. Y ambos tienen cómics sobre ellos.
+**Olivier:** **Ambos tienen una tiranía de terror. Y ambos tienen cómics sobre ellos.**
 
 **Jean-Paul:** Me gusta. Pero verás, si sacas este tema en ciertos círculos, la gente pensará: «¿Pero qué tontería es esa?».
 
@@ -83,7 +83,7 @@ Hay una gran cantidad de otras palabras en el mundo que significan «democracia�
 
 Bueno, creo que, por ejemplo, nuestro amigo Ramón van der Dohe probablemente tiene el diagnóstico correcto en este caso. Y Ramón diría que simplemente somos muy pocos. No hay suficientes teóricos de la democracia de este tipo en el mundo, ni siquiera de ese tipo.
 
-**Olivier:** ¿Podríamos profundizar un poco más centrándonos en los profesionales o incluso en las comunidades afectadas por ciertos términos, o revisando los propios términos? Eso también tiene que ver con cómo recopilar estas epistemologías, estas expresiones. Se trata, a un nivel meta, también de una especie de creación democrática de archivos, ¿o es la ontología un bien común? Me encantaría saber más sobre eso.
+**Olivier:** **¿Podríamos profundizar un poco más centrándonos en los profesionales o incluso en las comunidades afectadas por ciertos términos, o revisando los propios términos? Eso también tiene que ver con cómo recopilar estas epistemologías, estas expresiones. Se trata, a un nivel meta, también de una especie de creación democrática de archivos, ¿o es la ontología un bien común? Me encantaría saber más sobre eso.**
 
 **Jean-Paul:** Tienes toda la razón, Olivier, en eso. Fueron Eva Crick y Norma Ulstaba Kaufman, si no recuerdo mal, quienes se mostraron muy activas al respecto hace unos años, diciendo que, si tenemos estas limitaciones, nuestro único recurso es intentar asociarnos, encontrar a otras personas en el mundo interesadas en hacer cosas similares e intentar diseñar algún tipo de enfoque de ciencia ciudadana en este ámbito.
 
@@ -95,7 +95,7 @@ Los tratamos como si fueran fragmentos de cerámica, y luego intentamos crear ar
 
 ## **Artefactos lingüísticos y prácticas democráticas no verbales**
 
-**Olivier:** Permíteme volver sobre algo que me parece muy interesante. También has mencionado datos relacionados con las democracias. No me refiero a las definiciones, sino a los datos que pueden estar asociados a esas definiciones. Pero me gustaría volver a la idea de lo que llamas «artefactos lingüísticos». ¿Qué prácticas democráticas se hacen visibles cuando dejamos de traducirlo todo a través del vocabulario político inglés? Y eso también implicaría: ¿se te ocurre algún artefacto que no sea discursivo? Es decir, algún tipo de traducción de estas fenomenologías, términos o glosarios a lenguajes visuales que pudieran asociarse más con las prácticas comunitarias. 
+**Olivier:** **Permíteme volver sobre algo que me parece muy interesante. También has mencionado datos relacionados con las democracias. No me refiero a las definiciones, sino a los datos que pueden estar asociados a esas definiciones. Pero me gustaría volver a la idea de lo que llamas «artefactos lingüísticos». ¿Qué prácticas democráticas se hacen visibles cuando dejamos de traducirlo todo a través del vocabulario político inglés? Y eso también implicaría: ¿se te ocurre algún artefacto que no sea discursivo? Es decir, algún tipo de traducción de estas fenomenologías, términos o glosarios a lenguajes visuales que pudieran asociarse más con las prácticas comunitarias.** 
 
 **Jean-Paul:** Dada tu pregunta, creo que ya sabes la respuesta. Yo sigo a otros antropólogos, especialmente a aquellos que se dedican más a la sociología política o al trabajo de teoría crítica radical y activista. Así que, cuando observamos cómo expresan algún tipo de acción democrática, normalmente esto tiene más que ver con ese estilo «Luffy» de perseguir la libertad, abrazar la anarquía y buscar la alegría. ¿Verdad? Sabemos que la esperanza y la alegría son temas importantes en la teoría democrática actual, y con razón.
 
@@ -111,11 +111,11 @@ Pero dejo este tema en manos de otras personas, sobre todo porque en estos momen
 
 ## **Democracias no humanas: abejas, bosques y plantas**
 
-**Olivier:** ¿Podrías profundizar un poco en ese tema, en el proceso de toma de decisiones de las abejas, por ejemplo?
+**Olivier:** **¿Podrías profundizar un poco en ese tema, en el proceso de toma de decisiones de las abejas, por ejemplo?**
 
 **Jean-Paul:** A todo el mundo le encantan las abejas.
 
-**Olivier:** Por supuesto, a todo el mundo, salvo en el debate sobre los polinizadores que organizó la Comisión Europea con los jóvenes; también podríamos recurrir a un ejemplo sencillo.
+**Olivier:** **Por supuesto, a todo el mundo, salvo en el debate sobre los polinizadores que organizó la Comisión Europea con los jóvenes; también podríamos recurrir a un ejemplo sencillo.**
 
 **Jean-Paul:** Me encantaría hacerlo, pero solo si puedo animar a tus encantadores lectores a comprender que esto es, literalmente, demasiado excluyente. La abeja melífera occidental no es el alfa y el omega de las abejas ni de los artrópodos que realizan estas funciones. Pero bendito sea Tom Seeley, bendito sea su libro, *Honeybee Democracy*. Si no lo tienes, publicado por Princeton, es como uno de esos libros que se tienen en la mesita del salón. Es precioso. Y Tom es un tipo realmente simpático.
 
@@ -127,7 +127,7 @@ Aquí yo si creo, quizá haya quien se oponga al uso de esa palabra, que hay un 
 
 {% gallery { "simple": true, "images": [{"path":"/media/images.jpg"}] } %}
 
-**Olivier:** Imagínate que la literatura sobre las abejas melíferas se aplicara así a las políticas públicas. ¿Cómo bailaría el Parlamento? Sería genial. 
+**Olivier:** **Imagínate que la literatura sobre las abejas melíferas se aplicara así a las políticas públicas. ¿Cómo bailaría el Parlamento? Sería genial.** 
 
 **Jean-Paul:** Bueno, más bien se trata de la mimesis. Mi libro empieza así. Tenemos una arrogancia antropocéntrica en lo que respecta a la democracia. Creemos que es un invento de nuestra especie. Eso es falso.
 
@@ -137,7 +137,7 @@ Creo que si observamos con atención la forma de actuar de otros, como la Apis m
 
 Por desgracia, creo que confiamos demasiado los unos en los otros, o mostramos demasiada deferencia hacia quienes dicen saber más que nosotros.
 
-**Olivier:** Entonces, lo que querías decir es que te gusta hablar del caso de las abejas, pero que probablemente no fuera el mejor ejemplo de la democracia. ¿Cuál sería un buen ejemplo de un agente no humano que resultara aún más relevante que el de las abejas?
+**Olivier:** **Entonces, lo que querías decir es que te gusta hablar del caso de las abejas, pero que probablemente no fuera el mejor ejemplo de la democracia. ¿Cuál sería un buen ejemplo de un agente no humano que resultara aún más relevante que el de las abejas?**
 
 **Jean-Paul:** Mira, creo que todos son, a su manera, relevantes, porque ninguno de ellos practica una democracia universal. Todos viven, en muchos sentidos, al borde de la inanición. Es un requisito tan preciso el de ser sensibles al terreno en el que se encuentran, al contexto en el que viven.
 
@@ -165,13 +165,13 @@ Así pues, en resumen, la gente ve cada vez más los bosques como democracias mu
 
 ## **La democracia y la inteligencia artificial**
 
-**Olivier:** Así que también tenemos que abordar el «bosque de los humanos», ya sabes, si la amenaza es el autoritarismo y la extrema derecha, probablemente tengamos que aprender de esos canales de comunicación casi invisibles que podríamos poner en marcha.
+**Olivier:** **Así que también tenemos que abordar el «bosque de los humanos», ya sabes, si la amenaza es el autoritarismo y la extrema derecha, probablemente tengamos que aprender de esos canales de comunicación casi invisibles que podríamos poner en marcha.**
 
-Pero, en fin, me gustaría abrir el debate sobre la IA, en concreto sobre si podemos mejorar la deliberación con la IA.
+**Pero, en fin, me gustaría abrir el debate sobre la IA, en concreto sobre si podemos mejorar la deliberación con la IA.**
 
-Solo para que lo sepas, como parte del proyecto «Inspire», que comparto con Sonia Bussu, estamos construyendo algo que consiste más bien en intentar evitar la «máquina de Habermas», ya sabes, esa obsesión por el consenso, y abrirnos a los conflictos. Para eso, tenemos diferentes agentes trabajando juntos, como un filósofo; un profesional deliberativo, que supongo que sería más bien con lo que tú empezaste a trabajar; y tenemos al Joker, que es básicamente el teatro legislativo del «Teatro del Oprimido», de Boal.
+**Solo para que lo sepas, como parte del proyecto «Inspire», que comparto con Sonia Bussu, estamos construyendo algo que consiste más bien en intentar evitar la «máquina de Habermas», ya sabes, esa obsesión por el consenso, y abrirnos a los conflictos. Para eso, tenemos diferentes agentes trabajando juntos, como un filósofo; un profesional deliberativo, que supongo que sería más bien con lo que tú empezaste a trabajar; y tenemos al Joker, que es básicamente el teatro legislativo del «Teatro del Oprimido», de Boal.**
 
-¿Qué peligros surgen cuando le pedimos a la IA no solo que informe a la democracia, sino que participe en el razonamiento democrático?
+**¿Qué peligros surgen cuando le pedimos a la IA no solo que informe a la democracia, sino que participe en el razonamiento democrático?**
 
 **Jean-Paul:** Intentaré ser breve. Si realmente queremos evitar reproducir exclusiones intencionadas, incluso patrones de trabajo coloniales e imperialistas, si queremos tomarnos eso en serio, entonces tenemos que embarcarnos en un proyecto más amplio de lo que algunos han denominado la «democratización de la inteligencia artificial».
 
@@ -207,11 +207,11 @@ Segunda cuestión: en cuanto a cómo utilizar esta IA en la deliberación, creo 
 
 ## **La extinción lingüística y la imaginación democrática**
 
-**Olivier:** Déjame terminar con una pregunta provocadora: ¿y si la mayor crisis de la democracia no fuera la disminución de la participación, sino la extinción lingüística?
+**Olivier:** **Déjame terminar con una pregunta provocadora: ¿y si la mayor crisis de la democracia no fuera la disminución de la participación, sino la extinción lingüística?**
 
 **Jean-Paul:** Has estado leyendo a Michael Saward.
 
-**Olivier:** Y a ti.
+**Olivier:** **Y a ti.**
 
 **Jean-Paul:** Ah, solo estaban sacando frases de Mike o de otros antropólogos. Es que me gusta abrir el debate.
 

@@ -20,6 +20,10 @@ cover:
   path: /media/articles/heroes/gagnon.jpg
   mobile: /media/articles/mobile/gagnon.jpg
   thumbnail: /media/articles/thumbnails/gagnon.jpg
+related_article_uids:
+  - youth-deliberation-democracy
+  - democratic-visualisation
+  - queer-ai-democratic-participation
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
@@ -34,7 +38,7 @@ In this conversation with **Olivier Schulbaum**, strategic director of Platoniq,
 
 ## **Democracy as a living ecosystem of meanings**
 
-**Olivier:** You talk about rivers: the vast seas of contested meanings when we talk about what democracy is exactly. So let's start with that block. I would like to call democracy by thousands of names. So you have documented 5,000 of descriptions or epistemologies of democracy. At what point did you stop thinking democracy was a concept and start seeing it as a living ecosystem of meanings?
+**Olivier:** **You talk about rivers: the vast seas of contested meanings when we talk about what democracy is exactly. So let's start with that block. I would like to call democracy by thousands of names. So you have documented 5,000 of descriptions or epistemologies of democracy. At what point did you stop thinking democracy was a concept and start seeing it as a living ecosystem of meanings?**
 
 **Jean-Paul:** Oh, it was embarrassingly late. I find it very difficult to think of any graduate programs or any tradition of scholarship on democracy that offer such an open and programmatic study that we might call a linguistic approach, an epistemologically uncertain approach, or one that celebrates ontological differences and, in particular, blurring of boundaries. But we’ll get to that.
 
@@ -50,7 +54,7 @@ Beyond that we're talking about these questions of why are there such dominant f
 
 I think it's no surprise that more people appreciate, for example, the depth of, say, Monkey D. Luffy from *One Piece*, rather than, for example, John Rawls's theory of justice, not to mention other books.
 
-**Olivier:** They both have horror tyranny. And both have comics about them.
+**Olivier:** **They both have horror tyranny. And both have comics about them.**
 
 **Jean-Paul:** I like that. But you see, if you bring this up in certain places, people will think: “are you ridiculous?”
 
@@ -76,7 +80,7 @@ There’s a great amount of other words in the world that mean democracy. And I 
 
 Well, I think, for example, our friend Ramon van der Dohe's has probably the correct diagnostic here. And Ramon would say there are just too few of us. There aren't enough democratic theorists of this sort in the world, and even not of that sort. 
 
-**Olivier:** Could we bridge a bit more looking at practitioners or even, like, affected communities by certain terms, or revising terms by themselves? So that has also to do with how to do the collecting of these epistemologies, of these expressions. It's at, in a meta level, also some kind of a democratic archive-making, or is the ontology a common? So I would love to know about that.
+**Olivier:** **Could we bridge a bit more looking at practitioners or even, like, affected communities by certain terms, or revising terms by themselves? So that has also to do with how to do the collecting of these epistemologies, of these expressions. It's at, in a meta level, also some kind of a democratic archive-making, or is the ontology a common? So I would love to know about that.**
 
 **Jean-Paul:** Well, I mean, you're completely right, Olivier, in that thinking. So it was Eva Crick and Norma Ulstaba Kaufman, to memory, who were very vocal earlier on, a few years ago, about, well, if we have these limitations, our only recourse is to try to partner, to find others in the world that are interested in doing similar things, and to try to craft some kind of citizen science approach here.
 
@@ -88,7 +92,7 @@ We're treating them like pot shards, and then trying to build archives around th
 
 ## **Linguistic artifacts and non-verbal democratic practices**
 
-**Olivier:** Let me come back to something I think is very interesting. You mentioned also data around democracies. I'm not talking about the definitions, but also, like, the data that may be associated to these definitions. But I'd like to come back to the idea of what you call "the linguistic artifacts". What democratic practices become visible when we stop translating everything through English political vocabulary? And that would also: is there any artifact you would think of that would be non-discursive? So some kind of a translation of these phenomenologies or terms or glossaries into visual languages that could be associated more with community practices. 
+**Olivier:** **Let me come back to something I think is very interesting. You mentioned also data around democracies. I'm not talking about the definitions, but also, like, the data that may be associated to these definitions. But I'd like to come back to the idea of what you call "the linguistic artifacts". What democratic practices become visible when we stop translating everything through English political vocabulary? And that would also: is there any artifact you would think of that would be non-discursive? So some kind of a translation of these phenomenologies or terms or glossaries into visual languages that could be associated more with community practices.** 
 
 **Jean-Paul:** Given your question, I think you know the answer of this. I follow other anthropologists, especially those that are more in political sociology or radical and activist critical theory work. So when you look at how they express some sort of democratic action, usually this has more to do with that Luffy style of pursuing freedom, embracing anarchy, pursuing joy. Right? We know that hope and joy are big themes in democratic theory these days, and for good reason.
 
@@ -104,11 +108,11 @@ But I’ll leave this topic to others, especially since I’m currently working 
 
 ## **Non-human democracies: bees, forests and plants**
 
-**Olivier:** Could you go into a little more detail on that topic: the decision-making process of bees, for example?
+**Olivier:** **Could you go into a little more detail on that topic: the decision-making process of bees, for example?**
 
 **Jean-Paul:** Everybody loves bees.
 
-**Olivier:** Of course, everybody, unless the pollinators debate from the European Commission with young people, we could also connect to an easy one.
+**Olivier:** **Of course, everybody, unless the pollinators debate from the European Commission with young people, we could also connect to an easy one.**
 
 **Jean-Paul:** So I'm happy to, but only if I can encourage your lovely readers to understand that this is literally too exclusionary. The Western honeybee is not the alpha and omega of the bees or the arthropods that do these things. But bless Tom Seeley, bless his book, *Honeybee Democracy*. If you don't have it, from Princeton, it's like a coffee table thing to have. It's beautiful. And Tom is a really nice guy.
 
@@ -120,7 +124,7 @@ Here I believe, and people might object to the use of that word, that there is a
 
 {% gallery { "simple": true, "images": [{"path":"/media/images.jpg"}] } %}
 
-**Olivier:** Imagine honeybee literature in public policy like this. Would you do the dance moves in the parliament? That would be cool. 
+**Olivier:** **Imagine honeybee literature in public policy like this. Would you do the dance moves in the parliament? That would be cool.** 
 
 **Jean-Paul:** Well, more to the point of mimesis. So this, my book, it starts that way. We have an anthropocentric arrogance when it comes to democracy. We think it is the invention of our species. This is false.
 
@@ -130,7 +134,7 @@ I do think that if we carefully look at the way others, like *Apis mellifera*, t
 
 Sadly, I do think that we trust each other too much, or we show too much deference to people that say they know better.
 
-**Olivier:** So you meant, you like to talk about the bee case, but it was probably not the best example of the horizontal democracy we could have. What's a good example of a non-human agent that would be even more relevant than the bee one?
+**Olivier:** **So you meant, you like to talk about the bee case, but it was probably not the best example of the horizontal democracy we could have. What's a good example of a non-human agent that would be even more relevant than the bee one?**
 
 **Jean-Paul:** Look, I think they’re all, in their own way, relevant, because they each don't do a universal democracy thing. They all live so close to, in many ways, on the brink of starvation. It is such a fine-tuned requirement to be sensitive to the land they're on, to the context they're in.
 
@@ -158,7 +162,7 @@ So, in short, people do see forests more and more now as multi-species democraci
 
 ## **Democracy and artificial intelligence**
 
-**Olivier:** So we do need to do the forest of humans too, you know, if the threat is authoritarianism and extreme right, we probably need to learn from these, you know, almost invisible communication channels we could raise.
+**Olivier:** **So we do need to do the forest of humans too, you know, if the threat is authoritarianism and extreme right, we probably need to learn from these, you know, almost invisible communication channels we could raise.**
 
 But, anyway, I'd like to open up the discussion on AI, specifically, on whether we can improve deliberation with AI.
 
@@ -200,11 +204,11 @@ Question two, in terms of how to use this AI in the deliberation, I think it's c
 
 ## **Linguistic extinction and democratic imagination**
 
-**Olivier:** Let me just end with a provocation: what if democracy's biggest crisis is not declining participation, but linguistic extinction?
+**Olivier:** **Let me just end with a provocation: what if democracy's biggest crisis is not declining participation, but linguistic extinction?**
 
 **Jean-Paul:** You’ve been reading Michael Saward.
 
-**Olivier:** And yours.
+**Olivier: And yours.**
 
 **Jean-Paul:** Oh, they were just grabbing lines from Mike or different anthropologists. I just like to open it up.
 
