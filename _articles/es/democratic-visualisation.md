@@ -269,3 +269,7 @@ Conozco la obra de Du Bois. Cuando investigaba sobre los fanzines, también exam
 He analizado trabajos en los que faltaban estadísticas o faltaban relatos, y cómo la gente intentaba suplir esa carencia. Saidiya Hartman, por ejemplo, escribe sobre historias negras. Estaba investigando las historias de las mujeres negras de la década de 1920 y no encontró nada más que antecedentes penales en los archivos policiales. Así que intentó llenar esos vacíos.
 
 Me encantaría. Estoy muy abierta a ello.
+
+__
+
+*Esta entrevista forma parte de una serie que contribuye a un artículo de Szilvia Nagy y Olivier Schulbaum en el que se analizan la visualización y la espacialización como prácticas de codiseño, participación y toma de decisiones democrática. El artículo se está elaborando actualmente para el número especial de CoDesign titulado «Diseñando la innovación democrática: el codiseño y el futuro de la participación en la gobernanza».*
