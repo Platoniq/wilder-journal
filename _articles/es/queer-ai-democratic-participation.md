@@ -8,8 +8,8 @@ date: 2026-08-07T10:06:00.000+02:00
 date-updated: 2026-08-07T10:06:00.000+02:00
 article-order: 2
 uid: queer-ai-democratic-participation
-title: "Trazando los espacios entre categorías: sobre la visualización de datos,
-  el conocimiento queer, la participación democrática y la IA"
+title: "Visualización de datos, conocimiento queer, participación democrática y
+  la IA: trazando los espacios entre categorías"
 description: "La obra de Federico (Fe) Simeoni se sitúa en un punto intermedio
   entre el diseño de la información, la cartografía, la investigación crítica y
   la cultura visual queer. En el centro de la misma se encuentra una pregunta
@@ -41,7 +41,7 @@ A lo largo de los años, esta pregunta le ha llevado desde los mapas y la visual
 
 En esta entrevista, hablamos de cómo la visualización puede ayudar a las personas a situarse a sí mismas, de cómo las categorías pueden, al mismo tiempo, limitar y empoderar, de lo que la deliberación democrática podría aprender de las culturas visuales queer, y de por qué, a veces, la IA más interesante no es la que da la respuesta, sino la que complica la pregunta.
 
-### **Empecemos por el principio. ¿Cómo se fue desarrollando tu relación con la visualización de datos y con los datos en general?**
+**Olivier: Empecemos por el principio. ¿Cómo se fue desarrollando tu relación con la visualización de datos y con los datos en general?**
 
 **Fe:** Siempre me ha fascinado la visualización de datos, los mapas y la cartografía. De hecho, desde que era niña. Esa fascinación fue una de las cosas que, al final, me llevó a estudiar la carrera de Bellas Artes.
 
@@ -67,7 +67,7 @@ Y cuando hablaba con la gente, me encontraba con todo tipo de ideas muy confusas
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.38.29.png","alt":"The Gender Diamond and Flower","caption":"The Gender Diamond and Flower","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
 
-### **En esa historia, la visualización casi se convierte en un objeto vivo. Empieza como una forma de comprenderse a uno mismo y luego se convierte en algo que otras personas pueden utilizar. ¿Con qué herramientas trabajas exactamente?**
+**Olivier: En esa historia, la visualización casi se convierte en un objeto vivo. Empieza como una forma de comprenderse a uno mismo y luego se convierte en algo que otras personas pueden utilizar. ¿Con qué herramientas trabajas exactamente?**
 
 Fe: La verdad es que no soy una persona muy manitas ni con habilidades manuales. Soy más bien una criatura digital, así que, técnicamente, trabajo con programación, D3, entornos digitales y visualización interactiva. Obviamente, esas son herramientas. Pero cuando pienso en las herramientas que realmente importan más en mi trabajo, la primera es probablemente la gente.
 
