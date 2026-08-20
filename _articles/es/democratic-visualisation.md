@@ -260,11 +260,9 @@ No todas eran historias de opresión, y eso era importante para mí, porque no q
 
 Así que, sí, creo que eso podría dar pie a algún debate público.
 
-**Olivier: Al aportar historias que no están en el texto, como has mencionado, estás abriendo, o forzando, la creación de un espacio. Eso es muy impresionante. ¿Te acuerdas de las ilustraciones de Du Bois de la exposición internacional?**
+**Olivier: Al aportar historias que no están en el texto, como has mencionado, estás abriendo, o forzando, la creación de un espacio. Eso es que nos interesa especialmente y [lo hemos recogido, por ejemplo, en nuestras investigaciones sobre Exposición Universal de París de 1900 y el trabajo de W.E.B. Du Bois](https://journal.platoniq.net/es/wilder-journal-2/futures/web-dubois-data/). ¿Qué te sugiere su trabajo?** 
 
-**Hayfaa:** ¿Du Bois, el artista gráfico?
-
-Conozco la obra de Du Bois. Cuando investigaba sobre los fanzines, también examiné revistas elaboradas por personas negras —y, en general, por mujeres negras— de la década de 1920, pero no me centré específicamente en las estadísticas.
+**Hayfaa:** ¿Du Bois, el artista gráfico? Conozco la obra de Du Bois. Cuando investigaba sobre los fanzines, también examiné revistas elaboradas por personas negras y, en general, por mujeres negras, de la década de 1920, pero no me centré específicamente en las estadísticas.
 
 He analizado trabajos en los que faltaban estadísticas o faltaban relatos, y cómo la gente intentaba suplir esa carencia. Saidiya Hartman, por ejemplo, escribe sobre historias negras. Estaba investigando las historias de las mujeres negras de la década de 1920 y no encontró nada más que antecedentes penales en los archivos policiales. Así que intentó llenar esos vacíos.
 

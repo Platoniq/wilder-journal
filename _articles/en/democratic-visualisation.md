@@ -256,11 +256,9 @@ They were not all stories of oppression, and that was important for me, because 
 
 So, yeah, I feel that could maybe start some conversation in public.
 
-**Olivier: By bringing in stories that are not in the text, as you mentioned, you are opening up, or forcing, a space to be created. That is very impressive. Do you remember the Du Bois illustrations from the international exhibition?**
+**Olivier: By contributing stories that aren’t in the text, as you mentioned, you’re opening up, or forcing, the creation of a space. That’s what interests us most, and [we’ve explored it, for example, in our research on the 1900 Paris World’s Fair and the work of W.E.B. Du Bois](https://journal.platoniq.net/en/wilder-journal-2/futures/web-dubois-data/). What does his work suggest to you?**
 
-**Hayfaa:** Du Bois, the graphic artist?
-
-I am familiar with Du Bois’s work. When I was looking at zines, I was also looking at magazines by Black people, and generally by Black women in the 1920s, but not statistics specifically.
+**Hayfaa:** Du Bois, the graphic artist? I am familiar with Du Bois’s work. When I was looking at zines, I was also looking at magazines by Black people, and generally by Black women in the 1920s, but not statistics specifically.
 
 I have looked at work where there was a lack of statistics, or a lack of stories, and how people tried to fill that. Saidiya Hartman, for example, writes about Black histories. She was investigating the stories of Black women in the 1920s, and she did not find anything but criminal records in the police archives. So she was trying to fill those gaps.
 
