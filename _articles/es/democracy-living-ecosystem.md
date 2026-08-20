@@ -41,7 +41,7 @@ En esta conversación con **Olivier Schulbaum**, director estratégico de Platon
 
 ## **La democracia como un ecosistema vivo de significados**
 
-**Olivier:** **Hablas de ríos: esos vastos mares de significados en disputa cuando hablamos de qué es exactamente la democracia. Así que empecemos por ahí. Me gustaría llamar a la democracia de mil maneras diferentes. Tú has recopilado 5.000 descripciones o epistemologías de la democracia. ¿En qué momento dejaste de pensar que la democracia era un concepto y empezaste a verla como un ecosistema vivo de significados?**
+**Olivier:** **Dices que cuando hablamos de democracia no sabemos lo que es exactamente porque es una idea que tiene muchos significados en disputa. Así que empecemos por ahí. Tú has recopilado 5.000 descripciones o epistemologías de la democracia. ¿En qué momento dejaste de pensar que la democracia era un concepto y empezaste a verla como un ecosistema vivo de significados?**
 
 **Jean-Paul:** Oh, fue vergonzosamente tarde. Me cuesta mucho pensar en programas de posgrado, en cualquier tradición de estudios sobre la democracia, que ofrezcan un estudio tan abierto y programático que podamos llamar un enfoque lingüístico, un enfoque epistemológicamente incierto o uno que celebra las diferencias ontológicas y, en particular, las difusiones. Pero ya llegaremos a eso.
 

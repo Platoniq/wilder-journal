@@ -38,7 +38,7 @@ In this conversation with **Olivier Schulbaum**, strategic director of Platoniq,
 
 ## **Democracy as a living ecosystem of meanings**
 
-**Olivier:** **You talk about rivers: the vast seas of contested meanings when we talk about what democracy is exactly. So let's start with that block. I would like to call democracy by thousands of names. So you have documented 5,000 of descriptions or epistemologies of democracy. At what point did you stop thinking democracy was a concept and start seeing it as a living ecosystem of meanings?**
+**Olivier:** **You say that when we talk about democracy, we don't know exactly what it is because it's a concept with many disputed meanings. So let's start with that block. You have documented 5,000 of descriptions or epistemologies of democracy. At what point did you stop thinking democracy was a concept and start seeing it as a living ecosystem of meanings?**
 
 **Jean-Paul:** Oh, it was embarrassingly late. I find it very difficult to think of any graduate programs or any tradition of scholarship on democracy that offer such an open and programmatic study that we might call a linguistic approach, an epistemologically uncertain approach, or one that celebrates ontological differences and, in particular, blurring of boundaries. But we’ll get to that.
 
