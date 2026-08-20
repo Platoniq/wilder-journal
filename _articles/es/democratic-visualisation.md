@@ -40,7 +40,7 @@ En esta conversación, exploramos la ilustración como práctica democrática: s
 
 ## **La ilustración como práctica democrática**
 
-### **Me gustaría empezar pidiéndote que te presentes y nos hables de tu relación con el trabajo visual. También me gustaría que comentaras un poco las técnicas que sueles utilizar y, a continuación, tu papel en los estudios visuales o la alfabetización visual. Quizá también, si has trabajado con la visualización de datos en su sentido más clásico, como los gráficos. Sé que parte de tu trabajo guarda cierta relación con eso. Como introducción, me resultaría de gran ayuda.**
+**Olivier: Me gustaría empezar pidiéndote que te presentes y nos hables de tu relación con el trabajo visual. También me gustaría que comentaras un poco las técnicas que sueles utilizar y, a continuación, tu papel en los estudios visuales o la alfabetización visual. Quizá también, si has trabajado con la visualización de datos en su sentido más clásico, como los gráficos. Sé que parte de tu trabajo guarda cierta relación con eso. Como introducción, me resultaría de gran ayuda.**
 
 **Hayfaa:** Sí. Soy ilustradora y también docente. Soy profesora titular y coordinadora de una asignatura llamada «Práctica Crítica» en la UAL, la Universidad de las Artes de Londres.
 
@@ -70,7 +70,7 @@ Así que estos datos me revelaron algo sobre cómo piensa la gente respecto a lo
 
 ## **La visualización de datos como declaración política**
 
-### **En realidad, eso formaba parte de uno de mis bloques, pero vamos a entrar en materia, porque recuerdo que presentaste la serie «Refugees Welcome», ¿verdad? Así que iré directamente al grano. Como has mencionado, el proyecto combina estadísticas —si no recuerdo mal, solicitudes de asilo y opiniones políticas, por un lado, si lo clasificamos así— con ilustraciones íntimas de las experiencias de los refugiados. Mi pregunta sería: ¿qué puede comunicar la ilustración que los datos por sí solos no pueden? ¿Y cuál es el papel de cada uno de estos diferentes prismas?**
+**Olivier: En realidad, eso formaba parte de uno de mis bloques, pero vamos a entrar en materia, porque recuerdo que presentaste la serie «Refugees Welcome», ¿verdad? Así que iré directamente al grano. Como has mencionado, el proyecto combina estadísticas —si no recuerdo mal, solicitudes de asilo y opiniones políticas, por un lado, si lo clasificamos así— con ilustraciones íntimas de las experiencias de los refugiados. Mi pregunta sería: ¿qué puede comunicar la ilustración que los datos por sí solos no pueden? ¿Y cuál es el papel de cada uno de estos diferentes prismas?**
 
 Hayfaa: La visualización hace que los datos sean accesibles, lo cual es muy importante, porque la gente debería poder acceder a los datos para estar informada de lo que está sucediendo en el mundo y, a su vez, poder informar a los demás.
 
@@ -86,11 +86,11 @@ Así que, de nuevo, se trata de cómo humanizamos. ¿Cómo incluimos a las perso
 
 Desde esta perspectiva eurocéntrica, a menudo olvidamos que las personas fuera de Europa o de América del Norte son seres humanos con sentimientos, experiencias, familias, vidas y esperanzas.
 
-### **Hablando de sentimientos y emociones, en muchos debates públicos —dado que el artículo que estamos escribiendo se inscribe en el contexto de una deliberación más amplia, esta ola de asambleas ciudadanas que exponen a la gente a un tema— se depende en gran medida de que los expertos presenten estadísticas. La mayoría son gráficos típicos. Son comprensibles, pero muchos debates públicos separan los hechos de las emociones.**
+**Olivier: Hablando de sentimientos y emociones, en muchos debates públicos, dado que el artículo que estamos escribiendo se inscribe en el contexto de una deliberación más amplia, esta ola de asambleas ciudadanas que exponen a la gente a un tema, se depende en gran medida de que los expertos presenten estadísticas. La mayoría son gráficos típicos. Son comprensibles, pero muchos debates públicos separan los hechos de las emociones.**
 
-En una asamblea ciudadana, se supone que no debes sentir ninguna emoción al mirar los datos. Recuerdo que en tu ilustración redibujaste algunos gráficos típicos, integrando un lenguaje visual más emocional utilizando los propios datos. Esto ofrece otra lectura.
+**En una asamblea ciudadana, se supone que no debes sentir ninguna emoción al mirar los datos. Recuerdo que en tu ilustración redibujaste algunos gráficos típicos, integrando un lenguaje visual más emocional utilizando los propios datos. Esto ofrece otra lectura.**
 
-¿Era uno de tus objetivos crear un lenguaje visual en el que la evidencia y la empatía se reforzaran mutuamente en lugar de competir entre sí?
+**¿Era uno de tus objetivos crear un lenguaje visual en el que la evidencia y la empatía se reforzaran mutuamente en lugar de competir entre sí?**
 
 **Hayfaa:** Sí. Esta pregunta da para mucho.
 
@@ -118,9 +118,9 @@ En este caso, la importancia de aportar empatía a los datos radica en hacer que
 
 ## **La visualización como infraestructura deliberativa**
 
-### **Es muy interesante retomar dos cosas que has mencionado: la idea de permitir que el silencio se visualice. En la mayoría de los procesos deliberativos, las instituciones están obsesionadas con los hechos. Esto se sale un poco del ámbito de la entrevista, pero en las asambleas ciudadanas, por ejemplo, se recurre al sorteo, a la selección aleatoria, que nunca es perfecta porque nunca se llega a las personas más marginadas. En España, si se lleva a cabo cualquier proceso constructivo sobre migración, la mayoría de los migrantes no podrían ser seleccionados al azar porque carecen de documentación. ¿Cómo se expresa ese silencio? Ese es un problema real y un obstáculo para nosotros.**
+**Olivier: Es muy interesante retomar dos cosas que has mencionado: la idea de permitir que el silencio se visualice. En la mayoría de los procesos deliberativos, las instituciones están obsesionadas con los hechos. Esto se sale un poco del ámbito de la entrevista, pero en las asambleas ciudadanas, por ejemplo, se recurre al sorteo, a la selección aleatoria, que nunca es perfecta porque nunca se llega a las personas más marginadas. En España, si se lleva a cabo cualquier proceso constructivo sobre migración, la mayoría de los migrantes no podrían ser seleccionados al azar porque carecen de documentación. ¿Cómo se expresa ese silencio? Ese es un problema real y un obstáculo para nosotros.**
 
-### **Y luego está la imitación del lenguaje de los expertos. Lo que se observa al final del proceso es que las propuestas presentadas por los ciudadanos suelen parecerse mucho a las ponencias de los expertos del principio. No hay espacio para la interpretación ni para el conflicto. Por eso creo que la visualización de datos podría ser muy poderosa. Obligaría a la gente a dejar de hablar o de limitarse a escuchar a los expertos, a sentir e interpretar emocionalmente los datos, y luego se les preguntaría de nuevo qué es lo que no está presente en los datos y debería estarlo en sus recomendaciones. ¿Crees que el lenguaje visual debería aplicarse en la deliberación ciudadana, que normalmente se limita al lenguaje discursivo?**
+**Y luego está la imitación del lenguaje de los expertos. Lo que se observa al final del proceso es que las propuestas presentadas por los ciudadanos suelen parecerse mucho a las ponencias de los expertos del principio. No hay espacio para la interpretación ni para el conflicto. Por eso creo que la visualización de datos podría ser muy poderosa. Obligaría a la gente a dejar de hablar o de limitarse a escuchar a los expertos, a sentir e interpretar emocionalmente los datos, y luego se les preguntaría de nuevo qué es lo que no está presente en los datos y debería estarlo en sus recomendaciones. ¿Crees que el lenguaje visual debería aplicarse en la deliberación ciudadana, que normalmente se limita al lenguaje discursivo?**
 
 **Hayfaa:** Sí, claro. De eso se trata precisamente la colaboración.
 
@@ -138,7 +138,7 @@ Pero entonces el Gobierno se enfrentó a esos muros. Se celebraban unas eleccion
 
 Así que lo que hizo el actual presidente en aquel entonces fue empezar a destruir los muros. Pintarlos también lo habría delatado, porque era durante las elecciones y habría sido demasiado obvio. Así que algunos de los muros fueron demolidos.
 
-### **¿Ni siquiera los pintaron de blanco?**
+**Olivier: ¿Ni siquiera los pintaron de blanco?**
 
 **Hayfaa:** No, porque pintarlos encima lo delataría. Dijo, básicamente: «En realidad, tenemos que reconstruir este lugar. Aquí hay algunos problemas de reconstrucción». Fui a Egipto hace poco y solo quedaban uno o dos murales de los mártires que murieron en aquella época.
 
@@ -148,7 +148,7 @@ Este genocidio se viene produciendo desde 1948, y la opinión pública era difer
 
 ## **Cuerpos, espacio y encarnación**
 
-### **Hablemos sobre los cuerpos, el espacio y la encarnación. Muchas de tus ilustraciones tratan sobre cuerpos, movimientos y relaciones, en lugar de diagramas abstractos. ¿Qué importancia tiene la encarnación en la ilustración política? Y, además, ¿cómo puede la ilustración política ayudar a la gente a deliberar mejor o a los políticos a tomar decisiones?**
+**Olivier: Hablemos sobre los cuerpos, el espacio y la encarnación. Muchas de tus ilustraciones tratan sobre cuerpos, movimientos y relaciones, en lugar de diagramas abstractos. ¿Qué importancia tiene la encarnación en la ilustración política? Y, además, ¿cómo puede la ilustración política ayudar a la gente a deliberar mejor o a los políticos a tomar decisiones?**
 
 **Hayfaa:** Aporta muchas cosas.
 
@@ -168,7 +168,7 @@ Esto es importante como documento histórico y para que podamos construir un arg
 
 {% gallery { "simple": false, "images": [{"path":"/media/modes.webp","alt":"In The Name Of Modesty (illustrated series)","caption":"In The Name Of Modesty (illustrated series)","credits":"Hayfaa Chalabi"}] } %}
 
-### **En tu obra tiendes a no ilustrar acontecimientos aislados. Diría que tu trabajo suele crear paisajes visuales o, por así decirlo, historias espaciales. ¿Diseñas conscientemente tus ilustraciones como espacios para la exploración? ¿Podrías contarnos también un poco más sobre cómo expones tu obra? Si piensas en la verticalidad, la horizontalidad y en si la gente se siente segura para debatir e interpretar, ¿has tenido alguna experiencia en la que hayas mantenido una conversación con el público?**
+**Olivier: En tu obra tiendes a no ilustrar acontecimientos aislados. Diría que tu trabajo suele crear paisajes visuales o, por así decirlo, historias espaciales. ¿Diseñas conscientemente tus ilustraciones como espacios para la exploración? ¿Podrías contarnos también un poco más sobre cómo expones tu obra? Si piensas en la verticalidad, la horizontalidad y en si la gente se siente segura para debatir e interpretar, ¿has tenido alguna experiencia en la que hayas mantenido una conversación con el público?**
 
 **Hayfaa:** Sí, la he tenido. A veces es buena, a veces es mala. Pero creo que eso también es bueno.
 
@@ -190,7 +190,7 @@ Creo que es nuestra responsabilidad como artistas, o como personas que trabajamo
 
 Desentrañar el racismo no es tarea de la persona oprimida por él. Es tarea de quien proviene de una historia que ha permitido que el racismo exista. No puedo ser oprimida por el racismo y que luego me paguen una miseria por limpiarlo. Eso no funciona.
 
-### **Entonces, ¿cómo sería este proceso de análisis? Pensando concretamente en la alfabetización visual como una capacidad democrática para los jóvenes que se ven influidos por mensajes simplistas procedentes de los extremos: ¿cómo se llevaría a cabo este análisis?**
+**Olivier: Entonces, ¿cómo sería este proceso de análisis? Pensando concretamente en la alfabetización visual como una capacidad democrática para los jóvenes que se ven influidos por mensajes simplistas procedentes de los extremos: ¿cómo se llevaría a cabo este análisis?**
 
 **Hayfaa:** Una de las cosas es hacer que los datos visuales sean accesibles. Muchas visualizaciones de datos son tremendamente complejas. Nadie puede interpretarlas. Yo misma, como artista, solo con mirarlas ya me da vértigo.
 
@@ -202,7 +202,7 @@ Pero, además, no solo los jóvenes son racistas.
 
 ## **Los talleres como visualización colectiva**
 
-### **Hablando de esto, ¿cómo pueden los talleres creativos, los talleres presenciales ([como nuestra colaboración en inDICEs](https://indices-culture.eu/dispatches-from-the-indices-bootcamp/)), ayudar a las personas a pasar de ser meros consumidores de imágenes, o de los mensajes que contienen las imágenes, o de mensajes simples, a convertirse en autores de sus propias interpretaciones de las narrativas públicas? ¿Cómo sería eso?**
+**Olivier: Hablando de esto, ¿cómo pueden los talleres creativos, los talleres presenciales ([como nuestra colaboración en inDICEs](https://indices-culture.eu/dispatches-from-the-indices-bootcamp/)), ayudar a las personas a pasar de ser meros consumidores de imágenes, o de los mensajes que contienen las imágenes, o de mensajes simples, a convertirse en autores de sus propias interpretaciones de las narrativas públicas? ¿Cómo sería eso?**
 
 **Hayfaa:** Hay muchísimos factores que influyen en esto. En primer lugar: ¿con qué grupos de personas estamos trabajando, en qué contexto y en qué idioma?
 
@@ -216,7 +216,7 @@ Documenta la historia. Documenta lo que realmente ocurre sobre el terreno, inclu
 
 ¿Cómo podemos ser inclusivos en esa conversación y hacer comprender a la gente que su capacidad de ser testigos y de documentar lo que presencian es la participación humana más importante que podemos aportar a la elaboración de políticas?
 
-### **Yo también tengo esa impresión. Utilizamos muchos fanzines, por ejemplo. Hemos estado trabajando en un proyecto sobre la evolución de la mentalidad con jóvenes menores de 18 años de Mánchester y Barcelona, utilizando el teatro, lo cual es otro ámbito muy interesante. También recurrimos a la idea de visualizar una imagen de opresión sin palabras, lo cual está muy relacionado con la visualización a través del propio cuerpo. Cuando tenemos una recomendación de política dirigida a los responsables políticos —que, técnicamente, les resulta difícil de asimilar—, empezamos a crear fanzines muy visuales. También desarrollamos una especie de tarot para visualizar el futuro de estas recomendaciones en caso de que no se adopten. La «víctima» del tarot era el responsable político que debía asumir el compromiso. ¿Crees que el dibujo y otras formas no discursivas podrían ser un puente hacia la alfabetización en datos? ¿Podría la ilustración convertirse en una puerta de entrada a la alfabetización en datos?**
+**Olivier: Yo también tengo esa impresión. Utilizamos muchos fanzines, por ejemplo. Hemos estado trabajando en un proyecto sobre la evolución de la mentalidad con jóvenes menores de 18 años de Mánchester y Barcelona, utilizando el teatro, lo cual es otro ámbito muy interesante. También recurrimos a la idea de visualizar una imagen de opresión sin palabras, lo cual está muy relacionado con la visualización a través del propio cuerpo. Cuando tenemos una recomendación de política dirigida a los responsables políticos —que, técnicamente, les resulta difícil de asimilar—, empezamos a crear fanzines muy visuales. También desarrollamos una especie de tarot para visualizar el futuro de estas recomendaciones en caso de que no se adopten. La «víctima» del tarot era el responsable político que debía asumir el compromiso. ¿Crees que el dibujo y otras formas no discursivas podrían ser un puente hacia la alfabetización en datos? ¿Podría la ilustración convertirse en una puerta de entrada a la alfabetización en datos?**
 
 **Hayfaa:** Por supuesto. Sobre todo los fanzines. Su historia es rebelde. Se trata de una forma alternativa de revista. Mucha gente cree que los crearon personas queer en Estados Unidos, pero en realidad los crearon antes personas negras. Creo que ya en la década de 1920, las personas negras sentían que nunca se les representaba como personas exitosas, artísticas o sofisticadas. Siempre se les representaba como delincuentes o a través de otros marcos racistas.
 
@@ -226,9 +226,9 @@ Esta forma de visualizar, escribir o dibujar en un fanzine —ver historias más
 
 {% gallery { "simple": false, "images": [{"path":"/media/obs.webp","alt":"Obsessive consumption (illustrated series)","caption":"Obsessive consumption (illustrated series)","credits":"Hayfaa Chalabi"}] } %}
 
-## **Contravisualización**
+## **Visualización subversiva**
 
-### **A veces pienso que tu trabajo, y el de otros artistas más visuales o políticos, consiste en competir con la autoridad de los expertos. Por lo general, cuando los gobiernos, las organizaciones internacionales o incluso las ONG publican informes, su autoridad suele basarse en cifras y gráficos. La ilustración no suele reivindicar ese mismo tipo de autoridad. Entonces, ¿qué tipo de autoridad tiene la ilustración? ¿Es un contrapoder?**
+**Olivier: A veces pienso que tu trabajo, y el de otros artistas más visuales o políticos, consiste en competir con la autoridad de los expertos. Por lo general, cuando los gobiernos, las organizaciones internacionales o incluso las ONG publican informes, su autoridad suele basarse en cifras y gráficos. La ilustración no suele reivindicar ese mismo tipo de autoridad. Entonces, ¿qué tipo de autoridad tiene la ilustración? ¿Es un contrapoder?**
 
 **Hayfaa:** Sí, es un contrapoder, pero también recontextualiza el poder.
 
@@ -242,13 +242,13 @@ Cuando falta ese informe, también se está reforzando una narrativa al ni siqui
 
 Así que a veces voy en contra del informe. A veces rechazo los datos que provienen de las autoridades superiores a mí, o la información que me llega de ellas. Siento que un ilustrador tiene el poder de rechazar, de contrarrestar, de recontextualizar, de reexplorar —todo esto junto—, pero sobre todo de rechazar.
 
-### **¿Has trabajado con otros medios o con artistas en un colectivo, de modo que tus ilustraciones formaran parte de un proyecto más colectivo, como el sonido, el teatro u otras técnicas?**
+**Olivier: ¿Has trabajado con otros medios o con artistas en un colectivo, de modo que tus ilustraciones formaran parte de un proyecto más colectivo, como el sonido, el teatro u otras técnicas?**
 
 **Hayfaa:** Para ser sincera, he trabajado sobre todo con texto. Pero sí, también con murales y cine. He trabajado con cine. También he trabajado con música anteriormente, pero no tanto con otros medios.
 
 No trabajo solo de forma independiente. Colaboro con revistas que tienen unos objetivos, pero con los que estoy de acuerdo. Así que sí trabajo de forma colectiva, pero sobre todo con texto.
 
-### **También he estado echando un vistazo a tus ilustraciones para *The Shadow Map*. ¿Cuál de ellas crees que funcionaría mejor en un espacio de carácter ciudadano, donde la gente, en lugar de escuchar a los expertos y mirar datos, pudiera encontrarse con una de tus ilustraciones como punto de partida para una conversación?**
+**Olivier: También he estado echando un vistazo a tus ilustraciones para *The Shadow Map*. ¿Cuál de ellas crees que funcionaría mejor en un espacio de carácter ciudadano, donde la gente, en lugar de escuchar a los expertos y mirar datos, pudiera encontrarse con una de tus ilustraciones como punto de partida para una conversación?**
 
 **Hayfaa:** Había un artículo sobre una organización que trabaja en el ámbito de la accesibilidad en Palestina. No saqué historias del texto. La ilustración no se basaba en historias del texto. El texto trataba sobre la accesibilidad en general y analizaba lo que eso significa, pero yo elegí diferentes historias que habían ocurrido realmente y que quería visualizar porque no mucha gente había hablado de ellas.
 
@@ -260,7 +260,7 @@ No todas eran historias de opresión, y eso era importante para mí, porque no q
 
 Así que, sí, creo que eso podría dar pie a algún debate público.
 
-### **Sí. Al aportar historias que no están en el texto, como has mencionado, estás abriendo, o forzando, la creación de un espacio. Eso es muy impresionante. ¿Te acuerdas de las ilustraciones de Du Bois de la exposición internacional?**
+**Olivier: Al aportar historias que no están en el texto, como has mencionado, estás abriendo, o forzando, la creación de un espacio. Eso es muy impresionante. ¿Te acuerdas de las ilustraciones de Du Bois de la exposición internacional?**
 
 **Hayfaa:** ¿Du Bois, el artista gráfico?
 
