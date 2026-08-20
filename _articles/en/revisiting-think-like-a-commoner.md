@@ -39,7 +39,7 @@ This interview is particularly valuable because it catches that thinking in moti
 
 {% gallery { "simple": true, "images": [{"path":"/media/think.jpg"}] } %}
 
-**Olivier Schulbaum:** Let's talk about revisiting *Think Like a Commoner*, right? So if someone read the first edition ten years ago and picks up the second edition today, what has fundamentally changed, not only in the world, but in your own thinking?
+**Olivier Schulbaum:** **Let's talk about revisiting *Think Like a Commoner*, right? So if someone read the first edition ten years ago and picks up the second edition today, what has fundamentally changed, not only in the world, but in your own thinking?**
 
 **David Bollier:** It's both. I got an invitation from my editor at New Society Publishers to do a second edition. The first edition came out in 2014. This one came out in 2025. And when I went back and read it, I said, Oh, man, this feels old. This feels dated.
 
@@ -57,7 +57,7 @@ In other words, that's the fraught relationship between commons and the state. I
 
 ## **Commons, State and Capital: An Uneasy Relationship**
 
-**Olivier Schulbaum:** Speaking of which, you mentioned that a little bit. Can we go a bit deeper on the relationship between institutions, markets and the commons? And if some of the cases you identified years ago have been privatized along the way, are there some lessons learned from it? Or, you know, has the relationship between commons, markets, and institutions fundamentally changed, or are we still under the same kinds of forces?
+**Olivier Schulbaum:** **Speaking of which, you mentioned that a little bit. Can we go a bit deeper on the relationship between institutions, markets and the commons? And if some of the cases you identified years ago have been privatized along the way, are there some lessons learned from it? Or, you know, has the relationship between commons, markets, and institutions fundamentally changed, or are we still under the same kinds of forces?**
 
 **David Bollier:** It hasn't fundamentally changed. But let's just say that when Silke and I, and Michel Bauwens, did a deep-dive workshop, I think it was in 2016 or 2017, on state power in the commons in Germany somewhere, it was really an eye-opener for me. It was like, oh, wow, okay—this helps situate my understanding in a deeper way. But, you know, state power is as entrenched as ever, but I think the dysfunctions of its political alliance with capital are becoming clearer and clearer, and the social and ecological disruptions and pains are more obvious. If anything, it has become more urgent to deal with this issue. And in fact, there are some cities that are dealing with commons–public partnerships, as you well know, in Barcelona, which I think has important prototype value at the regional level, not the national level. I think the national state is still too entrenched and driven by ideology and raw political alliances with global capitalism. So, the final thing I'll say, though, is in my understanding of all this, is that we have to acknowledge the deep tension of worldview and ontological commitments that the state and its capitalist partners have versus commoners, and deal with that, as opposed to having some sort of happy, happy sense that we can just have a partnership. And so, I wrote an essay for a book, an anthology that hasn't been published yet, by some Belgian academics about commons–public partnerships and the experimentation there.
 
@@ -69,7 +69,7 @@ So I have a richer sense of state–commons relationships, but we're still a lon
 
 ## **Who owns the digital world?**
 
-**Olivier Schulbaum:** Taking it back to digital commons: before we started the interview, you mentioned why digital social-media commons would be necessary, versus the right wing taking the lead. I know you've discussed that before, but could you frame it for us? How can we deal with it, and what would be the importance of it?
+**Olivier Schulbaum:** **Taking it back to digital commons: before we started the interview, you mentioned why digital social-media commons would be necessary, versus the right wing taking the lead. I know you've discussed that before, but could you frame it for us? How can we deal with it, and what would be the importance of it?**
 
 **David Bollier:** Well, I think that to the extent that you can have social media and other self- and peer-organized digital communities that don't have to be so beholden to the traditional sources of money and capital, that begins to open up a new social space and public dialogue that has more honesty and integrity than the gamified situation we have now, where the oligarchs own the platforms, the oligarchs control the algorithms, the oligarchs control all the big data sets, and they can skew it to serve their political purposes, à la Silicon Valley fascism. So finding a way for people, in the original vision of open source and the internet, to have genuine control over mutually constructed value is, I think, the important thing. Whether the state will assist that is a more difficult question. Which is one reason I see relationalized finance and transvestment as important, because we need to have a certain sovereignty and integrity of vision and practice and operation in these alternative digital commons.
 
@@ -81,7 +81,7 @@ So I guess what I'm saying is this is all in an interregnum space of how we reim
 
 ## **Beyond Sustainability: Regeneration, Value and Transvestment**
 
-**Olivier Schulbaum:** So let's get to the positive side. I'd like to dig into the concept of transvestment, and also how it fits the relational finance and regenerative economies framework, which is basically kind of everywhere, right? And people now talk about regenerative economies more than commons. So if you could define and frame the concept of transvestment a little, I'd also like to use it to ask: how do you distinguish regeneration from sustainability? Is regeneration simply a better environment model or does it imply a different ontology of value?
+**Olivier Schulbaum: So let's get to the positive side. I'd like to dig into the concept of transvestment, and also how it fits the relational finance and regenerative economies framework, which is basically kind of everywhere, right? And people now talk about regenerative economies more than commons. So if you could define and frame the concept of transvestment a little, I'd also like to use it to ask: how do you distinguish regeneration from sustainability? Is regeneration simply a better environment model or does it imply a different ontology of value?**
 
 **David Bollier:** Well, okay, you raised a lot of questions here. I think on the first point, sustainability and all these green words have a diminishing half-life of credibility. And sustainability increasingly became something people saw as a marketing tag with little substance or meaning or structural definition. And so of course people move to regenerativity, which is I think a modest improvement, because at least it starts to acknowledge the dynamic living character of things. But in terms of what it actually means for something to be regenerative, it's kind of an empty vessel without much meaning.
 
@@ -99,7 +99,7 @@ And this doesn't mean we can't, as human beings, benefit from some of what natur
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-08-19-a-las-19.13.33.png"}] } %}
 
-**Olivier Schulbaum:** Could you give a practical example where transvestment becomes clear and easy to apply to specific commons?
+**Olivier Schulbaum:** **Could you give a practical example where transvestment becomes clear and easy to apply to specific commons?**
 
 **David Bollier:** Well, I think that... I think we see that right now in certain ways, but it's just not named transvestment. You see institutional philanthropy helping certain ecosystems. Is that an investment? Is that do-gooding for volunteerism or something? I don't think they have a theory of value that properly understands what they're doing when they give money to ecosystem restoration or rejuvenation.
 
@@ -111,7 +111,7 @@ And I think that's the problem. The problems are in our heads—in how we think 
 
 ## **From bioregionalism to the parallel polis**
 
-**Olivier Schulbaum:** You haven't mentioned the bioregional dimension or lens. Could you elaborate on that as well?
+**Olivier Schulbaum:** **You haven't mentioned the bioregional dimension or lens. Could you elaborate on that as well?**
 
 **David Bollier:** Yes, I mean, I've recently, along with many other people, gotten more interested in bioregionalism as a frame for talking about all this, because it first of all deals with these ecological realities in our human relationships with nature and its vast diversity, and situates us within nature, as opposed to separate from nature, which I think is a profound, important need that modern humans and capitalism just don't want to admit or acknowledge. So I think bioregionalism helps us get there. And it is compatible with all the things I've just been talking about as well. So I see a need to reconceptualize human activity within a bioregional framing with all the ontological shifts that that requires.
 
@@ -123,7 +123,7 @@ I explained some of these things in my December 2025 paper with Natasha Hulst ab
 
 Existing examples may or may not have the self-awareness that they have the capacity to move in different directions with different vocabularies to describe what they're doing.
 
-**Olivier Schulbaum:** For example, it's pretty clear how bioregionalism on the land could apply to land and food. That's pretty clear. Even talking about cooperatives. How can bioregionalism inform digital infrastructures?
+**Olivier Schulbaum:** **For example, it's pretty clear how bioregionalism on the land could apply to land and food. That's pretty clear. Even talking about cooperatives. How can bioregionalism inform digital infrastructures?**
 
 **David Bollier:** Digital infrastructures can go many ways. I think that's entirely important because we need to make commoning less heroic, less aberrational, and easier. And I think that digital infrastructures, for one, could help with governance. It could help with commercial exchange. But given that we are dealing with existing political jurisdictions that are very jealous of their power and don't want to surrender it, and they're very tightly allied with existing capitalist-driven businesses, I think that a lot of this is going to have to incubate as a parallel economy that has its own sovereignty and integrity within the larger system.
 
@@ -131,7 +131,7 @@ And so, for example, I know people, for example, in the US, who are starting to 
 
 And of course, they'll try to co-opt it—
 
-**Olivier Schulbaum:** —and shake my foundation as an institution.
+**Olivier Schulbaum:** **—and shake my foundation as an institution.**
 
 **David Bollier:** Yes, exactly. But I don't see any other way to make the transition because the state needs an external jolt and competition, you might say, or at least developing these things has to take place in a safe space where they're not threatened and there's room for experimentation, which the state and its policies will never be able to allow. And capitalism has such a short-term investment horizon, they're not going to do it.
 
@@ -141,7 +141,7 @@ And you bravely do what you feel you have to do and hope for the openings in his
 
 ## **Legal hacks: protecting the commons from power**
 
-**Olivier Schulbaum:** Maybe let's open up a very small parenthesis, which is also an obsession of mine. You've talked about the power relationship between commons projects or commons movements and state power, right? And my favorite participation scheme is litigation against governments. So, do you know any specific case that has to do with protection or defense of a commons versus the state's exploitation of it? Is there any litigation case or movement that would have stopped some kind of privatization or a specific law on managing assets in the city? Do you have any?
+**Olivier Schulbaum:** **Maybe let's open up a very small parenthesis, which is also an obsession of mine. You've talked about the power relationship between commons projects or commons movements and state power, right? And my favorite participation scheme is litigation against governments. So, do you know any specific case that has to do with protection or defense of a commons versus the state's exploitation of it? Is there any litigation case or movement that would have stopped some kind of privatization or a specific law on managing assets in the city? Do you have any?**
 
 **David Bollier:** No, but you're pointing to the generic problem, which is the state's sense of the commons as a moral and political rival. Commoners need protection; that's why legal hacks are so important to try to defend the commons using the prevailing terms of the existing system. But for example, that's what the Creative Commons licenses were all about, and the licenses for free and open-source software. But it's also what the rights of nature legal hacks are all about, to try to pursue Indigenous people's ends within the legal infrastructure of Western modernity. And, you know, people correctly point out that it's not pure enough, it's not true enough to the meaning of rights of nature. And yet, we don't have a choice really, because the state holds too many cards.
 
@@ -151,7 +151,7 @@ Having said that, these legal workarounds allow you to amass a cohort of people 
 
 ## **Can AI be a commoner?**
 
-**Olivier Schulbaum:** So, I won't go into extraction and all these minerals feeding the AI industry and so on. But my question is, if AI potentially and dramatically reduces the cost of coordination, does it, or could it, somehow strengthen commoning or common movements, or could it quietly replace, or become a clear threat to the social relationships that make commons possible?
+**Olivier Schulbaum:** **So, I won't go into extraction and all these minerals feeding the AI industry and so on. But my question is, if AI potentially and dramatically reduces the cost of coordination, does it, or could it, somehow strengthen commoning or common movements, or could it quietly replace, or become a clear threat to the social relationships that make commons possible?**
 
 **David Bollier:** So, it's definitely a risk. I think right now, we really don't know because AI has not been released into the field sufficiently with sufficient autonomy for its participants. I think it's conceivable that it could serve that function. But I think that there are so many pitfalls. The AI privileges cognitive knowledge and backward-looking knowledge as opposed to forward-looking creativity and human judgment and context. You know, it's like a very arcane type of knowledge that we're privileging versus something more humanistic, relational, meaningful.
 
@@ -161,16 +161,16 @@ And so that's just the first threshold. We don't even get into the operational d
 
 And indeed, it's an imperative if all that huge investment is ever going to be recovered and not just have a super economic crash. So, I just am reluctant to invest myself personally or economically, certainly, in something that seems so problematic as the titans of AI themselves imagine. You know, half of them are saying it could destroy humanity. So, I was like, whoa. Could we just slow down and have a little more deliberate, thoughtful reflection on how we might want to deploy this technology and who it's going to serve as opposed to some marketing-push service that warps our humanity in ways we haven't begun to fathom? So, big topic. Big topic, with no answers, but nevertheless...
 
-**Olivier Schulbaum:** I think AI right now could be good at taking over some of the less exciting moments: deciding the rules, or adapting or personalizing the governance rules for a commons. It could very quickly propose something that we could agree with without long discussions. It's an example.
+**Olivier Schulbaum:** **I think AI right now could be good at taking over some of the less exciting moments: deciding the rules, or adapting or personalizing the governance rules for a commons. It could very quickly propose something that we could agree with without long discussions. It's an example.**
 
 **David Bollier:** I think the principles of commoning are very much needed to try to start a different kind of conversation about AI as opposed to just getting into the grooves of existing institutions and businesses. But, you know, it's the vastness of it and the fast-changing character of it that makes that almost impossible, it seems, especially at a popular level. Perhaps a handful of, you know, 50 or 100 people could have sufficient expertise to have these discussions, but whoa.
 
-**Olivier Schulbaum:** Yeah, smaller experiments can be useful. Anyway, next time I'll share with you some of the experience we're having creating, you know, multiple agents. We're thinking about the collective views of an AI agent that could also help us deliver it a bit better. But there are lots of reports on failures and adapting Habermas to a Habermas machine that really oblige us to think only about consensus and don't allow us to, you know, basically activate our query, really, because we dissent or we don't really fully agree on some decision that should be made. So we're working on a small experiment that we'll share that with you later.
+**Olivier Schulbaum:** **Yeah, smaller experiments can be useful. Anyway, next time I'll share with you some of the experience we're having creating, you know, multiple agents. We're thinking about the collective views of an AI agent that could also help us deliver it a bit better. But there are lots of reports on failures and adapting Habermas to a Habermas machine that really oblige us to think only about consensus and don't allow us to, you know, basically activate our query, really, because we dissent or we don't really fully agree on some decision that should be made. So we're working on a small experiment that we'll share that with you later.**
 
 **David Bollier:** Well, any little beachheads of understanding on an experimental basis are valuable, especially coming from a different perspective. So I'm eager to learn more about yours.
 
-**Olivier Schulbaum:** Basically, we're also doing a kind of study. So we use the official kind of AI from industry and we're building our own AI agents, which is basically set up on my TV set. And the biggest difference is that if you ask both of them, “What is democracy?”, the one on my TV set takes something like five minutes to answer, anyway. But we basically started from scratch with the whole curation of the, you know, knowledge feeding and we started with a philosopher agent.
+**Olivier Schulbaum:** **Basically, we're also doing a kind of study. So we use the official kind of AI from industry and we're building our own AI agents, which is basically set up on my TV set. And the biggest difference is that if you ask both of them, “What is democracy?”, the one on my TV set takes something like five minutes to answer, anyway. But we basically started from scratch with the whole curation of the, you know, knowledge feeding and we started with a philosopher agent.**
 
-So we have a legislative theater agent and we have a deliberative agent representing something more like, you know, a classical institutional deliberation agent, but we also have the philosopher, and we're basically using a set from my colleague Christian, which consists only of non-digitized books and, you know, handwritten manuscripts by philosophers that he has been collecting for the last 25 years. And this is basically the first body of knowledge we're providing to the small AI engine.
+**So we have a legislative theater agent and we have a deliberative agent representing something more like, you know, a classical institutional deliberation agent, but we also have the philosopher, and we're basically using a set from my colleague Christian, which consists only of non-digitized books and, you know, handwritten manuscripts by philosophers that he has been collecting for the last 25 years. And this is basically the first body of knowledge we're providing to the small AI engine.**
 
-So it's just an experiment, but it's a, you know, small: small is beautiful.
+**So it's just an experiment, but it's a, you know, small: small is beautiful.**
