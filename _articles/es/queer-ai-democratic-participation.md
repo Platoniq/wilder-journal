@@ -41,6 +41,8 @@ A lo largo de los años, esta pregunta le ha llevado desde los mapas y la visual
 
 En esta entrevista, hablamos de cómo la visualización puede ayudar a las personas a situarse a sí mismas, de cómo las categorías pueden, al mismo tiempo, limitar y empoderar, de lo que la deliberación democrática podría aprender de las culturas visuales queer, y de por qué, a veces, la IA más interesante no es la que da la respuesta, sino la que complica la pregunta.
 
+## **Visualizar la complejidad**
+
 **Olivier: Empecemos por el principio. ¿Cómo se fue desarrollando tu relación con la visualización de datos y con los datos en general?**
 
 **Fe:** Siempre me ha fascinado la visualización de datos, los mapas y la cartografía. De hecho, desde que era niña. Esa fascinación fue una de las cosas que, al final, me llevó a estudiar la carrera de Bellas Artes.
@@ -66,6 +68,8 @@ A veces digo que, literalmente, me estaba haciendo psicoterapia a mí mismo a tr
 Y cuando hablaba con la gente, me encontraba con todo tipo de ideas muy confusas, a veces contradictorias, sobre el género. Por supuesto que el género es confuso. El género es complejo. Eso es cierto. Pero si también existe la necesidad de crear algún tipo de entendimiento común, entonces hay que preguntarse: ¿cómo lo hacemos sin fingir que esa complejidad desaparece? Eso se convirtió en mi obsesión durante el máster y, finalmente, se convirtió en mi tesis.
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.38.29.png","alt":"The Gender Diamond and Flower","caption":"The Gender Diamond and Flower","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
+## **La visualización como interfaz para la conversación**
 
 **Olivier: En esa historia, la visualización casi se convierte en un objeto vivo. Empieza como una forma de comprenderse a uno mismo y luego se convierte en algo que otras personas pueden utilizar. ¿Con qué herramientas trabajas exactamente?**
 
@@ -105,6 +109,8 @@ Allí existe un debate muy intenso sobre si se es italoparlante o germanoparlant
 
 Y también hay situaciones burocráticas terribles. Quizás tengas tu título en alemán y, por eso, no puedas hacer algo dentro de la parte italiana del sistema, o viceversa. Así que lo que parece ser una categoría estable empieza a volverse inestable en cuanto escuchas realmente a la gente.
 
+## **Del conocimiento situado a la participación democrática**
+
 **Olivier: La mayor parte de ese desarrollo se llevó a cabo a través de entrevistas individuales. ¿También has utilizado estas visualizaciones de forma colectiva?**
 
 Fe: Cuando desarrollo las herramientas en sí, suelo preferir las entrevistas individuales. Tienes más control sobre la conversación, puedes seguir realmente la perspectiva de una sola persona y, gracias a la transcripción, puedes entender con mayor claridad por qué alguien reacciona de una manera concreta.
@@ -134,6 +140,8 @@ Fe: Sí, eso me parece mucho más lógico. Yo no pediría a la asamblea que crea
 La gente podría utilizarlo para debatir posibles formas de discriminación, situando sesgos de información, experiencias o problemas en el diamante. El modelo ya estaría ahí, pero el significado que surgiera en torno a él seguiría abierto.
 
 Y, sobre todo, cuando se empieza a hablar de algo como la democracia europea, la complejidad está presente desde el principio. El objetivo del diamante es, en parte, reconocer la coexistencia de opuestos, pero también dar cabida a aquellas personas que, sencillamente, no se identifican con los grupos mayoritarios dominantes que ostentan el poder. Se necesita algún tipo de marco que permita que esos matices existan.
+
+## **Categorías queer**
 
 **Olivier: Esto se relaciona directamente con la interseccionalidad. A menudo decimos que los procesos deliberativos deberían ser interseccionales, pero en cuanto se llega a la recopilación de datos o al diseño institucional propiamente dicho, la cosa se complica mucho más.**
 
@@ -180,6 +188,8 @@ Si la utilizamos para poner de manifiesto los sesgos de género en la inteligenc
 Si se utiliza para investigar el acoso escolar, quizá vuelva a resultar interesante. La dimensión política depende por completo del contexto en el que se utilice la visualización.
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.43.26.png","alt":"Example list of sex/gender identities","caption":"Example list of sex/gender identities","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
+## **Cartografiar los espacios entre posiciones**
 
 **Olivier: Una cosa que me parece especialmente interesante es que tu modelo se aleja de dos bandos opuestos.**
 
@@ -246,6 +256,8 @@ Pero cuando se habla de mezclar o desestabilizar las categorías de género, sob
 Y, por supuesto, no siempre me encuentro con esas respuestas de forma directa porque yo también vivo en mi propia burbuja. Si presento la obra en público, es posible que alguien que la rechace por completo no se acerque a mí para explicarme su postura.
 
 Pero también he tenido la experiencia contraria muchas veces. La gente se me acerca después de ver el diamante y me dice: *«Dios mío, mi hijo está pasando por algo así. Tengo que enseñárselo».* Así que la visualización también puede convertirse en un puente.
+
+## **IA, visibilidad y el derecho a no ser clasificado**
 
 **Olivier: Pasemos a la IA. La mayoría de los sistemas de IA clasifican a las personas antes de comprenderlas. Tú has trabajado en el sesgo y la clasificación de identidades. ¿Qué haría de forma diferente una IA queer? ¿Rechazaría la clasificación?**
 

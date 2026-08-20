@@ -37,6 +37,8 @@ Over the years, this question has led him from maps and geopolitical visualisati
 
 In this interview, we talk about how visualisation can help people locate themselves, how categories can simultaneously constrain and empower, what democratic deliberation might learn from queer visual cultures, and why sometimes the most interesting AI is not the one that provides the answer, but the one that makes the question more difficult.
 
+## **Visualising complexity**
+
 **Olivier: Let’s start from the beginning. How did you develop this relationship with data visualisation and data more broadly?**
 
 **Fe:** I’ve always been fascinated by data visualisation, maps and cartography. Really since I was a child. That fascination was one of the things that eventually pushed me towards art school for my bachelor’s.
@@ -62,6 +64,8 @@ I sometimes say that I was literally doing psychotherapy on myself through infor
 And when I spoke with people, I encountered all these very messy, sometimes contradictory ideas about gender. Of course gender is messy. Gender is complex. That’s true. But if there is also a need to create some sort of shared understanding, then you have to ask: how do we do that without pretending that the complexity disappears? That became my obsession during my master’s, and eventually it became the thesis.
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.38.29.png","alt":"The Gender Diamond and Flower","caption":"The Gender Diamond and Flower","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
+## The visualisation as a conversational interface
 
 **Olivier: In that story, the visualisation almost becomes a living object. It begins as a way of understanding yourself and then develops into something that other people can use. What tools do you actually work with?**
 
@@ -101,6 +105,8 @@ There, you have this very strong conversation around being an Italian speaker or
 
 And there are also horrible bureaucratic situations. Perhaps your degree is in German and, because of that, you cannot do something within the Italian part of the system, or vice versa. So what appears to be a stable category starts to become unstable once you actually listen to people.
 
+## **From situated knowledge to democratic participation**
+
 **Olivier: Most of that development happened through one-to-one interviews. Have you also used these visualisations collectively?**
 
 **Fe:**When I’m developing the tools themselves, I tend to prefer one-to-one interviews. You have more control over the conversation, you can really follow one person’s perspective, and with the transcription you can understand more clearly why somebody is reacting in a particular way. 
@@ -132,6 +138,8 @@ People could use it to discuss possible forms of discrimination, placing informa
 And especially when you start talking about something like European democracy, complexity is there from the beginning. The point of the diamond is partly to acknowledge the coexistence of opposites, but also to make space for people who simply do not relate to the dominant majority groups that hold the power.
 
 You need some kind of framework that allows those nuances to exist.
+
+## **Queering categories**
 
 **Olivier: This connects directly to intersectionality. We often say that deliberative processes should be intersectional, but once you reach data collection or actual institutional design, it becomes much more difficult.**
 
@@ -178,6 +186,8 @@ If we use it to expose gender biases in artificial intelligence, I think that ca
 If it is used to research bullying in schools, perhaps it becomes interesting again. The politics depends entirely on the context in which the visualisation is used.
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-08-07-a-las-10.43.26.png","alt":"Example list of sex/gender identities","caption":"Example list of sex/gender identities","credits":"Simeoni, Fe et al. (2024), Qerying the Qantification of the Qeer: Data-Driven Visualisations of the Gender Spectrum"}] } %}
+
+## **Mapping the spaces between positions**
 
 **Olivier: One thing I find particularly interesting is that your model moves away from two opposing camps.**
 
@@ -244,6 +254,8 @@ But when you talk about mixing or destabilising gender categories, especially wh
 And of course, I don’t always encounter those responses directly because I also live in my own bubble. If I present the work publicly, somebody who completely rejects it may not come to me and explain their position.
 
 But I have also had the opposite experience many times. People come to me after seeing the diamond and say: *Oh my God, my son is going through something like this. I need to show this to him.* So the visualisation can also become a bridge.
+
+## **AI, visibility and the right not to be classified**
 
 **Olivier: Let’s move into AI. Most AI systems classify people before they understand them. You have worked on bias and identity classification. What would a queer AI do differently? Would it refuse classification?**
 
