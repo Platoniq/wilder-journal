@@ -9,7 +9,7 @@ date-updated: 2026-08-07T10:06:00.000+02:00
 article-order: 2
 uid: queer-ai-democratic-participation
 title: "On data visualisation, queer knowledge, democratic participation and AI:
-  mapping the spaces between categories: o"
+  mapping the spaces between categories"
 description: "Federico (Fe) Simeoni’s work sits somewhere between information
   design, cartography, critical research and queer visual culture. At the centre
   of it is a deceptively simple question: what happens when the categories we
