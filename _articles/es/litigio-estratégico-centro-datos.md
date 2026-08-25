@@ -129,4 +129,10 @@ A esta combinación la podemos llamar **deliberación estratégica**: intervenir
 
 Aragón podría convertirse en un laboratorio especialmente relevante para probar este modelo. El litigio contra la ampliación de AWS ya está haciendo visible aquello que los procedimientos ordinarios no consiguieron resolver: la necesidad de información, de evaluación acumulativa y de una discusión pública sobre los límites de la infraestructura. La siguiente pregunta es si necesitamos esperar al próximo litigio para mantener esa conversación.
 
-**El pleito puede detener, revisar o corregir una decisión. La deliberación puede intervenir antes, cuando todavía es posible elegir entre futuros distintos. Una democracia capaz de gobernar la expansión de la inteligencia artificial probablemente necesite ambas cosas.**
+El pleito puede detener, revisar o corregir una decisión. La deliberación puede intervenir antes, cuando todavía es posible elegir entre futuros distintos. Una democracia capaz de gobernar la expansión de la inteligencia artificial probablemente necesite ambas cosas.
+
+## **¿Y, qué hacemos?**
+
+**¿Podría Aragón convertirse en el lugar donde ensayar otra forma de decidir sobre las infraestructuras de la IA?**
+
+Desde Platoniq queremos seguir explorando cómo combinar deliberación ciudadana, acceso público a los datos y mecanismos de accountability en decisiones sobre infraestructuras digitales. Si estás trabajando desde comunidades afectadas, administraciones, investigación, organizaciones ambientales o gobernanza tecnológica, nos interesa conocer qué herramientas y experiencias podrían formar parte de este modelo.
