@@ -7,6 +7,16 @@ date: 2026-08-25T14:33:00.000+02:00
 date-updated: 2026-08-25T14:33:00.000+02:00
 article-order: 2
 uid: litigio-estratégico-centro-datos
+title: "Del litigio estratégico a la deliberación ciudadana. La disputa por el
+  control democrático de los centros de datosFrom Strategic Litigation to
+  Citizen Deliberation: The Struggle for Democratic Control of Data Centers"
+description: Hay infraestructuras que nacen envueltas en una promesa. Los
+  centros de datos y las nuevas gigafactorías de IA son de estas. Some
+  infrastructure projects are born with a promise attached to them. Data centers
+  and the new AI gigafactories are among them.
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-13-a-las-11.36.05.png
