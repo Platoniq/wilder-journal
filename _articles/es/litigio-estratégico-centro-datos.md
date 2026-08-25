@@ -7,8 +7,8 @@ date: 2026-08-25T14:33:00.000+02:00
 date-updated: 2026-08-25T14:33:00.000+02:00
 article-order: 2
 uid: litigio-estratégico-centro-datos
-title: Centros de datos, litigios estratégicos y la importancia de la
-  participación ciudadana
+title: Del litigio estratégico a la deliberación ciudadana. La disputa por el
+  control democrático de los centros de datos
 description: "Hay infraestructuras que nacen envueltas en una promesa. Los
   centros de datos y las nuevas gigafactorías de IA son de estas. "
 author: Cristian Palazzi
