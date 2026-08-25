@@ -3,8 +3,8 @@ layout: article
 volume-uid: wilder-journal-2
 category: deep-dives
 published: true
-date: 2026-07-13T10:57:00.000+02:00
-date-updated: 2026-07-13T10:57:00.000+02:00
+date: 2026-08-25T14:33:00.000+02:00
+date-updated: 2026-08-25T14:33:00.000+02:00
 article-order: 2
 uid: litigio-estratégico-centro-datos
 title: Centros de datos, litigios estratégicos y la importancia de la
