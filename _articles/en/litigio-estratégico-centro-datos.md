@@ -82,12 +82,9 @@ That is why the conflict in Aragon cannot be understood solely as local oppositi
 
 ## **Strategic Litigation as a Tool for Citizens**
 
-
 In fact, in various countries, environmental organizations, local communities, and public-interest groups are turning to the courts to challenge a permitting model that tends to evaluate each data center as a standalone facility, even though its impacts depend on much broader systems: power grids, power plants, substations, cooling systems, and shared water resources.
 
-
 These lawsuits are not necessarily directed against all digital infrastructure. What they challenge is **how decisions are made, what information is used, and on what scale their impacts are assessed**. The various cases highlight at least four key lessons:
-
 
 **1) The importance of taking action before impacts become irreversible.** In Rovaltain, France, the Grenoble Administrative Court suspended in July 2026 the construction permit for a large-scale artificial intelligence data center proposed by Sesterce in Alixan. The judge found serious doubts regarding the legality of the authorization, particularly due to the absence of an environmental impact study and potential urban planning conflicts. The significance of the case lies not only in the suspension of the project, but also in the timing of the decision: judicial review intervenes before construction creates a situation that would be difficult to reverse.
 
@@ -97,15 +94,17 @@ These lawsuits are not necessarily directed against all digital infrastructure. 
 
 **4) Declaring infrastructure to be strategic does not eliminate the obligation to justify its impacts.** In Iver, Buckinghamshire, the organizations Foxglove and Global Action Plan filed a judicial review challenging the approval of a hyperscale data center covering approximately 72,000 square meters. The British government had approved the project despite local opposition and without requiring a full environmental assessment. In 2026, the government itself acknowledged a serious error in its reasoning and agreed that the permit should be revoked. The case challenges an increasingly common premise: that the strategic or critical nature of digital infrastructure can be used to undermine the environmental or democratic safeguards that accompany its authorization.
 
-Taken together, these lawsuits do more than just attempt to halt specific projects. **They broaden the scope of what must be considered politically relevant before authorizing digital infrastructure.** They require an assessment of cumulative impacts, the incorporation of drought and climate change scenarios, the linking of data centers to the energy infrastructure that supports them, and the scrutiny of declarations of public interest used to justify expedited or exceptional procedures.
+**5) When numerous projects are concentrated in the same area, public opposition can force a shift from debating individual facilities to questioning the regional strategy as a whole.** In Scotland, strong opposition to new data centers—with around 1,600 objections to the Auchtertool project in Fife alone—has led the government to strengthen oversight of facilities exceeding 50 MW and has even sparked debate over a possible temporary moratorium. This case shows that properly evaluating each project individually may not be enough: when the accumulation of such projects transforms the use of water, energy, and land, the question becomes whether a region wants to become a major data processing hub, under what conditions, and with what democratically agreed-upon limits.
 
-In this sense, strategic litigation transforms a seemingly technical authorization into a public discussion about **who can use certain resources, under what conditions, and who bears the territorial costs of those decisions**.
+Taken together, these cases do more than just call specific projects into question. **They broaden the scope of what must be considered politically relevant before authorizing digital infrastructure.** They highlight the need to intervene before impacts become irreversible; to evaluate each project within its climate and territorial context; to prevent fragmentation between data centers and the energy infrastructure that supports them; to subject declarations of strategic interest to scrutiny; and, when projects accumulate in a single territory, to initiate a preliminary discussion about the development model that such concentration is producing.
+
+In this sense, the conflict is no longer solely environmental or urban planning-related. It forces us to ask a more fundamental question: **Who decides that a territory should become a strategic hub for digital infrastructure, and through what democratic process are its boundaries established?**
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-07-13-a-las-12.14.54.png"}] } %}
 
 The case in Aragon clearly illustrates this reactive logic. The first legal action against the AWS expansion required raising 15,000 euros in three months under the slogan “Stop Amazon, Defend Aragon” to cover the costs of the proceedings. Such mobilization can partially level the playing field in court, but it does not resolve the underlying democratic deficit: **Why was it necessary to go to court to discuss issues that could have been raised before the expansion was authorized?**
 
-Strategic litigation can correct abuses, demand transparency, and halt decisions when ordinary mechanisms fail. But it cannot replace a space where society can discuss in advance what infrastructure it needs, what limits should be imposed, and what costs it considers acceptable. The challenge, therefore, is not to choose between litigation and participation, but to connect the oversight capacity offered by the former with deliberative mechanisms capable of intervening before alternatives have disappeared.
+Strategic litigation can correct abuses, demand transparency, and halt decisions when ordinary mechanisms fail. But it cannot replace a space where society can discuss in advance what infrastructure it needs, what limits should be imposed, and what costs it considers acceptable. The challenge, therefore, is not to choose between litigation and participation, but **to connect the oversight capacity offered by the former with deliberative mechanisms capable of intervening before alternatives have disappeared.**
 
 ## **Story of Now: From Reactive Litigation to Strategic Deliberation**
 
@@ -128,6 +127,7 @@ The outcome of the mini-public forum would also need to be formally incorporated
 The project would not end with the approval. Data on actual water and energy consumption, compliance with commitments, jobs created, and territorial impacts should remain public and subject to review. A citizen-led or independent body could conduct periodic monitoring and initiate new reviews when conditions change significantly. In this way, public participation would no longer be a one-time event but would become an integral part of the infrastructure’s governance throughout its entire life cycle.
 
 {% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2022-05-26-a-las-16.58.28.webp","credits":"Asamblea Ciudadana para el Clima (2022)","alt":"Momento de la votación","caption":"Momento de la votación"}] } %}
+
 We can call this combination **strategic deliberation**: intervening precisely where alternatives still exist and linking that deliberation to mechanisms capable of producing institutional consequences. It is not a matter of adding participation to a project that has already been decided, but rather of incorporating democratic capacity at the very moments when it is determined what infrastructure will be built, what resources it may use, and what obligations it must assume.
 
 Aragón could become a particularly relevant testing ground for this model. The lawsuit against the AWS expansion is already bringing to light what ordinary procedures failed to resolve: the need for information, cumulative assessment, and a public discussion about the limits of infrastructure. The next question is whether we need to wait for the next lawsuit to have that conversation.
