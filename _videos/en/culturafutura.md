@@ -2,6 +2,7 @@
 published: true
 uid: cultura-futura
 title: "#CulturaFutura: creativity and democracy"
+category: futures
 description: We are pleased to present the second volume of the Wilder Journal,
   a special edition dedicated to creative participatory methodologies, with a
   particular focus on Legislative Theatre as a process for the collective

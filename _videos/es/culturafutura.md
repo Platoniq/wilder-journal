@@ -2,6 +2,7 @@
 published: true
 uid: cultura-futura
 title: "#CulturaFutura: creatividad y democracia"
+category: futures
 description: Presentamos el segundo volumen del Wilder Journal, una edición
   especial dedicada a las metodologías creativas de participación, muy
   especialmente al Teatro Legislativo como proceso de creación colectiva de
