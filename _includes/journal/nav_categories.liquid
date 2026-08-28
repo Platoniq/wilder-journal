@@ -1,6 +1,7 @@
 {% comment %}
   Site-level override of the theme's vertical category menu.
-  Identical to the theme version, plus a "Vídeos" entry after the categories so
+  Identical to the theme version, plus two things: unlabelled categories are
+  skipped, and a "Vídeos" entry is appended after the categories so
   videos appear as their own section next to Stories/Interviews/etc. in every
   volume. Videos are shared across all volumes (same content), so the entry
   links to the global Videos page rather than a per-volume view.
@@ -10,7 +11,15 @@
   <ul>
   {% assign volume_archives = site.archives | where: "locale", page.locale | where: "volume-uid", current_volume.uid | sort: "order" %}
   {% for archive in volume_archives %}
-    {% assign t_category_name = site.data.i18n[page.locale].categories[archive.category] %}
+    {% assign t_category_name = site.data.i18n[page.locale].categories[archive.category] | strip %}
+
+    {% comment %}
+      Volume 1 carries "blueprints" and "reports" archives that have no entry in the
+      theme's categories.yml, so they rendered as blank clickable items above Futuros
+      — a visible gap in the strip on volume 1 only. Skip anything with no label
+      rather than invent category names; add them to categories.yml to bring back.
+    {% endcomment %}
+    {% if t_category_name == "" %}{% continue %}{% endif %}
 
     <li>
       <a href="{{ archive.url  | relative_url }}" class="{% if page.category == archive.category %}select{% endif %}">
