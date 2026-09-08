@@ -38,7 +38,7 @@ Let's kill a myth that keeps getting resurrected at every crypto conference, eve
 
 It sounds hard. Inevitable. Clean. Deploy the smart contract, walk away, let the protocol enforce itself while humans go back to bed. No committees. No politics. No mess. It's the governance equivalent of a Roomba: buy it once, never think about the floor again. Except the floor is a treasury, and the Roomba occasionally votes itself a raise.
 
-It's also a trap, and DWeb Camp is exactly the place to say so out loud. I spent my two sessions there watching people discover, in real time, that governance refuses to stay automated, no matter how earnestly the pitch deck insists otherwise.
+It's also a trap, and DWeb Camp is exactly the place to say so out loud. I spent my two sessions there watching that governance refuses to stay automated.
 
 ## **What "Reaching Home Base" Actually Feels Like**
 

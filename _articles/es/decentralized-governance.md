@@ -35,13 +35,11 @@ image:
 
 {% questions { "items": [{"question":"¿Me escucharán?"},{"question":" ¿Estaré a salvo?"},{"question":" ¿Podré conservar mi casa?"},{"question":"¿Sobrevivirá nuestro movimiento?"}] } %}
 
-
-
 ## **Un manifiesto sobre gobernanza descentralizada, escrito después de DWeb Camp***
 
 Vamos a matar un mito que resucita en cada conferencia cripto, cada Discord de DAO, cada whitepaper que promete sacar por fin la política de la política: **el código es ley.**
 
-Suena sólido e inevitable. Limpio. Despliegas el contrato inteligente y te vas, dejas que el protocolo se aplique solo mientras los humanos vuelven a la cama. Sin comités. Sin política. Sin lío. Es el equivalente en gobernanza de una Roomba: la compras una vez y no vuelves a pensar en el suelo. Salvo que el suelo ya no es tuyo. Es una trampa, y DWeb Camp es exactamente el lugar para decirlo en voz alta. Pasé mis dos sesiones allí viendo a la gente descubrir, en tiempo real, que la gobernanza se niega a ser automatizada.
+Suena sólido e inevitable. Limpio. Despliegas el contrato inteligente y te vas, dejas que el protocolo se aplique solo mientras los humanos vuelven a la cama. Sin comités. Sin política. Sin lío. Es el equivalente en gobernanza de una Roomba: la compras una vez y no vuelves a pensar en el suelo. Salvo que el suelo ya no es tuyo. Es una trampa, y DWeb Camp es exactamente el lugar para decirlo en voz alta. Pasé mis dos sesiones allí viendo como la gobernanza se niega a ser automatizada.
 
 **Lo que de verdad se siente al "llegar al Home Base"**
 
