@@ -43,7 +43,7 @@ When these questions arise after permits have been granted, investments committe
 
 But does it always have to be this way? Can we create mechanisms capable of bringing conflicts to light, generating public information, and deliberating on alternatives **before** decisions become practically irreversible?
 
-{% questions { "items": [{"question":"Quién tiene legitimidad para decidir cuánta agua, energía y territorio puede destinarse a la expansión de la infraestructura digital"},{"question":"Cómo pueden intervenir las comunidades afectadas antes de que las principales decisiones sean irreversibles"},{"question":"Pueden el litigio estratégico y la deliberación ciudadana funcionar juntos para democratizar estas decisiones"}] } %}
+{% questions { "items": [{"question":"Who has the authority to decide how much water, energy, and land can be allocated to the expansion of digital infrastructure?"},{"question":"How can affected communities get involved before key decisions become irreversible?"},{"question":"Can strategic litigation and citizen deliberation work together to democratize these decisions?"}] } %}
 
 ## **Story of Me: Why Do We Think This Issue Is Relevant?**
 
@@ -51,7 +51,7 @@ At Platoniq, we’ve been working for years on a question that runs through many
 
 The expansion of artificial intelligence, however, compels us to broaden that question. Democratizing a platform or creating better mechanisms for online participation is not enough if we leave out of the discussion the physical infrastructure that makes the digital ecosystem possible. Data centers transform issues we often perceive as abstract—the cloud, artificial intelligence models, storage, and computing power—into very concrete decisions regarding **water, energy, land, land-use planning, and public investment**.
 
-{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-07-13-a-las-12.34.28.png","alt":"Ecosistema español de Data Centers","caption":"Ecosistema español de Data Centers","credits":"Asociación Española de Data Centers"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-07-13-a-las-12.34.28.png","alt":"Spanish Data Center Ecosystem","caption":"Spanish Data Center Ecosystem","credits":"Spanish Data Center Association"}] } %}
 
 Here we see a tension that we also recognize in other participatory processes: when citizens enter the picture too late, their ability to influence outcomes is drastically reduced. Participating in a project when investments have already been committed, permits have been granted, and key decisions have already been made can turn participation into an exercise in validation rather than decision-making. In the case of data centers, this asymmetry is even greater due to the technical complexity of the projects, the difficulty in accessing comparable information, and the speed at which investments are moving forward.
 
