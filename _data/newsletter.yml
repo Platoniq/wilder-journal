@@ -1,0 +1,10 @@
+# Interface strings for the Newsletter section (_layouts/newsletter*.html).
+# Kept in their own file rather than under i18n/, which comes from the theme.
+es:
+  empty: Todavía no hay newsletters publicadas.
+  older: Newsletter anterior
+  newer: Newsletter siguiente
+en:
+  empty: No newsletters have been published yet.
+  older: Previous newsletter
+  newer: Next newsletter

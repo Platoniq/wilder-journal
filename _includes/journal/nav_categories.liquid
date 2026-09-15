@@ -5,11 +5,20 @@
   videos appear as their own section next to Stories/Interviews/etc. in every
   volume. Videos are shared across all volumes (same content), so the entry
   links to the global Videos page rather than a per-volume view.
+  A "Newsletter" entry follows it, linking to the Newsletter section.
   Keep in sync with the theme's nav_categories.liquid on theme bumps.
 {% endcomment %}
 <nav class="pj-nav-vertical">
   <ul>
-  {% assign volume_archives = site.archives | where: "locale", page.locale | where: "volume-uid", current_volume.uid | sort: "order" %}
+  {% comment %}
+    Newsletter pages belong to no volume, so fall back to the latest published
+    volume there; the section links then lead back into the current edition.
+  {% endcomment %}
+  {% assign nav_volume = current_volume %}
+  {% unless nav_volume %}
+    {% assign nav_volume = site.volumes | where: "locale", page.locale | where: "published", true | sort: "volume-number", "last" | last %}
+  {% endunless %}
+  {% assign volume_archives = site.archives | where: "locale", page.locale | where: "volume-uid", nav_volume.uid | sort: "order" %}
   {% for archive in volume_archives %}
     {% assign t_category_name = site.data.i18n[page.locale].categories[archive.category] | strip %}
 
@@ -36,6 +45,17 @@
       <a href="{{ videos_page.url | relative_url }}" class="{% if page.uid == 'videos' %}select{% endif %}">
         <strong>
           {{ site.data.i18n[page.locale].global.videos_menu }}
+        </strong>
+      </a>
+    </li>
+  {% endif %}
+
+  {% assign newsletter_page = site.pages | where: "uid", "newsletter" | where: "locale", page.locale | first %}
+  {% if newsletter_page %}
+    <li>
+      <a href="{{ newsletter_page.url | relative_url }}" class="{% if page.collection == 'newsletters' or page.uid == 'newsletter' %}select{% endif %}">
+        <strong>
+          {{ newsletter_page.title }}
         </strong>
       </a>
     </li>

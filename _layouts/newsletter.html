@@ -1,0 +1,88 @@
+---
+layout: default
+---
+{% comment %}
+  Newsletter section page (_pages/<locale>/newsletter.md): the posts of the
+  `newsletters` collection, newest first. Posts not yet translated into the
+  page locale are listed in their Spanish version, labelled with its language,
+  so nothing is hidden from English readers. Reuses the theme's category
+  archive list; the extras live in assets/css/newsletter.scss.
+{% endcomment %}
+{% include default/header.liquid %}
+{% include journal/nav_categories.liquid %}
+
+{% assign t_newsletter = site.data.newsletter[page.locale] %}
+
+{% assign newsletters_published = site.newsletters | where: "published", true %}
+{% assign newsletters = newsletters_published | where: "locale", page.locale %}
+{% assign newsletter_uids = newsletters | map: "uid" %}
+
+{% if page.locale != "es" %}
+  {% assign newsletters_es = newsletters_published | where: "locale", "es" %}
+  {% for post in newsletters_es %}
+    {% unless newsletter_uids contains post.uid %}
+      {% assign newsletters = newsletters | push: post %}
+    {% endunless %}
+  {% endfor %}
+{% endif %}
+
+{% assign newsletters = newsletters | sort: "date" | reverse %}
+
+<section class="pj-page-section pj-newsletter">
+  <article class="container-fluid">
+    <div class="container grid">
+      <header class="pj-header-simple">
+        <div class="header-page__text">
+          <h1>{{ page.title }}</h1>
+        </div>
+      </header>
+
+      {{ content }}
+
+      {% if newsletters == empty %}
+        <p class="pj-newsletter__empty">{{ t_newsletter.empty }}</p>
+      {% else %}
+        <ul class="pj-category-articles pj-newsletter__list">
+          {% for post in newsletters %}
+            {% assign month_number = post.date | date: "%-m" %}
+            {% assign month_name = site.data.i18n[page.locale].month_names[month_number] %}
+
+            <li>
+              <div class="pj-category-articles__text">
+                <p class="pj-newsletter__meta">
+                  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d" }}/{{ month_name }}/{{ post.date | date: "%Y" }}</time>
+
+                  {% if post.locale != page.locale %}
+                    <span class="pj-newsletter__lang" lang="{{ post.locale }}">{{ site.data.i18n[page.locale].global.locales[post.locale] }}</span>
+                  {% endif %}
+                </p>
+
+                <h3>
+                  <a href="{{ post.url | relative_url }}"{% if post.locale != page.locale %} hreflang="{{ post.locale }}"{% endif %}>
+                    {{ post.title }}
+                  </a>
+                </h3>
+
+                {% if post.description and post.description != "" %}
+                  <p class="pj-newsletter__summary">{{ post.description }}</p>
+                {% endif %}
+              </div>
+
+              {% if post.cover.path and post.cover.path != "" %}
+                <div class="pj-category-articles__img">
+                  <img src="{{ post.cover.path | relative_url }}" alt="{{ post.cover.alt }}" class="horizontal" loading="lazy">
+                </div>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if page.call_to_action %}
+        {% include default/call_to_action_block.liquid %}
+      {% endif %}
+    </div>
+  </article>
+</section>
+
+{% include default/footer.liquid %}

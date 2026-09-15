@@ -49,6 +49,10 @@ collections:
     permalink: /:locale/:volume-uid/stickers/
   videos:
     output: false
+  newsletters:
+    output: true
+    custom_permalink_placeholders: ["locale", "uid"]
+    permalink: /:locale/newsletter/:uid/
 
 # Document defaults
 defaults:
@@ -89,6 +93,12 @@ defaults:
       type: videos
     values:
       author: "Platoniq"
+  - scope:
+      type: newsletters
+    values:
+      layout: "newsletter_post"
+      author: "Platoniq"
+      call_to_action: "cta-newsletter"
   - scope:
       path: "media"
     values:

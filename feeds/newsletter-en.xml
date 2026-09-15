@@ -1,0 +1,7 @@
+---
+layout: none
+permalink: /en/newsletter/feed.xml
+locale: en
+sitemap: false
+---
+{%- include newsletter/feed.xml -%}

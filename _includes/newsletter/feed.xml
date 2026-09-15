@@ -1,0 +1,38 @@
+{%- comment -%}
+  RSS 2.0 feed of published Newsletter posts for one locale, newest first.
+  Rendered by feeds/newsletter-<locale>.xml at /<locale>/newsletter/feed.xml.
+  Bodies are included in full, with root-relative links made absolute, so mail
+  tools with RSS-to-email campaigns can send each post as it is published.
+{%- endcomment -%}
+{%- assign newsletter_page = site.pages | where: "uid", "newsletter" | where: "locale", page.locale | first -%}
+{%- assign posts = site.newsletters | where: "published", true | where: "locale", page.locale | sort: "date" | reverse -%}
+{%- assign src_absolute = 'src="' | append: site.url | append: "/" -%}
+{%- assign href_absolute = 'href="' | append: site.url | append: "/" -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ newsletter_page.title | default: "Newsletter" | append: " · " | append: site.title | xml_escape }}</title>
+    <link>{{ newsletter_page.url | absolute_url }}</link>
+    <atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml"/>
+    <description>{{ newsletter_page.description | default: site.description | strip | xml_escape }}</description>
+    <language>{{ page.locale }}</language>
+    {%- if posts.first %}
+    <lastBuildDate>{{ posts.first.date | date_to_rfc822 }}</lastBuildDate>
+    {%- endif %}
+    {%- for post in posts limit: 20 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ post.url | absolute_url }}</link>
+      <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      {%- if post.author %}
+      <author>{{ post.author | xml_escape }}</author>
+      {%- endif %}
+      {%- if post.description %}
+      <description>{{ post.description | strip | xml_escape }}</description>
+      {%- endif %}
+      <content:encoded><![CDATA[{{ post.content | replace: 'src="/', src_absolute | replace: 'href="/', href_absolute | replace: "]]>", "]]&gt;" }}]]></content:encoded>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>

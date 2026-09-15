@@ -1,0 +1,129 @@
+---
+layout: default
+---
+{% comment %}
+  A single Newsletter post (the `newsletters` collection). Borrows the article
+  hero and body markup so posts get the Journal's typography and the same CMS
+  editor components, with the Newsletter section link in place of the
+  category. Older/newer navigation stays within the post's locale.
+{% endcomment %}
+{% include default/header.liquid %}
+{% include journal/nav_categories.liquid %}
+
+{% assign t_newsletter = site.data.newsletter[page.locale] %}
+{% assign newsletter_page = site.pages | where: "uid", "newsletter" | where: "locale", page.locale | first %}
+
+{% assign month_number = page.date | date: "%-m" %}
+{% assign month_name = site.data.i18n[page.locale].month_names[month_number] %}
+
+{% capture t_authored_by %}
+  {{ site.data.i18n[page.locale].global.authored_by | append: " " }}
+{% endcapture %}
+
+<section class="pj-page">
+  <article class="container-fluid">
+    <div class="container grid pj-article pj-newsletter-post">
+      <header class="pj-hero">
+        <div class="pj-hero__text">
+          {% if newsletter_page %}
+            <h4>
+              <a href="{{ newsletter_page.url | relative_url }}">
+                {{ newsletter_page.title }}
+              </a>
+            </h4>
+          {% endif %}
+
+          <h1>
+            <span>{{ page.title }}</span>
+          </h1>
+
+          <div class="pj-hero__data">
+            <span class="pj-hero__data__date">
+              <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d" }}/{{ month_name }}/{{ page.date | date: "%Y" }}</time>
+            </span>
+
+            {% if page.author and page.author != "" %}
+              <span class="pj-hero__data__author">
+                {{ page.author | prepend: t_authored_by }}
+              </span>
+            {% endif %}
+          </div>
+        </div>
+
+        {% if page.cover.path and page.cover.path != "" %}
+          <picture class="pj-hero__img">
+            <img src="{{ page.cover.path | relative_url }}" alt="{{ page.cover.alt }}" loading="eager">
+          </picture>
+        {% endif %}
+      </header>
+
+      <div id="pj-article-share">
+        {% include article/share.liquid %}
+      </div>
+
+      {{ content }}
+
+      {% if page.call_to_action %}
+        {% include default/call_to_action_block.liquid %}
+      {% endif %}
+    </div>
+  </article>
+</section>
+
+{% assign locale_posts = site.newsletters | where: "published", true | where: "locale", page.locale | sort: "date" %}
+
+{% for post in locale_posts %}
+  {% if post.url == page.url %}
+    {% if forloop.index0 > 0 %}
+      {% assign older_index = forloop.index0 | minus: 1 %}
+      {% assign older_post = locale_posts[older_index] %}
+    {% endif %}
+
+    {% assign newer_index = forloop.index0 | plus: 1 %}
+    {% assign newer_post = locale_posts[newer_index] %}
+
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if older_post or newer_post %}
+  <ul class="pager grid">
+    <li>
+      {% if older_post %}
+        <a class="link"
+           href="{{ older_post.url | relative_url }}"
+           title="{{ t_newsletter.older | append: ': ' | append: older_post.title | escape }}">
+
+          <span class="link__icon link__icon-left">
+            {% include svg/icon-arrow_left_big.liquid
+                       alt=t_newsletter.older %}
+          </span>
+
+          <span class="link__label">
+            {{ older_post.title }}
+          </span>
+        </a>
+      {% endif %}
+    </li>
+
+    <li>
+      {% if newer_post %}
+        <a class="link link-right"
+           href="{{ newer_post.url | relative_url }}"
+           title="{{ t_newsletter.newer | append: ': ' | append: newer_post.title | escape }}">
+
+          <span class="link__label">
+            {{ newer_post.title }}
+          </span>
+
+          <span class="link__icon link__icon-right">
+            {% include svg/icon-arrow_right_big.liquid
+                       alt=t_newsletter.newer %}
+          </span>
+        </a>
+      {% endif %}
+    </li>
+  </ul>
+{% endif %}
+
+{% include default/footer.liquid %}

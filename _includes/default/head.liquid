@@ -6,7 +6,7 @@
 
   {% seo %}
 
-  {% if page.collection == "pages" %}
+  {% if page.collection == "pages" or page.collection == "newsletters" %}
     <link rel="stylesheet" href="{{ '/assets/css/pages.css' | relative_url }}">
   {% elsif page.collection == "volumes" %}
     <link rel="stylesheet" href="{{ "/assets/css/" | append: page.uid | append: ".css" | relative_url }}">
@@ -27,9 +27,15 @@
   {% comment %}
     Site-level override of the theme's default/head.liquid. Identical to the
     theme version except for the three accessibility additions below (black &
-    white toggle). Keep in sync with the theme's head.liquid on theme bumps;
-    fold the a11y bits into the theme when it grows a global a11y control.
+    white toggle) and the Newsletter section's stylesheet and feed link (plus
+    pages.css for the newsletters collection above). Keep in sync with the
+    theme's head.liquid on theme bumps; fold the a11y bits into the theme when
+    it grows a global a11y control.
   {% endcomment %}
+  {% if page.collection == "newsletters" or page.layout == "newsletter" %}
+    <link rel="stylesheet" href="{{ '/assets/css/newsletter.css' | relative_url }}">
+    <link rel="alternate" type="application/rss+xml" title="Newsletter · {{ site.title }}" href="{{ '/' | append: page.locale | append: '/newsletter/feed.xml' | relative_url }}">
+  {% endif %}
   {% comment %} a11y: black & white mode — render-blocking styles + pre-paint state + toggle logic {% endcomment %}
   <link rel="stylesheet" href="{{ '/assets/css/a11y.css' | relative_url }}">
   <script>try{if(localStorage.getItem('wj-contrast')==='bw'){document.documentElement.dataset.contrast='bw';}}catch(e){}</script>
