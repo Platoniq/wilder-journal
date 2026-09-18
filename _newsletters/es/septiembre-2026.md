@@ -3,7 +3,8 @@ layout: newsletter_post
 published: true
 uid: septiembre-2026
 title: ¿Puede el teatro cambiar un algoritmo?
-description: MozFest, democracia digital, Fanon y nuestra nueva publicación en HOPE
+description: "MozFest, democracia digital, Fanon y nuestra nueva publicación en
+  HOPE: Reclaiming the Future"
 date: 2026-09-18T15:16:00.000+02:00
 author: Platoniq
 cover:
