@@ -2,13 +2,8 @@
 layout: newsletter_post
 published: true
 uid: septiembre-2026
-title: "Probando probando: ¿Puede el teatro cambiar un algoritmo? y como
-  preheader: MozFest, democracia digital, Fanon y nuestra nueva publicación
-  sobre HOPE"
-description: "De MozFest a Fanon, pasando por democracia digital y nuestra nueva
-  publicación: este otoño en Platoniq seguimos explorando cómo cambiar las
-  reglas de las tecnologías que organizan nuestra vida colectiva. Síguenos para
-  no perderte las próximas charlas, publicaciones y experimentos."
+title: ¿Puede el teatro cambiar un algoritmo?
+description: MozFest, democracia digital, Fanon y nuestra nueva publicación sobre HOPE
 date: 2026-09-18T15:16:00.000+02:00
 author: Platoniq
 cover:
