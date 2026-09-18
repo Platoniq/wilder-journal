@@ -3,14 +3,12 @@ layout: newsletter_post
 published: true
 uid: septiembre-2026
 title: ¿Puede el teatro cambiar un algoritmo?
-description: MozFest, democracia digital, Fanon y nuestra nueva publicación sobre HOPE
+description: MozFest, democracia digital, Fanon y nuestra nueva publicación en HOPE
 date: 2026-09-18T15:16:00.000+02:00
 author: Platoniq
 cover:
   path: /media/newsletters/stickers_platoniq_-10.png
 ---
-## ¿Puede el teatro cambiar un algoritmo?
-
 **Spoiler: quizá no directamente. Pero sí puede cambiar quién tiene derecho a discutir sus reglas.**
 
 Este otoño seguimos metiendo las manos en algunos de los problemas que más nos interesan: quién gobierna la tecnología, cómo convertimos experiencias individuales en capacidad colectiva y qué infraestructuras necesitamos para una democracia que no se limite a pedir opiniones.
