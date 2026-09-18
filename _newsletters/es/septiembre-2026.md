@@ -13,7 +13,7 @@ author: Platoniq
 cover:
   path: /media/newsletters/stickers_platoniq_-01.png
 ---
-# ¿Puede el teatro cambiar un algoritmo?
+## ¿Puede el teatro cambiar un algoritmo?
 
 **Spoiler: quizá no directamente. Pero sí puede cambiar quién tiene derecho a discutir sus reglas.**
 
