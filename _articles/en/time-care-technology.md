@@ -16,8 +16,10 @@ author_uids:
 interviewee: Zara Rahman
 cover:
   path: /media/articles/heroes/zara-credit-briony-ridley.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/zara-credit-briony-ridley.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - anti-racismo-institucional
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
