@@ -151,7 +151,7 @@ Es un ejemplo de muchas personas reuniéndose y diciendo: «No. Estás tomando a
 
 Y quizá eso se convierta en un punto de entrada para que muchas más personas puedan intervenir en la manera en que queremos que la tecnología forme parte de nuestras sociedades.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-09-29-a-las-21.08.17.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-09-29-a-las-21.10.57.png"}] } %}
 
 **Platoniq: Como ocurría con el ejemplo de la maternidad y las Manzanas del Cuidado, ¿puedes darnos algún ejemplo inspirador dentro del campo tecnológico? Algo que te haga pensar: esta podría ser una dirección que merece la pena seguir.**
 

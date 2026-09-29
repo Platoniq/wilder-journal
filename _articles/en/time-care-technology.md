@@ -122,7 +122,7 @@ It gives me hope to see how these issues have come together and how widespread t
 
 In my hopes and dreams, this becomes a gateway to the idea that SUPERRR has been working on for years that I mentioned before: digital policy is social policy. It’s an example of many people coming together and saying: “No. You’re making what looks like a digital policy decision, but it affects us. We don’t want this. We want this instead.” And perhaps that becomes an entry point for many more people to have a say in how technology features in our societies.
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-09-29-a-las-21.08.17.png"}] } %}
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-09-29-a-las-21.10.57.png"}] } %}
 
 **Platoniq: As with the example of mothering and the Care Blocks, can you give us one inspiring example from the technology field? Something that makes you think: this is one direction we could take.**
 
