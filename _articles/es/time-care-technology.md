@@ -160,3 +160,7 @@ Las ideas, la motivación y, sobre todo, la forma en que estas personas se niega
 **Platoniq: Muchísimas gracias, Zara. Ha sido un verdadero placer hablar contigo.**
 
 **Zara:** Gracias a vosotros por invitarme.
+
+__
+
+📸 © Briony Ridley

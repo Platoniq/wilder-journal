@@ -127,3 +127,7 @@ The ideas, the motivation, and especially the ways in which people refuse to sur
 **Platoniq: Thank you very much, Zara. It’s been a real pleasure talking with you.**
 
 **Zara Rahman:** Thank you for having me!
+
+__
+
+📸 © Briony Ridley
