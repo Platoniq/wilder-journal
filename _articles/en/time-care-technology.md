@@ -26,7 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/zara-credit-briony-ridley.jpg
 ---
 In this conversation, Zara Rahman reflects on time as a political and democratic resource, on care as a form of social infrastructure, and on the futures we allow ourselves to imagine through technology. Moving between mothering, digital policy, feminist technology and resistance to data centres, she questions the assumption that efficiency, scale and automation necessarily improve our lives. Instead, she invites us to think about technology in relation to care, autonomy and collective power: not as something we simply adapt to, but as something societies should actively shape around the futures they want.
 
