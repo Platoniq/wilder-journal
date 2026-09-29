@@ -31,7 +31,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/zara-credit-briony-ridley.jpg
 ---
-En esta conversación, Zara Rahman reflexiona sobre el tiempo como recurso político y democrático, sobre los cuidados como una forma de infraestructura social y sobre los futuros que nos permitimos imaginar a través de la tecnología. Pasando de la maternidad a las políticas digitales, de la tecnología feminista a las resistencias frente a los centros de datos, cuestiona la idea de que la eficiencia, la escala y la automatización mejoren necesariamente nuestras vidas. En su lugar, nos invita a pensar la tecnología en relación con los cuidados, la autonomía y el poder colectivo: no como algo a lo que simplemente debamos adaptarnos, sino como algo que las sociedades deberían poder moldear activamente en función de los futuros que desean.
+En esta conversación, **Zara Rahman** reflexiona sobre el tiempo como recurso político y democrático, sobre los cuidados como una forma de infraestructura social y sobre los futuros que nos permitimos imaginar a través de la tecnología. Pasando de la maternidad a las políticas digitales, de la tecnología feminista a las resistencias frente a los centros de datos, cuestiona la idea de que la eficiencia, la escala y la automatización mejoren necesariamente nuestras vidas. En su lugar, nos invita a pensar la tecnología en relación con los cuidados, la autonomía y el poder colectivo: no como algo a lo que simplemente debamos adaptarnos, sino como algo que las sociedades deberían poder moldear activamente en función de los futuros que desean.
 
 **Platoniq: Empecemos por el tiempo. Si el tiempo es un requisito previo para mantenerse informado, deliberar, organizarse o participar, ¿deberíamos empezar a pensar el acceso al tiempo como una infraestructura democrática, del mismo modo que pensamos el acceso a la educación, a la información o al espacio público?**
 
@@ -44,6 +44,8 @@ La gente dice constantemente que «el tiempo es dinero», y creo que eso es prec
 **Zara:** Perdemos muchísimo. Para mí, casi se siente como una forma de rendirse ante el capitalismo, como si dijéramos: sí, aceptamos que el capitalismo sea la fuerza que organiza absolutamente todo. Y creo que, al hacerlo, perdemos una gran parte de quienes somos o de quienes podríamos llegar a ser como sociedad.
 
 Mi último libro trata sobre el tiempo y una de las principales maneras de abordarlo es a través de la maternidad, o más concretamente del acto de maternar. En muchas partes del mundo existe la idea de que elegir tener un hijo significa aceptar que vas a estar agotada durante al menos diez años. Si lo piensas, es bastante absurdo, porque la sociedad continúa precisamente gracias a que hay niños. Elijamos tenerlos o no, todos necesitamos que existan niños como parte de la sociedad.
+
+{% quote %}Cuando aceptamos que todo tiene que funcionar mediante unidades medibles, es decir, mediante Chronos, perdemos la capacidad de soñar a mayor escala{% endquote %}
 
 Cuando aceptamos que todo tiene que funcionar mediante unidades medibles, es decir, mediante Chronos, perdemos la capacidad de soñar a mayor escala y de pensar más allá de una vida cuantificada. Y creo que eso forma parte de cómo hemos acabado dentro de la policrisis en la que vivimos hoy.
 
@@ -66,6 +68,8 @@ Especialmente en Europa Occidental, creo que hemos perdido parte de ese lenguaje
 **Zara:** Creo que precisamente porque no es fácil de medir. Dentro de una lógica capitalista, el tiempo es dinero. Una hora es una hora y una hora es una unidad de trabajo. No importa demasiado si estás realmente presente o qué tipo de atención estás ofreciendo durante ese tiempo.
 
 Las personas tienden a ser valoradas en función del trabajo que pueden producir, y no tanto en función de la atención que pueden ofrecer o de las habilidades que pueden transmitir.
+
+{% quote %}Maternar, o simplemente estar con un niño, especialmente con uno pequeño, es una enorme lección sobre cómo el tiempo puede moverse de formas completamente distintas dependiendo de la situación{% endquote %}
 
 Maternar, o simplemente estar con un niño, especialmente con uno pequeño, es una enorme lección sobre cómo el tiempo puede moverse de formas completamente distintas dependiendo de la situación. He escrito, por ejemplo, sobre cómo durante el parto el tiempo se vuelve absolutamente salvaje. Es una ruptura de otro nivel con todo lo que conoces. De repente, casi lo único que importa es el antes y el después.
 
@@ -111,6 +115,8 @@ Y, de nuevo, esto vuelve a lo que decía antes sobre las estructuras familiares 
 
 Incluso si pensamos en cómo se está desarrollando actualmente la inteligencia artificial, no existe nada inevitable en la dirección que hemos tomado: centros de datos cada vez mayores, conjuntos de datos cada vez más grandes, la idea de que más datos equivalen necesariamente a mejores resultados. Ese es un camino posible entre otros mil.
 
+{% quote %}los futuros digitales feministas significan pensar qué papel queremos realmente que desempeñe la tecnología en nuestros futuros{% endquote %}
+
 Para mí, los futuros digitales feministas significan pensar qué papel queremos realmente que desempeñe la tecnología en nuestros futuros: tecnología al servicio de nosotros, al servicio de las personas, al servicio de la esperanza y de la justicia. No al contrario, donde simplemente decimos: «Bueno, la tecnología es así. No nos gusta demasiado, pero tendremos que adaptarnos».
 
 Una gran parte del trabajo sobre derechos digitales puede acabar sintiéndose como una estrategia permanente de mitigación de daños. Estamos constantemente apagando incendios: «Esto es terrible, ¿cómo podemos conseguir que sea un poco menos malo?».
@@ -135,9 +141,7 @@ No creo que ese problema sea necesariamente específico de la IA. Ha sucedido al
 
 Pero hay algo que está ocurriendo en este momento que me da mucha esperanza. Los recursos necesarios para hacer posible la visión de Silicon Valley de una inteligencia artificial en expansión constante incluyen centros de datos que también crecen constantemente y consumen enormes cantidades de recursos. Y la resistencia que estamos viendo frente a eso me parece increíblemente esperanzadora.
 
-A diferencia de muchas cuestiones relacionadas con derechos digitales o política tecnológica, los centros de datos generan un problema muy visible. Pueden ocupar enormes cantidades de espacio físico y consumir enormes cantidades de electricidad y de agua. Las comunidades entienden perfectamente que esos recursos son finitos.
-
-Si destinas enormes cantidades de agua o electricidad a refrigerar centros de datos, eso puede significar que el gobierno de una ciudad no tenga suficientes recursos para construir una escuela nueva que la comunidad sí quiere.
+A diferencia de muchas cuestiones relacionadas con derechos digitales o política tecnológica, los centros de datos generan un problema muy visible. Pueden ocupar enormes cantidades de espacio físico y consumir enormes cantidades de electricidad y de agua. Las comunidades entienden perfectamente que esos recursos son finitos. Si destinas enormes cantidades de agua o electricidad a refrigerar centros de datos, eso puede significar que el gobierno de una ciudad no tenga suficientes recursos para construir una escuela nueva que la comunidad sí quiere.
 
 Me da mucha esperanza ver cómo todos estos temas están convergiendo y hasta qué punto la resistencia se ha extendido, involucrando a una enorme diversidad de colectivos. Antes de esto, muchas de esas personas quizá no sentían que tuvieran demasiada capacidad de intervención ni demasiado interés en la política tecnológica. Quizá no sentían que las decisiones tecnológicas les afectaran directamente. Pero aquí resulta completamente evidente que sí, que les afectan.
 
@@ -146,6 +150,8 @@ En mis sueños y esperanzas, esto se convierte en una puerta de entrada hacia un
 Es un ejemplo de muchas personas reuniéndose y diciendo: «No. Estás tomando algo que parece una decisión de política digital, pero nos afecta. No queremos esto. Queremos esto otro».
 
 Y quizá eso se convierta en un punto de entrada para que muchas más personas puedan intervenir en la manera en que queremos que la tecnología forme parte de nuestras sociedades.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-09-29-a-las-21.08.17.png"}] } %}
 
 **Platoniq: Como ocurría con el ejemplo de la maternidad y las Manzanas del Cuidado, ¿puedes darnos algún ejemplo inspirador dentro del campo tecnológico? Algo que te haga pensar: esta podría ser una dirección que merece la pena seguir.**
 

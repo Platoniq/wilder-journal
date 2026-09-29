@@ -28,7 +28,7 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/zara-credit-briony-ridley.jpg
 ---
-In this conversation, Zara Rahman reflects on time as a political and democratic resource, on care as a form of social infrastructure, and on the futures we allow ourselves to imagine through technology. Moving between mothering, digital policy, feminist technology and resistance to data centres, she questions the assumption that efficiency, scale and automation necessarily improve our lives. Instead, she invites us to think about technology in relation to care, autonomy and collective power: not as something we simply adapt to, but as something societies should actively shape around the futures they want.
+In this conversation, **Zara Rahman** reflects on time as a political and democratic resource, on care as a form of social infrastructure, and on the futures we allow ourselves to imagine through technology. Moving between mothering, digital policy, feminist technology and resistance to data centres, she questions the assumption that efficiency, scale and automation necessarily improve our lives. Instead, she invites us to think about technology in relation to care, autonomy and collective power: not as something we simply adapt to, but as something societies should actively shape around the futures they want.
 
 **Platoniq: Let’s start with time. If time is a prerequisite for staying informed, deliberating, organising or participating, should we start thinking about access to time as a democratic infrastructure, in the same way we think about access to education, information or public space?**
 
@@ -39,6 +39,8 @@ In this conversation, Zara Rahman reflects on time as a political and democratic
 **Zara Rahman:** We lose so much. To me, it almost feels like a way of giving in to capitalism. It’s like saying: yes, capitalism is the organising force around everything. I think we lose so much of who we are, or who we could be, as a society.
 
 My latest book is about time, and the main thingI look at is mothering. There’s an assumption in many parts of the world that hat choosing to have a child means accepting that you will be exhausted for at least ten years. That’s absurd when you think about how society continues – whether we choose to have children or not, we all need children as part of society.
+
+{% quote %}When we accept that everything has to operate through measurable units (ie. Chronos), we lose the ability to dream bigger {% endquote %}
 
 When we accept that everything has to operate through measurable units (ie. Chronos), we lose the ability to dream bigger and think beyond a quantitatively measured life. And I think that’s part of how we’ve ended up in the polycrisis we have today.
 
@@ -57,6 +59,8 @@ Especially in Western Europe, I think we have lost some of that language and tho
 **Platoniq: I’m very interested in this idea of mothering because it seems to contain very different experiences of time: presence, care, waiting, simply observing, emotional and physical attention. It’s very different from the time we associate with work. Why do you think this more intimate kind of time is so poorly recognised by the modern, capitalist world? Why isn’t it recognised as valuable time?**
 
 **Zara Rahman:** Because it isn’t measurable, I think. Under capitalist ways of thinking, time is money. An hour is an hour, and an hour is a unit of labour. It doesn’t matter whether you are genuinely present or what kind of attention you are giving during that hour. People are seen in terms of the labour they can deliver rather than the attention they can give, or the skills they can teach.
+
+{% quote %}Mothering, or simply being with a child, especially a younger one, is such a lesson in how differently time moves depending on the situation{% endquote %}
 
 Mothering, or simply being with a child, especially a younger one, is such a lesson in how differently time moves depending on the situation. I’ve written about how, during birth, time is just wild. It’s this next-level rupture of everything you know. Before and after are almost all that matters.
 
@@ -92,6 +96,8 @@ A lot of our collective imagination around technology has been captured by Silic
 
 And again, it goes back to what I was saying about traditional family structures: it does not have to be like this. There is nothing natural about this. Even if we think about how AI is being built, there is nothing inevitable about the current direction: bigger data centres, bigger datasets, more data equals better. That is one possible route among a thousand possible routes.
 
+{% quote %}feminist digital futures mean thinking about the roles we actually want technology to play in our futures{% endquote %}
+
 For me, feminist digital futures mean thinking about the roles we actually want technology to play in our futures: technology in service of us, in service of people, in service of hope and justice. Not the other way around, where we say, “Well, technology is like this. We don’t really like it, but we have to work around it.”
 
 A lot of digital rights work can feel like harm mitigation. We’re constantly putting out fires: “This is terrible, how can we make it slightly less bad?” What we’re trying to do at SUPERRR is ask: How do we make it actively good? Instead of accepting somebody else’s vision and dedicating all our attention to making their vision less harmful, we need to ask who should be involved in imagining the futures we actually want. Otherwise, you’re giving up a huge amount of narrative power. We want our vision to be great, and then we want to work towards that.
@@ -115,6 +121,8 @@ Unlike many issues in digital rights or technology policy, data centres create a
 It gives me hope to see how these issues have come together and how widespread the resistance is, involving a huge range of groups. Before this, many of those people might not have felt that they had much agency or interest in technology policy. They might not have felt that technology policy decisions affected them. But here it’s very clear: yes, they absolutely do.
 
 In my hopes and dreams, this becomes a gateway to the idea that SUPERRR has been working on for years that I mentioned before: digital policy is social policy. It’s an example of many people coming together and saying: “No. You’re making what looks like a digital policy decision, but it affects us. We don’t want this. We want this instead.” And perhaps that becomes an entry point for many more people to have a say in how technology features in our societies.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-09-29-a-las-21.08.17.png"}] } %}
 
 **Platoniq: As with the example of mothering and the Care Blocks, can you give us one inspiring example from the technology field? Something that makes you think: this is one direction we could take.**
 
