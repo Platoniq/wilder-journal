@@ -5,7 +5,7 @@ layout: journal
 title: "Wilder Journal #3"
 uid: wilder-journal-3
 cover:
-  alt: "Wilder Journal #3 by Platoniq"
+  alt: "Reunite Rebuild — Wilder Journal #3 by Platoniq"
   credits: "Wilder Journal #3 by Platoniq"
   path: /media/volumes/heroes/cover-03.webp
   mobile: /media/volumes/mobile/cover-03.webp
@@ -15,5 +15,5 @@ volume-number: 3
 description: "Wilder Journal #3 by Platoniq"
 image:
   path: /media/volumes/social/cover-03.webp
-  alt: "Wilder Journal #3 by Platoniq"
+  alt: "Reunite Rebuild — Wilder Journal #3 by Platoniq"
 ---
