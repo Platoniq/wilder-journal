@@ -5,7 +5,7 @@ layout: journal
 title: "Wilder Journal #3"
 uid: wilder-journal-3
 cover:
-  alt: "Reunite Rebuild — Wilder Journal #3 by Platoniq"
+  alt: "Un esqueleto dibujado a lápiz posando, con un emoji con gafas de sol por cabeza — Wilder Journal #3 de Platoniq"
   credits: "Wilder Journal #3 by Platoniq"
   path: /media/volumes/heroes/cover-03.webp
   mobile: /media/volumes/mobile/cover-03.webp
@@ -15,5 +15,5 @@ volume-number: 3
 description: "Wilder Journal #3 by Platoniq"
 image:
   path: /media/volumes/social/cover-03.webp
-  alt: "Reunite Rebuild — Wilder Journal #3 by Platoniq"
+  alt: "Un esqueleto dibujado a lápiz posando, con un emoji con gafas de sol por cabeza — Wilder Journal #3 de Platoniq"
 ---
