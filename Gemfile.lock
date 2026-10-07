@@ -8,8 +8,8 @@ GIT
 
 GIT
   remote: https://github.com/Platoniq/jekyll-theme-platoniq-journal.git
-  revision: 49c057e84fffea8802bc6e960865f4ef8255076a
-  branch: feat/reorder-sections
+  revision: d69eeb87f20cff473ba2d8a913c9745317059f0e
+  branch: main
   specs:
     jekyll-theme-platoniq-journal (0.0.116)
       jekyll (~> 4.2)
