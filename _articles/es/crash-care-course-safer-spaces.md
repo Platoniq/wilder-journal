@@ -21,7 +21,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
   mobile: /media/articles/mobile/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
   alt: Crash-Care-Course-Safer-Spaces
   credits: Crash-Care-Course-Safer-Spaces
   caption: Crash-Care-Course-Safer-Spaces

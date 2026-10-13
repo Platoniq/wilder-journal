@@ -22,7 +22,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
   mobile: /media/articles/mobile/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
