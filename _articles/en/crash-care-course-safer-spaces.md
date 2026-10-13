@@ -18,9 +18,10 @@ description: Developed within the INSPIRE project, the Crash → Care
 author: Platoniq
 author_uids:
   - platoniq
+interviewee: null
 cover:
   path: /media/articles/heroes/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
   thumbnail: /assets/media/no_image-thumbnail.png
 stickers:
   layout: layout-none
