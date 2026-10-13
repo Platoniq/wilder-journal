@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
 ---
 Desarrollado en el marco del proyecto INSPIRE, el curso «Crash → Care» invita a organizaciones, facilitadores, investigadores e instituciones públicas a reflexionar sobre sus prácticas participativas e identificar formas de mejorarlas. Se ha creado a partir de la investigación, conversaciones con profesionales y comunidades, y las lecciones aprendidas de proyectos piloto participativos en toda Europa.
 

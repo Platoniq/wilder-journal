@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/a49cde_857b617a23834348b8b307c763a5cee9~mv2.avif
 ---
 Developed within the INSPIRE project, the **Crash → Care Course** invites organisations, facilitators, researchers and public institutions to reflect on their participatory practices and identify ways to improve them. It was created through research, conversations with practitioners and communities, and lessons from participatory pilots across Europe.
 
