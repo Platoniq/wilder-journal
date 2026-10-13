@@ -1,0 +1,80 @@
+/*
+ * Author pages and the "More by" list in an article's author card.
+ * Plain CSS on purpose: it loads on every volume, so colours come from the
+ * card's own text colour (inherit/currentColor) rather than a volume palette.
+ * Selectors go through .pj-author .pj-author__text so they outrank the
+ * article's general heading, list and link styles.
+ */
+.pj-author .pj-author__text .pj-author__more {
+  margin-top: 0.5em;
+  padding-top: 1em;
+  border-top: 1px solid currentColor;
+  color: inherit;
+}
+
+.pj-author .pj-author__text .pj-author__more__title {
+  margin: 0 0 0.6em;
+  color: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.pj-author .pj-author__text .pj-author__more__list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
+  margin: 0 0 1em;
+  padding: 0;
+  list-style: none;
+  /* Article list styles colour ul text (and its fill) with the page colour. */
+  color: inherit;
+  -webkit-text-fill-color: currentColor;
+}
+
+.pj-author .pj-author__text .pj-author__more__list li {
+  margin: 0;
+  padding: 0;
+  color: inherit;
+  -webkit-text-fill-color: currentColor;
+}
+
+.pj-author .pj-author__text .pj-author__more__list li::before {
+  content: none;
+}
+
+.pj-author .pj-author__text .pj-author__more a {
+  color: inherit;
+  -webkit-text-fill-color: currentColor;
+  font-size: 18px;
+  line-height: 1.25;
+  background: none;
+}
+
+.pj-author .pj-author__text .pj-author__more__list a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.pj-author .pj-author__text .pj-author__more__all {
+  display: inline-block;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.pj-author .pj-author__text .pj-author__more a:hover,
+.pj-author .pj-author__text .pj-author__more a:focus-visible {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+/* The author page shows the card in the flow, below the fixed header. */
+.pj-author-page {
+  padding-top: 180px;
+}
+
+.pj-author-page__empty {
+  grid-column: 4 / span 18;
+}

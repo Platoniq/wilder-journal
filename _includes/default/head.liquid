@@ -20,6 +20,10 @@
     {% endif %}
   {% elsif page.collection == "sticker_packs" %}
     <link rel="stylesheet" href="{{ "/assets/css/" | append: page.volume-uid | append: ".css" | relative_url }}">
+  {% elsif page.collection == "authors" %}
+    {% comment %} Author pages span volumes: dress them as the latest published one. {% endcomment %}
+    {% assign latest_volume = site.volumes | where: "locale", page.locale | sort: "volume-number" | last %}
+    <link rel="stylesheet" href="{{ "/assets/css/" | append: latest_volume.uid | append: ".css" | relative_url }}">
   {% else %}
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
   {% endif %}
@@ -27,11 +31,15 @@
   {% comment %}
     Site-level override of the theme's default/head.liquid. Identical to the
     theme version except for the three accessibility additions below (black &
-    white toggle) and the Newsletter section's stylesheet and feed link (plus
-    pages.css for the newsletters collection above). Keep in sync with the
+    white toggle), the Newsletter section's stylesheet and feed link (plus
+    pages.css for the newsletters collection above), and author pages (latest
+    volume's stylesheet, plus authors.css there and on articles). Keep in sync with the
     theme's head.liquid on theme bumps; fold the a11y bits into the theme when
     it grows a global a11y control.
   {% endcomment %}
+  {% if page.collection == "articles" or page.collection == "authors" %}
+    <link rel="stylesheet" href="{{ '/assets/css/authors.css' | relative_url }}">
+  {% endif %}
   {% if page.collection == "newsletters" or page.layout == "newsletter" %}
     <link rel="stylesheet" href="{{ '/assets/css/newsletter.css' | relative_url }}">
     <link rel="alternate" type="application/rss+xml" title="Newsletter · {{ site.title }}" href="{{ '/' | append: page.locale | append: '/newsletter/feed.xml' | relative_url }}">

@@ -1,0 +1,68 @@
+---
+layout: default
+---
+{% comment %}
+  An author's page (/:locale/authors/:uid/): who they are, then every
+  published article they wrote in this language, newest first, across all
+  volumes. The "more by" list in an article's author card links here.
+
+  Site-level layout: the theme has no author page. The card reuses the
+  theme's .pj-author styles (shown, not hidden) and the list its related
+  articles grid and card include, so both follow the volume stylesheet that
+  head.liquid picks for author pages.
+{% endcomment %}
+{% include default/header.liquid %}
+
+{% assign t_authors = site.data.authors_i18n[page.locale] %}
+{% assign author_articles = site.articles
+    | where: "locale", page.locale
+    | where: "published", true
+    | where_exp: "article", "article.author_uids contains page.uid"
+    | sort: "date"
+    | reverse %}
+
+<section class="pj-page pj-author-page">
+  <div class="container-fluid">
+    <div class="container grid">
+      <section class="pj-author pj-author__main">
+        {% if page.image.path %}
+          <div class="pj-author__img">
+            <img src="{{ page.image.path | relative_url }}" alt="{{ page.image.alt | default: page.name }}" />
+          </div>
+        {% endif %}
+
+        <div class="pj-author__text">
+          <h1 class="pj-author__text__name">{{ page.name }}</h1>
+          {% if page.position and page.position != "" %}
+            <h2 class="pj-author__text__position">{{ page.position }}</h2>
+          {% endif %}
+
+          <div class="pj-author__text__bio">{{ content }}</div>
+        </div>
+      </section>
+    </div>
+  </div>
+</section>
+
+<section class="pj-related-articles pj-author-page__articles container-fluid">
+  <div class="container grid">
+    <h2>{{ t_authors.posts_by }} {{ page.name }}</h2>
+
+    {% if author_articles.size > 0 %}
+      <div class="pj-articles">
+        {% for related_article in author_articles %}
+          {% assign category_archive = site.archives
+              | where: "locale", page.locale
+              | where: "volume-uid", related_article.volume-uid
+              | where: "category", related_article.category
+              | first %}
+          {% include default/related_article.liquid related_article=related_article %}
+        {% endfor %}
+      </div>
+    {% else %}
+      <p class="pj-author-page__empty">{{ t_authors.no_posts }}</p>
+    {% endif %}
+  </div>
+</section>
+
+{% include default/footer.liquid %}

@@ -1,0 +1,13 @@
+# Strings for author pages and the "more by" list in an article's author card.
+# Each label is followed by the author's name.
+# Kept out of i18n/<locale>/ so they never clash with the theme's data files.
+en:
+  posts_by: "Posts by"
+  more_by: "More by"
+  all_posts: "All posts by"
+  no_posts: "No published posts yet."
+es:
+  posts_by: "Artículos de"
+  more_by: "Más de"
+  all_posts: "Todos los artículos de"
+  no_posts: "Todavía no hay artículos publicados."
