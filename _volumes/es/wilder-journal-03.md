@@ -10,7 +10,7 @@ cover:
     Wilder Journal #3 de Platoniq"
   credits: "Wilder Journal #3 by Platoniq"
   path: /media/volumes/heroes/stickers_platoniq_-04.png
-  mobile: /media/volumes/mobile/cover-03.webp
+  mobile: /media/volumes/mobile/stickers_platoniq_-04.png
   thumbnail: /media/volumes/thumbnails/cover-03.webp
 locale: es
 description: "AngustIAs democráticas: futuros del cuidado"

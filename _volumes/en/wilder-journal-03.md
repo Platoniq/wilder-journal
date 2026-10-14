@@ -10,7 +10,7 @@ cover:
     Journal #3 by Platoniq"
   credits: "Wilder Journal #3 by Platoniq"
   path: /media/volumes/heroes/stickers_platoniq_-04.png
-  mobile: /media/volumes/mobile/cover-03.webp
+  mobile: /media/volumes/mobile/stickers_platoniq_-04.png
   thumbnail: /media/volumes/thumbnails/cover-03.webp
 locale: en
 description: "Democratic AInxieties: Caring Futures"
