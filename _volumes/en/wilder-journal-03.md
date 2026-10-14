@@ -13,7 +13,7 @@ cover:
   mobile: /media/volumes/mobile/cover-03.webp
   thumbnail: /media/volumes/thumbnails/cover-03.webp
 locale: en
-description: "Wilder Journal #3 by Platoniq"
+description: "Democratic AInxieties: Caring Futures"
 image:
   path: /media/volumes/social/cover-03.webp
   alt: "A round pink sticker reading Reunite Rebuild in red letters — Wilder

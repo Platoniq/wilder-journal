@@ -13,7 +13,7 @@ cover:
   mobile: /media/volumes/mobile/cover-03.webp
   thumbnail: /media/volumes/thumbnails/cover-03.webp
 locale: es
-description: "Wilder Journal #3 by Platoniq"
+description: "AngustIAs democráticas: futuros del cuidado"
 image:
   path: /media/volumes/social/cover-03.webp
   alt: "Una pegatina redonda rosa con el texto Reunite Rebuild en letras rojas —
