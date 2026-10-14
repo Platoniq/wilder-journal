@@ -15,10 +15,13 @@ author: Nadia Nadessan & Olivier Schulbaum
 author_uids:
   - nadia-nadesan
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - Crash-Care-Course-Safer-Spaces
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
