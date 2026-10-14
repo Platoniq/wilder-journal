@@ -15,7 +15,7 @@ cover:
 locale: es
 description: "AngustIAs democráticas: futuros del cuidado"
 image:
-  path: /media/volumes/social/stickers_platoniq_-04.png
+  path: /media/volumes/social/cover-03.webp
   alt: "Una pegatina redonda rosa con el texto Reunite Rebuild en letras rojas —
     Wilder Journal #3 de Platoniq"
 ---
