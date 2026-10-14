@@ -20,7 +20,7 @@ interviewee: Liliana Arroyo
 cover:
   path: /media/articles/heroes/lili.jpg
   mobile: /media/articles/mobile/1758434727242.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/1758434727242.jpg
   alt: Liliana Arroyo
   credits: Liliana Arroyo
   caption: Liliana Arroyo
