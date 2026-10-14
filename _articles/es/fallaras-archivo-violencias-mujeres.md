@@ -45,9 +45,9 @@ Después de haber llegado al objetivo en la campaña de crowdfunding en Goteo, v
 
 ## **El significado de la soberanía digital feminista**
 
-### Vosotras describís "La Nuestra" no solo como una página web, sino como un ejercicio de soberanía digital feminista. En un momento en que dependemos tanto de los algoritmos y de esos “tecnofaraones” como Elon Musk o Zuckerberg, ¿por qué es urgente que las mujeres tengamos nuestra propia infraestructura tecnológica?
+### Alex: Vosotras describís "La Nuestra" no solo como una página web, sino como un ejercicio de soberanía digital feminista. En un momento en que dependemos tanto de los algoritmos y de esos “tecnofaraones” como Elon Musk o Zuckerberg, ¿por qué es urgente que las mujeres tengamos nuestra propia infraestructura tecnológica?
 
-Es urgente que tengamos nuestra propia infraestructura tecnológica porque los datos no deben ser propiedad de los grandes faraones de las tecnologías, y lo son. Nosotras estamos generando un gran archivo testimonial que modifica el relato sobre nosotras mismas y sobre la violencia en general. Es la primera vez en la historia que se hace esto.          
+Cristina: Es urgente que tengamos nuestra propia infraestructura tecnológica porque los datos no deben ser propiedad de los grandes faraones de las tecnologías, y lo son. Nosotras estamos generando un gran archivo testimonial que modifica el relato sobre nosotras mismas y sobre la violencia en general. Es la primera vez en la historia que se hace esto.          
 
 Empezó en 2017, con el MeToo. Estamos modificando aquello que consideramos violencia y cuál es nuestra postura en el mundo.. No es casual que la primera vez que hablamos todas a una, el tema central no sea la moda o la estética, que era “nuestro campo” en teoría, sino que sea la violencia sexual. 
 
@@ -57,9 +57,9 @@ El funcionamiento de estas plataformas macho es como todo funcionamiento macho e
 
 Nosotras creemos que es imprescindible generar otro tipo de plataformas que ofrezcan servicios gratuitos a cambio de tu participación en ellas. Es decir, que no funcionen como extractivistas del relato ni de las mujeres ni de cualquier otro colectivo social, sino que sea un toma y daca: que haya un diálogo entre la tecnología y las usuarias para que ellas puedan verse beneficiadas de lo que aportan. Y esto es fundamental: estamos utilizando las redes de una manera ultracapitalista, con unas reglas ultracapitalistas. Queremos romper eso.
 
-### La Escuela de Creatividad y Democracia trabaja con jóvenes para que entiendan la tecnología como un espacio político y no solo como una herramienta. En "La Nuestra", esa intuición aparece de forma radical: no solo queréis contar historias, queréis decidir cómo se guardan, quién las ve y bajo qué reglas. ¿Cómo imagináis una soberanía digital feminista que también sea pedagógica, que forme a las nuevas generaciones para que no dependan de plataformas extractivas? ¿Puede "La Nuestra" convertirse en un ejemplo de democracia tecnológica hecha desde abajo?
+### Alex: La Escuela de Creatividad y Democracia trabaja con jóvenes para que entiendan la tecnología como un espacio político y no solo como una herramienta. En "La Nuestra", esa intuición aparece de forma radical: no solo queréis contar historias, queréis decidir cómo se guardan, quién las ve y bajo qué reglas. ¿Cómo imagináis una soberanía digital feminista que también sea pedagógica, que forme a las nuevas generaciones para que no dependan de plataformas extractivas? ¿Puede "La Nuestra" convertirse en un ejemplo de democracia tecnológica hecha desde abajo?
 
-Yo, sin duda, creo que lo será. Llegue donde llegue "La Nuestra", en tanto que pionera, marca la posibilidad de un cambio. No sabemos hasta dónde llegará ni cuánto alcanzaremos, pero eso es igual.
+Cristina: Yo, sin duda, creo que lo será. Llegue donde llegue "La Nuestra", en tanto que pionera, marca la posibilidad de un cambio. No sabemos hasta dónde llegará ni cuánto alcanzaremos, pero eso es igual.
 
 Yo me acuerdo de que, hablando una vez con unas activistas norteamericanas, estábamos en Nueva York y fuimos a una manifestación. Pensé y dije: “Ostras, qué pocas”. Éramos como cien personas solo. Y me dijeron: “Las españolas, y las europeas en realidad, estáis equivocadas. Nunca es importante cuánta gente va a una manifestación, sino el hecho de que exista”.
 
@@ -67,9 +67,9 @@ Yo me acuerdo de que, hablando una vez con unas activistas norteamericanas, est�
 
 Cuando los pasos son muy grandes, normalmente el ataque es inmediato y la duración es corta. Creemos, y lo creemos firmemente, que cualquier paso pequeño es sencillamente un jalón más, una aportación, un ladrillito a la calzada.
 
-### Una de las funcionalidades más innovadoras de "La Nuestra" es el concepto del “match” y la creación de grupos de soporte. Sabemos que las redes actuales están diseñadas para el entretenimiento o la confrontación. ¿Cómo habéis diseñado la arquitectura de "La Nuestra" para que el objetivo sea el apoyo mutuo y no el consumo de desgracias ajenas o la pornografía del dolor?
+### Alex: Una de las funcionalidades más innovadoras de "La Nuestra" es el concepto del “match” y la creación de grupos de soporte. Sabemos que las redes actuales están diseñadas para el entretenimiento o la confrontación. ¿Cómo habéis diseñado la arquitectura de "La Nuestra" para que el objetivo sea el apoyo mutuo y no el consumo de desgracias ajenas o la pornografía del dolor?
 
-Yo llevo desde 2018 trabajando en la visibilización de testimonios y creo que, en ningún momento, más allá de los machos que admiten entrar en la página para hacerse pajas, cosa que es brutal, no se ha dado ningún tipo de pornografía.
+Cristina: Yo llevo desde 2018 trabajando en la visibilización de testimonios y creo que, en ningún momento, más allá de los machos que admiten entrar en la página para hacerse pajas, cosa que es brutal, no se ha dado ningún tipo de pornografía.
 
 Es decir, si se hubiera dado una revictimización de las mujeres o un consumo morboso del contenido, no habríamos dado el paso a "La Nuestra". El paso a "La Nuestra" lo damos cuando se hace muy sólida la percepción de que las mujeres la reparación no la encuentran solo con la publicación del testimonio, sino con los comentarios de otras.
 
@@ -89,17 +89,17 @@ En el momento en que se le da la autonomía a las mujeres, tienes que ofrecerles
 
 Así que lo que hemos hecho es recoger aquellas cosas que ya suceden.
 
-### ¿Puede un proyecto como "La Nuestra" convertirse también en un laboratorio donde las mujeres ejercen su agencia, deliberan juntas y experimentan nuevas formas de soberanía digital y también analógica?
+### Alex: ¿Puede un proyecto como "La Nuestra" convertirse también en un laboratorio donde las mujeres ejercen su agencia, deliberan juntas y experimentan nuevas formas de soberanía digital y también analógica?
 
-Sin duda lo es. "La Nuestra" es una herramienta que se pone a disposición, no solo de las mujeres, sino de asociaciones, entidades, colectivas, etcétera. Hemos querido generar una herramienta no el movimiento, no un colectivo, sino una herramienta. Y cuando nosotras hablamos con las que serán las entidades asociadas, que serán centenares, a esas entidades asociadas lo que se les ofrece es “actuar” la herramienta. La herramienta tiene un montón de detalles que te vamos a ofrecer, pero también un montón de posibilidades, de detalles futuros que todavía no están pensados. En la medida en que esas mujeres hagan suya la herramienta, la herramienta irá evolucionando y, en tanto que irá evolucionando, es un experimento.
+Cristina: Sin duda lo es. "La Nuestra" es una herramienta que se pone a disposición, no solo de las mujeres, sino de asociaciones, entidades, colectivas, etcétera. Hemos querido generar una herramienta no el movimiento, no un colectivo, sino una herramienta. Y cuando nosotras hablamos con las que serán las entidades asociadas, que serán centenares, a esas entidades asociadas lo que se les ofrece es “actuar” la herramienta. La herramienta tiene un montón de detalles que te vamos a ofrecer, pero también un montón de posibilidades, de detalles futuros que todavía no están pensados. En la medida en que esas mujeres hagan suya la herramienta, la herramienta irá evolucionando y, en tanto que irá evolucionando, es un experimento.
 
 Y luego es un experimento porque no tenemos dónde inspirarnos. Tenemos claro cuál es el modelo que no queremos seguir, pero el modelo que queremos seguir tendrá que construirse de manera colectiva. Estamos muy convencidas de la construcción colectiva de las nuevas herramientas. Esto es fundamental.
 
 Las posibilidades son ingentes y hacia dónde irá no tengo ni idea. Y no creo de ninguna manera que vaya hacia el mal, por así decirlo. Es una herramienta que las mujeres necesitamos.
 
-### La campaña tiene como objetivo principal migrar, anonimizar y trabajar todos estos testimonios para convertirlos en un archivo vivo y consultable. ¿Por qué es tan importante trasladar esos testimonios efímeros de Instagram a este archivo?
+### Alex: La campaña tiene como objetivo principal migrar, anonimizar y trabajar todos estos testimonios para convertirlos en un archivo vivo y consultable. ¿Por qué es tan importante trasladar esos testimonios efímeros de Instagram a este archivo?
 
-Estamos ante un ejercicio de memoria: casi el primer ejercicio de memoria histórica sobre violencia sexual de todo el Estado español y de todo el mundo en lengua española. Hay un archivo que se hizo en Estados Unidos con el #MeToo, de unos millones; está el que hicieron los archiveros Aniol María y Vicenç Ruiz en torno a #Cuéntalo, y ahora está este.
+Cristina: Estamos ante un ejercicio de memoria: casi el primer ejercicio de memoria histórica sobre violencia sexual de todo el Estado español y de todo el mundo en lengua española. Hay un archivo que se hizo en Estados Unidos con el #MeToo, de unos millones; está el que hicieron los archiveros Aniol María y Vicenç Ruiz en torno a #Cuéntalo, y ahora está este.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-02-a-las-21.02.21.png"}] } %}
 
@@ -117,9 +117,9 @@ Todo eso y todo el “book” de categorización ya está hecho. Hay dos persona
 
 Nosotras hemos abierto un canal de Telegram en el cual hablamos cada día con las fundadoras. Y abriremos otros canales de comunicación. Necesitamos ir contándoles cómo avanza. Pero ese “cómo avanza” no podía ser: “Venga, y ahora durante un año vamos a limpiar testimonios”. No. Este es un trabajo que os ofrecemos hecho. Nosotras pedimos un crédito para poder adelantar este trabajo y, cuando empezara el crowdfunding, poder decir: “Venga, ya vamos con algo trabajado, vamos adelante”.
 
-### “La Nuestra” no es solo un archivo, es un proceso vivo donde las mujeres participan, deciden, corrigen y reescriben juntas la memoria de la violencia sexual. ¿Crees que este modelo participativo podría inspirar otras formas de gestionar la memoria democrática, cómo los archivos de la Guerra Civil o los proyectos de memoria descolonizada, para que no sean solo depósitos estáticos, sino espacios de deliberación colectiva sobre qué recordar, cómo narrarlo y con qué voz?
+### Alex: “La Nuestra” no es solo un archivo, es un proceso vivo donde las mujeres participan, deciden, corrigen y reescriben juntas la memoria de la violencia sexual. ¿Crees que este modelo participativo podría inspirar otras formas de gestionar la memoria democrática, cómo los archivos de la Guerra Civil o los proyectos de memoria descolonizada, para que no sean solo depósitos estáticos, sino espacios de deliberación colectiva sobre qué recordar, cómo narrarlo y con qué voz?
 
-Para el 25N publiqué una [columna](https://www.publico.es/opinion/columnas/nuestro-relato-acto-politico-todas-victimas-silencio.html) donde decía: “Nuestro relato es un acto político para dinamitar las instituciones que han impuesto el silencio a la mayoría de la población: a las mujeres, el movimiento republicano, las personas migrantes, las víctimas de la Iglesia católica, el colectivo LGTBIQ+, las torturadas y torturados en democracia…” 
+Cristina: Para el 25N publiqué una [columna](https://www.publico.es/opinion/columnas/nuestro-relato-acto-politico-todas-victimas-silencio.html) donde decía: “Nuestro relato es un acto político para dinamitar las instituciones que han impuesto el silencio a la mayoría de la población: a las mujeres, el movimiento republicano, las personas migrantes, las víctimas de la Iglesia católica, el colectivo LGTBIQ+, las torturadas y torturados en democracia…” 
 
 Tenemos que tener claro una cosa: cuando las mujeres necesitamos usar las redes con tal desesperación que generamos millones de datos en tres o cuatro días, es porque nuestro relato se ha prohibido. El relato sobre la violencia sexual se ha prohibido de forma implícita y, en según qué casos, en los tribunales, explícitamente.
 
@@ -137,23 +137,23 @@ Sirva el movimiento contra la violencia macho y contra la violencia sexual en pa
 
 ## **La verdad del testimonio**
 
-### Llevas años recogiendo testimonios en Instagram. ¿Cuál es el poder del testimonio directo en primera persona? 
+### Alex: Llevas años recogiendo testimonios en Instagram. ¿Cuál es el poder del testimonio directo en primera persona? 
 
-El testimonio directo en primera persona, sin intermediarias, es la toma de posesión de tu cuerpo y de tu relato. 
+Cristina: El testimonio directo en primera persona, sin intermediarias, es la toma de posesión de tu cuerpo y de tu relato. 
 
 Cuando tú cuelgas tu propio testimonio de manera autónoma, espontánea, como acto de voluntad, media una decisión política de participación en la memoria colectiva. Esa decisión política es sanadora, es justicia histórica y forma parte de la reparación que no requiere su paso por la justicia, que es algo que a mí me importa mucho.
 
 Hay casos que necesitan juicio, por supuesto. Pero hay muchísimos casos donde no se requiere juicio. Y además estamos hablando de muchas violencias que no son punibles en el Estado español. Lo que estamos haciendo es abrir el abanico de las violencias, sobre todo de las violencias sexuales, hasta considerar violencia sexual evidente algo que la ley no contempla como punible.
 
-### Has hablado en otros ámbitos de la idea de “verdad”. A menudo se exige la verdad jurídica, pero tú reivindicas una especie de verdad narrativa. ¿Por qué el sistema judicial no es suficiente para sanar o entender la violencia sexual? ¿Qué aporta esa narración? ¿Por qué hace falta ir más allá?
+### Alex: Has hablado en otros ámbitos de la idea de “verdad”. A menudo se exige la verdad jurídica, pero tú reivindicas una especie de verdad narrativa. ¿Por qué el sistema judicial no es suficiente para sanar o entender la violencia sexual? ¿Qué aporta esa narración? ¿Por qué hace falta ir más allá?
 
-En la tríada verdad, justicia y reparación, la verdad era algo que nos tenían prohibido. Canales como “La Nuestra” permiten a la mujer hacerse cargo de su verdad de forma autónoma, sin necesidad de que una abogada le diga nada. 
+Cristina: En la tríada verdad, justicia y reparación, la verdad era algo que nos tenían prohibido. Canales como “La Nuestra” permiten a la mujer hacerse cargo de su verdad de forma autónoma, sin necesidad de que una abogada le diga nada. 
 
 Los mecanismos de la justicia no nos están ofreciendo reparación, sino lo contrario: revictimización. Probablemente porque mi reparación pasa por ver publicada mi verdad y ponerme en conversación con otras que han publicado su verdad o que se ven reflejadas en la mía. La verdad de las mujeres es soberana. La verdad de todo ser humano es soberana. Solo faltaría que no tuviéramos derecho a la verdad.
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.23.36.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.31.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.46.png"},{"path":"/media/captura-de-pantalla-2025-12-03-a-las-6.30.57.png"}] } %}
 
-El sistema judicial, en cambio, es un sistema opresivo. El sistema judicial nunca nació para dar libertad ni verdad a las mujeres; el sistema judicial nació para controlarnos, controlar nuestro relato y nuestros cuerpos, igual que el sistema policial. No podemos confiar en el sistema judicial. Otra cosa es que lo utilicemos.
+Cristina: El sistema judicial, en cambio, es un sistema opresivo. El sistema judicial nunca nació para dar libertad ni verdad a las mujeres; el sistema judicial nació para controlarnos, controlar nuestro relato y nuestros cuerpos, igual que el sistema policial. No podemos confiar en el sistema judicial. Otra cosa es que lo utilicemos.
 
 Hay una construcción cultural que nos lleva a interpretar que el poder judicial es un poder que está para ampararnos. Eso no es cierto. Si fuera cierto, nos habrían amparado. De la misma manera que los medios de comunicación no están para comunicar nuestra realidad. Si fuera cierto, habrían comunicado nuestra realidad y no tendríamos que haberlo hecho nosotras. De la misma manera que los partidos políticos, los tribunales, etcétera, no están para darnos autonomía.
 
@@ -163,9 +163,9 @@ Nosotras no estamos representadas y no hemos tenido derecho a decir la verdad, p
 
 Si se te cierran los canales, esa verdad deja de existir. Y no les hace falta mentir. Yo siempre digo: lo contrario de la verdad no es la mentira, es el silencio. Lo más bestia es que esa construcción del silencio sobre las violencias que ejerce el Estado o que el Estado permite que se ejerzan hace que ni siquiera sea necesaria la mentira sobre nosotras o sobre cualquier otro grupo castigado por los medios de comunicación.
 
-### Como comunicadora experta en analizar el discurso público y político, ¿qué tipos de narrativas o testimonios has detectado que detonan más debates sociales? ¿Hay temas tabú dentro de la violencia sexual que, cuando salen a la luz, rompen más el silencio que otros?
+### Alex: Como comunicadora experta en analizar el discurso público y político, ¿qué tipos de narrativas o testimonios has detectado que detonan más debates sociales? ¿Hay temas tabú dentro de la violencia sexual que, cuando salen a la luz, rompen más el silencio que otros?
 
-Sí. Y fíjate que no son los más bestias. Son temas mucho más pequeños que, por comunes y silenciados, generan movimientos muy nutridos. Un ejemplo sería algo así como cuando el padre, que le toca tener a la niña o al niño en casa y, a la hora de devolverlo, después de una semana o del fin de semana con él, lo devuelve desnudo, completamente desnudo en la calle, o con la ropa rota, absolutamente rota a tijeretazos. Esto es algo habitual. Y, cuando aparecieron los primeros relatos, fue un boom, porque de repente miles de mujeres se sentían por fin reconocidas. Hay algo que el silencio consigue: no denuncias aquello de lo que te crees única víctima. 
+Cristina: Sí. Y fíjate que no son los más bestias. Son temas mucho más pequeños que, por comunes y silenciados, generan movimientos muy nutridos. Un ejemplo sería algo así como cuando el padre, que le toca tener a la niña o al niño en casa y, a la hora de devolverlo, después de una semana o del fin de semana con él, lo devuelve desnudo, completamente desnudo en la calle, o con la ropa rota, absolutamente rota a tijeretazos. Esto es algo habitual. Y, cuando aparecieron los primeros relatos, fue un boom, porque de repente miles de mujeres se sentían por fin reconocidas. Hay algo que el silencio consigue: no denuncias aquello de lo que te crees única víctima. 
 
 Esos relatos que, en principio, no son tan bestias y dudo que fueran punibles, generan unos movimientos tremendos. Esas mujeres se quitan un peso de encima que no os podéis imaginar. De repente se dan cuenta de que ni es culpa suya ni su pareja o expareja es el único mierda que hace ese tipo de cosas, sino que, además, es algo habitual. Te despojas, de alguna forma, de esa vergüenza que te da el estar sola, sentirte sola.
 
@@ -179,9 +179,9 @@ Y ahí, además, hay otra capa: si una abogada va a denunciar eso y tiene doscie
 
 ## **Ante la polarización y auge ultraderecha, espacios seguros**
 
-### Vivimos tiempos de polarización extrema, auge de la ultraderecha y una maquinaria de desinformación y bulos que a menudo ataca al feminismo. ¿Cómo se blinda "La Nuestra" ante estos ataques? ¿Cómo se construye un "espacio seguro digital" real cuando el entorno exterior es tan hostil?
+### Alex: Vivimos tiempos de polarización extrema, auge de la ultraderecha y una maquinaria de desinformación y bulos que a menudo ataca al feminismo. ¿Cómo se blinda "La Nuestra" ante estos ataques? ¿Cómo se construye un "espacio seguro digital" real cuando el entorno exterior es tan hostil?
 
-¿Puede haber ataques? Puede haber. Así que la herramienta está construida con una arquitectura de seguridad muy estricta, con diversos nodos en distintos sitios, para que si cae uno recupere el otro y, si no, recupere el otro, etcétera. Es una herramienta desagregada. Pero te voy a decir una cosa y espero no equivocarme: los testimonios de las mujeres importan tan poco a los hombres, que ni nos atacan.
+Cristina: ¿Puede haber ataques? Puede haber. Así que la herramienta está construida con una arquitectura de seguridad muy estricta, con diversos nodos en distintos sitios, para que si cae uno recupere el otro y, si no, recupere el otro, etcétera. Es una herramienta desagregada. Pero te voy a decir una cosa y espero no equivocarme: los testimonios de las mujeres importan tan poco a los hombres, que ni nos atacan.
 
 Yo no he recibido ataques en mi cuenta. He recibido tres cierres de Instagram, que consideraba que yo, al relatar una mujer lo que le hacía su padre o su abuelo, estaba difundiendo pornografía infantil. Pero no he tenido ataques directos a los testimonios.
 
@@ -189,9 +189,9 @@ En Instagram puedo llegar a tener hasta 50 millones de visualizaciones. Lo norma
 
 No sostienen la mirada. Desde luego, los varones violentos no pueden sostener la mirada ante la multiplicación de testimonios. Estos señores pueden refutar el testimonio de una mujer, el de diez, el de cien, el de veinticinco mil… Pero el testimonio de varios millones a la vez es muy difícil. Es imposible. Es irrefutable. Eso hace que no se asomen a los testimonios.
 
-### Las redes sociales revictimizan y censuran palabras clave relacionadas con violencia sexual, como te ha pasado con Instagram, pero a la vez permiten el discurso de odio. ¿Crees que este tipo de censura algorítmica es una nueva forma de violencia contra las mujeres? ¿Cómo combate "La Nuestra" esta dinámica?
+### Alex: Las redes sociales revictimizan y censuran palabras clave relacionadas con violencia sexual, como te ha pasado con Instagram, pero a la vez permiten el discurso de odio. ¿Crees que este tipo de censura algorítmica es una nueva forma de violencia contra las mujeres? ¿Cómo combate "La Nuestra" esta dinámica?
 
-Por supuesto que es violencia. El señor Twitter, el señor Instagram y el señor Meta no crearon las redes sociales para que las mujeres nos relataramos y, muy concretamente, relatáramos las violencias sexuales vividas. Al principio, no le dieron la importancia que tenía. Se quedaron tan estupefactos que tardaron tres años en reaccionar. Pero reaccionaron.
+Cristina: Por supuesto que es violencia. El señor Twitter, el señor Instagram y el señor Meta no crearon las redes sociales para que las mujeres nos relataramos y, muy concretamente, relatáramos las violencias sexuales vividas. Al principio, no le dieron la importancia que tenía. Se quedaron tan estupefactos que tardaron tres años en reaccionar. Pero reaccionaron.
 
 {% quote %}Este archivo que estamos construyendo necesita su paz, necesita su tranquilidad{% endquote %}
 
@@ -199,9 +199,9 @@ Ante ello, cuando tú generas tus propios algoritmos, llamémoslos así, o tende
 
 El movimiento testimonial es importante y crece porque no se ha tenido en cuenta por parte de los varones. Y porque la única respuesta que ha tenido por parte de los grandes medios de comunicación ha sido el ostracismo o la crítica feroz. Si se queda como “ese espacio de las chicas que se cuentan”, estupendo, porque este archivo que estamos construyendo necesita su paz, necesita su tranquilidad.
 
-### En INSPIRE trabajamos sobre capacidades democráticas que emergen cuando comunidades participan en procesos de decisión: agencia para hablar en primera persona, capacidad de incidencia sobre reglas y cambios, práctica de la co-gobernanza, escucha radical y responsabilidad compartida. En "La Nuestra", las mujeres no solo comparten memoria: están decidiendo protocolos, diseñando un espacio seguro y definiendo cómo se protege y se usa un archivo vivo. ¿Qué capacidades democráticas dirías que se activan cuando una comunidad construye la gobernanza de su propio archivo? 
+### Alex: En INSPIRE trabajamos sobre capacidades democráticas que emergen cuando comunidades participan en procesos de decisión: agencia para hablar en primera persona, capacidad de incidencia sobre reglas y cambios, práctica de la co-gobernanza, escucha radical y responsabilidad compartida. En "La Nuestra", las mujeres no solo comparten memoria: están decidiendo protocolos, diseñando un espacio seguro y definiendo cómo se protege y se usa un archivo vivo. ¿Qué capacidades democráticas dirías que se activan cuando una comunidad construye la gobernanza de su propio archivo? 
 
-Yo creo que lo primero que se hace es refutar la idea de que cualquier democracia tiene que ser capitalista y jerárquica. Y, para mí, con eso bastaría, aunque hay más.
+Cristina: Yo creo que lo primero que se hace es refutar la idea de que cualquier democracia tiene que ser capitalista y jerárquica. Y, para mí, con eso bastaría, aunque hay más.
 
 Nos han vendido la idea de que toda democracia es impepinablemente capitalista, jerárquica y vertical. Es decir, una construcción macho de patriarcado en sentido estricto. Y lo contrario es China, Rusia y el caos. Y no es cierto. 
 
@@ -209,9 +209,9 @@ Existe la posibilidad de crear mecanismos colectivos de participación. Esos mec
 
 En ese sentido, se refuta la idea del capitalismo. Ya no del capitalismo salvaje actual, del capitalismo ultra rico, sino del capitalismo como construcción opuesta al comunismo o a la idea del comunismo aplicado. Estamos proponiendo otra manera de funcionar por medio de lo colectivo que intenta que haya un aroma a otras formas posibles no utópicas.
 
-### El proyecto está en la recta final de la primera fase del goteo, de la campaña de crowdfunding. Para quienes lean o escuchen esta entrevista y piensen “esto no va conmigo, ya hay muchas redes sociales, no me resuena”… ¿qué les dirías para que entiendan la importancia de "La Nuestra" como herramienta de autodefensa feminista?
+### Alex: El proyecto está en la recta final de la primera fase del goteo, de la campaña de crowdfunding. Para quienes lean o escuchen esta entrevista y piensen “esto no va conmigo, ya hay muchas redes sociales, no me resuena”… ¿qué les dirías para que entiendan la importancia de "La Nuestra" como herramienta de autodefensa feminista?
 
-"La Nuestra" no es solo una red social, es también una red social, pero a la vez confronta la idea de que una red social es algo construido por un hombre blanco, rico, heterosexual, de puertas para afuera, que impone una jerarquía de control y extractivismo.
+Cristina: "La Nuestra" no es solo una red social, es también una red social, pero a la vez confronta la idea de que una red social es algo construido por un hombre blanco, rico, heterosexual, de puertas para afuera, que impone una jerarquía de control y extractivismo.
 
 "La Nuestra" es la posibilidad de organizarnos desde otro lugar y de utilizar las tecnologías para el bien, para lo colectivo, y generar voces que, hasta este momento, no habían tenido posibilidad ni reflejo público.
 
