@@ -15,7 +15,7 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/marta.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/marta.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: marta cambronero
   credits: marta cambronero

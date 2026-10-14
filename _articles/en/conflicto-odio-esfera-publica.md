@@ -11,7 +11,7 @@ uid: conflicto-odio-esfera-publica
 interviewee: null
 cover:
   path: /media/articles/heroes/marta.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/marta.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - LaNuestra-Red-Feminista
