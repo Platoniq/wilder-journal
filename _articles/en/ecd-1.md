@@ -21,7 +21,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/ecd.png
   mobile: /media/articles/mobile/ecd.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/ecd.png
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

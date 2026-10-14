@@ -18,7 +18,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/ecd.png
   mobile: /media/articles/mobile/ecd.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/ecd.png
   alt: ecd
   credits: ecd
   caption: ecd
