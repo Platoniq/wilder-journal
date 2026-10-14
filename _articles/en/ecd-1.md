@@ -7,7 +7,16 @@ featured: false
 date: 2026-10-14T19:59:00.000+02:00
 date-updated: 2026-10-14T19:59:00.000+02:00
 article-order: 3
-uid: ecd
+uid: ECD-capacidades-democraticas-entidades-sociales
+title: "La Escuela de Creatividad y Democracia: fortalecer las capacidades
+  democráticas de las entidades socialesThe School of Creativity and Democracy:
+  Strengthening the Democratic Capacities of Social Organizations"
+description: "La Escuela de Creatividad y Democracia: fortalecer las capacidades
+  democráticas de las entidades socialesThe School of Creativity and Democracy:
+  Strengthening the Democratic Capacities of Social Organizations"
+author: Platoniq Foundation
+author_uids:
+  - platoniq
 interviewee: null
 cover:
   path: /media/articles/heroes/ecd.png
