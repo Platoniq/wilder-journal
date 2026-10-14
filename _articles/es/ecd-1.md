@@ -30,8 +30,6 @@ call_to_action: cta-newsletter
 image:
   path: /media/articles/social/ecd.png
 ---
-# Aprender democracia practicándola: herramientas y experiencias para transformar la participación desde las entidades sociales
-
 **¿Cómo pueden las entidades sociales fortalecer sus capacidades democráticas, incorporar nuevas formas de participación y convertir las experiencias de las comunidades con las que trabajan en propuestas de transformación política?** La Escuela de Creatividad y Democracia (ECD), impulsada por la Fundación Platoniq, propone una respuesta: aprender a participar, facilitar y generar incidencia a través de la práctica.
 
 En un contexto marcado por la desafección política, la polarización y la desconfianza hacia las instituciones, las organizaciones sociales son espacios fundamentales de encuentro, organización colectiva y defensa de derechos. Sin embargo, promover la participación no consiste solo en convocar reuniones o abrir consultas. Requiere aprender a escuchar experiencias diversas, reconocer desigualdades, gestionar conflictos, construir acuerdos y traducir demandas sociales en propuestas con capacidad de incidencia.
