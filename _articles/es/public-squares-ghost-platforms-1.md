@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-05-27-a-las-12.27.27.png
 ---
 Cada plaza pública tiene su propio ambiente, su propia mezcla de olores, sonidos y ritmos. Algunas «plazas» huelen a café y a humo de cigarrillo a las siete de la mañana, cuando los trabajadores municipales, los dueños de las cafeterías y los vecinos de toda la vida intercambian chismes antes de que empiece el día. Otras desprenden el aroma de la comida frita, la sal marina, la piedra mojada tras la lluvia de verano o el pan que llega de las panaderías cercanas. En ciertos lugares, en el aire persisten rastros de burocracia: tinta de impresora, archivos en papel, oficinas municipales sobrecalentadas, el zumbido de las luces fluorescentes. En otros, la plaza se llena de la energía de la protesta y la celebración: tambores, pintura en spray, fuegos artificiales, sudor, música, niños corriendo entre manifestaciones y puestos de mercado.
 
