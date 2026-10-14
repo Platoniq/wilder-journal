@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/eva.jpg
 ---
 We spoke with **Eva Navarro,** who is responsible for designing the artificial intelligence architecture behind LaNuestra, the feminist infrastructure that transforms testimonies of gender-based violence into collective memory by combining ethical technology, human oversight, and community to restore power, dignity, and decision-making capacity to those who have historically been silenced.
 

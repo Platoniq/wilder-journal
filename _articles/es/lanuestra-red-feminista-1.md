@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/eva.jpg
 ---
 Hablamos con **Eva Navarro**, responsable de diseñar la arquitectura de inteligencia artificial que hay detrás de LaNuestra, la infraestructura feminista que transforma testimonios de violencias machistas en memoria colectiva combinando tecnología ética, supervisión humana y comunidad para devolver poder, dignidad y capacidad de decisión a quienes históricamente han sido silenciadas.
 
