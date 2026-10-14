@@ -15,7 +15,7 @@ cover:
 locale: en
 description: "Democratic AInxieties: Caring Futures"
 image:
-  path: /media/volumes/social/cover-03.webp
+  path: /media/volumes/social/stickers_platoniq_-04.png
   alt: "A round pink sticker reading Reunite Rebuild in red letters — Wilder
     Journal #3 by Platoniq"
 ---
