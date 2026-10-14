@@ -18,8 +18,12 @@ author_uids:
 interviewee: Núria Ferran Ferrer
 cover:
   path: /media/articles/heroes/nuria.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/nuria.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - psicofancia-ia-democracia
+  - fallaras-archivo-violencias-mujeres
+  - coding-violence-archive
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

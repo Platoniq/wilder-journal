@@ -18,7 +18,7 @@ author_uids:
 interviewee: Núria Ferran Ferrer
 cover:
   path: /media/articles/heroes/nuria.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/nuria.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Núria Ferran Ferrer
   credits: Núria Ferran Ferrer
