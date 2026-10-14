@@ -23,7 +23,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/marta.png
 ---
 **Marta Cambronero Garbajosa** is a journalist, holds a Ph.D. in Information and Knowledge Society from the Open University of Catalonia (UOC), and is a postdoctoral researcher with the *Communication Networks & Social Change* group. Her research focuses on the digital public sphere, political antagonism, and citizen responses to hate speech—topics she addressed in her doctoral dissertation *Communication Against Hate* (2025). We spoke with her about the limits of democratic deliberation, the role of emotions and algorithms in shaping public opinion, and the need to build spaces where conflict can be expressed without turning into violence or exclusion. A conversation that also explores what role artificial intelligence can play in a democracy that needs to learn to tolerate disagreement.
 

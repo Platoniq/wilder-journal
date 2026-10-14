@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/marta.png
 ---
 **Marta Cambronero Garbajosa** es periodista, doctora en Sociedad de la Información y el Conocimiento por la Universitat Oberta de Catalunya (UOC) e investigadora postdoctoral del grupo *Communication Networks & Social Change*. Su investigación se centra en la esfera pública digital, el antagonismo político y las respuestas ciudadanas frente a los discursos de odio, cuestiones que abordó en su tesis doctoral *Comunicación frente al odio* (2025). Conversamos con ella sobre los límites de la deliberación democrática, el papel de las emociones y los algoritmos en la formación de opinión pública y la necesidad de construir espacios donde el conflicto pueda expresarse sin convertirse en violencia o exclusión. Una conversación que también explora qué papel puede desempeñar la inteligencia artificial en una democracia que necesita aprender a sostener el desacuerdo.
 
