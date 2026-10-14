@@ -15,7 +15,7 @@ author_uids:
   - cristian-palazzi
 cover:
   path: /media/articles/heroes/soredi-fabulas.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/soredi-fabulas.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: fabula Soredi
   credits: fabula Soredi

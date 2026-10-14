@@ -11,7 +11,7 @@ uid: fabula-creatividad-tecnologia
 interviewee: null
 cover:
   path: /media/articles/heroes/soredi-fabulas.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/soredi-fabulas.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - Against-Administrative-Obscurantism
