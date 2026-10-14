@@ -16,7 +16,7 @@ author_uids:
   - xesca-sastre
 cover:
   path: /media/articles/heroes/esepe-carcelexcel.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe-carcelexcel.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Ésèpe, Carcel Excel, 2023
   credits: Ésèpe, Carcel Excel, 2023

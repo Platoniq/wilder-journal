@@ -14,10 +14,13 @@ description: We facilitate the creation of bold visions for strengthening
 author: Xesca Sastre
 author_uids:
   - xesca-sastre
+interviewee: null
 cover:
   path: /media/articles/heroes/esepe-carcelexcel.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/esepe-carcelexcel.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - colombia-comparte-tu-rollo
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
