@@ -33,7 +33,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-07-13-a-las-11.36.05.png
 ---
 ## **Hypothesis**
 
