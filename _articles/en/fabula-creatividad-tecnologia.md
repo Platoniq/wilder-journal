@@ -8,10 +8,14 @@ date: 2026-10-14T20:13:00.000+02:00
 date-updated: 2026-10-14T20:13:00.000+02:00
 article-order: 2
 uid: fabula-creatividad-tecnologia
+interviewee: null
 cover:
   path: /media/articles/heroes/soredi-fabulas.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - Against-Administrative-Obscurantism
+  - demoracia-diven
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
