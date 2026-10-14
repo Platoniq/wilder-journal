@@ -3,7 +3,7 @@ published: true
 date: 2026-07-16
 layout: journal
 volume-number: 3
-title: "AngustIAs democráticas: futuros del cuidado"
+title: "AngustIAs Democráticas: Futuros del Cuidado"
 uid: wilder-journal-3
 cover:
   alt: "Una pegatina redonda rosa con el texto Reunite Rebuild en letras rojas —
