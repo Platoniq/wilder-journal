@@ -21,7 +21,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-13-a-las-11.36.05.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-07-13-a-las-11.36.05.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-07-13-a-las-11.36.05.png
   alt: Esepe 2024
   credits: Esepe 2024
   caption: Esepe 2024
