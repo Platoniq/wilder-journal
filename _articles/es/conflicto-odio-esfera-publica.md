@@ -68,13 +68,15 @@ Marta: Sí, tiene efectos secundarios. Y ahí es donde se están dedicando grand
 
 Hablamos de algoritmos, aunque evidentemente hay más actores y elementos. Y todavía estamos intentando comprender si existen efectos directos entre ellos.
 
-Emociones, miedo y formación de opinión
+## **Emociones, miedo y formación de opinión**
 
 ### Platoniq: Volviendo un poco a Habermas: no sé si me equivoco, pero una de tus críticas sería que ofrece una visión demasiado racional de la esfera pública. ¿Qué peso tienen hoy emociones como el miedo, la indignación, el resentimiento o el sentimiento de pertenencia en la formación de opinión pública? Sobre todo, de nuevo, a través de las redes.
 
 Marta: Pensar que la opinión se produce únicamente de manera racional es, de nuevo, una visión normativa de cómo se forma la opinión pública e incluso de cómo se forma la opinión personal.
 
 Si tenemos buenas condiciones para la racionalidad, para que no esté contaminada o sometida a manipulaciones, podemos estar de acuerdo en que la discusión basada únicamente en argumentos racionales sería algo positivo. Ahora bien, de nuevo, lo empírico, la realidad, desborda los modelos normativos. No siempre los cumple. Y no es una cuestión de voluntad; a veces es simplemente que el ser humano es así. Es racional y es emocional.
+
+{% quote %}Lo que sucede es que nos hemos centrado en comprobar si cumplíamos o no con el modelo normativo porque, idealmente, sería estupendo. Pero sencillamente no funciona así.{% endquote %}
 
 Cuando nos formamos una opinión sobre algo, distintos componentes interaccionan entre sí. Una emoción puede estar contribuyendo a configurar una idea racional.
 Y este es quizá un camino que conviene explorar mucho más en el presente, porque a veces caemos en una dicotomía: «Es que ahora las emociones dominan la política». Bueno, no ahora. Siempre han estado ahí. Lo que sucede es que nos hemos centrado en comprobar si cumplíamos o no con el modelo normativo porque, idealmente, sería estupendo. Pero sencillamente no funciona así.
@@ -107,9 +109,11 @@ Ya que estamos en el capítulo Habermas y hablando de conflicto, ¿cómo ves las
 Marta: Esto es muy interesante. De hecho, algunos de los proyectos que estoy planteando en distintos espacios van exactamente en esa línea. Hay que educar también esa capacidad de escucha ante aquello que no nos parece bien.
 Decir «no pasa nada» no sería correcto. Claro que puede pasar algo grave si determinados discursos acaban siendo hegemónicos o tomando el poder. Pero es muy importante comprender cuáles son los mecanismos que hacen que esos discursos enganchen con personas que están muy cerca de ti, que pueden ser familiares tuyos, compañeros de trabajo o personas con las que coincides comprando en el supermercado.
 
+{% quote %}El reto es cómo generar metodologías, cómo fabricar, construir, en el buen sentido, maneras de poder estar ahí, de escuchar eso sin legitimarlo y sin contaminarse de ello. {% endquote %}
+
 El reto es cómo generar metodologías, cómo fabricar, construir, en el buen sentido —antes hablábamos de una fabricación política del uso de emociones negativas—  maneras de poder estar ahí, de escuchar eso sin legitimarlo y sin contaminarse de ello. Ese es uno de los grandes retos. No se trata de un «dejar hacer». Se trata de decir: «Voy a escucharte y voy a rebatirte políticamente». Porque, si no te escucho y no sé qué está sucediendo ahí, tampoco puedo responder de una manera que te pueda hacer cambiar de opinión.
 
-¿Qué capacidades democráticas necesitamos?
+## **¿Qué capacidades democráticas necesitamos?**
 
 ### Platoniq: Para volver al tema de las capacidades democráticas: ¿qué capacidades crees que necesita hoy una persona, una ciudadana o un ciudadano, para poder intervenir realmente en la esfera pública?
 
@@ -117,9 +121,10 @@ Marta: Por un lado, la capacidad de discernimiento entre lo que es cierto y lo q
 
 Después está otra de la que ya hemos hablado: ser capaz de escuchar a quien no piensa como tú sin que se te lleven los demonios, por decirlo así. Poder estar en desacuerdo y poder escuchar el desacuerdo.
 
-Conflicto, discurso de odio y violencia discursiva
+## **Conflicto, discurso de odio y violencia discursiva**
 
 ### Platoniq: Vuelvo un poco a algo que trabajas bastante y que tiene que ver con esta posible confusión alrededor de la «fabricación» del discurso de odio.
+
 La democracia necesita conflicto. A mí me gusta mucho Chantal Mouffe, por ejemplo. Pero también necesitamos poner límites a ese conflicto. ¿Qué riesgo existe al meter dentro de una misma categoría cosas como el discurso de odio, la violencia discursiva, el antagonismo político, la protesta o simplemente posiciones incómodas?
 
 Marta: Ya que el conflicto es inevitable, hagamos algo bueno con él. Claro.  En cuanto a los conceptos que comentas, aquí sirve pensarlo con Judith Butler. Ella explica en Lenguaje, poder e identidad, a través del análisis de tres casos diferentes, cómo el daño no lo produce el discurso en sí mismo, sino en la manera en que un actor subordina al otro a través del lenguaje. Al final es una cuestión de poder y de cómo se ejerce de manera discursiva o simbólica. En ese sentido, violencia discursiva y discurso de odio podrían ser prácticamente sinónimos. «Discurso de odio» es en realidad una categoría legal muy específica, que nace después de la Segunda Guerra Mundial para poner determinados límites a la libertad de expresión. Unos límites muy específicos destinados a proteger determinadas categorías sociales o grupos especialmente vulnerables.
@@ -132,12 +137,11 @@ Creo que cuando decimos que estamos en contra de los discursos de odio nos estam
 
 Marta: En un contexto como el de las asambleas deliberativas o en el tipo de espacios que hacéis vosotros, por ejemplo. Son espacios idóneos donde poder entrenar esa escucha que necesitamos para poder separar qué hay de posición política y qué hay de esa dimensión más performativa, de ese envoltorio agresivo y excluyente. Una cosa es la posición política: «pienso que las personas autóctonas o locales tienen que tener cubiertos sus derechos antes de recibir a una nueva población», con la que puedes no estar en absoluto de acuerdo por muy buenos motivos, y otra es deshumanizar a la categoría que queda excluida de manera exacerbada. Y no es que sea menos grave la deshumanización por ser implícita. De hecho, es más peligrosa porque la pueden digerir mejor distintos tipos de públicos. Lo que digo es que necesitamos espacios controlados desde los que poder examinar en detalle esa diferencia y, desde ahí, trabajar en propuestas políticas y discursivas que puedan despojar de fuerza a las que está proponiendo la ultraderecha.
 
-IA situada y comunidades afectadas
+## **IA situada y comunidades afectadas**
 
 ### Platoniq: Abro aquí un pequeño aperitivo antes de convocarte a la sesión sobre el experimento en el que estamos trabajando. Estamos desarrollando un prototipo de IA, GRID le hemos llamado, que funciona con múltiples agentes con conocimiento situado. Cada uno tiene su personalidad, pero también una serie de materiales de entrenamiento separados por agentes. Además, pedimos a entidades concretas, si hablamos de migración, de homelessness, etc., que participen en ese entrenamiento. Es decir, hacemos el entrenamiento con una entidad, juntándonos físicamente. Es un proceso bastante analógico.
 
 ### Tenemos también una personalidad que es «el filósofo», de la que se encarga mi compañero Cristian. Tenemos, no sé, cincuenta años de fanzines y libros no publicados, cosas que no queremos simplemente entregar a Anthropic para que las compre y las despiece. Son materiales muy ad hoc. Por tanto, ninguno de estos agentes contiene «todo el conocimiento». Son corpus muy específicos, con un sesgo muy claro: hacer aparecer perspectivas feministas, antirracistas, interseccionales o minoritarias. La pregunta es la siguiente: ¿cómo hacer esto sin convertirlas en una cuota dentro del corpus que damos a ese agente? Y en este sentido ¿cómo hacemos para que la IA no «hable en nombre de» esas comunidades sin que el proceso mediante el cual construimos ese conocimiento sea visible?
-
 
 Marta: Aquí lo ideal sería contar con esas comunidades desde el minuto cero de la creación, en el codiseño. No solamente en el entrenamiento. También en la creación de categorías.
 
@@ -148,7 +152,7 @@ Y creo que ahí también se puede intervenir: facilitar que sea posible decidir 
 
 Habría que generar mecanismos de facilitación para eso. Y luego, claro, tener en cuenta de verdad las aportaciones y asegurarse de que se han incorporado de manera adecuada, con mecanismos para que las comunidades participantes puedan validar o, si es el caso, modificar las decisiones de diseño.
 
-Líneas rojas para la IA deliberativa
+## **Líneas rojas para la IA deliberativa**
 
 ### Platoniq: En nuestro caso, tenemos una versión completamente separada de cualquier LLM tipo ChatGPT y otra que sí utiliza ese tipo de motor. La independiente puede funcionar con recursos mínimos, en una instalación local. Es bastante más lenta, evidentemente, y los tipos de respuesta también son diferentes.
 
@@ -167,6 +171,8 @@ Después está el riesgo de que la propia herramienta esté guiando en exceso la
 Marta: Absolutamente. La desinformación ya es un elemento estructural más del sistema de comunicación digital. Es el propio sistema de publicidad digital —en el sentido de notoriedad, visibilidad— el que la pone en circulación. Y digo el sistema, porque son varios elementos dentro de él que interactúan de tal manera que la acaban difundiendo de manera masiva. Por ejemplo, quien depende mucho del número de visualizaciones, como influencers, algunos políticos y algunos periodistas, tiende a colar alguna información falsa o torticera de vez en cuando para que no se apague la llama del engagement. El modelo de monetización no discierne la calidad de lo que se dice; lo que le importa es vender anuncios a las personas que están visualizando el contenido.
 
 Se pueden poner filtros, claro, como los que se ponen con los moderadores de contenido y entrenadores de IA a quienes las empresas explotan para que no nos llegue contenido mucho peor. El problema es que poner filtros para que no pase la desinformación no es tan fácil, porque una buena parte de la desinformación que hoy circula no es información falsa cuya falsedad es verificable, sino que es del tipo cherry picking; es decir, consiste en quedarse con lo más favorable de un hecho, ignorando u ocultando lo demás. La línea que separa esta técnica de manipulación informativa del framing o encuadramento posicionado de la comunicación política es muy fina. Los falsos positivos podrían afectar gravemente a la libertad de expresión y a la actividad deliberativa.
+
+{% quote %}Lo que pasa es que la competencia mediática tiene un límite necesario cuando lo que tenemos enfrente son tecnologías cada vez más opacas, como los algoritmos de recomendación. {% endquote %}
 
 Por eso es muy importante que las personas tengamos una alta competencia mediática para identificar la mentira fabricada e interesada. Lo que pasa es que la competencia mediática tiene un límite necesario cuando lo que tenemos enfrente son tecnologías cada vez más opacas, como los algoritmos de recomendación. Además, dado que la desinformación aparece mezclada con el resto de contenidos, evitar el consumo de ciertos canales informativos no se puede hacer sin algún coste, pasa por perderse cosas que le hacen estar a una en el mundo. No es tan fácil saber cuál es la solución; no parece haber una solución única. Lo que parece claro es que el modelo de engagement de los espacios digitales comerciales y que haya gente que quiere monetizar allí a cualquier precio tienen mucho que ver con el problema.
 

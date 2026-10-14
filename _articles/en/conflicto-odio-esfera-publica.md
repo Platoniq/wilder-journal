@@ -61,13 +61,15 @@ Marta: Yes, it has side effects. And that’s where a great deal of effort has b
 
 We’re talking about algorithms, although there are obviously other actors and elements involved. And we’re still trying to understand whether there are direct effects between them.
 
-Emotions, Fear, and Opinion Formation
+## **Emotions, Fear, and Opinion Formation**
 
 ### Platoniq: Going back a bit to Habermas: I don’t know if I’m mistaken, but one of your criticisms might be that he offers an overly rational view of the public sphere. How much weight do emotions such as fear, outrage, resentment, or a sense of belonging carry today in the formation of public opinion? Especially, once again, through social media.
 
 Marta: To think that opinion is formed solely through rational means is, once again, a normative view of how public opinion—and even personal opinion—is formed.
 
 If we have favorable conditions for rationality—so that it is not tainted or subject to manipulation—we can agree that a discussion based solely on rational arguments would be a positive thing. However, once again, empirical reality goes beyond normative models. It doesn’t always conform to them. And it’s not a matter of will; sometimes it’s simply that human beings are like that. We are both rational and emotional.
+
+{% quote %}What’s happening is that we’ve focused on checking whether or not we conform to the normative model because, ideally, that would be wonderful. But it simply doesn’t work that way.{% endquote %}
 
 When we form an opinion about something, various components interact with one another. An emotion may be contributing to the formation of a rational idea.
 And this is perhaps a path worth exploring much more deeply today, because sometimes we fall into a dichotomy: “It’s just that emotions now dominate politics.” Well, not now. They’ve always been there. What’s happening is that we’ve focused on checking whether or not we conform to the normative model because, ideally, that would be wonderful. But it simply doesn’t work that way.
@@ -84,7 +86,7 @@ Marta: There are certain fears, certain opinions, or certain interpretations of 
 
 When certain political factions say, “You don’t have to feel ashamed here”—obviously they don’t phrase it exactly that way—the message is something like: “You don’t have to be ashamed of feeling this way here. Here, you can be openly xenophobic. Here you can put your own people first and forget about everyone else.” That part is indeed constructed, though it’s not necessarily any less authentic than the rallying against the far right that takes place on the left.
 
-When Deliberation Encounters Antagonists
+## **When Deliberation Encounters Antagonists**
 
 ### Platoniq: That’s when we move toward antagonism.
 
@@ -101,9 +103,11 @@ Since we’re on the topic of Habermas and talking about conflict, how do you vi
 Marta: That’s very interesting. In fact, some of the projects I’m proposing in different settings follow exactly that line of thinking. We also need to cultivate the ability to listen to things we don’t agree with.
 Saying “it’s no big deal” wouldn’t be right. Of course, something serious can happen if certain discourses end up becoming hegemonic or seizing power. But it’s very important to understand the mechanisms that make those discourses resonate with people who are very close to you—who might be your family members, coworkers, or people you run into while shopping at the supermarket.
 
+{% quote %}The challenge is how to develop methodologies—how to craft, construct, in a positive sense, ways to be present, to listen to that without legitimizing it and without letting it influence you. {% endquote %}
+
 The challenge is how to develop methodologies—how to craft, construct, in a positive sense (we were talking earlier about the political manipulation of negative emotions)—ways to be present, to listen to that without legitimizing it and without letting it influence you. That is one of the major challenges. It’s not about a “laissez-faire” approach. It’s about saying, “I’m going to listen to you, and I’m going to challenge you politically.” Because if I don’t listen to you and don’t understand what’s going on there, I can’t respond in a way that might make you change your mind.
 
-What democratic skills do we need?
+## **What democratic skills do we need?**
 
 ### Platoniq: Returning to the topic of democratic skills: What skills do you think a person—a citizen—needs today to be able to truly participate in the public sphere?
 
@@ -111,9 +115,10 @@ Marta: On the one hand, the ability to discern between what is true and what is 
 
 Then there’s another one we’ve already talked about: being able to listen to someone who doesn’t think like you without losing your cool, so to speak. Being able to disagree and being able to listen to that disagreement.
 
-Conflict, Hate Speech, and Discursive Violence
+## **Conflict, Hate Speech, and Discursive Violence**
 
 ### Platoniq: I’d like to come back briefly to something you’ve been working on quite a bit, which has to do with this potential confusion surrounding the “construction” of hate speech.
+
 Democracy needs conflict. I’m a big fan of Chantal Mouffe, for example. But we also need to set limits on that conflict. What’s the risk of lumping things like hate speech, discursive violence, political antagonism, protest, or simply uncomfortable positions into the same category?
 
 Marta: Since conflict is inevitable, let’s do something good with it. Of course.  As for the concepts you mention, it’s helpful to think about them in light of Judith Butler’s work. In *Language, Power, and Identity*, she explains—through the analysis of three different cases—how harm is not caused by discourse itself, but rather by the way one actor subordinates another through language. Ultimately, it’s a matter of power and how it’s exercised discursively or symbolically. In that sense, discursive violence and hate speech could be practically synonymous. “Hate speech” is actually a very specific legal category that emerged after World War II to place certain limits on freedom of expression—very specific limits intended to protect certain social categories or particularly vulnerable groups.
@@ -126,7 +131,7 @@ I believe that when we say we are against hate speech, we are often referring pr
 
 Marta: In a context like that of deliberative assemblies or the kinds of spaces you create, for example. These are ideal spaces for practicing the kind of listening we need to distinguish between what is a political position and what is part of that more performative dimension—that aggressive and exclusionary packaging. It’s one thing to hold a political position—such as, “I think indigenous or local people’s rights must be safeguarded before welcoming a new population,” a view with which you may strongly disagree for very good reasons—and quite another to dehumanize the excluded group in an extreme way. And it’s not that dehumanization is any less serious simply because it’s implicit. In fact, it’s more dangerous because different audiences can digest it more easily. What I’m saying is that we need controlled spaces from which we can examine that difference in detail and, from there, work on political and discursive proposals that can undermine the ones being put forward by the far right.
 
-Embedded AI and Affected Communities
+## **Embedded AI and Affected Communities**
 
 ### Platoniq: I’d like to start with a brief introduction before inviting you to the session on the experiment we’re working on. We’re developing an AI prototype—we’ve called it GRID—that operates with multiple agents possessing situated knowledge. Each agent has its own personality, but also a set of training materials specific to that agent. In addition, we ask specific organizations—whether we’re talking about migration, homelessness, etc.—to participate in that training. In other words, we conduct the training with an organization by physically meeting with them. It’s a fairly analog process.
 
@@ -141,7 +146,7 @@ And I think that’s another area where we can intervene: making it possible to 
 
 We’d need to create mechanisms to facilitate that. And then, of course, truly take contributions into account and ensure they’ve been properly incorporated, with mechanisms so that participating communities can validate or, if necessary, modify design decisions.
 
-Red Lines for Deliberative AI
+## **Red Lines for Deliberative AI**
 
 ### Platoniq: In our case, we have one version that is completely separate from any ChatGPT-type LLM and another that does use that kind of engine. The standalone version can run with minimal resources on a local installation. It’s quite a bit slower, of course, and the types of responses are also different.
 
@@ -160,6 +165,8 @@ Then there’s the risk that the tool itself might be steering the conversation 
 Marta: Absolutely. Disinformation is already just another structural element of the digital communication system. It is the digital advertising system itself—in the sense of exposure and visibility—that puts it into circulation. And I say “the system” because there are various elements within it that interact in such a way that they end up spreading it on a massive scale. For example, those who rely heavily on view counts—such as influencers, some politicians, and some journalists—tend to slip in some false or misleading information from time to time to keep the flame of engagement alive. The monetization model doesn’t distinguish between the quality of what’s being said; what matters to it is selling ads to the people viewing the content.
 
 Filters can be put in place, of course, such as those used by content moderators and AI trainers, whom companies rely on to prevent much worse content from reaching us. The problem is that putting filters in place to block misinformation isn’t that easy, because much of the misinformation circulating today isn’t false information whose falsity can be verified; rather, it’s the “cherry-picking” variety—that is, it consists of focusing on the most favorable aspect of a fact while ignoring or concealing the rest. The line separating this technique of information manipulation from the deliberate framing used in political communication is very fine. False positives could seriously undermine freedom of expression and deliberative discourse.
+
+{% quote %}The problem is that media literacy has its limits when we’re dealing with increasingly opaque technologies, such as recommendation algorithms. {% endquote %}
 
 That is why it is so important for people to have strong media literacy skills to identify fabricated and self-serving lies. The problem is that media literacy has its limits when we’re dealing with increasingly opaque technologies, such as recommendation algorithms. Furthermore, since disinformation is mixed in with other content, avoiding certain news sources comes at a cost—it means missing out on things that help us stay connected to the world. It’s not so easy to figure out what the solution is; there doesn’t seem to be a single solution. What seems clear is that the engagement model of commercial digital spaces—and the fact that there are people who want to monetize them at any cost—have a lot to do with the problem.
 
