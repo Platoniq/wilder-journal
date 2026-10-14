@@ -18,7 +18,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/esepe-carcelexcel.jpg
   mobile: /media/articles/mobile/esepe-carcelexcel.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe-carcelexcel.jpg
 related_article_uids:
   - colombia-comparte-tu-rollo
 stickers:

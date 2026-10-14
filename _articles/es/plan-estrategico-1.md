@@ -17,7 +17,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/esepe-carcelexcel.jpg
   mobile: /media/articles/mobile/esepe-carcelexcel.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/esepe-carcelexcel.jpg
   alt: Ésèpe, Carcel Excel, 2023
   credits: Ésèpe, Carcel Excel, 2023
   caption: Ésèpe, Carcel Excel, 2023
