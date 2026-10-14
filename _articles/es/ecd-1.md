@@ -28,7 +28,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/ecd.png
 ---
 # Aprender democracia practicándola: herramientas y experiencias para transformar la participación desde las entidades sociales
 
