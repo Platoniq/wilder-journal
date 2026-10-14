@@ -27,7 +27,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/esepe-carcelexcel.jpg
 ---
 When we talk about **regaining and designing desirable** and just futures, we are also talking about the **future of social organisations**. Strengthening and boosting the Social and Solidarity Economy (SSE) is key to shaping this society of the future that puts the well-being of people and the health of ecosystems at the centre.
 

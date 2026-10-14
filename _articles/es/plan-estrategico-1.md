@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/esepe-carcelexcel.jpg
 ---
 Cuando hablamos de **recuperar y diseñar futuros deseables** y justos, hablamos también del **futuro de las organizaciones sociales**. El refuerzo e impulso de la Economía Social y Solidaria (ESS) es clave para conformar esta sociedad del futuro que pone el bienestar de las personas y la salud de los ecosistemas en el centro.
 
