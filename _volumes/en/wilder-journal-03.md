@@ -2,18 +2,20 @@
 published: true
 date: 2026-07-16
 layout: journal
-title: "Wilder Journal #3"
+volume-number: 3
+title: "Democratic AInxieties: Caring Futures"
 uid: wilder-journal-3
 cover:
-  alt: "A round pink sticker reading Reunite Rebuild in red letters — Wilder Journal #3 by Platoniq"
+  alt: "A round pink sticker reading Reunite Rebuild in red letters — Wilder
+    Journal #3 by Platoniq"
   credits: "Wilder Journal #3 by Platoniq"
   path: /media/volumes/heroes/cover-03.webp
   mobile: /media/volumes/mobile/cover-03.webp
   thumbnail: /media/volumes/thumbnails/cover-03.webp
 locale: en
-volume-number: 3
 description: "Wilder Journal #3 by Platoniq"
 image:
   path: /media/volumes/social/cover-03.webp
-  alt: "A round pink sticker reading Reunite Rebuild in red letters — Wilder Journal #3 by Platoniq"
+  alt: "A round pink sticker reading Reunite Rebuild in red letters — Wilder
+    Journal #3 by Platoniq"
 ---
