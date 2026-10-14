@@ -8,8 +8,8 @@ date: 2026-10-14T20:13:00.000+02:00
 date-updated: 2026-10-14T20:13:00.000+02:00
 article-order: 2
 uid: fabula-creatividad-tecnologia
-title: El derecho a no ser comprendidos
-description: El derecho a no ser comprendidos
+title: La necesidad de no ser comprendidos
+description: Hay algo profundamente humano en no saber qué queremos.
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
