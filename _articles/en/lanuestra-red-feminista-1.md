@@ -19,8 +19,12 @@ author_uids:
 interviewee: Eva Navarro
 cover:
   path: /media/articles/heroes/eva.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/eva.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - "Time-care-technology "
+  - Artificial-Inteligence-Humanity
+  - fallaras-archivo-violencias-mujeres
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

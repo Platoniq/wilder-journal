@@ -19,7 +19,7 @@ author_uids:
 interviewee: Eva Navarro
 cover:
   path: /media/articles/heroes/eva.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/eva.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Eva Navarro
   credits: Eva Navarro
