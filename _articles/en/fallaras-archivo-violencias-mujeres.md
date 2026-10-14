@@ -211,8 +211,70 @@ Printing society imposed silence on the majority and created small hierarchies o
 
 Right now, there is a chance to break that. If anyone, at any time, figures out how to break any tyranny, it is an ethical obligation to do so.
 
-{% questions { "items": [{"question":"Do you want to be a comother of \"La Nuestra\""}] } %}
+{% questions { "items": [{"question":"Update | La Nuestra: from a collection of testimonies to the creation of a collective voice"}] } %}
 
-La Nuestra needs hands, voices, and commitment to exist outside of extractive platforms: to maintain a living archive that is secure and governed by those who build it.
+**A New Conversation with Cristina Fallarás at Canòdrom of Barcelona, September 28, 2026**
 
-<iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>
+Months after our first conversation, we meet again with Cristina Fallarás to delve deeper into the political and democratic implications of *La Nuestra*. While we previously discussed feminist digital sovereignty, the need to preserve testimonies, and the importance of building our own technological infrastructure, we now want to explore what happens when that archive ceases to be merely a place to preserve memory and becomes a tool for collective organization.
+
+How can an archive change the way we understand reality? What happens when thousands of individual voices construct a shared narrative? And how do we design technology that does not reproduce the hierarchies and extractive logic of the very platforms it seeks to challenge?
+
+In this second conversation, Fallarás champions the political power of testimony, envisions the expansion of this model to other social movements, and defends a central idea: it’s not about designing a platform for women, but about putting a tool in their hands so that they themselves can decide how it should work.
+
+## **The Archive as Revolution: What Disappears When Voices Are Erased**
+
+### In your campaign, you point out that testimonial archives emerging from movements like #MeToo, #Cuéntalo, or #SeAcabó are at risk of disappearing from the platforms of the techno-oligarchs. What do we lose as a society if women’s pain is privatized or erased?
+
+**Cristina:** The thing is, even if the testimonies are erased, the pain of women isn’t erased. What’s erased is the voice—a new voice that, for the first time in the entire history of humanity, we can hear. We must ask ourselves why, until the advent of social media, half the population had no voice in society and was never heard. We’ve been told what matters to us—fashion, sewing, motherhood, beauty, or weight-loss diets. And, surprisingly, when we all come together to share what truly matters to us—by the millions across the globe and spontaneously—what we’re talking about is gender-based violence and sexual violence, very specifically.
+
+If that is erased, the pain is not erased. What is erased is a revolution—a new perspective on society. Now that half the population has pointed out something that had been silenced throughout history, we are making it clear that there has been a silencing and that there has been a division over who can and cannot tell their story. And this involves the media—all of them.
+
+Because when building a society, you can rely on two pillars, among many others: one based on collective construction and the other on the construction of the elites. The elites decide what is important and, therefore, what we are going to address; or there is a collective construction of voices that bring certain needs to the fore—whether in housing, public health, or, in this case, sexual violence. The moment these records disappear, what you’re doing is handing the voice back to the elites.
+
+## **Collective Truth Versus Imposed Narratives**
+
+### First-person testimony is one of the most powerful tools against denialist discourse, misogyny, and machismo. Why does a narrative that operates outside police and judicial logic hold such political power?
+
+**Cristina:** Because totalitarian movements, fascism, and all forms of violent patriarchal structures stem from abstractions that are accepted as realities. For example, the idea of freedom that Milei espouses—the ideas of greatness, race, and unity—are concepts we’re familiar with. Or the idea of the Transition, this country’s “model” Transition. These are abstract ideas. In the face of these abstract ideas, the only indisputable thing is the collective construction of voices. And those voices must come from personal testimonies.
+
+Because if the very authorities who created that abstract idea are the ones conducting a survey—let’s say, for example, to determine the interests or experiences of a segment of the population—it is, once again, biased. However, if what we’re doing is creating an archive of unique, individual voices that converge, what emerges is a collective voice. And that collective voice is irrefutable and indisputable. We’re talking about millions of women, all speaking at once without having agreed on a common narrative.
+
+## **From Feminist Memory to Other Collective Struggles**
+
+### You suggest that La Nuestra should not be limited to the feminist movement, but that its model could be expanded to other communities and struggles, such as the immigrant movement, anti-racism, or the right to housing. How do you envision this expansion? As independent networks, as interconnected spaces, or as a new form of collective organization?
+
+**Cristina:** First, we envision the accumulation of testimonies across all spheres. If technology has enabled us to do anything, it is to recognize testimony as a means of creating realities. In the past, archives were used to spark revolutions. Today, the archive is, in and of itself, a revolution. The archive is, in and of itself, a transformation of reality.
+
+If we can draw on historical memory to have all those people who were tortured during the democratic era—in the 1970s and 1980s, in police stations, in barracks, on riverbanks, in the streets, in bars, and in bathrooms—give their testimonies of torture, this country would begin to rethink its democracy. The same is true of housing. If all those living in situations of extreme vulnerability—people we do not consider poor because they have a roof over their heads (but under what conditions?)—share their stories, and others are able to identify with them, generate mechanisms of solidarity, and thereby create activist groups, this constitutes a form of organization.
+
+At its core, we’re talking about forms of revolutionary organization. I’m not talking about armed revolutions, but about how to radically transform a society. And the radical transformation of a society—for me, for us, for La Nuestra—involves the creation of collective voices. Right now, yes, with the archive at the center, as a revolutionary axis in and of itself.
+
+Just imagine if all our migrant sisters, brothers, and comrades were to describe their living conditions in detail—how they manage to put food on the table and pay for a place to live. We’d be faced with a reality in which, in the vast majority of cases, several rights we consider fundamental would be violated. Okay, let’s do it. We invite you to help develop a technology. Just as we use other free technologies to help ourselves, let “La Nuestra” serve other collectives.
+
+And I’m telling you that they’re part of this too, because the feminist movement is an anti-racist, anti-capitalist, and anti-fascist movement—of course—and from within it, many women are raising their voices and know how to move from intimate violence to collective violence. We’re all connected by a continuum that runs from intimate violence to collective violence. These forms of collective violence are many and varied. That’s very important.
+
+## **Breaking Down Hierarchies: We Are All Founders**
+
+### In the rewards for your Goteo campaign, you’ve decided that, regardless of whether someone contributes 10, 20, 50, or 500 euros, everyone receives the same recognition as a founder of La Nuestra. Why did you choose this non-hierarchical approach?
+
+**Cristina:** La Nuestra is here to defy and break down hierarchies. The foundation of La Nuestra is the dismantling of hierarchies at every level of society. Hierarchy has to do with ownership, with reward and punishment, with the idea of success and the idea of failure. By renouncing rewards, we renounce any hierarchical structure that might later be applied to other levels.
+
+Furthermore, we are engaging in an exercise of trust in women. We know that you’ll contribute what you can and that you’ll go as far as you can. And it’s only through that trust that one can understand that we believe in women. Women don’t lie. In other words, there’s a cross-cutting exercise in trust in women that we’ve decided to apply to the awards—but above all, because we need to question the ideas of success and failure, reward and punishment, and mistrust and justice.
+
+## **Funding Technology for the Common Good**
+
+### To bring *La Nuestra* to life, you chose Goteo, an open-source platform dedicated to the common good. Why was it important that your crowdfunding campaign take place specifically on Goteo?
+
+**Cristina:** I think that, from the very beginning, Goteo’s approach—focused on the common good and open source, including in the field of technology—was what ultimately convinced us. It empowers disadvantaged sectors with technological sovereignty and allows them to develop technologies on par with those of the elites.
+
+For us, it was very important that the organization be linked, first, to technology; second, to sovereignty—or the struggle for sovereignty—of disadvantaged sectors; and then, of course, to open source.
+
+### La Nuestra has mobilized thousands of women and people who have directly contributed to making the project possible. What message would you give them about the collective responsibility to sustain it over time?
+
+**Cristina:** A redefinition of reality is coming. We’re redefining what’s real and what isn’t. The media told us the world was a certain way. Now what they call *fake news*, or hoaxes, isn’t really that—it’s fear. What we’re seeing is a new definition of what reality is. And it’s a definition that stems from collective contributions.
+
+There’s no longer a hierarchy telling you: “Right now this war is important, right now there’s famine somewhere, and right now we’re all very rich and living very well. And Spain is a wonderful country, or Iran is a terrifying country.” No. Now we have many more voices. Either we create a space of credibility of our own, or our reality will be shaped by others. And we already know who those others are: those who control the money.
+
+What we’re proposing is to create a collective space—not an “alternative” one. You don’t have to leave everything else behind and join La Nuestra. No, it’s just another space where you can, first, verify that what you’re told is true; second, share your reality to see if it resonates with other realities; and third, do so in a warm environment. Do it in a welcoming place, do it the way we want to experience reality. We don’t want to experience it through the lens of belligerence, hostility, violence, or competitiveness. It’s not about “I’ll tell it first” or “I’ll tell it better.” No. Here, we tell our stories collectively, and to me, that’s very, very important.
+
+Besides, we’re a little fed up with the idea that women can only develop cheap projects, small projects, and cute projects. It’s neither small, nor cheap, nor cute. It’s big, it’s expensive, and it’s, to a certain extent, wild. If we set out to examine and challenge the social, economic, political, and personal relationships to which we’ve been subjected, this project isn’t a gentle one.
