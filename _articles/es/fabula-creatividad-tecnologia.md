@@ -16,7 +16,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/soredi-fabulas.png
   mobile: /media/articles/mobile/soredi-fabulas.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/soredi-fabulas.png
   alt: fabula Soredi
   credits: fabula Soredi
   caption: fabula Soredi

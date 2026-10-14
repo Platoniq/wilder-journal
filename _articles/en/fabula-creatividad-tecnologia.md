@@ -12,7 +12,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/soredi-fabulas.png
   mobile: /media/articles/mobile/soredi-fabulas.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/soredi-fabulas.png
 related_article_uids:
   - Against-Administrative-Obscurantism
   - demoracia-diven
