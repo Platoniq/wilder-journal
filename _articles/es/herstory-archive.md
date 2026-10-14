@@ -19,7 +19,7 @@ interviewee: Núria Ferran Ferrer
 cover:
   path: /media/articles/heroes/nuria.png
   mobile: /media/articles/mobile/nuria.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/nuria.png
   alt: Núria Ferran Ferrer
   credits: Núria Ferran Ferrer
   caption: Núria Ferran Ferrer
