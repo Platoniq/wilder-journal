@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/soredi-fabulas.png
 ---
 Hay algo profundamente humano en no saber qué queremos. En necesitar tiempo para descubrirlo, equivocarnos al explicarlo y encontrar en la mirada de otro una respuesta que no esperábamos. Buena parte de lo que somos se construye así, entre deseos que no terminamos de comprender y personas que nunca llegan a conocernos del todo. Quizás por eso necesitamos tanto a los demás. No para que confirmen lo que ya sabemos, sino para descubrir aquello que todavía ignoramos de nosotros mismos.
 
