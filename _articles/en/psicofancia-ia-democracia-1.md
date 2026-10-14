@@ -18,8 +18,12 @@ author_uids:
 interviewee: Liliana Arroyo
 cover:
   path: /media/articles/heroes/lili.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/1758434727242.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - Against-Administrative-Obscurantism
+  - chayn-feminism-technology
+  - AI-dialogue
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
