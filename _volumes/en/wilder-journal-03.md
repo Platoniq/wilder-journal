@@ -9,7 +9,7 @@ cover:
   alt: "A round pink sticker reading Reunite Rebuild in red letters — Wilder
     Journal #3 by Platoniq"
   credits: "Wilder Journal #3 by Platoniq"
-  path: /media/volumes/heroes/stickers_platoniq_-04.png
+  path: /media/volumes/heroes/cover-03.webp
   mobile: /media/volumes/mobile/stickers_platoniq_-04.png
   thumbnail: /media/volumes/thumbnails/stickers_platoniq_-04.png
 locale: en

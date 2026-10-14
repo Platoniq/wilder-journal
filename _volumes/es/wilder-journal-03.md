@@ -9,7 +9,7 @@ cover:
   alt: "Una pegatina redonda rosa con el texto Reunite Rebuild en letras rojas —
     Wilder Journal #3 de Platoniq"
   credits: "Wilder Journal #3 by Platoniq"
-  path: /media/volumes/heroes/stickers_platoniq_-04.png
+  path: /media/volumes/heroes/cover-03.webp
   mobile: /media/volumes/mobile/stickers_platoniq_-04.png
   thumbnail: /media/volumes/thumbnails/stickers_platoniq_-04.png
 locale: es
