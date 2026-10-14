@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/cris.png
 ---
 Having reached our target in the Goteo crowdfunding campaign, we speak once again with Cristina Fallarás, a journalist and writer, about “La Nuestra”, the future collective and testimonial network against gender-based violence launched by Acción Comadres. Thanks to its 3,309 founding members, this platform will collect and publicise the testimonies Cristina has gathered since August 2023, creating a living archive that makes it possible to reconstruct the truth about sexual violence and offer support to women in need.
 

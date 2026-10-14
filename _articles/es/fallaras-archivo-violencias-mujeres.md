@@ -37,7 +37,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/cris.png
 ---
 Después de haber llegado al objetivo en la campaña de crowdfunding en Goteo, volvemos a hablar con **Cristina Fallarás**, periodista y escritora, sobre "La Nuestra", la futura red colectiva y testimonial contra la violencia machista impulsada por Acción Comadres. Un espacio que gracias a las 3.309 fundadoras recogerá y visibilizará **los testimonios** que ha acumulado Cristina desde agosto de 2023, para aportar un archivo vivo donde sea posible reconstruir la verdad sobre la violencia sexual y ofrecer ayudas a las mujeres que lo necesiten. 
 
