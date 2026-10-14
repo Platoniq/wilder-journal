@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/1758434727242.jpg
 ---
 She entered college saying, “I want to understand social reality in order to transform it, because what I want is to improve the lives of my neighbors.” Years later, and following her tenure as Director General of the Department of the Digital Society at the Government of Catalonia, **Liliana Arroyo** now heads the ESADE and Exea Chair for Socially Responsible Digital Innovation (SoReDI), where she fosters a Community of Practice for young people aged 16 to 25, with the goal of proposing new ways to experience technology, particularly as it relates to youth loneliness and AI.
 

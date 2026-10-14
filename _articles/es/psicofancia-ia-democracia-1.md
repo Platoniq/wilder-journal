@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/1758434727242.jpg
 ---
 Entró en la facultad diciendo: yo quiero entender la realidad social para transformarla porque lo que quiero es mejorar la vida de mis vecinos. Años más tarde, y tras su paso como Directora General del Departamente de Sociedad Digital de la Generalitat de Cataluña, **Liliana Arroyo** dirige la Cátedra de Esade y Exea Impact para una Innovación Digital Socialmente Responsable (SoReDI) desde donde impulsa una Comunidad de Práctica de jóvenes de entre 16 y 25 años, con la vista puesta en proponer nuevas formas de experimentar la tecnología, sobre todo, en lo que a la soledad juvenil y la IA se refiere.
 
