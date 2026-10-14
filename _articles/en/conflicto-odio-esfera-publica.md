@@ -8,7 +8,7 @@ date: 2026-10-14T21:58:00.000+02:00
 date-updated: 2026-10-14T21:58:00.000+02:00
 article-order: 1
 uid: conflicto-odio-esfera-publica
-interviewee: null
+interviewee: Marta Cambronero
 cover:
   path: /media/articles/heroes/marta.png
   mobile: /media/articles/mobile/marta.png

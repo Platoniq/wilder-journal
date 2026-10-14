@@ -13,6 +13,7 @@ description: "Deliberar cuando ya no estamos de acuerdo: conflicto, odio y esfer
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+interviewee: Marta Cambronero
 cover:
   path: /media/articles/heroes/marta.png
   mobile: /media/articles/mobile/marta.png
