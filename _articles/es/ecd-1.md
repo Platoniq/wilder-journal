@@ -32,182 +32,130 @@ image:
 
 **¿Cómo pueden las entidades sociales fortalecer sus capacidades democráticas, incorporar nuevas formas de participación y convertir las experiencias de las comunidades con las que trabajan en propuestas de transformación política?** La Escuela de Creatividad y Democracia (ECD), impulsada por la Fundación Platoniq, propone una respuesta: aprender a participar, facilitar y generar incidencia a través de la práctica.
 
-En un contexto marcado por la desafección política, la polarización y la creciente desconfianza hacia las instituciones, las organizaciones sociales desempeñan un papel fundamental como espacios de encuentro, organización colectiva y defensa de derechos. Sin embargo, promover la participación no consiste únicamente en convocar reuniones o abrir espacios de consulta. Requiere desarrollar capacidades para escuchar experiencias diversas, reconocer las desigualdades que condicionan quién puede participar, gestionar conflictos, construir acuerdos y transformar las demandas sociales en propuestas capaces de llegar a las instituciones.
+En un contexto marcado por la desafección política, la polarización y la desconfianza hacia las instituciones, las organizaciones sociales son espacios fundamentales de encuentro, organización colectiva y defensa de derechos. Sin embargo, promover la participación no consiste solo en convocar reuniones o abrir consultas. Requiere aprender a escuchar experiencias diversas, reconocer desigualdades, gestionar conflictos, construir acuerdos y traducir demandas sociales en propuestas con capacidad de incidencia.
 
-La ECD nace como un **laboratorio de experimentación democrática** que combina programas formativos, metodologías creativas y experiencias reales de participación. Su objetivo es fortalecer las capacidades de quienes impulsan procesos democráticos desde organizaciones sociales, comunidades, movimientos ciudadanos e instituciones, ofreciendo oportunidades para aprender nuevas herramientas y ponerlas a prueba en situaciones concretas.
+La ECD nace como **laboratorio de experimentación democrática** que combina programas formativos, metodologías creativas y experiencias reales de participación. Su objetivo es fortalecer las capacidades de quienes impulsan procesos democráticos desde organizaciones sociales, comunidades, movimientos ciudadanos e instituciones.
 
 ## De la formación a la acción: aprender capacidades democráticas en contextos reales
 
-¿Cómo se aprende a facilitar un debate entre personas con posiciones enfrentadas? ¿Cómo conseguimos que quienes habitualmente quedan fuera de los espacios de decisión puedan participar en igualdad de condiciones? ¿Cómo convertimos experiencias de discriminación, exclusión o malestar colectivo en propuestas políticas concretas?
+¿Cómo se facilita un debate entre posiciones enfrentadas? ¿Cómo se incorporan las voces que normalmente quedan fuera de los espacios de decisión? ¿Cómo se convierten experiencias de discriminación en propuestas políticas?
 
-Estas son algunas de las preguntas que atraviesan el itinerario formativo de la Escuela de Creatividad y Democracia. Su propuesta parte de una premisa: **las capacidades democráticas no se adquieren únicamente estudiando la participación, sino ejercitándola en contextos reales**.
+La Escuela parte de una premisa: **las capacidades democráticas no se adquieren únicamente estudiando la participación, sino ejercitándola**. Su itinerario combina el cuidado interseccional con metodologías de las artes escénicas y visuales, investigación participativa y tecnologías cívicas abiertas. Mediante prácticas, ensayos y prototipos, las personas participantes exploran el **Teatro Legislativo**, los etnofanzines participativos, el mapeo colectivo, la traducción audiovisual y las plataformas digitales de deliberación.
 
-La Escuela combina el cuidado interseccional con metodologías inspiradas en las artes escénicas y visuales, la investigación participativa y las tecnologías cívicas abiertas. A través de prácticas, ensayos y prototipos, las personas participantes aprenden a diseñar procesos de deliberación, facilitar conversaciones complejas, utilizar el Teatro Legislativo, traducir experiencias sociales a lenguajes audiovisuales, explorar herramientas digitales de participación y experimentar con metodologías como los etnofanzines participativos.
+Para una entidad social, este repertorio permite ir más allá de los formatos habituales de consulta. El Teatro Legislativo permite representar conflictos y ensayar alternativas; el mapeo colectivo ayuda a identificar barreras invisibles en diagnósticos convencionales; los lenguajes artísticos abren vías de expresión a quienes no encuentran su lugar en debates formales; y las plataformas digitales ofrecen continuidad y escala a la conversación.
 
-Para las entidades sociales, estas herramientas permiten ampliar el repertorio de formas de escuchar, trabajar y decidir colectivamente. El Teatro Legislativo, por ejemplo, permite transformar situaciones de injusticia en escenas sobre las que intervenir y ensayar alternativas. El mapeo colectivo ayuda a reconocer problemas compartidos y desigualdades que pueden pasar inadvertidas en los diagnósticos convencionales. Los formatos audiovisuales y artísticos abren otras maneras de expresar experiencias que no siempre encuentran espacio en reuniones formales. Y las plataformas digitales participativas permiten recoger, organizar y dar continuidad a las aportaciones de comunidades amplias.
+La singularidad de la ECD es su apuesta por **incidir mientras se aprende**: conectar la formación con procesos participativos reales desarrollados junto a comunidades, organizaciones e instituciones. Durante la primera edición se desplegó una unidad didáctica sobre democracia y creatividad en centros de Madrid y Barcelona, se impulsó *Mindset Revolution* junto a la Universidad de Birmingham y el Kasal de Joves de Roquetes, y se colaboró con la Asamblea Cívica española para difundir las 172 recomendaciones de la Asamblea Ciudadana para el Clima. También se investigó la relación entre tiempo y participación, el derecho a la ciudad y el malestar ecosocial juvenil.
 
-Pero la principal singularidad de la ECD es su apuesta por **incidir mientras se aprende**. La formación no termina con la adquisición de herramientas, sino que se conecta con procesos participativos desarrollados junto a comunidades, entidades sociales y administraciones públicas. De esta manera, quienes se forman pueden experimentar cómo se diseña, facilita y acompaña un proceso democrático desde sus primeras preguntas hasta la elaboración de recomendaciones y propuestas de incidencia.
+La experiencia dio lugar a una comunidad de aprendizaje con capacidades complementarias: facilitar diálogos seguros e inclusivos, diseñar procesos digitales, investigar creativamente y conectar conclusiones comunitarias con campañas e incidencia institucional.
 
-Durante su primera edición, la Escuela desplegó una unidad didáctica sobre democracia y creatividad en centros educativos de Madrid y Barcelona, impulsó el proyecto *Mindset Revolution* junto a la Universidad de Birmingham y el Kasal de Joves de Roquetes y colaboró con la Asamblea Cívica española para contribuir a difundir las 172 recomendaciones surgidas de la primera Asamblea Ciudadana para el Clima en España.
+## Cinco experiencias reales para fortalecer capacidades democráticas
 
-También exploró el derecho al tiempo como condición para la participación, el derecho a la ciudad de las personas migrantes y las posibilidades de la deliberación creativa ante el malestar ecosocial juvenil. Estas experiencias se complementaron con un podcast y una plataforma digital para desarrollar simulaciones e iniciativas participativas reales.
+Los siguientes **cinco policy briefs**, elaborados en el marco de los tres meses de formación de la primera edición, documentan tanto problemas sociales concretos como formas de aprender a afrontarlos mediante participación. Cada experiencia plantea una capacidad que puede trasladarse al trabajo cotidiano de las entidades sociales.
 
-El resultado es una comunidad de aprendizaje que reúne diferentes perfiles y capacidades: personas facilitadoras capaces de crear espacios de diálogo inclusivos, profesionales que diseñan procesos de participación digital, investigadoras que conectan experiencias ciudadanas con conocimiento y datos, y agentes de incidencia que acompañan la transformación de las conclusiones colectivas en demandas y propuestas políticas.
+## 1. El tiempo también es un derecho democrático
 
-## Cinco experiencias reales para aprender a transformar la participación
+**Capacidad democrática: reconocer y transformar las barreras estructurales para participar.**
 
-A lo largo de su primera edición, la Escuela conectó su programa formativo con distintas experiencias de participación, investigación e incidencia. De este trabajo surgieron **cinco policy briefs**, desarrollados durante los tres meses de formación, que recogen aprendizajes y recomendaciones sobre problemas sociales concretos.
+**Si el tiempo está desigualmente distribuido, la democracia también lo está.** Un experimento de democracia participativa investigó hasta qué punto la pobreza de tiempo aleja de los espacios de decisión a quienes asumen cuidados o encadenan largas jornadas laborales.
 
-Más que documentos de conclusiones, constituyen recursos para que otras entidades sociales puedan conocer metodologías, reconocer barreras y explorar maneras de aplicarlas en sus propios proyectos.
+Entre marzo y junio de 2024 se recogieron 352 respuestas (323 válidas) en una encuesta exploratoria en OpenSpaces (Decidim), complementada con **12 entrevistas** a especialistas en participación y género y datos de la encuesta europea HETUS. Se preguntó por el trabajo remunerado, los cuidados, los desplazamientos, las prácticas participativas y sus barreras.
 
-### 1. El tiempo también es un derecho democrático: cómo diseñar una participación compatible con la vida
+{% gallery { "simple": false, "images": [{"path":"/media/20230610_deep_time.jpg","alt":"El tiempo aprieta","caption":"El tiempo aprieta","credits":"Esepe (2023)"}] } %}
 
-**Capacidad democrática: reconocer y transformar las barreras estructurales que impiden participar.**
+Los resultados mostraron que muchas personas dedicaban entre tres y seis horas diarias a cuidados no remunerados, con una carga desproporcionada para las mujeres. Al sumar empleo y cuidados, las jornadas de ellas se situaban entre siete y siete horas y media, frente a unas seis o seis horas y media para los hombres. La vida asociativa, el voluntariado y la política apenas ocupaban entre siete y diez minutos diarios. Estas barreras se cruzaban con el género, la clase social, la situación migratoria y la etapa vital.
 
-Si el tiempo está desigualmente distribuido, la democracia también lo está. Esta fue la premisa de un experimento de democracia participativa que investigó hasta qué punto la pobreza de tiempo condiciona el acceso a los espacios de decisión, especialmente entre quienes asumen responsabilidades de cuidados o combinan diferentes jornadas laborales.
+**¿Qué pueden aprender las entidades sociales?** Abrir una convocatoria no garantiza participación. Ajustar horarios, introducir formatos asincrónicos, facilitar la conciliación y reducir los costes materiales de intervenir son decisiones democráticas. **Sin justicia temporal, participar puede convertirse en un privilegio.**
 
-Entre marzo y junio de 2024 se desarrolló una encuesta exploratoria en OpenSpaces, una plataforma basada en Decidim, que recogió 352 respuestas, de las cuales 323 fueron válidas. La investigación analizó la distribución del tiempo entre trabajo remunerado, cuidados no remunerados y desplazamientos, así como las principales barreras y condiciones que facilitan la participación. Los resultados se complementaron con 12 entrevistas a especialistas en participación y género y con datos de la encuesta europea de usos del tiempo HETUS.
+{% questions { "items": [{"question": "¿Qué horarios y formatos excluyen a las personas con responsabilidades de cuidados?"}, {"question": "¿Qué costes de tiempo exige participar en nuestras actividades?"}] } %}
 
-Los resultados revelaron que muchas personas dedican entre tres y seis horas diarias a cuidados no remunerados, una responsabilidad que recae de manera desproporcionada sobre las mujeres. Cuando se suman los cuidados y el empleo, ellas acumulan jornadas de entre siete y siete horas y media, frente a las seis o seis horas y media de los hombres. Mientras tanto, el tiempo dedicado a la vida asociativa, el voluntariado o la participación política apenas alcanza entre siete y diez minutos diarios.
+{% file { "title": "Usos del tiempo y su relación con la participación política: propuesta de redistribución", "info": "Policy Brief", "file": "/media/pb-tiempo-profundo.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.05.29.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-La investigación mostró que la falta de tiempo no afecta a todas las personas de la misma manera, sino que está atravesada por el género, la clase social, la etapa vital y la situación migratoria. Cuando participar implica renunciar al descanso, a los cuidados o a necesidades básicas, los espacios democráticos terminan reproduciendo las desigualdades que pretenden combatir.
-
-**¿Qué pueden aprender las entidades sociales?**
-
-Esta experiencia invita a revisar cómo organizamos nuestras propias actividades y procesos participativos. No basta con abrir una convocatoria si las condiciones materiales impiden que determinadas personas puedan responder. Adaptar los horarios, ofrecer modalidades asincrónicas, facilitar la conciliación o reducir los costes de participación son decisiones de diseño democrático.
-
-La capacidad que se pone en práctica es identificar barreras estructurales y rediseñar los procesos para que encajen en la vida real de las personas. Porque **sin justicia temporal, la participación corre el riesgo de convertirse en un privilegio**.
-
-**Recurso:** *Usos del tiempo y su relación con la participación política: propuesta de redistribución*.
-
-[Descargar Policy Brief](/media/pb-tiempo-profundo.pdf)
-
-### 2. Salud mental juvenil: aprender a escuchar antes de diseñar soluciones
+## 2. Salud mental juvenil: aprender a escuchar antes de diseñar soluciones
 
 **Capacidad democrática: facilitar procesos inclusivos y convertir las experiencias de los colectivos afectados en recomendaciones políticas.**
 
-¿Cómo pueden las entidades sociales abordar problemas complejos sin hablar en nombre de las personas que los viven? Esta pregunta ha orientado los procesos de investigación participativa y democracia creativa desarrollados durante tres años con jóvenes de Manchester y Barcelona.
+Durante tres años, jóvenes de Manchester y Barcelona trabajaron con Platoniq en investigación participativa y democracia creativa sobre salud mental. En *Mindset Revolution*, *Foro Joven* y *CoActuem per la Salut Mental* recurrieron al Teatro Legislativo, la participación digital, asambleas presenciales y mapeos colectivos para expresar experiencias de desigualdad y traducirlas en recomendaciones destinadas a servicios de salud, centros educativos y gobiernos locales.
 
-Mediante Teatro Legislativo, herramientas de participación digital, mapeos colectivos y asambleas presenciales, los jóvenes exploraron sus experiencias de salud mental, identificaron desigualdades interseccionales y construyeron propuestas para instituciones de salud, centros educativos y gobiernos locales.
+El elemento decisivo fue reconocerles como protagonistas de las decisiones, no únicamente como personas consultadas. También evaluaron su propia participación y el impacto que percibían, fortaleciendo su confianza y capacidad de incidencia.
 
-El trabajo se articuló a través de tres procesos participativos: *Mindset Revolution*, en Manchester, y *Foro Joven* y *CoActuem per la Salut Mental*, en Barcelona. La metodología situó a los participantes como protagonistas en la identificación de problemas y en el diseño de las respuestas, en lugar de tratarlos únicamente como personas consultadas o destinatarias de servicios.
+{% gallery { "simple": false, "images": [{"path":"/media/p1075237-mejorado-nr.jpg","alt":"Presentación de las conclusiones a la Agencia Catalana de Juventut","caption":"Presentación de las conclusiones a la Agencia Catalana de Juventut","credits":"Platoniq (2025)"}] } %}
 
-También se incorporaron momentos para evaluar la propia participación y el impacto social percibido, reforzando la confianza de los jóvenes y su capacidad para reconocer cómo sus aportaciones podían influir en las decisiones colectivas.
+Entre el 23 y el 26 de junio de 2025, jóvenes de Barcelona viajaron a Manchester para profundizar en las propuestas, tras conversar en un [podcast colaborativo](https://openspaces.platoniq.net/conferences/MRLT/f/507/proposals?locale=es). Trabajaron sobre cuatro problemáticas —ecoansiedad, igualdad de género en las escuelas, tokenismo y precariedad habitacional— y contrastaron tres propuestas con actores públicos y sociales de Greater Manchester.
 
-Entre el 23 y el 26 de junio de 2025, un grupo de jóvenes de Barcelona viajó a Manchester para continuar desarrollando las recomendaciones. Previamente, habían participado en un podcast colaborativo que abrió conversaciones sobre salud mental, ecoansiedad y otras preocupaciones compartidas.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NiGjzY-h7-g?si=PCnIDzwHaFeEiWdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-A partir de estos intercambios se identificaron cuatro grandes problemáticas: ansiedad ecológica, igualdad de género en las escuelas, tokenismo y precariedad habitacional. Posteriormente, los talleres de Teatro Legislativo permitieron trabajar estas cuestiones y formular tres recomendaciones contrastadas con representantes institucionales y profesionales de Greater Manchester:
+{% questions { "items": [{"question":"Propuesta 1: Cada escuela y puesto de trabajo tiene un Departamento de igualdad y derechos"},{"question":"Propuesta 2: Creación de un Consejo de Responsabilidad y Legado"},{"question":"Propuesta 3: Fomento de espacios seguros para probar nuevas maneras de trabajar"}] } %}
 
-- Crear departamentos de igualdad y derechos en escuelas y lugares de trabajo.
-- Establecer un Consejo de Responsabilidad y Legado.
-- Fomentar espacios seguros donde experimentar nuevas formas de trabajar.
+**¿Qué pueden aprender las entidades sociales?** Escuchar es una práctica que requiere condiciones de confianza, atención a las relaciones de poder y posibilidad real de influir en el proceso. Las metodologías utilizadas permiten pasar de identificar necesidades al codiseño de respuestas, sin reducir la participación a un gesto simbólico.
 
-**¿Qué pueden aprender las entidades sociales?**
+{% questions { "items": [{"question": "¿Quién decide qué problemas se investigan y qué recomendaciones se priorizan?"}, {"question": "¿Cómo sabemos si las personas participantes pueden influir de verdad?"}] } %}
 
-Este proceso muestra cómo acompañar a una comunidad para que sus experiencias se conviertan en conocimiento colectivo y propuestas de cambio. La escucha no es simplemente una fase inicial de consulta: es una capacidad que requiere reconocer relaciones de poder, crear condiciones de confianza y permitir que los propios participantes influyan en el desarrollo del proceso.
+{% file { "title": "Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental", "info": "Policy Brief", "file": "/media/pb-mindset-revolution_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.07.38.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-Para organizaciones que trabajan con jóvenes, salud mental, educación o derechos sociales, la experiencia ofrece herramientas para pasar de la identificación de necesidades al codiseño de respuestas, incorporando una perspectiva interseccional y evitando formas de participación meramente simbólicas.
+## 3. Derecho a la ciudad: transformar experiencias de exclusión en propuestas políticas
 
-**Recurso:** *Escuchar la voz de los jóvenes para un mejor apoyo interseccional en salud mental*.
+**Capacidad democrática: utilizar creatividad y deliberación para traducir conflictos cotidianos en demandas colectivas.**
 
-[Descargar Policy Brief](/media/pb-mindset-revolution_esp.pdf)
+El 10 de julio de 2025, quince jóvenes de 18 a 30 años participaron en Barcelona en un taller sobre derecho a la ciudad, junto a jóvenes migrantes acompañados por la Fundació Barcelonactua, activistas de derechos y una representante de la Generalitat. La sesión fue facilitada por la propia cohorte de la ECD, poniendo en práctica el aprendizaje de su itinerario.
 
-### 3. Derecho a la ciudad: transformar las experiencias de exclusión en propuestas políticas
+Un mapeo inicial identificó fricciones y formas de exclusión en la vida cotidiana. Las experiencias se convirtieron en escenas de Teatro Legislativo, utilizando guiones, gestos, objetos y mobiliario improvisado para visibilizar la dificultad de trámites y accesos a derechos.
 
-**Capacidad democrática: utilizar la creatividad y la deliberación para transformar conflictos cotidianos en demandas colectivas.**
+{% gallery { "simple": false, "images": [{"path":"/media/dsc00111.jpg","alt":"Votación sobre propuestas políticas","caption":"Votación sobre propuestas políticas","credits":"Platoniq (2025)"}] } %}
 
-El 10 de julio de 2025, quince jóvenes de entre 18 y 30 años participaron en Barcelona en un taller sobre el derecho a la ciudad. Entre ellos había jóvenes migrantes acompañados por la Fundació Barcelonactua, activistas por los derechos de las personas migrantes y una representante de la Generalitat de Catalunya.
+Después, el laboratorio político permitió formular **dos propuestas**: transiciones justas hacia la ciudadanía para jóvenes migrantes en situación de vulnerabilidad e itinerarios administrativos digitales con acompañamiento humano. Las medidas abordaban la fragmentación de los circuitos formativos y residenciales, la complejidad burocrática y la falta de coordinación entre oficinas.
 
-El encuentro, facilitado por participantes de la propia Escuela de Creatividad y Democracia, constituyó una oportunidad para poner en práctica las metodologías aprendidas durante el itinerario formativo.
+**¿Qué pueden aprender las entidades sociales?** Representar una situación de injusticia permite explorar sus causas, escuchar posiciones diferentes y ensayar alternativas. El objetivo no es hablar en nombre de quienes experimentan la desigualdad, sino acompañarles para que sus experiencias orienten propuestas concretas.
 
-La actividad comenzó con un ejercicio de mapeo colectivo para identificar experiencias de exclusión, barreras administrativas y desigualdades relacionadas con el derecho a la ciudad. A partir de las situaciones compartidas se construyeron pequeñas escenas teatrales que representaban conflictos cotidianos. Mediante gestos, objetos, cambios de ropa y mobiliario improvisado, las personas participantes hicieron visibles dificultades que a menudo quedan reducidas a expedientes, estadísticas o categorías administrativas.
+{% questions { "items": [{"question": "¿Quién define los problemas y quién formula las soluciones en nuestros proyectos?"}, {"question": "¿Cómo podemos convertir relatos cotidianos en propuestas ante las instituciones?"}] } %}
 
-Tras la representación, el grupo pasó a un laboratorio político donde reflexionó sobre qué cambios serían necesarios para transformar esas situaciones. El resultado fueron dos propuestas de políticas públicas: una orientada a garantizar **transiciones justas hacia la ciudadanía para jóvenes migrantes en situación de vulnerabilidad**, y otra centrada en desarrollar **itinerarios administrativos digitales con acompañamiento humano**.
+{% file { "title": "Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes", "info": "Policy Brief", "file": "/media/pb-derecho-a-la-ciudad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.08.40.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-La primera aborda la fragmentación de los circuitos formativos y residenciales que enfrentan quienes carecen de documentación, redes familiares o vivienda estable. La segunda señala la complejidad de los trámites, las duplicidades y la falta de coordinación administrativa como obstáculos para acceder a derechos básicos.
+## 4. Madres migrantes: del reconocimiento de las violencias a la construcción colectiva de derechos
 
-**¿Qué pueden aprender las entidades sociales?**
+**Capacidad democrática: crear espacios seguros, trabajar desde la interseccionalidad y construir soluciones frente a la discriminación.**
 
-El Teatro Legislativo permite trabajar situaciones de injusticia desde la experiencia de quienes las viven, pero también desde la posibilidad de transformarlas. En lugar de limitarse a denunciar un problema, las personas participantes pueden representar el conflicto, comprender las posiciones de los diferentes actores y ensayar alternativas.
+En Barcelona, durante 2025, un grupo de madres migrantes convirtió situaciones de discriminación en escenas de Teatro Legislativo: rechazo en el acceso a la vivienda por llevar hijab, prejuicios laborales contra madres solas y cuestionamiento del derecho a la atención sanitaria. El público intervino como *espect-actor* para cambiar las historias y ensayar respuestas colectivas.
 
-Para entidades que acompañan a personas migrantes o trabajan en vivienda, derechos sociales y acción comunitaria, esta metodología ofrece una manera de construir diagnósticos participativos que conduzcan a propuestas de incidencia. La capacidad democrática consiste en facilitar el paso del relato individual a la acción colectiva, sin sustituir la voz de quienes experimentan las desigualdades.
+{% gallery { "simple": false, "images": [{"path":"/media/p1076729.jpg","alt":"Participantes después del taller de Teatro Legislativo","caption":"Participantes después del taller de Teatro Legislativo","credits":"Platoniq (2025)"}] } %}
 
-**Recurso:** *Reclamar reconocimiento: el derecho a la ciudad desde las juventudes migrantes*.
+El proceso apuntó a tres ámbitos de transformación: **vivienda digna**, también para familias arraigadas sin documentación regularizada; **empleo justo**, con protección frente a la explotación; y **servicios sociales y de salud sin discriminación**, mediante mediación comunitaria y formación intercultural. Las experiencias revelaron cómo género, origen, maternidad y situación administrativa se entrecruzan en obstáculos concretos.
 
-[Descargar Policy Brief](/media/pb-derecho-a-la-ciudad_esp.pdf)
+**¿Qué pueden aprender las entidades sociales?** Aplicar una mirada interseccional significa entender cómo se combinan las estructuras de desigualdad y revisar las condiciones de participación. Las personas habitualmente definidas como destinatarias de ayudas pueden ser protagonistas de la creación de soluciones.
 
-### 4. Madres migrantes: del reconocimiento de las violencias a la construcción colectiva de derechos
+{% questions { "items": [{"question": "¿Qué discriminaciones se entrecruzan en las experiencias de nuestra comunidad?"}, {"question": "¿Qué condiciones permitirían participar sin reproducir relaciones de poder?"}] } %}
 
-**Capacidad democrática: crear espacios seguros, trabajar desde la interseccionalidad y construir soluciones colectivas frente a la discriminación.**
+{% file { "title": "Madres migrantes: triple vulnerabilidad y derecho a una vida digna", "info": "Policy brief", "file": "/media/pb-triple-vulnerabilidad_esp.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-12.32.55.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
-En Barcelona, un grupo de madres migrantes participó en 2025 en un proceso de Teatro Legislativo para transformar experiencias de discriminación en propuestas de acción política. Las escenas partieron de situaciones cotidianas: una agencia inmobiliaria que cierra sus puertas al ver un hijab, una entrevista de trabajo marcada por los prejuicios hacia las madres solas o un centro sanitario donde se cuestiona el derecho de una mujer migrante a recibir atención.
+## 5. Ecoansiedad y participación juvenil: convertir el malestar en acción colectiva
 
-A través de la representación teatral, estas experiencias se hicieron visibles y pudieron ser discutidas colectivamente. El público dejó de ocupar una posición pasiva para convertirse en *espect-actor*, interviniendo en las escenas y ensayando posibles respuestas a las situaciones planteadas.
+**Capacidad democrática: utilizar lenguajes creativos para facilitar expresión, deliberación e incidencia.**
 
-El proceso permitió formular propuestas relacionadas con tres grandes ámbitos: el acceso a una **vivienda digna** para familias con arraigo, incluso sin documentación regularizada; un **empleo justo**, con protección frente a la explotación laboral; y unos **servicios sociales y sanitarios sin discriminación**, mediante mediación comunitaria y formación en competencia cultural.
+El 11 de julio de 2025, una jornada sobre ecoansiedad, salud mental y desafección juvenil comenzó con un podcast en mesa redonda conducido por Alejandra Gallardo junto a Sara S. Ribés y Carla Riera. El intercambio abordó la necesidad de canales reales de incidencia para que la preocupación ante la crisis climática no se traduzca en impotencia.
 
-La experiencia mostró que las discriminaciones no actúan de manera aislada. La condición migrante, el género, la maternidad, la situación administrativa y las condiciones socioeconómicas se entrecruzan, produciendo obstáculos específicos para el ejercicio de derechos.
+Un taller de fanzines permitió a las personas jóvenes explorar sus emociones y propuestas mediante collage, escritura e imágenes. Después, un laboratorio político organizado por Platoniq sistematizó las aportaciones en líneas estratégicas.
 
-**¿Qué pueden aprender las entidades sociales?**
+{% gallery { "simple": false, "images": [{"path":"/media/v5_zine_democratizar_compressed.jpg","alt":"Resultado del taller de fanzines","caption":"Resultado del taller de fanzines","credits":"Platoniq (2025)"}] } %}
 
-Trabajar desde una perspectiva interseccional implica ir más allá de identificar categorías de vulnerabilidad. Significa comprender cómo distintas estructuras de desigualdad se combinan en situaciones concretas y cómo deben transformarse las condiciones de participación para que todas las personas puedan intervenir.
+De ahí surgieron tres propuestas: incorporar la ecoansiedad en políticas de salud mental y acción climática; convertir la deliberación en una infraestructura educativa estable en Secundaria, Bachillerato y Formación Profesional; e integrar afectos y creatividad en los espacios deliberativos mediante teatro, fanzines y otras metodologías.
 
-El proceso también demuestra que las personas habitualmente consideradas destinatarias de ayuda pueden asumir un papel protagonista en la elaboración de propuestas. Para las entidades sociales, esto supone revisar las relaciones de poder que atraviesan sus propias prácticas y crear espacios donde las personas acompañadas puedan convertirse en agentes de transformación.
+**¿Qué pueden aprender las entidades sociales?** Los debates convencionales no ofrecen a todo el mundo las mismas posibilidades de expresión. Las herramientas creativas ayudan a reconocer experiencias compartidas y convertir preocupaciones en perspectivas de futuro y propuestas de incidencia.
 
-**Recurso:** *Madres migrantes: triple vulnerabilidad y derecho a una vida digna*.
+{% questions { "items": [{"question": "¿Qué lenguajes podrían facilitar la expresión de personas poco presentes en nuestras reuniones?"}, {"question": "¿Cómo conectamos las aportaciones creativas con decisiones y compromisos concretos?"}] } %}
 
-[Descargar Policy Brief](/media/pb-triple-vulnerabilidad_esp.pdf)
-
-### 5. Ecoansiedad y participación juvenil: convertir el malestar en capacidad de acción colectiva
-
-**Capacidad democrática: utilizar lenguajes creativos para facilitar la expresión, la deliberación y la incidencia política.**
-
-La crisis climática no es únicamente una cuestión ambiental. También tiene consecuencias sobre la salud mental, las expectativas de futuro y la relación de las personas jóvenes con la democracia. Cuando existe preocupación por los problemas colectivos, pero no se encuentran espacios donde influir en las decisiones, el compromiso puede transformarse en frustración o retraimiento.
-
-El 11 de julio de 2025, la Escuela abrió un espacio de participación juvenil para explorar estas tensiones a través de diferentes metodologías creativas. La jornada comenzó con la grabación de un podcast en formato de mesa redonda sobre ecoansiedad, salud mental y desafección política, conducido por Alejandra Gallardo junto a Sara S. Ribés y Carla Riera.
-
-A partir de esas conversaciones se desarrolló un taller de fanzines participativos en el que las personas jóvenes utilizaron el collage, la escritura y los recursos visuales para expresar preocupaciones, experiencias y deseos de transformación. Las producciones sirvieron como punto de partida para construir un diagnóstico compartido y explorar posibles respuestas políticas.
-
-Posteriormente, un laboratorio político permitió organizar las aportaciones en tres líneas de actuación. La primera propone incorporar la ecoansiedad juvenil a las políticas de salud mental y acción climática, incluyendo mecanismos de reconocimiento institucional, protocolos de atención y espacios juveniles de deliberación climática. La segunda plantea convertir la deliberación en una infraestructura educativa estable en Secundaria, Bachillerato y Formación Profesional, con recursos para asambleas y mecanismos de participación vinculados a las decisiones públicas. La tercera propone integrar las emociones, los afectos y la creatividad en los procesos deliberativos mediante metodologías como el Teatro Legislativo y los fanzines.
-
-**¿Qué pueden aprender las entidades sociales?**
-
-No todas las personas encuentran en un debate convencional la mejor forma de expresar sus preocupaciones o formular propuestas. Incorporar lenguajes artísticos, narrativos y audiovisuales puede ampliar las posibilidades de participación y facilitar que emerjan experiencias que de otro modo permanecerían fuera de la conversación.
-
-Esta experiencia ofrece a las entidades una manera de trabajar cuestiones complejas sin reducirlas a una sucesión de diagnósticos negativos. La creatividad puede ayudar a reconocer el malestar, construir vínculos y transformar preocupaciones compartidas en propuestas de futuro.
-
-La capacidad democrática consiste en conectar la expresión individual con la deliberación colectiva y, posteriormente, con oportunidades reales de incidencia.
-
-**Recurso:** *La participación juvenil como infraestructura clave ante el malestar ecosocial*.
-
-[Descargar Policy Brief](/media/pb-crisis-ecosocial.pdf)
+{% file { "title": "La participación juvenil como infraestructura clave ante el malestar ecosocial", "info": "Policy Brief", "file": "/media/pb-crisis-ecosocial.pdf", "image": "/media/captura-de-pantalla-2025-10-02-a-las-16.09.53.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": false } %}
 
 ## ¿Qué capacidades democráticas pueden desarrollar las entidades sociales?
 
-Las cinco experiencias comparten una misma manera de entender la democracia: no como un procedimiento limitado a votar o expresar una opinión, sino como un conjunto de capacidades que pueden aprenderse, ejercitarse y fortalecerse colectivamente.
+Estas cinco experiencias muestran que la democracia es también un conjunto de capacidades que se aprenden y ejercitan. La ECD ofrece oportunidades para que las entidades sociales desarrollen habilidades de escucha y reconocimiento de experiencias diversas; identifiquen barreras interseccionales; faciliten conflictos y conversaciones difíciles; experimenten con Teatro Legislativo, mapeo y medios digitales; conviertan diagnósticos en recomendaciones colectivas; y conecten dichas recomendaciones con instituciones y procesos de decisión.
 
-Desde esta perspectiva, la Escuela de Creatividad y Democracia ofrece un espacio para que las organizaciones sociales exploren cómo:
-
-- **Escuchar y reconocer experiencias diversas**, especialmente aquellas que habitualmente quedan fuera de los procesos de decisión.
-- **Identificar barreras y desigualdades de participación**, incorporando una perspectiva interseccional en el diseño de actividades, espacios y metodologías.
-- **Facilitar conversaciones y conflictos**, creando condiciones de confianza para que diferentes experiencias y posiciones puedan encontrarse.
-- **Experimentar con metodologías creativas**, como el Teatro Legislativo, el mapeo colectivo, los fanzines o las herramientas digitales de deliberación.
-- **Construir propuestas colectivas**, transformando diagnósticos y experiencias personales en recomendaciones, acuerdos y posibles soluciones.
-- **Generar incidencia política**, conectando el conocimiento producido por las comunidades con administraciones e instituciones capaces de impulsar cambios.
-- **Evaluar y mejorar los procesos participativos**, atendiendo no solo a sus resultados, sino también a quién participa, en qué condiciones y con qué capacidad real de influencia.
-
-Estas capacidades son relevantes tanto para las organizaciones que quieren fortalecer su funcionamiento interno como para aquellas que acompañan comunidades, impulsan proyectos de intervención social o desarrollan acciones de incidencia pública.
+El aprendizaje es útil tanto para mejorar la organización interna como para impulsar procesos comunitarios, acompañar a colectivos y desarrollar campañas de incidencia. Lo importante no es solo la calidad de una metodología, sino **quién puede participar, en qué condiciones y con qué capacidad de influir en el resultado**.
 
 ## Una escuela para aprender, experimentar y transformar
 
-La primera edición de la Escuela de Creatividad y Democracia demuestra que la formación democrática puede ir más allá de la transmisión de conocimientos. Cuando el aprendizaje se conecta con experiencias reales, las metodologías dejan de ser ejercicios abstractos y se convierten en herramientas para intervenir sobre problemas que afectan directamente a las comunidades.
+La primera edición demuestra que la formación democrática puede ir más allá de transmitir conocimientos: las metodologías se convierten en herramientas de cambio cuando se aplican en procesos participativos reales. Los policy briefs permiten conocer y adaptar esos aprendizajes en contextos sociales diversos.
 
-Los cinco policy briefs recogidos en este artículo muestran diferentes formas de recorrer ese camino: investigar las condiciones que dificultan la participación, reconocer las experiencias de quienes viven situaciones de exclusión, crear espacios seguros para deliberar, experimentar con lenguajes artísticos y transformar las conclusiones en propuestas políticas.
-
-Para las entidades sociales, la Escuela representa una oportunidad de **fortalecer sus capacidades para promover una participación más inclusiva, creativa y capaz de producir cambios reales**. No se trata únicamente de aprender a utilizar nuevas herramientas, sino también de revisar cómo se distribuye el poder, quién define los problemas, quién participa en las decisiones y qué ocurre después con las propuestas colectivas.
-
-Porque una democracia más participativa no depende solo de abrir nuevos espacios para escuchar a la ciudadanía. También requiere organizaciones y comunidades con los conocimientos, las herramientas y las condiciones necesarias para hacer que esa participación tenga consecuencias.
+Para las entidades sociales, la Escuela de Creatividad y Democracia propone fortalecer la capacidad de escuchar, deliberar, crear con otras personas e incidir públicamente, revisando también cómo se reparte el poder dentro de los propios procesos participativos.
 
 **La democracia también se aprende. Y, sobre todo, se aprende practicándola.**
 
-*Un proyecto realizado gracias al apoyo de Open Society Foundations.*
+*Un proyecto realizado gracias al apoyo de **Open Society Foundations**.*

@@ -8,6 +8,7 @@ date: 2026-10-14T19:59:00.000+02:00
 date-updated: 2026-10-14T19:59:00.000+02:00
 article-order: 3
 uid: ecd
+interviewee: null
 cover:
   path: /media/articles/heroes/ecd.png
   mobile: /assets/media/no_image-hero.png
