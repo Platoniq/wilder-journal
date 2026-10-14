@@ -8,7 +8,7 @@ date: 2026-10-14T20:13:00.000+02:00
 date-updated: 2026-10-14T20:13:00.000+02:00
 article-order: 2
 uid: fabula-creatividad-tecnologia
-title: La necesidad de no ser comprendidos
+title: La Necesidad de No Ser Comprendidos
 description: Hay algo profundamente humano en no saber qué queremos.
 author: Cristian Palazzi
 author_uids:
