@@ -219,10 +219,82 @@ La sociedad de la imprenta impuso un silencio a las mayorías y la creación de 
 
 En este momento cabe la posibilidad de romper eso. Si a alguien, en algún momento, se le ocurre cómo romper cualquier tiranía, es una obligación ética hacerlo.
 
-{% questions { "items": [{"question":"Quieres ser comadre de La Nuestra"}] } %}
+{% questions { "items": [{"question":"Actualización | La Nuestra: del archivo testimonial a la construcción de una voz colectiva"}] } %}
 
-La Nuestra necesita manos, voces y compromiso para existir fuera de las plataformas extractivas: para sostener un archivo vivo, seguro y gobernado por quienes lo construyen.
+**Una nueva conversación con Cristina Fallarás (Canòdrom, 28 de septiembre de 2026)**
 
-Hazte comadre de La Nuestra
+Meses después de nuestra primera conversación, volvemos a encontrarnos con Cristina Fallarás para profundizar en las implicaciones políticas y democráticas de *La Nuestra*. Si entonces hablábamos de soberanía digital feminista, de la necesidad de preservar los testimonios y de construir una infraestructura tecnológica propia, ahora queremos explorar qué sucede cuando ese archivo deja de ser únicamente un lugar donde conservar la memoria y se convierte en una herramienta de organización colectiva.
 
-<iframe frameborder="0" src="//www.goteo.org/widget/project/la-nuestra" scrolling="no" style="width: 300px !important; height: 492px !important; margin: auto !important;"></iframe>
+¿Cómo puede un archivo cambiar la manera en que entendemos la realidad? ¿Qué ocurre cuando miles de voces individuales construyen un relato común? ¿Y cómo se diseña una tecnología que no reproduzca las jerarquías y las lógicas extractivas de las plataformas que pretende cuestionar?
+
+En esta segunda conversación, Fallarás reivindica el poder político del testimonio, imagina la expansión de este modelo hacia otros movimientos sociales y defiende una idea central: no se trata de diseñar una plataforma para las mujeres, sino de poner una herramienta en sus manos para que sean ellas quienes decidan cómo debe funcionar.
+
+### El archivo como revolución: lo que desaparece cuando se borran las voces
+
+**En la campaña señaláis que los archivos testimoniales surgidos de movimientos como #MeToo, #Cuéntalo o #SeAcabó corren el riesgo de desaparecer de las plataformas de los tecnooligarcas. ¿Qué perdemos como sociedad si se privatiza o se borra el dolor de las mujeres?**
+
+**Cristina Fallarás:** Es que si se borran los testimonios, no se borra el dolor de las mujeres. Lo que se borra es la voz, una nueva voz que por primera vez en toda la historia de la humanidad podemos escuchar. Debemos preguntarnos por qué, hasta que no llegan las redes sociales, hay una mitad de la población que no tiene voz en la sociedad y a la que jamás hemos oído. Hemos querido decidir que le interesa la moda, la costura, la maternidad, la estética o las dietas de adelgazamiento. Y, sorprendentemente, cuando todas a una nos ponemos a contar qué nos importa, por millones en el mundo entero y de forma espontánea, de lo que hablamos es de violencia machista y de violencia sexual, muy concretamente.
+
+Si eso se borra, no se borra el dolor. Lo que se borra es una revolución, que es una nueva mirada sobre la sociedad. Después de que la mitad de la población haya señalado algo que había sido silenciado durante toda la historia, estamos evidenciando que ha habido un silenciamiento y que ha habido un reparto de quién puede o quién no puede relatarse. Y esto implica a los medios de comunicación, a todos ellos.
+
+Porque para construir una sociedad te puedes basar en dos ejes, entre muchos otros: uno de construcción colectiva y otro de construcción de las élites. Las élites deciden qué es lo importante y, por lo tanto, a qué vamos a dar respuesta, o hay una construcción colectiva de voces que hacen emerger unos requerimientos, sea en la vivienda, sea en la sanidad pública o, en este caso, en la violencia sexual. En el momento en que desaparecen estos archivos, lo que haces es devolver la voz a las élites.
+
+### La verdad colectiva frente a los relatos impuestos
+
+**El testimonio en primera persona es una de las herramientas más poderosas frente a los discursos negacionistas, la misoginia y el machismo. ¿Por qué tiene tanta fuerza política un relato que opera fuera de la lógica policial y judicial?**
+
+**Cristina Fallarás:** Porque los movimientos totalitarios, los fascismos y toda construcción patriarcal violenta proceden de unas abstracciones asumidas como realidades. Por ejemplo, la idea de libertad que maneja Milei, la idea de grandeza, raza, unidad, son ideas que conocemos. O la idea de la Transición, la modélica Transición de este país. Son ideas abstractas. Frente a esas ideas abstractas, lo único inapelable es la construcción colectiva de voces. Y esas voces tienen que venir desde lo testimonial.
+
+Porque si las mismas autoridades que han creado esa idea abstracta son quienes hacen una encuesta, pongamos por caso, para ver cuáles son los intereses o las experiencias de una parte de la población, de nuevo está guiada. Sin embargo, si lo que estamos haciendo es un archivo testimonial de voces únicas que coinciden, lo que emerge es una voz colectiva. Y esa voz colectiva es irrefutable e inapelable. Estamos hablando de millones de mujeres, todas a la vez y sin ponerse de acuerdo.
+
+### De la memoria feminista a otras luchas colectivas
+
+**Planteáis que La Nuestra no se limite al movimiento feminista, sino que su modelo pueda expandirse a otras comunidades y luchas, como el movimiento migrante, el antirracismo o el derecho a la vivienda. ¿Cómo imagináis esta expansión? ¿Como redes independientes, como espacios conectados o como una nueva forma de organización colectiva?**
+
+**Cristina Fallarás:** Lo primero, imaginamos la acumulación testimonial en todos los ámbitos. Si algo nos ha permitido la tecnología es asumir lo testimonial como creación de realidades. Antiguamente se utilizaban los archivos para generar revoluciones. En este momento, el archivo es, en sí mismo, una revolución. El archivo es en sí mismo una modificación de la realidad.
+
+Si conseguimos que desde la memoria histórica todos y todas aquellas personas torturadas durante la democracia, durante los años setenta y ochenta, en comisarías, en cuarteles, en ribazos de los ríos, en calles, en bares, en váteres, dieran su testimonio de tortura, este país empezaría a replantearse su democracia. Lo mismo ocurre con la vivienda. Si todas aquellas personas que viven en situación de extrema vulnerabilidad, a quienes no consideramos pobres porque tienen techo —pero ¿en qué condiciones?—, lo cuentan, y otras personas son capaces de identificarse, generar mecanismos de solidaridad y, por lo tanto, crear grupos de lucha, esto constituye una forma de organización.
+
+En el fondo, estamos hablando de formas de organización revolucionaria. No hablo de revoluciones armadas, sino de cómo modificar radicalmente una sociedad. Y la modificación radical de una sociedad, para mí y para nosotras, para La Nuestra, pasa por la generación de voces colectivas. En este momento, sí, con el archivo en el centro, como eje revolucionario en sí mismo.
+
+Tú imagínate si todas las compañeras migrantes, los compañeros y les compañeres exponen sus condiciones de vida detalladamente. Exponen la manera en la que consiguen comer y pagar su techo. Nos enfrentaríamos a una realidad en la que, en la inmensa mayoría de los casos, estarían vulnerados varios derechos de los que consideramos fundamentales. Vale, hagámoslo. Nosotras invitamos a generar una tecnología. Igual que nosotras usamos otras tecnologías libres para ayudarnos, que La Nuestra sirva para otras colectivas.
+
+Y te digo que también están dentro, porque el movimiento feminista es un movimiento antirracista, anticapitalista, antifascista, por supuesto, y desde el cual muchas mujeres asoman la cabeza y saben ir de la violencia íntima a la violencia colectiva. A todas nos atraviesa un eje que va desde la violencia íntima hasta una violencia colectiva. Esas violencias colectivas son múltiples y variadas. Eso es muy relevante.
+
+### Romper las jerarquías: todas somos fundadoras
+
+**En las recompensas de vuestra campaña de Goteo habéis decidido que, independientemente de que una persona aporte 10, 20, 50 o 500 euros, todas reciben el mismo reconocimiento como fundadoras de La Nuestra. ¿Por qué habéis elegido esta lógica no jerárquica?**
+
+**Cristina Fallarás:** La Nuestra viene a desobedecer y a romper jerarquías. La base de La Nuestra es la ruptura de las jerarquías en cualquier estatus de la sociedad. La jerarquía tiene que ver con la propiedad, con el premio y el castigo, con la idea de éxito y la idea de fracaso. Nosotras, al renunciar a los premios, renunciamos a cualquier construcción jerárquica que después sea aplicable a otros niveles.
+
+Además, realizamos un ejercicio de confianza en las mujeres. Sabemos que tú pondrás lo que puedas poner y que pondrás hasta donde puedas. Y solo desde esa confianza se puede entender que nosotras creemos en las mujeres. Las mujeres no mienten. Es decir, hay un ejercicio transversal de confianza en las mujeres que decidimos aplicar a los premios, pero sobre todo porque necesitamos cuestionarnos la idea de éxito y fracaso, la idea de premio y castigo y la idea de desconfianza y justicia.
+
+### Financiar tecnología para el bien común
+
+**Para hacer realidad La Nuestra habéis elegido Goteo, una plataforma de código abierto orientada al bien común. ¿Por qué era importante que vuestra campaña de financiación colectiva se desarrollara precisamente en Goteo?**
+
+**Cristina Fallarás:** Yo creo que, desde el principio, los planteamientos de Goteo relacionados con la búsqueda del bien común y el código abierto, también en el campo de lo tecnológico, fueron lo que nos acabó convenciendo. Que dote de soberanía tecnológica a los sectores menos favorecidos y que puedan acceder al desarrollo de tecnologías paralelas a las élites.
+
+Para nosotras era muy importante que la entidad estuviera ligada, primero, a lo tecnológico; segundo, a la soberanía o a la lucha por la soberanía de los sectores menos favorecidos; y después, al código abierto, claro.
+
+### No diseñar para las mujeres, sino diseñar con ellas
+
+**Muchas mujeres que narran experiencias de violencia en redes sociales sufren después nuevas formas de acoso, señalamiento, censura o revictimización. ¿Cómo se diseña un espacio virtual como La Nuestra para que quienes participan puedan expresarse sin miedo, incluso cuando todavía dudan de su propia experiencia?**
+
+**Cristina Fallarás:** Pues se diseña una herramienta que sea solo herramienta y que se ponga en manos de las fundadoras y las usuarias para que sean ellas quienes vayan poco a poco diseñando qué funcionalidades necesitan, cuáles no, cuáles funcionan y cuáles no, cuáles hay que desarrollar más y cuáles hay que frenar. Ahí el diálogo con las fundadoras va a ser constante.
+
+Fíjate que la primera fase de La Nuestra solo estará abierta para fundadoras, que son ya casi 8.000. Con esas 8.000 mujeres, o el porcentaje que quiera participar, que es más de la mitad, pongamos que son 5.000, que es mucho, del diálogo con tantos miles de mujeres durante los primeros meses va a salir una herramienta que sea útil. Y, a partir de ahí, la formación de profesionales que puedan estar atentas a los requerimientos de esas mujeres va a hacer que avance. Nuestro compromiso no es guiar a las mujeres, sino construir una herramienta que les sea útil y que ellas mismas puedan participar en cómo será o cómo acabará siendo.
+
+Es como Facebook. Facebook no nació para lo que acabó siendo. Era una cosa de compañeros. Twitter no nació para que las mujeres lanzáramos el #MeToo o el #Cuéntalo. No nació para dar soberanía a las mujeres. Nació para lo contrario. Seríamos idiotas si realmente hiciéramos una herramienta para la soberanía de las mujeres decidiendo cómo será, para qué les va a servir, qué podrán hacer y qué no. Nosotras hacemos la herramienta y, a partir de ahí, veremos cómo funciona. Es muy importante.
+
+### Sostener una infraestructura colectiva para redefinir la realidad
+
+**La Nuestra ha movilizado a miles de mujeres y personas que han contribuido directamente a hacer posible el proyecto. ¿Qué mensaje les darías sobre la responsabilidad colectiva de sostenerlo en el tiempo?**
+
+**Cristina Fallarás:** Viene una redefinición de la realidad. Estamos redefiniendo qué es real y qué no. Los medios de comunicación nos contaron que el mundo era de una manera. Ahora eso que llaman *fake news*, o bulos, en realidad no es tal, es miedo. Lo que estamos viendo es una nueva definición de qué es la realidad. Y es una definición que parte de aportaciones colectivas.
+
+Ya no hay una jerarquía que te diga: «Ahora esta guerra es importante, ahora hay hambre no sé dónde y ahora todos somos muy ricos y vivimos muy bien. Y España es un país estupendo o Irán es un país aterrador». No. Ahora tenemos muchas más voces. O generamos un espacio de credibilidad creado por nosotras o nuestra realidad la dibujarán otros. Y otros ya sabemos quiénes son: aquellos que manejan el dinero.
+
+Nosotras lo que proponemos es crear un espacio colectivo, no alternativo. No hace falta que dejes todo el resto y entres en La Nuestra. No, es un espacio más donde tú puedes, primero, comprobar que lo que te dicen es real; segundo, contar tu realidad para ver si tiene eco en otras realidades; y tercero, hacerlo en un lugar cálido. Hacerlo en un lugar amable, hacerlo como nosotras queremos vivir la realidad. No queremos vivirla desde lo belicista, ni desde la hostilidad, ni desde la violencia, ni desde la competitividad. No es «yo lo cuento antes» o «yo lo cuento mejor». No. Aquí se cuenta colectivamente y para mí eso es muy, muy importante.
+
+Además, estamos un poquito hasta el coño de que las mujeres solo podamos desarrollar proyectos baratos, proyectos pequeños y proyectos monos. Ni es pequeño, ni es barato, ni es mono. Es grande, es caro y es, en cierta medida, salvaje. Si nos proponemos mirar y lanzar un órdago a las relaciones sociales, económicas, políticas y personales a las que hemos sido sometidas, el proyecto no es suave.
