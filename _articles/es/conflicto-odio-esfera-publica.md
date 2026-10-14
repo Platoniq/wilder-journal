@@ -16,7 +16,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/marta.png
   mobile: /media/articles/mobile/marta.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/marta.png
   alt: marta cambronero
   credits: marta cambronero
   caption: marta cambronero

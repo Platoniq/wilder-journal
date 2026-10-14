@@ -12,7 +12,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/marta.png
   mobile: /media/articles/mobile/marta.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/marta.png
 related_article_uids:
   - LaNuestra-Red-Feminista
   - herstory-archive
