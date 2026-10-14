@@ -20,7 +20,7 @@ interviewee: Eva Navarro
 cover:
   path: /media/articles/heroes/eva.jpg
   mobile: /media/articles/mobile/eva.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/eva.jpg
 related_article_uids:
   - "Time-care-technology "
   - Artificial-Inteligence-Humanity
