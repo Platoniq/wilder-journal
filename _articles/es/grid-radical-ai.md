@@ -38,7 +38,7 @@ image:
 ---
 ## **Hypothesis**
 
-El reto democrático de la inteligencia artificial no consiste solamente en hacer la participación más eficiente. Consiste en decidir qué funciones queremos que desempeñe, desde qué conocimientos habla y de qué manera puede complementar —sin sustituir— las voces, el juicio y la responsabilidad de quienes deliberan.
+El reto democrático de la inteligencia artificial no consiste solamente en hacer la participación más eficiente. Consiste en decidir qué funciones queremos que desempeñe, desde qué conocimientos habla y de qué manera puede complementar sin sustituir las voces, el juicio y la responsabilidad de quienes deliberan.
 
 GRID nace de esa pregunta. Explora si una IA situada y polifónica puede ampliar nuestra capacidad de interrogación y deliberación cuando se utiliza de forma colectiva dentro de un escenario real de debate. No pretende resolver el desacuerdo, sino hacerlo más visible, más discutible y más habitable.
 
@@ -52,7 +52,7 @@ GRID nace de esa pregunta. Explora si una IA situada y polifónica puede ampliar
 
 ## **Story of me: ¿Por qué creemos que esta cuestión es relevante?**
 
-La IA ya está entrando en la infraestructura de la participación democrática. La OCDE identifica [nueve familias de aplicaciones](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html) —desde la traducción y la transcripción hasta la facilitación, la simulación y la arquitectura de procesos—, pero insiste en que su adopción debe preservar valores democráticos, transparencia, protección del espacio cívico y participación ciudadana en la gobernanza de estos sistemas.
+La IA ya está entrando en la infraestructura de la participación democrática. La OCDE identifica [nueve familias de aplicaciones](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html): desde la traducción y la transcripción hasta la facilitación, la simulación y la arquitectura de procesos, pero insiste en que su adopción debe preservar valores democráticos, transparencia, protección del espacio cívico y participación ciudadana en la gobernanza de estos sistemas.
 
 Desde la teoría de la deliberación, Rountree y Gastil plantean una advertencia similar: la IA puede servir como herramienta de *[deliberation-making](https://delibdemjournal.org/article/id/1625/)*, pero no debe convertirse en una herramienta de decisión ni sustituir el encuentro entre personas. Simular la deliberación humana para evitarla sería, en su formulación, un atajo antidemocrático.
 
@@ -70,7 +70,7 @@ GRID adopta una posición deliberadamente distinta de la [Habermas Machine](http
 
 La Habermas Machine recibe las posiciones de un grupo y produce formulaciones colectivas sucesivas, buscando aquellas que obtienen mayor aprobación. Sus experimentos muestran que esas formulaciones pueden percibirse como más claras, informativas y aceptables que las elaboradas por mediadores humanos, y que pueden aumentar la convergencia entre participantes.
 
-GRID parte de la hipótesis contraria. No queremos construir una máquina que encuentre la mejor formulación del consenso, sino una máquina que permita observar qué ocurre con el desacuerdo cuando una IA interviene. Por eso su arquitectura introduce perspectivas diferentes —Joker, Filósofo y Deliberator— y una capa de autoconciencia capaz de cuestionar las operaciones de las otras tres. El objetivo no es que terminen diciendo lo mismo, sino comprobar cuándo ven cosas distintas, qué conocimientos movilizan, qué experiencias dejan fuera y qué sucede cuando esas diferencias vuelven a ponerse delante de las personas participantes.
+GRID parte de la hipótesis contraria. No queremos construir una máquina que encuentre la mejor formulación del consenso, sino una máquina que permita observar qué ocurre con el desacuerdo cuando una IA interviene. Por eso su arquitectura introduce perspectivas diferentes, Joker, Filósofo y Deliberator, y una capa de autoconciencia capaz de cuestionar las operaciones de las otras tres. El objetivo no es que terminen diciendo lo mismo, sino comprobar cuándo ven cosas distintas, qué conocimientos movilizan, qué experiencias dejan fuera y qué sucede cuando esas diferencias vuelven a ponerse delante de las personas participantes.
 
 La diferencia también afecta al lugar donde reside la autoridad. En la Habermas Machine, la IA propone una formulación colectiva cada vez más aceptable. En GRID, cualquier síntesis debería poder ser interrumpida, discutida, rechazada o reescrita por el colectivo. La IA no determina cuándo se ha alcanzado suficiente acuerdo ni qué desacuerdos son prescindibles. Esas siguen siendo cuestiones políticas.
 
@@ -101,7 +101,7 @@ Por eso, en GRID el Joker no representa a “los oprimidos”, el Filósofo no r
 
 La arquitectura de GRID parte de una pregunta concreta: ¿qué ocurre si, en lugar de pedir a una única IA que adopte la voz aparentemente neutral de “el facilitador”, mantenemos dentro del sistema distintas maneras humanas de mirar, preguntar y acompañar una deliberación?
 
-https://youtu.be/yiBaevPeuCY?si=HLVZqmrHl837LiV_&t=1942
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yiBaevPeuCY?si=7d8w8n4C2l259C5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Detrás de las personalidades de GRID no hay solo *prompts*. Hay personas, prácticas y comunidades concretas. El Filósofo se construye en diálogo con Cristian Palazzi, responsable de incidencia en Platoniq y doctor en Filosofía. El Joker recoge aprendizajes vinculados a Katy Rubin, discípula de Augusto Boal y experta en Teatro Legislativo, y a Olivier Schulbaum, director estratégico de Platoniq. El Deliberator nace del trabajo colectivo de los partners del proyecto europeo INSPIRE.
 
