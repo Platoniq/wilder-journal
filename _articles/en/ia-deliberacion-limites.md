@@ -125,7 +125,7 @@ But the question is: why do we want to scale up? If we end up with a massive sys
 
 ## **Habermolt and the Democracy of Lobsters**
 
-**Olivier: I loved the title *In Lobsters We Trust — or We Don’t Trust*. Can you explain the metaphor of the lobster and its shell? What does it have to do with democracy? We often use the octopus as a metaphor, with its many “citizen” arms. What would be the opposite animal to the lobster?**
+**Olivier: I loved the title of your article with Beth Simone Noveck *[In Lobsters We Trust — or We Don’t Trust](https://rebootdemocracy.ai/blog/habermolt)*. Can you explain the metaphor of the lobster and its shell? What does it have to do with democracy? We often use the octopus as a metaphor, with its many “citizen” arms. What would be the opposite animal to the lobster?**
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-10-15-a-las-19.36.32.png"}] } %}
 

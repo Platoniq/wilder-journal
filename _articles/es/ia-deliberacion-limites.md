@@ -36,7 +36,7 @@ call_to_action: cta-contact
 image:
   path: /media/articles/social/jose.png
 ---
-**José Luis Martí**, profesor de filosofía del derecho y teoría política, lleva años investigando los límites y las posibilidades de la democracia deliberativa. En esta conversación aborda algunas de las tensiones más urgentes de la participación democrática: la diferencia entre participar más y participar mejor, los límites de los presupuestos participativos y las asambleas ciudadanas, la necesidad de generar capacidades democráticas duraderas y el papel que puede —o no debe— asumir la inteligencia artificial en los procesos deliberativos. A partir de experimentos como Habermolt, Martí cuestiona la idea de que la democracia pueda reducirse a agregar preferencias o maximizar la eficiencia, y defiende una concepción en la que el desacuerdo, la autonomía y la igualdad siguen dependiendo de la participación activa de las personas.
+**José Luis Martí**, profesor de filosofía del derecho y teoría política, lleva años investigando los límites y las posibilidades de la democracia deliberativa. En esta conversación aborda algunas de las tensiones más urgentes de la participación democrática: la diferencia entre participar más y participar mejor, los límites de los presupuestos participativos y las asambleas ciudadanas, la necesidad de generar capacidades democráticas duraderas y el papel que puede, o no debe, asumir la inteligencia artificial en los procesos deliberativos. A partir de experimentos como Habermolt, Martí cuestiona la idea de que la democracia pueda reducirse a agregar preferencias o maximizar la eficiencia, y defiende una concepción en la que el desacuerdo, la autonomía y la igualdad siguen dependiendo de la participación activa de las personas.
 
 ## **Más participación no significa más democracia**
 
@@ -136,7 +136,7 @@ Pero la pregunta es: ¿para qué queremos escalar? Si conseguimos un sistema mas
 
 ## **Habermolt y la democracia de las langostas**
 
-**Olivier: Me encantó el título In Lobsters We Trust — or We Don't Trust. ¿Puedes explicar la metáfora de la langosta y de su caparazón? ¿Qué tiene que ver con la democracia? Nosotros usamos mucho el pulpo como metáfora, con sus distintos brazos ciudadanos. ¿Cuál sería el animal contrario a la langosta?**
+**Olivier: Me encantó el título de tu artículo con Beth Simone Noveck [In Lobsters We Trust — or We Don't Trust](https://rebootdemocracy.ai/blog/habermolt). ¿Puedes explicar la metáfora de la langosta y de su caparazón? ¿Qué tiene que ver con la democracia? Nosotros usamos mucho el pulpo como metáfora, con sus distintos brazos ciudadanos. ¿Cuál sería el animal contrario a la langosta?**
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-10-15-a-las-19.36.32.png"}] } %}
 
