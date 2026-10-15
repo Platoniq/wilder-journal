@@ -54,11 +54,11 @@ GRID stems from that question. It explores whether a situated, polyphonic AI can
 
 AI is already becoming part of the infrastructure of democratic participation. The OECD identifies [nine application categories](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html)—ranging from translation and transcription to facilitation, simulation, and process architecture— but insists that its adoption must preserve democratic values, transparency, the protection of civic space, and citizen participation in the governance of these systems.
 
-Drawing on deliberation theory, Rountree and Gastil offer a similar warning: AI can serve as a tool for *deliberation-making*, but it must not become a decision-making tool or replace face-to-face interaction. Simulating human deliberation in order to avoid it would, in their view, be an undemocratic shortcut.
+Drawing on deliberation theory, Rountree and Gastil offer a similar warning: AI can serve as a tool for *[deliberation-making](https://delibdemjournal.org/article/id/1625/)*, but it must not become a decision-making tool or replace face-to-face interaction. Simulating human deliberation in order to avoid it would, in their view, be an undemocratic shortcut.
 
 GRID deliberately positions itself at that boundary. It does not seek to determine how a conversation ends, but rather to allow us to study how it changes when we introduce a specific machine into it. The question is not only whether AI can assist in deliberation, but whether we can make its own mediation the subject of deliberation.
 
-The research by Jäske and his colleagues on Finland’s Citizens’ Assembly on Energy offers an important clue. The same model proved useful for organizing and synthesizing materials, but it lost details and some of its critical edge when it had to formulate questions for experts. The conclusion is clear: it makes no sense to evaluate “AI” in the abstract. We must observe what role it plays, what deliberative values are at stake, and what effects it produces at each stage of the process.
+The research by [Jäske and his colleagues](https://journals.sagepub.com/doi/10.1177/02633957261466242) on Finland’s Citizens’ Assembly on Energy offers an important clue. The same model proved useful for organizing and synthesizing materials, but it lost details and some of its critical edge when it had to formulate questions for experts. The conclusion is clear: it makes no sense to evaluate “AI” in the abstract. We must observe what role it plays, what deliberative values are at stake, and what effects it produces at each stage of the process.
 
 For GRID, this translates into an experimental protocol. Rather than asking whether an agent offers a “good” response, we are interested in observing whether different agents retrieve genuinely different knowledge and arguments; which questions, conflicts, or positions disappear when the system summarizes and synthesizes; how the participant’s interpretation changes; at what point assistance becomes substitution; and whether a person can identify, question, and modify the corpus, the instructions, and the mediation decisions that have shaped a response.
 
@@ -66,7 +66,7 @@ That last point is decisive. Small *prompting* decisions can reduce the complexi
 
 ## **Against the Habermas Machine: Do Not Automate Consensus**
 
-GRID takes a deliberately different stance from the Habermas Machine, the experiment developed by Google DeepMind. Not because finding points of agreement is without value, but because we are interested in asking what happens when agreement becomes the goal that the machine itself is designed to optimize.
+GRID takes a deliberately different stance from the [Habermas Machine](https://habermasmachine.ai/), the experiment [developed by Google DeepMind](https://github.com/google-deepmind/habermas_machine). Not because finding points of agreement is without value, but because we are interested in asking what happens when agreement becomes the goal that the machine itself is designed to optimize.
 
 The Habermas Machine receives the positions of a group and produces successive collective formulations, seeking those that garner the most approval. Its experiments show that these formulations can be perceived as clearer, more informative, and more acceptable than those developed by human mediators, and that they can increase convergence among participants.
 
@@ -81,17 +81,17 @@ GRID does not aspire to bias-free artificial intelligence or a neutral democracy
 
 ## **Story of Us: Objective Data Supporting the Idea**
 
-The question raised by GRID is no longer a matter of speculation. The report *Artificial Intelligence and the Future of Citizen Participation*, published by the OECD in collaboration with the Bertelsmann Stiftung, analyzes fifty cases of AI use in participatory processes across twenty-two countries. Based on these, it identifies nine major types of application: information production, *sense-making*, translation, transcription, virtual assistance, moderation, facilitation, simulation, and the architecture of participatory processes.
+The question raised by GRID is no longer a matter of speculation. The report *[Artificial Intelligence and the Future of Citizen Participation](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html)*, published by the OECD in collaboration with the Bertelsmann Stiftung, analyzes fifty cases of AI use in participatory processes across twenty-two countries. Based on these, it identifies nine major types of application: information production, *sense-making*, translation, transcription, virtual assistance, moderation, facilitation, simulation, and the architecture of participatory processes.
 
 Some of these functions are already widespread: interpreting and organizing large volumes of citizen contributions, guiding participants through conversational interfaces, or reducing language barriers through translation. Deliberative processes also emerge as one of the main areas for experimentation. The debate is no longer whether AI will come to mediate democratic processes, but rather what functions we want to delegate to it and under what conditions.
 
-Some experiments shift the question even further: not just what AI can do, but from whose perspective it speaks. In Spain, Afroféminas has developed particularly thought-provoking projects. Its Socratic GPT doesn’t just provide answers—it poses questions in return and turns the conversation into an exercise in critical thinking. Salud Negra IA builds an agent centered on a specific field—the health of Black women—from an explicitly anti-racist and Afro-feminist perspective.
+Some experiments shift the question even further: not just what AI can do, but from whose perspective it speaks. In Spain, Afroféminas has developed particularly thought-provoking projects. Its [Socratic GPT ](https://afrofeminas.com/category/afrofeminasgpt/)doesn’t just provide answers: it poses questions in return and turns the conversation into an exercise in critical thinking. Salud Negra IA builds an agent centered on a specific field: the health of Black women, from an explicitly anti-racist and Afro-feminist perspective.
 
 These cases bring to light something that is normally hidden behind the interface: an AI does not necessarily have to claim to speak from a position of universal knowledge. It can state the corpus, the epistemological position, and the problem domain from which it was built. The question is no longer merely which model we use, but also who selects the knowledge, what is left out, and what human responsibility lies behind that selection.
 
 The potential benefits are real: reducing costs, expanding accessibility, synthesizing thousands of contributions, or supporting processes that would otherwise be difficult to manage. But the literature itself introduces a fundamental political limit: AI cannot replace the political will to take citizens’ perspectives, democratic decision-making, and human responsibility seriously.
 
-Nor should artificial persons be used as substitutes for the participation of vulnerable or marginalized communities. A simulation remains a model-based construct, and turning it into political representation may actually exacerbate the very absence it was intended to correct. Describing a group is not the same as representing it democratically.
+[Nor should artificial persons be used as substitutes for the participation of vulnerable or marginalized communities.](https://delibdemjournal.org/article/id/1625/) A simulation remains a model-based construct, and turning it into political representation may actually exacerbate the very absence it was intended to correct. Describing a group is not the same as representing it democratically.
 
 That is why, at GRID, the Joker does not represent “the oppressed,” the Philosopher does not represent “philosophers,” and the Deliberator does not represent “reasonable citizens.” They are not synthetic personas meant to take the place of absent groups. They are methodological and epistemological positions: different ways of formulating questions, interpreting a situation, and guiding an intervention.
 
@@ -100,6 +100,8 @@ That is why, at GRID, the Joker does not represent “the oppressed,” the Phil
 ### **Designing a Polyphonic and Situated Architecture**
 
 GRID’s architecture stems from a specific question: What happens if, instead of asking a single AI to adopt the seemingly neutral voice of “the facilitator,” we maintain within the system different human ways of observing, questioning, and guiding a deliberation?
+
+https://youtu.be/yiBaevPeuCY?si=HLVZqmrHl837LiV_&t=1942
 
 Behind GRID’s personalities, there are more than just *prompts*. There are specific people, practices, and communities. The Philosopher is shaped through dialogue with Cristian Palazzi, advocacy lead at Platoniq and a Ph.D. in Philosophy. The Joker draws on insights linked to Katy Rubin, a disciple of Augusto Boal and an expert in Legislative Theater, and to Olivier Schulbaum, strategic director at Platoniq. The Deliberator emerges from the collective work of the partners in the European INSPIRE project.
 
@@ -118,6 +120,8 @@ Making the people behind the public figures visible does not eliminate bias—it
 ### **Building the Corpus**
 
 Much of the conversation about AI and participation focuses on how to use this technology to scale up, reduce costs, synthesize contributions, or accelerate collective processes. GRID poses another question: How is an AI trained, and how does that training shape what it can see and say?
+
+We’ve already begun to see companies whose business model is precisely to offer technology firms clean databases on topics such as security, health, law, or general knowledge. A controversy has already arisen regarding this last topic that should concern us. [According to the latest research](https://www.eldiario.es/opinion/zona-critica/millones-libros-desguazados-alimentar-ia_129_13461727.html), Anthropic has scrapped more than two million books with the intention of helping its AI model learn to write better. Are we witnessing the gradual disappearance of the book stocks that supply used-book stores, neighborhood libraries, and research for doctoral dissertations? Time will tell, but what is certain is that, once again, the predatory nature of current models seems unsustainable in the long term.
 
 The GRID corpus is based on an offline database of PDF books compiled over more than twenty years. It currently contains 6,328 items, of which GRID uses 97 references selected in accordance with the values of deliberative democracy.
 
