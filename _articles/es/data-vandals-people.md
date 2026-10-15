@@ -17,7 +17,7 @@ interviewee: Jason Forrest
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-10-15-a-las-19.59.03.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-10-15-a-las-19.59.03.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-10-15-a-las-19.59.03.png
   alt: Jason Forrest
   credits: Jason Forrest
   caption: Jason Forrest
