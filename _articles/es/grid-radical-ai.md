@@ -52,7 +52,7 @@ GRID nace de esa pregunta. Explora si una IA situada y polifónica puede ampliar
 
 ## **Story of me: ¿Por qué creemos que esta cuestión es relevante?**
 
-La IA ya está entrando en la infraestructura de la participación democrática. La OCDE identifica nueve familias de aplicaciones —desde la traducción y la transcripción hasta la facilitación, la simulación y la arquitectura de procesos—, pero insiste en que su adopción debe preservar valores democráticos, transparencia, protección del espacio cívico y participación ciudadana en la gobernanza de estos sistemas.
+La IA ya está entrando en la infraestructura de la participación democrática. La OCDE identifica [nueve familias de aplicaciones](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html) —desde la traducción y la transcripción hasta la facilitación, la simulación y la arquitectura de procesos—, pero insiste en que su adopción debe preservar valores democráticos, transparencia, protección del espacio cívico y participación ciudadana en la gobernanza de estos sistemas.
 
 Desde la teoría de la deliberación, Rountree y Gastil plantean una advertencia similar: la IA puede servir como herramienta de *deliberation-making*, pero no debe convertirse en una herramienta de decisión ni sustituir el encuentro entre personas. Simular la deliberación humana para evitarla sería, en su formulación, un atajo antidemocrático.
 
