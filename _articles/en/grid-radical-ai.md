@@ -97,7 +97,7 @@ That is why, at GRID, the Joker does not represent “the oppressed,” the Phil
 
 ## **Story of Now: How Does the Foundation Respond?**
 
-### **Designing a Polyphonic and Situated Architecture**
+### **A Polyphonic and Situated Architecture**
 
 GRID’s architecture stems from a specific question: What happens if, instead of asking a single AI to adopt the seemingly neutral voice of “the facilitator,” we maintain within the system different human ways of observing, questioning, and guiding a deliberation?
 

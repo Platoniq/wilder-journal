@@ -97,7 +97,7 @@ Por eso, en GRID el Joker no representa a “los oprimidos”, el Filósofo no r
 
 ## **Story of now: ¿Cómo damos respuesta desde la Fundación?**
 
-### **Diseñar una arquitectura polifónica y situada**
+### **Una arquitectura polifónica y situada**
 
 La arquitectura de GRID parte de una pregunta concreta: ¿qué ocurre si, en lugar de pedir a una única IA que adopte la voz aparentemente neutral de “el facilitador”, mantenemos dentro del sistema distintas maneras humanas de mirar, preguntar y acompañar una deliberación?
 
