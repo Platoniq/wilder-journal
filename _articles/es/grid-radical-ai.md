@@ -171,7 +171,7 @@ ChatGPT funciona como laboratorio de máxima capacidad: nos permite descubrir r�
 
 La tensión entre ambos prototipos es, en sí misma, el experimento. No buscamos únicamente comparar rendimiento, sino investigar algo más político: qué tipo de inteligencia artificial puede existir cuando la escala, la propiedad de la infraestructura y los límites del conocimiento se convierten también en decisiones democráticas.
 
-## **CTA**
+## **Call To Action**
 
 La cuestión quizá no sea si la IA puede deliberar como nosotros. La cuestión es si somos capaces de ver, comparar y discutir colectivamente cómo está interviniendo en nuestra manera de deliberar.
 

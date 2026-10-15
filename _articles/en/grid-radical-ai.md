@@ -169,7 +169,7 @@ Nor do we want to romanticize the local. Decentralizing the infrastructure does 
 
 The tension between these two prototypes is, in itself, the experiment. We are not merely seeking to compare performance, but to investigate something more political: what kind of artificial intelligence can exist when scale, ownership of the infrastructure, and the limits of knowledge also become democratic decisions.
 
-## **CTA**
+## **Call To Action**
 
 The question may not be whether AI can deliberate like we do. The question is whether we are capable of collectively observing, comparing, and discussing how it is influencing the way we deliberate.
 
