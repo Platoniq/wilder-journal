@@ -20,7 +20,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/grid.png
   mobile: /media/articles/mobile/grid.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/grid.png
   alt: GRID
   credits: GRID
   caption: GRID

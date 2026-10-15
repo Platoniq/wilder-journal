@@ -25,7 +25,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/grid.png
   mobile: /media/articles/mobile/grid.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/grid.png
 related_article_uids:
   - AI-dialogue
   - Artificial-Inteligence-Humanity
