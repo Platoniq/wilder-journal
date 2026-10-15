@@ -46,7 +46,7 @@ GRID stems from that question. It explores whether a situated, polyphonic AI can
 
 ## **Three Key Questions**
 
-{% questions { "items": [{"question":"From where does an AI speak when it seems to speak from “nowhere”? And what happens if, instead of hiding that position, we make it explicit?"},{"question":"Is it possible to design a system that preserves what makes a conversation politically productive: the uncomfortable question, the contradiction, the minority position, the experience that is difficult to translate?"},{"question":"Can we make the values we program into the machine explicit, and open to debate? "}] } %}
+{% questions { "items": [{"question":"Is it possible to specify the location from which an AI ‘speaks’?"},{"question":"Is it possible to design a system that preserves what makes a conversation politically productive: the uncomfortable question, the contradiction, the minority position, the experience that is difficult to translate?"},{"question":"Can we make the values we program into the machine explicit, and open to debate? "}] } %}
 
 
 
