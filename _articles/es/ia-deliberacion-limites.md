@@ -19,7 +19,7 @@ author_uids:
 interviewee: José Luis Martí
 cover:
   path: /media/articles/heroes/jose.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/jose.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Jose Luis Marti
   credits: Jose Luis Marti

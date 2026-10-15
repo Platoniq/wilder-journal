@@ -11,8 +11,12 @@ uid: IA-deliberacion-limites
 interviewee: José Luis Martí
 cover:
   path: /media/articles/heroes/jose.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/jose.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - conflicto-odio-esfera-publica
+  - democratic-visualisation
+  - democracy-living-ecosystem
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
