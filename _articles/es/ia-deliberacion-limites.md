@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-contact
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/jose.png
 ---
 **José Luis Martí**, profesor de filosofía del derecho y teoría política, lleva años investigando los límites y las posibilidades de la democracia deliberativa. En esta conversación aborda algunas de las tensiones más urgentes de la participación democrática: la diferencia entre participar más y participar mejor, los límites de los presupuestos participativos y las asambleas ciudadanas, la necesidad de generar capacidades democráticas duraderas y el papel que puede —o no debe— asumir la inteligencia artificial en los procesos deliberativos. A partir de experimentos como Habermolt, Martí cuestiona la idea de que la democracia pueda reducirse a agregar preferencias o maximizar la eficiencia, y defiende una concepción en la que el desacuerdo, la autonomía y la igualdad siguen dependiendo de la participación activa de las personas.
 
