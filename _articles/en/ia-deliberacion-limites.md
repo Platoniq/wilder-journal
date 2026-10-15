@@ -12,7 +12,7 @@ interviewee: José Luis Martí
 cover:
   path: /media/articles/heroes/jose.png
   mobile: /media/articles/mobile/jose.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/jose.png
 related_article_uids:
   - conflicto-odio-esfera-publica
   - democratic-visualisation
