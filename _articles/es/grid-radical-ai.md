@@ -46,7 +46,7 @@ GRID nace de esa pregunta. Explora si una IA situada y polifónica puede ampliar
 
 ¿Desde dónde habla una IA cuando parece hablar desde “ningún lugar”? ¿Y qué ocurre si, en lugar de ocultar esa posición, la hacemos explícita?
 
-{% questions { "items": [{"question":"¿Desde dónde habla una IA cuando parece hablar desde “ningún lugar”? ¿Y qué ocurre si, en lugar de ocultar esa posición, la hacemos explícita?"},{"question":"¿Qué debería hacer una IA dentro de una deliberación y qué no debería hacer? ¿Es posible diseñar un sistema que conserve aquello que hace políticamente productiva una conversación: la pregunta incómoda, la contradicción, la posición minoritaria, la experiencia difícil de traducir?"},{"question":"¿Podemos hacer explícitos y discutibles los valores que introducimos en la máquina? ¿Qué valores queremos inscribir en un agente y quién tiene derecho a definirlos?"}] } %}
+{% questions { "items": [{"question":"¿Desde dónde habla una IA cuando parece hablar desde “ningún lugar”? ¿Y qué ocurre si, en lugar de ocultar esa posición, la hacemos explícita?"},{"question":"¿Es posible diseñar un sistema que conserve aquello que hace políticamente productiva una conversación: la pregunta incómoda, la contradicción, la posición minoritaria, la experiencia difícil de traducir?"},{"question":"¿Podemos hacer explícitos y discutibles los valores que introducimos en un agente?"}] } %}
 
 
 
