@@ -31,7 +31,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-10-15-a-las-19.59.03.png
 ---
 **Jason Forrest** es diseñador, artista e investigador especializado en visualización de datos, con una trayectoria que cruza la música electrónica, las artes visuales, la tecnología y la comunicación. Fue director del Data Visualization Lab de McKinsey & Company, fundó *Nightingale*, la revista de la Data Visualization Society, y actualmente dirige Jason Forrest Agency y desarrolla, junto a la artista Jen Ray, **Data Vandals**, un proyecto que lleva los datos a las calles mediante instalaciones artísticas y experiencias participativas. 
 
