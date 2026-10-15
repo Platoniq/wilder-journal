@@ -19,7 +19,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/grid.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/grid.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: GRID
   credits: GRID
