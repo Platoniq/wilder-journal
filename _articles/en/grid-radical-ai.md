@@ -144,3 +144,37 @@ GRID engages with that voice as a dialogue partner and facilitator, not as a rep
 The cycle could be described as follows: the collective contributes its experience and formulates the problem; GRID provides different, well-founded, and traceable interpretations; the collective evaluates, discusses, and modifies them; and the final synthesis is returned to the collective. GRID does not attempt to speak on behalf of the collective, but rather to create conditions that allow the collective to listen, evaluate, and better develop its own voices.
 
 Its function is not to automatically produce consensus, but to bring differences to light in a way that is sufficiently visible so that they can be examined: which interpretation is useful to us, which one does not represent us, what experience is missing, and what questions we should ask those who are not present. Authority over meaning and over any subsequent decision remains with the participants.
+
+### **From the Heart of the Beast to the Radical Server**
+
+There is still one layer of the infrastructure we want to bring to light: where the artificial intelligence we use actually takes place.
+
+Platoniq draws on a tradition of civic and technological experimentation. Its projects rarely start with a ready-made solution, but rather with a question that is put to the test in a real-world setting: What tools does a community need to understand itself, make decisions, and take action? GRID is part of this approach. It is neither a finished product nor a demonstration of technical capabilities, but rather a research tool that is built as it is used, observed, refined, and discussed with participants.
+
+That is why the first version of GRID has been deliberately developed at the heart of the beast: ChatGPT. This decision allows us to work with extremely capable, fast, and continuously updated models, without having to build from scratch the massive computational infrastructure that makes them possible. It allows us to focus on what we really want to experiment with: the corpus, the personalities, the retrieval rules, the traceability of sources, and the relationship between artificial intelligence and deliberation.
+
+But that convenience introduces a fundamental dependency. Even though we decide which documents GRID consults, how we organize the corpus, or what instructions we give the agent, the engine that performs the inference remains beyond our control. We do not decide how the base model has been trained, what updates it receives, or what transformations it may undergo. We control part of GRID’s epistemology, but not its entire infrastructure.
+
+This tension is not an obstacle—it is part of the experiment. It forces us to ask ourselves just how far a deliberative tool can go when its capabilities depend on a remote, proprietary, and constantly evolving infrastructure.
+
+At the same time, we are developing a second architecture that we call the **“radical server.”** The idea is to take the experiment in the opposite direction: to radically reduce the necessary infrastructure to the point of attempting to run the system on everyday hardware under our control—in our case, a television’s processor.
+
+This isn’t about building a smaller ChatGPT or competing with OpenAI in terms of general capability. The question is a different one: How much intelligence do we really need to facilitate a situated, democratic conversation? A massive model is designed to respond to millions of people on virtually any topic. GRID has a much more limited task: to retrieve a specific corpus, interpret a question from certain perspectives, compare frameworks, and return materials useful for deliberation.
+
+The radical server explores whether, by narrowing the universe of knowledge and making explicit the rules by which that knowledge is mobilized, we can also reduce the amount of computation, energy, and technological dependence required. It does not seek to know everything, but rather to know where to look, to recognize the limits of what it contains, and to work intensively with a curated archive governed by the community that uses it.
+
+This second approach is also part of Platoniq’s experimental method: prototyping under real-world conditions, accepting limitations, and turning them into questions. A local model may be less capable, slower, or prone to different kinds of errors. But it can open up the possibility of deliberative infrastructures that do not constantly send conversations to large data centers and that can operate in community centers, schools, libraries, or spaces with limited connectivity.
+
+Nor do we want to romanticize the local. Decentralizing the infrastructure does not eliminate power—it shifts the venue where that power must be discussed. Decisions will have to be made about who maintains the model, who selects the corpus, who can modify it, how it is updated, and how its limitations are made visible.ChatGPT funciona como laboratorio de máxima capacidad: nos permite descubrir rápidamente qué puede llegar a hacer GRID. El radical server funciona como laboratorio de mínima infraestructura: nos obliga a preguntarnos cuál es la cantidad mínima de modelo, energía, datos y dependencia tecnológica necesaria para producir una herramienta deliberativa útil.
+
+The tension between these two prototypes is, in itself, the experiment. We are not merely seeking to compare performance, but to investigate something more political: what kind of artificial intelligence can exist when scale, ownership of the infrastructure, and the limits of knowledge also become democratic decisions.
+
+## **CTA**
+
+The question may not be whether AI can deliberate like we do. The question is whether we are capable of collectively observing, comparing, and discussing how it is influencing the way we deliberate.
+
+We want to put GRID to the test in real-world contexts of deliberation. If you work in civic engagement, facilitation, democratic research, or AI governance, we’d like to explore with you how to assess what each form of mediation makes visible and what it hides, what changes when different corpora or architectures are introduced, and where the boundary between assistance and human decision-making should lie.
+
+Instead of building a single agent that aspires to know everything, we want to experiment with an ecology of partial, traceable, and potentially contradictory agents: systems capable of declaring which corpus they are drawing from, highlighting their differences, and turning those differences into material for deliberation.
+
+Will you join us?
