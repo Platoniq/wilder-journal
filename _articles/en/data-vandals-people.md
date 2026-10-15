@@ -223,3 +223,7 @@ With Data Vandals, I’m trying to do something a little different. I don’t ne
 I once worked with the New Jersey Department of Health, and the data team barely spoke to the medical team, even though they were working on the same floor. As a result, there was a lack of context when the data was presented.
 
 So yes, I think we need more social training around data. Because, in the end, we come back to the beginning: data isn’t what matters. What matters is what happens between people when we share it.
+
+__
+
+*This interview forms part of a series that contributes to an article by Szilvia Nagy and Olivier Schulbaum, which analyses visualisation and spatialisation as practices of co-design, participation and democratic decision-making. The article is currently being prepared for the special issue of CoDesign entitled ‘Designing Democratic Innovation: Co-design and the Future of Participation in Governance’.*

@@ -226,3 +226,7 @@ Con Data Vandals intento hacer algo un poco distinto. No necesito que salgas con
 Trabajé una vez con el Departamento de Salud de Nueva Jersey y el equipo de datos prácticamente no hablaba con el equipo médico, aunque estaban trabajando en la misma planta. Como consecuencia, faltaba contexto cuando se presentaban los datos.
 
 Así que sí, creo que necesitamos más formación social alrededor de los datos. Porque, al final, volvemos al principio: los datos no son lo importante. Lo importante es lo que ocurre entre las personas cuando los ponemos en común.
+
+__
+
+*Esta entrevista forma parte de una serie que contribuye a un artículo de Szilvia Nagy y Olivier Schulbaum en el que se analizan la visualización y la espacialización como prácticas de codiseño, participación y toma de decisiones democrática. El artículo se está elaborando actualmente para el número especial de CoDesign titulado «Diseñando la innovación democrática: el codiseño y el futuro de la participación en la gobernanza».*
