@@ -6,7 +6,7 @@ published: true
 featured: false
 date: 2026-09-29T20:49:00.000+02:00
 date-updated: 2026-09-29T20:49:00.000+02:00
-article-order: 5
+article-order: 1
 uid: "Time-care-technology "
 title: Time, care, technology and political imagination
 description: Time, care, technology and political imagination
