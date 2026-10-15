@@ -48,6 +48,8 @@ No estoy en contra de multiplicar las posibilidades de participación, pero tene
 
 Para mí son importantes las dos cosas: abrir nuevos espacios de participación, sí, pero hacerlo poniendo el foco en que esos espacios tengan la lógica democrática correcta. Desde mi punto de vista, esa lógica es deliberativa y está orientada a la construcción de consensos por parte de la ciudadanía, con una inspiración bottom-up: una construcción de consenso que viene desde abajo.
 
+{% quote %}El problema es que no se pone el foco en la deliberación de la ciudadanía y, lo que es peor, se fomenta la competición entre propuestas ciudadanas, como si todos fuéramos enemigos en una batalla democrática{% endquote %}
+
 En un artículo reciente criticaba algunos procesos participativos de Barcelona, aunque esto es común también en otros municipios, porque ponen el acento en la agregación de preferencias. Eso, en sí mismo, no está mal, pero es solamente un primer estadio de cualquier política democrática de calidad. El problema es que no se pone el foco en la deliberación de la ciudadanía y, lo que es peor, se fomenta la competición entre propuestas ciudadanas, como si todos fuéramos enemigos en una batalla democrática, en lugar de promover entendimientos y acuerdos generalizados sobre cómo tomar mejores decisiones.
 
 **Olivier: Me interesa distinguir competición y consenso: el conflicto también puede ser una dimensión creativa de la deliberación. En tu artículo criticas especialmente los presupuestos participativos. ¿No crees que sus límites están en el propio diseño, que pide a la ciudadanía proponer pequeños proyectos técnicamente ejecutables en lugar de intervenir en decisiones más atrevidas?**
@@ -92,9 +94,11 @@ Por supuesto, el cambio climático es otro problema gravísimo. También lo son 
 
 Lo que ocurre con las asambleas ciudadanas es que se han convertido en una moda. En el sector de la participación he escuchado muchísimas veces a gente defenderlas como la solución a todos nuestros problemas. A mí me parecen un instrumento muy interesante y tienen ventajas claras, pero también inconvenientes. Uno de ellos es que son caras.
 
-Pensemos en la Asamblea Ciudadana por el Clima organizada bajo el auspicio del Gobierno francés, seguramente una de las más caras y complejas que se han organizado. Costó alrededor de cinco millones de euros y sus propuestas no tuvieron seguimiento ni recibieron un retorno significativo por parte del Gobierno. Más allá de la transformación de los participantes individuales —que seguramente cambiaron su visión de la política y de la complejidad democrática—, su impacto real sobre Francia fue prácticamente nulo.
+Pensemos en la Asamblea Ciudadana por el Clima organizada bajo el auspicio del Gobierno francés, seguramente una de las más caras y complejas que se han organizado. Costó alrededor de cinco millones de euros y sus propuestas no tuvieron seguimiento ni recibieron un retorno significativo por parte del Gobierno. Más allá de la transformación de los participantes individuales, que seguramente cambiaron su visión de la política y de la complejidad democrática—, su impacto real sobre Francia fue prácticamente nulo.
 
 En aquella primera asamblea había existido un compromiso de presentar las propuestas ante la Asamblea Legislativa francesa. Efectivamente, se presentaron, pero no se aprobaron en los términos propuestos ni tuvieron el impacto esperado. Para mí es muy indicativo de que, si no existe un proyecto claro respecto a para qué deben servir las asambleas, terminan siendo una oportunidad perdida.
+
+{% quote %}El conjunto de la sociedad puede observar cómo otros ciudadanos discuten en un determinado contexto y sentirse interpelado por ese proceso para formar también sus propios juicios{% endquote %}
 
 En realidad, una de sus grandes ventajas es el potencial que tienen para transformar a la sociedad. El conjunto de la sociedad puede observar cómo otros ciudadanos discuten en un determinado contexto y sentirse interpelado por ese proceso para formar también sus propios juicios. Pero esto depende fundamentalmente de que la asamblea tenga visibilidad, aparezca en televisión, en las redes y la gente sepa siquiera que existe. Y esto rara vez sucede.
 
@@ -134,6 +138,8 @@ Pero la pregunta es: ¿para qué queremos escalar? Si conseguimos un sistema mas
 
 **Olivier: Me encantó el título In Lobsters We Trust — or We Don't Trust. ¿Puedes explicar la metáfora de la langosta y de su caparazón? ¿Qué tiene que ver con la democracia? Nosotros usamos mucho el pulpo como metáfora, con sus distintos brazos ciudadanos. ¿Cuál sería el animal contrario a la langosta?**
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-10-15-a-las-19.36.32.png"}] } %}
+
 **José Luis:** Habermolt es un spin-off de un experimento previo llamado Habermas Machine. En ambos utilizan el nombre de Habermas, equivocadamente, de hecho. Habermas tuvo tiempo de responder al primer uso de su nombre y advertir que el proyecto tenía muy poco de habermasiano y, en algunos sentidos, era incluso contrario a Habermas.
 
 Habermolt mantiene «Habermas» y añade molt, la palabra inglesa que hace referencia a la muda del caparazón de algunos animales, en particular de las langostas. Para seguir creciendo, la langosta tiene que deshacerse de su caparazón y sustituirlo por otro mayor. Esa es la metáfora de su scaling up democrático: para construir una democracia a escala masiva tendríamos que deshacernos del pequeño caparazón de la democracia que hemos conocido hasta ahora y pasar a utilizar uno mayor.
@@ -163,6 +169,8 @@ Y no se trata únicamente de preferencias, sino también de creencias respecto a
 Por eso la deliberación transforma preferencias; no se limita a agregarlas. Algunos experimentos de inteligencia artificial están recuperando errores que la teoría democrática diagnosticó y criticó hace décadas, ignorando precisamente el desarrollo del paradigma deliberativo.
 
 Pensemos en los políticos que gobiernan mediante encuestas, intentando descubrir cuáles son las preferencias de la ciudadanía. La inteligencia artificial permite convertir esa técnica en algo muchísimo más eficiente, preciso y riguroso, pero sigue siendo una técnica de encuesta: observar cómo reacciona la gente ante una pregunta.
+
+{% quote %}Con inteligencia artificial y relativamente pocas interacciones puedo descubrir, e incluso predecir, cuál será la respuesta que dará una persona. Pero ¿qué valor tiene saber lo que responderá impulsivamente?{% endquote %}
 
 Puedo preguntar si deberíamos bajar la edad electoral de dieciocho a dieciséis años, introducir un impuesto especial a los ricos o prohibir los coches de combustión. Con inteligencia artificial y relativamente pocas interacciones puedo descubrir, e incluso predecir, cuál será la respuesta que dará una persona. Pero ¿qué valor tiene saber lo que responderá impulsivamente?
 
