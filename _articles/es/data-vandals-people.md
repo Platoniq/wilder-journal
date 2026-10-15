@@ -35,6 +35,8 @@ image:
 ---
 **Jason Forrest** es diseñador, artista e investigador especializado en visualización de datos, con una trayectoria que cruza la música electrónica, las artes visuales, la tecnología y la comunicación. Fue director del Data Visualization Lab de McKinsey & Company, fundó *Nightingale*, la revista de la Data Visualization Society, y actualmente dirige Jason Forrest Agency y desarrolla, junto a la artista Jen Ray, **Data Vandals**, un proyecto que lleva los datos a las calles mediante instalaciones artísticas y experiencias participativas. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ebbxbj6E0Vo?si=AprJmw-XqxSZQEw6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 En esta conversación exploramos cómo la visualización puede convertirse en una herramienta para activar el diálogo público, cuestionar las formas tradicionales de representar la realidad y ampliar las capacidades democráticas de las comunidades. Desde los pioneros gráficos de W. E. B. Du Bois y el sistema Isotype hasta intervenciones urbanas en Nueva York, Londres o Los Ángeles, Forrest nos invita a repensar la alfabetización de datos, la relación entre conocimiento y poder y el papel de la emoción y el espacio público en la participación ciudadana. Su propuesta desplaza el centro de atención de los gráficos hacia las personas: **los datos no deberían servir únicamente para explicar el mundo o convencer a una audiencia, sino para generar encuentros, hacer visibles experiencias compartidas y abrir conversaciones capaces de transformar nuestra manera de vivir juntos.**
 
 ## **Sobre visualización, espacio público y los datos como catalizadores de la conversación democrática**
@@ -56,6 +58,8 @@ Empecé a investigar y descubrí que prácticamente nadie estaba hablando de esa
 Cuando llegó la COVID, en McKinsey me pidieron que ayudara con el trabajo de visualización relacionado con la pandemia. Me dieron un equipo de unas veinte personas y durante aproximadamente un año y medio producimos visualizaciones sobre salud y economía. Fue un entorno extraordinario para experimentar y también el momento en el que lancé *Nightingale*.
 
 Paralelamente me estaba obsesionando con Isotype. En uno de los libros encontré una diminuta referencia a que Otto y Marie Neurath habían realizado espectáculos de marionetas con Isotype. La idea se me quedó instalada en la cabeza. Mi mujer y yo ya habíamos hecho algunos proyectos de carteles en Nueva York durante la pandemia, intentando cultivar cierto orgullo cívico. De esa combinación acabó surgiendo Data Vandals. La pregunta inicial era muy sencilla: ¿qué ocurre cuando sacas los datos del mundo digital y los colocas en el mundo físico? Esa pregunta acabó cambiando completamente mi práctica.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-10-15-a-las-20.15.32.png"}] } %}
 
 ## **Los datos como excusa para conversar**
 
@@ -127,6 +131,8 @@ Eso me llevó también a investigar índices de felicidad y bienestar. Bután, p
 
 Eso abre preguntas interesantes sobre qué consideramos datos válidos para gobernar. Podemos preguntar dónde te sientes cómodo en tu comunidad, pero también dónde te sientes centrado, o dónde sientes una conexión con tu entorno. Construir ese tipo de conjuntos de datos puede ser bastante radical.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-10-15-a-las-20.11.21.png"}] } %}
+
 ## **El trabajo detrás de los datos**
 
 **Olivier:** **En la investigación sobre Du Bois aparecen también sus estudiantes y asistentes. ¿Podemos pensar en ellos como una generación temprana de trabajadores de datos?**
@@ -184,6 +190,8 @@ Y refuerza mi problema con la idea de alfabetización de datos. Si la gente no e
 **Jason:** Sí, aunque añadiría una cosa: las personas ya están constantemente sintiendo emociones. No tenemos que «introducir» emoción en los datos. La emoción ya está ahí. Lo que puedes hacer es utilizarla para provocar curiosidad o empatía, sin caer necesariamente en la manipulación o en el eslogan.
 
 En Data Vandals intentamos que las personas puedan verse a sí mismas dentro de los datos. Tenemos, por ejemplo, una pieza sobre los veranos en Nueva York que empieza preguntando: «¿Qué vas a hacer este verano?». Es una pregunta completamente cotidiana. Pero a medida que avanzas acaba llevándote hacia una cuestión como: «¿Crees que la política está arruinando el patriotismo?». Empiezas hablando de si vas a navegar o a visitar a tu familia y terminas entrando en una conversación política mucho mayor.
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-10-15-a-las-20.09.45.png"}] } %}
 
 ## **La visualización como música**
 
