@@ -6,7 +6,7 @@ published: true
 featured: false
 date: 2026-08-06T10:08:00.000+02:00
 date-updated: 2026-08-06T10:08:00.000+02:00
-article-order: 1
+article-order: 3
 uid: masculinidades-conscientes
 title: Egalitarian Masculinities, Mental Health, Loneliness, and Democracy
 description: Interview with Miquel Joan Far Ferrer
