@@ -46,11 +46,9 @@ GRID stems from that question. It explores whether a situated, polyphonic AI can
 
 ## **Three Key Questions**
 
-From where does an AI speak when it seems to speak from “nowhere”? And what happens if, instead of hiding that position, we make it explicit?
+{% questions { "items": [{"question":"From where does an AI speak when it seems to speak from “nowhere”? And what happens if, instead of hiding that position, we make it explicit?"},{"question":"What should an AI do and what should it not do within a deliberation? Is it possible to design a system that preserves what makes a conversation politically productive: the uncomfortable question, the contradiction, the minority position, the experience that is difficult to translate?"},{"question":"Can we make the values we program into the machine explicit—and open to debate? What values do we want to embed in an agent, and who has the right to define them?"}] } %}
 
-What should an AI do—and what should it not do—within a deliberation? Is it possible to design a system that preserves what makes a conversation politically productive: the uncomfortable question, the contradiction, the minority position, the experience that is difficult to translate?
 
-Can we make the values we program into the machine explicit—and open to debate? What values do we want to embed in an agent, and who has the right to define them?
 
 ## **Story of me: Why do we believe this issue is relevant?**
 
@@ -98,6 +96,7 @@ Nor should artificial persons be used as substitutes for the participation of vu
 That is why, at GRID, the Joker does not represent “the oppressed,” the Philosopher does not represent “philosophers,” and the Deliberator does not represent “reasonable citizens.” They are not synthetic personas meant to take the place of absent groups. They are methodological and epistemological positions: different ways of formulating questions, interpreting a situation, and guiding an intervention.
 
 ## **Story of Now: How Does the Foundation Respond?**
+
 ### **Designing a Polyphonic and Situated Architecture**
 
 GRID’s architecture stems from a specific question: What happens if, instead of asking a single AI to adopt the seemingly neutral voice of “the facilitator,” we maintain within the system different human ways of observing, questioning, and guiding a deliberation?
