@@ -133,6 +133,8 @@ Technically, GRID does not “read the entire corpus” or select a reference ba
 
 But that process is never neutral. The corpus consulted, the categories used, the problems identified, and the solutions deemed plausible all shape what GRID can bring to light. The same situation can appear as a problem of consensus, institutional design, structural inequality, or political conflict, depending on the framework through which it is interpreted. The knowledge with which we build an agent is not just content—it is also an infrastructure of interpretation.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-10-15-a-las-18.49.54.png"}] } %}
+
 ### **The Voice of the Collective and Its Interaction with GRID**
 
 GRID’s architecture is based on a fundamental distinction: the voice of the collective is not something that AI can generate on its own. The question is, rather, how GRID can serve as a tool for that voice.

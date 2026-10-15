@@ -133,6 +133,8 @@ Técnicamente, GRID no “lee todo el corpus” ni elige una referencia por su f
 
 Pero esa operación nunca es neutra. El corpus consultado, las categorías utilizadas, los problemas reconocidos y las soluciones consideradas plausibles condicionan aquello que GRID puede hacer visible. Una misma situación puede aparecer como un problema de consenso, de diseño institucional, de desigualdad estructural o de conflicto político según el marco desde el que se interprete. El conocimiento con el que construimos un agente no es solo contenido: es también una infraestructura de interpretación.
 
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-10-15-a-las-18.49.54.png"}] } %}
+
 ### **La voz del colectivo y su interacción con GRID**
 
 La arquitectura de GRID parte de una distinción fundamental: la voz del colectivo no es algo que la IA pueda generar por sí sola. La pregunta es, más bien, cómo puede GRID servir de herramienta a esa voz.
