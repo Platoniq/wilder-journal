@@ -8,6 +8,11 @@ date: 2026-10-15T20:01:00.000+02:00
 date-updated: 2026-10-15T20:01:00.000+02:00
 article-order: 5
 uid: data-vandals-people
+title: "\"Data doesn't matter. What matters are the people.\""
+description: "\"Data doesn't matter. What matters are the people.\""
+author: Olivier Schulbaum
+author_uids:
+  - olivier-schulbaum
 interviewee: Jason Forrest
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-10-15-a-las-19.59.03.png
