@@ -8,7 +8,7 @@ date: 2026-10-14T21:58:00.000+02:00
 date-updated: 2026-10-14T21:58:00.000+02:00
 article-order: 1
 uid: conflicto-odio-esfera-publica
-title: "Deliberar cuando ya no estamos de acuerdo: conflicto, odio y esfera pública"
+title: "Deliberar cuando no estamos de acuerdo: conflicto, odio y esfera pública"
 description: "Deliberar cuando ya no estamos de acuerdo: conflicto, odio y esfera pública"
 author: Olivier Schulbaum
 author_uids:
