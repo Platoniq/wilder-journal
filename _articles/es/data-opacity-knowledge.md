@@ -236,3 +236,7 @@ Los tipos de materiales que necesitamos cambiarán según la pregunta. Si estamo
 Así que no se trata únicamente del aspecto de la sala. Se trata de duración y dedicación: ¿cuánto tiempo estamos dispuestos a comprometernos a estudiar algo colectivamente? Quizá no sea una actividad de fin de semana. Quizá sea un proceso de toma de decisiones de diez años, con decisiones más pequeñas a lo largo del camino. Puede que descubramos que seis meses de estudio no bastan y que necesitamos seis años.
 
 Y querría asientos para descansar. Puede parecer un detalle menor, pero las personas deberían poder pensar, reflexionar y tomar decisiones sentadas, reclinadas o en cualquier postura que les resulte cómoda. El cuerpo no tendría que desaparecer para que el pensamiento colectivo pudiera tener lugar.
+
+__
+
+*Esta entrevista forma parte de una serie que contribuye a un artículo de Szilvia Nagy y Olivier Schulbaum en el que se analizan la visualización y la espacialización como prácticas de codiseño, participación y toma de decisiones democrática. El artículo se está elaborando actualmente para el número especial de CoDesign titulado «Diseñando la innovación democrática: el codiseño y el futuro de la participación en la gobernanza».*

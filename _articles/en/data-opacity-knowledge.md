@@ -230,3 +230,7 @@ The kinds of materials we need will change with the question. If we are consider
 So this isn't only about the appearance of the room. It's about duration and devotion: how much time are we willing to commit to studying something collectively? Maybe this isn't a weekend activity. Maybe it's a ten-year process of decision-making, with smaller decisions along the way. We might realise that six months of study isn't enough, and that we need six years.
 
 And I'd want lounge seating. Again, that may sound like a small detail, but people should be able to think, reflect and make decisions while sitting, reclining or occupying whatever position feels comfortable. The body shouldn't have to disappear for collective thinking to happen.
+
+__
+
+*This interview forms part of a series that contributes to an article by Szilvia Nagy and Olivier Schulbaum, which analyses visualisation and spatialisation as practices of co-design, participation and democratic decision-making. The article is currently being prepared for the special issue of CoDesign entitled ‘Designing Democratic Innovation: Co-design and the Future of Participation in Governance’.*
