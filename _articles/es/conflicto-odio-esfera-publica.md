@@ -16,7 +16,7 @@ author_uids:
 interviewee: Marta Cambronero
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-10-19-a-las-20.18.55.png
-  mobile: /media/articles/mobile/marta.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-10-19-a-las-20.18.55.png
   thumbnail: /media/articles/thumbnails/marta.png
   alt: marta cambronero
   credits: marta cambronero
