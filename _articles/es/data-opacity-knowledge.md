@@ -1,5 +1,6 @@
 ---
 layout: article
+volume-uid: wilder-journal-3
 category: interviews
 published: true
 featured: false

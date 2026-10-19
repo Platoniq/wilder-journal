@@ -1,5 +1,6 @@
 ---
 layout: article
+volume-uid: wilder-journal-3
 category: interviews
 published: true
 featured: false
@@ -15,6 +16,10 @@ cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-10-19-a-las-20.50.33.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - Justice-Afrofuturism-Participatory-Research
+  - ia-elder-generational
+  - democracy-living-ecosystem
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
