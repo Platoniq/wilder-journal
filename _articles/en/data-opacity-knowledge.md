@@ -14,7 +14,7 @@ description: "*An interview with Kameelah Janan Rasheed for Wilder Journal*"
 interviewee: Kameelah Janan Rasheed
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-10-19-a-las-20.50.33.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-10-19-a-las-20.50.33.png
   thumbnail: /assets/media/no_image-thumbnail.png
 related_article_uids:
   - Justice-Afrofuturism-Participatory-Research

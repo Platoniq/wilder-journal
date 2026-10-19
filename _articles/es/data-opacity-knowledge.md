@@ -18,7 +18,7 @@ author_uids:
 interviewee: Kameelah Janan Rasheed
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-10-19-a-las-20.50.33.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-10-19-a-las-20.50.33.png
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Kameelah Janan Rasheed
   credits: Kameelah Janan Rasheed
