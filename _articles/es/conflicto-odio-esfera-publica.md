@@ -15,7 +15,7 @@ author_uids:
   - olivier-schulbaum
 interviewee: Marta Cambronero
 cover:
-  path: /media/articles/heroes/marta.png
+  path: /media/articles/heroes/captura-de-pantalla-2026-10-19-a-las-20.18.55.png
   mobile: /media/articles/mobile/marta.png
   thumbnail: /media/articles/thumbnails/marta.png
   alt: marta cambronero
