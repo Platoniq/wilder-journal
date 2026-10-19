@@ -175,7 +175,7 @@ Ahora mismo estoy investigando los llamados *death bots*: empresas e iniciativas
 
 ### Opacidad, visibilidad y las políticas de vigilancia
 
-**Olivier:** Esto nos lleva a la idea de resistir la visibilidad obligatoria. Las personas y las comunidades son constantemente rastreadas, medidas y clasificadas por sistemas digitales. ¿Necesita también la visualización democrática un derecho a la opacidad, o incluso un derecho a desaparecer de la mirada?
+**Olivier: Esto nos lleva a la idea de resistir la visibilidad obligatoria. Las personas y las comunidades son constantemente rastreadas, medidas y clasificadas por sistemas digitales. ¿Necesita también la visualización democrática un derecho a la opacidad, o incluso un derecho a desaparecer de la mirada?**
 
 **Kameelah:** Creo que utilizamos el lenguaje de la democracia como si todas las personas estuviéramos de acuerdo en su significado, cuando muchas veces no es así. Cuando alguien habla de distribución o visualización democrática de los datos, quiero preguntar: *¿en qué dirección?*
 
@@ -193,7 +193,7 @@ Así que, cuando hablamos de *visualización democrática*, ¿qué estamos visua
 
 ### Las visualizaciones como objetos de negociación democrática
 
-**Olivier:** Una de las hipótesis que estamos explorando es que una visualización podría convertirse en un objeto de negociación en lugar de una representación acabada. Imaginemos una asamblea ciudadana donde quienes participan puedan mover elementos, añadir experiencias ausentes, cambiar categorías, anotar un gráfico o decidir que algo debería ocultarse. ¿Podría el propio hecho de cuestionar una visualización convertirse en una forma de deliberación?
+**Olivier: Una de las hipótesis que estamos explorando es que una visualización podría convertirse en un objeto de negociación en lugar de una representación acabada. Imaginemos una asamblea ciudadana donde quienes participan puedan mover elementos, añadir experiencias ausentes, cambiar categorías, anotar un gráfico o decidir que algo debería ocultarse. ¿Podría el propio hecho de cuestionar una visualización convertirse en una forma de deliberación?**
 
 **Kameelah:** Me gusta esa pregunta sobre la modularidad. Una manera de entender los datos es que recopilamos más información y después la utilizamos para ampliar, triangular o corroborar lo que creíamos saber. Hay un proceso de revisión.
 
