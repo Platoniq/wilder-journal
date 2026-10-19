@@ -109,6 +109,8 @@ The Xerox was also a way to continue a practice without relying on the equipment
 
 If we desaturated Du Bois’s diagrams, I think they would lose something. He used colour and line intentionally to communicate information. But I could imagine another visual language in which texture does that work: a pie chart differentiated by surface, luminosity or reflectivity instead of colour.
 
+{% file { "title": "The future of data visualization: in the footsteps of W.E.B. DuBois", "info": "", "file": "__  This interview forms part of a series that contributes to an article by Szilvia Nagy and Olivier Schulbaum, which analyses visualisation and spatialisation as practices of co-design, participation and democratic decision-making. The article is currently being prepared for the special issue of CoDesign entitled ‘Designing Democratic Innovation: Co-design and the Future of Participation in Governance’.", "image": "/media/bois.png", "button_text": "Read the article", "button_icon": "", "alt_color": false } %}
+
 In my own practice, I'm interested in how far I can stretch a single colour or tone, rather than how many colours I can use. I'm also increasingly cautious about presentation, seduction and appearance. When I think about media literacy, I notice how advertisers use colour online, how shops use it to direct our attention, how we're pulled through commercial spaces. At the airport, you have to walk through clouds of perfume and products before reaching your gate. There is something about saturation and overexposure that concerns me when they're used against us.
 
 I think the issue is also what we expect from a visual language once it becomes persuasive. A bright, highly saturated image can appear to tell us which part of the message is important before we have decided that for ourselves. A monochrome image can also guide attention, of course, so it isn't a simple moral opposition between colour and black and white. For me, the constraint creates a question: what happens when I can't reach immediately for a different colour to establish a hierarchy? Could a change of density, an interruption in a line or a patch of noise do that work instead?
@@ -169,7 +171,7 @@ At the moment, I'm researching so-called *death bots*: companies and initiatives
 
 ### Opacity, visibility and the politics of surveillance
 
-**Olivier:** That brings us to the idea of resisting compulsory visibility. People and communities are continually tracked, measured and classified by digital systems. Does democratic visualisation also require a right to opacity, or even a right to disappear from view?
+**Olivier: That brings us to the idea of resisting compulsory visibility. People and communities are continually tracked, measured and classified by digital systems. Does democratic visualisation also require a right to opacity, or even a right to disappear from view?**
 
 **Kameelah:** I think we use the language of democracy as if we all agree on what it means, when we often don't. When someone talks about the democratic distribution or visualisation of data, I want to ask: *in which direction?*
 

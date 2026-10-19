@@ -113,7 +113,7 @@ La Xerox también me permitía continuar mi práctica sin depender del equipamie
 
 Si elimináramos la saturación de los diagramas de Du Bois, creo que perderían algo. Él utilizaba deliberadamente el color y la línea para comunicar información. Pero puedo imaginar otro lenguaje visual en el que la textura hiciera ese trabajo: un gráfico circular diferenciado por las superficies, la luminosidad o la capacidad de reflejar la luz, en vez de por los colores.
 
-{% file { "title": "El futuro de la visualización de datos: siguiendo los pasos de W.E.B DuBois", "info": "", "file": "https://journal.platoniq.net/es/wilder-journal-2/futures/web-dubois-data/", "image": "/media/bois.png", "button_text": "Du Bois", "button_icon": "", "alt_color": false } %}
+{% file { "title": "El futuro de la visualización de datos: siguiendo los pasos de W.E.B DuBois", "info": "", "file": "https://journal.platoniq.net/es/wilder-journal-2/futures/web-dubois-data/", "image": "/media/bois.png", "button_text": "Lee el artículo", "button_icon": "", "alt_color": false } %}
 
 En mi propia práctica me interesa hasta dónde puedo llevar un único color o tono, más que cuántos colores puedo utilizar. También soy cada vez más cautelosa respecto a la presentación, la seducción y las apariencias. Cuando pienso en alfabetización mediática, observo cómo los anunciantes utilizan el color en internet, cómo lo emplean las tiendas para dirigir nuestra atención y cómo nos arrastran por los espacios comerciales. En un aeropuerto tienes que atravesar nubes de perfume y de productos antes de llegar a tu puerta de embarque. Hay algo en la saturación y la sobreexposición que me preocupa cuando se utilizan contra nosotros.
 
