@@ -33,7 +33,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-10-19-a-las-20.50.33.png
 ---
 ¿Qué revela un diagrama y qué está obligado a dejar fuera? Para la artista **Kameelah Janan Rasheed**, visualizar no consiste simplemente en facilitar la lectura de la información. También implica preguntarse qué se cuenta, qué conocimientos llegan a ser legibles, cómo se desplazan los cuerpos a través de la información y cuándo la exigencia de hacerse visible se convierte en una forma de control. A partir de las impactantes visualizaciones de datos de W. E. B. Du Bois, esta conversación recorre los usos políticos de la seducción estética, las texturas de la impresión en blanco y negro, la coreografía de las exposiciones y la extracción de datos más allá de la muerte. Rasheed cuestiona la idea de que la información se presente como un objeto acabado y neutral: los datos se producen, se sitúan en contextos, se revisan y, en ocasiones, se resisten. ¿Qué ocurriría si tratáramos las visualizaciones no como conclusiones revestidas de autoridad, sino como objetos que las personas pueden cuestionar, reorganizar e interpretar colectivamente? La conversación concluye con una propuesta especulativa de espacios democráticos construidos alrededor de la porosidad, la comodidad, la incertidumbre y el tiempo.
 
