@@ -11,6 +11,9 @@ uid: Data-Opacity-Knowledge
 title: "What a Diagram Cannot Hold: on Data, Opacity and the Choreography of
   Knowledge"
 description: "*An interview with Kameelah Janan Rasheed for Wilder Journal*"
+author: Olivier Schulbaum
+author_uids:
+  - olivier-schulbaum
 interviewee: Kameelah Janan Rasheed
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-10-19-a-las-20.50.33.png
@@ -28,21 +31,11 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/captura-de-pantalla-2026-10-19-a-las-20.50.33.png
 ---
-# What a Diagram Cannot Hold: Kameelah Janan Rasheed on Data, Opacity and the Choreography of Knowledge
-
-*A conversation between Olivier and Kameelah Janan Rasheed*
-
-**Introduction**
-
-What does a diagram reveal, and what must it leave out? For artist Kameelah Janan Rasheed, visualisation is never simply a matter of making information easier to see. It is also a question of what gets counted, whose knowledge becomes legible, how bodies move through information and when the demand to be visible becomes a form of control. Beginning with W. E. B. Du Bois’s striking data visualisations, this conversation moves through the political uses of aesthetic seduction, the textures of black-and-white printmaking, the choreography of exhibitions and the extraction of data beyond death. Rasheed challenges the idea that information arrives as a finished, neutral object: data is made, situated, revised and sometimes resisted. What might follow if we treated visualisations not as authoritative conclusions, but as objects that people could question, rearrange and collectively interpret? The conversation closes with a speculative proposition for democratic spaces built around porosity, comfort, uncertainty and time.
-
-*This interview has been edited for clarity and readability while preserving the interviewee’s arguments, examples and conversational voice. Questions have been condensed. [Editorial verification notes appear at the end and are not intended for publication.]*
-
----
+What does a diagram reveal, and what must it leave out? For artist **Kameelah Janan Rasheed**, visualisation is never simply a matter of making information easier to see. It is also a question of what gets counted, whose knowledge becomes legible, how bodies move through information and when the demand to be visible becomes a form of control. Beginning with W. E. B. Du Bois’s striking data visualisations, this conversation moves through the political uses of aesthetic seduction, the textures of black-and-white printmaking, the choreography of exhibitions and the extraction of data beyond death. Rasheed challenges the idea that information arrives as a finished, neutral object: data is made, situated, revised and sometimes resisted. What might follow if we treated visualisations not as authoritative conclusions, but as objects that people could question, rearrange and collectively interpret? The conversation closes with a speculative proposition for democratic spaces built around porosity, comfort, uncertainty and time.
 
 ### Du Bois and the limits of what can be counted
 
-**Olivier:** I first encountered your work through your engagement with W. E. B. Du Bois’s data visualisations. Would you call what you do an interpretation, a re-enactment or something new? What are you trying to carry from his historical work into the present, and what needs to change?
+**Olivier: I first encountered your work through your engagement with W. E. B. Du Bois’s data visualisations. Would you call what you do an interpretation, a re-enactment or something new? What are you trying to carry from his historical work into the present, and what needs to change?**
 
 **Kameelah:** I think for a lot of young Black people, an early introduction to Du Bois is *The Souls of Black Folk* and his questions about double consciousness and what it meant to be a Black person at that particular time. That book was foundational for me, but it wasn't until I saw his data visualisations that something clicked.
 
@@ -60,7 +53,7 @@ Christina Sharpe writes in *In the Wake* about the atmosphere of anti-Blackness.
 
 ### Adversarial poetics: what diagrams conceal
 
-**Olivier:** Du Bois’s diagrams are visually extraordinary, and their beauty is often the first thing people notice. When does reactivating a historical visualisation become more than an aesthetic quotation? What makes it politically meaningful?
+**Olivier: Du Bois’s diagrams are visually extraordinary, and their beauty is often the first thing people notice. When does reactivating a historical visualisation become more than an aesthetic quotation? What makes it politically meaningful?**
 
 **Kameelah:** I was recently in Morocco on a research residency where I spent a lot of time thinking about adversarial poetics. Manuel Arturo Abreu has written about a much longer lineage of adversarial poetics: people trying to encrypt, hide and embed information long before computers and computation. Methods of secreting and encoding information exceed Silicon Valley.
 
@@ -78,7 +71,7 @@ Of course, the diagrams are visually stunning. Seduction is part of graphic desi
 
 ### Diagrams in space: the body as a reader
 
-**Olivier:** That raises a question about display itself. Your work suggests that meaning is produced not only by what is shown but also by where and how someone encounters it. How do you think about the relationship between an exhibition, the space around it and the visitor moving through it?
+**Olivier: That raises a question about display itself. Your work suggests that meaning is produced not only by what is shown but also by where and how someone encounters it. How do you think about the relationship between an exhibition, the space around it and the visitor moving through it?**
 
 **Kameelah:** I've only recently come to understand my work as deeply diagrammatic. Someone had to point that out to me. A diagram usually works through compression or centralisation, and one question I ask in my installations is whether we can make a diagram that doesn't depend entirely on those logics.
 
@@ -91,6 +84,8 @@ I think of a diagram as something embodied, something that takes up the entire s
 If I'm walking through a museum and looking towards an object, the direction of my attention is itself doing something in space. There is something beautiful about that embodied dimension.
 
 I am interested in taking something folded inside a textbook or a book and opening it up to scale. Think about a diagram on a phone, perhaps a small square graphic made for social media. You're mostly moving your eyes back and forth. Now imagine that same information enlarged so that you stand in front of it and move your body from one node to another. That changes your relationship to the knowledge.
+
+{% quote %} I want to make those assumptions visible by asking what happens when the same relationships become a room, a route or a physical encounter rather than a small image on a screen.{% endquote %}
 
 I think this is especially interesting when we look at the tools people use to generate images and share knowledge. Canva, for instance, makes it easy to produce a square diagram for circulation on social media. But software also carries an implicit logic about what information should look like, how large it should be and how it should be divided. The format can disappear from our attention precisely because it has become so familiar. I want to make those assumptions visible by asking what happens when the same relationships become a room, a route or a physical encounter rather than a small image on a screen.
 
@@ -118,7 +113,7 @@ That doesn't mean I'm against colour. I'm interested in saturation as a poetics 
 
 ### Architecture as a collaborator
 
-**Olivier:** Could you take us through a particular installation in which the space itself played a major role? What was the spatial arrangement actually doing?
+**Olivier: Could you take us through a particular installation in which the space itself played a major role? What was the spatial arrangement actually doing?**
 
 **Kameelah:** One example is my contribution to *Greater New York* at MoMA PS1. When I received the invitation, I was excited. I'd been living in New York for about 15 years, and I consider myself a New Yorker, although people may argue about that.
 
@@ -140,7 +135,7 @@ I think *with* the space, and I change my ideas in response to it. I don't like 
 
 ### When data becomes choreography
 
-**Olivier:** We've been exploring the idea of *moving through data*, including through practices such as Legislative Theatre, where people embody experiences, rehearse alternatives and sometimes translate these into policy proposals. Could data itself become a score or a choreography that people inhabit and transform together?
+**Olivier: We've been exploring the idea of *moving through data*, including through practices such as Legislative Theatre, where people embody experiences, rehearse alternatives and sometimes translate these into policy proposals. Could data itself become a score or a choreography that people inhabit and transform together?**
 
 **Kameelah:** For several years I've worked with an MFA dance programme, teaching writing and language with a friend to dancers in Montpellier in the south of France. That work has shaped how I think about movement and data. Dancers ask questions such as: what does it mean to document my practice? How do I create notation for something that moves? I also met someone who had sold a dance to a major museum, and just thinking about what it means to sell a performance raises all sorts of questions.
 
@@ -153,6 +148,8 @@ I am interested in what can be enumerated and counted, but also in what escapes 
 I'm very intentional about collaboration. If it takes ten years to find the right form, then it takes ten years. I'm also concerned about what happens when we bring political questions into an art space. Politics and art aren't separate, but sometimes turning everything into an artistic experience introduces another layer of abstraction. With data and surveillance, I don't necessarily want you to experience those things *as art*. I want you to confront what is in front of you. This is surveillance. You are being watched. Even this conversation may end up stored on a platform and subjected to analysis.
 
 I appreciate artistic approaches to those questions, but we risk losing a critical edge when we abstract them so far that we're no longer talking about the material realities of data. Some of my work on machine learning and AI therefore takes a more research-oriented form: presentations, interviews and conversations. I haven't yet found a sufficient artistic form for all of it.
+
+{% quote %}What information are they required to disclose? What can someone infer from apparently mundane traces? Which decisions about collection and retention were already made before they arrived? {% endquote %}
 
 In some ways I would rather have people work directly with the infrastructures involved than transform the issue into a metaphor too quickly. What information are they required to disclose? What can someone infer from apparently mundane traces? Which decisions about collection and retention were already made before they arrived? Those questions have a material urgency. We can use artistic methods to ask them, but I don't want aesthetic distance to become a substitute for understanding what a system is actually doing to people.
 

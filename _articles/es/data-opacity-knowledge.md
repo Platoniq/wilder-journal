@@ -8,8 +8,8 @@ date: 2026-10-19T20:53:00.000+02:00
 date-updated: 2026-10-19T20:53:00.000+02:00
 article-order: 3
 uid: Data-Opacity-Knowledge
-title: "Lo que un diagrama no puede contener: Kameelah Janan Rasheed sobre los
-  datos, la opacidad y la coreografía del conocimiento"
+title: Lo que un diagrama no puede contener. Sobre datos, opacidad y la
+  coreografía del conocimiento
 description: "Lo que un diagrama no puede contener: Kameelah Janan Rasheed sobre
   los datos, la opacidad y la coreografía del conocimiento"
 author: Olivier Schulbaum
@@ -37,13 +37,9 @@ image:
 ---
 ¿Qué revela un diagrama y qué está obligado a dejar fuera? Para la artista **Kameelah Janan Rasheed**, visualizar no consiste simplemente en facilitar la lectura de la información. También implica preguntarse qué se cuenta, qué conocimientos llegan a ser legibles, cómo se desplazan los cuerpos a través de la información y cuándo la exigencia de hacerse visible se convierte en una forma de control. A partir de las impactantes visualizaciones de datos de W. E. B. Du Bois, esta conversación recorre los usos políticos de la seducción estética, las texturas de la impresión en blanco y negro, la coreografía de las exposiciones y la extracción de datos más allá de la muerte. Rasheed cuestiona la idea de que la información se presente como un objeto acabado y neutral: los datos se producen, se sitúan en contextos, se revisan y, en ocasiones, se resisten. ¿Qué ocurriría si tratáramos las visualizaciones no como conclusiones revestidas de autoridad, sino como objetos que las personas pueden cuestionar, reorganizar e interpretar colectivamente? La conversación concluye con una propuesta especulativa de espacios democráticos construidos alrededor de la porosidad, la comodidad, la incertidumbre y el tiempo.
 
-*Esta entrevista ha sido editada para mejorar su claridad y legibilidad, preservando los argumentos, ejemplos y tono conversacional de la entrevistada. Las preguntas se han condensado. Las notas de verificación editorial al final no están destinadas a su publicación.*
-
-- - -
-
 ### Du Bois y los límites de lo que puede contarse
 
-**Olivier:** Conocí tu trabajo a través de tu acercamiento a las visualizaciones de datos de W. E. B. Du Bois. ¿Llamarías a lo que haces una interpretación, una recreación o algo nuevo? ¿Qué intentas trasladar de ese trabajo histórico al presente y qué necesita transformarse?
+**Olivier: Conocí tu trabajo a través de tu acercamiento a las visualizaciones de datos de W. E. B. Du Bois. ¿Llamarías a lo que haces una interpretación, una recreación o algo nuevo? ¿Qué intentas trasladar de ese trabajo histórico al presente y qué necesita transformarse?**
 
 **Kameelah:** Creo que, para muchas personas negras jóvenes, una de las primeras puertas de entrada a Du Bois es *The Souls of Black Folk* [*Las almas del pueblo negro*] y sus preguntas sobre la doble conciencia y sobre qué significaba ser una persona negra en aquel momento histórico. Ese libro fue fundamental para mí, pero no fue hasta que vi sus visualizaciones de datos cuando algo encajó.
 
@@ -55,13 +51,15 @@ Pero también me interesa lo que un diagrama puede y no puede contener. ¿Qué d
 
 Vuelvo a los textos de Katherine McKittrick sobre las matemáticas negras y las cuestiones de la enumeración, incluida la pregunta de cómo dar cuenta de la pérdida. También pienso en *Venus in Two Acts*, de Saidiya Hartman. Esos trabajos no necesariamente contradicen a Du Bois; dialogan con él. Está aquello que se puede contar e ilustrar y aquello que no. Prestamos tanta atención a lo tangible y material porque contar nos ofrece una sensación de facilidad y seguridad. Pero ¿cómo representar matemáticamente el trauma? ¿Cómo visualizar algo que no es exactamente efímero, pero que se percibe como intangible?
 
+{% gallery { "simple": false, "images": [{"path":"/media/91_lg_hartman_00_copy.jpg","alt":"Plan of the British Slave Ship 'Brookes'\" (1791)","caption":"Plan of the British Slave Ship 'Brookes'\" (1791)","credits":"James Phillips for the Society for Effecting the Abolition of the Slave Trade"}] } %}
+
 Hartman es importante para mí porque la cuestión no consiste simplemente en recuperar información que el archivo no conservó. También se trata de lo que hacemos cuando exigimos al archivo que produzca un relato que podamos conocer. Puede existir el impulso de completar el registro, llenar el vacío, calcular aquello que no se calculó. Pero algunas experiencias no se vuelven más comprensibles simplemente porque las introduzcamos en una forma visual o matemática. Estas pensadoras me ayudan a resistir una división demasiado fácil entre lo que podemos conocer mediante un gráfico y lo que supuestamente queda por completo fuera del conocimiento.
 
 Christina Sharpe escribe en *In the Wake* sobre la atmósfera de la antinegritud. Parte de lo que no puede calcularse ni colocarse en un gráfico es precisamente esa atmósfera, ese peso ambiental. ¿Cómo se cuenta algo así? Ese es uno de mis puntos de entrada a Du Bois.
 
 ### Poéticas adversariales: lo que ocultan los diagramas
 
-**Olivier:** Los diagramas de Du Bois son visualmente extraordinarios y su belleza suele ser lo primero que llama la atención. ¿Cuándo reactivar una visualización histórica deja de ser una cita estética? ¿Qué hace que ese gesto tenga sentido político?
+**Olivier: Los diagramas de Du Bois son visualmente extraordinarios y su belleza suele ser lo primero que llama la atención. ¿Cuándo reactivar una visualización histórica deja de ser una cita estética? ¿Qué hace que ese gesto tenga sentido político?**
 
 **Kameelah:** Estuve hace poco en Marruecos, en una residencia de investigación, donde dediqué mucho tiempo a pensar en las poéticas adversariales. Manuel Arturo Abreu ha escrito sobre una genealogía mucho más larga de estas prácticas: personas que intentaban cifrar, ocultar e insertar información mucho antes de la aparición de los ordenadores y la computación. Las formas de esconder y codificar información van mucho más allá de Silicon Valley.
 
@@ -71,6 +69,8 @@ Cuando miramos un gráfico, el impulso inmediato es preguntarnos qué informaci�
 
 En 2019 hice un conjunto de obras titulado *A Casual Mathematics*. Surgió de pensar en el fracaso de fórmulas muy claustrofóbicas para la liberación: haces X, Y y Z y, supuestamente, llegará la liberación. También pensaba en «Mississippi Goddam», de Nina Simone: seguir la fórmula, hacer todo lo que te dicen que tienes que hacer y aun así acabar en el mismo lugar.
 
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-10-19-a-las-21.58.11.png","alt":"A Casual Mathematics","caption":"A Casual Mathematics, 2019","credits":"Kameelah Janan Rasheed, Colección CA2M"}] } %}
+
 Volver a Du Bois implica una enorme responsabilidad. Es fácil tomar una figura histórica, convertirla en un reflejo de lo que te interesa en el presente y producir una obra a partir de ello. No quiero utilizar a Du Bois como un tamiz por el que hago pasar mis propios intereses. Su trabajo, en cambio, me ofrece la oportunidad de preguntar: ¿qué intentamos documentar hoy? ¿Qué queremos enumerar? ¿Qué queremos situar?
 
 Existe también la tentación, especialmente en el momento político actual, de leer la historia como si estuviera esperando para validar los argumentos que queremos defender hoy. No me parece una relación particularmente interesante con el pasado. Lo difícil es tomarse la obra en serio dentro de sus circunstancias y permitir, al mismo tiempo, que desestabilice nuestros hábitos contemporáneos. No se trata de convertir a Du Bois en un artista o diseñador contemporáneo, sino de preguntar cómo su trabajo puede transformar las preguntas que hacemos a nuestras propias prácticas.
@@ -79,7 +79,7 @@ Por supuesto, los diagramas son visualmente impresionantes. La seducción forma 
 
 ### Diagramas en el espacio: el cuerpo como lector
 
-**Olivier:** Esto plantea una pregunta sobre la propia exhibición de las obras. Tu trabajo sugiere que el sentido no se produce solo a través de lo que se muestra, sino también de dónde y cómo se encuentra alguien con ello. ¿Cómo piensas la relación entre una exposición, el espacio que la rodea y quien la recorre?
+**Olivier: Esto plantea una pregunta sobre la propia exhibición de las obras. Tu trabajo sugiere que el sentido no se produce solo a través de lo que se muestra, sino también de dónde y cómo se encuentra alguien con ello. ¿Cómo piensas la relación entre una exposición, el espacio que la rodea y quien la recorre?**
 
 **Kameelah:** Solo recientemente he llegado a comprender que mi trabajo es profundamente diagramático. Alguien tuvo que señalármelo. Un diagrama suele funcionar mediante la compresión o la centralización, y una de las preguntas que me hago en mis instalaciones es si podemos crear un diagrama que no dependa completamente de esas lógicas.
 
@@ -93,13 +93,15 @@ Si camino por un museo y miro hacia un objeto, la dirección de mi atención ya 
 
 Me interesa tomar algo que está plegado dentro de un manual o un libro y desplegarlo a otra escala. Pensemos en un diagrama en un teléfono, quizá una pequeña imagen cuadrada diseñada para las redes sociales. Básicamente desplazas los ojos de un lado a otro. Ahora imagina esa misma información ampliada, de manera que puedas situarte frente a ella y desplazarte físicamente de un nodo a otro. Eso cambia tu relación con el conocimiento.
 
+{% quote %}Quiero hacer visibles esos supuestos preguntando qué sucede cuando las mismas relaciones se convierten en una habitación, un recorrido o un encuentro físico, en vez de una imagen pequeña en una pantalla.{% endquote %}
+
 Me parece especialmente interesante cuando observamos las herramientas que utilizamos para crear imágenes y compartir conocimientos. Canva, por ejemplo, facilita producir diagramas cuadrados para circular por redes sociales. Pero el software también contiene una lógica implícita sobre qué aspecto debe tener la información, qué tamaño debe adoptar y cómo debe dividirse. El formato puede desaparecer de nuestra atención precisamente porque se ha vuelto muy familiar. Quiero hacer visibles esos supuestos preguntando qué sucede cuando las mismas relaciones se convierten en una habitación, un recorrido o un encuentro físico, en vez de una imagen pequeña en una pantalla.
 
 Así que, cuando organizo una instalación, pienso en encarnación, coreografía y recursividad. Las personas pueden empezar en un punto y trasladarse a otro, y ese movimiento no es simplemente una diversión. Desde el punto de vista cinestésico, caminar y moverse pueden ser formas de codificar conocimientos. Quiero que la gente piense no solo en lo que he colocado en la pared, sino también en el conocimiento que se crea al desplazarse entre las cosas.
 
 ### Blanco y negro: textura, restricción y seducción visual
 
-**Olivier:** El blanco y negro es muy característico de tu práctica visual. ¿Qué ocurre cuando eliminas el color? ¿Puede esa restricción hacernos ver de otra manera el lenguaje de la visualización?
+**Olivier: El blanco y negro es muy característico de tu práctica visual. ¿Qué ocurre cuando eliminas el color? ¿Puede esa restricción hacernos ver de otra manera el lenguaje de la visualización?**
 
 **Kameelah:** Hay dos razones por las que empecé a trabajar predominantemente en blanco y negro. La primera es que antes utilizaba más colores y comencé a sentir que estaba haciendo un poco de trampa. El color asumía el trabajo de enfatizar y transmitir el mensaje. No hay nada malo en eso, pero me encantan las restricciones, así que me planteé un reto: ¿podría hacer lo mismo utilizando únicamente blanco y negro?
 
@@ -110,6 +112,8 @@ Pero las Xerox también son máquinas hermosas, casi pictóricas. No obtienes so
 La Xerox también me permitía continuar mi práctica sin depender del equipamiento de un taller formal de grabado. Podía crear cosas, reproducirlas, cambiar el material original y observar qué me devolvía la máquina. Me interesaba la historia de la fotocopia como medio para poner materiales en circulación, pero también todos esos efectos que normalmente consideramos imperfecciones. La máquina traduce la superficie de maneras que no son del todo previsibles, y esa traducción puede pasar a formar parte de la obra en lugar de ser algo que hay que corregir.
 
 Si elimináramos la saturación de los diagramas de Du Bois, creo que perderían algo. Él utilizaba deliberadamente el color y la línea para comunicar información. Pero puedo imaginar otro lenguaje visual en el que la textura hiciera ese trabajo: un gráfico circular diferenciado por las superficies, la luminosidad o la capacidad de reflejar la luz, en vez de por los colores.
+
+{% file { "title": "El futuro de la visualización de datos: siguiendo los pasos de W.E.B DuBois", "info": "", "file": "https://journal.platoniq.net/es/wilder-journal-2/futures/web-dubois-data/", "image": "/media/bois.png", "button_text": "Du Bois", "button_icon": "", "alt_color": false } %}
 
 En mi propia práctica me interesa hasta dónde puedo llevar un único color o tono, más que cuántos colores puedo utilizar. También soy cada vez más cautelosa respecto a la presentación, la seducción y las apariencias. Cuando pienso en alfabetización mediática, observo cómo los anunciantes utilizan el color en internet, cómo lo emplean las tiendas para dirigir nuestra atención y cómo nos arrastran por los espacios comerciales. En un aeropuerto tienes que atravesar nubes de perfume y de productos antes de llegar a tu puerta de embarque. Hay algo en la saturación y la sobreexposición que me preocupa cuando se utilizan contra nosotros.
 
@@ -141,7 +145,7 @@ Pienso *con* el espacio y modifico mis ideas como respuesta a él. No me gusta l
 
 ### Cuando los datos se convierten en coreografía
 
-**Olivier:** Estamos explorando la idea de *movernos a través de los datos*, también mediante prácticas como el Teatro Legislativo, donde las personas encarnan experiencias, ensayan alternativas y a veces las traducen en propuestas de políticas públicas. ¿Podrían los propios datos convertirse en una partitura o coreografía que las personas habiten y transformen colectivamente?
+**Olivier: Estamos explorando la idea de *movernos a través de los datos*, también mediante prácticas como el Teatro Legislativo, donde las personas encarnan experiencias, ensayan alternativas y a veces las traducen en propuestas de políticas públicas. ¿Podrían los propios datos convertirse en una partitura o coreografía que las personas habiten y transformen colectivamente?**
 
 **Kameelah:** Durante varios años he trabajado con un programa de máster en danza, impartiendo clases de escritura y lenguaje junto con una amiga a bailarines en Montpellier, en el sur de Francia. Ese trabajo ha influido en mi manera de pensar el movimiento y los datos. Los bailarines se plantean preguntas como: ¿qué significa documentar mi práctica? ¿Cómo puedo crear una notación de algo que se mueve? También conocí a una persona que había vendido una danza a un gran museo, y pensar en lo que significa vender una actuación ya plantea todo tipo de preguntas.
 
@@ -154,6 +158,8 @@ Me interesa lo que puede enumerarse y contabilizarse, pero también aquello que 
 Soy muy intencional cuando se trata de colaborar. Si hacen falta diez años para encontrar la forma adecuada, pues harán falta diez años. También me preocupa lo que ocurre cuando trasladamos cuestiones políticas a un espacio artístico. La política y el arte no están separados, pero a veces convertirlo todo en una experiencia artística introduce otra capa de abstracción. Con los datos y la vigilancia, no necesariamente quiero que experimentes esas cosas *como arte*. Quiero que te enfrentes a lo que tienes delante. Esto es vigilancia. Te están observando. Incluso esta conversación puede acabar almacenada en una plataforma y sometida a análisis.
 
 Valoro los enfoques artísticos de estas cuestiones, pero corremos el riesgo de perder el filo crítico cuando las abstraemos tanto que dejamos de hablar de las realidades materiales de los datos. Por eso parte de mi trabajo sobre aprendizaje automático e inteligencia artificial adopta una forma más orientada a la investigación: presentaciones, entrevistas y conversaciones. Todavía no he encontrado una forma artística suficiente para todo ello.
+
+{% quote %}¿Qué información están obligadas a revelar? ¿Qué puede deducirse de rastros aparentemente cotidianos? ¿Qué decisiones sobre recopilación y conservación ya se habían tomado antes de que llegaran? {% endquote %}
 
 En cierto sentido, preferiría que las personas trabajaran directamente con las infraestructuras implicadas antes de convertir demasiado rápido el problema en una metáfora. ¿Qué información están obligadas a revelar? ¿Qué puede deducirse de rastros aparentemente cotidianos? ¿Qué decisiones sobre recopilación y conservación ya se habían tomado antes de que llegaran? Estas preguntas tienen una urgencia material. Podemos utilizar métodos artísticos para plantearlas, pero no quiero que la distancia estética sustituya la comprensión de lo que un sistema realmente hace a las personas.
 
