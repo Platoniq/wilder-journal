@@ -215,7 +215,7 @@ Una vez que entendemos los datos como construidos y no como naturales, podemos i
 
 ### Imaginar un espacio democrático de datos poroso
 
-**Olivier:** Quisiera terminar con una pregunta especulativa. Supongamos que te encargaran diseñar un espacio de deliberación colectiva sobre un tema difícil, como el sinhogarismo, el racismo, la violencia machista o la justicia restaurativa. Las personas necesitarían relacionarse con estadísticas, testimonios, evidencias contradictorias y formas de conocimiento que los sistemas convencionales de datos suelen excluir. ¿Qué aspecto tendría un espacio democrático de datos? ¿Cómo se sentiría estar en él?
+**Olivier: Quisiera terminar con una pregunta especulativa. Supongamos que te encargaran diseñar un espacio de deliberación colectiva sobre un tema difícil, como el sinhogarismo, el racismo, la violencia machista o la justicia restaurativa. Las personas necesitarían relacionarse con estadísticas, testimonios, evidencias contradictorias y formas de conocimiento que los sistemas convencionales de datos suelen excluir. ¿Qué aspecto tendría un espacio democrático de datos? ¿Cómo se sentiría estar en él?**
 
 **Kameelah:** La primera palabra que se me ocurre es *porosidad*. Me preocupan los sistemas cerrados que se aíslan de otras cosas y se niegan a interactuar. Se protegen impidiendo que entre algo nuevo.
 
@@ -224,6 +224,8 @@ En el nivel más básico, imagino un espacio al aire libre. Puede parecer un pun
 Querría que la gente pudiera traer cosas al espacio. Ninguno de los materiales con los que empezáramos podría ser exhaustivo. Alguien podría aportar una grabación de su abuela. Otra persona podría traer una nota de su cuaderno. Podríamos partir de la idea generosa de que pueden entrar todo tipo de materiales y después decidir conjuntamente cuáles pueden ponerse en relación.
 
 No imagino que todo el mundo llegue con la misma clase de pruebas ni que los materiales proporcionados de antemano por una institución definan los límites de la discusión. Una grabación de un familiar puede importar junto a un informe estadístico, aunque no puedan procesarse del mismo modo. La tarea sería descubrir sus relaciones sin exigir que todas las aportaciones se conviertan en un formato común antes de poder entrar en la sala.
+
+{% quote %} Me gusta esa ética del compostaje junto con la idea de un espacio poroso y abierto.{% endquote %}
 
 Y algo que en este momento no puede relacionarse con los demás materiales no tiene por qué convertirse en residuo. Quizá podamos compostarlo, con la esperanza de que regrese más adelante. Me gusta esa ética del compostaje junto con la idea de un espacio poroso y abierto.
 

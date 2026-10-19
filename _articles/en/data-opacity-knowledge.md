@@ -187,7 +187,7 @@ So when we say *democratic visualisation*, what exactly are we visualising, for 
 
 ### Visualisations as objects of democratic negotiation
 
-**Olivier:** One hypothesis we're exploring is that a visualisation could become an object of negotiation rather than a finished representation. Imagine a citizens' assembly where participants can move elements, add missing experiences, change categories, annotate a graph or decide that something should be obscured. Could contesting a visualisation itself become a form of deliberation?
+**Olivier: One hypothesis we're exploring is that a visualisation could become an object of negotiation rather than a finished representation. Imagine a citizens' assembly where participants can move elements, add missing experiences, change categories, annotate a graph or decide that something should be obscured. Could contesting a visualisation itself become a form of deliberation?**
 
 **Kameelah:** I like that question of modularity. One understanding of data is that we gather more of it, then augment, triangulate or corroborate what we thought we knew. There's a process of revision.
 
@@ -209,7 +209,7 @@ Once we understand data as constructed rather than natural, we can interrogate i
 
 ### Imagining a porous democratic data space
 
-**Olivier:** Let me end with a speculative question. Suppose you were asked to design a space for collective deliberation about a difficult issue, such as homelessness, racism, gender-based violence or restorative justice. People would need to engage with statistics, testimonies, conflicting evidence and forms of knowledge that conventional data systems often exclude. What would a democratic data space look and feel like?
+**Olivier: Let me end with a speculative question. Suppose you were asked to design a space for collective deliberation about a difficult issue, such as homelessness, racism, gender-based violence or restorative justice. People would need to engage with statistics, testimonies, conflicting evidence and forms of knowledge that conventional data systems often exclude. What would a democratic data space look and feel like?**
 
 **Kameelah:** The first word that comes to mind is *porosity*. I worry about closed systems that seal themselves off from other things and refuse to interact. They protect themselves by preventing anything new from entering.
 
@@ -218,6 +218,8 @@ At the most basic level, I imagine an open-air space. That might seem like a str
 I would want people to be able to bring things into the space. Whatever material we started with could never be exhaustive. Someone might bring a recording of their grandmother. Someone else might bring a note from a notebook. We could begin with a generous sense that all kinds of material can enter, and then work together to decide what can be held in relation.
 
 I don't imagine that everyone arrives with the same kind of evidence or that the material already provided by an institution defines the boundaries of the discussion. A recording from a family member might matter alongside a statistical report, even though they cannot be processed in the same way. The task would be to work out their relationships without demanding that every contribution be converted into one common format before it can enter the room.
+
+{% quote %}I like the ethos of composting alongside the idea of an open-air, porous space.{% endquote %}
 
 And something that can't be related to the other materials at this moment doesn't have to become waste. Perhaps we compost it, hoping it will return later. I like the ethos of composting alongside the idea of an open-air, porous space.
 
