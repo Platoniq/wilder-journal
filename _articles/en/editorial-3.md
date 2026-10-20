@@ -1,5 +1,6 @@
 ---
 layout: article
+volume-uid: null
 category: futures
 published: true
 featured: false
@@ -12,9 +13,10 @@ description: democracia-ia-futuro
 author: Platoniq Foundation
 author_uids:
   - platoniq
+interviewee: null
 cover:
   path: /media/articles/heroes/stickers_platoniq_-01.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/stickers_platoniq_-01.png
   thumbnail: /assets/media/no_image-thumbnail.png
 stickers:
   layout: layout-none
