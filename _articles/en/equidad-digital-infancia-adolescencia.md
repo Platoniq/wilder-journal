@@ -8,10 +8,13 @@ date: 2026-10-20T09:02:00.000+02:00
 date-updated: 2026-10-20T09:02:00.000+02:00
 article-order: 1
 uid: Equidad-Digital-Infancia-Adolescencia
+interviewee: null
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
   mobile: /assets/media/no_image-hero.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - palabra-accion-colaboracion
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
