@@ -13,10 +13,13 @@ description: What is democracy doing in my schoolbag? Learning deliberation in s
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
+interviewee: null
 cover:
   path: /media/articles/heroes/p1089789.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/p1089789.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - children-assemblies
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
