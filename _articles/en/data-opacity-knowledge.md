@@ -47,7 +47,7 @@ But I am equally interested in what a diagram can and cannot hold. What exceeds 
 
 I return to Katherine McKittrick’s writing on Black mathematics and questions of enumeration, including how we account for loss. I also think about Saidiya Hartman’s *Venus in Two Acts*. These works don't necessarily counter Du Bois; they sit alongside him. There is what can be counted and illustrated, and then there is what cannot. So much of our attention goes towards what is tangible and material because counting provides a sense of ease and comfort. But how would you mathematically represent trauma? How would you visualise something that is not ephemeral, exactly, but feels intangible?
 
-{% gallery { "simple": true, "images": [{"path":"/media/slaveshipbrooksreduced.jpg"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/slaveshipbrooksreduced.jpg","alt":"Plan of the British slave ship “Brookes” (1791)","caption":"Plan of the British slave ship “Brookes”","credits":"James Phillips for the Society for Effecting the Abolition of the Slave Trade (1791)"}] } %}
 
 Hartman is important to me here because the question isn't simply how to recover information that the archive didn't save. It is also what we are doing when we demand that the archive produce a knowable account. There may be an impulse to complete the record, to fill the gap, to calculate the thing that wasn't calculated. But some experiences don't become more comprehensible just because we place them inside a visual or mathematical form. These different thinkers help me resist an easy division between what we can know through a chart and what supposedly sits outside knowledge altogether.
 
