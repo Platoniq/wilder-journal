@@ -20,7 +20,7 @@ Esta es la primera edición de nuestra newsletter: un recorrido por los lugares 
 
 Durante la última semana de octubre llevamos nuestra investigación y experimentación a cuatro encuentros internacionales. Cuatro espacios para pensar cómo la tecnología organiza el poder, cómo podemos intervenir en sus reglas y qué infraestructuras necesitamos para sostener la vida democrática.
 
-### 🔬 1. Open Technology Research Symposium | 27 de octubre
+### 🔬 1. Open Technology Research Symposium | 26 de octubre
 
 **¿Y si la experiencia de usuario (UX) fuera también una experiencia política?**
 
@@ -34,7 +34,7 @@ Queremos desplazar la conversación desde el diseño de plataformas fáciles de 
 
 🔗 [Conoce la presentación de PUX](https://pretalx.com/otrsymposium2026/talk/BXQG9Q/)
 
-### 🧩 2. DecidimFest | 28–30 de octubre
+### 🧩 2. DecidimFest | 29 de octubre
 
 **La tecnología democrática necesita algo más que buen código. Necesita nuevas formas de organizar el poder colectivo.**
 
@@ -66,7 +66,7 @@ No basta con imaginar alternativas a las grandes plataformas. Necesitamos constr
 
 🔗 [Conoce la Conferencia 4D](https://4d.cat/en/conference/)
 
-### 🎭 4. Mozilla Festival | 28–30 de octubre
+### 🎭 4. Mozilla Festival | 30 de octubre
 
 **¿Qué sucede cuando dejamos de debatir sobre tecnología y empezamos a ensayar sus consecuencias?**
 
