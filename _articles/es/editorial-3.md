@@ -19,6 +19,10 @@ cover:
   alt: portada
   credits: portada
   caption: portada
+related_article_uids:
+  - deliberacion-escuelas-institutos
+  - "Time-care-technology "
+  - GRID-Radical-AI
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
