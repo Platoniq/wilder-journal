@@ -6,8 +6,7 @@ volume-number: 3
 title: "Democratic AInxieties: Caring Futures"
 uid: wilder-journal-3
 cover:
-  alt: "A round pink sticker reading Reunite Rebuild in red letters — Wilder
-    Journal #3 by Platoniq"
+  alt: "A black-and-blue poster: dark plant silhouettes and white strokes over blue scan lines — Wilder Journal #3 by Platoniq"
   credits: "Wilder Journal #3 by Platoniq"
   path: /media/volumes/heroes/cover-03.webp
   mobile: /media/volumes/mobile/cover-03.webp
@@ -16,6 +15,5 @@ locale: en
 description: "Democratic AInxieties: Caring Futures"
 image:
   path: /media/volumes/social/cover-03.webp
-  alt: "A round pink sticker reading Reunite Rebuild in red letters — Wilder
-    Journal #3 by Platoniq"
+  alt: "A black-and-blue poster: dark plant silhouettes and white strokes over blue scan lines — Wilder Journal #3 by Platoniq"
 ---

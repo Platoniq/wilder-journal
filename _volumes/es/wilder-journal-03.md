@@ -6,8 +6,7 @@ volume-number: 3
 title: "AngustIAs Democráticas: Futuros del Cuidado"
 uid: wilder-journal-3
 cover:
-  alt: "Una pegatina redonda rosa con el texto Reunite Rebuild en letras rojas —
-    Wilder Journal #3 de Platoniq"
+  alt: "Un póster negro y azul: siluetas oscuras de plantas y trazos blancos sobre líneas azules de escaneo — Wilder Journal #3 de Platoniq"
   credits: "Wilder Journal #3 by Platoniq"
   path: /media/volumes/heroes/cover-03.webp
   mobile: /media/volumes/mobile/cover-03.webp
@@ -16,6 +15,5 @@ locale: es
 description: "AngustIAs democráticas: futuros del cuidado"
 image:
   path: /media/volumes/social/cover-03.webp
-  alt: "Una pegatina redonda rosa con el texto Reunite Rebuild en letras rojas —
-    Wilder Journal #3 de Platoniq"
+  alt: "Un póster negro y azul: siluetas oscuras de plantas y trazos blancos sobre líneas azules de escaneo — Wilder Journal #3 de Platoniq"
 ---
