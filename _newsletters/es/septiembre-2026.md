@@ -10,101 +10,89 @@ author: Platoniq
 cover:
   path: /media/newsletters/stickers_platoniq_-10.png
 ---
-# ¿Puede la IA hacer nuestra democracia más democrática?
+Desde hace más de veinte años, en la Fundación **Platoniq** exploramos cómo transformar la participación en capacidad colectiva para decidir y actuar. Trabajamos en la intersección entre democracia, cultura, tecnología e innovación social, combinando investigación, metodologías creativas, diseño participativo y desarrollo de infraestructuras digitales abiertas. A través de proyectos europeos, laboratorios ciudadanos, Teatro Legislativo y plataformas como **Goteo y Decidim**, experimentamos con nuevas formas de distribuir el poder, reconocer conocimientos habitualmente excluidos y conectar las experiencias de las personas con cambios institucionales y sociales concretos. Nos interesa no solo quién puede participar, sino quién define las condiciones de esa participación, qué sucede con el conocimiento que se produce y quién tiene capacidad para transformar las reglas.
 
-**Spoiler: quizá no directamente. Pero sí puede cambiar quién tiene derecho a discutir sus reglas.**
+Esta es la primera edición de nuestra newsletter: un recorrido por los lugares donde estamos investigando, publicando, ensayando y construyendo alternativas para una democracia más abierta, creativa y colectiva.
 
-Este otoño seguimos metiendo las manos en algunos de los problemas que más nos interesan: quién gobierna la tecnología, cómo convertimos experiencias individuales en capacidad colectiva y qué infraestructuras necesitamos para una democracia que no se limite a pedir opiniones.
+## Cuatro encuentros. Cuatro formas de desafiar las reglas de la democracia y la tecnología.
 
-En esta edición: **teatro legislativo en MozFest, dos encuentros en DecidimFest para repensar los espacios seguros y las infraestructuras democráticas, una nueva publicación sobre democracia digital y crisis, y Fanon para pensar la salud mental juvenil en la era de la IA.**
+**26–30 de octubre · Barcelona Open Tech Week**
 
-## 🧩 Nos vemos en MozFest: probar la tecnología antes de aceptarla
+Durante la última semana de octubre llevamos nuestra investigación y experimentación a cuatro encuentros internacionales. Cuatro espacios para pensar cómo la tecnología organiza el poder, cómo podemos intervenir en sus reglas y qué infraestructuras necesitamos para sostener la vida democrática.
 
-**28–30 de octubre · Barcelona**
+### 🔬 1. Open Technology Research Symposium | 27 de octubre
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-09-18-a-las-15.15.16.png"}] } %}
+**¿Y si la experiencia de usuario (UX) fuera también una experiencia política?**
 
-¿Qué haces cuando un algoritmo toma una decisión sobre ti?
+Olivier Schulbaum presenta **Political User Experience (PUX)**, un marco desarrollado a partir de nuestra investigación en el proyecto europeo **INSPIRE**.
 
-¿La aceptas? ¿La recurres? ¿Sabes quién puede cambiarla?
+En lugar de tratar a las personas como simples usuarias de plataformas digitales de participación, PUX pregunta cómo las interfaces distribuyen la agencia política, configuran las decisiones colectivas y determinan qué conocimientos y voces adquieren visibilidad.
 
-En el próximo **Mozilla Festival** llevaremos estas preguntas al escenario con **Legislative Tech Theater: Testing the Technology We Need**, una sesión para jóvenes de 13 a 17 años sobre **IA, derechos digitales y salud mental**.
+Una interfaz nunca es únicamente una puerta de acceso. También establece quién puede intervenir, de qué manera, en qué momento y con qué consecuencias.
 
-Nada de sentarse a escuchar una charla sobre los riesgos de la tecnología.
+Queremos desplazar la conversación desde el diseño de plataformas fáciles de utilizar hacia el diseño de **infraestructuras verdaderamente democráticas**.
 
-Trabajaremos con escenas sobre **extracción de datos, exclusión automatizada y las presiones emocionales de la vida digital**. Las personas participantes podrán intervenir, sustituir personajes, cambiar decisiones y probar qué sucede cuando modificamos las relaciones de poder dentro de la escena.
+🔗 [Conoce la presentación de PUX](https://pretalx.com/otrsymposium2026/talk/BXQG9Q/)
 
-**El teatro se convierte en un laboratorio de gobernanza tecnológica.**
+### 🧩 2. DecidimFest | 28–30 de octubre
 
-La metodología nace del trabajo que Platoniq y ESADE–Universitat Ramon Llull hemos desarrollado durante más de un año con una comunidad de más de 40 jóvenes.
+**La tecnología democrática necesita algo más que buen código. Necesita nuevas formas de organizar el poder colectivo.**
 
-Y terminaremos con un reto: **20 minutos para convertir lo aprendido en un fanzine colectivo de política tecnológica**, con advertencias de diseño, principios, demandas y propuestas legislativas especulativas.
+En DecidimFest llevamos nuestra aproximación al diseño participativo, combinando tecnologías cívicas con metodologías creativas capaces de hacer visibles las relaciones de poder, abrir espacios para distintas formas de conocimiento y conectar la participación con transformaciones institucionales.
 
-Porque no queremos limitar la conversación a *¿qué hace la tecnología con nosotros?*
+En esta edición participamos con dos propuestas complementarias.
 
-Queremos añadir otra pregunta:
+Por un lado, presentamos el trabajo sobre **Safe(r) Spaces**, desarrollado en el marco de INSPIRE, que examina las condiciones que permiten que personas con experiencias, capacidades y posiciones sociales diferentes puedan participar de manera más segura y significativa.
 
-**¿Qué podemos hacer nosotros con las reglas de la tecnología?**
+Por otro, exploramos el **Democratic Stack**, una forma de pensar las capas tecnológicas, sociales, institucionales y políticas que hacen posible la acción democrática colectiva.
 
-## 🛠️ DecidimFest: la democracia también necesita espacios seguros y una infraestructura propia
+Porque el futuro de las plataformas democráticas no depende únicamente de lo que permiten hacer, sino de **quién tiene la capacidad de diseñar, gobernar y modificar sus reglas**.
 
-**Barcelona · DecidimFest 2026**
+🔗 [Taller Democratic Stack](https://meta.decidim.org/en/conferences/DecidimFest26/f/2013/proposals/18807)
 
-¿De qué sirve abrir un proceso participativo si algunas personas no pueden participar en condiciones de igualdad?
+### 🌐 3. 4D Conference: Mocking Power, Making Change | 29 de octubre
 
-¿Y de qué sirve construir una plataforma democrática si las infraestructuras digitales de las que depende no lo son?
+**¿Y si la soberanía digital empezara por financiar y gobernar colectivamente nuestras propias alternativas?**
 
-Este año llegamos a **DecidimFest con dos propuestas vinculadas al proyecto europeo INSPIRE**, que abordan estas preguntas desde lugares distintos, pero profundamente conectados.
+En la conferencia internacional 4D, **Democratic Tech Fund y Goteo** presentan una propuesta práctica: dejar de alquilar nuestras vidas digitales a las grandes plataformas tecnológicas y comenzar a construir infraestructuras que las comunidades puedan gestionar y sostener.
 
-**Dos formatos, una misma preocupación: no basta con invitar a participar. Hay que transformar las condiciones y las estructuras que hacen posible la participación.**
+Hablamos de nubes comunitarias, espacios sociales conectados, herramientas compartidas, aprendizaje y cuidados. Pero también de los mecanismos económicos que permiten que esas alternativas existan.
 
-### 🧭 Safe(r) Spaces: la participación no es segura por defecto
+Desde **Goteo**, exploramos cómo el crowdfunding cívico puede convertirse en una infraestructura de financiación colectiva para tecnologías orientadas al bien común.
 
-Un espacio participativo no se vuelve inclusivo simplemente porque sus puertas estén abiertas.
+No basta con imaginar alternativas a las grandes plataformas. Necesitamos construir las condiciones materiales que permitan mantenerlas.
 
-Las relaciones de poder, las experiencias de discriminación, las barreras materiales y las normas —escritas o invisibles— condicionan quién puede hablar, quién se siente escuchado y quién acaba quedándose fuera.
+**La soberanía digital también es una cuestión de propiedad, financiación, gobernanza y capacidad colectiva.**
 
-En **[Safe(r) Spaces](https://meta.decidim.org/es/conferences/DecidimFest26/f/2013/proposals/18794)**, un póster basado en nuestro trabajo en el proyecto europeo **INSPIRE**, compartiremos aprendizajes sobre cómo diseñar espacios de participación más seguros desde una perspectiva interseccional.
+🔗 [Conoce la Conferencia 4D](https://4d.cat/en/conference/)
 
-¿Por qué *Safe(r)* y no simplemente *Safe*?
+### 🎭 4. Mozilla Festival | 28–30 de octubre
 
-Porque la seguridad no es una condición universal ni un resultado que pueda garantizarse de una vez para siempre. **Lo que permite participar a una persona puede no ser suficiente para otra. Y lo que hace que alguien se sienta seguro puede cambiar según el contexto y las relaciones de poder.**
+**¿Qué sucede cuando dejamos de debatir sobre tecnología y empezamos a ensayar sus consecuencias?**
 
-A partir del desarrollo del **Safe(r) Spaces Playbook**, exploramos cómo convertir estas tensiones en decisiones concretas de diseño y facilitación.
+En MozFest llevamos nuestra experimentación con el **Teatro Legislativo** y la participación encarnada al terreno del poder tecnológico.
 
-No se trata solo de prevenir conflictos, sino de reconocer que el conflicto, las diferencias y las desigualdades forman parte de cualquier espacio democrático.
+A través de narrativas colectivas, representación escénica y ensayo democrático, exploramos cómo las personas jóvenes pueden cuestionar las reglas que gobiernan sus vidas digitales, imaginar alternativas y transformar sus experiencias en propuestas de cambio.
 
-**La pregunta no es únicamente quién está presente, sino qué necesita cambiar para que esa presencia se traduzca en poder participar.**
+El Teatro Legislativo permite experimentar las consecuencias de una norma antes de aceptarla como inevitable.
 
-### 💻 Democratic Stack: ¿sobre qué tecnología queremos construir la democracia?
+¿Quién decide lo que vemos? ¿Qué ocurre cuando un algoritmo clasifica nuestras emociones? ¿Qué posibilidades tenemos de intervenir en sistemas que influyen en nuestras decisiones sin que conozcamos sus reglas?
 
-La segunda propuesta amplía la mirada.
+En lugar de responder únicamente con diagnósticos, invitamos a las personas participantes a **entrar en escena, intervenir en los conflictos y ensayar otras formas de organizar la tecnología**.
 
-Si nuestras democracias dependen cada vez más de plataformas, datos y sistemas digitales, ¿quién controla las infraestructuras sobre las que funcionan?
+🔗 [Descubre nuestra actividad en MozFest](https://events.mozillafoundation.org/e/mozilla-festival-2026/page/schedule?sessionId=433791)
 
-En el taller **[Democratic Stack](https://meta.decidim.org/es/conferences/DecidimFest26/f/2013/proposals/18807)** abordaremos la necesidad de pensar la tecnología democrática más allá de las interfaces y las herramientas participativas.
+**Investigar el poder. Ensayar alternativas. Construir infraestructuras democráticas.**
 
-Porque una democracia digital no consiste simplemente en disponer de una aplicación para votar, debatir o presentar propuestas.
+En los cuatro encuentros perseguimos una misma pregunta:
 
-También depende de **quién desarrolla el software, quién gobierna los datos, quién establece las reglas y qué capacidad tienen las comunidades para intervenir en esas decisiones**.
-
-La idea de un *Democratic Stack* nos invita a mirar las distintas capas que sostienen nuestra vida digital y preguntarnos cómo podrían organizarse de acuerdo con principios democráticos.
-
-¿Qué pasa cuando la participación depende de infraestructuras que la ciudadanía no controla?
-
-¿Podemos construir tecnologías que no solo permitan ejercer derechos democráticos, sino que también estén gobernadas democráticamente?
-
-**De los espacios donde participamos a los sistemas que los sostienen: la democracia necesita ambas cosas.**
-
-Y precisamente por eso llevamos estas conversaciones a DecidimFest, un encuentro donde la tecnología cívica se piensa desde su comunidad, sus prácticas y sus posibilidades de transformación.
+**¿Cómo pasamos de entender la participación como una invitación a convertirla en el poder colectivo de cambiar las reglas?**
 
 ## 📚 Una novedad editorial: de las inundaciones a los foros
 
-También salimos en libro.
+**También salimos en libro.**
 
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-09-18-a-las-15.15.06.png"}] } %}
-
-**HOPE: Reclaiming the Future**, publicado por **oekom verlag**, reúne distintas voces para pensar qué significa hablar de esperanza en medio de crisis climáticas, desafección política e infraestructuras digitales que median cada vez más nuestra vida colectiva.
+*HOPE: Reclaiming the Future*, publicado por **oekom verlag**, reúne distintas voces para pensar qué significa hablar de esperanza en medio de crisis climáticas, desafección política e infraestructuras digitales que median cada vez más nuestra vida colectiva.
 
 No esperanza como optimismo.
 
@@ -122,11 +110,35 @@ A partir de experiencias con **Decidim, INSPIRE y Teatro Legislativo**, el capí
 
 De las inundaciones a los foros: una reflexión sobre democracia digital, crisis y nuestra capacidad para construir las infraestructuras políticas que necesitamos.
 
+🔗 [Conoce HOPE: Reclaiming the Future](https://books.google.com/books?vid=ISBN9783987265457)
+
+## 📖 Investigación INSPIRE: ¿cómo hacer que la participación híbrida sea más inclusiva, creativa y transformadora?
+
+**Las plataformas y los procedimientos no son suficientes para garantizar una participación democrática significativa.**
+
+La participación también depende de la cultura, las relaciones, las emociones, el espacio, el tiempo y las formas de conocimiento que las instituciones consideran legítimas.
+
+Nuestro informe **Cultural Strategies and Devices for Hybrid Dialogic and Deliberative Spaces**, desarrollado en el proyecto europeo INSPIRE, examina cómo combinar la participación física y digital sin perder el cuidado, la accesibilidad, la profundidad democrática ni la rendición de cuentas.
+
+El informe explora estrategias culturales, metodologías creativas y dispositivos participativos que permiten ampliar las formas de expresión y deliberación.
+
+Porque no todas las personas participan de la misma manera. Algunas se expresan mejor hablando; otras, mediante imágenes, representaciones, narrativas, gestos o experiencias compartidas.
+
+Y no todas cuentan con las mismas condiciones materiales, sociales o emocionales para intervenir.
+
+**¿Qué cambia cuando dejamos de pedir a las personas que se adapten a los procedimientos y comenzamos a diseñar los procedimientos desde sus realidades?**
+
+La cuestión es especialmente relevante para los espacios híbridos, donde las tecnologías pueden ampliar las posibilidades de participación, pero también reproducir desigualdades existentes.
+
+Las herramientas digitales no son neutrales. Tampoco lo son los formatos de deliberación.
+
+El informe propone prestar atención no solo a quién participa, sino a **cómo se produce el conocimiento colectivo, cómo se traduce en decisiones y qué responsabilidad asumen las instituciones sobre sus consecuencias**.
+
+🔗 [Leer el informe INSPIRE](https://lnkd.in/ezHaRV-J)
+
 ## 🤕 ¿Qué diría Fanon de un chatbot de salud mental?
 
-Nuestra siguiente parada nos lleva a Marruecos.
-
-{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-09-18-a-las-15.14.58.png"}] } %}
+**Nuestra siguiente parada nos lleva a Marruecos.**
 
 A partir de las reflexiones de **Rim Hallal**, estamos explorando una pregunta poco cómoda:
 
@@ -140,9 +152,21 @@ También aparecen riesgos de dependencia, aislamiento, tratamiento de datos sens
 
 Una mirada fanoniana cambia entonces el punto de partida.
 
-En lugar de preguntar solamente cómo puede un individuo utilizar mejor una tecnología, nos obliga a preguntar por **poder, alienación, estructuras y agencia colectiva**.
+Fanon, psiquiatra y pensador anticolonial, cuestionó la idea de que el sufrimiento psíquico pudiera comprenderse al margen de las estructuras sociales, culturales y políticas que lo producen.
 
-Si una IA participa en cómo interpretamos nuestras emociones, **¿qué idea de bienestar está reproduciendo? ¿Quién la ha definido? ¿Y quién tiene capacidad para cuestionarla?**
+En *Piel negra, máscaras blancas* (1952), exploró cómo la dominación colonial interviene en la formación de la subjetividad. En sus escritos psiquiátricos y políticos posteriores, insistió en la relación entre alienación, condiciones institucionales y posibilidades de emancipación.
+
+Trasladar estas preguntas al presente no significa atribuirle una posición sobre tecnologías que nunca conoció. Significa utilizar su pensamiento para interrogar las condiciones de poder que atraviesan nuestras relaciones con la IA.
+
+En lugar de preguntar solamente cómo puede un individuo utilizar mejor una tecnología, esta perspectiva nos obliga a preguntar por **poder, alienación, estructuras y agencia colectiva**.
+
+Si una IA participa en cómo interpretamos nuestras emociones, **¿qué idea de bienestar está reproduciendo? ¿Quién la ha definido? ¿Desde qué marcos culturales? ¿Y quién tiene capacidad para cuestionarla?**
+
+La pregunta no es únicamente si una tecnología puede ofrecer apoyo psicológico. También es si contribuye a ampliar la autonomía y las relaciones de cuidado o si termina adaptando a las personas a unas condiciones sociales que permanecen intactas.
+
+Y si la salud mental está atravesada por desigualdades estructurales, ¿puede una respuesta individual y automatizada ser suficiente?
+
+**No se trata solo de diseñar una IA que comprenda nuestras emociones. Se trata de decidir colectivamente qué relaciones de cuidado queremos construir y qué lugar debe ocupar la tecnología en ellas.**
 
 ## 🌊 Lo que conecta todo esto
 
@@ -152,15 +176,23 @@ Pueden parecer conversaciones distintas.
 
 Para nosotros tienen algo en común: **la democracia también se juega en las infraestructuras que organizan qué podemos saber, decidir, imaginar y cambiar.**
 
-En MozFest intervenimos en las escenas para cuestionar las reglas de la tecnología.
+En **MozFest** intervenimos en las escenas para cuestionar las reglas de la tecnología.
 
-En DecidimFest ponemos sobre la mesa las condiciones de participación y las infraestructuras digitales que necesitamos transformar.
+En **DecidimFest** ponemos sobre la mesa las condiciones de participación y las infraestructuras digitales que necesitamos transformar.
+
+En **4D** trabajamos para construir y financiar alternativas que puedan ser gobernadas por las propias comunidades.
+
+En **OTR** cuestionamos las ideas de usuario, interfaz y experiencia desde una perspectiva política.
+
+En **INSPIRE** investigamos cómo las condiciones culturales, materiales y relacionales pueden ampliar o restringir la participación democrática.
 
 En *HOPE* exploramos cómo sostener la acción colectiva en tiempos de crisis.
 
-Y desde Fanon nos preguntamos qué ocurre cuando incluso nuestras emociones empiezan a interpretarse a través de sistemas que no controlamos.
+Y desde **Fanon** nos preguntamos qué ocurre cuando incluso nuestras emociones empiezan a interpretarse a través de sistemas que no controlamos.
 
-Son distintas maneras de abordar una misma cuestión: **¿quién tiene capacidad para definir las reglas que organizan nuestra vida colectiva?**
+Son distintas maneras de abordar una misma cuestión:
+
+**¿Quién tiene capacidad para definir las reglas que organizan nuestra vida colectiva?**
 
 Por eso seguimos experimentando con formatos que no se limitan a diagnosticar problemas.
 
@@ -168,6 +200,43 @@ Queremos **entrar en escena, tocar las reglas y ver qué pasa cuando las cambiam
 
 Nos vemos en Barcelona —y en los espacios físicos, digitales y editoriales donde seguimos construyendo una **\#WilderDemocracy**.
 
+## Para seguir leyendo: libros, informes y referencias
+
+**1. HOPE: Reclaiming the Future**
+
+Krois, K., El Moussaoui, M., Palmieri, T., Kofler, I., y Uğur Yavuz, S. (eds.). (2026). *HOPE: Reclaiming the Future*. oekom verlag. ISBN: 978-3-98726-545-7.
+
+Incluye la contribución de Olivier Schulbaum, *From Floods to Forums: Reclaiming the Future Through Digital Democracy*, sobre infraestructuras democráticas, tecnologías cívicas y acción colectiva en contextos de crisis.
+
+[Consultar el libro](https://books.google.com/books?vid=ISBN9783987265457)
+
+**2. INSPIRE – Cultural Strategies and Devices for Hybrid Dialogic and Deliberative Spaces**
+
+Platoniq Foundation / Proyecto INSPIRE (Horizon Europe). *Cultural Strategies and Devices for Hybrid Dialogic and Deliberative Spaces*.
+
+Informe sobre estrategias culturales, dispositivos creativos y metodologías para diseñar espacios híbridos de diálogo y deliberación más inclusivos, accesibles y democráticamente significativos.
+
+[Leer el informe](https://lnkd.in/ezHaRV-J)
+
+**3. Frantz Fanon – Piel negra, máscaras blancas**
+
+Fanon, F. (1952). *Peau noire, masques blancs*. Éditions du Seuil.
+
+Una obra fundamental para comprender las relaciones entre dominación colonial, subjetividad, reconocimiento y alienación. Nos permite interrogar cómo los sistemas de poder intervienen en la construcción de la identidad y la experiencia psicológica.
+
+**4. Frantz Fanon – Los condenados de la tierra**
+
+Fanon, F. (1961). *Les damnés de la terre*. François Maspero.
+
+Una reflexión sobre violencia colonial, emancipación, agencia política y transformación estructural, que también examina los efectos psicológicos de la dominación.
+
+**5. Frantz Fanon – Alienation and Freedom**
+
+Fanon, F. (2018). *Alienation and Freedom*. Editado por Jean Khalfa y Robert J. C. Young. Traducido por Steven Corcoran. Bloomsbury Academic.
+
+Recopilación de escritos clínicos, psiquiátricos y políticos que permiten profundizar en la relación entre salud mental, cultura, alienación e instituciones.
+
+
+
 **Platoniq**
 *Creativity & Democracy*
-
