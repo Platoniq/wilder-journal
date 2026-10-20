@@ -21,7 +21,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
 ---
 Some projects simply ask questions… whilst others actually stop to listen. The process launched by the Bofill Foundation to develop a Digital Equity Agenda in Catalonia clearly falls into the latter category.
 

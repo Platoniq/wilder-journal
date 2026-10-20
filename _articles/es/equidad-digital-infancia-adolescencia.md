@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
 ---
 Hay proyectos que preguntan… y otros que realmente se paran a escuchar. El proceso impulsado por la Fundación Bofill para construir una Agenda de Equidad Digital en Cataluña se sitúa claramente en este segundo lugar. 
 
