@@ -8,7 +8,8 @@ date: 2026-10-20T09:20:00.000+02:00
 date-updated: 2026-10-20T09:20:00.000+02:00
 article-order: 1
 uid: editorial-3
-title: Making the Future Livable
+title: Envisioning Technologies for Community Life Through Care and Democratic
+  Creativity
 description: democracia-ia-futuro
 author: Platoniq Foundation
 author_uids:
