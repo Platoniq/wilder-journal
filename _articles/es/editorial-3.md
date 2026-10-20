@@ -7,8 +7,8 @@ date: 2026-10-20T09:20:00.000+02:00
 date-updated: 2026-10-20T09:20:00.000+02:00
 article-order: 1
 uid: editorial-3
-title: Imaginar tecnologías para la vida en común desde los cuidados y la
-  creatividad democrática
+title: Reapropiarnos de la tecnología para sostener la vida en común desde los
+  cuidados y la creatividad democrática
 description: democracia-ia-futuro
 author: Fundación Platoniq
 author_uids:

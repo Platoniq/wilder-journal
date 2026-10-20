@@ -8,8 +8,8 @@ date: 2026-10-20T09:20:00.000+02:00
 date-updated: 2026-10-20T09:20:00.000+02:00
 article-order: 1
 uid: editorial-3
-title: Envisioning Technologies for Community Life Through Care and Democratic
-  Creativity
+title: Reclaiming technology to sustain our shared life through care and
+  democratic creativity
 description: democracia-ia-futuro
 author: Platoniq Foundation
 author_uids:
