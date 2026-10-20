@@ -70,6 +70,15 @@ header.pj-hero h1 span {
   padding: 2rem 0;
 }
 
+// #main keeps a hero-sized top padding painted in its own background
+// ($color-bg-secondary, magenta here), which showed as a magenta strip between
+// the blue hero and the blue Futures band. Paint it blue like both, and drop
+// the bottom padding as volume 2 does (#main.wilder-journal-2).
+#main.wilder-journal-3 {
+  background-color: $color-section-blue;
+  padding-bottom: 0;
+}
+
 // Collapse journal band sections that have no articles yet, so a sparsely
 // populated edition (e.g. Volume 3 at launch, with only Stories filled) does
 // not render empty full-width colour bands. Each section reappears
