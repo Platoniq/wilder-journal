@@ -1,5 +1,6 @@
 ---
 layout: article
+volume-uid: wilder-journal-3
 category: futures
 published: true
 featured: false

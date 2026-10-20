@@ -1,6 +1,6 @@
 ---
 layout: article
-volume-uid: null
+volume-uid: wilder-journal-3
 category: futures
 published: true
 featured: false
@@ -19,6 +19,10 @@ cover:
   path: /media/articles/heroes/stickers_platoniq_-01.png
   mobile: /media/articles/mobile/stickers_platoniq_-01.png
   thumbnail: /media/articles/thumbnails/stickers_platoniq_-01.png
+related_article_uids:
+  - deliberacion-escuelas-institutos
+  - "Time-care-technology "
+  - GRID-Radical-AI
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
