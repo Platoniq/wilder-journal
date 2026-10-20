@@ -37,7 +37,7 @@ image:
 ---
 ¿Qué revela un diagrama y qué está obligado a dejar fuera? Para la artista **Kameelah Janan Rasheed**, visualizar no consiste simplemente en facilitar la lectura de la información. También implica preguntarse qué se cuenta, qué conocimientos llegan a ser legibles, cómo se desplazan los cuerpos a través de la información y cuándo la exigencia de hacerse visible se convierte en una forma de control. A partir de las impactantes visualizaciones de datos de W. E. B. Du Bois, esta conversación recorre los usos políticos de la seducción estética, las texturas de la impresión en blanco y negro, la coreografía de las exposiciones y la extracción de datos más allá de la muerte. Rasheed cuestiona la idea de que la información se presente como un objeto acabado y neutral: los datos se producen, se sitúan en contextos, se revisan y, en ocasiones, se resisten. ¿Qué ocurriría si tratáramos las visualizaciones no como conclusiones revestidas de autoridad, sino como objetos que las personas pueden cuestionar, reorganizar e interpretar colectivamente? La conversación concluye con una propuesta especulativa de espacios democráticos construidos alrededor de la porosidad, la comodidad, la incertidumbre y el tiempo.
 
-### Du Bois y los límites de lo que puede contarse
+## **Du Bois y los límites de lo que puede contarse**
 
 **Olivier: Conocí tu trabajo a través de tu acercamiento a las visualizaciones de datos de W. E. B. Du Bois. ¿Llamarías a lo que haces una interpretación, una recreación o algo nuevo? ¿Qué intentas trasladar de ese trabajo histórico al presente y qué necesita transformarse?**
 
@@ -57,7 +57,7 @@ Hartman es importante para mí porque la cuestión no consiste simplemente en re
 
 Christina Sharpe escribe en *In the Wake* sobre la atmósfera de la antinegritud. Parte de lo que no puede calcularse ni colocarse en un gráfico es precisamente esa atmósfera, ese peso ambiental. ¿Cómo se cuenta algo así? Ese es uno de mis puntos de entrada a Du Bois.
 
-### Poéticas adversariales: lo que ocultan los diagramas
+## **Poéticas adversariales: lo que ocultan los diagramas**
 
 **Olivier: Los diagramas de Du Bois son visualmente extraordinarios y su belleza suele ser lo primero que llama la atención. ¿Cuándo reactivar una visualización histórica deja de ser una cita estética? ¿Qué hace que ese gesto tenga sentido político?**
 
@@ -77,7 +77,7 @@ Existe también la tentación, especialmente en el momento político actual, de 
 
 Por supuesto, los diagramas son visualmente impresionantes. La seducción forma parte del diseño gráfico y de la visualización: necesitas algo que atraiga a la persona y la acerque. Pero me pregunto si, como sucede con las poéticas adversariales, la belleza nos atrae hacia una imagen para que allí encontremos otra cosa. Quizá la atracción visual no sea aquello que debamos llevarnos de la experiencia. Insertar, codificar o señalar hacia otro lugar ha formado parte durante mucho tiempo de la resistencia cultural. Me cuesta imaginar que Du Bois se preocupara únicamente por la información inmediatamente visible en el diagrama y no también por aquello hacia lo que el diagrama podía apuntar más allá de sí mismo.
 
-### Diagramas en el espacio: el cuerpo como lector
+## **Diagramas en el espacio: el cuerpo como lector**
 
 **Olivier: Esto plantea una pregunta sobre la propia exhibición de las obras. Tu trabajo sugiere que el sentido no se produce solo a través de lo que se muestra, sino también de dónde y cómo se encuentra alguien con ello. ¿Cómo piensas la relación entre una exposición, el espacio que la rodea y quien la recorre?**
 
@@ -99,7 +99,7 @@ Me parece especialmente interesante cuando observamos las herramientas que utili
 
 Así que, cuando organizo una instalación, pienso en encarnación, coreografía y recursividad. Las personas pueden empezar en un punto y trasladarse a otro, y ese movimiento no es simplemente una diversión. Desde el punto de vista cinestésico, caminar y moverse pueden ser formas de codificar conocimientos. Quiero que la gente piense no solo en lo que he colocado en la pared, sino también en el conocimiento que se crea al desplazarse entre las cosas.
 
-### Blanco y negro: textura, restricción y seducción visual
+## **Blanco y negro: textura, restricción y seducción visual**
 
 **Olivier: El blanco y negro es muy característico de tu práctica visual. ¿Qué ocurre cuando eliminas el color? ¿Puede esa restricción hacernos ver de otra manera el lenguaje de la visualización?**
 
@@ -121,9 +121,9 @@ Creo que también está en juego lo que esperamos de un lenguaje visual una vez 
 
 Eso no significa que esté en contra del color. Me interesa la saturación como poética y como política en otros contextos. Pero quiero estudiar el color con mayor precisión para que, cuando lo utilice, comprenda no solo que me gusta, sino cómo funciona psicológica, material y espiritualmente.
 
-### La arquitectura como colaboradora
+## **La arquitectura como colaboradora**
 
-**Olivier:** ¿Podrías guiarnos por una instalación concreta en la que el espacio desempeñara un papel fundamental? ¿Qué estaba haciendo realmente la disposición espacial?
+**Olivier: ¿Podrías guiarnos por una instalación concreta en la que el espacio desempeñara un papel fundamental? ¿Qué estaba haciendo realmente la disposición espacial?**
 
 **Kameelah:** Un ejemplo es mi participación en *Greater New York*, en MoMA PS1. Cuando recibí la invitación me hizo mucha ilusión. Llevaba unos quince años viviendo en Nueva York y me considero neoyorquina, aunque algunas personas podrían discutirlo.
 
@@ -143,7 +143,7 @@ Presto atención a los gestos que las personas realizan sin necesariamente darse
 
 Pienso *con* el espacio y modifico mis ideas como respuesta a él. No me gusta la idea de que puedas coger mi obra y colocarla sin más en otro lugar. Cuando la obra se traslada, voy con ella para decidir dónde debe estar cada cosa. Las piezas individuales pueden ser las mismas, pero nunca se han instalado exactamente igual, porque no hay dos espacios idénticos.
 
-### Cuando los datos se convierten en coreografía
+## **Cuando los datos se convierten en coreografía**
 
 **Olivier: Estamos explorando la idea de *movernos a través de los datos*, también mediante prácticas como el Teatro Legislativo, donde las personas encarnan experiencias, ensayan alternativas y a veces las traducen en propuestas de políticas públicas. ¿Podrían los propios datos convertirse en una partitura o coreografía que las personas habiten y transformen colectivamente?**
 
@@ -173,7 +173,7 @@ Es interesante que los ejemplos artísticos impliquen tantos tipos de traducció
 
 Ahora mismo estoy investigando los llamados *death bots*: empresas e iniciativas que utilizan las huellas digitales de una persona para crear un avatar póstumo con el que sus familiares puedan interactuar. Está la persona fallecida cuyos datos se utilizan y la persona que se los proporciona a una empresa para producir ese sistema conversacional. Así puedes hablar indefinidamente con tu abuela. Pero ¿cuándo termina la datificación? Evidentemente, no termina con la muerte. Cada nueva conversación con el avatar puede convertirse en otra fuente de datos. Podemos seguir sometidos a la extracción incluso después de morir. Me interesan esas políticas y todavía no tengo un objeto artístico que las represente adecuadamente. Por ahora, buena parte de esta reflexión se desarrolla mediante la investigación y la conversación.
 
-### Opacidad, visibilidad y las políticas de vigilancia
+## **Opacidad, visibilidad y las políticas de vigilancia**
 
 **Olivier: Esto nos lleva a la idea de resistir la visibilidad obligatoria. Las personas y las comunidades son constantemente rastreadas, medidas y clasificadas por sistemas digitales. ¿Necesita también la visualización democrática un derecho a la opacidad, o incluso un derecho a desaparecer de la mirada?**
 
@@ -191,7 +191,7 @@ Una estudiante me dijo una vez algo en lo que todavía pienso: el derecho a la o
 
 Así que, cuando hablamos de *visualización democrática*, ¿qué estamos visualizando exactamente, para quién y con qué finalidad? Demasiado a menudo, la carga de la visibilidad, la legibilidad y la revelación de información recae sobre las personas corrientes, no sobre quienes acumulan riqueza o toman las decisiones.
 
-### Las visualizaciones como objetos de negociación democrática
+## **Las visualizaciones como objetos de negociación democrática**
 
 **Olivier: Una de las hipótesis que estamos explorando es que una visualización podría convertirse en un objeto de negociación en lugar de una representación acabada. Imaginemos una asamblea ciudadana donde quienes participan puedan mover elementos, añadir experiencias ausentes, cambiar categorías, anotar un gráfico o decidir que algo debería ocultarse. ¿Podría el propio hecho de cuestionar una visualización convertirse en una forma de deliberación?**
 
@@ -213,7 +213,7 @@ Hay aquí una posibilidad pedagógica. Cuando un sistema escanea mi rostro, no t
 
 Una vez que entendemos los datos como construidos y no como naturales, podemos interrogar sus fuentes y las intenciones que hay detrás de su circulación. Eso puede cambiar nuestra manera de abordar la discusión democrática.
 
-### Imaginar un espacio democrático de datos poroso
+## **Imaginar un espacio democrático de datos poroso**
 
 **Olivier: Quisiera terminar con una pregunta especulativa. Supongamos que te encargaran diseñar un espacio de deliberación colectiva sobre un tema difícil, como el sinhogarismo, el racismo, la violencia machista o la justicia restaurativa. Las personas necesitarían relacionarse con estadísticas, testimonios, evidencias contradictorias y formas de conocimiento que los sistemas convencionales de datos suelen excluir. ¿Qué aspecto tendría un espacio democrático de datos? ¿Cómo se sentiría estar en él?**
 

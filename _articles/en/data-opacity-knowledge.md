@@ -33,7 +33,7 @@ image:
 ---
 What does a diagram reveal, and what must it leave out? For artist **Kameelah Janan Rasheed**, visualisation is never simply a matter of making information easier to see. It is also a question of what gets counted, whose knowledge becomes legible, how bodies move through information and when the demand to be visible becomes a form of control. Beginning with W. E. B. Du Bois’s striking data visualisations, this conversation moves through the political uses of aesthetic seduction, the textures of black-and-white printmaking, the choreography of exhibitions and the extraction of data beyond death. Rasheed challenges the idea that information arrives as a finished, neutral object: data is made, situated, revised and sometimes resisted. What might follow if we treated visualisations not as authoritative conclusions, but as objects that people could question, rearrange and collectively interpret? The conversation closes with a speculative proposition for democratic spaces built around porosity, comfort, uncertainty and time.
 
-### Du Bois and the limits of what can be counted
+## **Du Bois and the limits of what can be counted**
 
 **Olivier: I first encountered your work through your engagement with W. E. B. Du Bois’s data visualisations. Would you call what you do an interpretation, a re-enactment or something new? What are you trying to carry from his historical work into the present, and what needs to change?**
 
@@ -53,7 +53,7 @@ Hartman is important to me here because the question isn't simply how to recover
 
 Christina Sharpe writes in *In the Wake* about the atmosphere of anti-Blackness. Part of what cannot be calculated or put into a chart is that atmosphere, that environmental weight. How do you count that? That's one of my entry points into Du Bois.
 
-### Adversarial poetics: what diagrams conceal
+## **Adversarial poetics: what diagrams conceal**
 
 **Olivier: Du Bois’s diagrams are visually extraordinary, and their beauty is often the first thing people notice. When does reactivating a historical visualisation become more than an aesthetic quotation? What makes it politically meaningful?**
 
@@ -73,7 +73,7 @@ There is also a temptation, especially at the present political moment, to read 
 
 Of course, the diagrams are visually stunning. Seduction is part of graphic design and visualisation: you need something that draws a person closer. But I wonder if, as with adversarial poetics, the beauty draws us towards an image only for us to encounter something else there. The visual attraction may not be the thing we are supposed to take away. Attempts to embed, encode or point elsewhere have long been part of cultural resistance. I hesitate to imagine that Du Bois was concerned only with the information immediately visible in the diagram, rather than with what it could point towards beyond itself.
 
-### Diagrams in space: the body as a reader
+## **Diagrams in space: the body as a reader**
 
 **Olivier: That raises a question about display itself. Your work suggests that meaning is produced not only by what is shown but also by where and how someone encounters it. How do you think about the relationship between an exhibition, the space around it and the visitor moving through it?**
 
@@ -95,9 +95,9 @@ I think this is especially interesting when we look at the tools people use to g
 
 So when I organise an installation, I'm thinking about embodiment, choreography and recursion. People might begin at one point and move to another, and that movement is not just for fun. Kinesthetically, walking and moving can be ways of encoding knowledge. I want people to think not only about what I've put on the wall, but also about the knowledge created by moving between things.
 
-### Black and white: texture, constraint and visual seduction
+## **Black and white: texture, constraint and visual seduction**
 
-**Olivier:** Black and white are so distinctive in your visual practice. What happens when you remove colour? Can that constraint make us see the language of visualisation differently?
+**Olivier: Black and white are so distinctive in your visual practice. What happens when you remove colour? Can that constraint make us see the language of visualisation differently?**
 
 **Kameelah:** There are two reasons I began working predominantly in black and white. The first is that I had been using more colour and started to feel I was cheating a little. Colour was doing the work of emphasis and carrying the message. There's nothing wrong with that, but I love constraints, so I challenged myself: could I do this using only black and white?
 
@@ -117,7 +117,7 @@ I think the issue is also what we expect from a visual language once it becomes 
 
 That doesn't mean I'm against colour. I'm interested in saturation as a poetics and a politics in other contexts. But I want to study colour more precisely, so that when I use it I understand not only that I like it, but how it works psychologically, materially and spiritually.
 
-### Architecture as a collaborator
+## **Architecture as a collaborator**
 
 **Olivier: Could you take us through a particular installation in which the space itself played a major role? What was the spatial arrangement actually doing?**
 
@@ -139,7 +139,7 @@ I pay attention to the gestures people make without necessarily realising it. Th
 
 I think *with* the space, and I change my ideas in response to it. I don't like the idea that you can simply pick up my work and put it somewhere else. When work moves, I go with it to figure out where things need to be. The individual pieces may be the same, but they have never been installed in exactly the same way, because no two spaces are exactly the same.
 
-### When data becomes choreography
+## **When data becomes choreography**
 
 **Olivier: We've been exploring the idea of *moving through data*, including through practices such as Legislative Theatre, where people embody experiences, rehearse alternatives and sometimes translate these into policy proposals. Could data itself become a score or a choreography that people inhabit and transform together?**
 
@@ -169,7 +169,7 @@ It is interesting that the artistic examples involve so many different kinds of 
 
 At the moment, I'm researching so-called *death bots*: companies and initiatives that use someone's digital traces to make a posthumous avatar that relatives can interact with. There is the person whose data is being used, who is deceased, and the person supplying it to a company to produce this conversational system. You can then talk to your grandmother indefinitely. But when does the datafication end? It clearly doesn't end with death. Each new conversation with the avatar may become another source of data. We can remain subject to extraction even after we die. I'm interested in those politics, and I don't yet have an art object that adequately represents them. For now, much of that thinking happens through research and conversation.
 
-### Opacity, visibility and the politics of surveillance
+## **Opacity, visibility and the politics of surveillance**
 
 **Olivier: That brings us to the idea of resisting compulsory visibility. People and communities are continually tracked, measured and classified by digital systems. Does democratic visualisation also require a right to opacity, or even a right to disappear from view?**
 
@@ -187,7 +187,7 @@ A student once said something to me that I still think about: the right to opaci
 
 So when we say *democratic visualisation*, what exactly are we visualising, for whom and to what end? Too often the burden of visibility, legibility and disclosure falls on ordinary people, not on those accumulating wealth or making decisions.
 
-### Visualisations as objects of democratic negotiation
+## **Visualisations as objects of democratic negotiation**
 
 **Olivier: One hypothesis we're exploring is that a visualisation could become an object of negotiation rather than a finished representation. Imagine a citizens' assembly where participants can move elements, add missing experiences, change categories, annotate a graph or decide that something should be obscured. Could contesting a visualisation itself become a form of deliberation?**
 
@@ -209,7 +209,7 @@ There's a pedagogical possibility here. When a system scans my face, it doesn't 
 
 Once we understand data as constructed rather than natural, we can interrogate its sources and the intentions behind its circulation. That can change how we approach democratic discussion.
 
-### Imagining a porous democratic data space
+## **Imagining a porous democratic data space**
 
 **Olivier: Let me end with a speculative question. Suppose you were asked to design a space for collective deliberation about a difficult issue, such as homelessness, racism, gender-based violence or restorative justice. People would need to engage with statistics, testimonies, conflicting evidence and forms of knowledge that conventional data systems often exclude. What would a democratic data space look and feel like?**
 
