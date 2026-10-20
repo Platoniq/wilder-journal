@@ -25,7 +25,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/stickers_platoniq_-01.png
 ---
 Es tarde. Alguien abre una conversación con una inteligencia artificial porque necesita hablar. En otra casa, una mujer termina de cuidar y descubre que ya no llegará a la reunión del barrio. Un grupo de jóvenes intenta entender por qué una aplicación que promete conectarles les hace sentirse solos. En algún lugar, una comunidad pregunta cuánta agua necesitará el centro de datos que quieren construir junto a sus casas.
 

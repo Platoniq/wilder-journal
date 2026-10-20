@@ -24,7 +24,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/stickers_platoniq_-01.png
 ---
 It’s late. Someone starts a conversation with an AI because they need to talk. In another home, a woman finishes her caregiving duties and realizes she won’t make it to the neighborhood meeting. A group of young people tries to understand why an app that promises to connect them makes them feel lonely. Somewhere, a community asks how much water the data center they want to build next to their homes will need.
 
