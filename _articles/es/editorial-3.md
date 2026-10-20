@@ -15,7 +15,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/stickers_platoniq_-01.png
   mobile: /media/articles/mobile/stickers_platoniq_-01.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/stickers_platoniq_-01.png
   alt: portada
   credits: portada
   caption: portada
