@@ -26,7 +26,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-newsletter
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/p1089789.jpg
 ---
 During the 2024-2025 academic year, two secondary schools in Madrid and Barcelona became spaces for democratic experimentation. There, Platoniq launched its **Teaching Unit on Creativity and Democracy**, an educational initiative that seeks to rekindle the participatory spirit of young people and turn classrooms into small laboratories of citizenship.
 
