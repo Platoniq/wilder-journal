@@ -72,3 +72,7 @@ En la edición anterior invitábamos a imaginar futuros comunes. Ahora nos pregu
 El futuro se va formando en esas prácticas. En una niña que descubre que su pregunta importa. En un grupo que consigue nombrar un problema compartido. En una comunidad que se organiza y encuentra la forma de cambiar una decisión.
 
 **Hacer habitable el futuro empieza por construir, desde ahora, la capacidad de cuidarlo y decidirlo en común.**
+
+**__**
+
+\*El artwork de este número corre a cargo de [Carolina Luciana Roncoli](https://www.instagram.com/_cronli?dlrf=MThnZG56N2E2cmhpaQ%3D%3D)
