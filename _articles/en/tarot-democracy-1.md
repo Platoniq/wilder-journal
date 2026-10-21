@@ -16,10 +16,15 @@ author: Olivier Shulbaum & Nadia Nadesan
 author_uids:
   - nadia-nadesan
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/img_20250627_120350.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/img_20250627_120350.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - deliberacion-escuelas-institutos
+  - Against-Administrative-Obscurantism
+  - AI-dialogue
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

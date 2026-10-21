@@ -18,7 +18,7 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/img_20250627_120350.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/img_20250627_120350.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: tarot
   credits: tarot
