@@ -34,30 +34,43 @@ header.pj-hero h1 span {
     color: $color-fg-secondary;
 }
 
-// Section -> colour map for Volume 3.
-// Two-colour scheme: Interviews and Learnings are magenta; every other band
-// (Futures, Deep Dives, Stories, Reconsider) plus the hero is blue. This
-// reproduces the design mock (Interviews pink -> Stories blue -> Learnings
-// pink). To recolour a section, move it between the two groups below.
+// Section -> colour map for Volume 3 (Cristian, 2026-10-21): the bands
+// alternate down the page like volume 2: hero blue, then red (magenta), blue,
+// red… Titles are white on blue and dark blue (#0b0e40) on red.
+//   hero blue · Destacados red · Futures blue · Interviews red ·
+//   Deep Dives blue · Stories red · Learnings blue · Rethink red
+#featured {
+  background-color: $color-section-magenta;
+  padding-bottom: 2.5rem;
+}
+
 .category-futures,
-.category-deep-dives,
+.category-deep-dives {
+  background-color: $color-section-blue;
+}
+
+.category-interviews,
 .category-rethink {
-  background-color: $color-section-blue;
-}
-
-.category-interviews {
   background-color: $color-section-magenta;
 }
 
-// Stories (#stories) inherits $color-bg-primary (blue); set it explicitly so
-// the intent is obvious and independent of the primary background.
 #stories {
+  background-color: $color-section-magenta;
+}
+
+#reports {
   background-color: $color-section-blue;
 }
 
-// Learnings (#reports) defaults to $color-bg-primary (blue); override to magenta.
-#reports {
-  background-color: $color-section-magenta;
+// "Destacados" is a small uppercase label, as on volume 2.
+#featured .pj-featured__title {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.4;
+  color: $color-white;
+  text-transform: uppercase;
+  letter-spacing: 0.62px;
 }
 
 .category-group {
@@ -70,16 +83,22 @@ header.pj-hero h1 span {
   padding: 2rem 0;
 }
 
-// Article titles on the blue bands (Futures, Deep Dives, Rethink) are white:
-// the theme's navy (#0b0e40) is hard to read on blue. Magenta bands keep navy;
-// Stories and Learnings are already white.
+// Titles: white on the blue bands, dark blue on the red ones.
 #main .category-futures .highlighted h3,
 #main .category-futures .highlighted h3 a,
 #main .category-deep-dives .highlighted h3,
 #main .category-deep-dives .highlighted h3 a,
-#rethink .category-rethink .highlighted h3,
-#rethink .category-rethink .highlighted h3 a {
+#reports .highlighted h3,
+#reports .highlighted h3 a {
   color: $color-white;
+}
+
+#stories .highlighted h3,
+#stories .highlighted h3 a,
+#rethink .category-rethink .highlighted h3,
+#rethink .category-rethink .highlighted h3 a,
+#featured .pj-featured__heading {
+  color: #0b0e40;
 }
 
 // #main keeps a hero-sized top padding painted in its own background
