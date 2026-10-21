@@ -70,6 +70,18 @@ header.pj-hero h1 span {
   padding: 2rem 0;
 }
 
+// Article titles on the blue bands (Futures, Deep Dives, Rethink) are white:
+// the theme's navy (#0b0e40) is hard to read on blue. Magenta bands keep navy;
+// Stories and Learnings are already white.
+#main .category-futures .highlighted h3,
+#main .category-futures .highlighted h3 a,
+#main .category-deep-dives .highlighted h3,
+#main .category-deep-dives .highlighted h3 a,
+#rethink .category-rethink .highlighted h3,
+#rethink .category-rethink .highlighted h3 a {
+  color: $color-white;
+}
+
 // #main keeps a hero-sized top padding painted in its own background
 // ($color-bg-secondary, magenta here), which showed as a magenta strip between
 // the blue hero and the blue Futures band. Paint it blue like both, and drop
