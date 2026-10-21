@@ -16,10 +16,15 @@ description: "Regulating platforms or limiting risks isn’t enough; in the firs
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
+interviewee: null
 cover:
   path: /media/articles/heroes/photo_2026-06-02_11-30-33.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/photo_2026-06-02_11-30-33.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - Against-Administrative-Obscurantism
+  - coding-violence-archive
+  - Data-Opacity-Knowledge
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none

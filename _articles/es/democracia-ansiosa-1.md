@@ -8,7 +8,7 @@ date: 2026-10-21T07:38:00.000+02:00
 date-updated: 2026-10-21T07:38:00.000+02:00
 article-order: 3
 uid: democracia-ansiosa
-title: "Democracias Ansiosas: Juventud, IA y la Privatización del Cuidado Emocional "
+title: "DemocracIAs Ansiosas: Juventud, IA y la Privatización del Cuidado Emocional "
 description: "Regular plataformas o limitar riesgos no es suficiente, en el
   primer post de la serie SoReDI nos preguntamos cómo devolver la capacidad de
   decisión democrática a quienes están creciendo dentro de estas
@@ -18,7 +18,7 @@ author_uids:
   - olivier-schulbaum
 cover:
   path: /media/articles/heroes/photo_2026-06-02_11-30-33.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/photo_2026-06-02_11-30-33.jpg
   thumbnail: /assets/media/no_image-thumbnail.png
   alt: Mirror B - Comuzi
   credits: Mirror B - Comuzi
