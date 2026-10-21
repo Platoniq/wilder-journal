@@ -1,0 +1,38 @@
+{% comment %}
+  Newsletter sign-up shown in every article. Same markup and classes as the
+  theme's plugins/call_to_action.liquid (so it looks like the other call-to-
+  action boxes), but always the "newsletter" Netlify form, with the texts of the
+  "cta-newsletter" call to action in the CMS. Rendered right after the article
+  body; assets/js/newsletter-cta-mid.js moves it to the middle of the article.
+  The form name and hidden fields must match: netlify/functions/
+  submission-created sends the welcome email and subscribes in listmonk.
+{% endcomment %}
+{% assign newsletter_cta_page = site.call_to_actions | where: "uid", "cta-newsletter" | first %}
+{% assign newsletter_cta = newsletter_cta_page[page.locale] | default: newsletter_cta_page.es %}
+
+{% if newsletter_cta %}
+  <form name="newsletter" netlify class="pj-cta cta__newsletter" id="newsletter-cta" data-newsletter-cta-mid>
+    <div class="pj-cta__img">
+      <img src="{{ newsletter_cta.image.path | relative_url }}" alt="{{ newsletter_cta.image.alt }}">
+    </div>
+
+    <div class="pj-cta__text">
+      <h3>{{ newsletter_cta.title }}</h3>
+
+      {{ newsletter_cta.content }}
+
+      {{ newsletter_cta.form_fields }}
+
+      <input type="hidden" name="form-name" value="newsletter" />
+      <input type="hidden" name="lang" value="{{ page.locale }}">
+      <input type="hidden" name="page_uid" value="{{ page.uid }}">
+      <input type="hidden" name="site_url" value="{{ site.url }}">
+    </div>
+
+    <div class="pj-cta__button">
+      <button type="submit" name="button" class="btn btn-negative">
+        <span class="btn__label">{{ newsletter_cta.button.label }}</span>
+      </button>
+    </div>
+  </form>
+{% endif %}
