@@ -10,9 +10,15 @@ author: Platoniq
 cover:
   path: /media/newsletters/stickers_platoniq_-10.png
 ---
-Desde hace más de veinte años, en la Fundación **Platoniq** exploramos cómo transformar la participación en capacidad colectiva para decidir y actuar. Trabajamos en la intersección entre democracia, cultura, tecnología e innovación social, combinando investigación, metodologías creativas, diseño participativo y desarrollo de infraestructuras digitales abiertas. A través de proyectos europeos, laboratorios ciudadanos, Teatro Legislativo y plataformas como **Goteo y Decidim**, experimentamos con nuevas formas de distribuir el poder, reconocer conocimientos habitualmente excluidos y conectar las experiencias de las personas con cambios institucionales y sociales concretos. Nos interesa no solo quién puede participar, sino quién define las condiciones de esa participación, qué sucede con el conocimiento que se produce y quién tiene capacidad para transformar las reglas.
+Hemos tardado tres números pero ya estamos aquí, después de que mucha de vosotras os subscribierais a la **newsletter del Wilder Journal,** es un verdadero placer para nosotras compartiros el primero de ellos. Una newsletter donde encontraréis las principales novedades de Platoniq: nuestros proyectos, las últimas entrevistas y los experimentos más creativos en materia de participación ciudadana.
 
-Esta es la primera edición de nuestra newsletter: un recorrido por los lugares donde estamos investigando, publicando, ensayando y construyendo alternativas para una democracia más abierta, creativa y colectiva.
+Cómo sabéis, en **Platoniq** exploramos cómo transformar la participación en capacidad colectiva para decidir y actuar. Y en este sentido, trabajamos en la intersección entre democracia, cultura, tecnología e innovación social, combinando investigación, metodologías creativas, diseño participativo y desarrollo de infraestructuras digitales abiertas. 
+
+A través de proyectos europeos, laboratorios ciudadanos, Teatro Legislativo y plataformas como **Goteo y Decidim**, experimentamos con nuevas formas de distribuir el poder, reconocer conocimientos habitualmente excluidos y conectar las experiencias de las personas con cambios institucionales y sociales concretos. 
+
+La semana que viene estaremos todo el equipo implicado en varios de los eventos de la **Barcelona Open Tech Week.** Así que no se nos ha ocurrido mejor forma de estrenarnos que con la agenda de la semana y alguna que otra sorpresa.
+
+Gracias por suscribirte. **Estamos en contacto ;)**
 
 ## Cuatro encuentros en la Barcelona Open Tech Week. Cuatro formas de desafiar las reglas de la democracia y la tecnología.
 
