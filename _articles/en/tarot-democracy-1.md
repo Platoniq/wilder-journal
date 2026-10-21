@@ -20,7 +20,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/img_20250627_120350.jpg
   mobile: /media/articles/mobile/img_20250627_120350.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/img_20250627_120350.jpg
 related_article_uids:
   - deliberacion-escuelas-institutos
   - Against-Administrative-Obscurantism
