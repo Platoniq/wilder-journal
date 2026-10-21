@@ -46,6 +46,7 @@
   {% endif %}
   {% comment %} a11y: black & white mode — render-blocking styles + pre-paint state + toggle logic {% endcomment %}
   <link rel="stylesheet" href="{{ '/assets/css/a11y.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/footer-newsletter.css' | relative_url }}">
   <script>try{if(localStorage.getItem('wj-contrast')==='bw'){document.documentElement.dataset.contrast='bw';}}catch(e){}</script>
   <script defer src="{{ '/assets/js/a11y.js' | relative_url }}"></script>
   {% comment %} a11y: read-aloud control (self-gates to article pages) {% endcomment %}
