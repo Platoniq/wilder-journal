@@ -19,7 +19,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/photo_2026-06-02_11-30-33.jpg
   mobile: /media/articles/mobile/photo_2026-06-02_11-30-33.jpg
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/photo_2026-06-02_11-30-33.jpg
   alt: Mirror B - Comuzi
   credits: Mirror B - Comuzi
   caption: Mirror B - Comuzi
