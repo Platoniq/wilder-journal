@@ -14,13 +14,9 @@ Desde hace más de veinte años, en la Fundación **Platoniq** exploramos cómo 
 
 Esta es la primera edición de nuestra newsletter: un recorrido por los lugares donde estamos investigando, publicando, ensayando y construyendo alternativas para una democracia más abierta, creativa y colectiva.
 
-## Cuatro encuentros. Cuatro formas de desafiar las reglas de la democracia y la tecnología.
+## Cuatro encuentros en la Barcelona Open Tech Week. Cuatro formas de desafiar las reglas de la democracia y la tecnología.
 
-**26–30 de octubre · Barcelona Open Tech Week**
-
-Durante la última semana de octubre llevamos nuestra investigación y experimentación a cuatro encuentros internacionales. Cuatro espacios para pensar cómo la tecnología organiza el poder, cómo podemos intervenir en sus reglas y qué infraestructuras necesitamos para sostener la vida democrática.
-
-### 🔬 1. Open Technology Research Symposium | 26 de octubre
+### 🔬 Open Technology Research Symposium | 26 de octubre
 
 **¿Y si la experiencia de usuario (UX) fuera también una experiencia política?**
 
@@ -32,9 +28,9 @@ Una interfaz nunca es únicamente una puerta de acceso. También establece quié
 
 Queremos desplazar la conversación desde el diseño de plataformas fáciles de utilizar hacia el diseño de **infraestructuras verdaderamente democráticas**.
 
-🔗 [Conoce la presentación de PUX](https://pretalx.com/otrsymposium2026/talk/BXQG9Q/)
+🔗 [Link a la sesión](https://pretalx.com/otrsymposium2026/talk/BXQG9Q/)
 
-### 🧩 2. DecidimFest | 29 de octubre
+### 🧩 DecidimFest | 29 de octubre
 
 **La tecnología democrática necesita algo más que buen código. Necesita nuevas formas de organizar el poder colectivo.**
 
@@ -50,7 +46,7 @@ Porque el futuro de las plataformas democráticas no depende únicamente de lo q
 
 🔗 [Taller Democratic Stack](https://meta.decidim.org/en/conferences/DecidimFest26/f/2013/proposals/18807)
 
-### 🌐 3. 4D Conference: Mocking Power, Making Change | 29 de octubre
+### 🌐 4D Conference: Mocking Power, Making Change | 29 de octubre
 
 **¿Y si la soberanía digital empezara por financiar y gobernar colectivamente nuestras propias alternativas?**
 
@@ -64,9 +60,9 @@ No basta con imaginar alternativas a las grandes plataformas. Necesitamos constr
 
 **La soberanía digital también es una cuestión de propiedad, financiación, gobernanza y capacidad colectiva.**
 
-🔗 [Conoce la Conferencia 4D](https://4d.cat/en/conference/)
+🔗 [Conferencia 4D](https://4d.cat/en/conference/)
 
-### 🎭 4. Mozilla Festival | 30 de octubre
+### 🎭 Mozilla Festival | 30 de octubre
 
 **¿Qué sucede cuando dejamos de debatir sobre tecnología y empezamos a ensayar sus consecuencias?**
 
@@ -110,7 +106,7 @@ A partir de experiencias con **Decidim, INSPIRE y Teatro Legislativo**, el capí
 
 De las inundaciones a los foros: una reflexión sobre democracia digital, crisis y nuestra capacidad para construir las infraestructuras políticas que necesitamos.
 
-🔗 [Conoce HOPE: Reclaiming the Future](https://books.google.com/books?vid=ISBN9783987265457)
+🔗 [HOPE: Reclaiming the Future](https://books.google.com/books?vid=ISBN9783987265457)
 
 ## 📖 Investigación INSPIRE: ¿cómo hacer que la participación híbrida sea más inclusiva, creativa y transformadora?
 
@@ -134,7 +130,7 @@ Las herramientas digitales no son neutrales. Tampoco lo son los formatos de deli
 
 El informe propone prestar atención no solo a quién participa, sino a **cómo se produce el conocimiento colectivo, cómo se traduce en decisiones y qué responsabilidad asumen las instituciones sobre sus consecuencias**.
 
-🔗 [Leer el informe INSPIRE](https://lnkd.in/ezHaRV-J)
+🔗 [Lee el informe de INSPIRE](https://0b2e8ddf-c59b-4939-a759-0de3d29ea8ce.filesusr.com/ugd/a49cde_19d653329a9d42eebeedf9c84860fc9c.pdf)
 
 ## 🤕 ¿Qué diría Fanon de un chatbot de salud mental?
 
@@ -216,7 +212,7 @@ Platoniq Foundation / Proyecto INSPIRE (Horizon Europe). *Cultural Strategies an
 
 Informe sobre estrategias culturales, dispositivos creativos y metodologías para diseñar espacios híbridos de diálogo y deliberación más inclusivos, accesibles y democráticamente significativos.
 
-[Leer el informe](https://lnkd.in/ezHaRV-J)
+[Leer el informe](https://0b2e8ddf-c59b-4939-a759-0de3d29ea8ce.filesusr.com/ugd/a49cde_19d653329a9d42eebeedf9c84860fc9c.pdf)
 
 **3. Frantz Fanon – Piel negra, máscaras blancas**
 
@@ -235,8 +231,6 @@ Una reflexión sobre violencia colonial, emancipación, agencia política y tran
 Fanon, F. (2018). *Alienation and Freedom*. Editado por Jean Khalfa y Robert J. C. Young. Traducido por Steven Corcoran. Bloomsbury Academic.
 
 Recopilación de escritos clínicos, psiquiátricos y políticos que permiten profundizar en la relación entre salud mental, cultura, alienación e instituciones.
-
-
 
 **Platoniq**
 *Creativity & Democracy*
