@@ -10,7 +10,7 @@ author: Platoniq
 cover:
   path: /media/newsletters/stickers_platoniq_-10.png
 ---
-It’s taken us three issues, but here we are, now that so many of you have subscribed to the **Wilder Journal newsletter,** it’s a true pleasure for us to share the first one with you. In this newsletter, you’ll find the latest news from Platoniq: our projects, the most recent interviews, and the most creative experiments in citizen participation.
+It’s taken us three issues, but here we are. Now that so many of you have subscribed to the **Wilder Journal newsletter,** it’s a true pleasure for us to share the first one with you. In this newsletter, you’ll find the latest news from Platoniq: our projects, the most recent interviews, and the most creative experiments in citizen participation.
 
 As you know, at **Platoniq** we explore how to transform participation into collective capacity to decide and act. In this regard, we work at the intersection of democracy, culture, technology, and social innovation, combining research, creative methodologies, participatory design, and the development of open digital infrastructures. 
 
