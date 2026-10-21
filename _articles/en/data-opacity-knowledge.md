@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-3
 category: interviews
 published: true
-featured: false
+featured: true
 date: 2026-10-19T20:53:00.000+02:00
 date-updated: 2026-10-19T20:53:00.000+02:00
 article-order: 3
