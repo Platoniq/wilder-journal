@@ -13,7 +13,7 @@ description: Chayn como espacio digital de protección y reivindicación feminis
 author: Cristian Palazzi
 author_uids:
   - cristian-palazzi
-interviewee: Hera Hussein
+interviewee: Hera Hussain
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
   mobile: /media/articles/mobile/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
