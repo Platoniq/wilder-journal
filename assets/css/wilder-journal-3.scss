@@ -197,3 +197,16 @@ header.pj-hero h1 span {
 }
 
 .pj-couch p:last-child { margin-bottom: 0; }
+
+// Cover on wide screens: line the drawing's right edge up with the right-hand
+// Destacados article (60 px from the screen edge). The theme anchors covers at
+// the top left with background-size: cover, so the drawing moved with the
+// window height and was cut off on 1440×900-type windows. Anchored at the right
+// (the drawing sits 56 px from the image's right edge), it stays within a few
+// pixels of the article's edge at common laptop sizes. Phones keep the mobile
+// cover and the theme's anchoring.
+@media (min-width: 993px) {
+  .heroimage {
+    background-position: right top;
+  }
+}
