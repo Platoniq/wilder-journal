@@ -33,7 +33,8 @@
     theme version except for the three accessibility additions below (black &
     white toggle), the Newsletter section's stylesheet and feed link (plus
     pages.css for the newsletters collection above), and author pages (latest
-    volume's stylesheet, plus authors.css there and on articles). Keep in sync with the
+    volume's stylesheet, plus authors.css there and on articles), and nav-vertical.css
+    (the left category menu fits laptop screens). Keep in sync with the
     theme's head.liquid on theme bumps; fold the a11y bits into the theme when
     it grows a global a11y control.
   {% endcomment %}
@@ -47,6 +48,7 @@
   {% comment %} a11y: black & white mode — render-blocking styles + pre-paint state + toggle logic {% endcomment %}
   <link rel="stylesheet" href="{{ '/assets/css/a11y.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/footer-newsletter.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/nav-vertical.css' | relative_url }}">
   <script>try{if(localStorage.getItem('wj-contrast')==='bw'){document.documentElement.dataset.contrast='bw';}}catch(e){}</script>
   <script defer src="{{ '/assets/js/a11y.js' | relative_url }}"></script>
   {% comment %} a11y: read-aloud control (self-gates to article pages) {% endcomment %}
