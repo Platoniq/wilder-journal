@@ -4,7 +4,7 @@ published: true
 uid: newsletter-platoniq-oct-2026
 title: Can theatre change an algorithm?
 description: "Barcelona Open Week, the INSPIRE report, Fanon, and our new
-  publication in HOPE: *Reclaiming the Future*"
+  publication in HOPE: Reclaiming the Future"
 date: 2026-09-18T15:16:00.000+02:00
 author: Platoniq
 cover:
@@ -19,6 +19,10 @@ Through European projects, citizen labs, Teatro Legislativo, and platforms like 
 Next week, our entire team will be involved in several events at **Barcelona Open Tech Week.** So we couldn’t think of a better way to kick things off than with the week’s schedule and a few surprises.
 
 Thanks for subscribing. We’ll be in touch ;)
+
+## Let's start with the latest news from the Journal
+
+We’re launching a new video section to bring images and voices to the debates surrounding democracy and technology. There, you’ll find content related to the Journal’s articles and interviews. The idea is to add new perspectives—not to create a repository of videos that no one wants to watch—so we’ll be creating audiovisual content specifically designed for this section. We invite you to explore it regularly and to bring any questions that arise to your own spaces for debate and action.
 
 ## Four gatherings during Barcelona Open Tech Week. Four ways to challenge the rules of democracy and technology.
 

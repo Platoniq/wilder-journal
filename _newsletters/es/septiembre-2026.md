@@ -20,6 +20,10 @@ La semana que viene estaremos todo el equipo implicado en varios de los eventos 
 
 Gracias por suscribirte. **Estamos en contacto ;)**
 
+## Empecemos por la novedades del Journal
+
+Estrenamos una [sección de vídeos](https://journal.platoniq.net/es/videos/) para poner imágenes y voces a las disputas que atraviesan la democracia y la tecnología. Allá encontrarás contenido relacionado con los artículos y entrevistas del Journal. La idea es sumar otras perspectivas, no crear un repositorio de videos que nadie se quiere mirar, así que iremos creando contenido audiovisual específicamente pensado para esta sección. Os invitamos a explorarla regularmente y a llevar las preguntas que se generen a vuestros espacios de debate y acción. 
+
 ## Cuatro encuentros en la Barcelona Open Tech Week. Cuatro formas de desafiar las reglas de la democracia y la tecnología.
 
 ### 🔬 Open Technology Research Symposium | 26 de octubre
