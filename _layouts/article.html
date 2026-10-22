@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% comment %}
+  Site override of the theme's _layouts/article.html (jekyll-theme-platoniq-
+  journal): adds the newsletter sign-up in every article (article/newsletter_
+  cta.liquid, moved to mid-article by assets/js/newsletter-cta-mid.js) and skips
+  the end-of-article call to action when that is the newsletter too, so it
+  doesn't appear twice. Keep the rest in sync with the theme's layout.
+{% endcomment %}
+{% include article/assigns.liquid %}
+
+{% include default/header.liquid %}
+
+{% include journal/nav_categories.liquid %}
+
+<section class="pj-page">
+  <article class="container-fluid">
+    <div class="container grid pj-article" data-category="{{ page.category }}">
+      {% include article/hero.liquid %}
+
+      <div id="pj-article-share">
+        {% include article/share.liquid %}
+      </div>
+
+      {% for author_uid in page.author_uids %}
+        {% assign author = site.authors | where: "uid", author_uid | where: "locale", page.locale | first %}
+        {% include article/author.liquid author=author %}
+      {% endfor %}
+      
+      {{ content }}
+
+      {% include article/newsletter_cta.liquid %}
+
+      {% if page.stickers %}
+        {% include default/stickers.liquid %}
+      {% endif %}
+
+      {% if page.call_to_action and page.call_to_action != "cta-newsletter" %}
+        {% include default/call_to_action_block.liquid %}
+      {% endif %}
+      
+    </div>
+  </article>
+</section>
+
+{% include article/related_video.liquid %}
+
+{% include article/related_articles.liquid %}
+
+{% include article/pagination.liquid %}
+
+{% include default/footer.liquid %}
+
+<script src="{{ '/assets/js/newsletter-cta-mid.js' | relative_url }}" defer></script>

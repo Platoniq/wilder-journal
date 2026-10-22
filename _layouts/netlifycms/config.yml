@@ -1,0 +1,29 @@
+---
+layout: none
+dir_path: netlifycms/collections/
+collections:
+  - Volume.liquid
+  - Article.liquid
+  - Video.liquid
+  - Newsletter.liquid
+  - Page.liquid
+  - Author.liquid
+  - CallToAction.liquid
+  - Sticker.liquid
+  - StickerPack.liquid
+---
+{% comment %}
+  Site-level override of the theme's CMS config layout. Identical to the theme
+  version except Newsletter.liquid is added to the collection list. Keep in
+  sync with the theme's netlifycms/config.yml on theme bumps.
+{% endcomment %}
+{% assign path = layout.dir_path | append: "Site.yml" %}
+
+{% include {{ path }} %}
+
+collections:
+{% for collection in layout.collections %}
+  {% assign path = layout.dir_path | append: collection %}
+
+  {% include {{ path }} %}
+{% endfor %}

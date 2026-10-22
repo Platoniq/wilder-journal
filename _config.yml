@@ -7,6 +7,7 @@ url: "https://journal.platoniq.net" # the base hostname & protocol for your site
 analytics_id: G-LLGWB6TLNS
 
 repository: "https://github.com/Platoniq/wilder-journal"
+youtube_channel: "https://www.youtube.com/@fundacionplatoniq"
 logo: media/logo-platoniq_xxss.png
 twitter:
   username: platoniq
@@ -29,7 +30,9 @@ collections:
     custom_permalink_placeholders: ["locale", "volume-uid", "category","uid"]
     permalink: /:locale/:volume-uid/:category/:uid/
   authors:
-    output: false
+    output: true
+    custom_permalink_placeholders: ["locale", "uid"]
+    permalink: /:locale/authors/:uid/
   call_to_actions:
     output: false
   volumes:
@@ -46,6 +49,12 @@ collections:
     output: true
     custom_permalink_placeholders: ["locale", "volume-uid"]
     permalink: /:locale/:volume-uid/stickers/
+  videos:
+    output: false
+  newsletters:
+    output: true
+    custom_permalink_placeholders: ["locale", "uid"]
+    permalink: /:locale/newsletter/:uid/
 
 # Document defaults
 defaults:
@@ -82,6 +91,24 @@ defaults:
     values:
       layout: "page"
       author: "Platoniq"
+  # The path matters: Jekyll ranks defaults by path length before type, so a
+  # type-only scope would lose to the "*/en/*" locale scopes above and fall
+  # back to the catch-all "default" layout.
+  - scope:
+      path: "_authors"
+      type: authors
+    values:
+      layout: "author"
+  - scope:
+      type: videos
+    values:
+      author: "Platoniq"
+  - scope:
+      type: newsletters
+    values:
+      layout: "newsletter_post"
+      author: "Platoniq"
+      call_to_action: "cta-newsletter"
   - scope:
       path: "media"
     values:
