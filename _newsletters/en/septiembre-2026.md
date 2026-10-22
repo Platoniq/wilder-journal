@@ -22,9 +22,11 @@ Thanks for subscribing. We’ll be in touch ;)
 
 ## Let's start with the latest news from the Journal
 
-We’re launching a new video section to bring images and voices to the debates surrounding democracy and technology. There, you’ll find content related to the Journal’s articles and interviews. The idea is to add new perspectives—not to create a repository of videos that no one wants to watch—so we’ll be creating audiovisual content specifically designed for this section. We invite you to explore it regularly and to bring any questions that arise to your own spaces for debate and action.
+We’re launching a new video section to bring images and voices to the debates surrounding democracy and technology. There, you’ll find content related to the Journal’s articles and interviews. 
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-10-22-a-las-18.03.58.png"}] } %}
+
+We want to add new perspectives—not to create a repository of videos that no one wants to watch—so we’ll be creating audiovisual content specifically designed for this section. We invite you to explore it regularly and to bring any questions that arise to your own spaces for debate and action.
 
 ## Four gatherings during Barcelona Open Tech Week. Four ways to challenge the rules of democracy and technology.
 
