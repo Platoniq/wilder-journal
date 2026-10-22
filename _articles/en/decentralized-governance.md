@@ -1,6 +1,6 @@
 ---
 layout: article
-volume-uid: wilder-journal-2
+volume-uid: wilder-journal-3
 category: deep-dives
 published: true
 date: 2026-08-06T10:39:00.000+02:00

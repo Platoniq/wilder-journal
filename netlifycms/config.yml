@@ -7,7 +7,9 @@ permalink: cms/config.yml
 backend:
   name: git-gateway
   repo: Platoniq/wilder-journal
-  branch: main
+  # STAGING ONLY — this branch override must NOT reach main.
+  # Revert this commit when merging develop into main for go-live.
+  branch: develop
 i18n:
   default_locale: es
 ---

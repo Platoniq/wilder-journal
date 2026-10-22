@@ -1,0 +1,50 @@
+{% comment %}
+  Site-level override of the theme's article/author.liquid: the same card
+  (opened from the "by …" line of an article), plus up to three other
+  articles by the same author in this language and a link to their author
+  page with all of them. Keep the card markup in sync with the theme's on
+  theme bumps.
+{% endcomment %}
+{% assign t_authors = site.data.authors_i18n[page.locale] %}
+{% assign author_articles = site.articles
+    | where: "locale", page.locale
+    | where: "published", true
+    | where_exp: "article", "article.author_uids contains author.uid"
+    | where_exp: "article", "article.url != page.url"
+    | sort: "date"
+    | reverse %}
+
+<section class="pj-author pj-author__main pj-author__hidden">
+    <button type="button" class="btn-close">
+        {% include svg/icon-close.liquid
+            class="icon-close"
+            alt=t_close %}
+    </button>
+
+    <div class="pj-author__img">
+        <img src="{{ author.image.path | relative_url }}" alt="{{ author.image.alt }}" />
+    </div>
+
+    <div class="pj-author__text">
+        <h3 class="pj-author__text__name">{{ author.name }}</h3>
+        {% if author.position and author.position != "" %}
+            <h4 class="pj-author__text__position">{{ author.position }}</h4>
+        {% endif %}
+
+        <div class="pj-author__text__bio">{{ author.content | markdownify }}</div>
+
+        {% if author_articles.size > 0 %}
+            <div class="pj-author__more">
+                <h5 class="pj-author__more__title">{{ t_authors.more_by }} {{ author.name }}</h5>
+                <ul class="pj-author__more__list">
+                    {% for article in author_articles limit: 3 %}
+                        <li><a href="{{ article.url | relative_url }}">{{ article.title }}</a></li>
+                    {% endfor %}
+                </ul>
+                <a class="pj-author__more__all" href="{{ author.url | relative_url }}">
+                    {{ t_authors.all_posts }} {{ author.name }} →
+                </a>
+            </div>
+        {% endif %}
+    </div>
+</section>
