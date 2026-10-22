@@ -10,7 +10,7 @@ author: Platoniq
 cover:
   path: /media/newsletters/stickers_platoniq_-10.png
 ---
-Hemos tardado tres números pero ya estamos aquí. Después de que muchas de vosotras os subscribierais a la **newsletter del Wilder Journal,** es un verdadero placer para nosotras compartiros el primero de ellos. Una newsletter donde encontraréis las principales novedades de Platoniq: nuestros proyectos, las últimas entrevistas y los experimentos más creativos en materia de participación ciudadana.
+Hemos tardado tres números pero ya estamos aquí. Después de que muchas de vosotras os subscribierais a la **newsletter del Wilder Journal y Platoniq,** es un verdadero placer para nosotras compartiros el primero de ellos. Una newsletter donde encontraréis las principales novedades de Platoniq: nuestros proyectos, las últimas entrevistas y los experimentos más creativos en materia de participación ciudadana.
 
 Cómo sabéis, en **Platoniq** exploramos cómo transformar la participación en capacidad colectiva para decidir y actuar. Y en este sentido, trabajamos en la intersección entre democracia, cultura, tecnología e innovación social, combinando investigación, metodologías creativas, diseño participativo y desarrollo de infraestructuras digitales abiertas. 
 
