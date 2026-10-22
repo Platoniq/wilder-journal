@@ -5,7 +5,8 @@
   videos appear as their own section next to Stories/Interviews/etc. in every
   volume. Videos are shared across all volumes (same content), so the entry
   links to the global Videos page rather than a per-volume view.
-  A "Newsletter" entry follows it, linking to the Newsletter section.
+  The Newsletter section is linked from the "..." menu instead
+  (default/header_sitemap_selector.liquid), not from here.
   Keep in sync with the theme's nav_categories.liquid on theme bumps.
 {% endcomment %}
 <nav class="pj-nav-vertical">
@@ -50,15 +51,5 @@
     </li>
   {% endif %}
 
-  {% assign newsletter_page = site.pages | where: "uid", "newsletter" | where: "locale", page.locale | first %}
-  {% if newsletter_page %}
-    <li>
-      <a href="{{ newsletter_page.url | relative_url }}" class="{% if page.collection == 'newsletters' or page.uid == 'newsletter' %}select{% endif %}">
-        <strong>
-          {{ newsletter_page.title }}
-        </strong>
-      </a>
-    </li>
-  {% endif %}
   </ul>
 </nav>
