@@ -1,0 +1,64 @@
+// Variables for the third volume of the Journal:
+// "Deep time and safe(r) spaces 4 democracy".
+//
+// Two-colour edition identity: electric royal blue + hot magenta.
+// (Lives in the SITE repo because the theme gem, currently on a colleague's
+// feature branch, does not yet ship a volume-3 palette. Move this into the
+// theme's _sass/volumes/ when it does, and delete the site copy.)
+
+// Font families
+$font-family-heading: "gt_cinetypebold", sans-serif;
+$font-family-body: "Karla", sans-serif;
+
+// Font weights
+$font-weight-regular: 400;
+$font-weight-bold: 700;
+$font-weight-medium: 500;
+$font-weight-heading: $font-weight-bold;
+$font-weight-body: $font-weight-regular;
+$font-weight-body-bold: $font-weight-bold;
+
+// Links
+$link-text-decoration-hover: none;
+
+// Base colours
+$color-black: #000;
+$color-white: #fff;
+$color-grey: #c9cdff;
+$color-base: #0b0e40;
+$color-base-negative: #dfe2ff;
+$hover-opacity: 0.8;
+
+// Edition identity — the two brand colours for Volume 3.
+$color-blue: #2d34e6; // electric royal blue: hero + default bands (Stories)
+$color-magenta: #e6185f; // hot magenta/pink: Interviews + Learnings
+$color-lila: $color-blue; // kept only because volume 2's palette exposed it
+$color-accent: $color-magenta;
+
+// Journal section band colours (consumed by the section -> colour map in
+// assets/css/wilder-journal-3.scss).
+$color-section-blue: $color-blue;
+$color-section-magenta: $color-magenta;
+
+// Backgrounds
+$color-bg-primary: $color-blue;
+$color-bg-primary-hover: rgba($color-blue, $hover-opacity);
+$color-bg-primary-negative: $color-black;
+$color-bg-primary-negative-hover: rgba($color-bg-primary-negative, $hover-opacity);
+$color-bg-secondary: $color-magenta;
+$color-bg-secondary-hover: rgba($color-magenta, $hover-opacity);
+$color-bg-dark: $color-black;
+
+// Foreground
+$color-fg-primary: $color-white;
+$color-fg-primary-hover: rgba($color-fg-primary, $hover-opacity);
+$color-fg-primary-negative: $color-white;
+$color-fg-primary-negative-hover: rgba($color-fg-primary-negative, $hover-opacity);
+$color-fg-secondary: $color-white;
+
+// Links
+$color-link: $color-fg-primary;
+$color-link-hover: $color-fg-primary-hover;
+
+$animation-duration: 300ms;
+$animation-easing: ease-in-out;

@@ -1,0 +1,141 @@
+---
+layout: article
+volume-uid: wilder-journal-3
+category: learnings
+published: true
+featured: false
+date: 2026-10-20T09:02:00.000+02:00
+date-updated: 2026-10-20T09:02:00.000+02:00
+article-order: 1
+uid: Equidad-Digital-Infancia-Adolescencia
+title: Aplicar los círculos de escucha con infantes y adolescentes para
+  transformar las políticas digitales
+description: Cómo Platoniq llevó la voz de la comunidad al corazón de la Agenda
+  de Equidad Digital
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
+cover:
+  path: /media/articles/heroes/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
+  alt: Fund Bofill
+  credits: Fund Bofill
+  caption: Fund Bofill
+related_article_uids:
+  - palabra-accion-colaboracion
+stickers:
+  layout: layout-none
+  sticker_one_animation: animation-none
+  sticker_two_animation: animation-none
+call_to_action: cta-donate
+image:
+  path: /media/articles/social/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
+---
+Hay proyectos que preguntan… y otros que realmente se paran a escuchar. El proceso impulsado por la Fundación Bofill para construir una Agenda de Equidad Digital en Cataluña se sitúa claramente en este segundo lugar. 
+
+Su enfoque no se queda en recoger opiniones, sino en conseguir convertir vivencias cotidianas en conocimiento compartido y, a partir de ahí, en propuestas con capacidad de incidir en políticas públicas.
+
+Para ello, se nos encargó liderar la metodología y facilitación de varios procesos de escuchas entre infantes y adolescentes, orientados a comprender que piensas, que sienten y qué les preocupa sobre la dimensión digital y la injerencia que tiene en sus vidas. 
+
+No se apostó por redactar un gran manifiesto ni por crear una nueva plataforma donde volcar resultados. Lo más habitual en estos casos, sino por escuchar en las aulas, en las familias, en los territorios, lo que está pasando con la tecnología. 
+
+{% file { "title": "Agenda para una Educación Digital Crítica en Cataluña", "info": "10 medidas", "file": "https://www.equitat.org/app/uploads/2026/05/Agenda_Educacio_Digital_Critica_Catalunya.pdf", "image": "/media/plantilla-decla-platoniq.png", "button_text": "Descarga", "button_icon": "icon-download", "alt_color": true } %}
+
+A partir de ahí, Platoniq fue tejiendo un sistema que conectaba muchas miradas distintas: infancia, adolescencia, profesorado, familias, municipios y expertos, sin forzarlas a encajar en un único relato. Más que una secuencia ordenada de fases, lo que se generó fue una conversación ampliada, donde lo que se decía en un espacio resonaba en otros. Un proceso donde las ideas no circulaban en línea recta, sino que se iban transformando al encontrarse con otras voces.
+
+### **Punto de partida: usos juveniles de la tecnología entre la IA, el bienestar digital y la alfabetización mediática.**
+
+En España, la conectividad y la disponibilidad de dispositivos están ampliamente extendidas: en 2025, el 96,9% de los menores de 10 a 15 años utilizaba ordenador, el 96,5% usaba Internet y el 67,9% disponía de teléfono móvil; además, el 97,4% de los hogares contaba con acceso a Internet. Estos datos indican que la cuestión principal ya no es si la juventud está dentro o fuera del entorno digital, sino en qué condiciones entra, con qué acompañamiento y con qué capacidad crítica interpreta lo que allí sucede. ([INE, 2025](https://ine.es/infografias/infografia_tichogares.pdf?utm_source=chatgpt.com))
+
+En relación con la inteligencia artificial, el escenario es especialmente significativo. Los datos oficiales del INE muestran que en España el 37,9% de las personas de 16 a 74 años utilizó herramientas de IA generativa en los tres últimos meses de 2025, y que un 16,2% lo hizo para fines de educación formal. El punto crítico, por tanto, no es solo la adopción de la IA, sino el tipo de relación pedagógica que se construye con ella: si se emplea como apoyo para comprender, contrastar y crear, o si se consolida como atajo instrumental que debilita la autonomía cognitiva.
+
+Desde el punto de vista del bienestar digital, la evidencia oficial disponible sugiere, por un lado, que los entornos digitales ofrecen espacios de relación, entretenimiento y pertenencia; por otro, empiezan a observarse indicadores que apuntan a usos emocionalmente intensos y, en algunos casos, compensatorios. El estudio EMOChild, difundido por el Observatorio de la Infancia y basado en una muestra de 5.652 escolares de 9 a 16 años de toda España, señala que uno de cada cuatro niños y adolescentes experimentó nerviosismo o irritabilidad cuando no podía acceder a sus redes sociales, y que más de la mitad utilizaba las redes como una forma de olvidar problemas, tendencia más frecuente en adolescencia que en infancia. 
+
+En cuanto a la alfabetización mediática, los datos del estudio ICILS 2023 muestran que el alumnado español de 2º de ESO obtuvo 495 puntos en competencia digital, por encima de la media de la Unión Europea, situada en 493, y que España presenta además un índice de aprendizaje sobre uso seguro y responsable de las TIC superior al promedio europeo. Esto sugiere que el sistema educativo avanza en competencias digitales, pero todavía necesita consolidar una alfabetización mediática más profunda, capaz de ir más allá del uso funcional de herramientas e incorporar verificación, lectura crítica de contenidos, comprensión de lógicas algorítmicas y análisis del poder de las plataformas. 
+
+{% gallery { "simple": false, "images": [{"path":"/media/dsc00577.jpg","alt":"Círculo de escucha sobre Bienestar Digital","caption":"Círculo de escucha sobre Bienestar Digital","credits":"Platoniq para la Fundación Bofill (2026)"}] } %}
+
+En conjunto, el diagnóstico permanece necesariamente abierto. Los datos oficiales no describen una juventud pasiva ni tecnófoba, pero tampoco avalan una lectura celebratoria de la digitalización. Lo que muestran es una generación altamente conectada, tempranamente expuesta a plataformas, cada vez más familiarizada con la IA y razonablemente competente en usos digitales básicos, pero todavía atravesada por tensiones importantes en bienestar emocional, autonomía crítica y calidad del acompañamiento educativo.
+
+### **La innovación invisible: cómo facilitar una conversación que no sabemos donde acaba**
+
+A partir de este análisis, desde la Fundación Platoniq defendemos que para entender la relación de niños, niñas y adolescentes con la tecnología hace falta abrir espacios donde puedan expresar no solo lo que hacen, sino cómo lo sienten y cómo lo integran en sus vidas. 
+
+Es desde esta premisa se diseñó la metodología innovadora del proceso, orientada a generar contextos de conversación profunda que permitieran ir más allá de las cifras y acceder a la complejidad de estas experiencias.
+
+Innovadora no solo por cómo se organizó, sino por cómo se cuidaron las conversaciones. Unas conversaciones que tuvieron lugar tienen en cuenta las metodologías de círculo de escucha y prácticas restaurativas, algo que ayudó a generar un clima distinto donde se fue creando un espacio donde escuchar significaba algo más que esperar el turno de palabra, y donde lo que cada persona traía con su experiencia, sus dudas y sus contradicciones tenía valor en sí mismo. 
+
+{% quote %}En ese tipo de entorno es donde empiezan a aparecer cosas que normalmente no salen. Frases inesperadas, imágenes, intuiciones. Material vivo que difícilmente emerge en formatos más rígidos o dirigidos.{% endquote %}
+
+No se buscó respuestas técnica, sino más bien vivencias representativas que mostraran el trasfondo simbólico, emocional y ambiguo de lo que está pasando realmente en la relación entre infancia y tecnología.
+
+### **De los círculos restaurativos a los focus groups**
+
+Así pues, trasladamos la metodología de los círculos de escucha de Belinda Hopkins, típica de los contextos educativos y restaurativos, al trabajo con grupos de infancia y adolescencia. Algo que implicaba dejar atrás el formato clásico de focus group, más orientado a “extraer” respuestas, para abrir un espacio donde lo importante no era tanto obtener información como construirla entre todas las personas participantes.
+
+En la práctica, esto se tradujo en dinámicas sencillas pero muy potentes: el uso de un objeto que marca el turno de palabra, las rondas, la posibilidad de hablar o no hacerlo, el respeto por los tiempos, el uso de otros lenguajes como el dibujo o la expresión corporal. Elementos que, lejos de ser formales, ayudaron a equilibrar las voces y a generar un tipo de conversación más pausada, más honesta y, sobre todo, más inclusiva.
+
+{% gallery { "simple": false, "images": [{"path":"/media/captura-de-pantalla-2026-03-25-a-las-18.39.31.png","alt":"Dibujos de los jóvenes participantes","caption":"Dibujos de los jóvenes participantes","credits":"Platoniq para la Fundación Bofill (2026"}] } %}
+
+Como plantea Hopkins, el círculo abre la posibilidad de que cada persona pueda expresarse desde su propia experiencia y sentirse realmente escuchada. Y eso cambia muchas cosas. No solo en lo que se dice, sino en cómo se dice y en lo que se permite aparecer. Poco a poco se genera confianza, se aflojan las respuestas más automáticas y emerge algo más auténtico.
+
+Llevado a este proceso, el efecto fue muy claro: discursos más sinceros, menos marcados por la presión del grupo o por lo que “se espera decir”, y con muchos más matices de los que suelen aparecer en otros formatos más dirigidos.
+
+### **De lo que se dice a lo que significa**
+
+Pero escuchar, por sí solo, no basta. Lo más delicado viene después: cómo dar forma a todo lo que aparece sin perder su sentido, cómo ordenar sin simplificar en exceso. Ahí es donde el trabajo de Platoniq cobra especial valor. No se trataba solo de recoger lo que se dijo, sino de saber leerlo, conectarlo y devolverlo de manera que siga siendo fiel a lo vivido.
+
+**El proceso fue combinando distintas capas: la recopilación de inquietudes, su análisis en profundidad, la identificación de prioridades y, finalmente, la traducción en propuestas políticas.** 
+
+Una docente lo expresaba con una claridad que atraviesa todo el proceso:
+
+{% quote %}Nos piden que eduquemos en digital, pero nadie nos había preguntado antes cómo lo vivimos{% endquote %}
+
+Esta frase no es solo una crítica, es también una clave metodológica. Porque el proyecto no parte de respuestas, sino de esa ausencia previa de escucha.
+
+### **Tres temas, cuatro tensiones**
+
+A lo largo del proceso emergieron grandes temas que atraviesan la experiencia digital contemporánea, pero siempre desde la voz de quienes se sienten atravesados por ella. En el ámbito del **bienestar digital,** por ejemplo, aparece con fuerza la ambivalencia emocional ligada al uso de pantallas.
+
+{% quote %}Cuando juego me siento bien, pero cuando paro estoy enfadado y no sé por qué{% endquote %}
+
+En el terreno de la **inteligencia artificial,** la percepción es igualmente compleja, lejos tanto del entusiasmo acrítico como del rechazo.
+
+{% quote %}La IA puede hacer los deberes, pero no sabe si yo lo he entendido{% endquote %}
+
+Cuando se aborda **la alfabetización mediática,** se hace evidente la tensión entre confianza y duda en los entornos digitales.
+
+{% quote %}Si lo dice internet parece verdad… pero luego no siempre lo es{% endquote %}
+
+Un tema inesperado fue la aparición de **la tecnoansiedad,** una dolencia emocional que parece un concepto abstracto, pero que los infantes viven como una experiencia concreta y cotidiana.
+
+{% quote %}A mi me da miedo que dentro de poco nada sea de verdad y la IA lo destruya todo{% endquote %}
+
+Voces que no son anecdóticas funcionando como indicadores cualitativos de un sistema en transformación que son señales que nos permiten leer lo que las métricas no capturan.
+
+### **De la participación al conocimiento útil: recomendaciones de la juventud**
+
+En un contexto de digitalización acelerada, donde las decisiones se toman a gran velocidad y, con demasiada frecuencia, lejos de los espacios donde realmente se experimentan sus efectos, este proyecto introduce una pregunta de fondo que va más allá de Cataluña y que interpela directamente a cómo estamos construyendo el futuro: **quién tiene derecho a definir cómo queremos convivir con la tecnología.** 
+
+La respuesta de Platoniq es muy clara: sus principales afectados, que no son otros que esos niños y niñas que describen su relación con las pantallas desde imágenes que revelan dependencia, placer y desconexión al mismo tiempo. 
+
+Además, los docentes que sostienen, día a día, una transformación para la que no siempre se sienten preparado; y las familias que gestionan como pueden los límites, los usos y las tensiones en casa.
+
+Todo un conjunto de voces que rara vez ocupan el centro de los procesos de decisión y que, sin embargo, son las que mejor describen lo que está pasando. 
+
+Sus recomendaciones no hablan tanto de grandes soluciones tecnológicas como de cambios en la forma de acompañar el uso digital. Se reclaman más espacios para entender qué hacen y por qué lo hacen, no solo normas o prohibiciones. Se pide poder hablar abiertamente sobre lo que les pasa con las pantallas, sobre cómo se sienten, sobre lo que les engancha o les incomoda. En el fondo, sus propuestas apuntan a algo sencillo pero profundo: no necesitan más tecnología, sino mejores condiciones para convivir con ella.
+
+### **Llamamiento a un Diálogo Ciudadano sobre tecnología liderado por los más jóvenes**
+
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-03-26-a-las-9.49.56.png"}] } %}
+
+Inspirados por el trabajo de [Katie Reid, especialista en derechos del niño y participación infantil](https://journal.platoniq.net/es/wilder-journal-2/interviews/children-participation/), desde Platoniq creemos que es el momento de escuchar de verdad a quienes están viviendo en primera persona los impactos de las políticas digitales: la adolescencia. En este sentido proponemos impulsar los *Diálogos Ciudadanos (Youth Agora)* como un espacio innovador, seguro y representativo donde jóvenes de toda Catalunya puedan deliberar, co-crear y proponer soluciones concretas frente a desafíos urgentes como la desinformación, el ciberacoso, la ansiedad digital o los estereotipos de género.
+
+A través de este proceso, abordaremos cuatro grandes ejes: polarización y desinformación, ciberacoso e inteligencia artificial, ansiedad digital y auto-percepción de género, con el objetivo de traducir el diálogo en resultados tangibles: planes de capacitación contra la desinformación, propuestas de regulación del uso de la IA en jóvenes, estrategias de atención a la diversidad en entornos digitales y marcos de equidad de género aplicados al mundo digital. 
+
+**Este es un llamamiento a construir conjuntamente recomendaciones accionables que puedan incorporarse a las políticas públicas, generando un impacto real en la vida de las y los adolescentes.**
+
+Por eso queremos interpelar a todas las organizaciones y redes clave como Digitalfems, Lafede.cat, Fundación Bofill, Xnet, Fundación Ferrer i Guardia, Young IT Girls, Learn to Check o Verificat, así como a todas esas entidades, colectivos y profesionales del ámbito tecnológico, educativo y social, a sumarse a esta iniciativa. 
+
+Es el momento de tejer alianzas y activar una inteligencia colectiva capaz de construir un ecosistema digital más justo, inclusivo y democrático para las nuevas generaciones.

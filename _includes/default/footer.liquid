@@ -1,0 +1,116 @@
+{% comment %}
+  Site override of the theme's footer (jekyll-theme-platoniq-journal
+  _includes/default/footer.liquid): adds the newsletter sign-up at the top of
+  every page's footer. Texts come from the "cta-newsletter" call to action in
+  the CMS. It posts the same Netlify form as the call to action ("newsletter"),
+  so the welcome email and the listmonk subscription (netlify/functions/
+  submission-created) work the same. Styles: assets/css/footer-newsletter.css.
+  Keep the rest in sync with the theme's footer.
+{% endcomment %}
+{% assign newsletter_cta = site.call_to_actions | where: "uid", "cta-newsletter" | first %}
+{% assign newsletter_locale = page.locale | default: "es" %}
+{% assign newsletter_texts = newsletter_cta[newsletter_locale] | default: newsletter_cta.es %}
+{% assign t_support_by = site.data.i18n[page.locale].global.support_by %}
+
+<footer class="footer container-fluid">
+  {% if newsletter_texts %}
+    <form name="newsletter" netlify class="footer__newsletter" id="footer-newsletter">
+      <p class="footer__newsletter-title">{{ newsletter_texts.title }}</p>
+      <div class="footer__newsletter-fields">
+        <label>
+          <span>{% if newsletter_locale == "en" %}Name{% else %}Nombre{% endif %}</span>
+          <input type="text" name="name" autocomplete="name">
+        </label>
+        <label>
+          <span>Email</span>
+          <input type="email" name="email" autocomplete="email" required>
+        </label>
+        <input type="hidden" name="form-name" value="newsletter">
+        <input type="hidden" name="lang" value="{{ newsletter_locale }}">
+        <input type="hidden" name="page_uid" value="{{ page.uid }}">
+        <input type="hidden" name="site_url" value="{{ site.url }}">
+        <button type="submit" class="btn btn-negative"><span class="btn__label">{{ newsletter_texts.button.label }}</span></button>
+      </div>
+      <p class="footer__newsletter-consent">
+        {% if newsletter_locale == "en" %}
+          By subscribing you accept our <a href="{{ privacy_page.url | relative_url }}">privacy policy</a>. You can unsubscribe at any time.
+        {% else %}
+          Al suscribirte aceptas nuestra <a href="{{ privacy_page.url | relative_url }}">política de privacidad</a>. Puedes darte de baja cuando quieras.
+        {% endif %}
+      </p>
+    </form>
+  {% endif %}
+
+  <ul class="powered_by">
+    <li>
+      <p class="footer__copyright">
+        {{ site.title }}
+        <a rel="license"
+          title="Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license"
+          href="https://creativecommons.org/licenses/by-sa/4.0/"
+          target="_blank">
+          <small>cc-by-sa</small>
+        </a>
+      </p>
+    </li>
+    {% if page.volume-uid == "wilder-journal-2" or page.uid == 'wilder-journal-2' %}
+      <li>
+        <p>
+          {{ t_support_by }} <a href="https://www.opensocietyfoundations.org" target="_blank">Open Society Foundations</a>
+        </p>
+      </li>
+    {% endif %}
+  </ul>
+  
+  <nav class="footer__nav">
+    <ul>
+      {% if about_page.published %}
+        <li>
+          <a href="{{ about_page.url | relative_url }}">
+            {{ about_page.title }}
+          </a>
+        </li>
+      {% endif %}
+
+      {% if wilder_committee_page.published %}
+        <li>
+          <a href="{{ wilder_committee_page.url | relative_url }}">
+            {{ wilder_committee_page.title }}
+          </a>
+        </li>
+      {% endif %}
+      
+      {% if together_page.published %}
+        <li>
+          <a href="{{ together_page.url | relative_url }}">
+            {{ together_page.title }}
+          </a>
+        </li>
+      {% endif %}
+      
+      {% if sticker_pack_page %}
+        <li>
+          <a href="{{ sticker_pack_page.url | relative_url }}">
+            {{ sticker_pack_page.title_menu }}
+          </a>
+        </li>
+      {% endif %}
+      
+      {% if terms_page.published %}
+        <li>
+          <a href="{{ terms_page.url | relative_url }}">
+          {{ terms_page.title }}
+          </a>
+        </li>
+      {% endif %}
+      
+      {% if privacy_page.published %}
+        <li>
+          <a href="{{ privacy_page.url | relative_url }}">
+            {{ privacy_page.title }}
+          </a>
+        </li>
+      {% endif %}
+    </ul>
+  </nav>
+</footer>

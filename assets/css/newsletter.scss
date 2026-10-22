@@ -1,0 +1,55 @@
+---
+---
+@charset "utf-8";
+
+// Newsletter section: the listing page and single posts. Loaded after
+// pages.css, only on those pages (see _includes/default/head.liquid). The
+// layouts reuse the theme's archive list and article hero, so this file only
+// holds the extras they need.
+@import "base/variables",
+        "volumes/variables_all_volumes";
+
+.pj-newsletter {
+  // Intro text and the empty-state line align with the title and the list.
+  .grid > p {
+    grid-column: 4 / span 13;
+  }
+
+  &__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+    margin: 0 0 0.5em;
+    font-size: 14px !important;
+    letter-spacing: 0.6px !important;
+    text-transform: uppercase;
+  }
+
+  &__lang {
+    padding: 0.1em 0.5em;
+    border: 1px solid currentColor;
+    font-size: 12px;
+  }
+
+  &__summary {
+    margin-top: 0.5em;
+  }
+
+  &__empty {
+    margin-top: $grid-row-lg;
+  }
+}
+
+.pj-newsletter-post {
+  // The article hero's author line opens an author card on hover; newsletter
+  // posts have no author cards, so drop the pointer and hover zoom.
+  .pj-hero__data__author {
+    cursor: auto;
+
+    &:hover,
+    &:focus {
+      transform: none;
+    }
+  }
+}

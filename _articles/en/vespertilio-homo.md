@@ -92,7 +92,7 @@ The purpose of disinformation is and has always been to deceive or manipulate th
 
 In the historical analysis of disinformation, it should be kept in mind that **evidence can change over time, as knowledge evolves dynamically and in real time**. A recent example can be found on the twitter of the World Health Organization (WHO), who at the end of March 2020 stated that Covid-19 was not airborne:
 
-{% gallery { "simple": false, "images": [{"path":"/media/covid_not_airborne.png","credits":"[@WHO \(Twitter\)](https://twitter.com/WHO/status/1243972193169616898)","alt":"FACT CHECK: COVID-19 is NOT airborne.","caption":"FACT CHECK: COVID-19 is NOT airborne."}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/covid_not_airborne.png","credits":"[@WHO (Twitter)](https://twitter.com/WHO/status/1243972193169616898)","alt":"FACT CHECK: COVID-19 is NOT airborne.","caption":"FACT CHECK: COVID-19 is NOT airborne."}] } %}
 
 Therefore, not all historical news that have turned out to be false have been made with the intention of disinformation. In these cases, both to avoid public confusion and to maintain the credibility of who issued the news, it is necessary to establish a historical traceability system that allows tracking of evidence and news. However, few platforms offer this feature. Again, we return to the Wikipedia model, which presents a historical traceability system that allows retracting and correcting truths that, over time, ceased to be so.
 

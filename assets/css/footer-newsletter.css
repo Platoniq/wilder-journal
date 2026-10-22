@@ -1,0 +1,49 @@
+/* Newsletter sign-up in the footer (_includes/default/footer.liquid).
+   Uses the footer's own text colour (currentColor) so it fits every volume. */
+.footer { flex-wrap: wrap; }
+.footer__newsletter {
+  flex: 1 1 100%;
+  width: 100%;
+  padding-bottom: 2em;
+  border-bottom: 1px solid currentColor;
+  margin-bottom: 0.5em;
+}
+.footer__newsletter-title {
+  font-family: "Karla", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 0.75em;
+}
+.footer__newsletter-fields {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 1em;
+}
+.footer__newsletter-fields label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35em;
+  flex: 1 1 14em;
+  font-family: "Karla", sans-serif;
+  font-size: 14px;
+}
+.footer__newsletter-fields input {
+  font: inherit;
+  font-size: 16px;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid currentColor;
+  border-radius: 0;
+  padding: 0.4em 0;
+}
+.footer__newsletter-fields input:focus { outline: 2px solid currentColor; outline-offset: 2px; }
+.footer__newsletter-fields .btn { flex: 0 0 auto; }
+.footer__newsletter-consent {
+  font-family: "Karla", sans-serif;
+  font-size: 13px;
+  margin: 1em 0 0;
+  opacity: 0.85;
+}
+.footer__newsletter-consent a { color: inherit; text-decoration: underline; }

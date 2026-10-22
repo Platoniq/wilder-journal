@@ -1,0 +1,76 @@
+{% comment %}
+  Newsletter CMS collection (site-level; the theme has no equivalent).
+  Posts live in _newsletters/<locale>/<uid>.md, are listed on the Newsletter
+  page (_pages/<locale>/newsletter.md) and are reached from the vertical
+  category menu. Registered in _layouts/netlifycms/config.yml.
+{% endcomment %}
+{% raw %}
+- name: "newsletters"
+  label: "Newsletter"
+  label_singular: "Newsletter"
+  description: "Publicaciones de la newsletter de Platoniq. Aparecen en la sección Newsletter del Journal, enlazada desde el menú vertical."
+  folder: "_newsletters/"
+  i18n:
+    structure: multiple_folders
+    locales: *locales
+  create: true
+  delete: true
+  slug: "{{uid}}"
+  summary: "{{title}} ({{date | date('YYYY-MM-DD')}})"
+  sortable_fields: ["date", "title"]
+  view_filters:
+    - label: Publicado
+      field: published
+      pattern: true
+    - label: No publicado
+      field: published
+      pattern: false
+  editor:
+    preview: true
+  fields:
+    - { label: "Layout", name: "layout", widget: "hidden", default: "newsletter_post", i18n: duplicate }
+    - { label: "Publicado", name: "published", widget: "boolean", default: false, i18n: duplicate }
+    - {
+        label: "Slug",
+        name: "uid",
+        widget: "string",
+        hint: "Final de la URL, p. ej. 'septiembre-2026'. Solo minúsculas, números y guiones.",
+        pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Solo minúsculas, números y guiones"],
+        i18n: duplicate
+      }
+    - { label: "Título", name: "title", widget: "string", i18n: translate }
+    - {
+        label: "Resumen",
+        name: "description",
+        widget: "text",
+        hint: "Aparece en el listado de la sección y al compartir.",
+        required: false,
+        i18n: translate
+      }
+    - { label: "Fecha de publicación", name: "date", widget: "datetime", i18n: duplicate }
+    - { label: "Autoría", name: "author", widget: "string", default: "Platoniq", required: false, i18n: translate }
+    - label: "Portada"
+      name: "cover"
+      widget: "object"
+      required: false
+      collapsed: true
+      i18n: true
+      fields:
+        - {
+            label: "Imagen",
+            hint: "Opcional. Se muestra en la cabecera y en el listado.",
+            name: "path",
+            widget: "image",
+            required: false,
+            choose_url: false,
+            media_library: { config: { multiple: false } },
+            media_folder: "/media/newsletters",
+            i18n: duplicate
+          }
+        - { label: "Texto alternativo a la imagen", name: "alt", widget: "string", required: false, i18n: translate }
+    - label: "Contenido"
+      name: "body"
+      widget: "markdown"
+      editor_components: ["gallery", "quote-tag", "file-tag", "documents-tag", "links-tag"]
+      i18n: true
+{% endraw %}
