@@ -3,7 +3,7 @@ layout: article
 volume-uid: wilder-journal-3
 category: stories
 published: true
-featured: true
+featured: false
 date: 2026-08-06T10:11:00.000+02:00
 date-updated: 2026-08-06T10:11:00.000+02:00
 article-order: 1
