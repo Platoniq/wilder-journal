@@ -1,7 +1,7 @@
 /*
   Vertical category menu on the left (theme .pj-nav-vertical): the list is
-  rotated and centred along the screen height. With Vídeos and Newsletter added
-  (site nav_categories.liquid) it no longer fits laptop screens: the browser
+  rotated and centred along the screen height. With Vídeos added (site
+  nav_categories.liquid) it no longer fit laptop screens: the browser
   squeezed the items, so "En profundidad" broke onto two lines and the first
   and last entries were cut off. Keep each label on one line, keep the list
   clear of the header icons in the top-left corner, and scale it down on

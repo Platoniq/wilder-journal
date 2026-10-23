@@ -4,6 +4,8 @@
   (Cristian, 2026-08-19): videos now live in the vertical category menu, not the
   main menu. To revert: delete this file (theme original returns). The removed
   block is recorded in the memory note "wilder-journal-video-menu-removals".
+  Also adds a Newsletter entry after Services (the Newsletter section is
+  linked from here, not from the vertical category menu).
   Keep in sync with the theme's header_sitemap_selector.liquid on theme bumps.
 {% endcomment %}
 <div class="header__sitemap">
@@ -46,6 +48,15 @@
       <li>
         <a href="{{ services_page.url | relative_url }}" class="{% if page.uid == "services" %}select{% endif%}">
           <h3 class="pj-sitemap-menu__title">{{ services_page.title }}</h3>
+        </a>
+      </li>
+    {% endif %}
+
+    {% assign newsletter_page = site.pages | where: "uid", "newsletter" | where: "locale", page.locale | first %}
+    {% if newsletter_page %}
+      <li>
+        <a href="{{ newsletter_page.url | relative_url }}" class="{% if page.collection == "newsletters" or page.uid == "newsletter" %}select{% endif%}">
+          <h3 class="pj-sitemap-menu__title">{{ newsletter_page.title }}</h3>
         </a>
       </li>
     {% endif %}
