@@ -6,7 +6,7 @@ published: true
 featured: true
 date: 2026-10-21T07:34:00.000+02:00
 date-updated: 2026-10-21T07:34:00.000+02:00
-article-order: 3
+article-order: 4
 uid: tarot-democracy
 title: "Tarot of Legislative Theater: Reading the System to Rewrite the Future"
 description: The session brought together youth from Mindset Revolution in

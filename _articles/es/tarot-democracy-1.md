@@ -6,7 +6,7 @@ published: true
 featured: true
 date: 2026-10-21T07:34:00.000+02:00
 date-updated: 2026-10-21T07:34:00.000+02:00
-article-order: 3
+article-order: 4
 uid: tarot-democracy
 title: "El Tarot del Teatro Legislativo: leer el sistema para reescribir el futuro"
 description: El taller “el Tarot del Teatro Legislativo” nació en el marco del
