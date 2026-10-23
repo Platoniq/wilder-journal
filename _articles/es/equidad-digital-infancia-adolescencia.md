@@ -3,10 +3,10 @@ layout: article
 volume-uid: wilder-journal-3
 category: learnings
 published: true
-featured: false
+featured: true
 date: 2026-10-20T09:02:00.000+02:00
 date-updated: 2026-10-20T09:02:00.000+02:00
-article-order: 1
+article-order: 3
 uid: Equidad-Digital-Infancia-Adolescencia
 title: Aplicar los círculos de escucha con infantes y adolescentes para
   transformar las políticas digitales
