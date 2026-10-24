@@ -9,10 +9,20 @@ date-updated: 2026-10-20T09:02:00.000+02:00
 article-order: 3
 uid: Equidad-Digital-Infancia-Adolescencia
 interviewee: null
+title: Applying listening circles with children and teenagers to transform
+  digital policies
+description: How Platoniq brought the community's voice to the heart of the
+  Digital Equity Agenda
+author: Cristian Palazzi
+author_uids:
+  - cristian-palazzi
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
   thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-03-25-a-las-18.42.04.png
+  alt: Fund Bofill
+  credits: Fund Bofill
+  caption: Fund Bofill
 related_article_uids:
   - palabra-accion-colaboracion
 stickers:
