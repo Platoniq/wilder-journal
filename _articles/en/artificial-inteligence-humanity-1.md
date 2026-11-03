@@ -17,8 +17,11 @@ author_uids:
 interviewee: Lucy Mugo & Michael Geoffrey Abuyabo Asia
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-07-03-a-las-16.07.31.png
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/captura-de-pantalla-2026-07-03-a-las-16.07.31.png
   thumbnail: /assets/media/no_image-thumbnail.png
+related_article_uids:
+  - Against-Administrative-Obscurantism
+  - litigio-estratégico-centro-datos
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
