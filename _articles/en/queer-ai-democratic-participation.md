@@ -21,7 +21,7 @@ author_uids:
 interviewee: Federico Simeoni
 cover:
   path: /media/articles/heroes/images.jpg
-  mobile: /assets/media/no_image-hero.png
+  mobile: /media/articles/mobile/images.jpg
   thumbnail: /media/articles/thumbnails/images.jpg
 stickers:
   layout: layout-none
