@@ -210,3 +210,25 @@ header.pj-hero h1 span {
     background-position: right top;
   }
 }
+
+// Destacados like the category sections (volume 2 layout): pictures keep their
+// own (mostly vertical) shape instead of a 16:9 crop, and the right-hand
+// article sits lower than the left one, so the pairs are staggered.
+#featured .pj-featured__link img {
+  aspect-ratio: auto;
+  height: auto;
+  object-fit: initial;
+}
+
+@media (min-width: $bp-tablet) {
+  #featured .pj-featured__grid {
+    grid-column-gap: 129px;
+    grid-row-gap: 96px;
+    align-items: start;
+    padding: 0 6%;
+  }
+
+  #featured .pj-featured__item:nth-child(even) {
+    margin-top: 30%;
+  }
+}
