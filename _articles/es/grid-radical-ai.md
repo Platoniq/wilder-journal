@@ -20,7 +20,7 @@ author_uids:
 cover:
   path: /media/articles/heroes/dibujo-y-elemento-blanco.png
   mobile: /media/articles/mobile/dibujo-y-elemento-blanco.png
-  thumbnail: /media/articles/thumbnails/grid.png
+  thumbnail: /media/articles/thumbnails/dibujo-y-elemento-blanco.png
   alt: GRID
   credits: GRID
   caption: GRID

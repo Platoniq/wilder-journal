@@ -25,7 +25,7 @@ interviewee: null
 cover:
   path: /media/articles/heroes/dibujo-y-elemento-blanco.png
   mobile: /media/articles/mobile/dibujo-y-elemento-blanco.png
-  thumbnail: /media/articles/thumbnails/grid.png
+  thumbnail: /media/articles/thumbnails/dibujo-y-elemento-blanco.png
 related_article_uids:
   - AI-dialogue
   - Artificial-Inteligence-Humanity
