@@ -24,7 +24,7 @@ author_uids:
 interviewee: null
 cover:
   path: /media/articles/heroes/dibujo-y-elemento-blanco.png
-  mobile: /media/articles/mobile/grid.png
+  mobile: /media/articles/mobile/dibujo-y-elemento-blanco.png
   thumbnail: /media/articles/thumbnails/grid.png
 related_article_uids:
   - AI-dialogue

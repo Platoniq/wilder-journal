@@ -19,7 +19,7 @@ author_uids:
   - platoniq
 cover:
   path: /media/articles/heroes/dibujo-y-elemento-blanco.png
-  mobile: /media/articles/mobile/grid.png
+  mobile: /media/articles/mobile/dibujo-y-elemento-blanco.png
   thumbnail: /media/articles/thumbnails/grid.png
   alt: GRID
   credits: GRID
