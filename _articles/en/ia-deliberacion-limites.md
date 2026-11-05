@@ -8,6 +8,12 @@ date: 2026-10-15T19:26:00.000+02:00
 date-updated: 2026-10-15T19:26:00.000+02:00
 article-order: 10
 uid: IA-deliberacion-limites
+title: What AI cannot decide for us. The limits of artificial deliberation
+description: What AI cannot decide for us. The limits of artificial deliberation
+author: Olivier Schulbaum & Cristian Palazzi
+author_uids:
+  - olivier-schulbaum
+  - cristian-palazzi
 interviewee: José Luis Martí
 cover:
   path: /media/articles/heroes/jose.png
