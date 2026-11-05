@@ -48,8 +48,6 @@ GRID stems from that question. It explores whether a situated, polyphonic AI can
 
 {% questions { "items": [{"question":"Is it possible to specify the location from which an AI ‘speaks’?"},{"question":"Is it possible to design a system that preserves what makes a conversation politically productive: the uncomfortable question, the contradiction, the minority position, the experience that is difficult to translate?"},{"question":"Can we make the values we program into the machine explicit, and open to debate? "}] } %}
 
-
-
 ## **Story of me: Why do we believe this issue is relevant?**
 
 AI is already becoming part of the infrastructure of democratic participation. The OECD identifies [nine application categories](https://www.oecd.org/en/publications/artificial-intelligence-and-the-future-of-citizen-participation_a1ee2e0a-en.html): ranging from translation and transcription to facilitation, simulation, and process architecture, but insists that its adoption must preserve democratic values, transparency, the protection of civic space, and citizen participation in the governance of these systems.
@@ -135,18 +133,6 @@ But that process is never neutral. The corpus consulted, the categories used, th
 
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-10-15-a-las-18.49.54.png"}] } %}
 
-### **The Voice of the Collective and Its Interaction with GRID**
-
-GRID’s architecture is based on a fundamental distinction: the voice of the collective is not something that AI can generate on its own. The question is, rather, how GRID can serve as a tool for that voice.
-
-In the methodologies that inform its body of work, collective knowledge emerges from the interaction between situated experiences, disagreements, bodies, narratives, and possibilities for action. In Teatro Legislativo, people cease to be an audience and become *spect-actors*: they intervene, test strategies, and produce knowledge based on situations that affect them. Participation takes on special value when those affected are not treated as sources of information, but as co-creators capable of transforming lived experience into language and political action.
-
-GRID engages with that voice as a dialogue partner and facilitator, not as a representative. In response to a group’s contributions, it can draw on relevant concepts, cases, or methods; point out tensions and missing perspectives; or offer different interpretations from the perspectives of the Joker, the Philosopher, and the Deliberator. But these responses remain open to correction, rejection, or reformulation by the participants.
-
-The cycle could be described as follows: the collective contributes its experience and formulates the problem; GRID provides different, well-founded, and traceable interpretations; the collective evaluates, discusses, and modifies them; and the final synthesis is returned to the collective. GRID does not attempt to speak on behalf of the collective, but rather to create conditions that allow the collective to listen, evaluate, and better develop its own voices.
-
-Its function is not to automatically produce consensus, but to bring differences to light in a way that is sufficiently visible so that they can be examined: which interpretation is useful to us, which one does not represent us, what experience is missing, and what questions we should ask those who are not present. Authority over meaning and over any subsequent decision remains with the participants.
-
 ### **From the Heart of the Beast to the Radical Server**
 
 There is still one layer of the infrastructure we want to bring to light: where the artificial intelligence we use actually takes place.
@@ -157,17 +143,13 @@ That is why the first version of GRID has been deliberately developed at the hea
 
 But that convenience introduces a fundamental dependency. Even though we decide which documents GRID consults, how we organize the corpus, or what instructions we give the agent, the engine that performs the inference remains beyond our control. We do not decide how the base model has been trained, what updates it receives, or what transformations it may undergo. We control part of GRID’s epistemology, but not its entire infrastructure.
 
-This tension is not an obstacle—it is part of the experiment. It forces us to ask ourselves just how far a deliberative tool can go when its capabilities depend on a remote, proprietary, and constantly evolving infrastructure.
+{% quote %} It is neither a finished product nor a demonstration of technical capabilities, but rather a research tool that is built as it is used{% endquote %}
 
 At the same time, we are developing a second architecture that we call the **“radical server.”** The idea is to take the experiment in the opposite direction: to radically reduce the necessary infrastructure to the point of attempting to run the system on everyday hardware under our control—in our case, a television’s processor.
-
-This isn’t about building a smaller ChatGPT or competing with OpenAI in terms of general capability. The question is a different one: How much intelligence do we really need to facilitate a situated, democratic conversation? A massive model is designed to respond to millions of people on virtually any topic. GRID has a much more limited task: to retrieve a specific corpus, interpret a question from certain perspectives, compare frameworks, and return materials useful for deliberation.
 
 The radical server explores whether, by narrowing the universe of knowledge and making explicit the rules by which that knowledge is mobilized, we can also reduce the amount of computation, energy, and technological dependence required. It does not seek to know everything, but rather to know where to look, to recognize the limits of what it contains, and to work intensively with a curated archive governed by the community that uses it.
 
 This second approach is also part of Platoniq’s experimental method: prototyping under real-world conditions, accepting limitations, and turning them into questions. A local model may be less capable, slower, or prone to different kinds of errors. But it can open up the possibility of deliberative infrastructures that do not constantly send conversations to large data centers and that can operate in community centers, schools, libraries, or spaces with limited connectivity.
-
-Nor do we want to romanticize the local. Decentralizing the infrastructure does not eliminate power—it shifts the venue where that power must be discussed. Decisions will have to be made about who maintains the model, who selects the corpus, who can modify it, how it is updated, and how its limitations are made visible.ChatGPT funciona como laboratorio de máxima capacidad: nos permite descubrir rápidamente qué puede llegar a hacer GRID. El radical server funciona como laboratorio de mínima infraestructura: nos obliga a preguntarnos cuál es la cantidad mínima de modelo, energía, datos y dependencia tecnológica necesaria para producir una herramienta deliberativa útil.
 
 The tension between these two prototypes is, in itself, the experiment. We are not merely seeking to compare performance, but to investigate something more political: what kind of artificial intelligence can exist when scale, ownership of the infrastructure, and the limits of knowledge also become democratic decisions.
 
