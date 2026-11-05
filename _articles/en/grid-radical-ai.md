@@ -23,7 +23,7 @@ author_uids:
   - platoniq
 interviewee: null
 cover:
-  path: /media/articles/heroes/grid.png
+  path: /media/articles/heroes/dibujo-y-elemento-blanco.png
   mobile: /media/articles/mobile/grid.png
   thumbnail: /media/articles/thumbnails/grid.png
 related_article_uids:

@@ -18,7 +18,7 @@ author: Fundación Platoniq
 author_uids:
   - platoniq
 cover:
-  path: /media/articles/heroes/grid.png
+  path: /media/articles/heroes/dibujo-y-elemento-blanco.png
   mobile: /media/articles/mobile/grid.png
   thumbnail: /media/articles/thumbnails/grid.png
   alt: GRID
