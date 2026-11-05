@@ -66,16 +66,13 @@ That last point is decisive. Small *prompting* decisions can reduce the complexi
 
 GRID takes a deliberately different stance from the [Habermas Machine](https://habermasmachine.ai/), the experiment [developed by Google DeepMind](https://github.com/google-deepmind/habermas_machine). Not because finding points of agreement is without value, but because we are interested in asking what happens when agreement becomes the goal that the machine itself is designed to optimize.
 
-The Habermas Machine receives the positions of a group and produces successive collective formulations, seeking those that garner the most approval. Its experiments show that these formulations can be perceived as clearer, more informative, and more acceptable than those developed by human mediators, and that they can increase convergence among participants.
-
-GRID starts from the opposite premise. We don’t want to build a machine that finds the best formulation of consensus, but rather a machine that allows us to observe what happens to disagreement when an AI intervenes. That’s why its architecture incorporates different perspectives, Joker, Philosopher, and Deliberator, and a layer of self-awareness capable of questioning the operations of the other three. The goal is not for them to end up saying the same thing, but to see when they perceive things differently, what knowledge they draw upon, what experiences they leave out, and what happens when those differences are brought back to the attention of the participants.
+The Habermas Machine receives the positions of a group and produces successive collective formulations, seeking those that garner the most approval. GRID starts from the opposite premise. We don’t want to build a machine that finds the best formulation of consensus, but rather a machine that allows us to observe what happens to disagreement when an AI intervenes. 
 
 This difference also affects where authority resides. In the Habermas Machine, the AI proposes an increasingly acceptable collective formulation. In GRID, any synthesis should be open to interruption, discussion, rejection, or rewriting by the collective. The AI does not determine when sufficient agreement has been reached or which disagreements are dispensable. Those remain political questions.
 
-The Habermas Machine asks: “What formulation can bring us together?”
-GRID asks: “What does this machine do to produce that formulation, what does it leave out, and who can discuss it?”
+The Habermas Machine asks: “What formulation can bring us together?” GRID asks: “What does this machine do to produce that formulation, what does it leave out, and who can discuss it?”
 
-GRID does not aspire to bias-free artificial intelligence or a neutral democracy. It aims to build a framework in which it is possible to observe, compare, and discuss what knowledge, criteria, exclusions, and conceptions of democracy come into play when AI participates in the production of meaning.
+Read [our interview](https://journal.platoniq.net/en/wilder-journal-3/interviews/ia-deliberacion-limites/) with José Luís Martí about this experiment.
 
 ## **Story of Us: Objective Data Supporting the Idea**
 
