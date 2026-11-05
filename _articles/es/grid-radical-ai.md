@@ -85,7 +85,7 @@ Algunas de estas funciones ya están extendidas: interpretar y organizar grandes
 
 Hay experimentos que desplazan aún más la pregunta: no solo qué puede hacer una IA, sino desde dónde habla. En España, Afroféminas ha desarrollado proyectos especialmente sugerentes. Su [GPT Socrático](https://afrofeminas.com/category/afrofeminasgpt/) no se limita a dar respuestas: devuelve preguntas y convierte la conversación en un ejercicio de pensamiento crítico. Salud Negra IA construye un agente alrededor de un campo concreto: la salud de las mujeres negras, desde una posición explícitamente antirracista y afrofeminista.
 
-Estos casos hacen visible algo que normalmente queda oculto tras la interfaz: una IA no tiene por qué aspirar a hablar desde un conocimiento universal. Puede declarar desde qué corpus, qué posición epistemológica y qué comunidad de problemas ha sido construida. La cuestión deja de ser únicamente qué modelo utilizamos para incluir quién selecciona el conocimiento, qué queda fuera y qué responsabilidad humana existe detrás de esa selección.
+{% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2026-11-05-a-las-12.35.36.png"}] } %}
 
 Los beneficios potenciales son reales: reducir costes, ampliar la accesibilidad, sintetizar miles de aportaciones o sostener procesos que de otro modo serían difíciles de gestionar. Pero la misma literatura introduce un límite político fundamental: la IA no puede sustituir la voluntad política de tomar en serio la perspectiva ciudadana, la decisión democrática ni la responsabilidad humana.
 
@@ -99,11 +99,11 @@ Por eso, en GRID el Joker no representa a “los oprimidos”, el Filósofo no r
 
 La arquitectura de GRID parte de una pregunta concreta: ¿qué ocurre si, en lugar de pedir a una única IA que adopte la voz aparentemente neutral de “el facilitador”, mantenemos dentro del sistema distintas maneras humanas de mirar, preguntar y acompañar una deliberación?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yiBaevPeuCY?si=7d8w8n4C2l259C5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Detrás de las personalidades de GRID no hay solo *prompts*. Hay personas, prácticas y comunidades concretas. El Filósofo se construye en diálogo con Cristian Palazzi, responsable de incidencia en Platoniq y doctor en Filosofía. El Joker recoge aprendizajes vinculados a Katy Rubin, discípula de Augusto Boal y experta en Teatro Legislativo, y a Olivier Schulbaum, director estratégico de Platoniq. El Deliberator nace del trabajo colectivo de los partners del proyecto europeo INSPIRE.
 
 Esto no significa crear avatares digitales de esas personas ni hablar en su nombre. Significa reconocer que cada personalidad tiene una genealogía humana: alguien formuló antes esas preguntas, desarrolló determinadas prácticas y tomó decisiones sobre qué significa facilitar, interpretar o intervenir. Una arquitectura situada debería poder responder a la pregunta: ¿quién está detrás de la manera en que esta máquina me devuelve el problema?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yiBaevPeuCY?si=7d8w8n4C2l259C5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 El **Joker** es la personalidad más práctica, provocadora y escénica. Mira los problemas como relaciones de poder que pueden hacerse visibles, representarse y transformarse mediante intervención colectiva. No se limita a explicar una situación: pregunta qué escena la muestra, quién puede actuar, qué reglas o instituciones la sostienen y qué podría ensayarse de otra manera. Su función es perturbar consensos demasiado fáciles e introducir imaginación democrática.
 
