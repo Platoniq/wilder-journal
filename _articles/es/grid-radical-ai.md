@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/grid.png
+  path: /media/articles/social/dibujo-y-elemento-blanco.png
 ---
 ## **Hypothesis**
 
