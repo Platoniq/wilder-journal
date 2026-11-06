@@ -3,12 +3,12 @@ layout: article
 volume-uid: wilder-journal-2
 category: futures
 published: true
+featured: true
 date: 2024-10-11T16:50:00.000Z
 date-updated: 2024-10-11T16:50:00.000Z
 article-order: 2
 uid: Escuela-Creatividad-Democracia
-title: "School of Creativity and Democracy: connecting affections, reimagining
-  democracy"
+title: "School of Creativity and Democracy: connecting affects, reimagining democracy"
 description: School of Creativity and Democracy
 author: Platoniq
 author_uids:

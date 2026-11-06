@@ -3,6 +3,7 @@ layout: article
 volume-uid: wilder-journal-2
 category: futures
 published: true
+featured: true
 date: 2024-10-11T16:50:00.000Z
 date-updated: 2024-10-11T16:50:00.000Z
 article-order: 2
