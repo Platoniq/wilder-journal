@@ -32,6 +32,8 @@ image:
 ---
 **Jason Forrest** is a designer, artist, and researcher specializing in data visualization, with a career that spans electronic music, the visual arts, technology, and communication. He was director of the Data Visualization Lab at McKinsey & Company, founded *Nightingale*, the journal of the Data Visualization Society, and currently runs the Jason Forrest Agency and, together with artist Jen Ray, develops **Data Vandals**, a project that brings data to the streets through art installations and participatory experiences.
 
+📸 by Mark Shaw
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ebbxbj6E0Vo?si=AprJmw-XqxSZQEw6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In this conversation, we explore how visualization can become a tool for sparking public dialogue, challenging traditional ways of representing reality, and expanding communities’ democratic capacities. From the graphic pioneers of W. E. B. Du Bois and the Isotype system to urban interventions in New York, London, and Los Angeles, Forrest invites us to rethink data literacy, the relationship between knowledge and power, and the role of emotion and public space in civic engagement. His approach shifts the focus from graphics to people: **data should not serve merely to explain the world or convince an audience, but to foster encounters, make shared experiences visible, and open conversations capable of transforming the way we live together.**
