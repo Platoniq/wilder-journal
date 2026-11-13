@@ -34,7 +34,7 @@ call_to_action: cta-newsletter
 image:
   path: /media/articles/social/captura-de-pantalla-2025-12-23-a-las-11.05.30.png
 ---
-En Platoniq, a menudo nos preguntamos qué se necesita para crear un espacio online donde la gente pueda respirar, un espacio que admita el desacuerdo sin causar daño, que escuche sin grabar y que proteja sin encerrar. El trabajo de Hera Hussein con [Chayn](https://www.chayn.co/) parece una respuesta a esa pregunta: un acto de ingeniería feminista donde el cuidado se convierte en una forma de código.
+En Platoniq, a menudo nos preguntamos qué se necesita para crear un espacio online donde la gente pueda respirar, un espacio que admita el desacuerdo sin causar daño, que escuche sin grabar y que proteja sin encerrar. El trabajo de Hera Hussin con [Chayn](https://www.chayn.co/) parece una respuesta a esa pregunta: un acto de ingeniería feminista donde el cuidado se convierte en una forma de código.
 
 ### **Tu trabajo con Chayn ha transformado la forma en que la tecnología puede apoyar a las supervivientes de la violencia de género. ¿Cómo te llevó tu recorrido personal a fundar Chayn y a abordar la tecnología desde una mirada feminista?**
 
@@ -44,7 +44,7 @@ Lo que me impactó fue lo difícil que les resultaba encontrar apoyo. Les costab
 
 Decidí crear Chayn porque no encontraba esa información en línea y porque estaba convencida de que, en una era digital, deberían existir espacios online donde las personas pudieran encontrar ayuda. Especialmente para quienes no se sienten capaces de llamar por teléfono o de acudir físicamente a un lugar. Tenía que haber un espacio donde pudieran hacerlo de forma privada y en sus propios términos. Ese fue el origen de Chayn.
 
-{% gallery { "simple": false, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp","alt":"Hera Hussein","caption":"@Hera Hussein","credits":"Medium"}] } %}
+{% gallery { "simple": false, "images": [{"path":"/media/1_o7wxsxo6rrwuhoflx5qjqq.webp","alt":"Hera Hussain","caption":"@Hera Hussain","credits":"Medium"}] } %}
 
 ### **En el proyecto INSPIRE, trabajamos en la creación de espacios digitales seguros (o más seguros) para la participación democrática (entendiendo que la «seguridad» es siempre un proceso, no una condición fija); espacios que sean inclusivos, interseccionales y transparentes, pero también seguros desde el punto de vista emocional y psicológico. Según tu experiencia, ¿cuáles diría que son las dimensiones más ignoradas en los espacios de participación digital?**
 
