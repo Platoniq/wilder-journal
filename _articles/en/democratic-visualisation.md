@@ -8,8 +8,7 @@ date: 2026-08-11T15:05:00.000+02:00
 date-updated: 2026-08-11T15:05:00.000+02:00
 article-order: 2
 uid: democratic-visualisation
-title: "Drawing Democracy: Illustration, Collective Sense-Making and Visual
-  Resistance"
+title: "Drawing democracy:  collective illustration and visual resistance"
 description: "Drawing Democracy: Illustration, Collective Sense-Making and
   Visual Resistance"
 author: Olivier Schulbaum

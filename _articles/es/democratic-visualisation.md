@@ -10,8 +10,7 @@ article-order: 2
 uid: democratic-visualisation
 title: "Dibujando la democracia: ilustración, construcción colectiva de sentido
   y resistencia visual"
-description: "Dibujando la democracia: ilustración, construcción colectiva de
-  sentido y resistencia visual"
+description: "Dibujando la democracia: ilustración colectiva y resistencia visual"
 author: Olivier Schulbaum
 author_uids:
   - olivier-schulbaum
