@@ -38,6 +38,8 @@ image:
 ---
 Conversamos con **Samra Said** sobre el teatro legislativo como práctica de cocreación, visualización y toma democrática de decisiones. A partir de proyectos desarrollados en Belfast, Haringey, Coventry y Medway, Said reflexiona sobre lo que ocurre antes de una representación, cómo las personas con experiencia directa del sinhogarismo contribuyen a definir las políticas públicas, qué hace falta para mantener los compromisos después y por qué la imaginación, la confianza y el juego deben tener un lugar en los espacios políticos.
 
+### **Cuando el teatro transforma a quienes participan**
+
 **Olivier: ¿Hay algún proyecto de teatro legislativo, o algún momento concreto, que se te haya quedado grabado? Puede ser una escena, una intervención del público, algo que alguien dijera después o un cambio en una política pública.**
 
 **Samra Said:** Pienso en nuestro proyecto más reciente. Lo que de verdad se me ha quedado grabado es la transformación de los actores y las actrices que participaron. Algunas personas llegaron al primer ensayo muy tímidas, muy reservadas, nada extrovertidas. Al final se habían transformado por completo gracias a su participación, su confianza, su creatividad y lo que habían creado artísticamente.
@@ -47,6 +49,8 @@ Una de esas personas nos escribió después de un ensayo y nos dijo: «He escrit
 Es increíble cómo, cuando incorporas al ensayo otras formas creativas además del teatro, pueden suceder cosas mágicas. Aquella persona nunca había escrito poesía. Ni siquiera sabía que tenía esa faceta creativa, y ahora la ha descubierto. Fue extraordinario presenciarlo, y fue posible gracias a un proceso de teatro legislativo.
 
 El proyecto se llamaba Renters Voice Legislative Theatre y tuvo lugar en Belfast, Irlanda del Norte. Reunimos a personas que viven de alquiler en viviendas privadas de toda Irlanda del Norte para trabajar sobre la prevención del sinhogarismo en el mercado privado del alquiler. Participaron unos nueve intérpretes y un público de alrededor de cien personas de Belfast.
+
+### **El ensayo: confianza, cuidados y transformación**
 
 **Olivier: Parece que el ensayo es el lugar donde ocurre gran parte de esa transformación. ¿Qué pasa en esa sala que el público que ve el resultado final nunca llega a conocer?**
 
@@ -78,6 +82,8 @@ Debería sentirse distinto de una reunión convencional del ayuntamiento o de un
 
 ¿Cómo cambiamos esa conversación? Este es un proyecto colectivo. Las propuestas surgieron de la ciudadanía, del público y de los intérpretes. Todos tenemos la responsabilidad de hacerlas pasar de pendientes a cumplidas.
 
+### **Del escenario a las políticas públicas: cómo sostener los compromisos**
+
 **Olivier: Cuando las recomendaciones llegan al despacho de un responsable político, pueden institucionalizarse y perder la energía y el sentido del proceso que las produjo. Las personas que las cocrearon también pueden perderles la pista. ¿Cómo evitáis que suceda?**
 
 **Samra Said:** Katie Rubin nos ha enseñado mucho sobre la importancia de hacer seguimiento de los compromisos. Creamos una herramienta de seguimiento de políticas, la compartimos con las organizaciones aliadas y decidimos desde el principio quién se responsabiliza de cada paso.
@@ -89,6 +95,8 @@ Ese es exactamente el tipo de cambio que queremos. No queremos ser los únicos c
 **Olivier: Nosotros también hemos trabajado con Katie en digitalizar el seguimiento, incluida una herramienta online para rastrear el estado de las propuestas y unas cartas de tarot de teatro legislativo que invitan a los responsables políticos a imaginar el futuro de las recomendaciones y su adopción. Es otra manera de mantener visibles esos compromisos.**
 
 **Samra Said:** ¡Me encantaría ver esas cartas! Suena realmente, realmente divertido.
+
+### **Escuchar las experiencias del sinhogarismo para cambiar las políticas**
 
 **Olivier: Pasemos al sinhogarismo, que ocupa un lugar central en vuestro trabajo. ¿Qué hace que el teatro legislativo sea especialmente potente en este ámbito? También me interesa la relación con el espacio, aunque sé que comparar una sala de ensayos con un hogar temporal puede resultar problemático.**
 
@@ -128,6 +136,8 @@ Esto demuestra a los ayuntamientos y a otras instituciones que existen alternati
 
 En Haringey y Medway, los grupos de seguimiento se mantuvieron durante aproximadamente un año y medio. En Medway, uno de los legados más importantes fue transferir el Foro de Arte y Sinhogarismo a la comunidad, que ahora lo dirige junto con el ayuntamiento. Están haciendo un trabajo fenomenal, incluida la creación de un memorial para las personas afectadas por el sinhogarismo. Ese es el tipo de legado que importa.
 
+### **Hacer visibles los datos, los obstáculos y las relaciones de poder**
+
 **Olivier: ¿Podríamos entender el teatro legislativo como una forma de visualización? En nuestra investigación nos interesan las prácticas visuales que hacen visibles los obstáculos, las relaciones de poder y los sistemas, más allá de la visualización de datos convencional. ¿Cómo incorporáis los datos a un proceso teatral?**
 
 **Samra Said:** No tenemos ningún problema con los datos, en absoluto. Entre ensayos dedicamos tiempo a investigar. Preguntamos a los actores: estos son los problemas que estáis identificando, ¿qué necesitamos saber sobre ellos? ¿Qué dice la legislación? ¿De qué pruebas disponemos?
@@ -153,6 +163,8 @@ Cuando pedimos a la gente que hablara con quien tenía al lado para debatir posi
 También hubo desacuerdo. Alguien expresó el temor de que, si se aprobaban todos los cambios propuestos, los propietarios dejarían de alquilar sus viviendas. Ese miedo pasó a formar parte de la conversación. Tenemos que hacer espacio para esas preocupaciones y, al mismo tiempo, insistir en que podemos imaginar un mercado del alquiler más justo. Somos seres humanos y deberíamos poder vivir en una sociedad justa y equitativa.
 
 Creo que podríamos hacer mucho más para integrar diferentes tipos de conocimiento desde el principio. Por ejemplo, ¿quiénes son los analistas de datos o las personas que trabajan con enfoques imaginativos dentro del ayuntamiento? ¿Podrían formar parte del proceso creativo antes, en lugar de que toda la investigación recayera en nosotros? Esa es una de las grandes reflexiones que me llevo.
+
+### **Poesía, música y otras formas de imaginar el cambio**
 
 **Olivier: Y quizá los participantes podrían elegir su propio lenguaje para interpretar o expresar esa información: danza, poesía, palabra hablada u otras formas más allá del teatro legislativo. ¿Habéis incorporado estas prácticas artísticas a vuestros proyectos?**
 
