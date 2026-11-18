@@ -134,6 +134,8 @@ Rather than asking citizens to respond to an email or a document sitting on a we
 
 And we make commitments back to the audience: we will send you the report by a particular date; we will share the video; we will let you know what happens next. These become an archive of a real process, including changes that have actually taken place.
 
+{% quote %}We need to know, from the beginning, who is going to take the commitment forward, who is answerable for it and who will follow up with the policy team.{% endquote %}
+
 It shows councils and other institutions that there are alternatives to conventional consultation and co-production. You can make the process more engaging, more creative and more enjoyable, but it requires funding. Above all, it requires time. We need to know, from the beginning, who is going to take the commitment forward, who is answerable for it and who will follow up with the policy team.
 
 In Haringey and Medway, scrutiny panels continued for around a year and a half. In Medway, one of the strongest legacies was handing over the Arts and Homelessness Forum to the community, who now lead it with the council. They are doing phenomenal work, including developing a memorial for people affected by homelessness. That is the kind of legacy that matters.
@@ -149,6 +151,8 @@ Something distinctive about several of our processes is that the actors are roug
 We use data to strengthen our understanding of the issue. And we often say to a council: it doesn't matter if you tell us that a service already exists if the people who are supposed to access it don't know about it or aren't accessing it. Something isn't working. So how can we change that, or co-create a different version with the people who need it?
 
 In Medway, I remember a scene using a big book of legislation as an image. We wanted to make the weight of the law visible in the scene itself. In Belfast, we also used percentages and information about the private rented sector. There were slides displaying current data as the audience entered, and we installed visual artworks made during rehearsals throughout the venue. Those artistic outputs also appeared in the report.
+
+{% gallery { "simple": true, "images": [{"path":"/media/1lt.jpg"}] } %}
 
 There is a world in which numbers, research, lived experience and artistic expression can be combined. We want people who connect with one form of knowledge to encounter the others.
 

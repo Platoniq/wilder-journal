@@ -140,6 +140,8 @@ En lugar de pedir a la ciudadanía que responda a un correo electrónico o a un 
 
 Y asumimos compromisos ante el público: os enviaremos el informe en una fecha determinada; compartiremos el vídeo; os contaremos qué sucede después. Todo ello se convierte en un archivo de un proceso real, incluidos los cambios que efectivamente se han producido.
 
+{% quote %}Necesitamos saber desde el principio quién va a llevar adelante cada compromiso, quién rendirá cuentas y quién se encargará de hacer el seguimiento con el equipo político.{% endquote %}
+
 Esto demuestra a los ayuntamientos y a otras instituciones que existen alternativas a la consulta y la coproducción convencionales. Puedes hacer que el proceso resulte más participativo, más creativo y más disfrutable, pero para ello hace falta financiación. Y, sobre todo, hace falta tiempo. Necesitamos saber desde el principio quién va a llevar adelante cada compromiso, quién rendirá cuentas y quién se encargará de hacer el seguimiento con el equipo político.
 
 En Haringey y Medway, los grupos de seguimiento se mantuvieron durante aproximadamente un año y medio. En Medway, uno de los legados más importantes fue transferir el Foro de Arte y Sinhogarismo a la comunidad, que ahora lo dirige junto con el ayuntamiento. Están haciendo un trabajo fenomenal, incluida la creación de un memorial para las personas afectadas por el sinhogarismo. Ese es el tipo de legado que importa.
@@ -155,6 +157,8 @@ Algo distintivo de varios de nuestros procesos es que aproximadamente la mitad d
 Utilizamos los datos para reforzar nuestra comprensión del problema. Y a menudo le decimos a un ayuntamiento: no importa que nos digáis que un servicio ya existe si las personas que deberían utilizarlo no saben que existe o no están accediendo a él. Algo no funciona. Por tanto, ¿cómo podemos cambiarlo o cocrear una versión diferente con quienes lo necesitan?
 
 En Medway recuerdo una escena que utilizaba un gran libro de legislación como imagen. Queríamos hacer visible el peso de la ley dentro de la propia escena. En Belfast también utilizamos porcentajes e información sobre el mercado privado del alquiler. Mientras el público entraba, se proyectaban diapositivas con datos actuales, e instalamos por todo el espacio las obras visuales que se habían creado durante los ensayos. Esas producciones artísticas también aparecieron en el informe.
+
+{% gallery { "simple": true, "images": [{"path":"/media/1lt.jpg"}] } %}
 
 Existe un mundo en el que los números, la investigación, las experiencias vividas y la expresión artística pueden combinarse. Queremos que las personas que conectan con una forma de conocimiento puedan encontrarse también con las demás.
 
