@@ -46,6 +46,8 @@ It is amazing how, when you bring creative outlets other than theatre into a reh
 
 The project was called Renters Voice Legislative Theatre, in Belfast, Northern Ireland. We brought together private renters from across Northern Ireland to work on homelessness prevention in the private rented sector. We worked with about nine actors and an audience of around 100 people from Belfast.
 
+https://youtu.be/foleR5adfME?si=E8rjUq3_o0cpI3U-
+
 **Olivier: The rehearsal seems to be where much of the transformation happens. What do you see taking place in that room that the final audience never sees?**
 
 **Samra Said:** First of all, I never take trust lightly. Trust is always in the room, even if it is not something you can immediately see. We build it through games, playfulness and silliness, through spending time together. The audience sees confident actors on stage, but it doesn't see the trust-building that began in rehearsals: the willingness to share lived experiences, to recognise a common problem and to believe that we might change something together.

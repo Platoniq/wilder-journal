@@ -50,6 +50,8 @@ Es increíble cómo, cuando incorporas al ensayo otras formas creativas además 
 
 El proyecto se llamaba Renters Voice Legislative Theatre y tuvo lugar en Belfast, Irlanda del Norte. Reunimos a personas que viven de alquiler en viviendas privadas de toda Irlanda del Norte para trabajar sobre la prevención del sinhogarismo en el mercado privado del alquiler. Participaron unos nueve intérpretes y un público de alrededor de cien personas de Belfast.
 
+https://youtu.be/foleR5adfME?si=E8rjUq3_o0cpI3U-
+
 ### **El ensayo: confianza, cuidados y transformación**
 
 **Olivier: Parece que el ensayo es el lugar donde ocurre gran parte de esa transformación. ¿Qué pasa en esa sala que el público que ve el resultado final nunca llega a conocer?**
