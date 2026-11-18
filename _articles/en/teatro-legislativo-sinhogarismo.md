@@ -23,7 +23,7 @@ interviewee: Samra Said
 cover:
   path: /media/articles/heroes/retrato-profesional-con-hiyab-estampado.png
   mobile: /media/articles/mobile/retrato-profesional-con-hiyab-estampado.png
-  thumbnail: /assets/media/no_image-thumbnail.png
+  thumbnail: /media/articles/thumbnails/retrato-profesional-con-hiyab-estampado.png
 stickers:
   layout: layout-none
   sticker_one_animation: animation-none
