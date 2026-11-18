@@ -68,6 +68,8 @@ Pero también hay algo que el público no ve después. En Arts & Homelessness In
 
 Por ejemplo, en Medway, en Kent, una de las personas que actuaron era profesional independiente del ámbito creativo y tenía experiencia directa del sinhogarismo. Ahora es una de nuestras productoras clave en Arts & Homelessness International y está haciendo un trabajo extraordinario en Medway, entre otras cosas liderando el Foro de Arte y Sinhogarismo de la zona y trabajando en el ámbito de las artes y la salud. Otros participantes se convirtieron en trabajadores de apoyo entre iguales. Estas relaciones nacieron en la sala de ensayos, al conocernos y construir confianza, pero continuaron porque asumimos el compromiso de seguir trabajando juntos.
 
+{% gallery { "simple": true, "images": [{"path":"/media/ahi_colour_cmyk.png"}] } %}
+
 Existimos para generar cambios positivos en las personas, los proyectos y las políticas públicas. Y ese cambio también incluye a los responsables políticos. Hay mucho trabajo que hacer con los equipos institucionales alrededor del poder: ¿cuánto poder tienes y cómo lo entiendes y lo utilizas? A veces alguien dice: «Me encantaría comprometerme con esto, pero tengo que consultarlo con mi equipo». Por supuesto que existen procedimientos organizativos, pero en esa representación también están presentes como directores o responsables de un servicio. Sí tienen poder.
 
 Antes yo daba por hecho que los altos cargos se sentirían cómodos con eso. A menudo no es así. Puede preocuparles que los ataquen o que la gente espere de ellos cosas que no pueden cumplir por restricciones presupuestarias. También tenemos que verlos como seres humanos que quieren formar parte del proceso. Es extraordinario ver cómo pasan del escepticismo a defenderlo activamente.
@@ -92,6 +94,8 @@ Debería sentirse distinto de una reunión convencional del ayuntamiento o de un
 
 En nuestro proyecto más reciente de Belfast, Arts & Homelessness International apoya ese trabajo, pero Housing Rights lo lidera. Kerry Logan, que cofacilitó el proceso, es un magnífico ejemplo de por qué eso importa. Originalmente fue quien nos encargó un proyecto. Después, como parte de su legado, organizamos con Katie Rubin una formación para unas veinte personas del ámbito profesional en Belfast, incluida Kerry. Pasó de encargar el proyecto a coordinarlo y, finalmente, a cofacilitarlo.
 
+{% quote %}¿Cómo garantizamos que otras personas tengan los recursos, los conocimientos, las herramientas y, sobre todo, la oportunidad de poner en práctica lo aprendido?{% endquote %}
+
 Ese es exactamente el tipo de cambio que queremos. No queremos ser los únicos capaces de hacerlo. ¿Cómo garantizamos que otras personas tengan los recursos, los conocimientos, las herramientas y, sobre todo, la oportunidad de poner en práctica lo aprendido? En el último proceso lo cofacilitamos, codiseñamos y codirigimos todo. Fue divertidísimo.
 
 **Olivier: Nosotros también hemos trabajado con Katie en digitalizar el seguimiento, incluida una herramienta online para rastrear el estado de las propuestas y unas cartas de tarot de teatro legislativo que invitan a los responsables políticos a imaginar el futuro de las recomendaciones y su adopción. Es otra manera de mantener visibles esos compromisos.**
@@ -113,6 +117,8 @@ Antes coordinaba la Greater Manchester Homelessness Action Network. Durante ese 
 Aquella experiencia nos ayudó a ver una conexión muy clara entre el teatro legislativo y nuestra misión. Después contactamos con el Ayuntamiento de Haringey, en Londres, cuyo personal en aquel momento desarrollaba un trabajo bastante radical y orientado por valores, para explorar la posibilidad de realizar un proceso de teatro legislativo.
 
 Pero no empezamos suponiendo que tenemos todas las respuestas. Comenzamos con un mapeo. Cuando un ayuntamiento nos contrata, identificamos los servicios de atención al sinhogarismo y las iniciativas artísticas que ya existen en la zona. Visitamos albergues, pensiones y alojamientos provisionales, y lugares donde las personas afectadas pueden acceder a servicios. Hablamos con ellas y nos presentamos. Algunas podrían participar después como intérpretes, así que ahí empieza ya la construcción de confianza. Estamos presentes, escuchamos y dejamos claro que sus aportaciones se tomarán en serio.
+
+{% gallery { "simple": true, "images": [{"path":"/media/image1-2.png"}] } %}
 
 Es una forma de consulta y coproducción, pero todavía no es una cocreación completa. Recogemos experiencias, construimos relaciones y generamos impulso antes de iniciar el proceso de teatro legislativo propiamente dicho.
 

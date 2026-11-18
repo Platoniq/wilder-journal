@@ -62,6 +62,8 @@ But there is also something the audience doesn't see afterwards. At Arts & Homel
 
 For instance, in Medway, Kent, one of the actors was a freelance creative practitioner with lived experience of homelessness. They are now one of our key producers at Arts & Homelessness International and are doing remarkable work in Medway, including leading the local Arts and Homelessness Forum and working in creative health. Other actors became peer workers. These relationships began in that rehearsal room, through getting to know each other and building trust, but they continued because we made a commitment to keep working together.
 
+{% gallery { "simple": true, "images": [{"path":"/media/ahi_colour_cmyk.png"}] } %}
+
 We exist to bring positive change to people, projects and policy. And that change includes policymakers. There is a lot of work to do with the policy team around power: how much power do you have, and how do you understand and use it? Sometimes someone will say, “I would love to commit to this, but I need to run it by my team.” Of course there are organisational processes, but in that performance they are also there in their capacity as a director or head of service. They do have power.
 
 I used to assume that senior policymakers would be comfortable with that. Often they're not. They may worry that they will be attacked or that people will expect them to deliver things they cannot deliver because of budget restrictions. We have to see them as human beings who want to be part of the process, too. It is remarkable when they move from scepticism to advocacy.
@@ -86,7 +88,9 @@ How do we shift that conversation? This is a collective project. The proposals c
 
 In our latest Belfast project, Arts & Homelessness International supports that work, but Housing Rights takes the lead. Kerry Logan, who co-facilitated the process, is a brilliant example of why that matters. She originally commissioned a project with us. Then, as part of its legacy, we arranged training with Katie Rubin for around 20 practitioners in Belfast, including Kerry. She went from commissioning a project to coordinating it and then co-facilitating it.
 
-That is exactly the kind of change we want. We don't want to be the only people who can do this. How can we make sure other people have the resources, knowledge, insight and, importantly, the opportunity to practise? In the latest process we co-facilitated, co-designed and co-directed everything together. It was so much fun.
+{% quote %}How can we make sure other people have the resources, knowledge, insight and, importantly, the opportunity to practise? In the latest process we co-facilitated, co-designed and co-directed everything together. {% endquote %}
+
+How can we make sure other people have the resources, knowledge, insight and, importantly, the opportunity to practise? In the latest process we co-facilitated, co-designed and co-directed everything together. That is exactly the kind of change we want. We don't want to be the only people who can do this. How can we make sure other people have the resources, knowledge, insight and, importantly, the opportunity to practise? In the latest process we co-facilitated, co-designed and co-directed everything together. It was so much fun.
 
 **Olivier: We have also worked with Katie on digitalising the follow-up, including an online policy tracker and legislative theatre tarot cards that invite policymakers to imagine the future adoption of recommendations. It is another way to keep those commitments visible.**
 
@@ -107,6 +111,8 @@ I used to coordinate the Greater Manchester Homelessness Action Network. During 
 That experience helped us see a real connection between legislative theatre and our mission. We then approached Haringey Council in London, whose staff at the time were doing some quite radical and values-led work, about the possibility of a legislative theatre process.
 
 But we don't start by assuming we have all the answers. We begin with a mapping exercise. When a council commissions us, we map the homelessness and arts services that already exist in the area. We visit hostels, bed-and-breakfast accommodation and places where people affected by homelessness access services. We talk with people and introduce ourselves. Some of them may later take part as actors, so that is already the beginning of trust-building. We're showing up, listening and making clear that what people contribute will be taken seriously.
+
+{% gallery { "simple": true, "images": [{"path":"/media/image1-2.png"}] } %}
 
 It is a form of consultation and co-production, but not full co-creation yet. We are hearing experiences, building relationships and creating momentum before starting the legislative theatre process itself.
 
