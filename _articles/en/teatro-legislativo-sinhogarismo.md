@@ -34,6 +34,8 @@ image:
 ---
 We speak with **Samra Said** about legislative theatre as a practice of co-creation, visualisation and democratic decision-making. Drawing on projects in Belfast, Haringey, Coventry and Medway, Said reflects on what happens before a performance, how people with lived experience shape policy, what it takes to sustain commitments afterwards, and why imagination, trust and playfulness belong in political spaces.
 
+### **When theatre transforms those who take part**
+
 **Olivier: Is there a legislative theatre project, or a particular moment in one, that has stayed with you? It could be a scene, an audience intervention, something someone said afterwards, or a policy change.**
 
 **Samra Said:** I think about the most recent project we did, and what has really stayed with me is the transformation of the actors involved. Some arrived at the first rehearsal very timid, very reserved, not outgoing at all. By the end, they had been completely transformed by their participation, their confidence, their creativity and their artistic output.
@@ -64,6 +66,8 @@ I used to assume that senior policymakers would be comfortable with that. Often 
 
 Housing Rights, for example, has now submitted another funding application to integrate legislative theatre into its policy work. The team has brought the method into its own meetings and discussions. That is a huge legacy. But legacy takes time, energy, commitment, a team and a vision. And so much of it starts in the rehearsal room.
 
+### **From the stage to public policy: sustaining commitments**
+
 **Olivier: How do you carry that rehearsal-room mindset into the scrutiny group and the longer-term work of following up with policymakers? Do you use other creative methodologies there as well?**
 
 **Samra Said:** I think that was missing in some of our earlier scrutiny meetings. Creativity is one of our organisational values, so we would always begin with a creative icebreaker, but we weren't necessarily thinking of the whole scrutiny meeting as a creative space.
@@ -85,6 +89,8 @@ That is exactly the kind of change we want. We don't want to be the only people 
 **Olivier: We have also worked with Katie on digitalising the follow-up, including an online policy tracker and legislative theatre tarot cards that invite policymakers to imagine the future adoption of recommendations. It is another way to keep those commitments visible.**
 
 **Samra Said:** I would love to see those cards! That sounds really, really fun.
+
+### **Listening to lived experiences of homelessness to change policy**
 
 **Olivier: Let's turn to homelessness, which is central to your work. What makes legislative theatre particularly powerful in this field? I'm also interested in the relationship to space, although I know that comparing a rehearsal room with a temporary home could be problematic.**
 
@@ -124,6 +130,8 @@ It shows councils and other institutions that there are alternatives to conventi
 
 In Haringey and Medway, scrutiny panels continued for around a year and a half. In Medway, one of the strongest legacies was handing over the Arts and Homelessness Forum to the community, who now lead it with the council. They are doing phenomenal work, including developing a memorial for people affected by homelessness. That is the kind of legacy that matters.
 
+### **Making data, barriers and power relations visible**
+
 **Olivier: Could we understand legislative theatre as a form of visualisation? In our research, we're interested in visual practices that make barriers, power relations and systems visible, not only in conventional data visualisation. How do you bring data into a theatre process?**
 
 **Samra Said:** We don't shy away from data at all. Between rehearsals we have moments of research. We ask the actors: these are the issues you're identifying; what do we need to know about them? What does the legislation say? What evidence do we have?
@@ -150,6 +158,8 @@ There was also dissent. Someone worried that if all the proposed changes were ma
 
 I think we could do much more to integrate different kinds of knowledge from the very beginning. For example, who are the data analysts or the people working on imaginative approaches inside the council? Could they be part of the creative process earlier, rather than us taking all the research on ourselves? That is a big takeaway for me.
 
+### **Poetry, music and other ways of imagining change**
+
 **Olivier: And perhaps participants could choose their own language for interpreting or expressing that information — dance, poetry, spoken word or other forms beyond legislative theatre. Have you brought those artistic practices into your projects?**
 
 **Samra Said:** Yes. In Haringey, one of the actors was a singer and began the play with a song. We hadn't planned it in advance. It came out of rehearsal, and we realised how powerful and relevant it was to what we were exploring. Unfortunately we didn't film the whole performance, because we were still working under Covid conditions, but I remember that opening very clearly.
@@ -171,6 +181,8 @@ The turnout was strong, partly because people knew and trusted the space. They k
 In Haringey, we staged the legislative theatre performance in a library. You walked in surrounded by books, then entered a hall within the library. It was a place local people already accessed for the internet, free Wi-Fi and warmth, especially because we were doing the project in winter. Again, people knew how to get there and felt comfortable in the building.
 
 In Belfast we used The MAC, a cultural and artistic venue, and that worked for the people we wanted to reach, too. The point is not that one kind of venue is always better. Choosing the space is an intentional part of designing the process. We think about the actors and the communities we want to involve, and about where people will feel welcome.
+
+### **What if Parliament learned to play?**
 
 **Olivier: In democratic innovation, citizens are often invited into institutional settings and asked to act like policymakers — citizens' assemblies are an obvious example. Even climate assemblies rarely happen in a forest. Imagine you had the budget to transform the way politicians deliberate in Parliament for one day. Instead of their usual discursive methods, perhaps they would have to sing or make theatre. How would you organise that day?**
 
