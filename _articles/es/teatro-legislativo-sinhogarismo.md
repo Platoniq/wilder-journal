@@ -90,15 +90,15 @@ Debería sentirse distinto de una reunión convencional del ayuntamiento o de un
 
 **Olivier: Cuando las recomendaciones llegan al despacho de un responsable político, pueden institucionalizarse y perder la energía y el sentido del proceso que las produjo. Las personas que las cocrearon también pueden perderles la pista. ¿Cómo evitáis que suceda?**
 
-**Samra Said:** Katie Rubin nos ha enseñado mucho sobre la importancia de hacer seguimiento de los compromisos. Creamos una herramienta de seguimiento de políticas, la compartimos con las organizaciones aliadas y decidimos desde el principio quién se responsabiliza de cada paso.
+**Samra Said:** Katy Rubin nos ha enseñado mucho sobre la importancia de hacer seguimiento de los compromisos. Creamos una herramienta de seguimiento de políticas, la compartimos con las organizaciones aliadas y decidimos desde el principio quién se responsabiliza de cada paso.
 
-En nuestro proyecto más reciente de Belfast, Arts & Homelessness International apoya ese trabajo, pero Housing Rights lo lidera. Kerry Logan, que cofacilitó el proceso, es un magnífico ejemplo de por qué eso importa. Originalmente fue quien nos encargó un proyecto. Después, como parte de su legado, organizamos con Katie Rubin una formación para unas veinte personas del ámbito profesional en Belfast, incluida Kerry. Pasó de encargar el proyecto a coordinarlo y, finalmente, a cofacilitarlo.
+En nuestro proyecto más reciente de Belfast, Arts & Homelessness International apoya ese trabajo, pero Housing Rights lo lidera. Kerry Logan, que cofacilitó el proceso, es un magnífico ejemplo de por qué eso importa. Originalmente fue quien nos encargó un proyecto. Después, como parte de su legado, organizamos con Katy Rubin una formación para unas veinte personas del ámbito profesional en Belfast, incluida Kerry. Pasó de encargar el proyecto a coordinarlo y, finalmente, a cofacilitarlo.
 
 {% quote %}¿Cómo garantizamos que otras personas tengan los recursos, los conocimientos, las herramientas y, sobre todo, la oportunidad de poner en práctica lo aprendido?{% endquote %}
 
 Ese es exactamente el tipo de cambio que queremos. No queremos ser los únicos capaces de hacerlo. ¿Cómo garantizamos que otras personas tengan los recursos, los conocimientos, las herramientas y, sobre todo, la oportunidad de poner en práctica lo aprendido? En el último proceso lo cofacilitamos, codiseñamos y codirigimos todo. Fue divertidísimo.
 
-**Olivier: Nosotros también hemos trabajado con Katie en digitalizar el seguimiento, incluida una herramienta online para rastrear el estado de las propuestas y unas cartas de tarot de teatro legislativo que invitan a los responsables políticos a imaginar el futuro de las recomendaciones y su adopción. Es otra manera de mantener visibles esos compromisos.**
+**Olivier: Nosotros también hemos trabajado con Katy en digitalizar el seguimiento, incluida una herramienta online para rastrear el estado de las propuestas y unas cartas de tarot de teatro legislativo que invitan a los responsables políticos a imaginar el futuro de las recomendaciones y su adopción. Es otra manera de mantener visibles esos compromisos.**
 
 **Samra Said:** ¡Me encantaría ver esas cartas! Suena realmente, realmente divertido.
 
@@ -112,7 +112,7 @@ Para nosotros, lo importante es que defendemos que las artes formen parte de los
 
 Si de verdad te tomas en serio la cocreación, necesitas utilizar el arte y las metodologías creativas para involucrar a las personas afectadas. También tienes que transformar una relación que puede ser hostil o estar marcada por la incomprensión entre los ayuntamientos y quienes viven las consecuencias de sus decisiones. Hay buenas razones para que exista esa desconfianza.
 
-Antes coordinaba la Greater Manchester Homelessness Action Network. Durante ese periodo, Katie Rubin introdujo el teatro legislativo en el Gran Mánchester. Yo todavía no trabajaba para Arts & Homelessness International, pero vi lo poderoso que podía ser para una estrategia de prevención del sinhogarismo. Trabajamos sobre tres problemas identificados con un grupo amplio de personas, y las recomendaciones contribuyeron a la estrategia de prevención del sinhogarismo del Gran Mánchester. Hasta hoy, personas de la Greater Manchester Combined Authority han seguido utilizando metodologías creativas e impulsando la formación de profesionales.
+Antes coordinaba la Greater Manchester Homelessness Action Network. Durante ese periodo, Katy Rubin introdujo el teatro legislativo en el Gran Mánchester. Yo todavía no trabajaba para Arts & Homelessness International, pero vi lo poderoso que podía ser para una estrategia de prevención del sinhogarismo. Trabajamos sobre tres problemas identificados con un grupo amplio de personas, y las recomendaciones contribuyeron a la estrategia de prevención del sinhogarismo del Gran Mánchester. Hasta hoy, personas de la Greater Manchester Combined Authority han seguido utilizando metodologías creativas e impulsando la formación de profesionales.
 
 Aquella experiencia nos ayudó a ver una conexión muy clara entre el teatro legislativo y nuestra misión. Después contactamos con el Ayuntamiento de Haringey, en Londres, cuyo personal en aquel momento desarrollaba un trabajo bastante radical y orientado por valores, para explorar la posibilidad de realizar un proceso de teatro legislativo.
 

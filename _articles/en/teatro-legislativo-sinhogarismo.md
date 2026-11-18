@@ -84,15 +84,15 @@ How do we shift that conversation? This is a collective project. The proposals c
 
 **Olivier: Once recommendations reach the desk of a policymaker, they can become institutionalised and lose the energy and meaning of the process that produced them. People who co-created them may also lose track of what happened. How do you avoid that?**
 
-**Samra Said:** Katie Rubin has taught us a lot about the importance of tracking commitments. We establish a policy tracker, share it with partners and decide early on who is responsible for following it up.
+**Samra Said:** Katy Rubin has taught us a lot about the importance of tracking commitments. We establish a policy tracker, share it with partners and decide early on who is responsible for following it up.
 
-In our latest Belfast project, Arts & Homelessness International supports that work, but Housing Rights takes the lead. Kerry Logan, who co-facilitated the process, is a brilliant example of why that matters. She originally commissioned a project with us. Then, as part of its legacy, we arranged training with Katie Rubin for around 20 practitioners in Belfast, including Kerry. She went from commissioning a project to coordinating it and then co-facilitating it.
+In our latest Belfast project, Arts & Homelessness International supports that work, but Housing Rights takes the lead. Kerry Logan, who co-facilitated the process, is a brilliant example of why that matters. She originally commissioned a project with us. Then, as part of its legacy, we arranged training with Katy Rubin for around 20 practitioners in Belfast, including Kerry. She went from commissioning a project to coordinating it and then co-facilitating it.
 
 {% quote %}How can we make sure other people have the resources, knowledge, insight and, importantly, the opportunity to practise? In the latest process we co-facilitated, co-designed and co-directed everything together. {% endquote %}
 
 How can we make sure other people have the resources, knowledge, insight and, importantly, the opportunity to practise? In the latest process we co-facilitated, co-designed and co-directed everything together. That is exactly the kind of change we want. We don't want to be the only people who can do this. How can we make sure other people have the resources, knowledge, insight and, importantly, the opportunity to practise? In the latest process we co-facilitated, co-designed and co-directed everything together. It was so much fun.
 
-**Olivier: We have also worked with Katie on digitalising the follow-up, including an online policy tracker and legislative theatre tarot cards that invite policymakers to imagine the future adoption of recommendations. It is another way to keep those commitments visible.**
+**Olivier: We have also worked with Katy on digitalising the follow-up, including an online policy tracker and legislative theatre tarot cards that invite policymakers to imagine the future adoption of recommendations. It is another way to keep those commitments visible.**
 
 **Samra Said:** I would love to see those cards! That sounds really, really fun.
 
@@ -106,7 +106,7 @@ For us, the important point is that we advocate for the arts to be part of homel
 
 If you're serious about co-creation, you need to use art and creative methods to engage people affected by the issue. You also need to change a relationship that can be hostile or marked by misunderstanding between councils and the people experiencing the consequences of their decisions. There are good reasons why that mistrust exists.
 
-I used to coordinate the Greater Manchester Homelessness Action Network. During that time, Katie Rubin introduced legislative theatre in Greater Manchester. I wasn't working for Arts & Homelessness International then, but I saw how powerful it could be for a homelessness prevention strategy. We worked on three issues identified with a large group of people, and the recommendations contributed to Greater Manchester's homelessness prevention strategy. To this day, people at Greater Manchester Combined Authority have continued to use creative methodologies and support practitioner training.
+I used to coordinate the Greater Manchester Homelessness Action Network. During that time, Katy Rubin introduced legislative theatre in Greater Manchester. I wasn't working for Arts & Homelessness International then, but I saw how powerful it could be for a homelessness prevention strategy. We worked on three issues identified with a large group of people, and the recommendations contributed to Greater Manchester's homelessness prevention strategy. To this day, people at Greater Manchester Combined Authority have continued to use creative methodologies and support practitioner training.
 
 That experience helped us see a real connection between legislative theatre and our mission. We then approached Haringey Council in London, whose staff at the time were doing some quite radical and values-led work, about the possibility of a legislative theatre process.
 
