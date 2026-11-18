@@ -46,7 +46,7 @@ It is amazing how, when you bring creative outlets other than theatre into a reh
 
 The project was called Renters Voice Legislative Theatre, in Belfast, Northern Ireland. We brought together private renters from across Northern Ireland to work on homelessness prevention in the private rented sector. We worked with about nine actors and an audience of around 100 people from Belfast.
 
-https://youtu.be/foleR5adfME?si=E8rjUq3_o0cpI3U-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/foleR5adfME?si=E8rjUq3_o0cpI3U-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Olivier: The rehearsal seems to be where much of the transformation happens. What do you see taking place in that room that the final audience never sees?**
 
