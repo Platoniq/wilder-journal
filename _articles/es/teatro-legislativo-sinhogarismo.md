@@ -34,7 +34,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/retrato-profesional-con-hiyab-estampado.png
 ---
 Conversamos con **Samra Said** sobre el teatro legislativo como práctica de cocreación, visualización y toma democrática de decisiones. A partir de proyectos desarrollados en Belfast, Haringey, Coventry y Medway, Said reflexiona sobre lo que ocurre antes de una representación, cómo las personas con experiencia directa del sinhogarismo contribuyen a definir las políticas públicas, qué hace falta para mantener los compromisos después y por qué la imaginación, la confianza y el juego deben tener un lugar en los espacios políticos.
 

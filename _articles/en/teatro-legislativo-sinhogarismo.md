@@ -30,7 +30,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /assets/media/no_image-social_media.png
+  path: /media/articles/social/retrato-profesional-con-hiyab-estampado.png
 ---
 We speak with **Samra Said** about legislative theatre as a practice of co-creation, visualisation and democratic decision-making. Drawing on projects in Belfast, Haringey, Coventry and Medway, Said reflects on what happens before a performance, how people with lived experience shape policy, what it takes to sustain commitments afterwards, and why imagination, trust and playfulness belong in political spaces.
 
