@@ -38,7 +38,7 @@ We speak with **Samra Said** about legislative theatre as a practice of co-creat
 
 **Olivier: Is there a legislative theatre project, or a particular moment in one, that has stayed with you? It could be a scene, an audience intervention, something someone said afterwards, or a policy change.**
 
-**Samra Said:** I think about the most recent project we did, and what has really stayed with me is the transformation of the actors involved. Some arrived at the first rehearsal very timid, very reserved, not outgoing at all. By the end, they had been completely transformed by their participation, their confidence, their creativity and their artistic output.
+**Samra Said:** I think about the most recent project we did, and what has really stayed with me is the transformation of the actors involved. Some arrived at the first rehearsal feeling reserved and unsure of the process. By the end, they had been completely transformed by their participation, their confidence, their creativity, and their artistic contribution.
 
 One of the actors emailed after a rehearsal and said, “I've written this poem. I've been compiling the lived experiences of everyone in the room. Let me know what you think and whether we can use it in the play.” We did use it, as the final scene. It was really, really powerful. It received such a strong response from the audience and from the other actors, who could recognise their own experiences in different stanzas. There was a real feeling of being held in that space.
 
@@ -60,7 +60,7 @@ And the audience does not necessarily see the transformation of the person who w
 
 But there is also something the audience doesn't see afterwards. At Arts & Homelessness International, and with the partners we work with, we often say that the next day is the most important day. We don't want to finish a performance and then disappear. We build in a scrutiny group, bringing together actors and the policy team, to follow what happens next. We make space for celebration, but also a pathway for people to stay involved. Ideally, we plan that follow-up from the very beginning, when participants first commit to the rehearsals and performance.
 
-For instance, in Medway, Kent, one of the actors was a freelance creative practitioner with lived experience of homelessness. They are now one of our key producers at Arts & Homelessness International and are doing remarkable work in Medway, including leading the local Arts and Homelessness Forum and working in creative health. Other actors became peer workers. These relationships began in that rehearsal room, through getting to know each other and building trust, but they continued because we made a commitment to keep working together.
+For instance, in Medway, Kent, one of the actors was a freelance creative practitioner with lived experience of homelessness. They are now a key producers at Arts & Homelessness International and doing remarkable work in Medway, including leading the local Arts and Homelessness Forum. 
 
 {% gallery { "simple": true, "images": [{"path":"/media/ahi_colour_cmyk.png"}] } %}
 

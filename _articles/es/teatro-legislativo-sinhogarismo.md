@@ -42,7 +42,7 @@ Conversamos con **Samra Said** sobre el teatro legislativo como práctica de coc
 
 **Olivier: ¿Hay algún proyecto de teatro legislativo, o algún momento concreto, que se te haya quedado grabado? Puede ser una escena, una intervención del público, algo que alguien dijera después o un cambio en una política pública.**
 
-**Samra Said:** Pienso en nuestro proyecto más reciente. Lo que de verdad se me ha quedado grabado es la transformación de los actores y las actrices que participaron. Algunas personas llegaron al primer ensayo muy tímidas, muy reservadas, nada extrovertidas. Al final se habían transformado por completo gracias a su participación, su confianza, su creatividad y lo que habían creado artísticamente.
+**Samra Said:** Pienso en el último proyecto que hemos llevado a cabo, y lo que realmente se me ha quedado grabado es la transformación de los actores que participaron en él. Algunos llegaron al primer ensayo mostrándose reservados e inseguros respecto al proceso. Al final, su participación, su confianza, su creatividad y su aportación artística los habían transformado por completo.
 
 Una de esas personas nos escribió después de un ensayo y nos dijo: «He escrito un poema. He reunido las experiencias vividas de todas las personas que estaban en la sala. Decidme qué os parece y si podríamos utilizarlo en la obra». Y lo utilizamos, como escena final. Fue realmente, realmente potente. Tuvo una acogida extraordinaria, tanto entre el público como entre los demás intérpretes, que reconocían sus propias experiencias en distintas estrofas. Había una verdadera sensación de sentirse acogidos y sostenidos en aquel espacio.
 
@@ -66,7 +66,7 @@ Y el público tampoco ve necesariamente la transformación de la persona que esc
 
 Pero también hay algo que el público no ve después. En Arts & Homelessness International, y con las organizaciones con las que trabajamos, solemos decir que el día siguiente es el día más importante. No queremos terminar una representación y desaparecer. Creamos un grupo de seguimiento y escrutinio, en el que participan los intérpretes y el equipo responsable de las políticas públicas, para comprobar qué sucede después. Generamos espacios para celebrar, pero también itinerarios para que las personas sigan implicadas. Lo ideal es planificar ese seguimiento desde el principio, cuando los participantes se comprometen por primera vez con los ensayos y la actuación.
 
-Por ejemplo, en Medway, en Kent, una de las personas que actuaron era profesional independiente del ámbito creativo y tenía experiencia directa del sinhogarismo. Ahora es una de nuestras productoras clave en Arts & Homelessness International y está haciendo un trabajo extraordinario en Medway, entre otras cosas liderando el Foro de Arte y Sinhogarismo de la zona y trabajando en el ámbito de las artes y la salud. Otros participantes se convirtieron en trabajadores de apoyo entre iguales. Estas relaciones nacieron en la sala de ensayos, al conocernos y construir confianza, pero continuaron porque asumimos el compromiso de seguir trabajando juntos.
+Por ejemplo, en Medway, Kent, uno de los participantes era un profesional creativo autónomo con experiencia vivida en la situación de sinhogarismo. Ahora es uno de los principales productores de Arts & Homelessness International y está realizando una labor extraordinaria en Medway, entre otras cosas, dirigiendo el Arts and Homelessness Forum. 
 
 {% gallery { "simple": true, "images": [{"path":"/media/ahi_colour_cmyk.png"}] } %}
 
