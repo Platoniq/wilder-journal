@@ -19,7 +19,7 @@ interviewee: 7amleh
 cover:
   path: /media/articles/heroes/captura-de-pantalla-2026-11-24-a-las-19.23.15.png
   mobile: /media/articles/mobile/captura-de-pantalla-2026-11-24-a-las-19.23.15.png
-  thumbnail: /media/articles/thumbnails/reconexión-sobre-las-ruinas-de-gaza.png
+  thumbnail: /media/articles/thumbnails/captura-de-pantalla-2026-11-24-a-las-19.23.15.png
   alt: 7amleh
   credits: 7amleh
   caption: 7amleh
