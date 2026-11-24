@@ -17,7 +17,7 @@ author_uids:
   - cristian-palazzi
 interviewee: 7amleh
 cover:
-  path: /media/articles/heroes/photo-taysir-3-.jpg
+  path: /media/articles/heroes/reconexión-sobre-las-ruinas-de-gaza.png
   mobile: /media/articles/mobile/photo-taysir-3-.jpg
   thumbnail: /media/articles/thumbnails/photo-taysir-3-.jpg
 related_article_uids:
