@@ -17,7 +17,7 @@ author_uids:
   - cristian-palazzi
 interviewee: 7amleh
 cover:
-  path: /media/articles/heroes/reconexión-sobre-las-ruinas-de-gaza.png
+  path: /media/articles/heroes/captura-de-pantalla-2026-11-24-a-las-19.23.15.png
   mobile: /media/articles/mobile/reconexión-sobre-las-ruinas-de-gaza.png
   thumbnail: /media/articles/thumbnails/reconexión-sobre-las-ruinas-de-gaza.png
   alt: 7amleh
