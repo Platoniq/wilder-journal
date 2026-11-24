@@ -32,7 +32,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/photo-taysir-3-.jpg
+  path: /media/articles/social/reconexión-sobre-las-ruinas-de-gaza.png
 ---
 ¿Qué significa hablar o ser silenciado cuando la esfera digital se convierte en uno de los principales campos de batalla de la lucha palestina?
 

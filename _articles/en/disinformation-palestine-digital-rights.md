@@ -29,7 +29,7 @@ stickers:
   sticker_two_animation: animation-none
 call_to_action: cta-donate
 image:
-  path: /media/articles/social/photo-taysir-3-.jpg
+  path: /media/articles/social/reconexión-sobre-las-ruinas-de-gaza.png
 ---
 What does it mean to speak or be silenced when the digital sphere becomes one of the main battlegrounds of the Palestinian struggle?
 
