@@ -18,7 +18,7 @@ author_uids:
 interviewee: 7amleh
 cover:
   path: /media/articles/heroes/reconexión-sobre-las-ruinas-de-gaza.png
-  mobile: /media/articles/mobile/photo-taysir-3-.jpg
+  mobile: /media/articles/mobile/reconexión-sobre-las-ruinas-de-gaza.png
   thumbnail: /media/articles/thumbnails/photo-taysir-3-.jpg
   alt: 7amleh
   credits: 7amleh
