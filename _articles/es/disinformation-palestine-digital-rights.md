@@ -36,142 +36,88 @@ image:
 ---
 ¿Qué significa hablar o ser silenciado cuando la esfera digital se convierte en uno de los principales campos de batalla de la lucha palestina?
 
-
 En esta entrevista con **7amleh (Centro Árabe para el Avance de las Redes Sociales)**, exploramos cómo se configuran, restringen, borran y defienden las narrativas palestinas en la esfera pública actual, dominada por las plataformas. Pasando de los sesgos estructurales incrustados en los sistemas de moderación de contenidos a la presión política que da forma a las decisiones de Meta, Google y otros actores globales, 7amleh nos guía a través de los mecanismos de la represión digital: la moderación excesiva del árabe, la permisividad hacia la incitación en hebreo, la ilusión de la neutralidad tecnológica y las profundas asimetrías de poder que definen la visibilidad online de los palestinos.
-
 
 ### **¿Podéis explicarnos qué es 7amleh?**
 
-
 **7amleh:** 7amleh es una organización palestina que trabaja por los derechos digitales. En árabe, “hamleh” significa “campaña”. El número 7 se usa porque así se representa la letra “ḥ” del árabe cuando escribimos con el alfabeto latino.
-
 
 ### **¿Cómo describís la situación actual de las voces palestinas en el espacio digital?**
 
-
 Diríamos que sigue siendo una voz muy marginal. A veces es difícil convencer a la gente de que los derechos digitales son derechos humanos. Algunas personas, especialmente ahora con el genocidio en Gaza, dicen que no es una prioridad. Pero nosotros decimos que sí lo es, porque sin derechos digitales no hay telecomunicaciones: no puedes llamar a una ambulancia ni difundir tu narrativa en las redes sociales. Cada vez más personas están hablando, palestinos y pro-palestinos, especialmente después del 7 de octubre y de la censura que siguió.
-
 
 {% quote %}En general, las políticas que se deciden dentro de Meta o Google son contrarias a los intereses palestinos {% endquote %}
 
-
 Mucha gente que antes no estaba al tanto de lo que pasaba en Palestina empezó a notar la censura en línea en plataformas como Instagram y la forma en que los medios tradicionales hablaban de los palestinos. Así fue como la voz palestina comenzó a escucharse más fuerte.
-
 
 ### **¿Creéis que existe una censura algorítmica dirigida contra estas personas?**
 
-
 Sí, hay una paradoja. Las plataformas digitales no son neutrales: son empresas con fines de lucro. Defienden sus propios intereses y no necesariamente promueven contenido que beneficie a la sociedad. Al mismo tiempo, son oportunistas: si algo se vuelve tendencia, lo impulsan, como vimos con TikTok. Pero en general, las políticas que se deciden dentro de Meta o Google son contrarias a los intereses palestinos. Hay un vínculo claro entre estas plataformas y las ideologías de extrema derecha. Han colaborado con el gobierno israelí y con Trump, promoviendo narrativas que perjudican a los palestinos.
-
 
 ### **Muchas plataformas afirman ser neutrales, pero 7amleh sostiene que esa neutralidad es una ilusión. ¿Podéis dar ejemplos concretos de cómo esta falta de neutralidad afecta a los palestinos?**
 
-
 Por ejemplo, sabemos que Meta ha moderado en exceso el contenido en árabe. Utilizan lo que llaman un *clasificador*, una base de datos de palabras para moderar un idioma, y el clasificador del árabe está sobrecargado. Hay tantas palabras marcadas como sospechosas que refleja una suposición racista de que el árabe es peligroso o está vinculado al terrorismo.
-
 
 Un ejemplo es la palabra *shahid*, que significa “mártir”. Meta la trataba como una señal de apoyo al terrorismo, pero en árabe y en el contexto palestino simplemente significa una persona que ha muerto, incluso podría ser un niño asesinado en Gaza. Meta no quiso entender estas diferencias culturales.
 
-
 Mientras tanto, la moderación del hebreo es mínima, porque Meta considera que el hebreo es un “idioma pequeño” y no una prioridad estratégica, aunque el danés, que también es un idioma pequeño, sí cuenta con un clasificador completo. En zonas de conflicto como Israel y Palestina, el hebreo debería estar bien moderado, porque hay incitación y contenido dañino. En nuestro último informe sobre Meta demostramos que la empresa permitió mensajes de odio e incitación en Instagram y Facebook, publicaciones de líderes israelíes que pedían la limpieza étnica de palestinos o violencia sexual contra mujeres en Gaza. Lo mismo ocurre con Google y YouTube: permiten ese tipo de contenido en hebreo mientras moderan en exceso los videos en árabe.
-
 
 Cuando nos dicen que se trata de “errores algorítmicos”, no lo aceptamos. Si cometen errores, deben hacerlo mejor. Estamos hablando de Facebook, Instagram, Meta, Google… son empresas más ricas que países enteros, más ricas que continentes. Pueden invertir dinero en mejorar su moderación.
 
-
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-20.08.37.png"}] } %}
-
 
 *7amleh organiza el [Palestine Digital Activism Forum 2026](https://pdaf.net/)*
 
-
 ### **7amleh ha desarrollado *The Digital Record* como una herramienta comunitaria para documentar y visibilizar la representación digital. ¿Cómo surgió esta iniciativa y cuáles son sus principales objetivos en relación con la comunidad?**
-
 
 Si las ONG no hacen este trabajo, nadie lo hará. Es una cosa decir que las plataformas no son neutrales, y otra muy distinta demostrarlo. Para realizar acciones legales o redactar informes se necesitan pruebas, y no podemos obtenerlas sin el apoyo de las comunidades.
 
-
 Queremos empoderar a los usuarios para que comprendan cómo las plataformas moldean sus narrativas y su imagen pública, y darles herramientas para defenderse. Les pedimos que compartan sus experiencias, porque cada caso individual forma parte de un patrón de discriminación sistémica.
-
 
 Les ofrecemos apoyo gratuito si su contenido es eliminado, si sus cuentas son suspendidas o si sufren *shadow banning*. Les ayudamos a presentar quejas y a oponerse a la censura. A cambio, ellos nos ayudan con evidencias: ejemplos de suspensiones de cuentas, palabras que activan sanciones, periodistas censurados, incitación en hebreo no moderada. Algunas de nuestras pruebas más valiosas provienen de trabajadores de las propias empresas tecnológicas que nos muestran comunicaciones internas que demuestran que estas decisiones son deliberadas.
 
-
 ### **¿Cómo puede utilizarse esta documentación para influir en políticas o generar conciencia?**
-
 
 Por ejemplo, en la Unión Europea tenemos la *Ley de Servicios Digitales* (DSA), una nueva normativa que regula las grandes plataformas. Incluye mecanismos para presentar quejas cuando las plataformas toman decisiones discriminatorias o erróneas en la moderación. Las pruebas que recopilamos nos permiten presentar denuncias ante la Comisión Europea. Sin pruebas, no podríamos hacerlo, por eso la documentación es fundamental.
 
-
 ### **7amleh mantiene contactos con instituciones y responsables políticos de la UE. ¿Qué tipo de relación mantenéis con ellos?**
-
 
 Nos reunimos con ellos tres o cuatro veces al año. Nos reunimos con DigiConnect, que es la oficina de la Comisión Europea encargada de la DSA, y con DigiMENA, que se centra en la región MENA y en Palestina. También colaboramos con el SEAE, el Servicio Europeo de Acción Exterior, que trabaja sobre la manipulación informativa y la influencia extranjera. Ellos suelen enfocarse en Rusia o China, pero nosotros les decimos: miren a Israel, porque también está moldeando las narrativas dentro de la UE.
 
-
 {% quote %}Sin narrativas no podemos ganar. Contar historias nos permite recordar la humanidad de las personas, algo que a veces se olvida{% endquote %}
-
 
 No es fácil trabajar con ellos: no siempre se ven resultados, pero compartimos nuestros informes y a veces conseguimos pequeños cambios, aunque lleva tiempo.
 
-
 ### **¿Creéis que las instituciones europeas están dispuestas a enfrentar los problemas de represión digital que sufren los palestinos?**
-
 
 Cuando las opiniones vienen directamente de Palestina, no creemos que les importe demasiado. Cuando les hablamos de censura en Palestina, responden que no es su problema. Pero cuando les decimos que Israel está pagando anuncios dirigidos a ciudadanos europeos, entonces sí prestan atención, porque reconocen que Israel está utilizando las mismas estrategias que Rusia o China, y eso se percibe como una amenaza a la democracia europea.
 
-
 ### **7amleh destaca la importancia de las narrativas para resistir la represión digital. ¿Cómo puede el relato convertirse en una herramienta de poder colectivo?**
-
 
 Sin narrativas no podemos ganar. Contar historias nos permite recordar la humanidad de las personas, algo que a veces se olvida. También nos da control sobre lo que se dice: en lugar de que otros cuenten nuestras historias, las contamos nosotros mismos. 
 
-
 Las redes sociales son esenciales. Por eso no pedimos boicotearlas: no tenemos alternativas sostenibles a plataformas como Instagram. Lo importante es cómo usarlas. Si comunicamos bien, podemos lograr mucho. Después del 7 de octubre, muchas personas cambiaron su visión sobre Palestina gracias a lo que vieron en redes, ya que los medios tradicionales no mostraban la realidad.
-
 
 Un buen ejemplo, aunque fuera de Palestina, es el del nuevo alcalde de Nueva York, Mamdani. No ganó solo por Instagram, pero sus mensajes sobre la crisis de vivienda y el regreso a las comunidades fueron tan fuertes en redes que incluso gente fuera de Nueva York empezó a hablar de él. Si usamos bien las plataformas, pueden beneficiarnos, aunque son herramientas complejas.
 
-
 ### **En este sentido, y hablando de narrativas, ¿qué lecciones se pueden extraer de las comunidades palestinas que enfrentan transformaciones políticas?**
-
 
 No queremos usar la palabra “resiliencia”, porque los palestinos están cansados de que se les llame resilientes. No quieren ser resilientes: quieren ser libres y vivir como cualquier otra persona. Eso es lo mínimo que merecen.
 
-
 Hemos aprendido que, incluso en medio del genocidio, de la guerra y la muerte, todavía se puede alzar la voz y compartir un mensaje. Si ese mensaje se basa en valores, ética y derechos humanos, la gente lo escucha, aunque tarde.
-
 
 Sin los palestinos compartiendo lo que ocurre en su tierra, la opinión pública no habría cambiado. Probablemente no estaríamos hablando de Sudán o de Myanmar. 
 
-
 Gracias a ellos estamos viendo cambios políticos y culturales, hacia los derechos humanos y los valores progresistas, aunque también crece la extrema derecha. Es un equilibrio, pero sin ellos no tendríamos una juventud tan politizada ni personas dispuestas a oponerse a sus gobiernos. Eso es muy poderoso, especialmente después del COVID y de años de apatía política.
-
 
 ### **Para un ciudadano común, ¿qué se puede hacer para apoyar o participar en este proceso de resistencia y solidaridad digital?**
 
-
 Compartir información veraz. Seguir a periodistas y medios fiables. Publicar en redes, aunque sean cosas pequeñas. Sabemos que mucha gente teme perder su trabajo o ser juzgada, pero incluso una publicación simple, aunque no sea política, puede marcar la diferencia.
-
 
 Alza la voz. Una persona puede influir en otra. Apoya a las organizaciones de base, involúcrate en tu barrio o comunidad. No puede haber cambio político sin el apoyo de las comunidades. A veces pensamos que una persona no basta, pero una puede cambiar la opinión de otra. Compartir información veraz y seguir plataformas que apoyan la acción digital por Palestina es clave.
 
-
 {% gallery { "simple": true, "images": [{"path":"/media/captura-de-pantalla-2025-11-17-a-las-15.22.49.png"}] } %}
 
-
 *Consulta el informe completo, [aquí](https://7amleh.org/post/digital-divide-en)*
-
-
-## ***Conclusiones***
-
-
-De esta conversación con 7amleh se desprende una verdad simple pero inquietante: los derechos digitales no son un accesorio de la lucha política, sino que forman parte de su núcleo. En el contexto palestino, la esfera digital no es solo un espacio de expresión, sino un frágil salvavidas en el que la documentación, la memoria y la supervivencia dependen de infraestructuras diseñadas en lugares lejanos y regidas por decisiones opacas y, a menudo, hostiles.
-
-
-La conversación deja claro que lo que está en juego no es abstracto. Los sistemas de moderación de contenidos, los clasificadores lingüísticos, las políticas de las plataformas, la segmentación publicitaria y la invisibilidad algorítmica se convierten en instrumentos que pueden amplificar la voz de una comunidad o borrarla. En Palestina, estas decisiones técnicas determinan quién es escuchado, quién es vilipendiado y quién se vuelve invisible en un momento en el que la visibilidad significa protección.
-
-
-Esto resuena profundamente con el compromiso de la fundación Platoniq de construir espacios digitales más seguros. No «seguros» en el sentido de aislamiento o neutralidad, algo que las plataformas no suelen proporcionar, sino más seguros en el sentido de estar diseñados conscientemente para reducir el daño, centrar las voces marginadas y hacer visibles las dinámicas de poder que determinan la participación. Un espacio (más) seguro no es simplemente una sala digital. Es un compromiso político: con la transparencia, la rendición de cuentas, la gobernanza dirigida por la comunidad y la protección de los más vulnerables al borrado.
 
 
