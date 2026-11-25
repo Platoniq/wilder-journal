@@ -126,6 +126,8 @@ Gilles Deleuze y Félix Guattari nos dejaron herramientas precisas para pensar e
 
 Frente a ese régimen propusieron el rizoma: un sistema sin centro, en el que cualquier punto puede conectarse con cualquier otro, hecho de multiplicidades y no de unidades, y que produce mapas abiertos en lugar de calcos de lo ya conocido. GRID intenta funcionar como un mapa y no como un calco. El Joker, el Filósofo y el Deliberator no son fragmentos de una verdad que, sumados, darían la respuesta completa. Son entradas distintas a un mismo problema, que pueden conectarse, contradecirse o quedar en suspenso. Conviene precisarlo: lo «esquizo» en Deleuze y Guattari no es una figura clínica ni un elogio de la enfermedad, sino el nombre de un proceso que deshace los códigos únicos. Las múltiples personalidades de GRID no fragmentan un sujeto; impiden que una sola voz se apropie del problema.
 
+{% gallery { "simple": false, "images": [{"path":"/media/2496_002_l.jpg","alt":"Henri Michaux, Sense títol, ca. 1979","caption":"Henri Michaux, Sense títol, ca. 1979","credits":"Col·lecció MACBA"}] } %}
+
 Por eso GRID es, a propósito, una máquina paradójica. En *Lógica del sentido* (1969), Deleuze opone la paradoja al buen sentido, que impone una única dirección, y al sentido común, que fija identidades. La paradoja afirma dos sentidos a la vez. GRID no resuelve la tensión entre sus voces: la sostiene, porque es ahí donde aparece lo que ninguna de ellas puede ver por separado.
 
 En este marco, la incertidumbre no es un defecto que haya que corregir, sino la condición misma de la anticipación. En *Diferencia y repetición* (1968), Deleuze distingue lo posible, un futuro que se parece al presente porque no es más que su copia proyectada hacia delante, de lo virtual, que solo se actualiza creando diferencia. La profecía trabaja con lo posible: anuncia un mañana que ya cree conocer. Anticipar, en cambio, exige mantener abierto lo que todavía no sabemos, y por eso necesita varias miradas a la vez.
@@ -136,15 +138,13 @@ Aquí entra la interdependencia. Para Deleuze y Guattari, quien habla nunca es u
 
 Buena parte de la conversación sobre IA y participación gira en torno a cómo usar esta tecnología para ganar escala, reducir costes, sintetizar aportaciones o acelerar procesos colectivos. GRID plantea otra pregunta: ¿de qué se alimenta una IA, y qué cambia esa alimentación en lo que puede ver y decir?
 
-La pregunta no es menor. Hoy el conocimiento con el que se entrenan los grandes modelos se ha convertido en una mercancía: hay empresas dedicadas a vender bases de datos limpias, y [algunas voces críticas](https://www.eldiario.es/opinion/zona-critica/millones-libros-desguazados-alimentar-ia_129_13461727.html) denuncian que Anthropic llegó a escanear y destruir millones de libros para entrenar su modelo. Frente a esa lógica extractiva, GRID prueba el camino contrario: un corpus pequeño, elegido a conciencia y con nombre y apellidos.
+La pregunta no es menor. Hoy el conocimiento con el que se entrenan los grandes modelos se ha convertido en una mercancía: hay empresas dedicadas a vender bases de datos limpias, y algunas voces críticas denuncian que Anthropic llegó a escanear y destruir millones de libros para entrenar su modelo. Frente a esa lógica extractiva, GRID prueba el camino contrario: un corpus pequeño, elegido a conciencia y con nombre y apellidos.
 
 El corpus de GRID parte de una biblioteca offline de libros en PDF reunida durante más de veinte años. Hoy contiene 6.328 títulos, de los que GRID utiliza 97 referencias seleccionadas según los valores de la democracia deliberativa.
 
 Esas referencias se agrupan en dos grandes familias epistemológicas. La primera reúne el Teatro Legislativo: canon, metodologías y casos vinculados al Teatro del Oprimido, la facilitación, la participación performativa, el conflicto, la experiencia encarnada y la traducción de experiencias colectivas en acción política. La segunda reúne la filosofía política y crítica, la teoría poscolonial y decolonial, los feminismos, la pedagogía crítica, las teorías del poder, la representación y la epistemología.
 
 El material se ordena en tres «estanterías»: **Canon**, para los marcos teóricos y normativos; **Métodos**, para los procedimientos y herramientas; y **Casos**, para las experiencias situadas y la evidencia práctica. El canon sirve para interpretar; los métodos, para pasar de las ideas a dispositivos concretos; los casos, para contrastar qué ocurrió cuando esas metodologías se pusieron en práctica.
-
-{% gallery { "simple": false, "images": [{"path":"/media/2496_002_l.jpg","alt":"Henri Michaux, Sense títol, ca. 1979","caption":"Henri Michaux, Sense títol, ca. 1979","credits":"Col·lecció MACBA"}] } %}
 
 Técnicamente, GRID no «lee todo el corpus» ni elige una referencia por su fama. Mediante recuperación semántica (RAG), busca los fragmentos conceptualmente más cercanos a la pregunta y construye la respuesta a partir de ellos. El recorrido es sencillo: pregunta, búsqueda de fragmentos relevantes, selección y generación fundamentada.
 
