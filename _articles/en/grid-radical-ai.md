@@ -38,8 +38,6 @@ call_to_action: cta-donate
 image:
   path: /media/articles/social/dibujo-y-elemento-blanco.png
 ---
-*An assembly has been debating for two hours. An AI-generated summary appears on the screen: tidy, clear, reasonable. Almost everyone nods. Only one person raises a hand to say that their objection is no longer there. Nobody rejected it. The synthesis simply did not need it.*
-
 ## **Hypothesis**
 
 The democratic challenge of artificial intelligence is not only about making participation more efficient. It is about deciding what roles we want it to play, what knowledge it speaks from, and how it can complement, without replacing, the voices, judgement and responsibility of the people who deliberate.
